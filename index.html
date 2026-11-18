@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>DAZMOND &amp; Co. — American Luxury House</title>
+<meta name="description" content="DAZMOND & Co. — Casa de moda de lujo americana. Prendas únicas, ediciones irrepetibles y envíos a todo el mundo.">
+<meta name="theme-color" content="#000000">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%23000'/%3E%3Ctext x='50' y='70' font-size='64' text-anchor='middle' fill='%23C5A059' font-family='serif'%3ED%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+
+<!-- Barra superior: idioma y divisa -->
+<div class="topbar">
+  <div class="topbar-msg" id="topMsg"></div>
+  <div class="topbar-switches">
+    <button class="switch" id="langBtn" aria-label="Idioma / Language">ES | EN</button>
+    <button class="switch" id="curBtn" aria-label="Divisa / Currency">USD $</button>
+  </div>
+</div>
+
+<!-- Cabecera fija -->
+<header class="header">
+  <div class="header-left">
+    <button class="icon-btn" id="searchBtn" aria-label="Buscar"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></button>
+    <button class="icon-btn" id="menuBtn" aria-label="Menú"><svg viewBox="0 0 24 24"><path d="M4 8h16M4 16h16"/></svg></button>
+  </div>
+  <a href="#/" class="logo" aria-label="DAZMOND & Co.">Dazmond <span>&amp;</span> Co.</a>
+  <div class="header-right">
+    <a href="#/cuenta" class="icon-btn" aria-label="Mi cuenta / Favoritos"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg><span class="count" id="favCount"></span></a>
+    <button class="icon-btn" id="cartBtn" aria-label="Carrito"><svg viewBox="0 0 24 24"><path d="M5 8h14l-1.2 12H6.2z"/><path d="M9 8V6a3 3 0 016 0v2"/></svg><span class="count" id="cartCount"></span></button>
+  </div>
+</header>
+
+<!-- Menú principal -->
+<nav class="mainnav" id="mainNav" aria-label="Menú principal"></nav>
+<div class="megamenu" id="megaMenu" hidden></div>
+
+<!-- Contenido (se cambia sin recargar la página) -->
+<main id="app" tabindex="-1"></main>
+
+<!-- Suscripción -->
+<section class="subscribe" id="subscribe">
+  <p class="eyebrow" data-i18n="sub_eyebrow"></p>
+  <h2 data-i18n="sub_title"></h2>
+  <p class="muted" data-i18n="sub_text"></p>
+  <form id="subForm" class="sub-form">
+    <input type="email" name="EMAIL" required autocomplete="email" data-i18n-ph="sub_ph">
+    <button type="submit" class="btn" data-i18n="sub_btn"></button>
+  </form>
+  <p class="sub-msg" id="subMsg" role="status"></p>
+  <iframe name="subFrame" id="subFrame" hidden title="subscribe"></iframe>
+</section>
+
+<!-- Pie oficial -->
+<footer class="footer">
+  <div class="footer-logo">Dazmond <span>&amp;</span> Co.</div>
+  <nav class="social" id="social" aria-label="Redes sociales"></nav>
+  <div class="footer-cols">
+    <div>
+      <h4 data-i18n="f_house"></h4>
+      <a href="#/identidad" data-i18n="f_identity"></a>
+      <a href="#/identidad#campanas" data-i18n="f_campaigns"></a>
+      <a href="#/c/decor" data-i18n="f_decor"></a>
+    </div>
+    <div>
+      <h4 data-i18n="f_help"></h4>
+      <a href="#/legal/envios" data-i18n="l_envios"></a>
+      <a href="#/legal/devoluciones" data-i18n="l_devoluciones"></a>
+      <a href="#/cuenta" data-i18n="f_account"></a>
+    </div>
+    <div>
+      <h4 data-i18n="f_legal"></h4>
+      <a href="#/legal/aviso" data-i18n="l_aviso"></a>
+      <a href="#/legal/privacidad" data-i18n="l_privacidad"></a>
+      <a href="#/legal/terminos" data-i18n="l_terminos"></a>
+      <a href="#/legal/cookies" data-i18n="l_cookies"></a>
+    </div>
+  </div>
+  <p class="secure" data-i18n="secure"></p>
+  <div class="payments" aria-label="Métodos de pago">
+    <span>Stripe</span><span>Visa</span><span>Mastercard</span><span>Amex</span><span>PayPal</span><span>Apple Pay</span><span>Google Pay</span>
+  </div>
+  <p class="copyright" id="copyright"></p>
+</footer>
+
+<!-- Buscador -->
+<div class="overlay" id="searchOverlay" hidden>
+  <div class="overlay-inner">
+    <div class="search-row">
+      <input type="search" id="searchInput" data-i18n-ph="search_ph" autocomplete="off">
+      <button class="icon-btn" data-close="searchOverlay" aria-label="Cerrar">✕</button>
+    </div>
+    <div class="grid" id="searchResults"></div>
+  </div>
+</div>
+
+<!-- Carrito -->
+<aside class="drawer" id="cartDrawer" hidden>
+  <div class="drawer-head">
+    <h3 data-i18n="cart"></h3>
+    <button class="icon-btn" data-close="cartDrawer" aria-label="Cerrar">✕</button>
+  </div>
+  <div id="cartItems" class="drawer-body"></div>
+  <div class="drawer-foot" id="cartFoot"></div>
+</aside>
+<div class="backdrop" id="backdrop" hidden></div>
+
+<!-- Visor de zoom -->
+<div class="lightbox" id="lightbox" hidden><button class="close" id="lbClose" aria-label="Cerrar">✕</button><img id="lbImg" alt=""></div>
+
+<script src="assets/app.js" defer></script>
+</body>
+</html>

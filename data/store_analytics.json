@@ -1,0 +1,48 @@
+{
+  "updated": "2026-11-18T23:30:57Z",
+  "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
+  "products": {
+    "printful-demo-001": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0
+    },
+    "printify-demo-002": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0
+    },
+    "popcustoms-demo-003": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0
+    },
+    "interestprint-demo-004": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0
+    },
+    "inkpod-demo-005": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0
+    },
+    "printful-demo-006": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0
+    }
+  }
+}

@@ -1,0 +1,621 @@
+/* DAZMOND & Co. — Tienda (JavaScript sin dependencias) */
+(function () {
+  'use strict';
+
+  /* ---------- Guardado local seguro ---------- */
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* sin almacenamiento */ } }
+  };
+
+  /* ---------- Textos ES / EN ---------- */
+  const T = {
+    es: {
+      topbar: 'Envíos a todo el mundo · Confección bajo demanda · Pago seguro',
+      hero_eyebrow: 'Casa de moda americana · Registrada en EE. UU.',
+      hero_title: 'DAZMOND & Co.',
+      hero_text: 'Prendas únicas, ediciones irrepetibles y una forma nueva de entender el lujo: exclusivo, cercano y a un precio accesible.',
+      hero_cta: 'Descubrir la colección',
+      private_eyebrow: 'Colección Privada', private_title: 'Dos universos, una firma',
+      men: 'Hombre', women: 'Mujer', explore: 'Explorar',
+      couture_eyebrow: 'Alta Costura a Medida', couture_title: 'El lujo que se crea para ti',
+      p1_t: 'Confección Bajo Demanda', p1_d: 'Cada pieza se produce solo cuando la pides. Sin excedentes, sin prisas, con mimo en cada detalle.',
+      p2_t: 'Ediciones Irrepetibles', p2_d: 'Diseños en tiradas limitadas que no encontrarás en ninguna otra parte.',
+      p3_t: 'Experiencia VIP', p3_d: 'Atención personal, envío con seguimiento a todo el mundo y pago protegido de principio a fin.',
+      shoes_eyebrow: 'Calzado', shoes_title: 'El Arte del Calzado a Medida',
+      shoes_text: 'Botas, zapatos elegantes y zapatillas producidos bajo pedido para hombre y mujer. Diseño de autor, acabados cuidados y una pisada que se reconoce.',
+      shoes_cta: 'Ver calzado', featured: 'Las piezas más deseadas',
+      sub_eyebrow: 'Círculo DAZMOND', sub_title: 'Acceso anticipado a lanzamientos exclusivos',
+      sub_text: 'Recibe las novedades de la casa antes que nadie.', sub_ph: 'Tu correo electrónico', sub_btn: 'Unirme',
+      sub_ok: 'Gracias. Ya formas parte del Círculo DAZMOND.', sub_soon: 'La suscripción estará disponible muy pronto.',
+      f_house: 'La Maison', f_identity: 'La Identidad', f_campaigns: 'Campañas y Publicidad', f_decor: 'Decor & Lifestyle',
+      f_help: 'Ayuda', f_account: 'Mi cuenta', f_legal: 'Legal',
+      l_aviso: 'Aviso legal', l_privacidad: 'Privacidad', l_terminos: 'Términos y condiciones', l_cookies: 'Cookies',
+      l_envios: 'Envíos', l_devoluciones: 'Devoluciones',
+      search_ph: 'Buscar en DAZMOND & Co.', cart: 'Tu selección', cart_empty: 'Tu selección está vacía.',
+      total: 'Total', checkout: 'Pagar de forma segura', pay_item: 'Pagar esta pieza',
+      multi_note: 'Cada pieza se paga en su propia página segura de Stripe.',
+      fx_note: 'El cobro se realiza en USD. El importe en EUR es orientativo.',
+      add: 'Añadir a mi selección', buy: 'Comprar ahora', added: 'Añadido a tu selección',
+      size: 'Talla', choose_size: 'Elige tu talla', soon: 'Disponible muy pronto',
+      look: 'Completa el Look', all: 'Ver todo', availability: 'Disponibilidad', any: 'Todas',
+      instock: 'Disponible', price: 'Precio', min: 'Mín.', max: 'Máx.', sort: 'Ordenar por',
+      s_featured: 'Destacados', s_low: 'Precio: menor a mayor', s_high: 'Precio: mayor a menor', s_new: 'Novedades',
+      empty: 'Muy pronto llegarán nuevas piezas a esta sección.', results: 'piezas',
+      tr1: '✦ Confección bajo demanda', tr2: '✦ Envío internacional con seguimiento', tr3: '✦ Pago 100 % seguro con Stripe',
+      account: 'Mi Cuenta', favs: 'Mis Favoritos', no_favs: 'Aún no has guardado favoritos. Pulsa ♡ en cualquier pieza.',
+      login: 'Iniciar sesión con Google', logout: 'Cerrar sesión', guest: 'Puedes comprar sin registrarte. Si inicias sesión, tus favoritos te acompañan en todos tus dispositivos.',
+      local_favs: 'Tus favoritos se guardan en este dispositivo.', hello: 'Bienvenido/a',
+      orders_note: 'Tras cada compra recibirás el recibo y el seguimiento en tu correo.',
+      thanks_t: 'Gracias por tu compra', thanks_d: 'Hemos recibido tu pedido. En breve recibirás la confirmación por correo electrónico.',
+      back: 'Volver a la tienda',
+      b_top1: 'Nº 1 en Ventas', b_bestseller: 'Más vendido', b_lowstock: 'Edición Limitada · Últimas unidades', b_hot: 'Alta demanda', b_new: 'Novedad',
+      secure: 'Pago 100 % seguro', until: 'Hasta el', gifts: 'Selección de regalos', offers_t: 'La selección de la campaña', view_all: 'Ver toda la selección', men_cta: 'Descubrir Hombre', women_cta: 'Descubrir Mujer',
+      d_make: 'Detalles de confección', d_ship: 'Envío y devoluciones', d_ship_t: 'Confección en 2–7 días laborables y envío internacional con seguimiento en 5–15 días laborables. Devolución o reposición gratuita si la pieza llega defectuosa.', d_material: 'Material', d_color: 'Color', d_made: 'Confeccionada bajo demanda, solo para ti.', zoom: 'Toca la imagen para ampliarla', camp_off: 'Ahora no hay ninguna campaña activa.'
+    },
+    en: {
+      topbar: 'Worldwide shipping · Made to order · Secure checkout',
+      hero_eyebrow: 'American fashion house · Registered in the USA',
+      hero_title: 'DAZMOND & Co.',
+      hero_text: 'One-of-a-kind pieces, limited editions and a new way to experience luxury: exclusive, personal and accessibly priced.',
+      hero_cta: 'Discover the collection',
+      private_eyebrow: 'Private Collection', private_title: 'Two worlds, one signature',
+      men: 'Men', women: 'Women', explore: 'Explore',
+      couture_eyebrow: 'Made-to-Measure Couture', couture_title: 'Luxury created for you',
+      p1_t: 'Made to Order', p1_d: 'Every piece is produced only when you order it. No overstock, no rush, care in every detail.',
+      p2_t: 'One-of-a-Kind Editions', p2_d: 'Limited-run designs you will not find anywhere else.',
+      p3_t: 'VIP Experience', p3_d: 'Personal attention, worldwide tracked shipping and protected payment from start to finish.',
+      shoes_eyebrow: 'Footwear', shoes_title: 'The Art of Made-to-Order Footwear',
+      shoes_text: 'Boots, dress shoes and sneakers produced to order for men and women. Signature design, refined finishes and a step that stands out.',
+      shoes_cta: 'Shop footwear', featured: 'The most coveted pieces',
+      sub_eyebrow: 'The DAZMOND Circle', sub_title: 'Early access to exclusive releases',
+      sub_text: 'Be the first to hear about new arrivals from the house.', sub_ph: 'Your email address', sub_btn: 'Join',
+      sub_ok: 'Thank you. You are now part of the DAZMOND Circle.', sub_soon: 'Subscriptions will open very soon.',
+      f_house: 'The Maison', f_identity: 'Our Identity', f_campaigns: 'Campaigns & Advertising', f_decor: 'Decor & Lifestyle',
+      f_help: 'Help', f_account: 'My account', f_legal: 'Legal',
+      l_aviso: 'Legal notice', l_privacidad: 'Privacy', l_terminos: 'Terms & conditions', l_cookies: 'Cookies',
+      l_envios: 'Shipping', l_devoluciones: 'Returns',
+      search_ph: 'Search DAZMOND & Co.', cart: 'Your selection', cart_empty: 'Your selection is empty.',
+      total: 'Total', checkout: 'Secure checkout', pay_item: 'Pay for this piece',
+      multi_note: 'Each piece is paid on its own secure Stripe page.',
+      fx_note: 'You are charged in USD. EUR amounts are approximate.',
+      add: 'Add to my selection', buy: 'Buy now', added: 'Added to your selection',
+      size: 'Size', choose_size: 'Choose your size', soon: 'Available very soon',
+      look: 'Complete the Look', all: 'View all', availability: 'Availability', any: 'All',
+      instock: 'In stock', price: 'Price', min: 'Min', max: 'Max', sort: 'Sort by',
+      s_featured: 'Featured', s_low: 'Price: low to high', s_high: 'Price: high to low', s_new: 'Newest',
+      empty: 'New pieces are arriving in this section very soon.', results: 'pieces',
+      tr1: '✦ Made to order', tr2: '✦ International tracked shipping', tr3: '✦ 100% secure checkout by Stripe',
+      account: 'My Account', favs: 'My Favorites', no_favs: 'No favorites yet. Tap ♡ on any piece.',
+      login: 'Sign in with Google', logout: 'Sign out', guest: 'You can shop without an account. Sign in to keep your favorites on all your devices.',
+      local_favs: 'Your favorites are saved on this device.', hello: 'Welcome',
+      orders_note: 'After each purchase you will receive your receipt and tracking by email.',
+      thanks_t: 'Thank you for your order', thanks_d: 'We have received your order. You will receive an email confirmation shortly.',
+      back: 'Back to the store',
+      b_top1: 'No. 1 Best Seller', b_bestseller: 'Best Seller', b_lowstock: 'Limited Edition · Last pieces', b_hot: 'In high demand', b_new: 'New',
+      secure: '100% secure payment', until: 'Until', gifts: 'The gift selection', offers_t: 'The campaign selection', view_all: 'View the full selection', men_cta: 'Discover Men', women_cta: 'Discover Women',
+      d_make: 'Tailoring details', d_ship: 'Shipping & returns', d_ship_t: 'Made in 2–7 business days and shipped internationally with tracking in 5–15 business days. Free replacement or refund if your piece arrives defective.', d_material: 'Material', d_color: 'Colour', d_made: 'Made to order, just for you.', zoom: 'Tap the image to zoom in', camp_off: 'There is no active campaign right now.'
+    }
+  };
+
+  /* ---------- Estado ---------- */
+  const S = {
+    lang: store.get('dz_lang', null),
+    cur: store.get('dz_cur', null),
+    cfg: {}, catalog: { menus: [] }, products: [], byId: {}, camp: { active: false },
+    favs: store.get('dz_favs', []), cart: store.get('dz_cart', []),
+    user: null, db: null
+  };
+  const $ = (s, el) => (el || document).querySelector(s);
+  const $$ = (s, el) => Array.from((el || document).querySelectorAll(s));
+  const t = k => (T[S.lang] && T[S.lang][k]) || T.es[k] || k;
+  const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const L = o => (o && (o[S.lang] || o.es)) || '';
+  const app = $('#app');
+
+  /* ---------- Precios y divisa ---------- */
+  function rate() { return S.cur === 'EUR' ? (S.cfg.fx && S.cfg.fx.EUR) || 0.92 : 1; }
+  function money(usd) {
+    const v = usd * rate();
+    return new Intl.NumberFormat(S.cur === 'USD' ? 'en-US' : (S.lang === 'es' ? 'es-ES' : 'en-IE'),
+      { style: 'currency', currency: S.cur, maximumFractionDigits: 0 }).format(Math.round(v));
+  }
+
+  const imgs = p => p.display_images || p.images || [];
+  const priceNow = p => (p.offer ? p.offer.price_usd : p.price_usd);
+  function priceHTML(p) {
+    if (!p.price_usd) return t('soon');
+    if (p.offer) return `${money(p.offer.price_usd)}<s>${money(p.offer.ref_price_usd)}</s><span class="pct">−${p.offer.pct}%</span>`;
+    return money(p.price_usd);
+  }
+  function fdate(iso) {
+    try { return new Date(iso + 'T12:00:00').toLocaleDateString(S.lang === 'es' ? 'es-ES' : 'en-US', { day: 'numeric', month: 'long' }); } catch (e) { return iso; }
+  }
+
+  /* ---------- Carga de datos ---------- */
+  async function getJSON(url, d) {
+    try { const r = await fetch(url, { cache: 'no-cache' }); return r.ok ? await r.json() : d; } catch (e) { return d; }
+  }
+
+  async function init() {
+    const [cfg, catalog, prod, camp] = await Promise.all([
+      getJSON('data/config.json', {}), getJSON('data/catalog.json', { menus: [] }), getJSON('data/products.json', { products: [] }),
+      getJSON('data/campaign.json', { active: false })
+    ]);
+    S.cfg = cfg; S.catalog = catalog; S.camp = camp || { active: false };
+    S.products = (prod.products || []).slice().sort((a, b) => (a.rank || 999) - (b.rank || 999));
+    S.products.forEach(p => { S.byId[p.id] = p; });
+    if (!S.lang) S.lang = (navigator.language || 'es').toLowerCase().startsWith('es') ? 'es' : (cfg.default_lang || 'en');
+    if (!S.cur) S.cur = S.lang === 'es' && /^es|^fr|^de|^it|^pt|^nl/.test((navigator.language || '').toLowerCase()) ? 'EUR' : (cfg.default_currency || 'USD');
+    bindUI(); applyStatic(); renderNav(); route(); updateCounts(); initFirebase();
+  }
+
+  /* ---------- Textos fijos y botones ---------- */
+  function applyStatic() {
+    document.documentElement.lang = S.lang;
+    $$('[data-i18n]').forEach(el => { el.textContent = t(el.dataset.i18n); });
+    $$('[data-i18n-ph]').forEach(el => { el.placeholder = t(el.dataset.i18nPh); });
+    $('#langBtn').innerHTML = S.lang === 'es' ? '<b>ES</b> | EN' : 'ES | <b>EN</b>';
+    $('#curBtn').textContent = S.cur === 'EUR' ? 'EUR €' : 'USD $';
+    const c = S.camp.active && S.camp[S.lang];
+    $('#topMsg').innerHTML = c ? `<a href="#/campana">${esc(c.eyebrow)} · ${esc(c.title)}</a>` : esc(t('topbar'));
+    const so = S.cfg.social || {};
+    $('#social').innerHTML = [['Instagram', so.instagram, '@dazmondco'], ['TikTok', so.tiktok, '@dazmond.com'], ['Threads', so.threads, '@dazmondco']]
+      .filter(x => x[1]).map(x => `<a href="${esc(x[1])}" target="_blank" rel="noopener me">${x[0]}<small>${x[2]}</small></a>`).join('');
+    const y = new Date().getFullYear();
+    $('#copyright').textContent = `© ${y} DAZMOND & Co. · ${S.cfg.company || ''} · ${S.lang === 'es' ? 'Todos los derechos reservados' : 'All rights reserved'}.`;
+  }
+
+  function bindUI() {
+    $('#langBtn').onclick = () => { S.lang = S.lang === 'es' ? 'en' : 'es'; store.set('dz_lang', S.lang); refresh(); };
+    $('#curBtn').onclick = () => { S.cur = S.cur === 'USD' ? 'EUR' : 'USD'; store.set('dz_cur', S.cur); refresh(); };
+    $('#menuBtn').onclick = () => { $('#mainNav').classList.toggle('open'); closeMega(); };
+    $('#searchBtn').onclick = () => openLayer('searchOverlay', () => $('#searchInput').focus());
+    $('#cartBtn').onclick = () => { renderCart(); openLayer('cartDrawer'); };
+    $('#backdrop').onclick = closeLayers;
+    $$('[data-close]').forEach(b => { b.onclick = closeLayers; });
+    $('#lbClose').onclick = () => { $('#lightbox').hidden = true; document.body.style.overflow = ''; };
+    $('#lbImg').onclick = () => $('#lbClose').click();
+    $('#searchInput').oninput = e => renderSearch(e.target.value);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') { closeLayers(); closeMega(); } });
+    window.addEventListener('hashchange', () => { closeMega(); route(); });
+    $('#subForm').onsubmit = subscribe;
+    document.addEventListener('click', e => {
+      const fav = e.target.closest('[data-fav]');
+      if (fav) { e.preventDefault(); toggleFav(fav.dataset.fav); return; }
+      if (!e.target.closest('#megaMenu') && !e.target.closest('#mainNav')) closeMega();
+    });
+  }
+
+  function refresh() { applyStatic(); renderNav(); route(); if (!$('#cartDrawer').hidden) renderCart(); }
+  function openLayer(id, cb) { $('#' + id).hidden = false; if (id === 'cartDrawer') $('#backdrop').hidden = false; document.body.style.overflow = 'hidden'; if (cb) cb(); }
+  function closeLayers() { ['searchOverlay', 'cartDrawer', 'backdrop'].forEach(id => { $('#' + id).hidden = true; }); document.body.style.overflow = ''; }
+  function toast(msg) { const d = document.createElement('div'); d.className = 'toast'; d.textContent = msg; document.body.appendChild(d); setTimeout(() => d.remove(), 2200); }
+
+  /* ---------- Menú principal ---------- */
+  function renderNav() {
+    $('#mainNav').innerHTML = S.catalog.menus.map(m => {
+      if (m.page) return `<a href="#/${m.page}">${esc(L(m))}</a>`;
+      if (m.direct) return `<a href="#/c/${m.direct}">${esc(L(m))}</a>`;
+      return `<button data-menu="${m.id}">${esc(L(m))}</button>`;
+    }).join('');
+    $$('#mainNav [data-menu]').forEach(b => { b.onclick = () => openMega(b.dataset.menu); });
+  }
+  function openMega(id) {
+    const mm = $('#megaMenu'), m = S.catalog.menus.find(x => x.id === id);
+    if (!mm.hidden && mm.dataset.id === id) { closeMega(); return; }
+    mm.dataset.id = id;
+    mm.innerHTML = `<div class="cols${m.groups.length === 2 ? ' two' : ''}">${m.groups.map(g => `<div><h4>${esc(L(g))}</h4>
+      <a class="all" href="#/c/${g.id}">${t('all')} →</a>
+      ${g.items.map(i => `<a href="#/c/${g.id}/${i.id}">${esc(L(i))}</a>`).join('')}</div>`).join('')}</div>`;
+    mm.hidden = false;
+  }
+  function closeMega() { $('#megaMenu').hidden = true; }
+
+  /* ---------- Rutas ---------- */
+  function route() {
+    const raw = location.hash.replace(/^#\/?/, '');
+    const [path, anchor] = raw.split('#');
+    const parts = path.split('/').filter(Boolean);
+    window.scrollTo(0, 0);
+    if (!parts.length) homeView();
+    else if (parts[0] === 'c') listView(parts[1], parts[2]);
+    else if (parts[0] === 'p') productView(parts[1]);
+    else if (parts[0] === 'identidad') identityView();
+    else if (parts[0] === 'cuenta') accountView();
+    else if (parts[0] === 'legal') legalView(parts[1]);
+    else if (parts[0] === 'gracias') thanksView();
+    else if (parts[0] === 'campana') campaignView();
+    else homeView();
+    $$('#mainNav a, #mainNav button').forEach(el => el.classList.toggle('active',
+      (el.getAttribute('href') || '').includes('/' + (parts[1] || parts[0])) || el.dataset.menu === (parts[1] || '').replace(/^calzado-.*/, 'calzado')));
+    if (anchor) setTimeout(() => { const a = document.getElementById(anchor); if (a) a.scrollIntoView(); }, 50);
+    app.focus({ preventScroll: true });
+  }
+
+  /* ---------- Tarjeta de producto ---------- */
+  function card(p) {
+    const fav = S.favs.includes(p.id);
+    const im = imgs(p)[0];
+    const img = im ? `<img src="${esc(im)}" alt="${esc(p['name_' + S.lang])}" loading="lazy" decoding="async">` : '<span class="ph">D</span>';
+    return `<a class="card${p.available === false ? ' soldout' : ''}" href="#/p/${p.id}">
+      ${p.badge ? `<span class="badge">${t('b_' + p.badge)}</span>` : ''}
+      <button class="fav" data-fav="${p.id}" aria-label="${t('favs')}">${fav ? '♥' : '♡'}</button>
+      <div class="img">${img}</div>
+      <div class="info"><div class="name">${esc(p['name_' + S.lang] || p.name_en)}</div>
+      <div class="price">${priceHTML(p)}</div></div></a>`;
+  }
+  const grid = list => list.length ? list.map(card).join('') : `<p class="empty">${t('empty')}</p>`;
+  const picks = ids => (ids || []).map(id => S.byId[id]).filter(Boolean);
+
+  /* ---------- Portada ---------- */
+  function homeView() {
+    document.title = 'DAZMOND & Co. — American Luxury House';
+    const c = S.camp.active && S.camp[S.lang];
+    const hero = S.cfg.hero_image ? `<img src="${esc(S.cfg.hero_image)}" alt="">` : '';
+    const top = S.products.filter(p => p.available !== false);
+    const sel = picks(S.camp.gifts && S.camp.gifts.length ? S.camp.gifts : S.camp.offers).slice(0, 4);
+    const men = top.find(p => (p.categories || []).some(x => x.startsWith('hombre/')) && imgs(p)[0]);
+    const women = top.find(p => (p.categories || []).some(x => x.startsWith('mujer/')) && imgs(p)[0]);
+    const shoe = top.find(p => (p.categories || []).some(x => x.startsWith('calzado-')) && imgs(p)[0]);
+    app.innerHTML = `
+    <section class="hero">
+      <div class="hero-bg">${hero}</div>
+      ${c ? `<p class="eyebrow">${esc(c.eyebrow)}</p><p class="camp">${esc(c.title)}</p>` : `<p class="eyebrow">${t('hero_eyebrow')}</p>`}
+      <h1>Dazmond <i>&amp;</i> Co.</h1>
+      <p class="lead">${c ? esc(c.text) : t('hero_text')}</p>
+      <div class="ctas">${c ? `<a class="btn" href="#/campana">${esc(c.cta)}</a>` : ''}<a class="btn${c ? '' : ' btn-solid'}" href="#/c/mujer">${t('hero_cta')}</a></div>
+    </section>
+    <section>
+      <div class="section-head" style="padding:80px 16px 0"><p class="eyebrow">${t('private_eyebrow')}</p><h2>${t('private_title')}</h2><div class="rule"></div></div>
+      <div class="duo" style="margin-top:50px">
+        <a href="#/c/hombre" data-mono="H">${men ? `<img src="${esc(imgs(men)[0])}" alt="" loading="lazy">` : ''}<div class="in"><h3>${t('men')}</h3><span class="link-u">${t('men_cta')}</span></div></a>
+        <a href="#/c/mujer" data-mono="M">${women ? `<img src="${esc(imgs(women)[0])}" alt="" loading="lazy">` : ''}<div class="in"><h3>${t('women')}</h3><span class="link-u">${t('women_cta')}</span></div></a>
+      </div>
+    </section>
+    ${c && sel.length ? `<section class="campaign">
+      <p class="eyebrow">${esc(c.eyebrow)}</p><h2>${t(S.camp.gifts && S.camp.gifts.length ? 'gifts' : 'offers_t')}</h2>
+      <p>${esc(c.text)}</p>${S.camp.ends ? `<p class="ends">${t('until')} ${fdate(S.camp.ends)}</p>` : ''}
+      <div class="grid" style="max-width:1200px;margin:0 auto 34px;text-align:left">${sel.map(card).join('')}</div>
+      <a class="btn" href="#/campana">${t('view_all')}</a></section>` : ''}
+    <section class="section">
+      <div class="section-head"><p class="eyebrow">${t('couture_eyebrow')}</p><h2>${t('couture_title')}</h2><div class="rule"></div></div>
+      <div class="pillars">
+        <div class="pillar"><div class="num">I.</div><h3>${t('p1_t')}</h3><p>${t('p1_d')}</p></div>
+        <div class="pillar"><div class="num">II.</div><h3>${t('p2_t')}</h3><p>${t('p2_d')}</p></div>
+        <div class="pillar"><div class="num">III.</div><h3>${t('p3_t')}</h3><p>${t('p3_d')}</p></div>
+      </div>
+    </section>
+    <section class="feature">
+      <div class="art">${shoe ? `<img src="${esc(imgs(shoe)[0])}" alt="" loading="lazy">` : '&amp;'}</div>
+      <div class="txt"><p class="eyebrow">${t('shoes_eyebrow')}</p><h2>${t('shoes_title')}</h2><p>${t('shoes_text')}</p>
+      <div><a class="btn" href="#/c/calzado">${t('shoes_cta')}</a></div></div>
+    </section>
+    <section class="section">
+      <div class="section-head"><h2>${t('featured')}</h2><div class="rule"></div></div>
+      <div class="runway">${grid(top.slice(0, 10))}</div>
+    </section>`;
+  }
+
+  /* ---------- Campaña ---------- */
+  function campaignView() {
+    const c = S.camp.active && S.camp[S.lang];
+    if (!c) { app.innerHTML = `<section class="section"><p class="empty">${t('camp_off')}</p></section>`; return; }
+    document.title = c.title + ' — DAZMOND & Co.';
+    app.innerHTML = `<section class="campaign" style="border-top:0"><p class="eyebrow">${esc(c.eyebrow)}</p><h2>${esc(c.title)}</h2><p>${esc(c.text)}</p>
+      ${S.camp.ends ? `<p class="ends">${t('until')} ${fdate(S.camp.ends)}</p>` : ''}</section>
+      <section class="section" style="padding-top:2px"><div class="runway">${grid(picks(S.camp.selection))}</div></section>`;
+  }
+
+  /* ---------- Listados con filtros ---------- */
+  function inGroup(p, group, sub) {
+    return (p.categories || []).some(c => {
+      if (sub) return c === group + '/' + sub;
+      if (group === 'calzado') return c.startsWith('calzado-');
+      return c === group || c.startsWith(group + '/');
+    });
+  }
+  function findNames(group, sub) {
+    for (const m of S.catalog.menus) {
+      if (m.id === group || m.direct === group) return { title: L(m), menu: m, g: m.groups[0] };
+      for (const g of m.groups) if (g.id === group) {
+        const it = sub && g.items.find(i => i.id === sub);
+        return { title: it ? L(it) : (m.groups.length > 1 ? L(m) + ' · ' + L(g) : L(g)), menu: m, g, crumb: L(m) };
+      }
+    }
+    return { title: '' };
+  }
+
+  function listView(group, sub) {
+    const info = findNames(group, sub);
+    document.title = info.title + ' — DAZMOND & Co.';
+    const subs = group === 'calzado' ? info.menu.groups.map(g => ({ id: g.id, href: '#/c/' + g.id, name: L(g) }))
+      : (info.g ? info.g.items.map(i => ({ id: i.id, href: `#/c/${info.g.id}/${i.id}`, name: L(i) })) : []);
+    const f = store.get('dz_filters', { avail: 'all', min: '', max: '', sort: 'featured' });
+    app.innerHTML = `<section>
+      <div class="list-head"><p class="crumbs">${esc(info.crumb || 'DAZMOND & Co.')}</p><h1>${esc(info.title)}</h1></div>
+      ${subs.length ? `<div class="subcats"><a href="#/c/${group === 'calzado' || !sub ? group : info.g.id}" class="${!sub ? 'active' : ''}">${t('all')}</a>${subs.map(s => `<a href="${s.href}" class="${s.id === sub ? 'active' : ''}">${esc(s.name)}</a>`).join('')}</div>` : ''}
+      <form class="filters" id="filters">
+        <label>${t('availability')}<select name="avail"><option value="all">${t('any')}</option><option value="in">${t('instock')}</option></select></label>
+        <label>${t('price')} ${t('min')} (${S.cur})<input name="min" type="number" min="0" inputmode="numeric"></label>
+        <label>${t('price')} ${t('max')} (${S.cur})<input name="max" type="number" min="0" inputmode="numeric"></label>
+        <label>${t('sort')}<select name="sort"><option value="featured">${t('s_featured')}</option><option value="low">${t('s_low')}</option><option value="high">${t('s_high')}</option><option value="new">${t('s_new')}</option></select></label>
+      </form>
+      <p class="res-count" id="resCount"></p>
+      <div class="runway" id="listGrid"></div></section>`;
+    const form = $('#filters');
+    Object.keys(f).forEach(k => { if (form[k]) form[k].value = f[k]; });
+    const draw = () => {
+      const v = { avail: form.avail.value, min: form.min.value, max: form.max.value, sort: form.sort.value };
+      store.set('dz_filters', v);
+      let list = S.products.filter(p => inGroup(p, group, sub));
+      if (v.avail === 'in') list = list.filter(p => p.available !== false);
+      if (v.min) list = list.filter(p => priceNow(p) * rate() >= +v.min);
+      if (v.max) list = list.filter(p => priceNow(p) * rate() <= +v.max);
+      if (v.sort === 'low') list.sort((a, b) => priceNow(a) - priceNow(b));
+      if (v.sort === 'high') list.sort((a, b) => priceNow(b) - priceNow(a));
+      if (v.sort === 'new') list.sort((a, b) => (b.created || '').localeCompare(a.created || ''));
+      $('#listGrid').innerHTML = grid(list);
+      $('#resCount').textContent = list.length ? `${list.length} ${t('results')}` : '';
+    };
+    form.oninput = draw; form.onsubmit = e => e.preventDefault();
+    draw();
+  }
+
+  /* ---------- Ficha de producto ---------- */
+  function productView(id) {
+    const p = S.byId[id];
+    if (!p) { homeView(); return; }
+    const name = p['name_' + S.lang] || p.name_en;
+    document.title = name + ' — DAZMOND & Co.';
+    let size = null;
+    const list = imgs(p).length ? imgs(p) : [null];
+    const shots = list.map(u => `<div class="shot">${u ? `<img src="${esc(u)}" alt="${esc(name)}" decoding="async">` : '<span class="ph" style="font-size:140px">D</span>'}</div>`).join('');
+    const look = picks(p.look);
+    const canBuy = p.available !== false && p.price_usd > 0;
+    const c = p.offer && S.camp.active && S.camp[S.lang];
+    const info = (S.catalog.menus.find(m => m.groups.some(g => g.id === (p.categories || [''])[0].split('/')[0])) || {});
+    const details = [p.material ? `${t('d_material')}: ${p.material}` : '', p.color ? `${t('d_color')}: ${p.color}` : '', t('d_made')].filter(Boolean).join('\n');
+    app.innerHTML = `<section>
+      <div class="pdp">
+        <div><div class="gallery" id="gallery">${shots}</div>
+          ${list.length > 1 ? `<div class="dots">${list.map((_, i) => `<span class="${i ? '' : 'on'}"></span>`).join('')}</div>` : ''}</div>
+        <div class="pdp-info">
+          <p class="crumbs">${esc(L(info) || 'DAZMOND & Co.')}</p>
+          ${p.badge ? `<p class="camp-tag">${t('b_' + p.badge)}</p>` : ''}
+          <h1>${esc(name)}</h1>
+          ${c ? `<p class="camp-tag" style="margin-top:14px">${esc(c.title)}${p.offer.ends ? ' · ' + t('until') + ' ' + fdate(p.offer.ends) : ''}</p>` : ''}
+          <div class="pdp-price">${priceHTML(p)}</div>
+          ${S.cur === 'EUR' ? `<p class="note">${t('fx_note')}</p>` : ''}
+          ${p.sizes && p.sizes.length ? `<p class="eyebrow" style="margin-top:26px">${t('size')}</p>
+            <div class="options" id="sizes">${p.sizes.map(s => `<button type="button" data-size="${esc(s)}">${esc(s)}</button>`).join('')}</div>` : '<div style="height:22px"></div>'}
+          <div class="actions">
+            ${canBuy ? `<button class="btn btn-solid btn-block" id="buyBtn">${t('buy')}</button>
+            <button class="btn btn-block" id="addBtn">${t('add')}</button>` : `<p class="muted">${t('soon')}</p>`}
+            <button class="btn btn-block" data-fav="${p.id}" style="border-color:var(--line2)">${S.favs.includes(p.id) ? '♥' : '♡'} ${t('favs')}</button>
+          </div>
+          <p class="note" style="margin-top:14px;text-align:center">${t('zoom')}</p>
+          <div class="acc">
+            <details open><summary>${S.lang === 'es' ? 'Descripción' : 'Description'}</summary><div class="body">${esc(p['desc_' + S.lang] || p.desc_en || '')}</div></details>
+            <details><summary>${t('d_make')}</summary><div class="body">${esc(details)}</div></details>
+            <details><summary>${t('d_ship')}</summary><div class="body">${t('d_ship_t')}</div></details>
+          </div>
+          <div class="trust" style="margin-top:22px;display:grid;gap:6px;font-size:11.5px;color:var(--pearl)"><span>${t('tr1')}</span><span>${t('tr2')}</span><span>${t('tr3')}</span></div>
+        </div>
+      </div>
+      ${look.length ? `<div class="look section" style="padding-top:0"><div class="section-head"><p class="eyebrow">DAZMOND &amp; Co.</p><h2>${t('look')}</h2><div class="rule"></div></div><div class="grid">${look.map(card).join('')}</div></div>` : ''}
+    </section>`;
+    bindZoom();
+    $$('#sizes button').forEach(b => { b.onclick = () => { size = b.dataset.size; $$('#sizes button').forEach(x => x.classList.toggle('sel', x === b)); }; });
+    const needSize = () => p.sizes && p.sizes.length && !size;
+    if ($('#addBtn')) $('#addBtn').onclick = () => { if (needSize()) { toast(t('choose_size')); return; } addToCart(p.id, size); };
+    if ($('#buyBtn')) $('#buyBtn').onclick = () => { if (needSize()) { toast(t('choose_size')); return; } pay(p); };
+  }
+
+  /* Zoom de alta definición: lupa al pasar el ratón y visor a pantalla completa al tocar */
+  function bindZoom() {
+    const g = $('#gallery');
+    if (!g) return;
+    const fine = window.matchMedia('(hover:hover) and (pointer:fine)').matches;
+    $$('.shot', g).forEach(shot => {
+      const img = $('img', shot);
+      if (!img) return;
+      if (fine) {
+        shot.addEventListener('mousemove', e => {
+          const r = shot.getBoundingClientRect();
+          img.style.transformOrigin = `${((e.clientX - r.left) / r.width) * 100}% ${((e.clientY - r.top) / r.height) * 100}%`;
+          shot.classList.add('zooming');
+        });
+        shot.addEventListener('mouseleave', () => shot.classList.remove('zooming'));
+      }
+      shot.addEventListener('click', () => { $('#lbImg').src = img.src; $('#lightbox').hidden = false; document.body.style.overflow = 'hidden'; });
+    });
+    const dots = $$('.dots span');
+    if (dots.length) g.addEventListener('scroll', () => {
+      const i = Math.round(g.scrollLeft / g.clientWidth);
+      dots.forEach((d, k) => d.classList.toggle('on', k === i));
+    }, { passive: true });
+  }
+
+  function pay(p) {
+    const link = (p.offer && p.offer.payment_link) || p.stripe_payment_link;
+    if (!link) { toast(t('soon')); return; }
+    const url = new URL(link);
+    url.searchParams.set('locale', S.lang);
+    if (S.user && S.user.email) url.searchParams.set('prefilled_email', S.user.email);
+    location.href = url.toString();
+  }
+
+  /* ---------- Carrito ---------- */
+  function addToCart(id, size) {
+    const line = S.cart.find(l => l.id === id && l.size === size);
+    if (line) line.qty += 1; else S.cart.push({ id, size, qty: 1 });
+    store.set('dz_cart', S.cart); updateCounts(); toast(t('added'));
+  }
+  function renderCart() {
+    const lines = S.cart.filter(l => S.byId[l.id]);
+    if (!lines.length) { $('#cartItems').innerHTML = `<p class="empty">${t('cart_empty')}</p>`; $('#cartFoot').innerHTML = ''; return; }
+    let total = 0;
+    $('#cartItems').innerHTML = lines.map((l, i) => {
+      const p = S.byId[l.id]; total += priceNow(p) * l.qty;
+      const im = imgs(p)[0];
+      return `<div class="line-item">
+        <div class="thumb">${im ? `<img src="${esc(im)}" alt="">` : '<span class="ph" style="font-size:30px">D</span>'}</div>
+        <div><div class="nm">${esc(p['name_' + S.lang])}</div><small>${l.size ? t('size') + ': ' + esc(l.size) : ''}</small><small class="price" style="color:var(--gold)">${priceHTML(p)}</small>
+          <div class="line-row"><div class="qty"><button data-q="${i}" data-d="-1">−</button><span>${l.qty}</span><button data-q="${i}" data-d="1">+</button></div>
+          ${lines.length > 1 ? `<button class="pay-mini" data-pay="${p.id}">${t('pay_item')}</button>` : ''}</div></div></div>`;
+    }).join('');
+    $('#cartFoot').innerHTML = `<div class="total"><span>${t('total')}</span><span>${money(total)}</span></div>
+      ${S.cur === 'EUR' ? `<p class="note">${t('fx_note')}</p>` : ''}
+      ${lines.length === 1 ? `<button class="btn btn-solid btn-block" data-pay="${lines[0].id}">${t('checkout')}</button>` : `<p class="note">${t('multi_note')}</p>`}`;
+    $$('[data-q]').forEach(b => { b.onclick = () => {
+      const l = lines[+b.dataset.q]; l.qty += +b.dataset.d;
+      if (l.qty <= 0) S.cart = S.cart.filter(x => x !== l);
+      store.set('dz_cart', S.cart); updateCounts(); renderCart();
+    }; });
+    $$('[data-pay]').forEach(b => { b.onclick = () => pay(S.byId[b.dataset.pay]); });
+  }
+  function updateCounts() {
+    const n = S.cart.reduce((a, l) => a + (S.byId[l.id] ? l.qty : 0), 0);
+    $('#cartCount').textContent = n || '';
+    $('#favCount').textContent = S.favs.length || '';
+  }
+
+  /* ---------- Favoritos ---------- */
+  function toggleFav(id) {
+    S.favs = S.favs.includes(id) ? S.favs.filter(x => x !== id) : S.favs.concat(id);
+    store.set('dz_favs', S.favs); updateCounts(); syncFavs();
+    $$(`[data-fav="${id}"]`).forEach(b => { b.innerHTML = b.classList.contains('fav') ? (S.favs.includes(id) ? '♥' : '♡') : `${S.favs.includes(id) ? '♥' : '♡'} ${t('favs')}`; });
+    if (location.hash.startsWith('#/cuenta')) accountView();
+  }
+
+  /* ---------- Buscador ---------- */
+  function renderSearch(q) {
+    q = q.trim().toLowerCase();
+    if (q.length < 2) { $('#searchResults').innerHTML = ''; return; }
+    const words = q.split(/\s+/);
+    const res = S.products.filter(p => {
+      const txt = [p.name_es, p.name_en, p.source_title, (p.categories || []).join(' ')].join(' ').toLowerCase();
+      return words.every(w => txt.includes(w));
+    }).slice(0, 24);
+    $('#searchResults').innerHTML = grid(res);
+    $$('#searchResults a').forEach(a => a.addEventListener('click', closeLayers));
+  }
+
+  /* ---------- Identidad y campañas ---------- */
+  function identityView() {
+    document.title = (S.lang === 'es' ? 'La Identidad' : 'Our Identity') + ' — DAZMOND & Co.';
+    const es = S.lang === 'es';
+    const lb = (S.cfg.lookbook || []).map(x => `<div>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy">` : ''}<span>${esc(es ? x.title_es : x.title_en)}</span></div>`).join('');
+    app.innerHTML = `<section class="section"><div class="editorial">
+      <p class="eyebrow">${es ? 'La Maison' : 'The Maison'}</p>
+      <h1 style="font-size:clamp(34px,7vw,64px);font-weight:300;margin-bottom:30px">${es ? 'La Identidad de Dazmond&amp;Co.' : 'The Dazmond&amp;Co. Identity'}</h1>
+      ${es ? `
+      <p>DAZMOND &amp; Co. es una casa de moda americana, con marca registrada en los Estados Unidos, nacida de una idea sencilla: el lujo de verdad no consiste en pagar más, sino en llevar algo que nadie más lleva.</p>
+      <p class="quote">«El lujo de verdad es llevar lo que nadie más lleva.»</p>
+      <h2>Por qué somos diferentes</h2>
+      <p>Producimos cada pieza solo cuando alguien la pide. Así evitamos los excedentes, cuidamos cada detalle y podemos ofrecer prendas únicas, en ediciones limitadas, a precios accesibles.</p>
+      <p>Diseñamos en clave de alta costura —líneas limpias, negro absoluto, detalles en oro— y lo llevamos a todo el mundo con envío internacional y pago protegido.</p>
+      <h2>Cómo estamos cambiando la industria</h2>
+      <p>Frente a la moda que fabrica millones de copias, nosotros apostamos por la pieza irrepetible, el consumo consciente y una relación directa contigo, sin intermediarios.</p>`
+      : `
+      <p>DAZMOND &amp; Co. is an American fashion house with a trademark registered in the United States, born from a simple idea: true luxury is not about paying more, but about wearing something no one else wears.</p>
+      <p class="quote">“True luxury is wearing what no one else wears.”</p>
+      <h2>Why we are different</h2>
+      <p>We produce each piece only when someone orders it. That means no overstock, care in every detail, and one-of-a-kind, limited-edition garments at accessible prices.</p>
+      <p>We design with a couture sensibility — clean lines, absolute black, touches of gold — and deliver worldwide with international shipping and protected payment.</p>
+      <h2>How we are changing the industry</h2>
+      <p>Where fashion makes millions of copies, we choose the unrepeatable piece, conscious consumption and a direct relationship with you, with no middlemen.</p>`}
+      <h2 id="campanas">${es ? 'Campañas y Publicidad' : 'Campaigns & Advertising'}</h2>
+      <p>${es ? 'Lookbooks y campañas de la casa.' : 'House lookbooks and campaigns.'}</p>
+    </div><div class="lookbook">${lb}</div></section>`;
+  }
+
+  /* ---------- Mi cuenta ---------- */
+  function accountView() {
+    document.title = t('account') + ' — DAZMOND & Co.';
+    const favs = S.favs.map(id => S.byId[id]).filter(Boolean);
+    const fb = S.cfg.firebase && S.cfg.firebase.apiKey;
+    app.innerHTML = `<section class="section">
+      <h1 style="font-size:clamp(32px,7vw,56px);font-weight:300;margin-bottom:26px;text-align:center">${t('account')}</h1>
+      <div class="panel">
+        ${S.user ? `<p>${t('hello')}, ${esc(S.user.displayName || S.user.email)}</p><p class="note" style="margin:8px 0 14px">${t('orders_note')}</p><button class="btn" id="logoutBtn">${t('logout')}</button>`
+        : `<p class="muted" style="margin-bottom:14px">${t('guest')}</p>${fb ? `<button class="btn btn-solid" id="loginBtn">${t('login')}</button>` : `<p class="note">${t('local_favs')}</p>`}`}
+      </div>
+      <h2 style="margin:30px 0 16px">${t('favs')}</h2>
+      <div class="grid">${favs.length ? favs.map(card).join('') : `<p class="empty">${t('no_favs')}</p>`}</div></section>`;
+    if ($('#loginBtn')) $('#loginBtn').onclick = login;
+    if ($('#logoutBtn')) $('#logoutBtn').onclick = () => window.firebase && firebase.auth().signOut();
+  }
+
+  /* ---------- Gracias ---------- */
+  function thanksView() {
+    S.cart = []; store.set('dz_cart', S.cart); updateCounts();
+    app.innerHTML = `<section class="section" style="text-align:center;min-height:50vh">
+      <h1 style="font-size:clamp(32px,7vw,56px);font-weight:300;margin-bottom:26px;text-align:center">${t('thanks_t')}</h1><p class="muted" style="margin-bottom:26px">${t('thanks_d')}</p>
+      <a class="btn btn-solid" href="#/">${t('back')}</a></section>`;
+  }
+
+  /* ---------- Páginas legales ---------- */
+  function legalView(key) {
+    const c = S.cfg, es = S.lang === 'es';
+    const id = `${esc(c.company || 'Community16 LLC')}, ${esc(c.company_address || '')}`;
+    const mail = esc(c.contact_email || 'info@dazmond.com');
+    const P = {
+      aviso: es ? `<p>Este sitio web, dazmond.com, y la marca DAZMOND &amp; Co. pertenecen a ${id}.</p><p>Contacto: ${mail}.</p><p>Todos los contenidos (textos, diseños, logotipos e imágenes) están protegidos por la normativa de propiedad intelectual e industrial. No se permite su reproducción sin autorización.</p>`
+        : `<p>This website, dazmond.com, and the DAZMOND &amp; Co. brand belong to ${id}.</p><p>Contact: ${mail}.</p><p>All content (texts, designs, logos and images) is protected by intellectual and industrial property law. Reproduction without permission is not allowed.</p>`,
+      privacidad: es ? `<p>Responsable: ${id}.</p><ul><li>Pagos: los procesa Stripe. Nunca vemos ni guardamos los datos de tu tarjeta.</li><li>Cuenta y favoritos: si inicias sesión, se guardan en Google Firebase.</li><li>Boletín: tu correo se guarda en Brevo solo si te suscribes; puedes darte de baja en cada correo.</li><li>Envíos: compartimos tu dirección solo con el taller que fabrica y envía tu pedido.</li></ul><p>Puedes pedir el acceso, la corrección o el borrado de tus datos escribiendo a ${mail}.</p>`
+        : `<p>Controller: ${id}.</p><ul><li>Payments are processed by Stripe. We never see or store your card details.</li><li>Account and favorites: if you sign in, they are stored in Google Firebase.</li><li>Newsletter: your email is stored in Brevo only if you subscribe; you can unsubscribe in every email.</li><li>Shipping: we share your address only with the workshop that makes and ships your order.</li></ul><p>You can request access, correction or deletion of your data by writing to ${mail}.</p>`,
+      terminos: es ? `<p>Los precios se muestran en USD; el importe en EUR es orientativo y el cobro se realiza en USD a través de Stripe.</p><p>Cada pieza se fabrica bajo pedido tras confirmarse el pago. Al comprar aceptas estas condiciones y las políticas de envío y devoluciones.</p><p>Ley aplicable: Estado de Nuevo México (EE. UU.), sin perjuicio de los derechos que te reconozca la ley de tu país de residencia.</p>`
+        : `<p>Prices are shown in USD; EUR amounts are approximate and you are charged in USD through Stripe.</p><p>Each piece is made to order once payment is confirmed. By purchasing you accept these terms and the shipping and returns policies.</p><p>Governing law: State of New Mexico (USA), without prejudice to the rights granted by the law of your country of residence.</p>`,
+      cookies: es ? `<p>Usamos solo el almacenamiento imprescindible de tu navegador para recordar tu idioma, tu divisa, tus favoritos y tu selección. No usamos cookies publicitarias.</p>`
+        : `<p>We only use essential browser storage to remember your language, currency, favorites and selection. We do not use advertising cookies.</p>`,
+      envios: es ? `<p>Confección: entre 2 y 7 días laborables, porque cada pieza se produce para ti.</p><p>Envío internacional con seguimiento: normalmente entre 5 y 15 días laborables según el destino.</p><p>Los impuestos o aranceles de importación de tu país, si los hubiera, corren a cargo del comprador.</p>`
+        : `<p>Production: 2 to 7 business days, because each piece is made for you.</p><p>International tracked shipping: usually 5 to 15 business days depending on destination.</p><p>Any import taxes or duties in your country are paid by the buyer.</p>`,
+      devoluciones: es ? `<p>Si tu pieza llega defectuosa, dañada o no es la que pediste, escríbenos a ${mail} en los 30 días siguientes con una foto y te la reponemos o te devolvemos el dinero.</p><p>Si resides en la Unión Europea, conservas tu derecho de desistimiento de 14 días desde la entrega, salvo en productos personalizados a petición tuya.</p>`
+        : `<p>If your piece arrives defective, damaged or is not what you ordered, email us at ${mail} within 30 days with a photo and we will replace it or refund you.</p><p>If you live in the European Union, you keep your 14-day right of withdrawal from delivery, except for items personalised at your request.</p>`
+    };
+    if (!P[key]) { homeView(); return; }
+    app.innerHTML = `<section class="section"><div class="editorial legal"><h1 style="font-size:clamp(32px,7vw,56px);font-weight:300;margin-bottom:26px;text-align:center">${t('l_' + key)}</h1>${P[key]}</div></section>`;
+  }
+
+  /* ---------- Suscripción (Brevo) ---------- */
+  function subscribe(e) {
+    e.preventDefault();
+    const form = e.target, url = (S.cfg.newsletter || {})['brevo_form_url_' + S.lang];
+    if (!url) { $('#subMsg').textContent = t('sub_soon'); return; }
+    form.action = url; form.method = 'POST'; form.target = 'subFrame';
+    form.submit(); form.reset();
+    $('#subMsg').textContent = t('sub_ok');
+  }
+
+  /* ---------- Firebase (opcional, plan gratuito) ---------- */
+  function loadScript(src) { return new Promise((ok, ko) => { const s = document.createElement('script'); s.src = src; s.onload = ok; s.onerror = ko; document.head.appendChild(s); }); }
+  async function initFirebase() {
+    const c = S.cfg.firebase;
+    if (!c || !c.apiKey) return;
+    try {
+      const v = 'https://www.gstatic.com/firebasejs/10.12.2/';
+      await loadScript(v + 'firebase-app-compat.js');
+      await Promise.all([loadScript(v + 'firebase-auth-compat.js'), loadScript(v + 'firebase-firestore-compat.js')]);
+      firebase.initializeApp(c);
+      S.db = firebase.firestore();
+      firebase.auth().onAuthStateChanged(async u => {
+        S.user = u;
+        if (u) {
+          const doc = await S.db.collection('users').doc(u.uid).get();
+          const remote = (doc.exists && doc.data().favs) || [];
+          S.favs = Array.from(new Set(remote.concat(S.favs)));
+          store.set('dz_favs', S.favs); syncFavs(); updateCounts();
+        }
+        if (location.hash.startsWith('#/cuenta')) accountView();
+      });
+    } catch (err) { console.log('Firebase no disponible', err); }
+  }
+  function login() { if (window.firebase) firebase.auth().signInWithPopup(new firebase.auth.GoogleAuthProvider()).catch(e => toast(e.message)); }
+  function syncFavs() {
+    if (S.user && S.db) S.db.collection('users').doc(S.user.uid).set({ favs: S.favs, updated: Date.now() }, { merge: true }).catch(() => {});
+  }
+
+  init();
+})();

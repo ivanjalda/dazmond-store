@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "updated": "2026-11-18",
+  "id": "gala-invierno",
+  "ends": "2026-12-31",
+  "discount_pct": 15,
+  "es": {
+    "eyebrow": "Campaña Navideña",
+    "title": "Gala de Invierno",
+    "text": "Regalos de alta costura para quien lo merece todo. Ediciones de invierno confeccionadas para ti.",
+    "cta": "Descubrir los regalos"
+  },
+  "en": {
+    "eyebrow": "Holiday Campaign",
+    "title": "The Winter Gala",
+    "text": "Couture gifts for those who deserve everything. Winter editions made for you.",
+    "cta": "Discover the gifts"
+  },
+  "offers": [],
+  "gifts": [
+    "printify-demo-002",
+    "inkpod-demo-005",
+    "printful-demo-006",
+    "interestprint-demo-004",
+    "popcustoms-demo-003"
+  ],
+  "selection": [
+    "printify-demo-002",
+    "inkpod-demo-005",
+    "printful-demo-006",
+    "interestprint-demo-004",
+    "popcustoms-demo-003"
+  ]
+}

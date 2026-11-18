@@ -1,0 +1,212 @@
+{
+  "store_name": "DAZMOND & Co.",
+  "domain": "dazmond.com",
+  "site_url": "https://dazmond.com",
+  "company": "Community16 LLC",
+  "company_address": "500 4th St NW, Suite 102 #1327, Albuquerque, NM 87102, USA",
+  "contact_email": "info@dazmond.com",
+  "default_lang": "es",
+  "default_currency": "USD",
+  "hero_image": "",
+  "social": {
+    "instagram": "https://www.instagram.com/dazmondco/",
+    "tiktok": "https://www.tiktok.com/@dazmond.com",
+    "threads": "https://www.threads.com/@dazmondco"
+  },
+  "fx": {
+    "base": "USD",
+    "EUR": 0.92,
+    "updated": "2026-11-19"
+  },
+  "pricing": {
+    "default_markup": 2.6,
+    "min_profit_usd": 18,
+    "round_to": 5,
+    "auto_price_adjust": false,
+    "markup_by_menu": {
+      "hombre": 2.6,
+      "mujer": 2.6,
+      "calzado-mujer": 2.2,
+      "calzado-hombre": 2.2,
+      "decor": 2.4
+    }
+  },
+  "offers": {
+    "min_margin_after_discount_pct": 45,
+    "min_profit_after_discount_usd": 15,
+    "gift_max_price_usd": 150,
+    "min_days_listed": 14
+  },
+  "campaigns": [
+    {
+      "id": "black-week",
+      "rule": "black_week",
+      "priority": 1,
+      "discount_pct": 25,
+      "es": {
+        "eyebrow": "Black Week",
+        "title": "Black Week en la Maison",
+        "text": "Una semana, piezas seleccionadas con condiciones excepcionales. Solo en piezas elegidas y hasta agotar existencias.",
+        "cta": "Ver la selección"
+      },
+      "en": {
+        "eyebrow": "Black Week",
+        "title": "Black Week at the Maison",
+        "text": "One week only: selected pieces on exceptional terms. Selected pieces only, while availability lasts.",
+        "cta": "View the selection"
+      }
+    },
+    {
+      "id": "gala-invierno",
+      "start": "11-01",
+      "end": "12-31",
+      "priority": 2,
+      "discount_pct": 15,
+      "gifts": true,
+      "es": {
+        "eyebrow": "Campaña Navideña",
+        "title": "Gala de Invierno",
+        "text": "Regalos de alta costura para quien lo merece todo. Ediciones de invierno confeccionadas para ti.",
+        "cta": "Descubrir los regalos"
+      },
+      "en": {
+        "eyebrow": "Holiday Campaign",
+        "title": "The Winter Gala",
+        "text": "Couture gifts for those who deserve everything. Winter editions made for you.",
+        "cta": "Discover the gifts"
+      }
+    },
+    {
+      "id": "rebajas-invierno",
+      "start": "01-07",
+      "end": "02-28",
+      "priority": 3,
+      "discount_pct": 20,
+      "es": {
+        "eyebrow": "Temporada",
+        "title": "Las Rebajas de la Maison",
+        "text": "Piezas de temporada con condiciones especiales durante tiempo limitado.",
+        "cta": "Ver piezas"
+      },
+      "en": {
+        "eyebrow": "Season",
+        "title": "The Maison Sale",
+        "text": "Seasonal pieces on special terms for a limited time.",
+        "cta": "View pieces"
+      }
+    },
+    {
+      "id": "primavera",
+      "start": "03-01",
+      "end": "05-31",
+      "priority": 4,
+      "discount_pct": 0,
+      "es": {
+        "eyebrow": "Nueva Temporada",
+        "title": "Primavera · Verano",
+        "text": "Siluetas ligeras y tejidos nobles para la nueva estación.",
+        "cta": "Descubrir"
+      },
+      "en": {
+        "eyebrow": "New Season",
+        "title": "Spring · Summer",
+        "text": "Light silhouettes and noble fabrics for the new season.",
+        "cta": "Discover"
+      }
+    },
+    {
+      "id": "verano",
+      "start": "06-01",
+      "end": "08-31",
+      "priority": 4,
+      "discount_pct": 15,
+      "es": {
+        "eyebrow": "Temporada",
+        "title": "Riviera de Verano",
+        "text": "Baño, lino y sandalias para el verano más elegante.",
+        "cta": "Ver la colección"
+      },
+      "en": {
+        "eyebrow": "Season",
+        "title": "Summer Riviera",
+        "text": "Swimwear, linen and sandals for the most elegant summer.",
+        "cta": "View the collection"
+      }
+    },
+    {
+      "id": "otono",
+      "start": "09-01",
+      "end": "10-31",
+      "priority": 4,
+      "discount_pct": 0,
+      "es": {
+        "eyebrow": "Nueva Temporada",
+        "title": "Otoño · Invierno",
+        "text": "Abrigos, punto y botas: la nueva colección de la casa.",
+        "cta": "Descubrir"
+      },
+      "en": {
+        "eyebrow": "New Season",
+        "title": "Fall · Winter",
+        "text": "Coats, knitwear and boots: the house's new collection.",
+        "cta": "Discover"
+      }
+    }
+  ],
+  "badges": {
+    "top_seller_rank": 3,
+    "low_stock_threshold": 5,
+    "high_demand_views_today": 40
+  },
+  "firebase": {
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "appId": ""
+  },
+  "newsletter": {
+    "brevo_form_url_es": "",
+    "brevo_form_url_en": "",
+    "brevo_list_id_es": 0,
+    "brevo_list_id_en": 0,
+    "sender_name": "DAZMOND & Co.",
+    "sender_email": "info@dazmond.com",
+    "products_per_email": 6
+  },
+  "social_factory": {
+    "products_per_day": 4,
+    "seconds_per_product": 4
+  },
+  "lookbook": [
+    {
+      "title_es": "Campaña Otoño · Nueva York",
+      "title_en": "Fall Campaign · New York",
+      "image": ""
+    },
+    {
+      "title_es": "Ediciones Irrepetibles",
+      "title_en": "One-of-a-Kind Editions",
+      "image": ""
+    },
+    {
+      "title_es": "Noir & Or",
+      "title_en": "Noir & Or",
+      "image": ""
+    },
+    {
+      "title_es": "El Arte del Calzado",
+      "title_en": "The Art of Footwear",
+      "image": ""
+    },
+    {
+      "title_es": "Maison Lifestyle",
+      "title_en": "Maison Lifestyle",
+      "image": ""
+    },
+    {
+      "title_es": "Colección Privada",
+      "title_en": "Private Collection",
+      "image": ""
+    }
+  ]
+}

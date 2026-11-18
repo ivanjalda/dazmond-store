@@ -1,0 +1,19 @@
+CARPETA DE FOTOS VERIFICADAS — DAZMOND & Co.
+
+Aquí subes TUS fotos revisadas (por ejemplo, una foto con modelo en la que la prenda
+y su estampado se ven perfectos).
+
+Cómo se llaman las fotos:
+  el código del producto + guion + número
+  Ejemplo:  printful-demo-001-1.jpg   printful-demo-001-2.jpg
+
+El código de cada producto lo ves en la dirección de su ficha en la web:
+  .../#/p/printful-demo-001   →  el código es  printful-demo-001
+
+Qué pasa al subirla:
+  - Al día siguiente (o al pulsar "Run workflow") el producto queda como verificado.
+  - La web enseña primero tu foto y después las originales del proveedor.
+  - Mientras no subas ninguna, la web SOLO enseña las fotos originales nítidas
+    (nunca fotos con modelo sin revisar).
+
+Formatos válidos: .jpg  .jpeg  .png  .webp

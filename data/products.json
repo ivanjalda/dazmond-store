@@ -1,0 +1,244 @@
+{
+  "updated": "2026-11-18T23:30:57Z",
+  "products": [
+    {
+      "id": "printify-demo-002",
+      "supplier": "Printify",
+      "supplier_id": "DEMO-002",
+      "source_title": "Silk Touch Slip Dress",
+      "categories": [
+        "mujer/vestidos-monos-petos"
+      ],
+      "cost_usd": 30.0,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "needs_review": false,
+      "created": "2026-11-18",
+      "material": "satin",
+      "color": "Champagne",
+      "name_es": "Vestido Avenue · Champán",
+      "name_en": "Avenue Dress · Champagne",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad en seda se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order in silk, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 80.0,
+      "margin_pct": 62.5,
+      "images_original": [],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [],
+      "available": true,
+      "price_history": {
+        "2026-11-18": 80.0
+      },
+      "score": 27.25,
+      "rank": 1,
+      "badge": "new",
+      "look": [
+        "interestprint-demo-004"
+      ]
+    },
+    {
+      "id": "printful-demo-001",
+      "supplier": "Printful",
+      "supplier_id": "DEMO-001",
+      "source_title": "Classic Wool Blend Overcoat",
+      "categories": [
+        "hombre/abrigo-chaqueta-sueter"
+      ],
+      "cost_usd": 66.0,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-18",
+      "material": "wool blend",
+      "color": "Black",
+      "name_es": "Abrigo Soho · Negro",
+      "name_en": "Soho Coat · Black",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad en lana se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order in wool, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 175.0,
+      "margin_pct": 62.3,
+      "images_original": [],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [],
+      "available": true,
+      "price_history": {
+        "2026-11-18": 175.0
+      },
+      "score": 27.23,
+      "rank": 2,
+      "badge": "new",
+      "look": [
+        "printful-demo-006",
+        "popcustoms-demo-003"
+      ]
+    },
+    {
+      "id": "inkpod-demo-005",
+      "supplier": "Inkpod",
+      "supplier_id": "DEMO-005",
+      "source_title": "Velvet Throw Pillow",
+      "categories": [
+        "decor"
+      ],
+      "cost_usd": 17.0,
+      "sizes": [],
+      "needs_review": false,
+      "created": "2026-11-18",
+      "material": "velvet",
+      "color": "Gold",
+      "name_es": "Cojín Madison · Oro",
+      "name_en": "Madison Cushion · Gold",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad en terciopelo se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "Uncompromising American elegance. Each piece in velvet is produced only when you order it, so what you wear is as exclusive as you are.",
+      "price_usd": 45.0,
+      "margin_pct": 62.2,
+      "images_original": [],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [],
+      "available": true,
+      "price_history": {
+        "2026-11-18": 45.0
+      },
+      "score": 27.22,
+      "rank": 3,
+      "badge": "new",
+      "look": []
+    },
+    {
+      "id": "printful-demo-006",
+      "supplier": "Printful",
+      "supplier_id": "DEMO-006",
+      "source_title": "Pique Cotton Polo",
+      "categories": [
+        "hombre/polos"
+      ],
+      "cost_usd": 21.0,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-18",
+      "material": "cotton pique",
+      "color": "Black",
+      "stock": 3,
+      "name_es": "Polo Hudson · Negro",
+      "name_en": "Hudson Polo · Black",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad en algodón se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in cotton, designed to take you from day to night.",
+      "price_usd": 55.0,
+      "margin_pct": 61.8,
+      "images_original": [],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [],
+      "available": true,
+      "price_history": {
+        "2026-11-18": 55.0
+      },
+      "score": 27.18,
+      "rank": 4,
+      "badge": "lowstock",
+      "look": [
+        "printful-demo-001",
+        "popcustoms-demo-003"
+      ]
+    },
+    {
+      "id": "interestprint-demo-004",
+      "supplier": "InterestPrint",
+      "supplier_id": "DEMO-004",
+      "source_title": "High Top Canvas Sneakers",
+      "categories": [
+        "calzado-mujer/zapatillas"
+      ],
+      "cost_usd": 29.0,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "needs_review": false,
+      "created": "2026-11-18",
+      "material": "canvas",
+      "color": "Ivory",
+      "name_es": "Zapatillas Manhattan · Marfil",
+      "name_en": "Manhattan Sneakers · Ivory",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en lona, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in canvas, designed to take you from day to night.",
+      "price_usd": 65.0,
+      "margin_pct": 55.4,
+      "images_original": [],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [],
+      "available": true,
+      "price_history": {
+        "2026-11-18": 65.0
+      },
+      "score": 26.54,
+      "rank": 5,
+      "badge": "new",
+      "look": [
+        "printify-demo-002"
+      ]
+    },
+    {
+      "id": "popcustoms-demo-003",
+      "supplier": "POPCUSTOMS",
+      "supplier_id": "DEMO-003",
+      "source_title": "Leather Chelsea Boots",
+      "categories": [
+        "calzado-hombre/botas-botines-hombre"
+      ],
+      "cost_usd": 56.0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "needs_review": false,
+      "created": "2026-11-18",
+      "material": "leather",
+      "color": "Black",
+      "name_es": "Botas Riviera · Negro",
+      "name_en": "Riviera Boots · Black",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en piel, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order in leather, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 125.0,
+      "margin_pct": 55.2,
+      "images_original": [],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [],
+      "available": true,
+      "price_history": {
+        "2026-11-18": 125.0
+      },
+      "score": 26.52,
+      "rank": 6,
+      "badge": "new",
+      "look": [
+        "printful-demo-001",
+        "printful-demo-006"
+      ]
+    }
+  ]
+}
