@@ -1,0 +1,76 @@
+name: Motor diario DAZMOND
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # todos los días a las 05:17 UTC (06:17 en España en invierno)
+  workflow_dispatch:        # botón "Run workflow" para lanzarlo a mano
+  push:
+    paths:
+      - "data/suppliers/**" # se lanza solo cuando subes productos nuevos
+      - "assets/verified/**" # o cuando subes una foto verificada
+
+permissions:
+  contents: write
+
+concurrency:
+  group: motor-diario
+  cancel-in-progress: false
+
+jobs:
+  motor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 1. Motor autónomo (productos, precios, campañas, orden, etiquetas)
+        env:
+          PRINTIFY_TOKEN: ${{ secrets.PRINTIFY_TOKEN }}
+          PRINTIFY_SHOP_ID: ${{ secrets.PRINTIFY_SHOP_ID }}
+          STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
+        run: python scripts/autonomous_store_engine.py
+
+      - name: 2. Guardar cambios en la tienda
+        run: |
+          git config user.name "dazmond-bot"
+          git config user.email "dazmond-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Motor diario: catálogo actualizado"
+          git push
+
+      - name: 3. Correo diario
+        if: github.event_name != 'push'
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+        run: |
+          python scripts/daily_fashion_mailer.py
+          git add data/
+          git diff --cached --quiet || git commit -m "Correo diario enviado"
+          git push
+
+      - name: 4. Preparar FFmpeg y tipografía de la marca
+        if: github.event_name != 'push'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          mkdir -p assets/fonts
+          curl -fsSL -o assets/fonts/CormorantGaramond.ttf \
+            "https://github.com/google/fonts/raw/main/ofl/cormorantgaramond/CormorantGaramond%5Bwght%5D.ttf" || true
+
+      - name: 5. Fábrica de contenido para TikTok, Instagram y Threads
+        if: github.event_name != 'push'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/social_media_factory.py
+
+      - name: 6. Guardar el paquete de redes (descargable 7 días en Actions)
+        if: github.event_name != 'push'
+        uses: actions/upload-artifact@v4
+        with:
+          name: redes-dazmond
+          path: out/social/
+          retention-days: 7
+          if-no-files-found: ignore
