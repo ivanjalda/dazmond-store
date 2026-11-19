@@ -226,3 +226,31 @@ def enrich(paths, data_text):
             if "404" not in LAST_ERROR:
                 return None
     return None
+
+
+AUDIT_PROMPT = """You are the quality inspector of a luxury fashion store. Look at the photo.
+The store currently lists it as: {claim}
+Answer ONLY JSON: {{"ok": true/false (is that listing correct for what you see?),
+ "type": "short English product type you actually see (e.g. t-shirt, baseball jersey, jacket, dress, jumpsuit, sneakers)",
+ "gender": "men|women|unisex (who it is made for, judging by cut and model)",
+ "photo_ok": true/false (garment clearly visible, not a logo, banner or size chart)}}"""
+
+
+def audit(image_path, claim):
+    """Revisión de control: ¿la foto corresponde a la sección y al público donde está? dict o None."""
+    global LAST_ERROR
+    if not ready() or not image_path or not os.path.exists(image_path):
+        return None
+    model = load_json("config.json", {}).get("ai", {}).get("model", "gemini-2.5-flash")
+    with open(_shrink(image_path), "rb") as f:
+        data = base64.b64encode(f.read()).decode()
+    body = {"contents": [{"role": "user", "parts": [{"text": AUDIT_PROMPT.format(claim=claim)},
+                                                    {"inline_data": {"mime_type": "image/jpeg", "data": data}}]}],
+            "generationConfig": {"temperature": 0, "responseMimeType": "application/json"}}
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={env('GEMINI_API_KEY')}"
+    try:
+        res = request(url, "POST", body=body, timeout=90, retries=1)
+        return json.loads(res["candidates"][0]["content"]["parts"][0]["text"])
+    except Exception as e:
+        LAST_ERROR = str(e)[:200]
+        return None

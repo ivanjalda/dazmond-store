@@ -119,25 +119,27 @@ DECOR_TYPES = [
 ]
 
 APPAREL = [
-    (r"\btie\b|necktie|corbata", "corbatas", None, "Corbata", "Tie"),
+    (r"necktie|bow ?tie|corbata|\bties?\b(?![ -]?(front|dye|waist|up|back|knot|side))", "corbatas", None, "Corbata", "Tie"),
     (r"\bbelt\b|cinturon|cinturón", "cinturon", None, "Cinturón", "Belt"),
     (r"blazer|suit jacket|americana", "americana-blazer", "chaqueta-sudadera-sueter", "Blazer", "Blazer"),
     (r"robe|bathrobe|pajama|pyjama|sleepwear|albornoz|pijama|\bbata\b", "albornoz-pijama", "batas-pijamas", "Pijama", "Loungewear"),
     (r"swim|trunks|bikini|bañador|banador|traje de baño", "banador", "trajes-bano", "Bañador", "Swimwear"),
     (r"underwear|boxer|brief|\bbra\b|lingerie|calzoncillo|sujetador|thong", "ropa-interior", "ropa-interior", "Ropa Interior", "Underwear"),
     (r"bodysuit|\bbody\b", None, "bodies", "Body", "Bodysuit"),
-    (r"jumpsuit|romper|overall|dungaree|\bmono\b|\bpeto\b", "conjuntos", "vestidos-monos-petos", "Mono", "Jumpsuit"),
-    (r"\bdress\b(?! shirt)|vestido", None, "vestidos-monos-petos", "Vestido", "Dress"),
+    (r"jumpsuit|romper|overalls?\b|dungaree|shortall|playsuit|\bmono\b|\bpeto\b|mono corto", "conjuntos", "vestidos-monos-petos", "Mono", "Jumpsuit"),
+    (r"\bdress\b(?! ?(shirt|pants|trousers|shoes|slacks|suit))|vestido", None, "vestidos-monos-petos", "Vestido", "Dress"),
     (r"skirt|falda", None, "falda", "Falda", "Skirt"),
     (r"legging", "mallas", "leggings", "Leggings", "Leggings"),
     (r"tights|compression|\bmalla", "mallas", "leggings", "Mallas", "Tights"),
     (r"tracksuit|jogger|sweatpant|chandal|chándal|hoodie|sweatshirt|sudadera", "chandal-sudaderas", "chaqueta-sudadera-sueter", "Sudadera", "Sweatshirt"),
     (r"\bset\b|conjunto|co-ord|two piece|2 piece", "conjuntos", "conjuntos", "Conjunto", "Set"),
-    (r"coat|jacket|sweater|cardigan|parka|bomber|puffer|abrigo|chaqueta|su[eé]ter|jersey|knit", "abrigo-chaqueta-sueter", "chaqueta-sudadera-sueter", "Abrigo", "Coat"),
+    (r"baseball|b[eé]isbol|softball|football jersey|hockey jersey|sports jersey", "camisas", "camisas", "Camisa", "Jersey Shirt"),
+    (r"\bcoat\b|overcoat|trench|jacket|parka|bomber|puffer|windbreaker|abrigo|chaqueta|cazadora|anorak", "abrigo-chaqueta-sueter", "chaqueta-sudadera-sueter", "Chaqueta", "Jacket"),
     (r"polo", "polos", "polo", "Polo", "Polo"),
     (r"t-shirt|tshirt|\btee\b|camiseta|tank|crop|\btops?\b", "camiseta", "camisetas-blusas-tops", "Camiseta", "Tee"),
     (r"blouse|blusa", None, "camisetas-blusas-tops", "Blusa", "Blouse"),
     (r"shirt|camisa|button", "camisas", "camisas", "Camisa", "Shirt"),
+    (r"sweater|cardigan|pullover|jumper|knit|su[eé]ter|jersey|punto", "abrigo-chaqueta-sueter", "chaqueta-sudadera-sueter", "Suéter", "Sweater"),
     (r"shorts|bermuda|pantal[oó]n corto", "pantalones-cortos", "pantalones-cortos", "Bermuda", "Shorts"),
     (r"pants|trouser|jean|chino|pantal[oó]n", "pantalones", "pantalones", "Pantalón", "Trousers"),
     (r"\bbag\b|wallet|tote|backpack|purse|clutch|bolso|cartera|mochila", "bolsos-carteras", "bolsos-carteras", "Bolso", "Bag"),
@@ -173,10 +175,13 @@ def detect_gender(row, text):
         return "men"
     if g in ("unisex", "u"):
         return "unisex"
-    if re.search(r"\b(women|woman|womens|women's|ladies|mujer|female)\b", text):
+    if re.search(r"\b(women|woman|womens|women's|ladies|lady|mujer|mujeres|female|femenin[oa]|dama|se[nñ]ora|girl|chica)\b", text):
         return "women"
-    if re.search(r"\b(men|man|mens|men's|hombre|male)\b", text):
+    if re.search(r"\b(men|man|mens|men's|hombre|hombres|male|masculin[oa]|caballero|boy|chico)\b", text):
         return "men"
+    # prendas que en la práctica son de mujer
+    if re.search(r"\b(dress|vestido|skirt|falda|bodysuit|\bbody\b|bikini|bra|sujetador|crop|blouse|blusa|lingerie|romper|leggings?|cheerleading|cheer|tutu|mono corto|shortall|backless|halter)\b", text):
+        return "women"
     return "unisex"
 
 
@@ -206,8 +211,8 @@ def classify(row):
                 cats.append(f"hombre/{men_sub}")
             if gender in ("women", "unisex") and women_sub:
                 cats.append(f"mujer/{women_sub}")
-            if not cats:  # p. ej. corbata marcada "mujer": se queda en la única categoría que existe
-                cats.append(f"hombre/{men_sub}" if men_sub else f"mujer/{women_sub}")
+            if not cats:  # esta prenda no existe para ese público: se prueba la siguiente regla
+                continue
             return cats, n_es, n_en, False
 
     fallback = "mujer/camisetas-blusas-tops" if gender == "women" else "hombre/camiseta"
@@ -226,6 +231,69 @@ def compute_price(cost, cats, cfg, old=None):
     price = math.ceil(raw / step) * step
     margin = round((price - cost) / price * 100, 1) if price else 0
     return float(price), margin
+
+
+def lowest_price(cost, ship_main, ship_worst, cfg):
+    """El precio MÁS BAJO que deja el beneficio que pides, con el envío ya incluido:
+    - al menos el objetivo (20 %) en los envíos principales (EE. UU.),
+    - y nunca menos del mínimo (15 %) aunque el envío sea al país más caro.
+    Ya descuenta la comisión de Stripe. Devuelve (precio, % de beneficio real)."""
+    pr = cfg.get("pricing", {})
+    f = pr.get("stripe_fee_pct", 4.5) / 100
+    fixed = pr.get("stripe_fee_fixed", 0.30)
+    t = pr.get("target_margin_pct", 20) / 100
+    m = pr.get("min_margin_pct", 15) / 100
+    raw = max((cost + ship_main + fixed) / (1 - t - f), (cost + ship_worst + fixed) / (1 - m - f))
+    price = math.ceil(raw + 0.01) - 0.01 if pr.get("ending_99", True) else math.ceil(raw)
+    profit = price - cost - ship_main - (price * f + fixed)
+    return round(float(price), 2), round(profit / price * 100, 1)
+
+
+SHIP_CACHE = {}
+
+
+def printify_shipping(bp, pp):
+    """Envío real de Printify (primer artículo) a EE. UU. y al destino más caro entre España y el resto."""
+    key = f"{bp}-{pp}"
+    if key in SHIP_CACHE:
+        return SHIP_CACHE[key]
+    us = worst = None
+    try:
+        data = printify(f"/catalog/blueprints/{bp}/print_providers/{pp}/shipping.json")
+        for prof in data.get("profiles", []):
+            c = (prof.get("first_item") or {}).get("cost", 0) / 100
+            countries = prof.get("countries", [])
+            if "US" in countries:
+                us = c if us is None else max(us, c)
+            if any(x in countries for x in ("ES", "REST_OF_THE_WORLD", "DE", "FR", "GB")):
+                worst = c if worst is None else max(worst, c)
+    except Exception:
+        pass
+    us = us if us is not None else 6.0
+    SHIP_CACHE[key] = (us, max(worst if worst is not None else us, us))
+    return SHIP_CACHE[key]
+
+
+def printful_shipping(variant_id, cache):
+    """Envío real de Printful (tarifa estándar) a EE. UU. y a España, guardado 7 días."""
+    rates = cache.setdefault("printful_shipping", {})
+    hit = rates.get(str(variant_id))
+    if hit and hit.get("date", "") >= (NOW - timedelta(days=7)).strftime("%Y-%m-%d"):
+        return hit["us"], hit["worst"]
+    out = {}
+    for cc in ("US", "ES"):
+        try:
+            res = printful("/shipping/rates", {"recipient": {"country_code": cc},
+                                                "items": [{"variant_id": int(variant_id), "quantity": 1}]})
+            vals = [float(r.get("rate", 0)) for r in res.get("result", []) if r.get("rate")]
+            out[cc] = min(vals) if vals else None
+            time.sleep(0.6)
+        except Exception:
+            out[cc] = None
+    us = out.get("US") or 7.0
+    worst = max(us, out.get("ES") or us)
+    rates[str(variant_id)] = {"us": us, "worst": worst, "date": TODAY}
+    return us, worst
 
 
 # ------------------------------------------------------------- textos de lujo
@@ -321,7 +389,9 @@ def read_printify():
                         "supplier_product_id": str(p["id"]),
                         "title": p.get("title", ""), "type": " ".join(p.get("tags", [])),
                         "gender": "", "color": color, "material": "",
-                        "cost_usd": str(min(v.get("cost", 0) for v in vs) / 100), "shipping_usd": "6",
+                        "cost_usd": str(max(v.get("cost", 0) for v in vs) / 100),
+                        "shipping_usd": str(printify_shipping(p.get("blueprint_id"), p.get("print_provider_id"))[0]),
+                        "shipping_worst_usd": str(printify_shipping(p.get("blueprint_id"), p.get("print_provider_id"))[1]),
                         "sizes": "|".join(sizes[:30]), "images": "|".join(imgs[:8]),
                         "variant_map": vmap, "skus": [v.get("sku", "") for v in vs if v.get("sku")],
                         "description": re.sub(r"<[^>]+>", " ", p.get("description", ""))[:600],
@@ -372,7 +442,7 @@ def read_printful():
                             except Exception:
                                 costs[cid] = 0
                         c = costs.get(cid) or 0
-                        cost = c if cost is None else min(cost, c)
+                        cost = c if cost is None else max(cost, c)
                     if not imgs and sp.get("thumbnail_url"):
                         imgs.append(sp["thumbnail_url"])
                     rows.append({
@@ -381,7 +451,9 @@ def read_printful():
                         "supplier_product_id": str(sp.get("id")),
                         "title": sp.get("name", ""), "type": (gv[0].get("product") or {}).get("name", ""),
                         "gender": "", "color": color, "material": "",
-                        "cost_usd": str(cost or 0), "shipping_usd": "7",
+                        "cost_usd": str(cost or 0),
+                        "shipping_usd": str(printful_shipping(gv[0].get("variant_id"), cache)[0]),
+                        "shipping_worst_usd": str(printful_shipping(gv[0].get("variant_id"), cache)[1]),
                         "sizes": "|".join(sizes[:30]), "images": "|".join(imgs[:8]),
                         "variant_map": vmap, "description": "", "skus": [v.get("sku", "") for v in gv if v.get("sku")],
                     })
@@ -605,6 +677,131 @@ def update_fx(cfg):
         log(f"Cambio no actualizado hoy (se mantiene el anterior): {e}")
 
 
+# ------------------------------------------- vigilante de calidad (mantenimiento)
+MEN_WORDS = r"\b(men|man|mens|men's|hombre|hombres|caballero|masculin[oa])\b"
+WOMEN_WORDS = r"\b(women|woman|womens|women's|ladies|mujer|mujeres|dama|femenin[oa])\b"
+
+
+def _group_of(cat):
+    g = cat.split("/")[0]
+    return {"calzado-hombre": "hombre", "calzado-mujer": "mujer"}.get(g, g)
+
+
+def quality_guard(plist, cfg):
+    """Revisa TODO lo que hace el motor y lo corrige solo. Deja un registro para el informe diario.
+    1. Ropa en la sección equivocada (de hombre en mujer, camisetas en abrigos...): se recoloca.
+    2. Productos de público dudoso: pasan los primeros a la revisión con IA.
+    3. Fotos rotas: se quitan; sin ninguna foto, el producto se oculta.
+    4. Productos repetidos (la misma foto principal): se deja solo uno.
+    5. Precios por debajo del coste: se ocultan hasta corregirlos.
+    6. Inspección con IA de una muestra cada hora: ¿la foto corresponde a su sección?"""
+    import tempfile
+    g = cfg.get("guard", {})
+    log_ = {"date": TODAY, "fixes": []}
+    fix = lambda p, what: log_["fixes"].append(f"{p.get('name_es', p['id'])}: {what}")
+    seen_img = {}
+    checked = 0
+    for p in sorted(plist, key=lambda x: x.get("rank", 9999)):
+        if p.get("archived") or str(p.get("supplier_id", "")).upper().startswith("DEMO-"):
+            continue
+        title = (p.get("source_title") or "").lower()
+        groups = {_group_of(c) for c in p.get("categories", [])}
+        # 1. público explícito en el título que no cuadra con la sección
+        if not p.get("locked_category"):
+            want = "women" if re.search(WOMEN_WORDS, title) else ("men" if re.search(MEN_WORDS, title) else "")
+            bad = (want == "women" and "hombre" in groups) or (want == "men" and "mujer" in groups)
+            rule_cats, _, _, review = classify({"type": f"{p.get('ai_type', '')} {title}", "title": title,
+                                                "gender": p.get("ai_gender") or want})
+            if bad or (not review and not p.get("ai_done") and set(rule_cats) != set(p.get("categories", []))
+                       and not p.get("variant_map")):
+                if set(rule_cats) != set(p.get("categories", [])):
+                    fix(p, f"sección corregida a {', '.join(rule_cats)}")
+                    p["categories"] = rule_cats
+            # 2. va a las dos secciones (público dudoso): revisión con IA primero
+            if {"hombre", "mujer"} <= {_group_of(c) for c in p["categories"]} and not p.get("ai_done"):
+                p["ai_priority"] = True
+        # 3. fotos rotas (se comprueban unas cuantas cada hora)
+        if checked < g.get("image_checks_per_run", 60) and p.get("img_checked", "") < (NOW - timedelta(days=7)).strftime("%Y-%m-%d"):
+            first = next((u for u in p.get("display_images", []) if u.startswith("http")), None)
+            if first:
+                checked += 1
+                try:
+                    rq = urllib.request.Request(first, method="HEAD", headers={"User-Agent": "Mozilla/5.0 DAZMOND"})
+                    urllib.request.urlopen(rq, timeout=15)
+                except urllib.error.HTTPError as e:
+                    if e.code in (404, 410, 403):
+                        p["display_images"] = [u for u in p["display_images"] if u != first]
+                        fix(p, "foto rota quitada")
+                except Exception:
+                    pass
+                p["img_checked"] = TODAY
+        if not p.get("display_images") and not p.get("hidden"):
+            p["hidden"], p["available"] = True, False
+            fix(p, "oculto: no tiene ninguna foto")
+        # 4. repetidos
+        main = (p.get("display_images") or [None])[0]
+        if main and not p.get("hidden"):
+            if main in seen_img and seen_img[main] != p["id"]:
+                p["hidden"], p["available"] = True, False
+                fix(p, f"oculto: repetido de {seen_img[main]}")
+            else:
+                seen_img[main] = p["id"]
+        # 5. precio por debajo del coste
+        total = (p.get("cost_usd") or 0) + (p.get("shipping_usd") or 0)
+        if total and p.get("price_usd", 0) <= total and not p.get("hidden"):
+            p["hidden"], p["available"] = True, False
+            fix(p, f"oculto: precio {p.get('price_usd')} $ por debajo del coste {total:.2f} $")
+    # 6. inspección con IA de una muestra (lo ya revisado también se vigila)
+    n = g.get("ai_audit_per_run", 10) if ai_vision.ready() else 0
+    sample = [p for p in plist if p.get("ai_done") and not p.get("hidden") and not p.get("locked_category")
+              and p.get("audited", "") < (NOW - timedelta(days=30)).strftime("%Y-%m-%d")][:n]
+    names = {f"{m['id']}": m for m in _lj("catalog.json", {"menus": []}).get("menus", [])}
+    for p in sample:
+        url = (p.get("display_images") or [None])[0]
+        if not url:
+            continue
+        with tempfile.TemporaryDirectory() as tmp:
+            path = os.path.join(tmp, "a.img")
+            try:
+                if url.startswith("http"):
+                    rq = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 DAZMOND"})
+                    with urllib.request.urlopen(rq, timeout=30) as r, open(path, "wb") as f:
+                        f.write(r.read())
+                else:
+                    path = os.path.join(ROOT, url)
+            except Exception:
+                continue
+            claim = " and ".join(p.get("categories", []))
+            out = ai_vision.audit(path, f"section {claim} (sex: {'both' if len({_group_of(c) for c in p['categories']}) > 1 else _group_of(p['categories'][0])})")
+        if not out:
+            if "429" in ai_vision.LAST_ERROR:
+                break
+            continue
+        p["audited"] = TODAY
+        if out.get("ok") is False:
+            cats, _, _, review = classify({"type": out.get("type", ""), "title": out.get("type", ""),
+                                           "gender": out.get("gender", "")})
+            if not review and set(cats) != set(p["categories"]):
+                fix(p, f"inspección IA: era {out.get('type')} ({out.get('gender')}) → {', '.join(cats)}")
+                p["categories"] = cats
+                p["ai_type"], p["ai_gender"] = out.get("type", ""), out.get("gender", "")
+        time.sleep(3)
+    hist = _lj("quality_log.json", {"days": []})
+    days = [d for d in hist.get("days", []) if d.get("date") != TODAY][-13:]
+    today = next((d for d in hist.get("days", []) if d.get("date") == TODAY), {"date": TODAY, "fixes": []})
+    today["fixes"] = (today["fixes"] + log_["fixes"])[-300:]
+    _sj("quality_log.json", {"days": days + [today]})
+    if log_["fixes"]:
+        log(f"Vigilante: {len(log_['fixes'])} correcciones en esta hora")
+
+
+def family_of(p):
+    """Familia de diseño (mismo modelo en otro color): para que la portada no repita lo mismo."""
+    words = [w for w in slug(p.get("source_title") or p.get("name_en", "")).split("-")
+             if w and not w.isdigit() and w not in COLORS and w not in ("shopify", "design", "dazmond", "daz", "de", "para", "the", "and", "con", "y", "all", "over", "print")]
+    return "-".join(words[:3])
+
+
 # ------------------------------------------------------- limpieza automática
 def cleanup(plist, cfg):
     """Archiva (oculta, sin borrar) lo que el proveedor ya no tiene, y lo recupera solo si vuelve.
@@ -658,7 +855,7 @@ def cleanup(plist, cfg):
 
 # ------------------------------------------------ archivos rápidos para la web
 LITE = ("id", "name_es", "name_en", "price_usd", "offer", "badge", "categories", "available", "rank", "created",
-        "page", "supplier_id")
+        "page", "supplier_id", "fam")
 ITEM_SKIP = ("cost_usd", "margin_pct", "markup_adjust", "price_history", "score", "source_text", "raw_images",
              "variant_map", "sku_map", "size_values", "stripe_product_id", "stripe_link_id", "stripe_offer_link_id",
              "stripe_price_cents", "stripe_offer_cents", "stripe_site", "images_model", "images_original",
@@ -704,7 +901,7 @@ def ai_enrich(plist, cfg):
     limit = cfg.get("ai", {}).get("enrich_per_run", 40)
     todo = [p for p in plist if not p.get("ai_done") and not p.get("locked_copy") and not p.get("archived")
             and not str(p.get("supplier_id", "")).upper().startswith("DEMO-")]
-    todo.sort(key=lambda p: bool(p.get("draft")))  # primero los publicados
+    todo.sort(key=lambda p: (not p.get("ai_priority"), bool(p.get("draft"))))  # primero lo dudoso y lo publicado
     done = 0
     for p in todo[:limit]:
         raw = p.get("raw_images") or p.get("display_images") or []
@@ -870,6 +1067,8 @@ def apply_offer(p, camp, cfg):
     cost, price = p.get("cost_usd", 0), p["price_usd"]
     if not cost or cost <= 0:  # sin coste conocido no se rebaja: así nunca se vende con pérdidas
         return
+    pr = cfg.get("pricing", {})
+    cost = cost + p.get("shipping_worst_usd", p.get("shipping_usd", 0))  # el envío más caro también cuenta
     limit = (NOW - timedelta(days=30)).strftime("%Y-%m-%d")
     hist = p.get("price_history", {})
     if len(hist) < o.get("min_days_listed", 14):  # no se rebaja un precio que aún no se ha cobrado de verdad
@@ -879,8 +1078,9 @@ def apply_offer(p, camp, cfg):
         offer = math.floor(price * (1 - pct / 100))
         if offer <= 0 or offer >= ref:
             continue
-        margin = (offer - cost) / offer * 100
-        if margin >= o.get("min_margin_after_discount_pct", 45) and offer - cost >= o.get("min_profit_after_discount_usd", 15):
+        fees = offer * pr.get("stripe_fee_pct", 4.5) / 100 + pr.get("stripe_fee_fixed", 0.30)
+        margin = (offer - cost - fees) / offer * 100
+        if margin >= o.get("min_margin_after_discount_pct", 15) and offer - cost - fees >= o.get("min_profit_after_discount_usd", 4):
             p["offer"] = {"price_usd": float(offer), "ref_price_usd": ref,
                           "pct": round((ref - offer) / ref * 100), "campaign": camp["id"], "ends": camp.get("ends")}
             return
@@ -948,10 +1148,24 @@ def main():
         cats, n_es, n_en, review = classify(r)
         if prev.get("locked_category"):
             cats = prev["categories"]
+        pr = cfg.get("pricing", {})
         try:
-            cost = float(r.get("cost_usd") or 0) + float(r.get("shipping_usd") or 0)
+            base = float(r.get("cost_usd") or 0)
         except ValueError:
-            cost = 0.0
+            base = 0.0
+        try:
+            ship = float(r.get("shipping_usd") or 0)
+        except ValueError:
+            ship = 0.0
+        if base > 0 and ship <= 0:  # proveedores sin conexión: envío típico de config.json
+            ship = float(pr.get("default_shipping_usd", {}).get(r["supplier"], pr.get("default_shipping_usd", {}).get("otros", 8)))
+        try:
+            ship_worst = max(float(r.get("shipping_worst_usd") or 0), ship)
+        except ValueError:
+            ship_worst = ship
+        if base > 0 and not r.get("shipping_worst_usd"):
+            ship_worst = ship * pr.get("worst_shipping_factor", 1.6)
+        cost = base + ship
         p = dict(prev)
         p.update({
             "id": pid, "supplier": r["supplier"], "supplier_id": r.get("supplier_id", ""),
@@ -1004,7 +1218,12 @@ def main():
             fixed = float(r.get("price_usd") or 0)
         except ValueError:
             pass
-        if fixed > 0 and not prev.get("locked_price"):  # precio puesto por ti (o el de tu Shopify): se respeta
+        if base > 0 and pr.get("mode", "lowest") == "lowest" and not prev.get("locked_price"):
+            # precio más bajo posible con el envío incluido y tu beneficio asegurado
+            p["price_usd"], p["margin_pct"] = lowest_price(base, ship, ship_worst, cfg)
+            p["cost_usd"], p["shipping_usd"], p["shipping_worst_usd"] = round(base, 2), round(ship, 2), round(ship_worst, 2)
+            p.pop("fixed_price", None)
+        elif fixed > 0 and not prev.get("locked_price"):  # sin coste conocido: se respeta tu precio de Shopify
             p["price_usd"] = float(round(fixed, 2))
             p["margin_pct"] = round((fixed - cost) / fixed * 100, 1) if cost > 0 else None
             p["fixed_price"] = True
@@ -1034,7 +1253,7 @@ def main():
                     twin[k] = p[k]
             twin["_shop_photos"] = (p.get("_row_images") or []) + (p.get("display_images") or [])
             twin["shop_verified"] = twin.get("shop_verified") or p.get("shop_verified")
-            if p.get("fixed_price") and not twin.get("locked_price"):  # tu precio de Shopify manda
+            if p.get("fixed_price") and not twin.get("locked_price") and not twin.get("cost_usd"):
                 twin["price_usd"], twin["margin_pct"], twin["fixed_price"] = p["price_usd"], p.get("margin_pct"), True
             continue
         merged.append(p)
@@ -1111,7 +1330,20 @@ def main():
     if camp:
         eff = lambda p: (p.get("offer") or {}).get("price_usd", p["price_usd"])
         avail = [p for p in plist if p["available"]]
-        gifts = [p["id"] for p in avail if eff(p) <= cfg.get("offers", {}).get("gift_max_price_usd", 150)][:8] if camp.get("gifts") else []
+        def varied(items, n):
+            fams, subs, out = set(), {}, []
+            for q in items:
+                fam, sub = family_of(q), q["categories"][0]
+                if fam in fams or subs.get(sub, 0) >= 2:
+                    continue
+                fams.add(fam)
+                subs[sub] = subs.get(sub, 0) + 1
+                out.append(q)
+                if len(out) >= n:
+                    break
+            return out
+        gifts = [p["id"] for p in varied([p for p in avail if eff(p) <= cfg.get("offers", {}).get("gift_max_price_usd", 150)
+                                          and not p.get("hidden")], 24)] if camp.get("gifts") else []
         offers = [p["id"] for p in avail if p.get("offer")]
         campaign = {"active": True, "updated": TODAY, "id": camp["id"], "ends": camp.get("ends"),
                     "discount_pct": camp.get("discount_pct", 0), "es": camp["es"], "en": camp["en"],
@@ -1119,6 +1351,9 @@ def main():
         log(f"Campaña activa: {camp['id']} · {len(offers)} ofertas · {len(gifts)} regalos")
 
     ai_enrich(plist, cfg)
+    quality_guard(plist, cfg)
+    for p in plist:
+        p["fam"] = family_of(p)
     complete_the_look(plist)
     cap = cfg.get("stripe", {}).get("links_per_run", 250)
     made = 0

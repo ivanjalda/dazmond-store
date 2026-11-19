@@ -15,7 +15,7 @@
   },
   "fx": {
     "base": "USD",
-    "EUR": 0.9117,
+    "EUR": 0.92,
     "updated": "2026-11-19"
   },
   "pricing": {
@@ -29,11 +29,25 @@
       "calzado-mujer": 2.2,
       "calzado-hombre": 2.2,
       "decor": 2.4
+    },
+    "mode": "lowest",
+    "target_margin_pct": 20,
+    "min_margin_pct": 15,
+    "stripe_fee_pct": 4.5,
+    "stripe_fee_fixed": 0.3,
+    "ending_99": true,
+    "worst_shipping_factor": 1.6,
+    "default_shipping_usd": {
+      "POPCUSTOMS": 10,
+      "Inkpod": 8,
+      "InterestPrint": 8,
+      "Shopify": 8,
+      "otros": 8
     }
   },
   "offers": {
-    "min_margin_after_discount_pct": 45,
-    "min_profit_after_discount_usd": 15,
+    "min_margin_after_discount_pct": 15,
+    "min_profit_after_discount_usd": 4,
     "gift_max_price_usd": 150,
     "min_days_listed": 14
   },
@@ -215,8 +229,7 @@
       "name": "Círculo DAZMOND 10%",
       "percent_off": 10,
       "first_order_only": true,
-      "for": "subscribers",
-      "created": true
+      "for": "subscribers"
     }
   ],
   "analytics": {
@@ -233,8 +246,8 @@
   },
   "pages_url": "https://ivanjalda.github.io/dazmond-store",
   "ai": {
-    "model": "gemini-2.5-flash",
-    "enrich_per_run": 40,
+    "model": "gemini-2.5-flash-lite",
+    "enrich_per_run": 60,
     "pause_seconds": 5
   },
   "shopify_import": {
@@ -248,5 +261,9 @@
   "cleanup": {
     "archive_after_days": 3,
     "archive_no_sales_days": 90
+  },
+  "guard": {
+    "image_checks_per_run": 60,
+    "ai_audit_per_run": 10
   }
 }

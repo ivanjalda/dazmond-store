@@ -255,6 +255,31 @@
   }
   const grid = list => list.length ? list.map(card).join('') : `<p class="empty">${t('empty')}</p>`;
   const picks = ids => (ids || []).map(id => S.byId[id]).filter(Boolean);
+  const grp = p => ((p.categories || [''])[0].split('/')[0] || '').replace(/^calzado-.*/, 'calzado');
+  /* Selección variada: como mucho 1 pieza por diseño y 2 por sección, alternando Mujer, Hombre, Calzado y Decor */
+  function varied(list, n) {
+    const fams = new Set(), subs = {}, buckets = {};
+    list.forEach(p => { (buckets[grp(p)] = buckets[grp(p)] || []).push(p); });
+    const order = ['mujer', 'hombre', 'calzado', 'decor'].filter(k => buckets[k]);
+    const out = [];
+    let guard = 0;
+    while (out.length < n && guard++ < 500) {
+      let added = false;
+      for (const k of order) {
+        const b = buckets[k];
+        while (b && b.length) {
+          const p = b.shift();
+          const fam = p.fam || p.id, sub = (p.categories || [''])[0];
+          if (fams.has(fam) || (subs[sub] || 0) >= 2) continue;
+          fams.add(fam); subs[sub] = (subs[sub] || 0) + 1; out.push(p); added = true; break;
+        }
+        if (out.length >= n) break;
+      }
+      if (!added) break;
+    }
+    return out;
+  }
+  const only = (p, g) => (p.categories || []).every(c => c.startsWith(g + '/') || c.startsWith('calzado-' + g));
 
   /* ---------- Portada ---------- */
   function homeView() {
@@ -262,9 +287,9 @@
     const c = S.camp.active && S.camp[S.lang];
     const hero = S.cfg.hero_image ? `<img src="${esc(abs(S.cfg.hero_image))}" alt="">` : '';
     const top = S.products.filter(p => p.available !== false);
-    const sel = picks(S.camp.gifts && S.camp.gifts.length ? S.camp.gifts : S.camp.offers).slice(0, 4);
-    const men = top.find(p => (p.categories || []).some(x => x.startsWith('hombre/')) && imgs(p)[0]);
-    const women = top.find(p => (p.categories || []).some(x => x.startsWith('mujer/')) && imgs(p)[0]);
+    const sel = varied(picks(S.camp.gifts && S.camp.gifts.length ? S.camp.gifts : S.camp.offers), 4);
+    const men = top.find(p => only(p, 'hombre') && imgs(p)[0]);
+    const women = top.find(p => only(p, 'mujer') && imgs(p)[0] && (!men || p.fam !== men.fam));
     const shoe = top.find(p => (p.categories || []).some(x => x.startsWith('calzado-')) && imgs(p)[0]);
     app.innerHTML = `
     <section class="hero">
@@ -301,7 +326,7 @@
     </section>
     <section class="section">
       <div class="section-head"><h2>${t('featured')}</h2><div class="rule"></div></div>
-      <div class="runway">${grid(top.slice(0, 10))}</div>
+      <div class="runway">${grid(varied(top.filter(p => !sel.includes(p) && p !== men && p !== women), 10))}</div>
     </section>`;
   }
 

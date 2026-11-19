@@ -85,6 +85,11 @@ def main():
         lines.append(f"📷 {len(no_photo)} piezas sin foto nítida (no salen en redes).")
     if review:
         lines.append(f"🔎 {len(review)} piezas con la sección por revisar: " + ", ".join(p.get("name_es", p["id"]) for p in review[:5]))
+    q = load_json("quality_log.json", {"days": []}).get("days", [])
+    if q:
+        last = q[-1]
+        lines.append(f"\n🛡️ Vigilante de calidad ({last['date']}): {len(last.get('fixes', []))} correcciones hechas solas")
+        lines += [f"  · {f}" for f in last.get("fixes", [])[:8]]
     notify("\n".join(lines))
     print("[informe] Enviado.")
     return 0
