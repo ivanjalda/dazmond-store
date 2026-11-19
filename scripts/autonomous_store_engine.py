@@ -41,6 +41,7 @@ from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from dz_common import env, load_json as _lj, printful, printify, request, save_json as _sj, stripe  # noqa: E402
+import ai_vision  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
@@ -596,6 +597,29 @@ def update_fx(cfg):
         log(f"Cambio no actualizado hoy (se mantiene el anterior): {e}")
 
 
+# ----------------------------------------- auto-edición de cada producto (IA)
+def ai_rewrite(plist, cfg):
+    """Reescribe con la IA, una sola vez por producto, nombre + descripción + detalles en ES/EN."""
+    if not ai_vision.ready():
+        return
+    limit = cfg.get("ai", {}).get("copy_per_run", 40)
+    todo = [p for p in plist if not p.get("ai_copy") and not p.get("locked_copy")
+            and not str(p.get("supplier_id", "")).upper().startswith("DEMO-")]
+    done = 0
+    for p in todo[:limit]:
+        img = next((os.path.join(ROOT, u) for u in p.get("display_images", []) if not u.startswith("http")), None)
+        out = ai_vision.write_copy(p.get("source_text") or p.get("source_title", ""), img)
+        if out:
+            p["name_es"], p["name_en"] = out["name_es"].strip(), out["name_en"].strip()
+            p["desc_es"], p["desc_en"] = out["desc_es"].strip(), out["desc_en"].strip()
+            p["details_es"], p["details_en"] = out.get("details_es", "").strip(), out.get("details_en", "").strip()
+            p["ai_copy"] = True
+            done += 1
+        time.sleep(4)  # respeta el límite gratuito
+    if todo:
+        log(f"IA: {done} productos reescritos con el estilo de la casa · quedan {max(0, len(todo) - done)}")
+
+
 # ------------------------------------------------ fotos y verificación visual
 VERIFIED_DIR = os.path.join(ROOT, "assets", "verified")
 MODEL_HINT = re.compile(r"model|lifestyle|person|people|wearing|on-body|onbody|ai-gen|generated", re.I)
@@ -794,7 +818,9 @@ def main():
             p["stripe_payment_link"] = r["stripe_payment_link"]
             p["stripe_link_id"] = r.get("stripe_link_id", prev.get("stripe_link_id", ""))
             p["manual_payment_link"] = True
-        if not prev.get("locked_copy"):
+        p["source_text"] = " ".join(x for x in (r.get("title", ""), r.get("type", ""), r.get("color", ""),
+                                                 r.get("material", ""), r.get("description", "")) if x)[:3000]
+        if not prev.get("locked_copy") and not prev.get("ai_copy"):  # plantilla mientras la IA no lo reescribe
             p["name_es"], p["name_en"], p["desc_es"], p["desc_en"] = luxury_copy(pid, n_es, n_en, r)
         fixed = 0.0
         try:
@@ -909,6 +935,7 @@ def main():
                     "offers": offers, "gifts": gifts, "selection": (offers + [g for g in gifts if g not in offers]) or [p["id"] for p in avail[:8]]}
         log(f"Campaña activa: {camp['id']} · {len(offers)} ofertas · {len(gifts)} regalos")
 
+    ai_rewrite(plist, cfg)
     complete_the_look(plist)
     for p in plist:
         ensure_payment_link(p)

@@ -126,3 +126,49 @@ def build_from_photos(local_paths, pid, context=""):
         "ai_color": info.get("color", ""), "ai_material": info.get("material", ""),
         "ai_title": info.get("title_en", ""),
     }
+
+
+COPY_PROMPT = """You are the head copywriter of DAZMOND & Co., an American luxury fashion house (registered US brand,
+made-to-order pieces, worldwide shipping). Rewrite this product COMPLETELY in the house style, in Spanish and English.
+
+Product data from the supplier (may be messy, in any language, with supplier names or marketing junk):
+{data}
+
+Rules:
+- Elegant, sensory, confident, like Saint Laurent or Hugo Boss. Short sentences. No emojis, no exclamation marks.
+- NEVER invent facts: no fabrics, origins ("Italian", "handmade"), certifications or awards that are not in the data.
+- Never mention the supplier, print-on-demand, dropshipping, AliExpress or any other brand.
+- You may say it is made to order (confeccionada bajo demanda) and shipped worldwide.
+- "name": max 5 words, refined, no supplier codes (you may add a collection word like Noir, Riviera, Atelier, Monogram).
+- "desc": 60-110 words, about the piece, the silhouette, how and when to wear it.
+- "details": short lines (one per line, each starting with "· ") with ONLY real facts from the data:
+  composition/material, fit, closure, care instructions, notes. If there are none, write just the made-to-order line.
+
+Return ONLY JSON: {{"name_es": "", "name_en": "", "desc_es": "", "desc_en": "", "details_es": "", "details_en": ""}}"""
+
+
+def write_copy(data_text, image_path=None):
+    """Escribe nombre, descripción y detalles de lujo (ES/EN) para un producto. Devuelve dict o None."""
+    if not ready():
+        return None
+    model = load_json("config.json", {}).get("ai", {}).get("model", "gemini-2.5-flash")
+    parts = [{"text": COPY_PROMPT.format(data=data_text[:3000])}]
+    if image_path and os.path.exists(image_path):
+        small = _shrink(image_path)
+        with open(small, "rb") as f:
+            parts.append({"inline_data": {"mime_type": "image/jpeg", "data": base64.b64encode(f.read()).decode()}})
+    body = {"contents": [{"role": "user", "parts": parts}],
+            "generationConfig": {"temperature": 0.6, "responseMimeType": "application/json"}}
+    for m in [model, "gemini-flash-latest", "gemini-2.0-flash"]:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent?key={env('GEMINI_API_KEY')}"
+        try:
+            res = request(url, "POST", body=body, timeout=120, retries=2)
+            out = json.loads(res["candidates"][0]["content"]["parts"][0]["text"])
+            if all(out.get(k) for k in ("name_es", "name_en", "desc_es", "desc_en")):
+                return out
+            return None
+        except Exception as e:
+            if "404" not in str(e):
+                print(f"[ia] No se pudo escribir el texto: {str(e)[:120]}")
+                return None
+    return None
