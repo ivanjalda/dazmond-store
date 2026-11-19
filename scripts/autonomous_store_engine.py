@@ -187,7 +187,8 @@ def detect_gender(row, text):
 
 def classify(row):
     """Devuelve (lista_de_categorías, nombre ES, nombre EN, necesita_revisión)."""
-    text = " ".join([row.get("type", ""), row.get("title", "")]).lower()
+    text = " ".join([row.get("type", ""), row.get("title", ""),  # el código del producto también da pistas (womens-cropped-jacket)
+                     re.sub(r"[-_]+", " ", str(row.get("supplier_id", "")))]).lower()
     gender = detect_gender(row, text)
 
     for pattern, men_sub, women_sub, n_es, n_en in FOOTWEAR:
@@ -704,7 +705,7 @@ def quality_guard(plist, cfg):
     for p in sorted(plist, key=lambda x: x.get("rank", 9999)):
         if p.get("archived") or str(p.get("supplier_id", "")).upper().startswith("DEMO-"):
             continue
-        title = (p.get("source_title") or "").lower()
+        title = ((p.get("source_title") or "") + " " + re.sub(r"[-_]+", " ", str(p.get("supplier_id", "")))).lower()
         groups = {_group_of(c) for c in p.get("categories", [])}
         # 1. público explícito en el título que no cuadra con la sección
         if not p.get("locked_category"):

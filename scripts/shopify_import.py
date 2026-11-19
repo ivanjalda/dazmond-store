@@ -82,7 +82,7 @@ def read_products():
                     continue
                 p = prods.setdefault(h, {"handle": h, "variants": [], "images": [], "rows": []})
                 for k in ("Title", "Body (HTML)", "Vendor", "Type", "Tags", "Status", "Option1 Name",
-                          "Option2 Name", "Option3 Name", "Product Category"):
+                          "Option2 Name", "Option3 Name", "Product Category", "Google Shopping / Gender"):
                     if r.get(k) and not p.get(k):
                         p[k] = r[k]
                 img = (r.get("Image Src") or "").strip()
@@ -148,7 +148,9 @@ def build_rows(p, cfg):
         sid = p["handle"] + (f"-{slug(color)}" if color and len(groups) > 1 else "")
         rows.append({"supplier": supplier, "supplier_id": sid, "title": title,
                      "type": " ".join(x for x in (p.get("Type", ""), p.get("Product Category", ""), p.get("Tags", "")) if x),
-                     "gender": "", "color": color, "material": "",
+                     "gender": {"female": "women", "male": "men", "unisex": "unisex"}.get(
+                         (p.get("Google Shopping / Gender") or "").strip().lower(), ""),
+                     "color": color, "material": "",
                      "cost_usd": f"{min(costs) * rate_to_usd:.2f}" if costs else "",
                      "shipping_usd": "0", "price_usd": f"{max(prices) * rate_to_usd:.2f}" if prices else "",
                      "sizes": "|".join(sizes), "_imgs": imgs[:14],
@@ -177,13 +179,20 @@ def main():
         if st in ("archived", "archivado"):
             return False
         return st in ("active", "activo") if only_active else True
-    todo = [p for h, p in prods.items() if h not in state["done"] and wanted(p)]
+    todo = [p for h, p in prods.items() if wanted(p)]  # se rehace todo cada vez (es rápido) con lo último de Shopify
     log(f"Productos en la exportación: {len(prods)} · pendientes: {len(todo)}")
     count = 0
+    before = set(state["done"])
     for p in todo[:per_run]:
         try:
             for row in build_rows(p, cfg):
                 row["images"] = "|".join(u for u in row.pop("_imgs") if u.startswith("http"))
+                old = existing.get(row["supplier_id"], {})
+                for k in ("size_guide", "size_chart", "ai_sizes", "ai_type", "ai_gender", "ai_color", "ai_material", "ai_title"):
+                    if old.get(k) and not row.get(k):
+                        row[k] = old[k]
+                if "assets/" in (old.get("images") or ""):  # fotos ya guardadas en la web: se conservan
+                    row["images"] = old["images"]
                 row["draft"] = "" if (p.get("Status") or "active").strip().lower() in ("active", "activo") else "yes"
                 existing[row["supplier_id"]] = row
             state["done"][p["handle"]] = TODAY
@@ -197,7 +206,9 @@ def main():
             w.writerow(r)
     save_json("shopify_import_state.json", state)
     left = len(todo) - count
-    log(f"Importados en esta tanda: {count} · quedan: {left}")
+    fresh = [h for h in state["done"] if h not in before]
+    log(f"Productos revisados: {count} · nuevos: {len(fresh)}")
+    count = len(fresh)
     if count:
         notify(f"📦 Mudanza desde Shopify: {count} productos pasados"
                + (f", quedan {left} (sigo en la próxima hora)." if left else

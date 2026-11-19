@@ -15,7 +15,7 @@
   },
   "fx": {
     "base": "USD",
-    "EUR": 0.9117,
+    "EUR": 0.92,
     "updated": "2026-11-19"
   },
   "pricing": {
@@ -229,8 +229,7 @@
       "name": "Círculo DAZMOND 10%",
       "percent_off": 10,
       "first_order_only": true,
-      "for": "subscribers",
-      "created": true
+      "for": "subscribers"
     }
   ],
   "analytics": {
