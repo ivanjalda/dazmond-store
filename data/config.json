@@ -230,5 +230,13 @@
     "enabled": true,
     "max_new_products_per_run": 12
   },
-  "pages_url": "https://ivanjalda.github.io/dazmond-store"
+  "pages_url": "https://ivanjalda.github.io/dazmond-store",
+  "ai": {
+    "model": "gemini-2.5-flash"
+  },
+  "shopify_import": {
+    "currency": "USD",
+    "per_run_with_ai": 25,
+    "per_run": 150
+  }
 }

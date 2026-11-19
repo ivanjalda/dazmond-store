@@ -1,0 +1,211 @@
+#!/usr/bin/env python3
+"""
+DAZMOND & Co. — Mudanza desde Shopify con TODOS tus productos de los 5 proveedores.
+
+Cómo se usa (una sola vez, o cuando quieras):
+  1. En Shopify: Productos → Exportar → "Todos los productos" → "CSV para Excel o Numbers".
+  2. Ese archivo se lo mandas al bot de Telegram (o lo subes a data/suppliers/shopify/).
+
+Qué hace solo (por tandas cada hora, para no pasarse del límite gratuito):
+  - Lee cada producto con sus tallas, colores, precios, costes, fotos y descripción.
+  - Detecta el proveedor (Printify, Printful, POPCUSTOMS, Inkpod, InterestPrint).
+  - Descarga TODAS las fotos a la web (comprimidas), porque al cerrar Shopify sus fotos desaparecen.
+  - La inteligencia artificial separa fotos de producto, de modelo y de GUÍA DE TALLAS,
+    y LEE la tabla de tallas de la foto para mostrarla en la ficha en español e inglés.
+  - Respeta tus precios de Shopify (no los cambia).
+"""
+
+import csv
+import glob
+import html
+import json
+import os
+import re
+import sys
+import tempfile
+import urllib.request
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import ai_vision  # noqa: E402
+from dz_common import DATA, TODAY, load_json, notify, save_json, slug  # noqa: E402
+
+RAW_DIR = os.path.join(DATA, "suppliers", "shopify")
+OUT = os.path.join(DATA, "suppliers", "shopify_productos.csv")
+FIELDS = ["supplier", "supplier_id", "title", "type", "gender", "color", "material", "cost_usd", "shipping_usd",
+          "price_usd", "sizes", "images", "size_guide", "size_chart", "stock", "description", "verified",
+          "sku_map", "source_title", "ai_sizes", "ai_type", "ai_gender", "ai_color", "ai_material", "ai_title"]
+SUPPLIERS = [("printify", "Printify"), ("printful", "Printful"), ("popcustoms", "POPCUSTOMS"),
+             ("inkpod", "Inkpod"), ("ink pod", "Inkpod"), ("wowfulfillment", "Inkpod"),
+             ("interestprint", "InterestPrint"), ("interest print", "InterestPrint")]
+SIZE_NAMES = ("size", "talla", "tamaño", "taille", "größe")
+COLOR_NAMES = ("color", "colour", "colores")
+
+
+def log(msg):
+    print(f"[shopify] {msg}", flush=True)
+
+
+def detect_supplier(text):
+    t = text.lower()
+    for key, name in SUPPLIERS:
+        if key in t:
+            return name
+    return "Shopify"
+
+
+def strip_html(s):
+    s = re.sub(r"<(br|/p|/li|/h\d)[^>]*>", "\n", s or "", flags=re.I)
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = html.unescape(s)
+    return re.sub(r"[ \t]+", " ", re.sub(r"\n\s*\n+", "\n", s)).strip()
+
+
+def body_images(body):
+    return [u if u.startswith("http") else "https:" + u
+            for u in re.findall(r"<img[^>]+src=[\"']([^\"']+)", body or "", flags=re.I)]
+
+
+def to_float(v):
+    try:
+        return float(str(v).replace(",", ".").strip())
+    except (TypeError, ValueError):
+        return 0.0
+
+
+def read_products():
+    prods = {}
+    for path in sorted(glob.glob(os.path.join(RAW_DIR, "*.csv"))):
+        with open(path, encoding="utf-8-sig", newline="") as f:
+            for r in csv.DictReader(f):
+                h = (r.get("Handle") or "").strip()
+                if not h:
+                    continue
+                p = prods.setdefault(h, {"handle": h, "variants": [], "images": [], "rows": []})
+                for k in ("Title", "Body (HTML)", "Vendor", "Type", "Tags", "Status", "Option1 Name",
+                          "Option2 Name", "Option3 Name", "Product Category"):
+                    if r.get(k) and not p.get(k):
+                        p[k] = r[k]
+                img = (r.get("Image Src") or "").strip()
+                if img and img not in p["images"]:
+                    p["images"].append(img)
+                if r.get("Option1 Value") or r.get("Variant SKU") or r.get("Variant Price"):
+                    p["variants"].append(r)
+    return prods
+
+
+def option_index(p, names):
+    for i in (1, 2, 3):
+        if (p.get(f"Option{i} Name") or "").strip().lower() in names:
+            return i
+    return None
+
+
+def download(url, dest_dir, n):
+    path = os.path.join(dest_dir, f"{n:02d}.img")
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 DAZMOND"})
+    with urllib.request.urlopen(req, timeout=60) as r, open(path, "wb") as f:
+        f.write(r.read())
+    return path
+
+
+def build_rows(p, cfg):
+    rate_to_usd = 1.0
+    if cfg.get("shopify_import", {}).get("currency", "USD").upper() == "EUR":
+        rate_to_usd = 1 / (cfg.get("fx", {}).get("EUR", 0.92) or 0.92)
+    title = (p.get("Title") or p["handle"]).strip()
+    body = p.get("Body (HTML)", "")
+    text = strip_html(body)
+    supplier = detect_supplier(" ".join([p.get("Vendor", ""), p.get("Tags", ""),
+                                         " ".join(v.get("Variant SKU", "") for v in p["variants"][:5])]))
+    si, ci = option_index(p, SIZE_NAMES), option_index(p, COLOR_NAMES)
+    groups = {}
+    for v in p["variants"]:
+        color = (v.get(f"Option{ci} Value") or "").strip() if ci else ""
+        groups.setdefault(color, []).append(v)
+    # Si no hay fotos por color, no se separa por colores (se queda el primer color para no liar al cliente)
+    variant_imgs = {c: [v.get("Variant Image") for v in vs if v.get("Variant Image")] for c, vs in groups.items()}
+    if len(groups) > 1 and not all(variant_imgs.values()):
+        first = next(iter(groups))
+        groups = {first: groups[first]}
+    rows = []
+    for color, vs in groups.items():
+        sizes, sku_map, prices, costs, stock = [], {}, [], [], 0
+        for v in vs:
+            s = (v.get(f"Option{si} Value") or "").strip() if si else ""
+            if not si and (v.get("Option1 Value") or "").lower() not in ("default title", ""):
+                s = v.get("Option1 Value", "").strip()
+            if s and s not in sizes:
+                sizes.append(s)
+            sku_map[s or "unica"] = v.get("Variant SKU", "")
+            if to_float(v.get("Variant Price")):
+                prices.append(to_float(v["Variant Price"]))
+            if to_float(v.get("Cost per item")):
+                costs.append(to_float(v["Cost per item"]))
+            stock += int(to_float(v.get("Variant Inventory Qty"))) if v.get("Variant Inventory Tracker") == "shopify" else 0
+        own = [u for u in variant_imgs.get(color, []) if u]
+        imgs = (own + [u for u in p["images"] if u not in own]) if len(groups) > 1 else p["images"]
+        imgs = imgs + [u for u in body_images(body) if u not in imgs]
+        sid = p["handle"] + (f"-{slug(color)}" if color and len(groups) > 1 else "")
+        rows.append({"supplier": supplier, "supplier_id": sid, "title": title,
+                     "type": " ".join(x for x in (p.get("Type", ""), p.get("Product Category", ""), p.get("Tags", "")) if x),
+                     "gender": "", "color": color, "material": "",
+                     "cost_usd": f"{min(costs) * rate_to_usd:.2f}" if costs else "",
+                     "shipping_usd": "0", "price_usd": f"{max(prices) * rate_to_usd:.2f}" if prices else "",
+                     "sizes": "|".join(sizes), "_imgs": imgs[:14],
+                     "stock": str(stock) if stock else "", "description": text[:1500], "verified": "yes",
+                     "sku_map": json.dumps(sku_map, ensure_ascii=False), "source_title": title})
+    return rows
+
+
+def main():
+    files = glob.glob(os.path.join(RAW_DIR, "*.csv"))
+    if not files:
+        log("No hay exportación de Shopify todavía.")
+        return 0
+    cfg = load_json("config.json", {})
+    per_run = cfg.get("shopify_import", {}).get("per_run_with_ai" if ai_vision.ready() else "per_run", 25 if ai_vision.ready() else 150)
+    state = load_json("shopify_import_state.json", {"done": {}})
+    existing = {}
+    if os.path.exists(OUT):
+        with open(OUT, encoding="utf-8", newline="") as f:
+            for r in csv.DictReader(f):
+                existing[r["supplier_id"]] = r
+    prods = read_products()
+    todo = [p for h, p in prods.items() if h not in state["done"]
+            and (p.get("Status", "active").lower() not in ("archived", "archivado"))]
+    log(f"Productos en la exportación: {len(prods)} · pendientes: {len(todo)}")
+    count = 0
+    for p in todo[:per_run]:
+        try:
+            for row in build_rows(p, cfg):
+                pid = f"{slug(row['supplier'])}-{slug(row['supplier_id'])}"[:70]
+                with tempfile.TemporaryDirectory() as tmp:
+                    local = []
+                    for n, u in enumerate(row.pop("_imgs")):
+                        try:
+                            local.append(download(u, tmp, n))
+                        except Exception:
+                            pass
+                    ctx = f"Title: {row['title']}. Type: {row['type']}. Supplier: {row['supplier']}. Text: {row['description'][:600]}"
+                    row.update(ai_vision.build_from_photos(local, pid, ctx))
+                existing[row["supplier_id"]] = row
+            state["done"][p["handle"]] = TODAY
+            count += 1
+        except Exception as e:
+            log(f"Un producto no se pudo importar: {str(e)[:150]}")
+    with open(OUT, "w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=FIELDS, extrasaction="ignore")
+        w.writeheader()
+        for r in existing.values():
+            w.writerow(r)
+    save_json("shopify_import_state.json", state)
+    left = len(todo) - count
+    log(f"Importados en esta tanda: {count} · quedan: {left}")
+    if count:
+        notify(f"📦 Mudanza desde Shopify: {count} productos importados en esta tanda"
+               + (f", quedan {left} (sigo en la próxima hora)." if left else ". ¡Terminado! Ya están todos en tu web."))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

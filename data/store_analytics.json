@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:15:17Z",
+  "updated": "2026-11-19T00:30:05Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -49,6 +49,14 @@
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false
+    },
+    "interestprint-half-zip-jumpsuit": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
     }
   }
 }

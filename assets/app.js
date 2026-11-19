@@ -51,7 +51,7 @@
       back: 'Volver a la tienda',
       b_top1: 'Nº 1 en Ventas', b_bestseller: 'Más vendido', b_lowstock: 'Edición Limitada · Últimas unidades', b_hot: 'Alta demanda', b_new: 'Novedad',
       secure: 'Pago 100 % seguro', sub_gift: 'Únete y recibe un {n} % de regalo en tu primera compra.', cookie_t: 'Usamos analítica para entender qué piezas gustan más y mejorar la tienda. ¿Nos lo permites?', accept: 'Aceptar', reject: 'Rechazar', until: 'Hasta el', gifts: 'Selección de regalos', offers_t: 'La selección de la campaña', view_all: 'Ver toda la selección', men_cta: 'Descubrir Hombre', women_cta: 'Descubrir Mujer',
-      d_make: 'Detalles de confección', d_ship: 'Envío y devoluciones', d_ship_t: 'Confección en 2–7 días laborables y envío internacional con seguimiento en 5–15 días laborables. Devolución o reposición gratuita si la pieza llega defectuosa.', d_material: 'Material', d_color: 'Color', d_made: 'Confeccionada bajo demanda, solo para ti.', zoom: 'Toca la imagen para ampliarla', camp_off: 'Ahora no hay ninguna campaña activa.'
+      d_make: 'Detalles de confección', d_guide: 'Guía de tallas', d_ship: 'Envío y devoluciones', d_ship_t: 'Confección en 2–7 días laborables y envío internacional con seguimiento en 5–15 días laborables. Devolución o reposición gratuita si la pieza llega defectuosa.', d_material: 'Material', d_color: 'Color', d_made: 'Confeccionada bajo demanda, solo para ti.', zoom: 'Toca la imagen para ampliarla', camp_off: 'Ahora no hay ninguna campaña activa.'
     },
     en: {
       topbar: 'Worldwide shipping · Made to order · Secure checkout',
@@ -94,7 +94,7 @@
       back: 'Back to the store',
       b_top1: 'No. 1 Best Seller', b_bestseller: 'Best Seller', b_lowstock: 'Limited Edition · Last pieces', b_hot: 'In high demand', b_new: 'New',
       secure: '100% secure payment', sub_gift: 'Join and get {n}% off your first order.', cookie_t: 'We use analytics to understand which pieces you love and improve the store. May we?', accept: 'Accept', reject: 'Decline', until: 'Until', gifts: 'The gift selection', offers_t: 'The campaign selection', view_all: 'View the full selection', men_cta: 'Discover Men', women_cta: 'Discover Women',
-      d_make: 'Tailoring details', d_ship: 'Shipping & returns', d_ship_t: 'Made in 2–7 business days and shipped internationally with tracking in 5–15 business days. Free replacement or refund if your piece arrives defective.', d_material: 'Material', d_color: 'Colour', d_made: 'Made to order, just for you.', zoom: 'Tap the image to zoom in', camp_off: 'There is no active campaign right now.'
+      d_make: 'Tailoring details', d_guide: 'Size guide', d_ship: 'Shipping & returns', d_ship_t: 'Made in 2–7 business days and shipped internationally with tracking in 5–15 business days. Free replacement or refund if your piece arrives defective.', d_material: 'Material', d_color: 'Colour', d_made: 'Made to order, just for you.', zoom: 'Tap the image to zoom in', camp_off: 'There is no active campaign right now.'
     }
   };
 
@@ -383,7 +383,13 @@
     const canBuy = p.available !== false && p.price_usd > 0;
     const c = p.offer && S.camp.active && S.camp[S.lang];
     const info = (S.catalog.menus.find(m => m.groups.some(g => g.id === (p.categories || [''])[0].split('/')[0])) || {});
-    const details = [p.material ? `${t('d_material')}: ${p.material}` : '', p.color ? `${t('d_color')}: ${p.color}` : '', t('d_made')].filter(Boolean).join('\n');
+    const details = [p.material ? `${t('d_material')}: ${p.material}` : '', p.color ? `${t('d_color')}: ${p.color}` : '', t('d_made'), p.details_src || ''].filter(Boolean).join('\n');
+    const sc = p.size_chart;
+    const guideTable = sc && sc.rows && sc.rows.length ? `<div class="size-table"><table><thead><tr>${((S.lang === 'es' && sc.headers_es) || sc.headers || []).map(h => `<th>${esc(h)}</th>`).join('')}</tr></thead>
+      <tbody>${sc.rows.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table>
+      ${sc.unit ? `<p class="note">${esc(sc.unit)}</p>` : ''}${(S.lang === 'es' ? sc.notes_es : sc.notes_en) ? `<p class="note">${esc(S.lang === 'es' ? sc.notes_es : sc.notes_en)}</p>` : ''}</div>` : '';
+    const guideImgs = (p.size_guide || []).map(u => `<img src="${esc(abs(u))}" alt="${t('d_guide')}" loading="lazy" class="guide-img">`).join('');
+    const guide = guideTable || guideImgs ? `<details><summary>${t('d_guide')}</summary><div class="body" style="white-space:normal">${guideTable}${guideImgs}</div></details>` : '';
     app.innerHTML = `<section>
       <div class="pdp">
         <div><div class="gallery" id="gallery">${shots}</div>
@@ -405,6 +411,7 @@
           <p class="note" style="margin-top:14px;text-align:center">${t('zoom')}</p>
           <div class="acc">
             <details open><summary>${S.lang === 'es' ? 'Descripción' : 'Description'}</summary><div class="body">${esc(p['desc_' + S.lang] || p.desc_en || '')}</div></details>
+            ${guide}
             <details><summary>${t('d_make')}</summary><div class="body">${esc(details)}</div></details>
             <details><summary>${t('d_ship')}</summary><div class="body">${t('d_ship_t')}</div></details>
           </div>

@@ -10,7 +10,8 @@
 ## Lo único que haces tú
 
 1. **Diseños nuevos** → al bot como ARCHIVO con el texto `DISEÑO` (o a la carpeta `disenos/`).
-2. **Productos de POPCUSTOMS, Inkpod e InterestPrint** → al bot: fotos + texto `PRODUCTO` (escribe `/ayuda` al bot para ver el modelo).
+2. **Productos de POPCUSTOMS, Inkpod e InterestPrint** → al bot: todas las fotos (también la guía de tallas) + texto `PRODUCTO`, `Proveedor:` y `Coste:`. El resto lo lee la IA.
+3. **Mudanza de todos tus productos de Shopify** → mandar al bot la exportación CSV de Shopify.
 3. **Pedidos de POPCUSTOMS, Inkpod e InterestPrint** → el bot te manda todos los datos y tú lo pides en su web.
 4. **Redes** → publicas el vídeo y las fotos que te llegan al bot.
 
@@ -26,6 +27,7 @@
 | `PRINTFUL_TOKEN` | Printful → Configuración → API → token privado |
 | `PRINTFUL_STORE_ID` | El número de tu tienda de Printful de tipo API (opcional) |
 | `BREVO_API_KEY` | Brevo → SMTP y API → Claves de API |
+| `GEMINI_API_KEY` | Google AI Studio → Get API key (gratis): lee las fotos y las guías de tallas |
 
 Nunca pegues estas claves en ningún archivo del repositorio ni en el chat.
 

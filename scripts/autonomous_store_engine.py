@@ -622,6 +622,10 @@ def sort_images(p, row_images, row_model_images):
     p["images_original"] = originals or p.get("images_original", [])
     p["images_model"] = models or p.get("images_model", [])
     ver = verified_photos(p["id"])
+    if p.get("shop_verified"):  # fotos elegidas por ti (Shopify o bot): ya están revisadas
+        p["visual_verified"] = True
+        p["display_images"] = ver + [u for u in row_images + row_model_images if u not in ver] or ver + p["images_original"] + p["images_model"]
+        return
     p["visual_verified"] = bool(ver)
     # Regla de fidelidad: sin foto verificada, solo se muestran las originales nítidas.
     p["display_images"] = ver + p["images_original"] if ver else list(p["images_original"])
@@ -670,6 +674,8 @@ def apply_offer(p, camp, cfg):
         return
     o = cfg.get("offers", {})
     cost, price = p.get("cost_usd", 0), p["price_usd"]
+    if not cost or cost <= 0:  # sin coste conocido no se rebaja: así nunca se vende con pérdidas
+        return
     limit = (NOW - timedelta(days=30)).strftime("%Y-%m-%d")
     hist = p.get("price_history", {})
     if len(hist) < o.get("min_days_listed", 14):  # no se rebaja un precio que aún no se ha cobrado de verdad
@@ -731,6 +737,13 @@ def main():
     products = dict(old)  # nunca se borra nada: lo que ya existía se conserva
 
     for r in rows:
+        for k in ("type", "gender", "color", "material"):  # lo que la IA leyó en las fotos rellena lo que falte
+            if r.get(f"ai_{k}"):
+                r[k] = (r.get(k, "") + " " + r[f"ai_{k}"]).strip() if k == "type" else (r.get(k) or r[f"ai_{k}"])
+        if not r.get("sizes") and r.get("ai_sizes"):
+            r["sizes"] = r["ai_sizes"]
+        if not r.get("title") and r.get("ai_title"):
+            r["title"] = r["ai_title"]
         pid = slug(r["supplier"]) + "-" + slug(r.get("supplier_id") or r["title"])
         prev = old.get(pid, {})
         cats, n_es, n_en, review = classify(r)
@@ -757,6 +770,19 @@ def main():
             p["supplier_product_id"] = r["supplier_product_id"]
         if r.get("gender"):
             p["gender"] = r["gender"]
+        p["shop_verified"] = r.get("verified") == "yes"
+        p["size_guide"] = [u for u in (r.get("size_guide") or "").split("|") if u]
+        try:
+            p["size_chart"] = json.loads(r["size_chart"]) if r.get("size_chart") else p.get("size_chart")
+        except ValueError:
+            pass
+        if r.get("sku_map"):
+            try:
+                p["sku_map"] = json.loads(r["sku_map"])
+            except ValueError:
+                pass
+        if r.get("description") and r.get("verified") == "yes":
+            p["details_src"] = r["description"][:1500]
         if r.get("stock", "") != "":
             try:
                 p["stock"] = int(float(r["stock"]))
@@ -768,7 +794,16 @@ def main():
             p["manual_payment_link"] = True
         if not prev.get("locked_copy"):
             p["name_es"], p["name_en"], p["desc_es"], p["desc_en"] = luxury_copy(pid, n_es, n_en, r)
-        if not prev.get("locked_price") and cost > 0:
+        fixed = 0.0
+        try:
+            fixed = float(r.get("price_usd") or 0)
+        except ValueError:
+            pass
+        if fixed > 0 and not prev.get("locked_price"):  # precio puesto por ti (o el de tu Shopify): se respeta
+            p["price_usd"] = float(round(fixed, 2))
+            p["margin_pct"] = round((fixed - cost) / fixed * 100, 1) if cost > 0 else None
+            p["fixed_price"] = True
+        elif not prev.get("locked_price") and cost > 0:
             p["price_usd"], p["margin_pct"] = compute_price(cost, cats, cfg, prev)
         products[pid] = p
 
@@ -807,7 +842,7 @@ def main():
         s = stats[p["id"]]
         days = (NOW.date() - datetime.strptime(p["created"], "%Y-%m-%d").date()).days
         p["score"] = round(s["sales_30d"] * 12 + s["sales_today"] * 20 + s["clicks"] * 0.6 + s["views"] * 0.05
-                           + p.get("margin_pct", 0) * 0.1 + max(0, 14 - days) * 1.5
+                           + (p.get("margin_pct") or 0) * 0.1 + max(0, 14 - days) * 1.5
                            + (3 if p["visual_verified"] else 0), 2)
 
     # Ajuste suave de lo que peor rinde (solo si activas "auto_price_adjust": true en config)

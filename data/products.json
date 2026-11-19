@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:15:17Z",
+  "updated": "2026-11-19T00:30:05Z",
   "products": [
     {
       "id": "printify-demo-002",
@@ -41,7 +41,10 @@
       "look": [
         "interestprint-demo-004"
       ],
-      "page": false
+      "page": false,
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null
     },
     {
       "id": "printful-demo-001",
@@ -84,7 +87,10 @@
         "printful-demo-006",
         "popcustoms-demo-003"
       ],
-      "page": false
+      "page": false,
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null
     },
     {
       "id": "inkpod-demo-005",
@@ -119,7 +125,10 @@
       "rank": 3,
       "badge": "new",
       "look": [],
-      "page": false
+      "page": false,
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null
     },
     {
       "id": "printful-demo-006",
@@ -163,7 +172,10 @@
         "printful-demo-001",
         "popcustoms-demo-003"
       ],
-      "page": false
+      "page": false,
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null
     },
     {
       "id": "interestprint-demo-004",
@@ -206,7 +218,10 @@
       "look": [
         "printify-demo-002"
       ],
-      "page": false
+      "page": false,
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null
     },
     {
       "id": "popcustoms-demo-003",
@@ -250,7 +265,10 @@
         "printful-demo-001",
         "printful-demo-006"
       ],
-      "page": false
+      "page": false,
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null
     }
   ]
 }

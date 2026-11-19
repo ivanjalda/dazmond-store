@@ -33,30 +33,33 @@ import io
 import os
 import re
 import sys
+import tempfile
 import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from dz_common import DATA, ROOT, TODAY, env, load_json, notify, save_json, slug, telegram, tg_ready  # noqa: E402
+import ai_vision  # noqa: E402
 
 CSV_PATH = os.path.join(DATA, "suppliers", "telegram.csv")
 FIELDS = ["supplier", "supplier_id", "title", "type", "gender", "color", "material", "cost_usd", "shipping_usd",
-          "sizes", "images", "model_images", "stripe_payment_link", "stripe_link_id", "stock", "description", "source_url"]
+          "price_usd", "sizes", "images", "size_guide", "size_chart", "stock", "description", "source_url", "verified",
+          "ai_sizes", "ai_type", "ai_gender", "ai_color", "ai_material", "ai_title"]
 
 HELP = """✦ DAZMOND & Co. · Cómo mandarme cosas
 
 1️⃣ PRODUCTO de POPCUSTOMS, Inkpod o InterestPrint
-Manda las fotos del producto (álbum de hasta 10) y escribe en el texto:
+Manda TODAS las fotos del producto, también la de la guía de tallas (álbum de hasta 10), y escribe en el texto de una de ellas lo mínimo:
 
 PRODUCTO
-Proveedor: POPCUSTOMS
-Nombre: Botas Chelsea de piel
-Coste: 46
-Envío: 10
-Tallas: 40, 41, 42, 43, 44
-Tipo: botas
-Para: hombre
+Proveedor: InterestPrint
+Coste: 32
+Envío: 8
 
-(Coste y envío en dólares. «Para» puede ser hombre, mujer o unisex.)
+Yo leo las fotos: el nombre, el tipo, si es de hombre o mujer, las tallas y la guía de tallas.
+Si quieres, puedes añadir también: Nombre, Tallas, Tipo, Para (hombre/mujer/unisex), Precio (si quieres fijarlo tú).
+
+3️⃣ TODOS tus productos de Shopify de golpe
+En Shopify: Productos → Exportar → Todos los productos → CSV. Mándame ese archivo aquí y los paso todos a la web (fotos, tallas, guías y precios).
 
 2️⃣ DISEÑO para crear productos solos en Printify
 Manda la imagen como ARCHIVO (📎 → Archivo) con el texto:
@@ -68,7 +71,7 @@ Productos: camiseta, sudadera-capucha, cojin
 («Productos» es opcional.)"""
 
 KEYS = {
-    "proveedor": "supplier", "nombre": "title", "coste": "cost_usd", "costo": "cost_usd", "envio": "shipping_usd",
+    "proveedor": "supplier", "nombre": "title", "precio": "price_usd", "coste": "cost_usd", "costo": "cost_usd", "envio": "shipping_usd",
     "tallas": "sizes", "talla": "sizes", "tipo": "type", "para": "gender", "color": "color", "material": "material",
     "stock": "stock", "unidades": "stock", "descripcion": "description", "enlace": "source_url", "productos": "productos",
 }
@@ -172,7 +175,13 @@ def main():
             continue
         kind, data = parse_caption(caption)
         files = [x for x in (file_of(m) for m in msgs) if x[0]]
+        csv_doc = next((m["document"] for m in msgs if (m.get("document") or {}).get("file_name", "").lower().endswith(".csv")), None)
         try:
+            if csv_doc:
+                dest = download(csv_doc["file_id"], os.path.join(DATA, "suppliers", "shopify", f"shopify-{TODAY}-{csv_doc['file_unique_id'][:6]}"))
+                reply("✓ Exportación de Shopify recibida. Empiezo la mudanza: te iré avisando por tandas cada hora.")
+                log(f"CSV recibido: {os.path.basename(dest)}")
+                continue
             if kind == "DISENO" and files:
                 name = data.get("title") or "Dazmond"
                 tpl = "-".join(slug(p) for p in re.split(r"[,;]+", data.get("productos", "")) if p.strip())
@@ -183,28 +192,35 @@ def main():
                 reply(f"✓ Diseño «{name}» recibido. En menos de una hora estarán creados sus productos.{warn}")
                 log(f"Diseño recibido: {os.path.basename(path)}")
             elif kind == "PRODUCTO" and files:
-                title = data.get("title")
                 supplier = data.get("supplier") or "Proveedor"
-                if not title or not data.get("cost_usd"):
-                    reply("⚠️ Me falta el Nombre o el Coste. Escribe /ayuda para ver el modelo.")
+                if not data.get("cost_usd") and not data.get("price_usd"):
+                    reply("⚠️ Me falta el Coste. Escribe /ayuda para ver el modelo.")
                     continue
-                pid = f"{slug(supplier)}-{slug(title)}"[:60]
-                imgs = []
-                for i, (fid, _) in enumerate(files[:10]):
-                    dest = download(fid, os.path.join(ROOT, "assets", "products", f"{pid}-{i + 1}"))
-                    imgs.append(os.path.relpath(dest, ROOT).replace("\\", "/"))
+                ref = msgs[0].get("media_group_id") or str(msgs[0].get("message_id"))
+                with tempfile.TemporaryDirectory() as tmp:
+                    local = [download(fid, os.path.join(tmp, f"{i:02d}")) for i, (fid, _) in enumerate(files[:10])]
+                    title = data.get("title") or ""
+                    pid = f"{slug(supplier)}-{slug(title) or ref}"[:60]
+                    built = ai_vision.build_from_photos(local, pid, caption)
+                if not title:
+                    title = built.get("ai_title") or f"{supplier} {ref}"
+                imgs = [u for u in built["images"].split("|") if u]
                 cost = re.sub(r"[^0-9.,]", "", data.get("cost_usd", "0")).replace(",", ".")
                 ship = re.sub(r"[^0-9.,]", "", data.get("shipping_usd", "0")).replace(",", ".") or "0"
-                row = {"supplier": supplier, "supplier_id": slug(title)[:40], "title": title,
+                row = {"supplier": supplier, "supplier_id": (slug(title) or ref)[:40], "title": title,
                        "type": data.get("type", ""), "gender": GENDER.get(slug(data.get("gender", "")), ""),
                        "color": data.get("color", ""), "material": data.get("material", ""),
                        "cost_usd": cost, "shipping_usd": ship,
                        "sizes": "|".join(s.strip() for s in re.split(r"[,;/|]+", data.get("sizes", "")) if s.strip()),
                        "images": "|".join(imgs), "stock": data.get("stock", ""),
-                       "description": data.get("description", ""), "source_url": data.get("source_url", "")}
+                       "description": data.get("description", ""), "source_url": data.get("source_url", ""),
+                       "price_usd": re.sub(r"[^0-9.,]", "", data.get("price_usd", "")).replace(",", "."),
+                       "verified": "yes"}
+                row.update({k: v for k, v in built.items() if k != "images"})
                 rows = [r for r in rows if not (r.get("supplier") == supplier and r.get("supplier_id") == row["supplier_id"])]
                 rows.append(row)
-                reply(f"✓ «{title}» de {supplier} recibido con {len(imgs)} foto(s). "
+                guide = " · guía de tallas leída ✓" if built.get("size_chart") else (" · guía guardada" if built.get("size_guide") else "")
+                reply(f"✓ «{title}» de {supplier} recibido con {len(imgs)} foto(s){guide}. "
                       f"Aparecerá en la web en menos de una hora, con su precio y su sección.")
                 log(f"Producto recibido de {supplier} con {len(imgs)} fotos")
             elif files:

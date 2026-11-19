@@ -171,6 +171,12 @@ h1,h2,h3,h4{font-family:var(--serif);font-weight:400;color:var(--gold);letter-sp
 .acc summary::after{content:"+";color:var(--gold);font-size:16px;letter-spacing:0}
 .acc details[open] summary::after{content:"−"}
 .acc .body{color:var(--pearl);padding:0 0 20px;font-size:14px;white-space:pre-line}
+.size-table{overflow-x:auto;margin-bottom:12px}
+.size-table table{border-collapse:collapse;width:100%;font-size:12.5px}
+.size-table th,.size-table td{border-bottom:1px solid var(--line);padding:8px 6px;text-align:center;white-space:nowrap}
+.size-table th{color:var(--gold);font-weight:400;letter-spacing:.08em;font-size:11px;text-transform:uppercase}
+.size-table td:first-child{color:var(--ivory)}
+.guide-img{width:100%;margin-top:10px;border:1px solid var(--line)}
 .note{font-size:11.5px;color:var(--pearl);letter-spacing:.02em}
 .look{margin-top:70px}
 

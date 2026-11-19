@@ -133,7 +133,8 @@ def main():
             else:
                 result = "manual"
                 notify(f"{head}\n\n👉 Haz este pedido tú en {p.get('supplier')}:\n"
-                       f"{p.get('source_title', '')}\nTalla: {size or '-'} · Cantidad: {qty}\n\n"
+                       f"{p.get('source_title', '')}\nTalla: {size or '-'} · Cantidad: {qty}"
+                       f"{(' · SKU: ' + str((p.get('sku_map') or {}).get(size or 'unica', ''))) if (p.get('sku_map') or {}).get(size or 'unica') else ''}\n\n"
                        f"Enviar a:\n{a['name']}\n{a['line1']} {a['line2']}\n{a['zip']} {a['city']} {a['state']}\n"
                        f"{a['country']}\nTel: {a['phone'] or '-'} · {a['email']}\n\nReferencia: {ref[-12:]}")
             stripe(f"/payment_intents/{pi_id}", {f"metadata[{FLAG}]": result})
