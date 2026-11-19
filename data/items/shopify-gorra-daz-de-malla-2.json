@@ -1,5 +1,12 @@
 {
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "cap",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +15,10 @@
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A sharp, contemporary silhouette defined by visual precision. This seven-panel cap pairs a high-grade polyester front panel with breathable mesh backing for sustained comfort. Designed with a structured mid-profile crown, it frames the face with disciplined proportions. An adjustable snapback closure delivers a secure, adaptable fit. Engineered for everyday durability across varied environments. Produced exclusively made to order. Worldwide shipping available.",
+ "desc_es": "Una silueta contemporánea definida por la precisión visual. Esta gorra de siete paneles combina un frontal de poliéster de alta calidad con paneles posteriores de malla transpirable para una comodidad constante. Su perfil medio estiliza las facciones con sobriedad y equilibrio. El sistema posterior ajustable a presión permite una adaptación personalizada y limpia. Diseñada para un uso diario versátil con acabados rigurosos. Elaborada cuidadosamente bajo pedido. Envío a nivel mundial.",
+ "details_en": "· High-grade polyester fabric with breathable mesh back panels\n· 7-panel mid-profile construction\n· Adjustable plastic snapback closure\n· Dimensions: circumference 57-60 cm (22.4\"-23.6\"), brim 7 cm (2.8\"), crown 13 cm (5\"), hat width 18 cm (7\")\n· Hand wash cold recommended; air dry; do not bleach; iron permitted\n· Exclusive piece made to order",
+ "details_es": "· Tejido de poliéster de alta calidad con parte posterior de malla transpirable\n· Estructura de 7 paneles y perfil medio\n· Cierre ajustable de presión en plástico\n· Dimensiones: circunferencia 57-60 cm, visera 7 cm, altura 13 cm, ancho 18 cm\n· Lavado a mano con agua fría recomendado; no usar blanqueador; secar al aire; admite planchado\n· Pieza exclusiva hecha bajo pedido",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-1-4MUsvIKIfF.jpg?v=1728458397",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-2-4MUsvIKIfF.jpg?v=1728458401",
@@ -17,7 +26,6 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-4-4MUsvIKIfF.jpg?v=1728458409",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-5-4MUsvIKIfF.jpg?v=1728458413",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-6-4MUsvIKIfF.jpg?v=1728458417",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-7-4MUsvIKIfF.jpg?v=1728458421",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20230328092125-puwNCue7rY_6e9edf69-6711-4a05-b2a0-f1170280f275.jpg?v=1728458423",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20230328092132-zzoCLrgRNP_fbd6f341-906a-4efc-b862-8f7ff1161a90.jpg?v=1728458426"
  ],
@@ -33,8 +41,8 @@
   "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Soho Tights",
- "name_es": "Mallas Soho",
+ "name_en": "DAZ Graphic Trucker Cap",
+ "name_es": "Gorra Trucker DAZ Graphic",
  "needs_review": false,
  "page": true,
  "price_usd": 22.99,
@@ -42,9 +50,37 @@
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Brim",
+   "Crown",
+   "Hat Width"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Visera",
+   "Corona",
+   "Ancho"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1 a 3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "57-60cm (22.4\"-23.6\")",
+    "7cm (2.8\")",
+    "13cm (5\")",
+    "18cm (7\")"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-7-4MUsvIKIfF.jpg?v=1728458421"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Gorra DAZ de malla",
  "stripe_payment_link": "https://buy.stripe.com/cNi8wQ2MQ3ak9eCgX41gt0O",
  "supplier": "Shopify",
