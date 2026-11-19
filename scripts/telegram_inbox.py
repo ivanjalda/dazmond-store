@@ -67,6 +67,10 @@ Productos: camiseta, sudadera-capucha, cojin
 
 («Productos» es opcional.)
 
+4️⃣ Un producto se agotó en el proveedor
+Escribe: AGOTADO y el nombre o el código del producto (por ejemplo: AGOTADO Botas Chelsea). Lo quito de la web sin borrarlo.
+Para volver a ponerlo: VOLVER y el nombre o el código.
+
 3️⃣ TODOS tus productos de Shopify de golpe
 En Shopify: Productos → Exportar → Todos los productos → CSV. Mándame ese archivo aquí y los paso todos a la web (fotos, tallas, guías y precios)."""
 
@@ -172,6 +176,25 @@ def main():
         caption = next((m.get("caption") or m.get("text") for m in msgs if (m.get("caption") or m.get("text"))), "")
         if caption.strip().lower() in ("/ayuda", "/start", "ayuda", "/help"):
             reply(HELP)
+            continue
+        first = (caption or "").strip()
+        cmd = slug(first.split()[0]).upper() if first else ""
+        if cmd in ("AGOTADO", "VOLVER") and not [m for m in msgs if m.get("photo") or m.get("document")]:
+            query = first.split(None, 1)[1].strip() if len(first.split(None, 1)) > 1 else ""
+            catalog = load_json("products.json", {"products": []}).get("products", [])
+            q = query.lower()
+            hits = [p for p in catalog if p["id"] == q] or [
+                p for p in catalog if q and (q in p.get("name_es", "").lower() or q in p.get("name_en", "").lower()
+                                             or q in p.get("source_title", "").lower())]
+            if len(hits) == 1:
+                flags = load_json("manual_flags.json", {"archive": [], "restore": []})
+                flags["archive" if cmd == "AGOTADO" else "restore"].append(hits[0]["id"])
+                save_json("manual_flags.json", flags)
+                reply(("✓ Quitado de la web: " if cmd == "AGOTADO" else "✓ Vuelve a la web: ") + hits[0].get("name_es", hits[0]["id"]))
+            elif hits:
+                reply("Hay varios. Escribe el código exacto:\n" + "\n".join(f"{p['id']} · {p.get('name_es', '')}" for p in hits[:10]))
+            else:
+                reply("No encuentro ese producto. Prueba con otra palabra del nombre o con su código.")
             continue
         kind, data = parse_caption(caption)
         files = [x for x in (file_of(m) for m in msgs) if x[0]]

@@ -20,7 +20,7 @@ import sys
 from datetime import timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from dz_common import NOW, env, load_json, notify, printful, printify, printify_shop_id, stripe  # noqa: E402
+from dz_common import NOW, env, load_json, notify, printful, printify, printify_shop_id, save_json, stripe  # noqa: E402
 
 FLAG = "dazmond_enviado"
 
@@ -141,6 +141,12 @@ def main():
             done += 1
         except Exception as e:
             errors += 1
+            if p and any(w in str(e).lower() for w in ("out of stock", "discontinued", "not available", "unavailable", "disabled")):
+                flags = load_json("manual_flags.json", {"archive": [], "restore": []})
+                flags["archive"].append(p["id"])
+                save_json("manual_flags.json", flags)
+                notify(f"🧹 {name}: el proveedor ya no lo tiene. Lo quito de la web. "
+                       f"Devuelve el dinero al cliente desde Stripe (referencia {ref[-12:]}).")
             log(f"Un pedido no se pudo enviar: {str(e)[:200]}")
             notify(f"{head}\n⚠️ No pude enviarlo solo: {str(e)[:250]}\nRevísalo en Stripe (referencia {ref[-12:]}).")
             try:  # se marca para no repetir el aviso cada hora; lo revisas tú

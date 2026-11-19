@@ -267,6 +267,11 @@ def read_csvs():
     return rows
 
 
+_STATS = {}  # ventas y visitas por producto (para la limpieza)
+SEEN_API = set()  # productos que hoy sí están en Printify/Printful
+API_OK = {}  # proveedor -> True si hoy se pudo leer su catálogo completo (para saber qué ya no existe)
+
+
 def _split_by_color(variants, color_of, size_of):
     groups = {}
     for v in variants:
@@ -318,12 +323,13 @@ def read_printify():
                         "gender": "", "color": color, "material": "",
                         "cost_usd": str(min(v.get("cost", 0) for v in vs) / 100), "shipping_usd": "6",
                         "sizes": "|".join(sizes[:30]), "images": "|".join(imgs[:8]),
-                        "variant_map": vmap,
+                        "variant_map": vmap, "skus": [v.get("sku", "") for v in vs if v.get("sku")],
                         "description": re.sub(r"<[^>]+>", " ", p.get("description", ""))[:600],
                     })
             if page >= data.get("last_page", 1):
                 break
             page += 1
+        API_OK["Printify"] = True
         log(f"Printify: {len(rows)} piezas leídas")
     except Exception as e:  # nunca romper el motor por un proveedor
         log(f"Printify no disponible hoy: {str(e)[:200]}")
@@ -345,7 +351,8 @@ def read_printful():
             for it in items:
                 det = printful(f"/store/products/{it['id']}").get("result", {})
                 sp = det.get("sync_product", {})
-                vs = [v for v in det.get("sync_variants", []) if not v.get("is_ignored")]
+                vs = [v for v in det.get("sync_variants", []) if not v.get("is_ignored")
+                      and str(v.get("availability_status", "active")).lower() not in ("discontinued", "out_of_stock")]
                 groups = _split_by_color(vs, lambda v: v.get("color") or "", lambda v: v.get("size") or "")
                 for color, gv in groups.items():
                     sizes, vmap, imgs, cost = [], {}, [], None
@@ -376,13 +383,14 @@ def read_printful():
                         "gender": "", "color": color, "material": "",
                         "cost_usd": str(cost or 0), "shipping_usd": "7",
                         "sizes": "|".join(sizes[:30]), "images": "|".join(imgs[:8]),
-                        "variant_map": vmap, "description": "",
+                        "variant_map": vmap, "description": "", "skus": [v.get("sku", "") for v in gv if v.get("sku")],
                     })
                 time.sleep(0.6)
             if len(items) < 100:
                 break
             offset += 100
         save_json("supplier_cache.json", cache)
+        API_OK["Printful"] = True
         log(f"Printful: {len(rows)} piezas leídas")
     except Exception as e:
         log(f"Printful no disponible hoy: {str(e)[:200]}")
@@ -597,27 +605,171 @@ def update_fx(cfg):
         log(f"Cambio no actualizado hoy (se mantiene el anterior): {e}")
 
 
+# ------------------------------------------------------- limpieza automática
+def cleanup(plist, cfg):
+    """Archiva (oculta, sin borrar) lo que el proveedor ya no tiene, y lo recupera solo si vuelve.
+    - Printify / Printful: si el producto (o todas sus tallas) ya no aparece en su catálogo varios días seguidos.
+    - Productos de la mudanza que eran de Printify/Printful y no existen ya en el proveedor.
+    - Lo que tú marques por el bot con AGOTADO (POPCUSTOMS, Inkpod, InterestPrint no avisan solos)."""
+    days = cfg.get("cleanup", {}).get("archive_after_days", 3)
+    flags = _lj("manual_flags.json", {"archive": [], "restore": []})
+    newly = []
+    for p in plist:
+        sup = p.get("supplier")
+        api_product = bool(p.get("variant_map")) and sup in ("Printify", "Printful")
+        orphan = (not p.get("variant_map")) and sup in API_OK and p.get("shop_verified")
+        missing = API_OK.get(sup) and ((api_product and p["id"] not in SEEN_API) or orphan)
+        if missing:
+            if p.get("missing_last") != TODAY:
+                p["missing_days"] = p.get("missing_days", 0) + 1
+                p["missing_last"] = TODAY
+        elif api_product and p["id"] in SEEN_API:
+            p.pop("missing_days", None)
+            p.pop("missing_last", None)
+            if p.get("archived") == "proveedor":
+                p.pop("archived")
+        if p["id"] in flags.get("restore", []):
+            p.pop("archived", None)
+            p["missing_days"] = 0
+        if p["id"] in flags.get("archive", []):
+            p["archived"] = "manual"
+        elif p.get("missing_days", 0) >= days and not p.get("archived"):
+            p["archived"] = "proveedor"
+            newly.append(p)
+        nosale = cfg.get("cleanup", {}).get("archive_no_sales_days", 90)
+        age = (NOW.date() - datetime.strptime(p.get("created", TODAY), "%Y-%m-%d").date()).days
+        st = _STATS.get(p["id"], {})
+        if (nosale and age >= nosale and not p.get("archived") and not st.get("sales_30d")
+                and not p.get("ever_sold") and not str(p.get("supplier_id", "")).upper().startswith("DEMO-")):
+            p["archived"] = "sin ventas"
+            newly.append(p)
+        if st.get("sales_30d"):
+            p["ever_sold"] = True
+        p["hidden"] = bool(p.get("archived")) or (p.get("draft") and not p.get("ai_done"))
+        if p["hidden"]:
+            p["available"] = False
+    if flags.get("archive") or flags.get("restore"):
+        _sj("manual_flags.json", {"archive": [], "restore": []})
+    if newly:
+        from dz_common import notify
+        notify("🧹 Limpieza: archivé (ocultos, no borrados) " + str(len(newly)) + " productos (sin stock en el proveedor o sin ventas):\n"
+               + "\n".join("· " + p.get("name_es", p["id"]) for p in newly[:30]))
+
+
+# ------------------------------------------------ archivos rápidos para la web
+LITE = ("id", "name_es", "name_en", "price_usd", "offer", "badge", "categories", "available", "rank", "created",
+        "page", "supplier_id")
+ITEM_SKIP = ("cost_usd", "margin_pct", "markup_adjust", "price_history", "score", "source_text", "raw_images",
+             "variant_map", "sku_map", "size_values", "stripe_product_id", "stripe_link_id", "stripe_offer_link_id",
+             "stripe_price_cents", "stripe_offer_cents", "stripe_site", "images_model", "images_original",
+             "ai_images", "ai_fail", "supplier_product_id", "details_src", "_row_images", "_row_model")
+
+
+def write_web_files(plist):
+    """index.json (ligero, para listas y búsqueda) + items/<código>.json (la ficha completa al abrirla)."""
+    lite = []
+    plist = [p for p in plist if not p.get("hidden")]
+    for p in plist:
+        x = {k: p[k] for k in LITE if k in p and p[k] not in (None, "", [])}
+        imgs = p.get("display_images") or []
+        if imgs:
+            x["img"] = imgs[0]
+        lite.append(x)
+    save_json("index.json", {"products": lite})
+    items_dir = os.path.join(DATA, "items")
+    os.makedirs(items_dir, exist_ok=True)
+    wanted = set()
+    for p in plist:
+        name = f"{p['id']}.json"
+        wanted.add(name)
+        item = {k: v for k, v in p.items() if k not in ITEM_SKIP}
+        path = os.path.join(items_dir, name)
+        new = json.dumps(item, ensure_ascii=False, indent=1, sort_keys=True)
+        old = open(path, encoding="utf-8").read() if os.path.exists(path) else None
+        if old != new:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(new)
+    for f in os.listdir(items_dir):
+        if f.endswith(".json") and f not in wanted:
+            os.remove(os.path.join(items_dir, f))
+
+
 # ----------------------------------------- auto-edición de cada producto (IA)
-def ai_rewrite(plist, cfg):
-    """Reescribe con la IA, una sola vez por producto, nombre + descripción + detalles en ES/EN."""
+def ai_enrich(plist, cfg):
+    """Revisión de cada producto con la IA (una vez por producto, unas decenas por hora):
+    clasifica las fotos, lee la guía de tallas, corrige la sección y reescribe nombre, descripción y detalles."""
     if not ai_vision.ready():
         return
-    limit = cfg.get("ai", {}).get("copy_per_run", 40)
-    todo = [p for p in plist if not p.get("ai_copy") and not p.get("locked_copy")
+    import tempfile
+    limit = cfg.get("ai", {}).get("enrich_per_run", 40)
+    todo = [p for p in plist if not p.get("ai_done") and not p.get("locked_copy") and not p.get("archived")
             and not str(p.get("supplier_id", "")).upper().startswith("DEMO-")]
+    todo.sort(key=lambda p: bool(p.get("draft")))  # primero los publicados
     done = 0
     for p in todo[:limit]:
-        img = next((os.path.join(ROOT, u) for u in p.get("display_images", []) if not u.startswith("http")), None)
-        out = ai_vision.write_copy(p.get("source_text") or p.get("source_title", ""), img)
-        if out:
-            p["name_es"], p["name_en"] = out["name_es"].strip(), out["name_en"].strip()
-            p["desc_es"], p["desc_en"] = out["desc_es"].strip(), out["desc_en"].strip()
-            p["details_es"], p["details_en"] = out.get("details_es", "").strip(), out.get("details_en", "").strip()
+        raw = p.get("raw_images") or p.get("display_images") or []
+        with tempfile.TemporaryDirectory() as tmp:
+            local, kept_urls = [], []
+            for n, u in enumerate(raw[:10]):
+                try:
+                    if u.startswith("http"):
+                        dest = os.path.join(tmp, f"{n:02d}.img")
+                        rq = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0 DAZMOND"})
+                        with urllib.request.urlopen(rq, timeout=40) as r, open(dest, "wb") as f:
+                            f.write(r.read())
+                    else:
+                        dest = os.path.join(ROOT, u)
+                    local.append(dest)
+                    kept_urls.append(u)
+                except Exception:
+                    pass
+            out = ai_vision.enrich(local, p.get("source_text") or p.get("source_title", ""))
+        if not out:
+            if "429" in ai_vision.LAST_ERROR or "RESOURCE_EXHAUSTED" in ai_vision.LAST_ERROR:
+                log("IA: límite gratuito de hoy alcanzado; sigo en la próxima hora.")
+                break
+            p["ai_fail"] = p.get("ai_fail", 0) + 1
+            if p["ai_fail"] >= 3:
+                p["ai_done"] = True  # no insistir para siempre con un producto que falla
+            continue
+        keep, guides = [], []
+        kinds = {int(ph.get("n", 0)): ph for ph in out.get("photos", []) if isinstance(ph, dict)}
+        for i, u in enumerate(kept_urls):
+            ph = kinds.get(i + 1, {"kind": "product"})
+            if ph.get("kind") == "size_guide":
+                guides.append(u)
+            elif ph.get("kind") != "other" and ph.get("sharp", True) is not False:
+                keep.append({"u": u, "k": ph.get("kind", "product")})
+        if keep or guides:
+            p["ai_images"] = {"keep": keep, "guides": guides}
+            apply_ai_images(p)
+        if out.get("size_chart"):
+            p["size_chart"] = out["size_chart"]
+        for k in ("type", "gender", "color", "material"):
+            if out.get(k):
+                p[f"ai_{k}"] = out[k]
+        if out.get("sizes") and not p.get("sizes"):
+            p["sizes"] = [str(x) for x in out["sizes"]]
+            p["ai_sizes"] = "|".join(p["sizes"])
+        if not p.get("locked_category"):
+            cats, _, _, review = classify({"type": f"{out.get('type', '')} {p.get('source_title', '')}",
+                                           "title": p.get("source_title", ""),
+                                           "gender": out.get("gender") or p.get("gender", "")})
+            if not review:
+                p["categories"], p["needs_review"] = cats, False
+        if out.get("name_es") and out.get("desc_es") and not p.get("locked_copy"):
+            for k in ("name_es", "name_en", "desc_es", "desc_en", "details_es", "details_en"):
+                if out.get(k):
+                    p[k] = str(out[k]).strip()
             p["ai_copy"] = True
-            done += 1
-        time.sleep(4)  # respeta el límite gratuito
+        p["ai_done"] = True
+        if p.get("draft") and not p.get("archived"):  # el borrador ya está editado: sale a la web
+            p["hidden"] = False
+            p["available"] = p.get("price_usd", 0) > 0 and p.get("stock", 1) != 0
+        done += 1
+        time.sleep(cfg.get("ai", {}).get("pause_seconds", 5))  # respeta el límite gratuito
     if todo:
-        log(f"IA: {done} productos reescritos con el estilo de la casa · quedan {max(0, len(todo) - done)}")
+        log(f"IA: {done} productos revisados (fotos, guía de tallas y textos) · quedan {max(0, len(todo) - done)}")
 
 
 # ------------------------------------------------ fotos y verificación visual
@@ -637,8 +789,24 @@ def verified_photos(pid):
     return files
 
 
+def apply_ai_images(p):
+    """Usa la clasificación de la IA: fuera logos y fotos borrosas; guías de tallas a su apartado;
+    fotos con modelo solo si las elegiste tú (Shopify/bot) o subiste tu foto verificada."""
+    ai = p.get("ai_images") or {}
+    ver = verified_photos(p["id"])
+    keep = [x["u"] for x in ai.get("keep", []) if x.get("k") != "model" or p.get("shop_verified")]
+    p["visual_verified"] = bool(ver) or bool(p.get("shop_verified"))
+    p["display_images"] = list(dict.fromkeys(ver + keep)) or ver + p.get("images_original", [])
+    if ai.get("guides"):
+        p["size_guide"] = ai["guides"]
+
+
 def sort_images(p, row_images, row_model_images):
     """Separa fotos originales nítidas de fotos con modelo/generadas y decide cuáles se ven."""
+    if p.get("ai_images"):
+        p["images_original"] = row_images or p.get("images_original", [])
+        apply_ai_images(p)
+        return
     originals, models = [], []
     for u in row_images:
         (models if MODEL_HINT.search(u) else originals).append(u)
@@ -763,6 +931,11 @@ def main():
     products = dict(old)  # nunca se borra nada: lo que ya existía se conserva
 
     for r in rows:
+        _pid = slug(r["supplier"]) + "-" + slug(r.get("supplier_id") or r["title"])
+        _prev = old.get(_pid, {})
+        for k in ("type", "gender", "color", "material", "sizes"):  # lo que la IA ya leyó en otras horas
+            if not r.get(f"ai_{k}") and _prev.get(f"ai_{k}"):
+                r[f"ai_{k}"] = _prev[f"ai_{k}"]
         for k in ("type", "gender", "color", "material"):  # lo que la IA leyó en las fotos rellena lo que falte
             if r.get(f"ai_{k}"):
                 r[k] = (r.get(k, "") + " " + r[f"ai_{k}"]).strip() if k == "type" else (r.get(k) or r[f"ai_{k}"])
@@ -790,8 +963,12 @@ def main():
         })
         urls = lambda key: [u.strip() for u in r.get(key, "").split("|") if u.strip().startswith(("http", "assets/"))]
         p["_row_images"], p["_row_model"] = urls("images"), urls("model_images")
+        p["raw_images"] = list(dict.fromkeys(p["_row_images"] + p["_row_model"]))[:12] or p.get("raw_images", [])
         if r.get("variant_map"):
             p["variant_map"] = r["variant_map"]
+            p["skus"] = r.get("skus", [])
+            SEEN_API.add(pid)
+        p["draft"] = r.get("draft") == "yes"
         if r.get("supplier_product_id"):
             p["supplier_product_id"] = r["supplier_product_id"]
         if r.get("gender"):
@@ -841,19 +1018,22 @@ def main():
     plist = [p for p in plist if not (real and str(p.get("supplier_id", "")).upper().startswith("DEMO-"))]
     # Si un producto de Printify/Printful llega dos veces (por la conexión directa y por la mudanza de
     # Shopify), se queda la versión conectada (pedidos automáticos) con tus fotos y guía de Shopify.
-    api = {}
+    api, by_sku = {}, {}
     for p in plist:
         if p.get("variant_map") and p.get("supplier") in ("Printify", "Printful"):
             api.setdefault((p["supplier"], (p.get("source_title") or "").strip().lower()), p)
+            for sku in p.get("skus", []):
+                by_sku[sku] = p
     merged = []
     for p in plist:
         key = (p.get("supplier"), (p.get("source_title") or "").strip().lower())
-        twin = api.get(key)
+        twin = next((by_sku[s] for s in (p.get("sku_map") or {}).values() if s in by_sku), None) or api.get(key)
         if twin and twin is not p and not p.get("variant_map"):
             for k in ("size_guide", "size_chart", "details_src"):
                 if p.get(k) and not twin.get(k):
                     twin[k] = p[k]
             twin["_shop_photos"] = (p.get("_row_images") or []) + (p.get("display_images") or [])
+            twin["shop_verified"] = twin.get("shop_verified") or p.get("shop_verified")
             if p.get("fixed_price") and not twin.get("locked_price"):  # tu precio de Shopify manda
                 twin["price_usd"], twin["margin_pct"], twin["fixed_price"] = p["price_usd"], p.get("margin_pct"), True
             continue
@@ -865,7 +1045,10 @@ def main():
         p["available"] = p["price_usd"] > 0 and p.get("stock", 1) != 0
         if p["price_usd"] > 0:
             record_price(p)
-    log(f"Productos en catálogo: {len(plist)} · con foto verificada: {sum(p['visual_verified'] for p in plist)}")
+    _STATS.update(stats)
+    cleanup(plist, cfg)
+    log(f"Productos en catálogo: {len(plist)} · a la vista: {sum(1 for p in plist if not p.get('hidden'))}"
+        f" · archivados: {sum(1 for p in plist if p.get('archived'))}")
 
     # Ventas reales (Stripe) → analíticas
     link_to_pid = {}
@@ -935,14 +1118,24 @@ def main():
                     "offers": offers, "gifts": gifts, "selection": (offers + [g for g in gifts if g not in offers]) or [p["id"] for p in avail[:8]]}
         log(f"Campaña activa: {camp['id']} · {len(offers)} ofertas · {len(gifts)} regalos")
 
-    ai_rewrite(plist, cfg)
+    ai_enrich(plist, cfg)
     complete_the_look(plist)
+    cap = cfg.get("stripe", {}).get("links_per_run", 250)
+    made = 0
     for p in plist:
+        if made >= cap:
+            break
+        before = (p.get("stripe_payment_link"), p.get("stripe_offer_link"))
         ensure_payment_link(p)
+        if (p.get("stripe_payment_link"), p.get("stripe_offer_link")) != before:
+            made += 1
+    if made:
+        log(f"Stripe: {made} productos con enlace de pago nuevo en esta hora")
 
     update_fx(cfg)
     analytics["updated"] = NOW.strftime("%Y-%m-%dT%H:%M:%SZ")
     save_json("products.json", {"updated": analytics["updated"], "products": plist})
+    write_web_files(plist)
     save_json("campaign.json", campaign)
     save_json("store_analytics.json", analytics)
     save_json("config.json", cfg)

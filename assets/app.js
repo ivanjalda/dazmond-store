@@ -50,7 +50,7 @@
       thanks_t: 'Gracias por tu compra', thanks_d: 'Hemos recibido tu pedido. En breve recibirás la confirmación por correo electrónico.',
       back: 'Volver a la tienda',
       b_top1: 'Nº 1 en Ventas', b_bestseller: 'Más vendido', b_lowstock: 'Edición Limitada · Últimas unidades', b_hot: 'Alta demanda', b_new: 'Novedad',
-      secure: 'Pago 100 % seguro', sub_gift: 'Únete y recibe un {n} % de regalo en tu primera compra.', cookie_t: 'Usamos analítica para entender qué piezas gustan más y mejorar la tienda. ¿Nos lo permites?', accept: 'Aceptar', reject: 'Rechazar', until: 'Hasta el', gifts: 'Selección de regalos', offers_t: 'La selección de la campaña', view_all: 'Ver toda la selección', men_cta: 'Descubrir Hombre', women_cta: 'Descubrir Mujer',
+      secure: 'Pago 100 % seguro', more: 'Ver más piezas', sub_gift: 'Únete y recibe un {n} % de regalo en tu primera compra.', cookie_t: 'Usamos analítica para entender qué piezas gustan más y mejorar la tienda. ¿Nos lo permites?', accept: 'Aceptar', reject: 'Rechazar', until: 'Hasta el', gifts: 'Selección de regalos', offers_t: 'La selección de la campaña', view_all: 'Ver toda la selección', men_cta: 'Descubrir Hombre', women_cta: 'Descubrir Mujer',
       d_make: 'Detalles de confección', d_guide: 'Guía de tallas', d_ship: 'Envío y devoluciones', d_ship_t: 'Confección en 2–7 días laborables y envío internacional con seguimiento en 5–15 días laborables. Devolución o reposición gratuita si la pieza llega defectuosa.', d_material: 'Material', d_color: 'Color', d_made: 'Confeccionada bajo demanda, solo para ti.', zoom: 'Toca la imagen para ampliarla', camp_off: 'Ahora no hay ninguna campaña activa.'
     },
     en: {
@@ -93,7 +93,7 @@
       thanks_t: 'Thank you for your order', thanks_d: 'We have received your order. You will receive an email confirmation shortly.',
       back: 'Back to the store',
       b_top1: 'No. 1 Best Seller', b_bestseller: 'Best Seller', b_lowstock: 'Limited Edition · Last pieces', b_hot: 'In high demand', b_new: 'New',
-      secure: '100% secure payment', sub_gift: 'Join and get {n}% off your first order.', cookie_t: 'We use analytics to understand which pieces you love and improve the store. May we?', accept: 'Accept', reject: 'Decline', until: 'Until', gifts: 'The gift selection', offers_t: 'The campaign selection', view_all: 'View the full selection', men_cta: 'Discover Men', women_cta: 'Discover Women',
+      secure: '100% secure payment', more: 'Show more pieces', sub_gift: 'Join and get {n}% off your first order.', cookie_t: 'We use analytics to understand which pieces you love and improve the store. May we?', accept: 'Accept', reject: 'Decline', until: 'Until', gifts: 'The gift selection', offers_t: 'The campaign selection', view_all: 'View the full selection', men_cta: 'Discover Men', women_cta: 'Discover Women',
       d_make: 'Tailoring details', d_guide: 'Size guide', d_ship: 'Shipping & returns', d_ship_t: 'Made in 2–7 business days and shipped internationally with tracking in 5–15 business days. Free replacement or refund if your piece arrives defective.', d_material: 'Material', d_color: 'Colour', d_made: 'Made to order, just for you.', zoom: 'Tap the image to zoom in', camp_off: 'There is no active campaign right now.'
     }
   };
@@ -123,7 +123,7 @@
       { style: 'currency', currency: S.cur, maximumFractionDigits: 0 }).format(Math.round(v));
   }
 
-  const imgs = p => (p.display_images || p.images || []).map(abs);
+  const imgs = p => (p.display_images || p.images || (p.img ? [p.img] : [])).map(abs);
   const plink = p => p.page ? `${BASE}p/${p.id}/` : `${BASE ? BASE : ''}#/p/${p.id}`;
   const priceNow = p => (p.offer ? p.offer.price_usd : p.price_usd);
   function priceHTML(p) {
@@ -142,7 +142,7 @@
 
   async function init() {
     const [cfg, catalog, prod, camp] = await Promise.all([
-      getJSON(BASE + 'data/config.json', {}), getJSON(BASE + 'data/catalog.json', { menus: [] }), getJSON(BASE + 'data/products.json', { products: [] }),
+      getJSON(BASE + 'data/config.json', {}), getJSON(BASE + 'data/catalog.json', { menus: [] }), getJSON(BASE + 'data/index.json', null).then(x => x || getJSON(BASE + 'data/products.json', { products: [] })),
       getJSON(BASE + 'data/campaign.json', { active: false })
     ]);
     S.cfg = cfg; S.catalog = catalog; S.camp = camp || { active: false };
@@ -350,7 +350,8 @@
         <label>${t('sort')}<select name="sort"><option value="featured">${t('s_featured')}</option><option value="low">${t('s_low')}</option><option value="high">${t('s_high')}</option><option value="new">${t('s_new')}</option></select></label>
       </form>
       <p class="res-count" id="resCount"></p>
-      <div class="runway" id="listGrid"></div></section>`;
+      <div class="runway" id="listGrid"></div>
+      <div style="text-align:center;padding:40px 16px"><button class="btn" id="moreBtn" hidden>${t('more')}</button></div></section>`;
     const form = $('#filters');
     Object.keys(f).forEach(k => { if (form[k]) form[k].value = f[k]; });
     const draw = () => {
@@ -363,17 +364,39 @@
       if (v.sort === 'low') list.sort((a, b) => priceNow(a) - priceNow(b));
       if (v.sort === 'high') list.sort((a, b) => priceNow(b) - priceNow(a));
       if (v.sort === 'new') list.sort((a, b) => (b.created || '').localeCompare(a.created || ''));
-      $('#listGrid').innerHTML = grid(list);
+      let shown = 48;  // se muestran de 48 en 48 para que el móvil vaya rápido
+      const paint = () => {
+        $('#listGrid').innerHTML = grid(list.slice(0, shown));
+        const more = $('#moreBtn');
+        if (more) more.hidden = list.length <= shown;
+      };
+      paint();
+      $('#moreBtn').onclick = () => { shown += 48; paint(); };
       $('#resCount').textContent = list.length ? `${list.length} ${t('results')}` : '';
     };
     form.oninput = draw; form.onsubmit = e => e.preventDefault();
     draw();
   }
 
-  /* ---------- Ficha de producto ---------- */
-  function productView(id) {
+  /* ---------- Ficha completa (se descarga al abrirla, así la web carga rápido) ---------- */
+  async function full(id) {
     const p = S.byId[id];
-    if (!p) { homeView(); return; }
+    if (!p || p._full) return p;
+    const item = await getJSON(BASE + 'data/items/' + encodeURIComponent(id) + '.json', null);
+    if (item) Object.assign(p, item);
+    p._full = true;
+    return p;
+  }
+
+  /* ---------- Ficha de producto ---------- */
+  async function productView(id) {
+    if (!S.byId[id]) { homeView(); return; }
+    if (!S.byId[id]._full) {
+      app.innerHTML = '<section class="section"><p class="empty">…</p></section>';
+      await full(id);
+      if (!location.hash.includes(id) && window.DZ_PRODUCT !== id) return;  // el cliente ya se fue a otra página
+    }
+    const p = S.byId[id];
     const name = p['name_' + S.lang] || p.name_en;
     document.title = name + ' — DAZMOND & Co.';
     let size = null;
@@ -454,8 +477,9 @@
     }, { passive: true });
   }
 
-  function pay(p) {
+  async function pay(p) {
     track('clicks', p.id);
+    await full(p.id);
     const link = (p.offer && p.offer.payment_link) || p.stripe_payment_link;
     if (!link) { toast(t('soon')); return; }
     const url = new URL(link);

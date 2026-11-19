@@ -172,3 +172,57 @@ def write_copy(data_text, image_path=None):
                 print(f"[ia] No se pudo escribir el texto: {str(e)[:120]}")
                 return None
     return None
+
+
+LAST_ERROR = ""
+
+ENRICH_PROMPT = """You are the product editor and head copywriter of DAZMOND & Co., an American luxury fashion house
+(registered US brand, made-to-order pieces, worldwide shipping). You receive the photos of ONE product, in order,
+and the messy supplier data. Do everything below in ONE answer.
+
+Supplier data: {data}
+
+A) Photos: for each photo say what it is: "product" (clean shot, no person), "model" (worn by a person / lifestyle),
+   "size_guide" (size chart, measurement table or how-to-measure), "detail" (close-up), "other" (logo, banner, text,
+   unrelated). Also "sharp": true/false (garment and print clearly visible).
+B) If a photo is a size guide, READ IT CAREFULLY and copy the table exactly (never invent numbers, use "?" if unreadable).
+C) Rewrite the product in the house style, in Spanish and English: elegant, sensory, confident (Saint Laurent, Hugo Boss).
+   Short sentences, no emojis, no exclamation marks. NEVER invent facts (no fabrics, origins, "handmade", awards not in
+   the data). Never mention the supplier, print-on-demand or other brands. You may say made to order and worldwide shipping.
+   name: max 5 words, refined. desc: 60-110 words. details: lines starting with "· " with ONLY real facts
+   (composition, fit, closure, care); if none, just the made-to-order line.
+
+Return ONLY JSON:
+{{"photos": [{{"n": 1, "kind": "...", "sharp": true}}],
+  "size_chart": null or {{"unit": "", "headers": [], "headers_es": [], "rows": [[]], "notes_en": "", "notes_es": ""}},
+  "sizes": [], "type": "", "gender": "men|women|unisex", "color": "", "material": "",
+  "name_es": "", "name_en": "", "desc_es": "", "desc_en": "", "details_es": "", "details_en": ""}}"""
+
+
+def enrich(paths, data_text):
+    """Una sola llamada por producto: clasifica fotos, lee la guía de tallas y escribe los textos. dict o None."""
+    global LAST_ERROR
+    LAST_ERROR = ""
+    if not ready():
+        return None
+    model = load_json("config.json", {}).get("ai", {}).get("model", "gemini-2.5-flash")
+    parts = [{"text": ENRICH_PROMPT.format(data=(data_text or "-")[:3000])}]
+    for i, p in enumerate(paths[:10]):
+        small = _shrink(p)
+        with open(small, "rb") as f:
+            data = base64.b64encode(f.read()).decode()
+        parts.append({"text": f"Photo {i + 1}:"})
+        parts.append({"inline_data": {"mime_type": "image/jpeg", "data": data}})
+    body = {"contents": [{"role": "user", "parts": parts}],
+            "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json"}}
+    for m in [model, "gemini-flash-latest", "gemini-2.0-flash"]:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent?key={env('GEMINI_API_KEY')}"
+        try:
+            res = request(url, "POST", body=body, timeout=150, retries=1)
+            out = json.loads(res["candidates"][0]["content"]["parts"][0]["text"])
+            return out if isinstance(out, dict) else None
+        except Exception as e:
+            LAST_ERROR = str(e)[:200]
+            if "404" not in LAST_ERROR:
+                return None
+    return None

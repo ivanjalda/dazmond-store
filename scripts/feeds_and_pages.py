@@ -180,6 +180,10 @@ def main():
     data = load_json("products.json", {})
     data["products"] = products
     save_json("products.json", data)
+    idx = load_json("index.json", {"products": []})
+    for x in idx.get("products", []):
+        x["page"] = x.get("id") in ids
+    save_json("index.json", idx)
 
     pages_dir = os.path.join(ROOT, "p")
     shutil.rmtree(pages_dir, ignore_errors=True)  # se regeneran todas: así no quedan páginas de piezas retiradas

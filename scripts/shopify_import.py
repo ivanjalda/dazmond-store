@@ -6,13 +6,13 @@ Cómo se usa (una sola vez, o cuando quieras):
   1. En Shopify: Productos → Exportar → "Todos los productos" → "CSV para Excel o Numbers".
   2. Ese archivo se lo mandas al bot de Telegram (o lo subes a data/suppliers/shopify/).
 
-Qué hace solo (por tandas cada hora, para no pasarse del límite gratuito):
-  - Lee cada producto con sus tallas, colores, precios, costes, fotos y descripción.
+Qué hace solo:
+  - Pasa TODOS los productos de golpe (miles en un minuto) con sus tallas, colores, precios,
+    costes, códigos, fotos y descripción. Respeta tus precios de Shopify.
   - Detecta el proveedor (Printify, Printful, POPCUSTOMS, Inkpod, InterestPrint).
-  - Descarga TODAS las fotos a la web (comprimidas), porque al cerrar Shopify sus fotos desaparecen.
-  - La inteligencia artificial separa fotos de producto, de modelo y de GUÍA DE TALLAS,
-    y LEE la tabla de tallas de la foto para mostrarla en la ficha en español e inglés.
-  - Respeta tus precios de Shopify (no los cambia).
+  - Las fotos se quedan donde están (no ocupan espacio en la web).
+  - Después, el motor de la tienda revisa cada producto con la inteligencia artificial
+    (unas decenas por hora): separa las fotos, LEE la guía de tallas y reescribe los textos.
 """
 
 import csv
@@ -33,7 +33,7 @@ RAW_DIR = os.path.join(DATA, "suppliers", "shopify")
 OUT = os.path.join(DATA, "suppliers", "shopify_productos.csv")
 FIELDS = ["supplier", "supplier_id", "title", "type", "gender", "color", "material", "cost_usd", "shipping_usd",
           "price_usd", "sizes", "images", "size_guide", "size_chart", "stock", "description", "verified",
-          "sku_map", "source_title", "ai_sizes", "ai_type", "ai_gender", "ai_color", "ai_material", "ai_title"]
+          "sku_map", "source_title", "draft", "ai_sizes", "ai_type", "ai_gender", "ai_color", "ai_material", "ai_title"]
 SUPPLIERS = [("printify", "Printify"), ("printful", "Printful"), ("popcustoms", "POPCUSTOMS"),
              ("inkpod", "Inkpod"), ("ink pod", "Inkpod"), ("wowfulfillment", "Inkpod"),
              ("interestprint", "InterestPrint"), ("interest print", "InterestPrint")]
@@ -163,7 +163,7 @@ def main():
         log("No hay exportación de Shopify todavía.")
         return 0
     cfg = load_json("config.json", {})
-    per_run = cfg.get("shopify_import", {}).get("per_run_with_ai" if ai_vision.ready() else "per_run", 25 if ai_vision.ready() else 150)
+    per_run = cfg.get("shopify_import", {}).get("per_run", 5000)
     state = load_json("shopify_import_state.json", {"done": {}})
     existing = {}
     if os.path.exists(OUT):
@@ -171,23 +171,20 @@ def main():
             for r in csv.DictReader(f):
                 existing[r["supplier_id"]] = r
     prods = read_products()
-    todo = [p for h, p in prods.items() if h not in state["done"]
-            and (p.get("Status", "active").lower() not in ("archived", "archivado"))]
+    only_active = cfg.get("shopify_import", {}).get("only_published", True)
+    def wanted(p):
+        st = (p.get("Status") or "active").strip().lower()
+        if st in ("archived", "archivado"):
+            return False
+        return st in ("active", "activo") if only_active else True
+    todo = [p for h, p in prods.items() if h not in state["done"] and wanted(p)]
     log(f"Productos en la exportación: {len(prods)} · pendientes: {len(todo)}")
     count = 0
     for p in todo[:per_run]:
         try:
             for row in build_rows(p, cfg):
-                pid = f"{slug(row['supplier'])}-{slug(row['supplier_id'])}"[:70]
-                with tempfile.TemporaryDirectory() as tmp:
-                    local = []
-                    for n, u in enumerate(row.pop("_imgs")):
-                        try:
-                            local.append(download(u, tmp, n))
-                        except Exception:
-                            pass
-                    ctx = f"Title: {row['title']}. Type: {row['type']}. Supplier: {row['supplier']}. Text: {row['description'][:600]}"
-                    row.update(ai_vision.build_from_photos(local, pid, ctx))
+                row["images"] = "|".join(u for u in row.pop("_imgs") if u.startswith("http"))
+                row["draft"] = "" if (p.get("Status") or "active").strip().lower() in ("active", "activo") else "yes"
                 existing[row["supplier_id"]] = row
             state["done"][p["handle"]] = TODAY
             count += 1
@@ -202,8 +199,9 @@ def main():
     left = len(todo) - count
     log(f"Importados en esta tanda: {count} · quedan: {left}")
     if count:
-        notify(f"📦 Mudanza desde Shopify: {count} productos importados en esta tanda"
-               + (f", quedan {left} (sigo en la próxima hora)." if left else ". ¡Terminado! Ya están todos en tu web."))
+        notify(f"📦 Mudanza desde Shopify: {count} productos pasados"
+               + (f", quedan {left} (sigo en la próxima hora)." if left else
+                  ". ¡Todos dentro! Ahora la inteligencia artificial los irá revisando uno a uno (fotos, guías de tallas y textos)."))
     return 0
 
 

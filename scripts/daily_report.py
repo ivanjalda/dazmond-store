@@ -76,7 +76,9 @@ def main():
 
     lines.append(f"\n🎯 Campaña: {camp['es']['title']} · {len(camp.get('offers', []))} ofertas"
                  if camp.get("active") else "\n🎯 Sin campaña activa")
-    lines.append(f"🧵 Catálogo: {len(prods)} piezas · {sum(1 for p in prods if p.get('available'))} a la venta")
+    lines.append(f"🧵 Catálogo: {len(prods)} piezas · {sum(1 for p in prods if p.get('available'))} a la venta"
+                 f" · {sum(1 for p in prods if p.get('archived'))} archivadas"
+                 f" · {sum(1 for p in prods if not p.get('ai_done') and not p.get('archived'))} pendientes de revisar por la IA")
     no_photo = [p for p in prods if not p.get("display_images")]
     review = [p for p in prods if p.get("needs_review")]
     if no_photo:
