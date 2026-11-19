@@ -1,0 +1,15 @@
+CARPETA DE DISEÑOS — DAZMOND & Co.
+
+Sube aquí tus diseños (PNG con fondo transparente, lo más grandes posible:
+ideal 4500 x 5400 píxeles). También puedes mandarlos al bot de Telegram como ARCHIVO
+con el texto:  DISEÑO
+
+El nombre del archivo será el nombre de la colección. Ejemplo:
+  noir-monogram.png   →  "Noir Monogram"
+
+Si quieres elegir qué productos se crean, pon en el nombre del archivo, tras dos guiones bajos,
+las plantillas separadas por guion:
+  noir-monogram__camiseta-sudadera-capucha-cojin.png
+
+Las plantillas disponibles están en data/plantillas.json.
+Cada hora el sistema crea los productos en Printify y los coloca en la web.

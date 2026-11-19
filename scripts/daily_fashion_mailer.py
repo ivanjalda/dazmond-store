@@ -16,8 +16,12 @@ import html
 import json
 import os
 import sys
+import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from dz_common import brevo as brevo_call  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
@@ -135,6 +139,13 @@ def build_html(lang, items, cfg, camp=None):
                   f'<div style="font:34px Georgia,serif;color:#C5A059;margin:6px 0">{html.escape(c["title"])}</div>'
                   f'<div style="font:13px Arial;color:#A0A0A0">{html.escape(c["text"])}</div>'
                   f'<a href="{site}/#/campana" style="display:inline-block;margin-top:12px;font:11px Arial;letter-spacing:2px;color:#C5A059;border:1px solid #C5A059;padding:9px 18px;text-decoration:none;text-transform:uppercase">{html.escape(c["cta"])}</a></td></tr>')
+    coupon = ""
+    cc = next((c for c in cfg.get("coupons", []) if c.get("for") == "subscribers" and c.get("created")), None)
+    if cc:
+        txt = (f"Tu código para la primera compra: <b style='color:#D4AF37;letter-spacing:3px'>{cc['code']}</b> · {cc.get('percent_off', 10)} % de regalo"
+               if lang == "es" else
+               f"Your first-order code: <b style='color:#D4AF37;letter-spacing:3px'>{cc['code']}</b> · {cc.get('percent_off', 10)}% off")
+        coupon = f'<tr><td align="center" style="padding:6px 30px 0;font:13px Arial;color:#A0A0A0">{txt}</td></tr>'
     company = html.escape(cfg.get("company", ""))
     address = html.escape(cfg.get("company_address", ""))
     return f"""<!DOCTYPE html><html><body style="margin:0;background:#000">
@@ -146,6 +157,7 @@ def build_html(lang, items, cfg, camp=None):
 <tr><td align="center" style="padding:10px 30px 4px;font:30px Georgia,serif;color:#D4AF37">{t['title']}</td></tr>
 <tr><td align="center" style="padding:0 30px 20px;font:14px Arial;color:#A0A0A0">{t['intro']}</td></tr>
 <tr><td style="padding:0 12px"><table width="100%" cellpadding="0" cellspacing="0">{rows}</table></td></tr>
+{coupon}
 <tr><td align="center" style="padding:26px"><a href="https://dazmond.com" style="font:12px Arial;letter-spacing:3px;color:#C5A059;border:1px solid #C5A059;padding:12px 24px;text-decoration:none;text-transform:uppercase">{t['all']}</a></td></tr>
 <tr><td align="center" style="padding:20px 30px 30px;font:11px Arial;color:#666;border-top:1px solid #222">
 {t['foot']}<br>{company} · {address}<br><a href="{{{{ unsubscribe }}}}" style="color:#A0A0A0">{t['unsub']}</a>
@@ -193,8 +205,73 @@ def main():
             print(f"[correo] {lang.upper()}: enviado (campaña {camp['id']}).")
         except Exception as e:
             print(f"[correo] {lang.upper()}: no se pudo enviar: {e}")
+    send_welcomes(cfg, key)
     save("mailer_state.json", state)
     return 0
+
+
+WELCOME = {
+    "es": {"subject": "Bienvenido/a al Círculo DAZMOND",
+           "title": "Bienvenido/a al Círculo DAZMOND",
+           "text": "Gracias por unirte. A partir de hoy recibirás antes que nadie nuestros lanzamientos, ediciones irrepetibles y campañas privadas.",
+           "code": "Tu regalo de bienvenida para la primera compra:", "cta": "Descubrir la colección"},
+    "en": {"subject": "Welcome to the DAZMOND Circle",
+           "title": "Welcome to the DAZMOND Circle",
+           "text": "Thank you for joining. From today you will be the first to discover our releases, one-of-a-kind editions and private campaigns.",
+           "code": "Your welcome gift for your first order:", "cta": "Discover the collection"},
+}
+
+
+def welcome_html(lang, cfg, coupon):
+    w = WELCOME[lang]
+    site = cfg.get("site_url", "https://dazmond.com")
+    code = (f'<p style="font:13px Arial;color:#A0A0A0;margin:24px 0 8px">{w["code"]}</p>'
+            f'<p style="font:28px Georgia,serif;color:#D4AF37;letter-spacing:6px;border:1px solid #3a2f1a;display:inline-block;padding:12px 26px">{coupon["code"]}</p>'
+            f'<p style="font:12px Arial;color:#A0A0A0">{coupon.get("percent_off", 10)} %</p>') if coupon else ""
+    return f"""<!DOCTYPE html><html><body style="margin:0;background:#000"><table width="100%" style="background:#000"><tr><td align="center">
+<table width="600" style="max-width:600px;width:100%;background:#0A0A0A;border:1px solid #3a2f1a"><tr><td align="center" style="padding:40px 30px">
+<div style="font:600 28px Georgia,serif;letter-spacing:5px;color:#C5A059">DAZMOND <i style="font-weight:400">&amp;</i> Co.</div>
+<div style="font:30px Georgia,serif;color:#D4AF37;margin:30px 0 14px">{w['title']}</div>
+<p style="font:14px Arial;color:#A0A0A0;line-height:1.7">{w['text']}</p>{code}
+<p style="margin-top:28px"><a href="{site}" style="font:12px Arial;letter-spacing:3px;color:#000;background:#C5A059;padding:13px 26px;text-decoration:none;text-transform:uppercase">{w['cta']}</a></p>
+<p style="font:11px Arial;color:#666;margin-top:34px">{html.escape(cfg.get('company', ''))} · {html.escape(cfg.get('company_address', ''))}<br>{'Puedes darte de baja desde cualquiera de nuestros correos.' if lang == 'es' else 'You can unsubscribe from any of our emails.'}</p>
+</td></tr></table></td></tr></table></body></html>"""
+
+
+def send_welcomes(cfg, key):
+    """Correo de bienvenida (con el cupón) a cada nuevo suscriptor, una sola vez."""
+    nl = cfg.get("newsletter", {})
+    coupon = next((c for c in cfg.get("coupons", []) if c.get("for") == "subscribers" and c.get("created")), None)
+    try:
+        brevo_call("/contacts/attributes/normal/DAZ_WELCOME", {"type": "text"})
+    except Exception:
+        pass  # ya existe
+    since = (datetime.now(timezone.utc) - timedelta(days=3)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    sent = 0
+    for lang in ("es", "en"):
+        list_id = int(nl.get(f"brevo_list_id_{lang}") or 0)
+        if not list_id:
+            continue
+        try:
+            data = brevo_call(f"/contacts/lists/{list_id}/contacts?limit=500&modifiedSince={urllib.parse.quote(since)}")
+        except Exception as e:
+            print(f"[correo] No se pudo leer la lista {lang.upper()}: {str(e)[:120]}")
+            continue
+        for c in data.get("contacts", []):
+            if (c.get("attributes") or {}).get("DAZ_WELCOME") or c.get("emailBlacklisted"):
+                continue
+            try:
+                brevo_call("/smtp/email", {
+                    "sender": {"name": nl.get("sender_name", "DAZMOND & Co."), "email": nl.get("sender_email")},
+                    "to": [{"email": c["email"]}],
+                    "subject": WELCOME[lang]["subject"],
+                    "htmlContent": welcome_html(lang, cfg, coupon),
+                })
+                brevo_call(f"/contacts/{urllib.parse.quote(c['email'])}", {"attributes": {"DAZ_WELCOME": TODAY}}, "PUT")
+                sent += 1
+            except Exception as e:
+                print(f"[correo] Una bienvenida no se pudo enviar: {str(e)[:100]}")
+    print(f"[correo] Bienvenidas enviadas: {sent}")
 
 
 if __name__ == "__main__":

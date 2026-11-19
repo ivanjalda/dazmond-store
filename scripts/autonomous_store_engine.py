@@ -39,6 +39,9 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from dz_common import env, load_json as _lj, printful, printify, request, save_json as _sj, stripe  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 NOW = datetime.now(timezone.utc)
@@ -263,41 +266,178 @@ def read_csvs():
     return rows
 
 
+def _split_by_color(variants, color_of, size_of):
+    groups = {}
+    for v in variants:
+        groups.setdefault(color_of(v) or "", []).append(v)
+    return groups
+
+
 def read_printify():
-    token, shop = os.environ.get("PRINTIFY_TOKEN"), os.environ.get("PRINTIFY_SHOP_ID")
-    if not token or not shop:
+    """Lee tu tienda de Printify. Cada color se convierte en una pieza propia (como en las grandes casas)."""
+    if not env("PRINTIFY_TOKEN") or not env("PRINTIFY_SHOP_ID"):
         return []
+    shop = env("PRINTIFY_SHOP_ID")
     rows, page = [], 1
     try:
-        while page <= 20:
-            url = f"https://api.printify.com/v1/shops/{shop}/products.json?limit=50&page={page}"
-            data = http_json(url, {"Authorization": f"Bearer {token}"})
+        while page <= 30:
+            data = printify(f"/shops/{shop}/products.json?limit=50&page={page}")
             for p in data.get("data", []):
-                variants = [v for v in p.get("variants", []) if v.get("is_enabled")]
-                if not variants:
-                    continue
-                cost = min(v.get("cost", 0) for v in variants) / 100
-                sizes = []
-                for v in variants:
-                    s = (v.get("title") or "").split(" / ")[-1].strip()
-                    if s and s not in sizes:
-                        sizes.append(s)
-                rows.append({
-                    "supplier": "Printify", "supplier_id": str(p.get("id")),
-                    "title": p.get("title", ""), "type": " ".join(p.get("tags", [])),
-                    "gender": "", "color": "", "material": "",
-                    "cost_usd": str(cost), "shipping_usd": "6",
-                    "sizes": "|".join(sizes[:20]),
-                    "images": "|".join(i.get("src", "") for i in p.get("images", [])[:6]),
-                    "description": re.sub(r"<[^>]+>", " ", p.get("description", ""))[:600],
-                })
+                opt_type = {}
+                for o in p.get("options", []):
+                    for val in o.get("values", []):
+                        opt_type[val["id"]] = (o.get("type", ""), val.get("title", ""))
+                enabled = [v for v in p.get("variants", []) if v.get("is_enabled") and v.get("is_available", True)]
+
+                def pick_type(v, kind):
+                    for oid in v.get("options", []):
+                        t, title = opt_type.get(oid, ("", ""))
+                        if t == kind:
+                            return title
+                    return ""
+
+                groups = _split_by_color(enabled, lambda v: pick_type(v, "color"), lambda v: pick_type(v, "size"))
+                for color, vs in groups.items():
+                    vids = {v["id"] for v in vs}
+                    sizes, vmap = [], {}
+                    for v in vs:
+                        s = pick_type(v, "size") or (v.get("title") or "").split(" / ")[-1].strip()
+                        if s and s not in vmap:
+                            sizes.append(s)
+                            vmap[s] = v["id"]
+                    if not vmap:
+                        vmap["unica"] = vs[0]["id"]
+                    imgs = [i["src"] for i in p.get("images", []) if vids & set(i.get("variant_ids", []))]
+                    imgs = imgs or [i["src"] for i in p.get("images", [])]
+                    rows.append({
+                        "supplier": "Printify",
+                        "supplier_id": f"{p['id']}-{slug(color)}" if color and len(groups) > 1 else str(p["id"]),
+                        "supplier_product_id": str(p["id"]),
+                        "title": p.get("title", ""), "type": " ".join(p.get("tags", [])),
+                        "gender": "", "color": color, "material": "",
+                        "cost_usd": str(min(v.get("cost", 0) for v in vs) / 100), "shipping_usd": "6",
+                        "sizes": "|".join(sizes[:30]), "images": "|".join(imgs[:8]),
+                        "variant_map": vmap,
+                        "description": re.sub(r"<[^>]+>", " ", p.get("description", ""))[:600],
+                    })
             if page >= data.get("last_page", 1):
                 break
             page += 1
-        log(f"Printify API: {len(rows)} productos")
+        log(f"Printify: {len(rows)} piezas leídas")
     except Exception as e:  # nunca romper el motor por un proveedor
-        log(f"Printify API no disponible hoy: {e}")
+        log(f"Printify no disponible hoy: {str(e)[:200]}")
     return rows
+
+
+def read_printful():
+    """Lee tu tienda de Printful (tienda de tipo API / pedidos manuales)."""
+    if not env("PRINTFUL_TOKEN"):
+        return []
+    cache = load_json("supplier_cache.json", {})
+    costs = cache.setdefault("printful_costs", {})
+    rows = []
+    try:
+        offset = 0
+        while offset < 2000:
+            lst = printful(f"/store/products?limit=100&offset={offset}")
+            items = lst.get("result", [])
+            for it in items:
+                det = printful(f"/store/products/{it['id']}").get("result", {})
+                sp = det.get("sync_product", {})
+                vs = [v for v in det.get("sync_variants", []) if not v.get("is_ignored")]
+                groups = _split_by_color(vs, lambda v: v.get("color") or "", lambda v: v.get("size") or "")
+                for color, gv in groups.items():
+                    sizes, vmap, imgs, cost = [], {}, [], None
+                    for v in gv:
+                        s = v.get("size") or "unica"
+                        if s not in vmap:
+                            sizes.append(s)
+                            vmap[s] = v["id"]
+                        for fl in v.get("files", []):
+                            if fl.get("type") == "preview" and fl.get("preview_url") and fl["preview_url"] not in imgs:
+                                imgs.append(fl["preview_url"])
+                        cid = str(v.get("variant_id"))
+                        if cid not in costs:
+                            try:
+                                costs[cid] = float(printful(f"/products/variant/{cid}")["result"]["variant"]["price"])
+                                time.sleep(0.6)
+                            except Exception:
+                                costs[cid] = 0
+                        c = costs.get(cid) or 0
+                        cost = c if cost is None else min(cost, c)
+                    if not imgs and sp.get("thumbnail_url"):
+                        imgs.append(sp["thumbnail_url"])
+                    rows.append({
+                        "supplier": "Printful",
+                        "supplier_id": f"{sp.get('id')}-{slug(color)}" if color and len(groups) > 1 else str(sp.get("id")),
+                        "supplier_product_id": str(sp.get("id")),
+                        "title": sp.get("name", ""), "type": (gv[0].get("product") or {}).get("name", ""),
+                        "gender": "", "color": color, "material": "",
+                        "cost_usd": str(cost or 0), "shipping_usd": "7",
+                        "sizes": "|".join(sizes[:30]), "images": "|".join(imgs[:8]),
+                        "variant_map": vmap, "description": "",
+                    })
+                time.sleep(0.6)
+            if len(items) < 100:
+                break
+            offset += 100
+        save_json("supplier_cache.json", cache)
+        log(f"Printful: {len(rows)} piezas leídas")
+    except Exception as e:
+        log(f"Printful no disponible hoy: {str(e)[:200]}")
+    return rows
+
+
+# ---------------------------------------------- visitas reales (Firebase, opcional)
+def read_firebase_stats(cfg, stats):
+    """Lee las visitas y clics que la web guarda en Firebase (colección 'stats', un documento por día)."""
+    fb = cfg.get("firebase", {})
+    if not fb.get("apiKey") or not fb.get("projectId"):
+        return
+    base = (f"https://firestore.googleapis.com/v1/projects/{fb['projectId']}/databases/(default)/documents/stats/")
+    totals = {}
+    for back in range(30):
+        day = (NOW - timedelta(days=back)).strftime("%Y%m%d")
+        try:
+            doc = request(f"{base}{day}?key={fb['apiKey']}", timeout=20, retries=0)
+        except Exception:
+            continue
+        for kind in ("views", "clicks"):
+            fields = (((doc.get("fields") or {}).get(kind) or {}).get("mapValue") or {}).get("fields") or {}
+            for pid, v in fields.items():
+                n = int(v.get("integerValue", 0) or 0)
+                t = totals.setdefault(pid, {"views": 0, "clicks": 0, "views_today": 0})
+                t[kind] += n
+                if back == 0 and kind == "views":
+                    t["views_today"] = n
+    for pid, t in totals.items():
+        stats.setdefault(pid, {}).update(t)
+    if totals:
+        log(f"Firebase: visitas leídas de {len(totals)} piezas")
+
+
+# --------------------------------------------------------- cupones (Stripe)
+def ensure_coupons(cfg):
+    """Crea en Stripe los códigos de descuento de config.json (solo si aún no existen)."""
+    if not env("STRIPE_SECRET_KEY"):
+        return
+    for c in cfg.get("coupons", []):
+        code = c.get("code")
+        if not code or c.get("created"):
+            continue
+        try:
+            found = stripe(f"/promotion_codes?code={urllib.parse.quote(code)}&limit=1").get("data", [])
+            if not found:
+                coupon = stripe("/coupons", {"percent_off": c.get("percent_off", 10), "duration": "once",
+                                             "name": c.get("name", code)})
+                form = {"coupon": coupon["id"], "code": code}
+                if c.get("first_order_only"):
+                    form["restrictions[first_time_transaction]"] = "true"
+                stripe("/promotion_codes", form)
+                log(f"Cupón creado en Stripe: {code}")
+            c["created"] = True
+        except Exception as e:
+            log(f"Cupón {code} no creado hoy: {str(e)[:160]}")
 
 
 # ------------------------------------------------------------------ Stripe
@@ -327,11 +467,13 @@ def _create_link(p, cents, tag):
         "metadata[dazmond_id]": p["id"],
         "metadata[tipo]": tag,
         "shipping_address_collection[allowed_countries][]": COUNTRIES,
+        "phone_number_collection[enabled]": "true",
         "allow_promotion_codes": "true",
         "after_completion[type]": "redirect",
-        "after_completion[redirect][url]": "https://dazmond.com/#/gracias",
+        "after_completion[redirect][url]": f"{SITE}/#/gracias",
     }
     sizes = [s for s in p.get("sizes", []) if re.sub(r"[^A-Za-z0-9]", "", s)][:200]
+    p["size_values"] = {re.sub(r"[^A-Za-z0-9]", "", s) or f"t{i}": s for i, s in enumerate(sizes)}
     if sizes:
         data["custom_fields[0][key]"] = "talla"
         data["custom_fields[0][type]"] = "dropdown"
@@ -352,16 +494,38 @@ def _deactivate(link_id):
             pass
 
 
+SITE = "https://dazmond.com"
+
+
+def detect_site(cfg):
+    """Usa dazmond.com en cuanto el dominio apunte a esta tienda; mientras tanto, la dirección de GitHub."""
+    global SITE
+    domain = cfg.get("domain", "dazmond.com")
+    try:
+        data = request(f"https://{domain}/data/catalog.json", timeout=15, retries=0)
+        if isinstance(data, dict) and data.get("menus"):
+            SITE = f"https://{domain}"
+        else:
+            raise ValueError
+    except Exception:
+        SITE = cfg.get("pages_url", "https://ivanjalda.github.io/dazmond-store")
+    cfg["site_url"] = SITE
+    log(f"Dirección de la tienda: {SITE}")
+
+
 def ensure_payment_link(p):
     """Enlace normal y, si hay oferta de campaña, un enlace aparte con el precio de oferta."""
     if not os.environ.get("STRIPE_SECRET_KEY"):
         return
     try:
         cents = int(round(p["price_usd"] * 100))
-        if not p.get("manual_payment_link") and not (p.get("stripe_payment_link") and p.get("stripe_price_cents") == cents):
+        fresh = p.get("stripe_payment_link") and p.get("stripe_price_cents") == cents and p.get("stripe_site") == SITE
+        if not p.get("manual_payment_link") and not fresh:
             url, lid = _create_link(p, cents, "normal")
             _deactivate(p.get("stripe_link_id"))
             p["stripe_payment_link"], p["stripe_link_id"], p["stripe_price_cents"] = url, lid, cents
+            p["stripe_site"] = SITE
+            p.pop("stripe_offer_cents", None)  # el de oferta también se renueva con la nueva dirección
             log(f"Stripe: enlace normal listo para {p['id']}")
         offer = p.get("offer")
         old_offer_id = p.get("stripe_offer_link_id")
@@ -557,12 +721,13 @@ def complete_the_look(products):
 # --------------------------------------------------------------- programa
 def main():
     cfg = load_json("config.json", {})
+    detect_site(cfg)
     old_list = load_json("products.json", {"products": []}).get("products", [])
     old = {p["id"]: p for p in old_list}
     analytics = load_json("store_analytics.json", {"products": {}})
     stats = analytics.setdefault("products", {})
 
-    rows = read_csvs() + read_printify()
+    rows = read_csvs() + read_printify() + read_printful()
     products = dict(old)  # nunca se borra nada: lo que ya existía se conserva
 
     for r in rows:
@@ -584,8 +749,14 @@ def main():
             "material": r.get("material", "") or prev.get("material", ""),
             "color": r.get("color", "") or prev.get("color", ""),
         })
-        urls = lambda key: [u.strip() for u in r.get(key, "").split("|") if u.strip().startswith("http")]
+        urls = lambda key: [u.strip() for u in r.get(key, "").split("|") if u.strip().startswith(("http", "assets/"))]
         p["_row_images"], p["_row_model"] = urls("images"), urls("model_images")
+        if r.get("variant_map"):
+            p["variant_map"] = r["variant_map"]
+        if r.get("supplier_product_id"):
+            p["supplier_product_id"] = r["supplier_product_id"]
+        if r.get("gender"):
+            p["gender"] = r["gender"]
         if r.get("stock", "") != "":
             try:
                 p["stock"] = int(float(r["stock"]))
@@ -602,6 +773,9 @@ def main():
         products[pid] = p
 
     plist = list(products.values())
+    # Los 6 productos de ejemplo desaparecen solos en cuanto entra el primer producto real
+    real = any(not str(p.get("supplier_id", "")).upper().startswith("DEMO-") for p in plist)
+    plist = [p for p in plist if not (real and str(p.get("supplier_id", "")).upper().startswith("DEMO-"))]
     for p in plist:
         sort_images(p, p.pop("_row_images", []), p.pop("_row_model", []))
         p.setdefault("price_usd", 0.0)
@@ -618,10 +792,13 @@ def main():
                 link_to_pid[p[k]] = p["id"]
     has_stripe = bool(os.environ.get("STRIPE_SECRET_KEY"))
     sales = stripe_sales(link_to_pid)
+    read_firebase_stats(cfg, stats)
+    ensure_coupons(cfg)
     for p in plist:
         s = stats.setdefault(p["id"], {})
         for k in ("views", "clicks", "views_today", "sales_30d", "sales_today"):
             s.setdefault(k, 0)
+        s["visual_verified"] = p.get("visual_verified", False)
         if has_stripe:
             s.update(sales.get(p["id"], {"sales_30d": 0, "sales_today": 0, "revenue_30d": 0.0}))
 

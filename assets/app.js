@@ -50,7 +50,7 @@
       thanks_t: 'Gracias por tu compra', thanks_d: 'Hemos recibido tu pedido. En breve recibirás la confirmación por correo electrónico.',
       back: 'Volver a la tienda',
       b_top1: 'Nº 1 en Ventas', b_bestseller: 'Más vendido', b_lowstock: 'Edición Limitada · Últimas unidades', b_hot: 'Alta demanda', b_new: 'Novedad',
-      secure: 'Pago 100 % seguro', until: 'Hasta el', gifts: 'Selección de regalos', offers_t: 'La selección de la campaña', view_all: 'Ver toda la selección', men_cta: 'Descubrir Hombre', women_cta: 'Descubrir Mujer',
+      secure: 'Pago 100 % seguro', sub_gift: 'Únete y recibe un {n} % de regalo en tu primera compra.', cookie_t: 'Usamos analítica para entender qué piezas gustan más y mejorar la tienda. ¿Nos lo permites?', accept: 'Aceptar', reject: 'Rechazar', until: 'Hasta el', gifts: 'Selección de regalos', offers_t: 'La selección de la campaña', view_all: 'Ver toda la selección', men_cta: 'Descubrir Hombre', women_cta: 'Descubrir Mujer',
       d_make: 'Detalles de confección', d_ship: 'Envío y devoluciones', d_ship_t: 'Confección en 2–7 días laborables y envío internacional con seguimiento en 5–15 días laborables. Devolución o reposición gratuita si la pieza llega defectuosa.', d_material: 'Material', d_color: 'Color', d_made: 'Confeccionada bajo demanda, solo para ti.', zoom: 'Toca la imagen para ampliarla', camp_off: 'Ahora no hay ninguna campaña activa.'
     },
     en: {
@@ -93,7 +93,7 @@
       thanks_t: 'Thank you for your order', thanks_d: 'We have received your order. You will receive an email confirmation shortly.',
       back: 'Back to the store',
       b_top1: 'No. 1 Best Seller', b_bestseller: 'Best Seller', b_lowstock: 'Limited Edition · Last pieces', b_hot: 'In high demand', b_new: 'New',
-      secure: '100% secure payment', until: 'Until', gifts: 'The gift selection', offers_t: 'The campaign selection', view_all: 'View the full selection', men_cta: 'Discover Men', women_cta: 'Discover Women',
+      secure: '100% secure payment', sub_gift: 'Join and get {n}% off your first order.', cookie_t: 'We use analytics to understand which pieces you love and improve the store. May we?', accept: 'Accept', reject: 'Decline', until: 'Until', gifts: 'The gift selection', offers_t: 'The campaign selection', view_all: 'View the full selection', men_cta: 'Discover Men', women_cta: 'Discover Women',
       d_make: 'Tailoring details', d_ship: 'Shipping & returns', d_ship_t: 'Made in 2–7 business days and shipped internationally with tracking in 5–15 business days. Free replacement or refund if your piece arrives defective.', d_material: 'Material', d_color: 'Colour', d_made: 'Made to order, just for you.', zoom: 'Tap the image to zoom in', camp_off: 'There is no active campaign right now.'
     }
   };
@@ -112,6 +112,8 @@
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const L = o => (o && (o[S.lang] || o.es)) || '';
   const app = $('#app');
+  const BASE = window.DZ_BASE || '';
+  const abs = u => (!u || /^(https?:|data:)/.test(u)) ? u : BASE + u;
 
   /* ---------- Precios y divisa ---------- */
   function rate() { return S.cur === 'EUR' ? (S.cfg.fx && S.cfg.fx.EUR) || 0.92 : 1; }
@@ -121,7 +123,8 @@
       { style: 'currency', currency: S.cur, maximumFractionDigits: 0 }).format(Math.round(v));
   }
 
-  const imgs = p => p.display_images || p.images || [];
+  const imgs = p => (p.display_images || p.images || []).map(abs);
+  const plink = p => p.page ? `${BASE}p/${p.id}/` : `${BASE ? BASE : ''}#/p/${p.id}`;
   const priceNow = p => (p.offer ? p.offer.price_usd : p.price_usd);
   function priceHTML(p) {
     if (!p.price_usd) return t('soon');
@@ -139,15 +142,15 @@
 
   async function init() {
     const [cfg, catalog, prod, camp] = await Promise.all([
-      getJSON('data/config.json', {}), getJSON('data/catalog.json', { menus: [] }), getJSON('data/products.json', { products: [] }),
-      getJSON('data/campaign.json', { active: false })
+      getJSON(BASE + 'data/config.json', {}), getJSON(BASE + 'data/catalog.json', { menus: [] }), getJSON(BASE + 'data/products.json', { products: [] }),
+      getJSON(BASE + 'data/campaign.json', { active: false })
     ]);
     S.cfg = cfg; S.catalog = catalog; S.camp = camp || { active: false };
     S.products = (prod.products || []).slice().sort((a, b) => (a.rank || 999) - (b.rank || 999));
     S.products.forEach(p => { S.byId[p.id] = p; });
     if (!S.lang) S.lang = (navigator.language || 'es').toLowerCase().startsWith('es') ? 'es' : (cfg.default_lang || 'en');
     if (!S.cur) S.cur = S.lang === 'es' && /^es|^fr|^de|^it|^pt|^nl/.test((navigator.language || '').toLowerCase()) ? 'EUR' : (cfg.default_currency || 'USD');
-    bindUI(); applyStatic(); renderNav(); route(); updateCounts(); initFirebase();
+    bindUI(); applyStatic(); renderNav(); route(); updateCounts(); initFirebase(); initAnalytics();
   }
 
   /* ---------- Textos fijos y botones ---------- */
@@ -157,6 +160,8 @@
     $$('[data-i18n-ph]').forEach(el => { el.placeholder = t(el.dataset.i18nPh); });
     $('#langBtn').innerHTML = S.lang === 'es' ? '<b>ES</b> | EN' : 'ES | <b>EN</b>';
     $('#curBtn').textContent = S.cur === 'EUR' ? 'EUR €' : 'USD $';
+    const cc = (S.cfg.coupons || []).find(x => x.for === 'subscribers' && x.created);
+    if (cc) $('[data-i18n="sub_text"]').textContent = t('sub_gift').replace('{n}', cc.percent_off || 10);
     const c = S.camp.active && S.camp[S.lang];
     $('#topMsg').innerHTML = c ? `<a href="#/campana">${esc(c.eyebrow)} · ${esc(c.title)}</a>` : esc(t('topbar'));
     const so = S.cfg.social || {};
@@ -181,6 +186,8 @@
     window.addEventListener('hashchange', () => { closeMega(); route(); });
     $('#subForm').onsubmit = subscribe;
     document.addEventListener('click', e => {
+      const a = e.target.closest('a[href^="#/"]');
+      if (a && BASE) { e.preventDefault(); location.href = BASE + a.getAttribute('href'); return; }
       const fav = e.target.closest('[data-fav]');
       if (fav) { e.preventDefault(); toggleFav(fav.dataset.fav); return; }
       if (!e.target.closest('#megaMenu') && !e.target.closest('#mainNav')) closeMega();
@@ -218,7 +225,8 @@
     const [path, anchor] = raw.split('#');
     const parts = path.split('/').filter(Boolean);
     window.scrollTo(0, 0);
-    if (!parts.length) homeView();
+    if (!parts.length && window.DZ_PRODUCT) productView(window.DZ_PRODUCT);
+    else if (!parts.length) homeView();
     else if (parts[0] === 'c') listView(parts[1], parts[2]);
     else if (parts[0] === 'p') productView(parts[1]);
     else if (parts[0] === 'identidad') identityView();
@@ -238,7 +246,7 @@
     const fav = S.favs.includes(p.id);
     const im = imgs(p)[0];
     const img = im ? `<img src="${esc(im)}" alt="${esc(p['name_' + S.lang])}" loading="lazy" decoding="async">` : '<span class="ph">D</span>';
-    return `<a class="card${p.available === false ? ' soldout' : ''}" href="#/p/${p.id}">
+    return `<a class="card${p.available === false ? ' soldout' : ''}" href="${plink(p)}">
       ${p.badge ? `<span class="badge">${t('b_' + p.badge)}</span>` : ''}
       <button class="fav" data-fav="${p.id}" aria-label="${t('favs')}">${fav ? '♥' : '♡'}</button>
       <div class="img">${img}</div>
@@ -252,7 +260,7 @@
   function homeView() {
     document.title = 'DAZMOND & Co. — American Luxury House';
     const c = S.camp.active && S.camp[S.lang];
-    const hero = S.cfg.hero_image ? `<img src="${esc(S.cfg.hero_image)}" alt="">` : '';
+    const hero = S.cfg.hero_image ? `<img src="${esc(abs(S.cfg.hero_image))}" alt="">` : '';
     const top = S.products.filter(p => p.available !== false);
     const sel = picks(S.camp.gifts && S.camp.gifts.length ? S.camp.gifts : S.camp.offers).slice(0, 4);
     const men = top.find(p => (p.categories || []).some(x => x.startsWith('hombre/')) && imgs(p)[0]);
@@ -406,6 +414,7 @@
       ${look.length ? `<div class="look section" style="padding-top:0"><div class="section-head"><p class="eyebrow">DAZMOND &amp; Co.</p><h2>${t('look')}</h2><div class="rule"></div></div><div class="grid">${look.map(card).join('')}</div></div>` : ''}
     </section>`;
     bindZoom();
+    track('views', p.id);
     $$('#sizes button').forEach(b => { b.onclick = () => { size = b.dataset.size; $$('#sizes button').forEach(x => x.classList.toggle('sel', x === b)); }; });
     const needSize = () => p.sizes && p.sizes.length && !size;
     if ($('#addBtn')) $('#addBtn').onclick = () => { if (needSize()) { toast(t('choose_size')); return; } addToCart(p.id, size); };
@@ -438,6 +447,7 @@
   }
 
   function pay(p) {
+    track('clicks', p.id);
     const link = (p.offer && p.offer.payment_link) || p.stripe_payment_link;
     if (!link) { toast(t('soon')); return; }
     const url = new URL(link);
@@ -448,6 +458,7 @@
 
   /* ---------- Carrito ---------- */
   function addToCart(id, size) {
+    track('clicks', id);
     const line = S.cart.find(l => l.id === id && l.size === size);
     if (line) line.qty += 1; else S.cart.push({ id, size, qty: 1 });
     store.set('dz_cart', S.cart); updateCounts(); toast(t('added'));
@@ -506,7 +517,7 @@
   function identityView() {
     document.title = (S.lang === 'es' ? 'La Identidad' : 'Our Identity') + ' — DAZMOND & Co.';
     const es = S.lang === 'es';
-    const lb = (S.cfg.lookbook || []).map(x => `<div>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy">` : ''}<span>${esc(es ? x.title_es : x.title_en)}</span></div>`).join('');
+    const lb = (S.cfg.lookbook || []).map(x => `<div>${x.image ? `<img src="${esc(abs(x.image))}" alt="" loading="lazy">` : ''}<span>${esc(es ? x.title_es : x.title_en)}</span></div>`).join('');
     app.innerHTML = `<section class="section"><div class="editorial">
       <p class="eyebrow">${es ? 'La Maison' : 'The Maison'}</p>
       <h1 style="font-size:clamp(34px,7vw,64px);font-weight:300;margin-bottom:30px">${es ? 'La Identidad de Dazmond&amp;Co.' : 'The Dazmond&amp;Co. Identity'}</h1>
@@ -568,8 +579,8 @@
         : `<p>Controller: ${id}.</p><ul><li>Payments are processed by Stripe. We never see or store your card details.</li><li>Account and favorites: if you sign in, they are stored in Google Firebase.</li><li>Newsletter: your email is stored in Brevo only if you subscribe; you can unsubscribe in every email.</li><li>Shipping: we share your address only with the workshop that makes and ships your order.</li></ul><p>You can request access, correction or deletion of your data by writing to ${mail}.</p>`,
       terminos: es ? `<p>Los precios se muestran en USD; el importe en EUR es orientativo y el cobro se realiza en USD a través de Stripe.</p><p>Cada pieza se fabrica bajo pedido tras confirmarse el pago. Al comprar aceptas estas condiciones y las políticas de envío y devoluciones.</p><p>Ley aplicable: Estado de Nuevo México (EE. UU.), sin perjuicio de los derechos que te reconozca la ley de tu país de residencia.</p>`
         : `<p>Prices are shown in USD; EUR amounts are approximate and you are charged in USD through Stripe.</p><p>Each piece is made to order once payment is confirmed. By purchasing you accept these terms and the shipping and returns policies.</p><p>Governing law: State of New Mexico (USA), without prejudice to the rights granted by the law of your country of residence.</p>`,
-      cookies: es ? `<p>Usamos solo el almacenamiento imprescindible de tu navegador para recordar tu idioma, tu divisa, tus favoritos y tu selección. No usamos cookies publicitarias.</p>`
-        : `<p>We only use essential browser storage to remember your language, currency, favorites and selection. We do not use advertising cookies.</p>`,
+      cookies: es ? `<p>Usamos el almacenamiento imprescindible de tu navegador para recordar tu idioma, tu divisa, tus favoritos y tu selección.</p><p>Contamos las visitas a cada pieza de forma anónima (sin datos personales) para mostrar primero lo que más gusta. Si activamos Google Analytics, solo se carga si pulsas «Aceptar» en el aviso. No usamos cookies publicitarias.</p>`
+        : `<p>We use essential browser storage to remember your language, currency, favorites and selection.</p><p>We count visits to each piece anonymously (no personal data) to show the most loved pieces first. If Google Analytics is enabled, it only loads if you click "Accept". We do not use advertising cookies.</p>`,
       envios: es ? `<p>Confección: entre 2 y 7 días laborables, porque cada pieza se produce para ti.</p><p>Envío internacional con seguimiento: normalmente entre 5 y 15 días laborables según el destino.</p><p>Los impuestos o aranceles de importación de tu país, si los hubiera, corren a cargo del comprador.</p>`
         : `<p>Production: 2 to 7 business days, because each piece is made for you.</p><p>International tracked shipping: usually 5 to 15 business days depending on destination.</p><p>Any import taxes or duties in your country are paid by the buyer.</p>`,
       devoluciones: es ? `<p>Si tu pieza llega defectuosa, dañada o no es la que pediste, escríbenos a ${mail} en los 30 días siguientes con una foto y te la reponemos o te devolvemos el dinero.</p><p>Si resides en la Unión Europea, conservas tu derecho de desistimiento de 14 días desde la entrega, salvo en productos personalizados a petición tuya.</p>`
@@ -600,6 +611,7 @@
       await Promise.all([loadScript(v + 'firebase-auth-compat.js'), loadScript(v + 'firebase-firestore-compat.js')]);
       firebase.initializeApp(c);
       S.db = firebase.firestore();
+      trackQueue.splice(0).forEach(x => track(x[0], x[1]));
       firebase.auth().onAuthStateChanged(async u => {
         S.user = u;
         if (u) {
@@ -615,6 +627,47 @@
   function login() { if (window.firebase) firebase.auth().signInWithPopup(new firebase.auth.GoogleAuthProvider()).catch(e => toast(e.message)); }
   function syncFavs() {
     if (S.user && S.db) S.db.collection('users').doc(S.user.uid).set({ favs: S.favs, updated: Date.now() }, { merge: true }).catch(() => {});
+  }
+
+  /* ---------- Visitas por pieza (Firebase, sin datos personales) ---------- */
+  const trackQueue = [];
+  function track(kind, id) {
+    if (!S.db) { trackQueue.push([kind, id]); return; }
+    try {
+      const day = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+      S.db.collection('stats').doc(day).set({ [kind]: { [id]: firebase.firestore.FieldValue.increment(1) } }, { merge: true }).catch(() => {});
+    } catch (e) { /* sin conexión */ }
+  }
+
+  /* ---------- Analítica de la web ---------- */
+  function initAnalytics() {
+    const a = S.cfg.analytics || {};
+    if (a.cloudflare_token) {  // sin cookies: no necesita aviso
+      const s = document.createElement('script');
+      s.defer = true; s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+      s.setAttribute('data-cf-beacon', JSON.stringify({ token: a.cloudflare_token }));
+      document.head.appendChild(s);
+    }
+    if (a.ga4_id) {
+      const choice = store.get('dz_consent', null);
+      if (choice === 'yes') loadGA(a.ga4_id);
+      else if (choice === null) consentBanner(a.ga4_id);
+    }
+  }
+  function loadGA(id) {
+    const s = document.createElement('script');
+    s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(id);
+    document.head.appendChild(s);
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    gtag('js', new Date()); gtag('config', id, { anonymize_ip: true });
+  }
+  function consentBanner(id) {
+    const d = document.createElement('div');
+    d.className = 'consent';
+    d.innerHTML = `<p>${t('cookie_t')}</p><div><button class="btn" data-c="no">${t('reject')}</button><button class="btn btn-solid" data-c="yes">${t('accept')}</button></div>`;
+    document.body.appendChild(d);
+    $$('[data-c]', d).forEach(b => { b.onclick = () => { store.set('dz_consent', b.dataset.c); if (b.dataset.c === 'yes') loadGA(id); d.remove(); }; });
   }
 
   init();

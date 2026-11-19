@@ -1,0 +1,16 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Visitas y clics anónimos por pieza (un documento por día). Sin datos personales.
+    match /stats/{day} {
+      allow read: if true;
+      allow create, update: if request.resource.data.keys().hasOnly(['views', 'clicks']);
+    }
+
+    // Favoritos de cada cliente: solo los ve y los cambia su dueño.
+    match /users/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+  }
+}

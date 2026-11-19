@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:46:03Z",
+  "updated": "2026-11-19T00:15:17Z",
   "products": [
     {
       "id": "printify-demo-002",
@@ -17,9 +17,10 @@
         "L"
       ],
       "needs_review": false,
-      "created": "2026-11-18",
+      "created": "2026-11-19",
       "material": "satin",
       "color": "Champagne",
+      "gender": "women",
       "name_es": "Vestido Avenue · Champán",
       "name_en": "Avenue Dress · Champagne",
       "desc_es": "Elegancia americana sin concesiones. Cada unidad en seda se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
@@ -32,14 +33,15 @@
       "display_images": [],
       "available": true,
       "price_history": {
-        "2026-11-18": 80.0
+        "2026-11-19": 80.0
       },
       "score": 27.25,
       "rank": 1,
       "badge": "new",
       "look": [
         "interestprint-demo-004"
-      ]
+      ],
+      "page": false
     },
     {
       "id": "printful-demo-001",
@@ -57,9 +59,10 @@
         "XL"
       ],
       "needs_review": false,
-      "created": "2026-11-18",
+      "created": "2026-11-19",
       "material": "wool blend",
       "color": "Black",
+      "gender": "men",
       "name_es": "Abrigo Soho · Negro",
       "name_en": "Soho Coat · Black",
       "desc_es": "Elegancia americana sin concesiones. Cada unidad en lana se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
@@ -72,7 +75,7 @@
       "display_images": [],
       "available": true,
       "price_history": {
-        "2026-11-18": 175.0
+        "2026-11-19": 175.0
       },
       "score": 27.23,
       "rank": 2,
@@ -80,7 +83,8 @@
       "look": [
         "printful-demo-006",
         "popcustoms-demo-003"
-      ]
+      ],
+      "page": false
     },
     {
       "id": "inkpod-demo-005",
@@ -93,9 +97,10 @@
       "cost_usd": 17.0,
       "sizes": [],
       "needs_review": false,
-      "created": "2026-11-18",
+      "created": "2026-11-19",
       "material": "velvet",
       "color": "Gold",
+      "gender": "unisex",
       "name_es": "Cojín Madison · Oro",
       "name_en": "Madison Cushion · Gold",
       "desc_es": "Elegancia americana sin concesiones. Cada unidad en terciopelo se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
@@ -108,12 +113,13 @@
       "display_images": [],
       "available": true,
       "price_history": {
-        "2026-11-18": 45.0
+        "2026-11-19": 45.0
       },
       "score": 27.22,
       "rank": 3,
       "badge": "new",
-      "look": []
+      "look": [],
+      "page": false
     },
     {
       "id": "printful-demo-006",
@@ -131,9 +137,10 @@
         "XL"
       ],
       "needs_review": false,
-      "created": "2026-11-18",
+      "created": "2026-11-19",
       "material": "cotton pique",
       "color": "Black",
+      "gender": "men",
       "stock": 3,
       "name_es": "Polo Hudson · Negro",
       "name_en": "Hudson Polo · Black",
@@ -147,7 +154,7 @@
       "display_images": [],
       "available": true,
       "price_history": {
-        "2026-11-18": 55.0
+        "2026-11-19": 55.0
       },
       "score": 27.18,
       "rank": 4,
@@ -155,7 +162,8 @@
       "look": [
         "printful-demo-001",
         "popcustoms-demo-003"
-      ]
+      ],
+      "page": false
     },
     {
       "id": "interestprint-demo-004",
@@ -174,9 +182,10 @@
         "40"
       ],
       "needs_review": false,
-      "created": "2026-11-18",
+      "created": "2026-11-19",
       "material": "canvas",
       "color": "Ivory",
+      "gender": "women",
       "name_es": "Zapatillas Manhattan · Marfil",
       "name_en": "Manhattan Sneakers · Ivory",
       "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en lona, con un acabado impecable y una silueta que habla por sí sola.",
@@ -189,14 +198,15 @@
       "display_images": [],
       "available": true,
       "price_history": {
-        "2026-11-18": 65.0
+        "2026-11-19": 65.0
       },
       "score": 26.54,
       "rank": 5,
       "badge": "new",
       "look": [
         "printify-demo-002"
-      ]
+      ],
+      "page": false
     },
     {
       "id": "popcustoms-demo-003",
@@ -215,9 +225,10 @@
         "44"
       ],
       "needs_review": false,
-      "created": "2026-11-18",
+      "created": "2026-11-19",
       "material": "leather",
       "color": "Black",
+      "gender": "men",
       "name_es": "Botas Riviera · Negro",
       "name_en": "Riviera Boots · Black",
       "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en piel, con un acabado impecable y una silueta que habla por sí sola.",
@@ -230,7 +241,7 @@
       "display_images": [],
       "available": true,
       "price_history": {
-        "2026-11-18": 125.0
+        "2026-11-19": 125.0
       },
       "score": 26.52,
       "rank": 6,
@@ -238,7 +249,8 @@
       "look": [
         "printful-demo-001",
         "printful-demo-006"
-      ]
+      ],
+      "page": false
     }
   ]
 }

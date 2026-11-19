@@ -1,7 +1,7 @@
 {
   "store_name": "DAZMOND & Co.",
   "domain": "dazmond.com",
-  "site_url": "https://dazmond.com",
+  "site_url": "https://ivanjalda.github.io/dazmond-store",
   "company": "Community16 LLC",
   "company_address": "500 4th St NW, Suite 102 #1327, Albuquerque, NM 87102, USA",
   "contact_email": "info@dazmond.com",
@@ -15,8 +15,8 @@
   },
   "fx": {
     "base": "USD",
-    "EUR": 0.9117,
-    "updated": "2026-11-18"
+    "EUR": 0.92,
+    "updated": "2026-11-19"
   },
   "pricing": {
     "default_markup": 2.6,
@@ -208,5 +208,27 @@
       "title_en": "Private Collection",
       "image": ""
     }
-  ]
+  ],
+  "coupons": [
+    {
+      "code": "CIRCULO10",
+      "name": "Círculo DAZMOND 10%",
+      "percent_off": 10,
+      "first_order_only": true,
+      "for": "subscribers"
+    }
+  ],
+  "analytics": {
+    "cloudflare_token": "",
+    "ga4_id": ""
+  },
+  "orders": {
+    "auto_send_to_production": true,
+    "check_every_hours": 1
+  },
+  "design_factory": {
+    "enabled": true,
+    "max_new_products_per_run": 12
+  },
+  "pages_url": "https://ivanjalda.github.io/dazmond-store"
 }
