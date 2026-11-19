@@ -1,274 +1,2122 @@
 {
-  "updated": "2026-11-19T02:24:04Z",
+  "updated": "2026-11-19T03:09:31Z",
   "products": [
     {
-      "id": "printify-demo-002",
-      "supplier": "Printify",
-      "supplier_id": "DEMO-002",
-      "source_title": "Silk Touch Slip Dress",
+      "id": "shopify-design-all-over-print-womens-shortall-4",
+      "supplier": "Shopify",
+      "supplier_id": "design-all-over-print-womens-shortall-4",
+      "source_title": "DAZMOND® AURA LUXE: ELIXIR DAZMOND",
       "categories": [
+        "hombre/conjuntos",
         "mujer/vestidos-monos-petos"
       ],
-      "cost_usd": 30.0,
+      "cost_usd": 9.67,
       "sizes": [
-        "XS",
         "S",
         "M",
-        "L"
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
       ],
       "needs_review": false,
       "created": "2026-11-19",
-      "material": "satin",
-      "color": "Champagne",
-      "gender": "women",
-      "name_es": "Vestido Avenue · Champán",
-      "name_en": "Avenue Dress · Champagne",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad en seda se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order in silk, with an impeccable finish and a silhouette that speaks for itself.",
-      "price_usd": 80.0,
-      "margin_pct": 62.5,
-      "images_original": [],
+      "material": "",
+      "color": "Amarillo",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298383",
+        "M": "D3298383",
+        "L": "D3298383",
+        "XL": "D3298383",
+        "2XL": "D3298383",
+        "3XL": "D3298383",
+        "4XL": "D3298383",
+        "5XL": "D3298383"
+      },
+      "details_src": "La esencia de la versatilidad elevada al máximo lujo. \n El DAZMOND® Aura Luxe Elixir no es solo una prenda, es una declaración de intenciones. Diseñado para la mujer que domina el arte de la sofisticación sin esfuerzo, este diseño shortall redefine la silueta contemporánea fusionando la frescura de un peto con la distinción de una pieza de autor.\n Confeccionado en un tejido técnico de poliéster ultra-premium de 10.16 oz , ofrece una caída impecable y un tacto sutilmente elástico que acaricia la piel. Su ligereza garantiza una libertad de movimiento absoluta, manteniendo siempre una estructura perfecta y refinada.\n Detalles de Diseño: \n Silueta Camisola: Un escote cuadrado de inspiración minimalista, sujetado por tirantes anchos y un delicado detalle de dos botones que evocan la sastrería clásica.\n Funcionalidad Estilizada: Incorpora bolsillos frontales estratégicamente integrados que mantienen la pureza de las líneas sin renunciar a la practicidad.\n Estampado Artístico Único: Gracias a nuestra técnica de impresión All-Over , cada pieza posee una disposición de patrones orgánica. Las variaciones naturales en el encuentro de las costuras aseguran que su prenda sea una pieza irrepetible, con el carácter auténtico del diseño artesanal.\n El Arte del Estilismo: \n Desde un brunch bajo el sol con sneakers de lujo, hasta una velada sofisticada acompañada de stilettos infinitos. El Aura Luxe Elixir es el lienzo perfecto para destacar su personalidad.\n Especificaciones de Cuidado & Tall",
+      "name_es": "Mono Madison",
+      "name_en": "Madison Jumpsuit",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 79.9,
+      "margin_pct": 87.9,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-1.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-2.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-3.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-4.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-5.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-6.webp"
+      ],
       "images_model": [],
-      "visual_verified": false,
-      "display_images": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-1.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-2.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-3.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-4.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-5.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-4-6.webp"
+      ],
       "available": true,
       "price_history": {
-        "2026-11-19": 80.0
+        "2026-11-19": 79.9
       },
-      "score": 27.25,
+      "score": 32.79,
       "rank": 1,
       "badge": "new",
       "look": [
-        "interestprint-demo-004"
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
       ],
-      "page": false,
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null
+      "page": true
     },
     {
-      "id": "printful-demo-001",
-      "supplier": "Printful",
-      "supplier_id": "DEMO-001",
-      "source_title": "Classic Wool Blend Overcoat",
+      "id": "shopify-design-cheerleading-uniform-lyq62",
+      "supplier": "Shopify",
+      "supplier_id": "design-cheerleading-uniform-lyq62",
+      "source_title": "DAZMOND® \"Crimson Thorns\" Cheer Set",
       "categories": [
-        "hombre/abrigo-chaqueta-sueter"
+        "hombre/conjuntos",
+        "mujer/conjuntos"
       ],
-      "cost_usd": 66.0,
+      "cost_usd": 8.78,
       "sizes": [
         "S",
         "M",
         "L",
-        "XL"
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
       ],
       "needs_review": false,
       "created": "2026-11-19",
-      "material": "wool blend",
-      "color": "Black",
-      "gender": "men",
-      "name_es": "Abrigo Soho · Negro",
-      "name_en": "Soho Coat · Black",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad en lana se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order in wool, with an impeccable finish and a silhouette that speaks for itself.",
-      "price_usd": 175.0,
-      "margin_pct": 62.3,
-      "images_original": [],
-      "images_model": [],
-      "visual_verified": false,
-      "display_images": [],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 175.0
-      },
-      "score": 27.23,
-      "rank": 2,
-      "badge": "new",
-      "look": [
-        "printful-demo-006",
-        "popcustoms-demo-003"
-      ],
-      "page": false,
-      "shop_verified": false,
+      "material": "",
+      "color": "Púrpura",
+      "shop_verified": true,
       "size_guide": [],
-      "size_chart": null
-    },
-    {
-      "id": "inkpod-demo-005",
-      "supplier": "Inkpod",
-      "supplier_id": "DEMO-005",
-      "source_title": "Velvet Throw Pillow",
-      "categories": [
-        "decor"
-      ],
-      "cost_usd": 17.0,
-      "sizes": [],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "velvet",
-      "color": "Gold",
-      "gender": "unisex",
-      "name_es": "Cojín Madison · Oro",
-      "name_en": "Madison Cushion · Gold",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad en terciopelo se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Uncompromising American elegance. Each piece in velvet is produced only when you order it, so what you wear is as exclusive as you are.",
-      "price_usd": 45.0,
-      "margin_pct": 62.2,
-      "images_original": [],
-      "images_model": [],
-      "visual_verified": false,
-      "display_images": [],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 45.0
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298394",
+        "M": "D3298394",
+        "L": "D3298394",
+        "XL": "D3298394",
+        "2XL": "D3298394",
+        "3XL": "D3298394",
+        "4XL": "D3298394"
       },
-      "score": 27.22,
-      "rank": 3,
-      "badge": "new",
-      "look": [],
-      "page": false,
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null
-    },
-    {
-      "id": "printful-demo-006",
-      "supplier": "Printful",
-      "supplier_id": "DEMO-006",
-      "source_title": "Pique Cotton Polo",
-      "categories": [
-        "hombre/polos"
-      ],
-      "cost_usd": 21.0,
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "cotton pique",
-      "color": "Black",
-      "gender": "men",
-      "stock": 3,
-      "name_es": "Polo Hudson · Negro",
-      "name_en": "Hudson Polo · Black",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad en algodón se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in cotton, designed to take you from day to night.",
-      "price_usd": 55.0,
-      "margin_pct": 61.8,
-      "images_original": [],
-      "images_model": [],
-      "visual_verified": false,
-      "display_images": [],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 55.0
-      },
-      "score": 27.18,
-      "rank": 4,
-      "badge": "lowstock",
-      "look": [
-        "printful-demo-001",
-        "popcustoms-demo-003"
-      ],
-      "page": false,
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null
-    },
-    {
-      "id": "interestprint-demo-004",
-      "supplier": "InterestPrint",
-      "supplier_id": "DEMO-004",
-      "source_title": "High Top Canvas Sneakers",
-      "categories": [
-        "calzado-mujer/zapatillas"
-      ],
-      "cost_usd": 29.0,
-      "sizes": [
-        "36",
-        "37",
-        "38",
-        "39",
-        "40"
-      ],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "canvas",
-      "color": "Ivory",
-      "gender": "women",
-      "name_es": "Zapatillas Manhattan · Marfil",
-      "name_en": "Manhattan Sneakers · Ivory",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en lona, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in canvas, designed to take you from day to night.",
+      "details_src": "El Manifiesto del Diseño\n \"Gothic Botanical\" — Estética de Autor: Una magnífica e impactante obra de arte visual que fusiona el drama con la delicadeza orgánica. El diseño se despliega sobre un lienzo negro absoluto, decorado estratégicamente con ilustraciones de intrincadas espinas, enredaderas botánicas y vibrantes rosas en rojo carmesí profundo que aportan un contraste cromático sublime y lleno de magnetismo.\n Silueta de Alta Costura: El conjunto revoluciona los códigos deportivos tradicionales mediante un top de manga corta con solapas estructuradas de inspiración sastrera y un seductor escote pronunciado, enlazado al frente de forma sugerente mediante cordones frontales ajustables. Se complementa de manera impecable con una minifalda plisada de tablas fluidas y talle medio, diseñada para ceñirse a la cintura y alargar visualmente las piernas.\n Ingeniería Textil y Rendimiento de Élite \n El conjunto \"Crimson Thorns\" ha sido confeccionado con un equilibrio textil minuciosamente estudiado de 95% poliéster y 5% elastano (spandex) , ofreciendo un gramaje consistente de 15.10 oz. que denota su altísima calidad técnica. Su tejido inteligente proporciona una experiencia premium de uso: un ajuste ceñido al cuerpo de efecto moldeador ( tight but elastic ) que acompaña dinámicamente cada movimiento, sumado a propiedades técnicas activas que absorben eficazmente el sudor y permiten una transpirabilidad óptima en todo momento.\n Los detallados motivos artísticos se fijan a la fibra med",
+      "name_es": "Conjunto Soho",
+      "name_en": "Soho Set",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
       "price_usd": 65.0,
-      "margin_pct": 55.4,
-      "images_original": [],
+      "margin_pct": 86.5,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-7.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-8.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-9.webp"
+      ],
       "images_model": [],
-      "visual_verified": false,
-      "display_images": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-7.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-8.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-9.webp"
+      ],
       "available": true,
       "price_history": {
         "2026-11-19": 65.0
       },
-      "score": 26.54,
-      "rank": 5,
+      "score": 32.65,
+      "rank": 2,
       "badge": "new",
       "look": [
-        "printify-demo-002"
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
       ],
-      "page": false,
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null
+      "page": true
     },
     {
-      "id": "popcustoms-demo-003",
-      "supplier": "POPCUSTOMS",
-      "supplier_id": "DEMO-003",
-      "source_title": "Leather Chelsea Boots",
+      "id": "shopify-design-cheerleading-uniform-lyq62-1",
+      "supplier": "Shopify",
+      "supplier_id": "design-cheerleading-uniform-lyq62-1",
+      "source_title": "DAZMOND® \"Angel & Demon\" Cheer Set",
       "categories": [
-        "calzado-hombre/botas-botines-hombre"
+        "hombre/conjuntos",
+        "mujer/conjuntos"
       ],
-      "cost_usd": 56.0,
+      "cost_usd": 8.78,
       "sizes": [
-        "40",
-        "41",
-        "42",
-        "43",
-        "44"
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
       ],
       "needs_review": false,
       "created": "2026-11-19",
-      "material": "leather",
-      "color": "Black",
-      "gender": "men",
-      "name_es": "Botas Riviera · Negro",
-      "name_en": "Riviera Boots · Black",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en piel, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order in leather, with an impeccable finish and a silhouette that speaks for itself.",
-      "price_usd": 125.0,
-      "margin_pct": 55.2,
-      "images_original": [],
+      "material": "",
+      "color": "Rosa Fucsia",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298392",
+        "M": "D3298392",
+        "L": "D3298392",
+        "XL": "D3298392",
+        "2XL": "D3298392",
+        "3XL": "D3298392",
+        "4XL": "D3298392"
+      },
+      "details_src": "El Manifiesto del Diseño\n \"Sacred Dualism\" — Estética de Autor: Una cautivadora e inteligente obra de arte visual que explora el equilibrio de los opuestos. El diseño se despliega sobre un lienzo de fondo blanco puro, decorado estratégicamente con ilustraciones de querubines celestiales, iconografía renacentista, detalladas calaveras barrocas y espinas entrelazadas en tonos grises y negros profundos. Un patrón con un fuerte carácter identitario y místico, idóneo para quienes conciben la indumentaria como una forma de expresión transgresora.\n Silueta de Alta Costura: El conjunto revoluciona los códigos deportivos tradicionales mediante un top de manga corta con solapas estructuradas de inspiración sastrera y un seductor escote pronunciado, enlazado al frente de forma sugerente mediante cordones frontales ajustables. Se complementa de manera impecable con una minifalda plisada de tablas fluidas y talle medio, diseñada para enmarcar la cintura y alargar visualmente las piernas.\n Ingeniería Textil y Rendimiento de Élite \n El conjunto \"Angel & Demon\" ha sido confeccionado con un equilibrio textil minuciosamente estudiado de 95% poliéster y 5% elastano (spandex) , ofreciendo un gramaje consistente de 15.10 oz. que denota su altísima calidad. Su tejido inteligente proporciona una experiencia premium de uso: un ajuste ceñido al cuerpo de efecto moldeador ( tight but elastic ) que acompaña dinámicamente cada movimiento, sumado a propiedades técnicas activas que absorben eficazmente el",
+      "name_es": "Conjunto Manhattan",
+      "name_en": "Manhattan Set",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 65.0,
+      "margin_pct": 86.5,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-6.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-7.webp"
+      ],
       "images_model": [],
-      "visual_verified": false,
-      "display_images": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-6.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-1-7.webp"
+      ],
       "available": true,
       "price_history": {
-        "2026-11-19": 125.0
+        "2026-11-19": 65.0
       },
-      "score": 26.52,
+      "score": 32.65,
+      "rank": 3,
+      "badge": "new",
+      "look": [
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-design-cheerleading-uniform-lyq62-2",
+      "supplier": "Shopify",
+      "supplier_id": "design-cheerleading-uniform-lyq62-2",
+      "source_title": "DAZMOND® \"Zen Lines\" Cheer Set",
+      "categories": [
+        "hombre/conjuntos",
+        "mujer/conjuntos"
+      ],
+      "cost_usd": 8.78,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Amarillo",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298397",
+        "M": "D3298397",
+        "L": "D3298397",
+        "XL": "D3298397",
+        "2XL": "D3298397",
+        "3XL": "D3298397",
+        "4XL": "D3298397"
+      },
+      "details_src": "El Manifiesto del Diseño\n \"Minimalist Silhouette\" — Estética de Autor: Una oda al refinamiento contemporáneo y a los contrastes puros. El conjunto se asienta sobre una sofisticada base en tono beige arena o crema suave, decorada estratégicamente con líneas negras y patrones de finas rayas horizontales de inspiración caligráfica. Esta equilibrada distribución visual juega con los espacios vacíos y las líneas paralelas, logrando un efecto estilizador idóneo para las amantes del diseño vanguardista y discreto.\n Silueta de Alta Costura: El conjunto revoluciona los códigos deportivos tradicionales mediante un top de manga corta con solapas estructuradas de estilo sastre y un seductor escote pronunciado, enlazado al frente de forma sugerente mediante cordones frontales ajustables. Se complementa de manera impecable con una minifalda plisada de tablas fluidas y talle medio, diseñada para enmarcar la cintura y alargar visualmente las piernas.\n Ingeniería Textil y Rendimiento de Élite \n El conjunto \"Zen Lines\" ha sido confeccionado con un equilibrio textil minuciosamente estudiado de 95% poliéster y 5% elastano (spandex) , ofreciendo un gramaje consistente de 15.10 oz. que denota su altísima calidad técnica. Su tejido inteligente proporciona una experiencia premium de uso: un ajuste ceñido al cuerpo de efecto moldeador ( tight but elastic ) que acompaña dinámicamente cada movimiento, sumado a propiedades técnicas activas que absorben eficazmente el sudor y permiten una transpirabilida",
+      "name_es": "Conjunto Noir",
+      "name_en": "Noir Set",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 65.0,
+      "margin_pct": 86.5,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-2-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 65.0
+      },
+      "score": 32.65,
+      "rank": 4,
+      "badge": "new",
+      "look": [
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-design-cheerleading-uniform-lyq62-3",
+      "supplier": "Shopify",
+      "supplier_id": "design-cheerleading-uniform-lyq62-3",
+      "source_title": "DAZMOND® \"Rainbow Energy\" Cheer Set",
+      "categories": [
+        "hombre/conjuntos",
+        "mujer/conjuntos"
+      ],
+      "cost_usd": 8.78,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Azul",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298396",
+        "M": "D3298396",
+        "L": "D3298396",
+        "XL": "D3298396",
+        "2XL": "D3298396",
+        "3XL": "D3298396",
+        "4XL": "D3298396"
+      },
+      "details_src": "El Manifiesto del Diseño\n \"Chromatic Motion\" — Estética de Autor: Una radiante e inteligente composición gráfica que celebra el dinamismo y la alegría. El diseño despliega un lienzo de fondo blanco sobre el cual cobran vida líneas fluidas y dinámicas en un espectro de colores del arcoíris, cruzándose estratégicamente para generar un efecto visual altamente estilizador, armónico y lleno de energía.\n Silueta de Alta Costura: El conjunto revoluciona los códigos deportivos tradicionales mediante un top de manga corta con solapas estructuradas de inspiración sastrera y un seductor escote pronunciado, enlazado al frente de forma sugerente mediante cordones frontales ajustables. Se complementa de manera impecable con una minifalda plisada de tablas fluidas y talle medio, diseñada para enmarcar la cintura y alargar visualmente las piernas.\n Ingeniería Textil y Rendimiento de Élite \n El conjunto \"Rainbow Energy\" ha sido confeccionado con un equilibrio textil minuciosamente estudiado de 95% poliéster y 5% elastano (spandex) , ofreciendo un gramaje consistente de 15.10 oz. que denota su altísima calidad. Su tejido inteligente proporciona una experiencia premium de uso: un ajuste ceñido al cuerpo de efecto moldeador ( tight but elastic ) que acompaña dinámicamente cada movimiento, sumado a propiedades técnicas activas que absorben eficazmente el sudor y permiten una transpirabilidad óptima en todo momento.\n Las coloridas estelas gráficas se fijan a la fibra mediante una avanzada técnica",
+      "name_es": "Conjunto Riviera",
+      "name_en": "Riviera Set",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 65.0,
+      "margin_pct": 86.5,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-3-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 65.0
+      },
+      "score": 32.65,
+      "rank": 5,
+      "badge": "new",
+      "look": [
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-design-cheerleading-uniform-lyq62-4",
+      "supplier": "Shopify",
+      "supplier_id": "design-cheerleading-uniform-lyq62-4",
+      "source_title": "DAZMOND® Elite Rebel Set",
+      "categories": [
+        "hombre/conjuntos",
+        "mujer/conjuntos"
+      ],
+      "cost_usd": 8.78,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Gris",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298395",
+        "M": "D3298395",
+        "L": "D3298395",
+        "XL": "D3298395",
+        "2XL": "D3298395",
+        "3XL": "D3298395",
+        "4XL": "D3298395"
+      },
+      "details_src": "DAZMOND® Elite Rebel Set: Poder, Adrenalina y Alta Costura\n Donde la energía del escenario se encuentra con el diseño de vanguardia. \n No es solo un uniforme; es una declaración de dominio. Diseñado para la mujer que lidera el espectáculo y no acepta menos que la perfección, el Elite Rebel Set redefine el concepto de ropa deportiva de lujo. Es una pieza que captura la mirada, combinando una estética atlética agresiva con acabados de boutique que exudan sofisticación y audacia.\n La Ingeniería del Confort\n Microfibra Técnica de Alta Densidad: Confeccionado en una suntuosa mezcla de 95% poliéster de grado superior y 5% Spandex reactivo , este conjunto ofrece una silueta impecable. El tejido ha sido desarrollado para esculpir la figura con un ajuste firme pero orgánico.\n Transpirabilidad de Élite: Garantiza una gestión de humedad de alto nivel, manteniendo la frescura y la comodidad incluso bajo las luces más intensas o en los eventos más dinámicos.\n Tacto de Seda Técnica: Una textura suave al contacto con la piel, elástica y con una recuperación de forma inmediata que asegura que el conjunto se mantenga perfecto durante horas.\n El Diseño: Un Icono de Seducción\n Ajuste Escultural: Su corte short-dress ha sido calibrado milimétricamente para estilizar las piernas y crear una estética de elegancia atlética inigualable.\n Detalles Lace-Up de Autor: El audaz escote low-cut se entrelaza con un sistema de cordones frontales que permite un ajuste personalizado, añadiendo un toque magnéti",
+      "name_es": "Conjunto Avenue",
+      "name_en": "Avenue Set",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 65.0,
+      "margin_pct": 86.5,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-4-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 65.0
+      },
+      "score": 32.65,
       "rank": 6,
       "badge": "new",
       "look": [
-        "printful-demo-001",
-        "printful-demo-006"
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
       ],
-      "page": false,
-      "shop_verified": false,
+      "page": true
+    },
+    {
+      "id": "shopify-design-all-over-print-womens-shortall-1",
+      "supplier": "Shopify",
+      "supplier_id": "design-all-over-print-womens-shortall-1",
+      "source_title": "DAZMOND® Pink Argyle Heritage Shortall",
+      "categories": [
+        "hombre/conjuntos",
+        "mujer/vestidos-monos-petos"
+      ],
+      "cost_usd": 9.67,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Morado",
+      "shop_verified": true,
       "size_guide": [],
-      "size_chart": null
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298381",
+        "M": "D3298381",
+        "L": "D3298381",
+        "XL": "D3298381",
+        "2XL": "D3298381",
+        "3XL": "D3298381",
+        "4XL": "D3298381",
+        "5XL": "D3298381"
+      },
+      "details_src": "DAZMOND® Pink Argyle Heritage Shortall: Sofisticación Clásica Reimaginada\n Una pieza de autor que fusiona el legado del diseño tradicional con una silueta audaz y contemporánea. \n El Pink Argyle Heritage Shortall de DAZMOND® es la máxima expresión del lujo relajado. Su icónico estampado de rombos en tonos rosados y azabache evoca la exclusividad de los clubes de campo más selectos, adaptada a una estructura de peto corto que desprende una sensualidad elegante y natural. Confeccionado con un tejido de 280 g/m² , esta prenda ofrece una caída impecable y una suavidad táctil superior para la mujer que no acepta compromisos entre estilo y confort.\n Detalles de Confección de Alta Gama\n Tejido Técnico Signature : Elaborado en 100% poliéster de alta calidad , este material de 280 g/m² es ligero, cómodo y posee una elasticidad sutil que esculpe la figura con delicadeza.\n Diseño de Camisola Versátil : Su estructura sin mangas con cierre de dos botones frontales permite una transición fluida de un look de día con sandalias a una propuesta nocturna de alto impacto con tacones.\n Funcionalidad Integrada : Dispone de dos bolsillos delanteros sutilmente incorporados, manteniendo la pureza de las líneas del diseño sin sacrificar la practicidad.\n Estampado de Precisión : La técnica de impresión integral asegura colores vibrantes y duraderos que definen su carácter exclusivo.\n El Sello de Exclusividad DAZMOND®\n Siguiendo nuestra filosofía de \"Zero Mass Production\" , esta prenda es fabricada en",
+      "name_es": "Mono Monogram · Rosa",
+      "name_en": "Monogram Jumpsuit · Pink",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 71.0,
+      "margin_pct": 86.4,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-1.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-2.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-3.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-4.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-5.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-1.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-2.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-3.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-4.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-5.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-1-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 71.0
+      },
+      "score": 32.64,
+      "rank": 7,
+      "badge": "new",
+      "look": [
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-design-all-over-print-womens-shortall-2",
+      "supplier": "Shopify",
+      "supplier_id": "design-all-over-print-womens-shortall-2",
+      "source_title": "DAZMOND® Crimson Kiss Shortall",
+      "categories": [
+        "hombre/conjuntos",
+        "mujer/vestidos-monos-petos"
+      ],
+      "cost_usd": 9.67,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Rojo",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298380",
+        "M": "D3298380",
+        "L": "D3298380",
+        "XL": "D3298380",
+        "2XL": "D3298380",
+        "3XL": "D3298380",
+        "4XL": "D3298380",
+        "5XL": "D3298380"
+      },
+      "details_src": "DAZMOND® Crimson Kiss Shortall: Audacia y Distinción Artesanal\n Una declaración de estilo absoluto que fusiona la pasión del rojo carmesí con una ingeniería de confort inigualable. \n El Crimson Kiss Shortall de DAZMOND® no es simplemente una prenda; es una experiencia de exclusividad diseñada para la mujer que lidera. Confeccionado en un tejido técnico de 10.16 oz que ofrece una caída estructurada pero ligera, este peto corto se adapta a la silueta con una elasticidad sutil que permite un movimiento fluido y elegante en cualquier escenario.\n Detalles de Alta Confección\n Diseño Camisola Signature : Su estructura sin mangas con terminación en dos botones frontales ofrece un equilibrio perfecto entre la frescura estival y el diseño de autor.\n Tejido de Alto Estandar : Fabricado en 100% poliéster de alta calidad , el material ha sido seleccionado por su suavidad táctil y su capacidad para mantener la intensidad del color lavado tras lavado.\n Funcionalidad Sofisticada : Incorpora dos bolsillos delanteros integrados de forma impecable, permitiendo que la practicidad conviva con una estética chic y minimalista.\n Versatilidad de Élite : Una pieza camaleónica que transita sin esfuerzo del dinamismo de unas zapatillas de lujo a la sofisticación de unos tacones altos para un evento de tarde.\n El Manifiesto de Exclusividad DAZMOND®\n Fieles a nuestra filosofía de \"Zero Mass Production\" , esta prenda es fabricada con orgullo en los Estados Unidos bajo demanda individual. Cada peto existe ú",
+      "name_es": "Mono Madison",
+      "name_en": "Madison Jumpsuit",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 71.0,
+      "margin_pct": 86.4,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-1.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-2.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-3.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-4.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-5.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-1.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-2.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-3.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-4.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-5.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-2-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 71.0
+      },
+      "score": 32.64,
+      "rank": 8,
+      "badge": "new",
+      "look": [
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-design-all-over-print-womens-shortall-3",
+      "supplier": "Shopify",
+      "supplier_id": "design-all-over-print-womens-shortall-3",
+      "source_title": "DAZMOND® Amethyst Dot Shortall",
+      "categories": [
+        "hombre/conjuntos",
+        "mujer/vestidos-monos-petos"
+      ],
+      "cost_usd": 9.67,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Morado",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298379",
+        "M": "D3298379",
+        "L": "D3298379",
+        "XL": "D3298379",
+        "2XL": "D3298379",
+        "3XL": "D3298379",
+        "4XL": "D3298379",
+        "5XL": "D3298379"
+      },
+      "details_src": "DAZMOND® Amethyst Dot Shortall: Versatilidad y Estilo Lúdico\n La pieza esencial para un verano de sofisticación relajada y movimiento. \n El Amethyst Dot Shortall de DAZMOND® es una oda a la comodidad con carácter. Confeccionado en un tejido técnico de alta calidad, este peto corto ofrece una caída fluida y una elasticidad sutil que se adapta a su ritmo de vida. Su estampado integral de lunares en tono amatista sobre negro crea un contraste visual magnético, elevando una silueta clásica a una categoría de streetwear de lujo.\n Detalles de Confección y Confort\n Tejido Premium Lightweight: Con un peso de 10.16 oz , el poliéster de alta calidad proporciona una sensación ligera, cómoda y ligeramente elástica sobre la piel.\n Diseño Camisola de Autor: Presenta un estilo sin mangas con dos botones frontales que añaden un toque artesanal y facilitan un ajuste perfecto.\n Funcionalidad Urbana: Equipado con dos bolsillos frontales integrados, combinando la practicidad necesaria para el día a día con una estética limpia.\n Estilo Camaleónico: Diseñado para ser extremadamente versátil; puede coordinarse con zapatillas para un look urbano o con tacones para una propuesta nocturna audaz y sofisticada.\n Manufactura y Exclusividad\n Cada unidad de DAZMOND es una pieza de edición limitada fabricada bajo demanda. Debido a la naturaleza del estampado integral, la alineación del patrón en las costuras puede variar ligeramente, lo que garantiza que cada prenda posea un carácter único y exclusivo para",
+      "name_es": "Mono Hudson",
+      "name_en": "Hudson Jumpsuit",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 71.0,
+      "margin_pct": 86.4,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-1.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-2.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-3.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-4.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-5.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-1.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-2.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-3.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-4.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-5.webp",
+        "assets/products/shopify-design-all-over-print-womens-shortall-3-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 71.0
+      },
+      "score": 32.64,
+      "rank": 9,
+      "badge": "new",
+      "look": [
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-design-cheerleading-uniform-lyq62-5",
+      "supplier": "Shopify",
+      "supplier_id": "design-cheerleading-uniform-lyq62-5",
+      "source_title": "DAZMOND® \"Midnight Blossom\" Cheer Set",
+      "categories": [
+        "hombre/conjuntos",
+        "mujer/conjuntos"
+      ],
+      "cost_usd": 8.78,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Vainilla",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298402",
+        "M": "D3298402",
+        "L": "D3298402",
+        "XL": "D3298402",
+        "2XL": "D3298402",
+        "3XL": "D3298402",
+        "4XL": "D3298402"
+      },
+      "details_src": "El Manifiesto del Diseño\n \"Dark Gothic Elegance\" — Estética de Autor: Una magnífica y cautivadora composición que fusiona el misterio del estilo urbano oscuro con la delicadeza orgánica. El diseño se despliega sobre un lienzo negro absoluto, decorado estratégicamente con ilustraciones de calaveras góticas detalladas, elementos anatómicos lineales y vibrantes rosas rojas que aportan un contraste cromático sublime y lleno de magnetismo.\n Silueta de Alta Costura: El conjunto revoluciona los códigos tradicionales mediante un top de manga corta con solapas estructuradas de inspiración sastrera y un seductor escote bajo, enlazado de forma sugerente en el pecho con cordones frontales ajustables. Se complementa de manera impecable con una minifalda plisada de tablas fluidas y talle medio, diseñada para estilizar la silueta, enmarcar la cintura y alargar visualmente las piernas.\n Ingeniería Textil y Rendimiento de Élite \n El conjunto \"Midnight Blossom\" ha sido confeccionado con un equilibrio textil minuciosamente estudiado de 95% poliéster y 5% elastano , ofreciendo un gramaje consistente de 15.10 oz. que denota su altísima calidad técnica. Su tejido inteligente proporciona una experiencia premium de uso: un ajuste ceñido al cuerpo de efecto moldeador ( tight but elastic ) que acompaña dinámicamente cada movimiento, sumado a propiedades activas que absorben eficazmente el sudor y permiten una transpirabilidad óptima en todo momento.\n Los intrincados motivos de calaveras y rosas rojas",
+      "name_es": "Conjunto Riviera",
+      "name_en": "Riviera Set",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 59.9,
+      "margin_pct": 85.3,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-6.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-7.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-6.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-5-7.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 59.9
+      },
+      "score": 32.53,
+      "rank": 10,
+      "badge": "new",
+      "look": [
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-design-cheerleading-uniform-lyq62-6",
+      "supplier": "Shopify",
+      "supplier_id": "design-cheerleading-uniform-lyq62-6",
+      "source_title": "DAZMOND® \"Championship Monogram\" Cheer Set",
+      "categories": [
+        "hombre/conjuntos",
+        "mujer/conjuntos"
+      ],
+      "cost_usd": 8.78,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Dorado",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3298401",
+        "M": "D3298401",
+        "L": "D3298401",
+        "XL": "D3298401",
+        "2XL": "D3298401",
+        "3XL": "D3298401",
+        "4XL": "D3298401"
+      },
+      "details_src": ".title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n El Manifiesto del Diseño\n \"Lux Monogram\" — Estética de Autor: Una sublime reinterpretación de los clásicos códigos deportivos universitarios bajo el prisma del lujo contemporáneo. La prenda exhibe un sofisticado lienzo en tono crema o marfil, cubierto por un refinado y geométrico patrón de monogramas entrelazados en un distinguido color dorado oliva. Este intrincado diseño de eslabones y logotipos crea un efecto óptico texturizado que destila opulencia discreta y distinción en cada movimiento.\n Silueta de Alta Costura: El conjunto revoluciona el concepto clásico con un top de manga corta de inspiración sastrera que cuenta con solapas estructuradas y un seductor escote pronunciado, cerrado al frente de forma sugerente mediante un lazo ajustable o cordón frontal. Se complementa armoniosamente con una minifalda de tablas fluidas y talle medio, diseñada para enmarcar la cadera de manera impecable y alargar visualmente las piernas.\n Ingeniería Textil y Rendimiento de Élite \n El conjunto \"Championship Monogram\" ha sido confeccionado con un equilibrio textil minuciosamente estudiado de 95% poliéster y 5% elastano , ofreciendo un gramaje consistente de 15.10 oz. que denota su altísima calidad desde el primer tacto. La avanzada ingeniería de su tejido proporciona una experiencia de uso inigualable: un ajuste ceñido al cuerpo de efecto moldeador que se mueve contigo gracias a su excelent",
+      "name_es": "Conjunto Hudson",
+      "name_en": "Hudson Set",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 59.0,
+      "margin_pct": 85.1,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-6.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-7.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-8.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-1.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-2.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-3.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-4.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-5.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-6.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-7.webp",
+        "assets/products/shopify-design-cheerleading-uniform-lyq62-6-8.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 59.0
+      },
+      "score": 32.51,
+      "rank": 11,
+      "badge": "new",
+      "look": [
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+      "supplier": "Shopify",
+      "supplier_id": "camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+      "source_title": "DAZMOND® \"Platinum Classic\" Short Sleeve Baseball Jersey",
+      "categories": [
+        "hombre/abrigo-chaqueta-sueter"
+      ],
+      "cost_usd": 14.77,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "W3924DMW-1",
+        "M": "W3924DMW-2",
+        "L": "W3924DMW-3",
+        "XL": "W3924DMW-4",
+        "2XL": "W3924DMW-5",
+        "3XL": "W3924DMW-6",
+        "4XL": "W3924DMW-7"
+      },
+      "details_src": "El Manifiesto del Diseño\n \"Noble Minimalism\" — Estética de Autor: Una oda a la elegancia sutil y perenne. La prenda se viste por completo de un limpio tono gris platino claro, aportando una sofisticación tonal soberbia y versátil. El pecho izquierdo luce con orgullo el distinguido monograma caligráfico de la firma, junto con la sutil inscripción \"Dazmond & Co.\" finamente plasmada en un tono dorado clásico que evoca la herencia del lujo deportivo tradicional.\n Silueta y Estructura: Una reinvención de la mítica silueta de béisbol de manga corta, dotada de una hilera frontal de botones blancos premium que complementan armónicamente la base clara de la pieza, ofreciendo un cierre limpio y una caída impecable.\n Ingeniería Textil y Polivalencia Urbana \n La camiseta \"Platinum Classic\" ha sido rigurosamente elaborada a partir de un tejido de poliéster de la más alta calidad , garantizando una resistencia superior al desgaste y una comodidad óptima frente a partidos intensos o el uso casual continuo en el día a día. Su tejido inteligente destaca por ser extraordinariamente ligero y transpirable; una ingeniería textil diseñada para ofrecer una ventilación óptima que te mantiene fresco y cómodo a lo largo de toda la jornada.\n Gracias a su magistral versatilidad de estilo, esta prenda ofrece infinitas posibilidades de combinación dentro del armario masculino contemporáneo. Combina fácilmente con chaquetas estructuradas, pantalones de corte sastre, vaqueros denim de alta gama o shorts de",
+      "name_es": "Abrigo Noir",
+      "name_en": "Noir Coat",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "price_usd": 49.9,
+      "margin_pct": 70.4,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-1.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-2.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-3.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-4.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-5.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-6.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-7.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-8.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-1.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-2.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-3.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-4.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-5.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-6.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-7.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-8.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 49.9
+      },
+      "score": 31.04,
+      "rank": 12,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2",
+      "supplier": "Shopify",
+      "supplier_id": "camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2",
+      "source_title": "DAZMOND® \"Midnight Classic\" Short Sleeve Baseball Jersey",
+      "categories": [
+        "hombre/abrigo-chaqueta-sueter"
+      ],
+      "cost_usd": 14.77,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "WLXROKXW-1",
+        "M": "WLXROKXW-2",
+        "L": "WLXROKXW-3",
+        "XL": "WLXROKXW-4",
+        "2XL": "WLXROKXW-5",
+        "3XL": "WLXROKXW-6",
+        "4XL": "WLXROKXW-7"
+      },
+      "details_src": "El Manifiesto del Diseño\n \"Noble Minimalism\" — Estética de Autor: Una oda a la elegancia sutil y perenne. La prenda se viste por completo de un profundo negro mate absoluto, aportando una sofisticación tonal soberbia. El pecho izquierdo luce con orgullo el distinguido monograma caligráfico de la firma, junto con la sutil inscripción \"Dazmond & Co.\" finamente plasmada en un tono dorado clásico que evoca la herencia del lujo deportivo tradicional.\n Silueta y Estructura: Una reinvención de la mítica silueta de béisbol de manga corta, dotada de una hilera frontal de botones blancos premium que contrastan armónicamente con la base oscura de la pieza, ofreciendo un cierre limpio y una caída impecable.\n Ingeniería Textil y Polivalencia Urbana \n La camiseta \"Midnight Classic\" ha sido rigurosamente elaborada a partir de un poliéster técnico de la más alta calidad , garantizando una resistencia superior al desgaste y una durabilidad óptima frente a partidos intensos o el uso continuo en el día a día. Su tejido inteligente destaca por ser extraordinariamente ligero, fresco y transpirable; una ingeniería textil diseñada para favorecer una ventilación óptima que evacúa la humedad de manera natural, manteniéndote cómodo a lo largo de toda la jornada.\n Gracias a su magistral versatilidad de estilo, esta prenda ofrece infinitas posibilidades de combinación dentro del armario masculino contemporáneo. Se adapta sin esfuerzo al ser combinada con chaquetas estructuradas, pantalones de corte sast",
+      "name_es": "Abrigo Riviera",
+      "name_en": "Riviera Coat",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "price_usd": 49.9,
+      "margin_pct": 70.4,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-1.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-2.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-3.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-4.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-5.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-6.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-7.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-1.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-2.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-3.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-4.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-5.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-6.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2-7.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 49.9
+      },
+      "score": 31.04,
+      "rank": 13,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3",
+      "supplier": "Shopify",
+      "supplier_id": "camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3",
+      "source_title": "DAZMOND® \"Emerald Classic\" Short Sleeve Baseball Jersey",
+      "categories": [
+        "hombre/abrigo-chaqueta-sueter"
+      ],
+      "cost_usd": 14.77,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "NGZXM35W-1",
+        "M": "NGZXM35W-2",
+        "L": "NGZXM35W-3",
+        "XL": "NGZXM35W-4",
+        "2XL": "NGZXM35W-5",
+        "3XL": "NGZXM35W-6",
+        "4XL": "NGZXM35W-7"
+      },
+      "details_src": "El Manifiesto del Diseño\n \"Noble Minimalisms\" — Estética de Autor: Una oda a la elegancia sutil y perenne. La prenda se viste por completo de un profundo verde esmeralda mate, aportando una sofisticación tonal soberbia. El pecho izquierdo luce con orgullo el distinguido monograma caligráfico de la firma, junto con la sutil inscripción \"Dazmond & Co.\" finamente plasmada en un tono dorado clásico que evoca la herencia del lujo deportivo tradicional.\n Silueta y Estructura: Una reinvención de la mítica silueta de béisbol de manga corta, dotada de una hilera frontal de botones blancos premium que contrastan armónicamente con la base oscura de la pieza, ofreciendo un cierre limpio y una caída impecable.\n Ingeniería Textil y Polivalencia Urbana \n La camiseta \"Emerald Classic\" ha sido rigurosamente elaborada a partir de un poliéster técnico de la más alta calidad , garantizando una resistencia superior al desgaste y una durabilidad óptima frente a partidos intensos o el uso continuo en el día a día. Su tejido inteligente destaca por ser extraordinariamente ligero, fresco y transpirable; una ingeniería textil diseñada para favorecer una ventilación óptima que evacúa la humedad de manera natural, manteniéndote cómodo a lo largo de toda la jornada.\n Gracias a su magistral versatilidad de estilo ( all-match design ), esta prenda ofrece infinitas posibilidades de combinación dentro del armario masculino contemporáneo. Se adapta sin esfuerzo al ser combinada con chaquetas estructuradas, pa",
+      "name_es": "Abrigo Hudson",
+      "name_en": "Hudson Coat",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 49.9,
+      "margin_pct": 70.4,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-1.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-2.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-3.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-4.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-5.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-6.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-7.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-1.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-2.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-3.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-4.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-5.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-6.webp",
+        "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-7.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 49.9
+      },
+      "score": 31.04,
+      "rank": 14,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+      "supplier": "Shopify",
+      "supplier_id": "camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+      "source_title": "DAZMOND® \"Crimson Thorns\" Retro Bowling Shirt",
+      "categories": [
+        "hombre/camisas"
+      ],
+      "cost_usd": 15.75,
+      "sizes": [
+        "2XS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "2XS": "NM61QOZW-1",
+        "XS": "NM61QOZW-2",
+        "S": "NM61QOZW-3",
+        "M": "NM61QOZW-4",
+        "L": "NM61QOZW-5",
+        "XL": "NM61QOZW-6",
+        "2XL": "NM61QOZW-7",
+        "3XL": "NM61QOZW-8",
+        "4XL": "NM61QOZW-9",
+        "5XL": "NM61QOZW-10",
+        "6XL": "NM61QOZW-11"
+      },
+      "details_src": "El Manifiesto del Diseño\n \"Gothic Botanical\" — Estética de Autor: Una magnífica e impactante declaración visual que fusiona el drama gótico con la delicadeza orgánica. El diseño se despliega sobre un lienzo negro absoluto, decorado estratégicamente con ilustraciones de intrincadas espinas, enredaderas botánicas y vibrantes rosas en rojo carmesí profundo que aportan un contraste cromático sublime y lleno de magnetismo. Este patrón de alta fidelidad envuelve por completo la prenda mediante un estampado integral impecable.\n Silueta de Alta Costura Veraniega: Una sofisticada reinvención de la silueta de bolos tradicional, dotada de un cuello de solapas abierto de estilo campestre y una hilera frontal de botones negros profundamente integrados, ofreciendo un cierre limpio y un corte regular ( regular fit ) de caída espectacular y fluida.\n Ingeniería Textil y Confort Sublime \n La camisa \"Crimson Thorns\" ha sido rigurosamente confeccionada a partir de un poliéster de alta calidad seleccionado , garantizando una prenda de durabilidad superior, alta resistencia a las arrugas y un excelente aislamiento térmico estructural. Su tejido inteligente destaca por ser extraordinariamente ligero, fresco y suave al tacto; una ingeniería textil de tacto suntuoso sobre la piel diseñada específicamente para convertirse en una opción sumamente cómoda y elegante para el verano.\n Gracias a su enfoque versátil ( all-match fashion ), es una prenda imprescindible que no puede faltar en tu armario. Su sof",
+      "name_es": "Camisa Hudson",
+      "name_en": "Hudson Shirt",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 49.9,
+      "margin_pct": 68.4,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--1.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--2.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--3.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--4.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--5.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--6.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--7.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--8.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--1.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--2.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--3.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--4.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--5.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--6.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--7.webp",
+        "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--8.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 49.9
+      },
+      "score": 30.84,
+      "rank": 15,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "interestprint-design-womens-cropped-bolero-jacket",
+      "supplier": "InterestPrint",
+      "supplier_id": "design-womens-cropped-bolero-jacket",
+      "source_title": "Chaqueta Bolero DAZMOND® \"Cosmic Glow\" Corta",
+      "categories": [
+        "hombre/abrigo-chaqueta-sueter",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "cost_usd": 7.31,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "white",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3484121",
+        "M": "D3484121",
+        "L": "D3484121",
+        "XL": "D3484121",
+        "2XL": "D3484121"
+      },
+      "details_src": "Elegancia estelar en cada movimiento\n Una presencia que captura miradas comienza con siluetas definidas y detalles que hablan por ti. Este bolero presenta un estampado de estrellas en contraste sobre fondo blanco, cuello alto con un solo botón y un corte corto de manga corta. Es la pieza envolvente precisa para acompañar vestidos, vestidos de noche y camisetas de tirantes con distinción.\n Materiales y confección\n Confeccionado en tejido de capa de aire de 95% poliéster y 5% elastano, con un peso de 200 g/m². Ofrece una textura suave, ligera y transpirable que se adapta con fluidez al cuerpo.\n Ficha técnica\n Detalle \n Especificación \n Tejido \n 95% poliéster, 5% elastano (Capa de aire, 200 g/m²) \n Diseño y estilo \n Estampado de estrellas, cuello alto, un botón, manga corta, espalda con inscripción \n Ajuste \n Corte corto, abierto al frente \n Ocasiones \n Vestidos, vestidos de noche, camisetas de tirantes \n Tallas disponibles \n S, M, L, XL, 2XL \n Guía de tallas\n Talla \n Largo (cm/in) \n Hombro (cm/in) \n Manga (cm/in) \n Busto (cm/in) \n S \n 38/15 \n 36/14.2 \n 20/7.9 \n 90/35.4 \n M \n 39/15.3 \n 37.5/14.8 \n 20.5/8.1 \n 94/37 \n L \n 40/15.7 \n 39/15.3 \n 21/8.3 \n 98/38.6 \n XL \n 41/16.1 \n 40.5/15.9 \n 21.5/8.5 \n 102/40.1 \n 2XL \n 42/16.5 \n 42/16.5 \n 22/8.7 \n 106/41.7 \n Cuidado de la prenda\n Lavar a mano o a máquina con agua fría a un máximo de 45°C. No dejar en remojo prolongado. No usar lejía. No secar en secadora.",
+      "name_es": "Abrigo Avenue · Blanco",
+      "name_en": "Avenue Coat · White",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "price_usd": 21.99,
+      "margin_pct": 66.8,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/interestprint-design-womens-cropped-bolero-jacket-1.webp",
+        "assets/products/interestprint-design-womens-cropped-bolero-jacket-2.webp",
+        "assets/products/interestprint-design-womens-cropped-bolero-jacket-3.webp",
+        "assets/products/interestprint-design-womens-cropped-bolero-jacket-4.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/interestprint-design-womens-cropped-bolero-jacket-1.webp",
+        "assets/products/interestprint-design-womens-cropped-bolero-jacket-2.webp",
+        "assets/products/interestprint-design-womens-cropped-bolero-jacket-3.webp",
+        "assets/products/interestprint-design-womens-cropped-bolero-jacket-4.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 21.99
+      },
+      "score": 30.68,
+      "rank": 16,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "interestprint-design-womens-square-neck-long-sleeve-bodysuit",
+      "supplier": "InterestPrint",
+      "supplier_id": "design-womens-square-neck-long-sleeve-bodysuit",
+      "source_title": "Body DAZMOND® \"Never Define Me\" de Manga Larga suit",
+      "categories": [
+        "mujer/bodies"
+      ],
+      "cost_usd": 7.41,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "white",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "XS": "D3484160",
+        "S": "D3484160",
+        "M": "D3484160",
+        "L": "D3484160",
+        "XL": "D3484160",
+        "2XL": "D3484160",
+        "3XL": "D3484160",
+        "4XL": "D3484160",
+        "5XL": "D3484160"
+      },
+      "details_src": "Silueta impecable que define presencia\n Una prenda que responde a la seguridad interior con líneas limpias y un diseño pensado para proyectar confianza. Presenta un sofisticado cuello cuadrado y manga larga con el detalle gráfico frontal \"NEVER DEFINE ME DAZMOND\", ideal para un estilo memorable en cualquier momento del día.\n Materiales y confección\n Confeccionado en tejido de mezcla suave al tacto y ligeramente elástico, con un peso equilibrado de 180gsm que ofrece comodidad continua y una adaptabilidad fluida al contorno corporal.\n Ficha técnica\n Detalle \n Especificación \n Tejido \n 86% poliéster, 14% elastano \n Diseño y estilo \n Manga larga, cuello cuadrado, corte ajustado y estampado gráfico delantero \n Ajuste \n Corte entallado con cierre de tres botones a presión en la entrepierna \n Ocasiones \n Uso diario, salidas casuales, viajes, reuniones y actividades cotidianas \n Tallas disponibles \n XS, S, M, L, XL, 2XL, 3XL, 4XL, 5XL \n Guía de tallas\n Talla \n Pecho \n Largo \n Manga \n Cintura \n XS \n 80cm / 31.5in \n 68.5cm / 26.97in \n 57cm / 22.44in \n 60.5cm / 23.82in \n S \n 85cm / 33.46in \n 70cm / 27.56in \n 58cm / 22.83in \n 65.5cm / 25.79in \n M \n 90cm / 35.43in \n 71.5cm / 28.15in \n 59cm / 23.23in \n 70.5cm / 27.76in \n L \n 95cm / 37.4in \n 73cm / 28.74in \n 60cm / 23.62in \n 75.5cm / 29.72in \n XL \n 101cm / 39.76in \n 74.5cm / 29.33in \n 61cm / 24.02in \n 81.5cm / 32.09in \n 2XL \n 107cm / 42.13in \n 76cm / 29.92in \n 62cm / 24.41in \n 87.5cm / 34.45in \n 3XL \n 113cm / 44.49in \n 77.5cm / 30.51in \n 63",
+      "name_es": "Body Manhattan · Blanco",
+      "name_en": "Manhattan Bodysuit · White",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "price_usd": 21.99,
+      "margin_pct": 66.3,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-3.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-4.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-5.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-3.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-4.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-5.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 21.99
+      },
+      "score": 30.63,
+      "rank": 17,
+      "badge": "new",
+      "look": [
+        "interestprint-design-womens-lace-trim-bodycon-mini-dress"
+      ],
+      "page": true
+    },
+    {
+      "id": "interestprint-design-womens-square-neck-long-sleeve-bodysuit-1",
+      "supplier": "InterestPrint",
+      "supplier_id": "design-womens-square-neck-long-sleeve-bodysuit-1",
+      "source_title": "Body DAZMOND® \"Never Define Me\" de Manga Larga it-1",
+      "categories": [
+        "mujer/bodies"
+      ],
+      "cost_usd": 7.41,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "white",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "XS": "D3484159",
+        "S": "D3484159",
+        "M": "D3484159",
+        "L": "D3484159",
+        "XL": "D3484159",
+        "2XL": "D3484159",
+        "3XL": "D3484159",
+        "4XL": "D3484159",
+        "5XL": "D3484159"
+      },
+      "details_src": "Silueta pulida y fluidez absoluta\n Una presencia que se impone con sutileza, diseñada para acompanar el movimiento natural del cuerpo con sofisticación. Presenta un limpio cuello cuadrado y mangas largas de corte entallado, ofreciendo una estética depurada. Se integra con naturalidad en cualquier conjunto cotidiano o nocturno.\n Materiales y confección\n Elaborado en tejido de tacto suave con ligera elasticidad, con un peso de 180gsm que aporta estructura y comodidad. Cuenta con un cierre de tres botones a presión en la zona de la entrepierna.\n Ficha técnica\n Detalle \n Especificación \n Tejido \n 86% poliéster, 14% elastano \n Diseño y estilo \n Cuello cuadrado, manga larga, estampado frontal \n Ajuste \n Entallado \n Ocasiones \n Uso diario, vacaciones, fiestas, entrenamientos \n Tallas disponibles \n XS, S, M, L, XL, 2XL, 3XL, 4XL, 5XL \n Guía de tallas\n Talla \n Pecho \n Largo \n Manga \n Cintura \n XS \n 80cm / 31.5in \n 68.5cm / 26.97in \n 57cm / 22.44in \n 60.5cm / 23.82in \n S \n 85cm / 33.46in \n 70cm / 27.56in \n 58cm / 22.83in \n 65.5cm / 25.79in \n M \n 90cm / 35.43in \n 71.5cm / 28.15in \n 59cm / 23.23in \n 70.5cm / 27.76in \n L \n 95cm / 37.4in \n 73cm / 28.74in \n 60cm / 23.62in \n 75.5cm / 29.72in \n XL \n 101cm / 39.76in \n 74.5cm / 29.33in \n 61cm / 24.02in \n 81.5cm / 32.09in \n 2XL \n 107cm / 42.13in \n 76cm / 29.92in \n 62cm / 24.41in \n 87.5cm / 34.45in \n 3XL \n 113cm / 44.49in \n 77.5cm / 30.51in \n 63cm / 24.8in \n 93.5cm / 36.81in \n 4XL \n 119cm / 46.85in \n 79cm / 31.1in \n 64cm / 25.2in \n 99.5cm / 39.17",
+      "name_es": "Body Soho · Blanco",
+      "name_en": "Soho Bodysuit · White",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 21.99,
+      "margin_pct": 66.3,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-1.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-2.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-3.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-4.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-5.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-1.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-2.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-3.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-4.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-5.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 21.99
+      },
+      "score": 30.63,
+      "rank": 18,
+      "badge": "new",
+      "look": [
+        "interestprint-design-womens-lace-trim-bodycon-mini-dress"
+      ],
+      "page": true
+    },
+    {
+      "id": "interestprint-design-womens-square-neck-long-sleeve-bodysuit-2",
+      "supplier": "InterestPrint",
+      "supplier_id": "design-womens-square-neck-long-sleeve-bodysuit-2",
+      "source_title": "Body DAZMOND® \"Never Define Me\" de Manga Larga",
+      "categories": [
+        "mujer/bodies"
+      ],
+      "cost_usd": 7.41,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "white",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "XS": "D3484163",
+        "S": "D3484163",
+        "M": "D3484163",
+        "L": "D3484163",
+        "XL": "D3484163",
+        "2XL": "D3484163",
+        "3XL": "D3484163",
+        "4XL": "D3484163",
+        "5XL": "D3484163"
+      },
+      "details_src": "Una silueta que define tu presencia con absoluta seguridad\n Envvuélvete en una prenda que habla de actitud antes de pronunciar una sola palabra. Con un limpio cuello cuadrado y mangas largas, este body de corte entallado se alinea con la piel de forma impecable. Es la pieza esencial para transitar con aplomo desde las horas diurnas hasta los encuentros nocturnos.\n Materials y confección\n Confeccionado en un tejido suave con un sutil nivel de elasticidad, compuesto por 86% poliéster y 14% spandex con un peso de 180gsm, diseñado para acompañar cada movimiento con fluidez.\n Ficha técnica\n Detalle \n Especificación \n Tejido \n 86% poliéster y 14% spandex (180gsm) \n Diseño y estilo \n Cuello cuadrado, manga larga, estampado delantero y tres botones a presión en la entrepierna \n Ajuste \n Corte entallado \n Ocasiones \n Uso diario, vacaciones, reuniones y entrenamientos \n Tallas disponibles \n XS, S, M, L, XL, 2XL, 3XL, 4XL, 5XL \n Guía de tallas\n Talla \n Pecho \n Largo \n Manga \n Cintura \n XS \n 80cm / 31.5in \n 68.5cm / 26.97in \n 57cm / 22.44in \n 60.5cm / 23.82in \n S \n 85cm / 33.46in \n 70cm / 27.56in \n 58cm / 22.83in \n 65.5cm / 25.79in \n M \n 90cm / 35.43in \n 71.5cm / 28.15in \n 59cm / 23.23in \n 70.5cm / 27.76in \n L \n 95cm / 37.4in \n 73cm / 28.74in \n 60cm / 23.62in \n 75.5cm / 29.72in \n XL \n 101cm / 39.76in \n 74.5cm / 29.33in \n 61cm / 24.02in \n 81.5cm / 32.09in \n 2XL \n 107cm / 42.13in \n 76cm / 29.92in \n 62cm / 24.41in \n 87.5cm / 34.45in \n 3XL \n 113cm / 44.49in \n 77.5cm / 30.51in \n 63cm / 24.8in",
+      "name_es": "Body Noir · Blanco",
+      "name_en": "Noir Bodysuit · White",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 21.99,
+      "margin_pct": 66.3,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-1.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-2.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-3.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-4.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-5.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-1.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-2.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-3.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-4.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-5.webp",
+        "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 21.99
+      },
+      "score": 30.63,
+      "rank": 19,
+      "badge": "new",
+      "look": [
+        "interestprint-design-womens-lace-trim-bodycon-mini-dress"
+      ],
+      "page": true
+    },
+    {
+      "id": "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
+      "supplier": "InterestPrint",
+      "supplier_id": "design-womens-cross-v-neck-button-long-sleeve-top",
+      "source_title": "Top Colección Privada \"Aura Silvestre\" de Manga Larga",
+      "categories": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "cost_usd": 7.65,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "white",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "D3484142",
+        "M": "D3484142",
+        "L": "D3484142",
+        "XL": "D3484142",
+        "2XL": "D3484142",
+        "3XL": "D3484142",
+        "4XL": "D3484142",
+        "5XL": "D3484142"
+      },
+      "details_src": "Elegancia fluida para el día a día\n Envuélvete en una presencia calmada y distinguida con esta pieza esencial. Su diseño de cuello en V cruzado y los botones decorativos frontales aportan un refinamiento sutil que acompaña cada uno de tus movimientos con gracia natural.\n Materiales y confección\n Confeccionado en un tejido ligero de tacto algodonoso con un peso de 200gsm, que ofrece suavidad constante y un confort superior sobre la piel.\n Ficha técnica\n Detalle \n Especificación \n Tejido \n 95% poliéster, 5% elastano (efecto tacto algodón) \n Diseño y estilo \n Cuello en V cruzado, botones decorativos centrales, manga larga y estampado integral \n Ajuste \n Silueta estilizada \n Ocasiones \n Uso diario, entornos de oficina casual, viajes y cenas informales \n Tallas disponibles \n S, M, L, XL, 2XL, 3XL, 4XL, 5XL \n Guía de tallas\n Talla \n Pecho \n Largo \n Cintura \n Manga \n S \n 96cm / 37.8in \n 64cm / 25.2in \n 96cm / 37.8in \n 58cm / 22.83in \n M \n 102cm / 40.16in \n 65cm / 25.59in \n 102cm / 40.16in \n 59cm / 23.23in \n L \n 108cm / 42.52in \n 66cm / 25.98in \n 108cm / 42.52in \n 60cm / 23.62in \n XL \n 116cm / 45.67in \n 68cm / 26.77in \n 116cm / 45.67in \n 61.5cm / 24.21in \n 2XL \n 124cm / 48.82in \n 70cm / 27.56in \n 124cm / 48.82in \n 63cm / 24.8in \n 3XL \n 132cm / 51.97in \n 71cm / 27.95in \n 132cm / 51.97in \n 64cm / 25.2in \n 4XL \n 140cm / 55.12in \n 72cm / 28.35in \n 140cm / 55.12in \n 65cm / 25.59in \n 5XL \n 148cm / 58.27in \n 73cm / 28.74in \n 148cm / 58.27in \n 66cm / 25.98in \n Cuidado de la prenda\n Lavar a m",
+      "name_es": "Camiseta Hudson · Blanco",
+      "name_en": "Hudson Tee · White",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "price_usd": 21.99,
+      "margin_pct": 65.2,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-1.webp",
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-2.webp",
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-3.webp",
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-4.webp",
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-5.webp",
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-1.webp",
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-2.webp",
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-3.webp",
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-4.webp",
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-5.webp",
+        "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 21.99
+      },
+      "score": 30.52,
+      "rank": 20,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "interestprint-design-womens-lace-trim-bodycon-mini-dress",
+      "supplier": "InterestPrint",
+      "supplier_id": "design-womens-lace-trim-bodycon-mini-dress",
+      "source_title": "Vestido Mini Colección Privada \"Never Define Me\"",
+      "categories": [
+        "mujer/vestidos-monos-petos"
+      ],
+      "cost_usd": 9.45,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "white",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "XS": "D3484155",
+        "S": "D3484155",
+        "M": "D3484155",
+        "L": "D3484155",
+        "XL": "D3484155",
+        "2XL": "D3484155"
+      },
+      "details_src": "Sensualidad fluida con un toque audaz\n Una presencia que no pasa desapercibida en las noches cálidas. Este diseño se ciñe con delicadeza a la silueta mediante finos tirantes y un acabado mini, realzado por detalles de encaje en el escote y el dobladillo. Una propuesta para disfrutar de cada paso con absoluta seguridad.\n Materiales y confección\n Confeccionado en tejido de tacto suave con elasticidad cómoda, este vestido combina fibras seleccionadas para ofrecer ligereza y un movimiento fluido sobre la piel en cada ocasión.\n Ficha técnica\n Detalle \n Especificación \n Tejido \n 86% poliéster, 14% elastano (130 g/m²) \n Diseño y estilo \n Corte mini, tirantes finos, ribetes de encaje en escote y dobladillo \n Ajuste \n Corte ceñido que define la silueta \n Ocasiones \n Salidas de verano, cenas, fiestas y vacaciones \n Tallas disponibles \n XS, S, M, L, XL, 2XL \n Guía de tallas\n Talla \n Largo \n 1/2 Busto \n 1/2 Cintura \n 1/2 Cadera \n 1/2 Dobladillo \n XS \n 54.5cm / 21.5in \n 35.5cm / 14in \n 30cm / 11.8in \n 40.5cm / 15.9in \n 42.5cm / 16.7in \n S \n 56cm / 22in \n 38cm / 15in \n 32.5cm / 12.8in \n 43cm / 16.9in \n 45cm / 17.7in \n M \n 57.5cm / 22.6in \n 40.5cm / 15.9in \n 35cm / 13.8in \n 45.5cm / 17.9in \n 47.5cm / 18.7in \n L \n 59cm / 23.2in \n 43cm / 16.9in \n 37.5cm / 14.8in \n 48cm / 18.9in \n 50cm / 19.7in \n XL \n 60.5cm / 23.8in \n 45.5cm / 17.9in \n 40cm / 15.7in \n 50.5cm / 19.9in \n 52.5cm / 20.7in \n 2XL \n 62cm / 24.4in \n 48cm / 18.9in \n 42.5cm / 16.7in \n 53cm / 20.9in \n 55cm / 21.7in \n Cuidado de la prend",
+      "name_es": "Vestido Avenue · Blanco",
+      "name_en": "Avenue Dress · White",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 24.99,
+      "margin_pct": 62.2,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-1.webp",
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-2.webp",
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-3.webp",
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-4.webp",
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-5.webp",
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-1.webp",
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-2.webp",
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-3.webp",
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-4.webp",
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-5.webp",
+        "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 24.99
+      },
+      "score": 30.22,
+      "rank": 21,
+      "badge": "new",
+      "look": [
+        "interestprint-design-womens-square-neck-long-sleeve-bodysuit"
+      ],
+      "page": true
+    },
+    {
+      "id": "interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow-cutout",
+      "supplier": "InterestPrint",
+      "supplier_id": "design-womens-halter-backless-maxi-dress-with-waist-bow-cutout",
+      "source_title": "Colección Privada Vestido Largo Colección Privada \"Nocturne\" Halter con Espalda Descubierta y Lazo",
+      "categories": [
+        "mujer/vestidos-monos-petos"
+      ],
+      "cost_usd": 9.58,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "white",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "XS": "D3484147",
+        "S": "D3484147",
+        "M": "D3484147",
+        "L": "D3484147",
+        "XL": "D3484147",
+        "2XL": "D3484147",
+        "3XL": "D3484147",
+        "4XL": "D3484147",
+        "5XL": "D3484147"
+      },
+      "details_src": "Fluidez y presencia en cada paso\n Envuélvete en una silueta que captura todas las miradas con una serenidad absoluta. Este diseño largo combina un favorecedor escote en V con una espalda descubierta y un delicado detalle de lazo en la cintura. Una pieza pensada para moverse con gracia tanto en paseos diurnos como en eventos nocturnos.\n Materiales y confección\n Confeccionado en un tejido elástico en cuatro direcciones que ofrece una ligereza excepcional y una suavidad envolvente sobre la piel, adaptándose con fluidez a tus movimientos.\n Ficha técnica\n Detalle \n Especificación \n Tejido \n Tejido elástico en cuatro direcciones (95% poliéster y 5% elastano), 120 g/m² \n Diseño y estilo \n Silueta larga tipo halter con escote en V, espalda abierta y lazo decorativo en la cintura \n Ajuste \n Corte fluido y flexible que acompaña la silueta sin apretar \n Ocasiones \n Uso diario, salidas, paseos, trabajo y momentos de descanso \n Tallas disponibles \n XS, S, M, L, XL, 2XL, 3XL, 4XL, 5XL \n Guía de tallas\n Talla \n Busto \n Largo \n Cadera \n Dobladillo \n XS \n 82cm / 32.2in \n 125cm / 49.2in \n 144cm / 56.6in \n 226cm / 88.9in \n S \n 86cm / 33.8in \n 126cm / 49.6in \n 148cm / 58.2in \n 230cm / 90.5in \n M \n 90cm / 35.4in \n 127cm / 50in \n 154cm / 60.6in \n 234cm / 92.1in \n L \n 94cm / 37in \n 128cm / 50.3in \n 160cm / 60.9in \n 240cm / 94.4in \n XL \n 100cm / 39.3in \n 129cm / 50.7in \n 166cm / 65.3in \n 246cm / 96.8in \n 2XL \n 106cm / 41.7in \n 130cm / 51.1in \n 172cm / 67.7in \n 252cm / 99.2in \n 3XL \n 112cm / 44in \n 1",
+      "name_es": "Vestido Soho · Blanco",
+      "name_en": "Soho Dress · White",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 24.99,
+      "margin_pct": 61.7,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--1.webp",
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--2.webp",
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--3.webp",
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--4.webp",
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--5.webp",
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--1.webp",
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--2.webp",
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--3.webp",
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--4.webp",
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--5.webp",
+        "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 24.99
+      },
+      "score": 30.17,
+      "rank": 22,
+      "badge": "new",
+      "look": [
+        "interestprint-design-womens-square-neck-long-sleeve-bodysuit"
+      ],
+      "page": true
+    },
+    {
+      "id": "interestprint-design-all-over-print-mens-dress-pants",
+      "supplier": "InterestPrint",
+      "supplier_id": "design-all-over-print-mens-dress-pants",
+      "source_title": "Pantalón de Vestir DAZMOND® \"Noble Line\"",
+      "categories": [
+        "hombre/pantalones"
+      ],
+      "cost_usd": 13.66,
+      "sizes": [
+        "2XS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "white",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "2XS": "D3484170",
+        "XS": "D3484170",
+        "S": "D3484170",
+        "M": "D3484170",
+        "L": "D3484170",
+        "XL": "D3484170",
+        "2XL": "D3484170",
+        "3XL": "D3484170",
+        "4XL": "D3484170"
+      },
+      "details_src": "Presencia que define cada espacio\n La seguridad comienza en los detalles que dominas en silencio. Este pantalón presenta un frente plisado estructurado, una bragueta con cremallera y un botón en contraste que marcan una silueta impecable. Diseñado para transitar con naturalidad entre la exigencia profesional y las reuniones sociales más exclusivas.\n Materiales y confección\n Elaborado en tejido de mezcla con 95% poliéster y 5% elastano, con un peso de 260 g/m² que ofrece una caída fluida, transpirabilidad y una sensación suave al tacto durante toda la jornada.\n Ficha técnica\n Detalle \n Especificación \n Tejido \n 95% poliéster, 5% elastano (260 g/m²) \n Diseño y estilo \n Frente plisado, bragueta con cremallera, botón en contraste, trabillas para cinturón, dos bolsillos delanteros y dos bolsillos traseros con cierre de botón \n Ajuste \n Silueta entallada limpia \n Ocasiones \n Bodas, reuniones de negocios, oficina o eventos sociales \n Tallas disponibles \n 2XS, XS, S, M, L, XL, 2XL, 3XL, 4XL \n Guía de tallas\n Talla \n Largo \n Cintura \n Cadera \n 2XS \n 101cm / 39.8in \n 72cm / 28.3in \n 98cm / 38.6in \n XS \n 103cm / 40.6in \n 76cm / 29.9in \n 102cm / 40.2in \n S \n 105cm / 41.3in \n 80cm / 31.5in \n 106cm / 41.7in \n M \n 107cm / 42.1in \n 84cm / 33.1in \n 110cm / 43.3in \n L \n 109cm / 42.9in \n 89cm / 35in \n 115cm / 45.3in \n XL \n 111cm / 43.7in \n 94cm / 37in \n 120cm / 47.2in \n 2XL \n 113cm / 44.5in \n 100cm / 39.4in \n 126cm / 49.6in \n 3XL \n 115cm / 45.3in \n 106cm / 41.7in \n 132cm / 52in \n 4XL \n 117cm /",
+      "name_es": "Pantalón Avenue · Blanco",
+      "name_en": "Avenue Trousers · White",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "price_usd": 30.99,
+      "margin_pct": 55.9,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-2.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-3.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-4.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-5.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-2.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-3.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-4.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-5.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 30.99
+      },
+      "score": 29.59,
+      "rank": 23,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top"
+      ],
+      "page": true
+    },
+    {
+      "id": "interestprint-design-all-over-print-mens-dress-pants-1",
+      "supplier": "InterestPrint",
+      "supplier_id": "design-all-over-print-mens-dress-pants-1",
+      "source_title": "Pantalón de Vestir DAZMOND® \"Colección Privada\"",
+      "categories": [
+        "hombre/pantalones"
+      ],
+      "cost_usd": 13.66,
+      "sizes": [
+        "2XS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "white",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "2XS": "D3484168",
+        "XS": "D3484168",
+        "S": "D3484168",
+        "M": "D3484168",
+        "L": "D3484168",
+        "XL": "D3484168",
+        "2XL": "D3484168",
+        "3XL": "D3484168",
+        "4XL": "D3484168"
+      },
+      "details_src": "Distinción silenciosa que define tu presencia.\n La confianza se viste con líneas limpias y una silueta impecable. Este pantalón presenta un sofisticado diseño de frente plisado, cierre de cremallera suave con botón de contraste y presillas para cinturón. Proyecta una seguridad serena en cada encuentro profesional o social.\n Materiales y confección\n Confeccionado en tejido de estilo británico de 95% poliéster y 5% elastano con un peso de 260 g/m², ofrece un tacto suave y transpirable para llevar durante todo el día. Incorpora dos bolsillos delanteros y dos bolsillos traseros con cierre de botón.\n Ficha técnica\n Detalle \n Especificación \n Tejido \n 95% poliéster, 5% elastano (260 g/m²) \n Diseño y estilo \n Frente plisado, bragueta con cremallera y botón de contraste, bolsillos laterales y traseros con botón \n Ajuste \n Silueta sastrera entallada \n Ocasiones \n Bodas, reuniones de negocio, oficina y eventos sociales \n Tallas disponibles \n 2XS, XS, S, M, L, XL, 2XL, 3XL, 4XL \n Guía de tallas\n Talla \n Largo \n Cintura \n Cadera \n 2XS \n 101cm / 39.8in \n 72cm / 28.3in \n 98cm / 38.6in \n XS \n 103cm / 40.6in \n 76cm / 29.9in \n 102cm / 40.2in \n S \n 105cm / 41.3in \n 80cm / 31.5in \n 106cm / 41.7in \n M \n 107cm / 42.1in \n 84cm / 33.1in \n 110cm / 43.3in \n L \n 109cm / 42.9in \n 89cm / 35in \n 115cm / 45.3in \n XL \n 111cm / 43.7in \n 94cm / 37in \n 120cm / 47.2in \n 2XL \n 113cm / 44.5in \n 100cm / 39.4in \n 126cm / 49.6in \n 3XL \n 115cm / 45.3in \n 106cm / 41.7in \n 132cm / 52in \n 4XL \n 117cm / 46.1in \n 112cm /",
+      "name_es": "Pantalón Hudson · Blanco",
+      "name_en": "Hudson Trousers · White",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 30.99,
+      "margin_pct": 55.9,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-1.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-2.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-3.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-4.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-5.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-6.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-1.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-2.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-3.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-4.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-5.webp",
+        "assets/products/interestprint-design-all-over-print-mens-dress-pants-1-6.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 30.99
+      },
+      "score": 29.59,
+      "rank": 24,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-womens-cross-v-neck-button-long-sleeve-top"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-alabaster-white",
+      "supplier": "Shopify",
+      "supplier_id": "camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-alabaster-white",
+      "source_title": "DAZMOND & Co.® \"Blaster 2.0\" Organic Oversized High-Neck Tee",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "cost_usd": 24.58,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Alabaster White",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "7916847_21005",
+        "M": "7916847_21011",
+        "L": "7916847_21017",
+        "XL": "7916847_21023",
+        "2XL": "7916847_21029"
+      },
+      "details_src": "La Trilogía Cromática\n Alabaster White: Un blanco inmaculado, nítido y luminoso que sirve como el lienzo perfecto para hacer resaltar el minimalismo gráfico de la firma.\n Desert Stone: Un sofisticado tono arena mineral, un neutro cálido de inspiración orgánica que añade un aire relajado y vanguardista al armario.\n Obsidian Black: Un negro absoluto y profundo de acabado mate que evoca el misterio y el lujo nocturno más minimalista.\n El Manifiesto del Diseño\n Silueta Urbana \"High-Neck\": Destaca por su característico cuello ancho de ribete alto (canalé 1×1) que se ajusta de manera impecable, aportando una estructura sastrera muy valorada en la alta cultura urbana.\n Hombros Caídos: El patrón cuenta con mangas montadas y hombros caídos estratégicamente estudiados para realzar un volumen relajado, fluido y con un movimiento de caída natural inigualable.\n Identidad Gráfica Distintiva: Centrado con precisión en el pecho, se plasma la emblemática silueta geométrica del diamante de la marca junto a la distinguida tipografía gótica de \"Dazmond & Co.\" en un sutil tono dorado texturizado, acompañado de un refinado detalle de firma en la manga izquierda.\n Ingeniería Textil de Origen Sostenible \n La camiseta \"Blaster 2.0\" ha sido rigurosamente confeccionada a partir de algodón 100% orgánico peinado e hilado en anillos . Este minucioso proceso elimina las impurezas de las fibras cortas, dejando únicamente filamentos largos de una suavidad excepcional, un tacto suntuoso y una durabilidad estr",
+      "name_es": "Camiseta Soho · Blanco",
+      "name_en": "Soho Tee · White",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "price_usd": 39.9,
+      "margin_pct": 38.4,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-1.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-2.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-3.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-4.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-5.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-6.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-7.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-8.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-9.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-10.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-11.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-12.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-13.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-14.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-1.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-2.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-3.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-4.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-5.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-6.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-7.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-8.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-9.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-10.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-11.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-12.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-13.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-al-14.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 39.9
+      },
+      "score": 27.84,
+      "rank": 25,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-desert-stone",
+      "supplier": "Shopify",
+      "supplier_id": "camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-desert-stone",
+      "source_title": "DAZMOND & Co.® \"Blaster 2.0\" Organic Oversized High-Neck Tee",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "cost_usd": 24.58,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Desert Stone",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "7916847_21004",
+        "M": "7916847_21010",
+        "L": "7916847_21016",
+        "XL": "7916847_21022",
+        "2XL": "7916847_21028"
+      },
+      "details_src": "La Trilogía Cromática\n Alabaster White: Un blanco inmaculado, nítido y luminoso que sirve como el lienzo perfecto para hacer resaltar el minimalismo gráfico de la firma.\n Desert Stone: Un sofisticado tono arena mineral, un neutro cálido de inspiración orgánica que añade un aire relajado y vanguardista al armario.\n Obsidian Black: Un negro absoluto y profundo de acabado mate que evoca el misterio y el lujo nocturno más minimalista.\n El Manifiesto del Diseño\n Silueta Urbana \"High-Neck\": Destaca por su característico cuello ancho de ribete alto (canalé 1×1) que se ajusta de manera impecable, aportando una estructura sastrera muy valorada en la alta cultura urbana.\n Hombros Caídos: El patrón cuenta con mangas montadas y hombros caídos estratégicamente estudiados para realzar un volumen relajado, fluido y con un movimiento de caída natural inigualable.\n Identidad Gráfica Distintiva: Centrado con precisión en el pecho, se plasma la emblemática silueta geométrica del diamante de la marca junto a la distinguida tipografía gótica de \"Dazmond & Co.\" en un sutil tono dorado texturizado, acompañado de un refinado detalle de firma en la manga izquierda.\n Ingeniería Textil de Origen Sostenible \n La camiseta \"Blaster 2.0\" ha sido rigurosamente confeccionada a partir de algodón 100% orgánico peinado e hilado en anillos . Este minucioso proceso elimina las impurezas de las fibras cortas, dejando únicamente filamentos largos de una suavidad excepcional, un tacto suntuoso y una durabilidad estr",
+      "name_es": "Camiseta Avenue",
+      "name_en": "Avenue Tee",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 39.9,
+      "margin_pct": 38.4,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-1.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-2.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-3.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-4.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-5.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-6.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-7.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-8.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-9.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-10.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-11.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-12.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-13.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-14.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-1.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-2.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-3.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-4.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-5.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-6.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-7.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-8.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-9.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-10.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-11.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-12.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-13.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-14.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 39.9
+      },
+      "score": 27.84,
+      "rank": 26,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
+    },
+    {
+      "id": "shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-obsidian-black",
+      "supplier": "Shopify",
+      "supplier_id": "camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-obsidian-black",
+      "source_title": "DAZMOND & Co.® \"Blaster 2.0\" Organic Oversized High-Neck Tee",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "cost_usd": 24.58,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "Obsidian Black",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "sku_map": {
+        "S": "7916847_21000",
+        "M": "7916847_21006",
+        "L": "7916847_21012",
+        "XL": "7916847_21018",
+        "2XL": "7916847_21024"
+      },
+      "details_src": "La Trilogía Cromática\n Alabaster White: Un blanco inmaculado, nítido y luminoso que sirve como el lienzo perfecto para hacer resaltar el minimalismo gráfico de la firma.\n Desert Stone: Un sofisticado tono arena mineral, un neutro cálido de inspiración orgánica que añade un aire relajado y vanguardista al armario.\n Obsidian Black: Un negro absoluto y profundo de acabado mate que evoca el misterio y el lujo nocturno más minimalista.\n El Manifiesto del Diseño\n Silueta Urbana \"High-Neck\": Destaca por su característico cuello ancho de ribete alto (canalé 1×1) que se ajusta de manera impecable, aportando una estructura sastrera muy valorada en la alta cultura urbana.\n Hombros Caídos: El patrón cuenta con mangas montadas y hombros caídos estratégicamente estudiados para realzar un volumen relajado, fluido y con un movimiento de caída natural inigualable.\n Identidad Gráfica Distintiva: Centrado con precisión en el pecho, se plasma la emblemática silueta geométrica del diamante de la marca junto a la distinguida tipografía gótica de \"Dazmond & Co.\" en un sutil tono dorado texturizado, acompañado de un refinado detalle de firma en la manga izquierda.\n Ingeniería Textil de Origen Sostenible \n La camiseta \"Blaster 2.0\" ha sido rigurosamente confeccionada a partir de algodón 100% orgánico peinado e hilado en anillos . Este minucioso proceso elimina las impurezas de las fibras cortas, dejando únicamente filamentos largos de una suavidad excepcional, un tacto suntuoso y una durabilidad estr",
+      "name_es": "Camiseta Manhattan · Negro",
+      "name_en": "Manhattan Tee · Black",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 39.9,
+      "margin_pct": 38.4,
+      "fixed_price": true,
+      "images_original": [
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-1.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-2.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-3.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-4.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-5.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-6.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-7.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-8.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-9.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-10.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-11.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-12.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-13.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-14.webp"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-1.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-2.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-3.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-4.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-5.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-6.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-7.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-8.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-9.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-10.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-11.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-12.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-13.webp",
+        "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-ob-14.webp"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 39.9
+      },
+      "score": 27.84,
+      "rank": 27,
+      "badge": "new",
+      "look": [
+        "shopify-design-all-over-print-womens-shortall-4",
+        "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
+        "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
+        "interestprint-design-all-over-print-mens-dress-pants"
+      ],
+      "page": true
     }
   ]
 }

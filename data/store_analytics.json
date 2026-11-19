@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T02:24:04Z",
+  "updated": "2026-11-19T03:09:31Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -51,6 +51,222 @@
       "visual_verified": false
     },
     "interestprint-half-zip-jumpsuit": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "interestprint-design-womens-square-neck-long-sleeve-bodysuit-2": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "interestprint-design-all-over-print-mens-dress-pants-1": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "interestprint-design-all-over-print-mens-dress-pants": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "interestprint-design-womens-lace-trim-bodycon-mini-dress": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "interestprint-design-womens-square-neck-long-sleeve-bodysuit-1": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "interestprint-design-womens-square-neck-long-sleeve-bodysuit": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "interestprint-design-womens-cropped-bolero-jacket": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "interestprint-design-womens-cross-v-neck-button-long-sleeve-top": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow-cutout": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-2": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-obsidian-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-desert-stone": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-alabaster-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-cheerleading-uniform-lyq62-6": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-cheerleading-uniform-lyq62-5": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-cheerleading-uniform-lyq62-4": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-cheerleading-uniform-lyq62-3": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-cheerleading-uniform-lyq62-2": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-all-over-print-womens-shortall-4": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-cheerleading-uniform-lyq62-1": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-cheerleading-uniform-lyq62": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-all-over-print-womens-shortall-3": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-all-over-print-womens-shortall-2": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true
+    },
+    "shopify-design-all-over-print-womens-shortall-1": {
       "views": 0,
       "clicks": 0,
       "views_today": 0,
