@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos"
+  "hombre/polos",
+  "mujer/polo"
  ],
  "color": "Negro",
  "created": "2026-11-19",
@@ -25,21 +27,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20231120154722-ORj2SC7XUK_0afa1fc8-3c57-40a7-9905-beaa6987c0c8.jpg?v=1744625185"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "polo-algodon-bordado",
  "hidden": false,
  "id": "shopify-polo-de-algodon-daz-bordado-negro",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Imperial Polo",
  "name_es": "Polo Imperial",
  "needs_review": false,
- "price_usd": 69.9,
- "rank": 922,
+ "page": true,
+ "price_usd": 40.99,
+ "rank": 1081,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

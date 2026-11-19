@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/americana-blazer"
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "color": "white",
  "created": "2026-11-19",
@@ -18,21 +20,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/897c71b5bf78c773a2602115b2c04c12_231457f4-84f9-490a-8c44-7ad793cd6168.jpg?v=1770924639"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "abrigo-cruzado-sovereign",
  "hidden": false,
  "id": "interestprint-design-mens-double-breasted-coat-3",
  "look": [
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Imperial Blazer · White",
  "name_es": "Blazer Imperial · Blanco",
  "needs_review": false,
- "price_usd": 51.99,
- "rank": 1620,
+ "page": true,
+ "price_usd": 52.99,
+ "rank": 1624,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -1,9 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/ropa-interior",
-  "mujer/ropa-interior"
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
  ],
  "color": "White",
  "created": "2026-11-19",
@@ -26,21 +27,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-10-5SBl0bPgMK.jpg?v=1727992875"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "cartera-piel-sintetica",
  "hidden": false,
  "id": "shopify-cartera-de-piel-sintetica-2-0-daz-luxury-5-white",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Hudson Underwear · White",
  "name_es": "Ropa Interior Hudson · Blanco",
  "needs_review": false,
- "price_usd": 77.0,
- "rank": 480,
+ "page": true,
+ "price_usd": 24.99,
+ "rank": 293,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

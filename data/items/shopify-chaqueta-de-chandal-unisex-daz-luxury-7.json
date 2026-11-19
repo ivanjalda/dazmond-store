@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/chandal-sudaderas"
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -17,21 +19,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-back-6733992edbe43.jpg?v=1731434820"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "chaqueta-chandal-luxury",
  "hidden": false,
  "id": "shopify-chaqueta-de-chandal-unisex-daz-luxury-7",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Imperial Sweatshirt",
  "name_es": "Sudadera Imperial",
  "needs_review": false,
- "price_usd": 167.0,
- "rank": 1149,
+ "page": true,
+ "price_usd": 90.99,
+ "rank": 1880,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

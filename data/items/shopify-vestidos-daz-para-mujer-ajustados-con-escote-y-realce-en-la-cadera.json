@@ -18,21 +18,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240628094442-97S1EHAyPt_5ba98d62-6acd-4b62-a57d-932580ad952c.jpg?v=1727344119"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "vestidos-mujer-ajustados",
  "hidden": false,
  "id": "shopify-vestidos-daz-para-mujer-ajustados-con-escote-y-realce-en-la-cadera",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer"
  ],
  "material": "",
  "name_en": "Soho Dress",
  "name_es": "Vestido Soho",
  "needs_review": false,
- "price_usd": 197.0,
- "rank": 84,
+ "page": true,
+ "price_usd": 25.99,
+ "rank": 199,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -47,7 +50,7 @@
   "5XL"
  ],
  "source_title": "Vestidos DAZ para mujer ajustados con escote y realce en la cadera",
- "stripe_payment_link": "https://buy.stripe.com/14A8wQ73612cfD06iq1gs1l",
+ "stripe_payment_link": "https://buy.stripe.com/aFa28s4UY9yI3UiayG1gt36",
  "supplier": "Shopify",
  "supplier_id": "vestidos-daz-para-mujer-ajustados-con-escote-y-realce-en-la-cadera",
  "visual_verified": true

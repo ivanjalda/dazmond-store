@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/botas-botines-hombre"
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
  ],
  "color": "Negro",
  "created": "2026-11-19",
@@ -25,21 +27,23 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_oh4d6coh4d6coh4d_05118fcc-bf32-4622-b478-cc7166bc584d.png?v=1767639592"
  ],
  "draft": false,
+ "fam": "zapatillas-cana-alta",
  "fixed_price": true,
  "hidden": false,
  "id": "shopify-zapatillas-de-cana-alta-dazmond-art-negro",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Noir Boots",
  "name_es": "Botas Noir",
  "needs_review": false,
+ "page": true,
  "price_usd": 70.0,
- "rank": 2017,
+ "rank": 1962,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

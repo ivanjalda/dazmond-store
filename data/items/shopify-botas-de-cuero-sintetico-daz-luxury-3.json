@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/botas-botines-hombre"
+  "calzado-hombre/botas-botines-hombre",
+  "calzado-mujer/botas-botines"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -21,21 +23,23 @@
   "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-1/D20%20%E5%9B%9B%E5%AD%A3%E9%A9%AC%E4%B8%81%E9%9D%B4%E5%B0%BA%E7%A0%81%E8%A1%A8%28%E5%86%85%E9%95%BF%29.jpg"
  ],
  "draft": false,
+ "fam": "botas-cuero-sintetico",
  "fixed_price": true,
  "hidden": false,
  "id": "shopify-botas-de-cuero-sintetico-daz-luxury-3",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Noir Boots",
  "name_es": "Botas Noir",
  "needs_review": false,
+ "page": true,
  "price_usd": 119.9,
- "rank": 1972,
+ "rank": 1917,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

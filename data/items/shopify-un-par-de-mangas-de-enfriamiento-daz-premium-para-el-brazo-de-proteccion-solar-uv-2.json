@@ -16,21 +16,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240828110640-B4pAqztuW7_597a4106-6401-4acf-b077-cd601d09ffcd.jpg?v=1726222771"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "un-par-mangas",
  "hidden": false,
  "id": "shopify-un-par-de-mangas-de-enfriamiento-daz-premium-para-el-brazo-de-proteccion-solar-uv-2",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro",
+  "shopify-gorra-daz-de-malla"
  ],
  "material": "",
  "name_en": "Soho Piece",
  "name_es": "Pieza Soho",
  "needs_review": true,
- "price_usd": 39.9,
- "rank": 688,
+ "page": true,
+ "price_usd": 24.99,
+ "rank": 118,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -42,6 +45,7 @@
   "2XL"
  ],
  "source_title": "Un par de mangas de enfriamiento DAZ Premium para el brazo de protección solar UV",
+ "stripe_payment_link": "https://buy.stripe.com/eVq7sMevy4eo0I6gX41gt1N",
  "supplier": "Shopify",
  "supplier_id": "un-par-de-mangas-de-enfriamiento-daz-premium-para-el-brazo-de-proteccion-solar-uv-2",
  "visual_verified": true

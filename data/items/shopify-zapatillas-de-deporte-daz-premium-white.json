@@ -1,7 +1,9 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
+  "calzado-hombre/zapatillas-hombre",
   "calzado-mujer/zapatillas"
  ],
  "color": "White",
@@ -25,21 +27,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299065-9-lawabbiRv8.jpg?v=1732299298"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "zapatillas-deporte-premium",
  "hidden": false,
  "id": "shopify-zapatillas-de-deporte-daz-premium-white",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Madison Sneakers · White",
  "name_es": "Zapatillas Madison · Blanco",
  "needs_review": false,
- "price_usd": 207.0,
- "rank": 288,
+ "page": true,
+ "price_usd": 31.99,
+ "rank": 758,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

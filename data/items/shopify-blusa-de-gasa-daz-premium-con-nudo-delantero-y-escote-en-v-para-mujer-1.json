@@ -19,21 +19,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20220831153351-R8u02AOwU2_dff5c48e-4a10-4535-95f2-587b1caa5d05.jpg?v=1726770915"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "blusa-gasa-premium",
  "hidden": false,
  "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-1",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Hudson Tee",
  "name_es": "Camiseta Hudson",
  "needs_review": false,
- "price_usd": 177.0,
- "rank": 117,
+ "page": true,
+ "price_usd": 25.99,
+ "rank": 243,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -47,7 +50,7 @@
   "4XL"
  ],
  "source_title": "Blusa de gasa DAZ Premium con nudo delantero y escote en V para mujer",
- "stripe_payment_link": "https://buy.stripe.com/8x2bJ287adOY76u7mu1gs1S",
+ "stripe_payment_link": "https://buy.stripe.com/fZubJ2fzCeT276ueOW1gt3O",
  "supplier": "Shopify",
  "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-1",
  "visual_verified": true

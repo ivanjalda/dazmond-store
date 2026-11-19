@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -21,18 +23,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240326104028-3EzRkBKcaY_04868950-265f-4ec1-af45-2b2f5cc38110.jpg?v=1727959404"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "mochila-art-pu",
  "hidden": false,
  "id": "shopify-mochila-daz-art-de-pu-para-viajes-7",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Riviera Case",
  "name_es": "Funda Riviera",
  "needs_review": false,
- "price_usd": 197.0,
- "rank": 319,
+ "page": true,
+ "price_usd": 31.99,
+ "rank": 712,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

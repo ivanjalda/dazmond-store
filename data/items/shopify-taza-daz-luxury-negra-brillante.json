@@ -17,18 +17,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-glossy-mug-black-15-oz-front-6661f0938456c.jpg?v=1717694649"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "obsidian-gloss-luxury",
  "hidden": false,
  "id": "shopify-taza-daz-luxury-negra-brillante",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Monogram Mug",
  "name_es": "Taza Monogram",
  "needs_review": false,
- "price_usd": 42.0,
- "rank": 785,
+ "page": true,
+ "price_usd": 27.99,
+ "rank": 341,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

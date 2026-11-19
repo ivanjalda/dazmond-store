@@ -16,21 +16,25 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240716162658-mhBO0rvHnj_54f86d84-401f-4335-b9ab-aa14d7441303.jpg?v=1736336510"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "braguitas-sin-costuras",
  "hidden": false,
  "id": "shopify-braguitas-daz-sin-costuras-para-mujer-10",
+ "img_checked": "2026-11-19",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer"
  ],
  "material": "",
  "name_en": "Noir Underwear",
  "name_es": "Ropa Interior Noir",
  "needs_review": false,
- "price_usd": 19.0,
- "rank": 765,
+ "page": true,
+ "price_usd": 20.99,
+ "rank": 15,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -45,6 +49,7 @@
   "5XL"
  ],
  "source_title": "Braguitas DAZ sin costuras para mujer",
+ "stripe_payment_link": "https://buy.stripe.com/fZu8wQdru3ak76u22a1gt08",
  "supplier": "Shopify",
  "supplier_id": "braguitas-daz-sin-costuras-para-mujer-10",
  "visual_verified": true

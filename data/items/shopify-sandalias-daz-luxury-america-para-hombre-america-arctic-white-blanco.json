@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/sandalias-chanclas-hombre"
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
  ],
  "color": "\"América\" — Arctic White (Blanco)",
  "created": "2026-11-19",
@@ -25,21 +27,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_6vmi7l6vmi7l6vmi.png?v=1776716562"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "america-luxury-slides",
  "hidden": false,
  "id": "shopify-sandalias-daz-luxury-america-para-hombre-america-arctic-white-blanco",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Avenue Sandals · White",
  "name_es": "Sandalias Avenue · Blanco",
  "needs_review": false,
- "price_usd": 49.0,
- "rank": 1642,
+ "page": true,
+ "price_usd": 51.99,
+ "rank": 1552,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

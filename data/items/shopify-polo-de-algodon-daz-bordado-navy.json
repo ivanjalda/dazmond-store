@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos"
+  "hombre/polos",
+  "mujer/polo"
  ],
  "color": "Navy",
  "created": "2026-11-19",
@@ -25,21 +27,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1744624834-4-HRteJHrha8.jpg?v=1744625185"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "polo-algodon-bordado",
  "hidden": false,
  "id": "shopify-polo-de-algodon-daz-bordado-navy",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Atelier Polo · Navy",
  "name_es": "Polo Atelier · Azul Marino",
  "needs_review": false,
- "price_usd": 69.9,
- "rank": 921,
+ "page": true,
+ "price_usd": 40.99,
+ "rank": 1080,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

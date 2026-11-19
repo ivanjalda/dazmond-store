@@ -20,18 +20,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240613173423-eXkn78InWb_6f5bba71-3c33-4e7a-bf97-ad5cb220f42e.jpg?v=1726150375"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "funda-tapa-cuero",
  "hidden": false,
  "id": "shopify-funda-con-tapa-de-cuero-sintetico-daz-marron-para-telefono-1",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Soho Case",
  "name_es": "Funda Soho",
  "needs_review": false,
- "price_usd": 87.0,
- "rank": 539,
+ "page": true,
+ "price_usd": 27.99,
+ "rank": 238,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -40,6 +43,7 @@
   "M"
  ],
  "source_title": "Funda con tapa de cuero sintético DAZ marrón para teléfono",
+ "stripe_payment_link": "https://buy.stripe.com/aFa4gA0EI6mw2Qe5em1gt3J",
  "supplier": "Shopify",
  "supplier_id": "funda-con-tapa-de-cuero-sintetico-daz-marron-para-telefono-1",
  "visual_verified": true

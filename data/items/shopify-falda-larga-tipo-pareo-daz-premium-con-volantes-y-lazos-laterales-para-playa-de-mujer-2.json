@@ -2,7 +2,7 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "mujer/trajes-bano"
+  "mujer/falda"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -16,21 +16,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240508115240-kkYyZIctW0_bfe6a59b-801a-4dc0-94d0-011f6fe36005.jpg?v=1726228041"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "falda-larga-tipo",
  "hidden": false,
  "id": "shopify-falda-larga-tipo-pareo-daz-premium-con-volantes-y-lazos-laterales-para-playa-de-mujer-2",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Manhattan Swimwear",
  "name_es": "Bañador Manhattan",
  "needs_review": false,
- "price_usd": 39.9,
- "rank": 835,
+ "page": true,
+ "price_usd": 28.99,
+ "rank": 324,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

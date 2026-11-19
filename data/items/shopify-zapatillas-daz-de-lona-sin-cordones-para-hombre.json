@@ -2,7 +2,7 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hombre"
+  "decor"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -15,21 +15,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/mens-slip-on-canvas-shoes-white-right-front-66a7eade44629.jpg?v=1722280687"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "swift-glide-slip",
  "hidden": false,
  "id": "shopify-zapatillas-daz-de-lona-sin-cordones-para-hombre",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Atelier Sneakers",
  "name_es": "Zapatillas Atelier",
  "needs_review": false,
- "price_usd": 64.9,
- "rank": 1577,
+ "page": true,
+ "price_usd": 59.99,
+ "rank": 1723,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

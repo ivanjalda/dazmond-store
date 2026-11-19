@@ -14,18 +14,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/white-glossy-mug-white-11-oz-handle-on-left-667ee3b31bd6f.jpg?v=1773682585"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "art-stardust-union",
  "hidden": false,
  "id": "shopify-taza-daz-art",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Riviera Mug",
  "name_es": "Taza Riviera",
  "needs_review": false,
- "price_usd": 35.0,
- "rank": 816,
+ "page": true,
+ "price_usd": 26.99,
+ "rank": 134,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -35,6 +38,7 @@
   "20 oz"
  ],
  "source_title": "DAZMOND® Art \"Stardust Union\" Mug",
+ "stripe_payment_link": "https://buy.stripe.com/eVqbJ2evy9yIgH436e1gt23",
  "supplier": "Shopify",
  "supplier_id": "taza-daz-art",
  "visual_verified": true

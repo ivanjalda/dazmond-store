@@ -18,21 +18,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240628093551-tmnjY2BelK_8c2d5fcf-6147-4126-be86-c1caec7295a0.jpg?v=1727700257"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "vestido-tirantes-cuello",
  "hidden": false,
  "id": "shopify-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-3",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer"
  ],
  "material": "",
  "name_en": "Atelier Dress · Red",
  "name_es": "Vestido Atelier · Rojo",
  "needs_review": false,
- "price_usd": 247.0,
- "rank": 44,
+ "page": true,
+ "price_usd": 25.99,
+ "rank": 184,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -47,7 +50,7 @@
   "4XL"
  ],
  "source_title": "Vestido DAZ de tirantes con cuello redondo y sin mangas",
- "stripe_payment_link": "https://buy.stripe.com/aFa6oI0EI5is1MagX41gs0H",
+ "stripe_payment_link": "https://buy.stripe.com/14A28s7364eogH47mu1gt2R",
  "supplier": "Shopify",
  "supplier_id": "vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-3",
  "visual_verified": true

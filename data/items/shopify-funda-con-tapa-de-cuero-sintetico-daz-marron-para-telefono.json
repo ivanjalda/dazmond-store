@@ -20,18 +20,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240613173423-eXkn78InWb_29346bdd-a839-4a16-8408-81768768baed.jpg?v=1726150255"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "funda-tapa-cuero",
  "hidden": false,
  "id": "shopify-funda-con-tapa-de-cuero-sintetico-daz-marron-para-telefono",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Riviera Case",
  "name_es": "Funda Riviera",
  "needs_review": false,
- "price_usd": 77.0,
- "rank": 588,
+ "page": true,
+ "price_usd": 27.99,
+ "rank": 237,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -40,6 +43,7 @@
   "M"
  ],
  "source_title": "Funda con tapa de cuero sintético DAZ marrón para teléfono",
+ "stripe_payment_link": "https://buy.stripe.com/eVq00kdru3ak0I622a1gt3I",
  "supplier": "Shopify",
  "supplier_id": "funda-con-tapa-de-cuero-sintetico-daz-marron-para-telefono",
  "visual_verified": true

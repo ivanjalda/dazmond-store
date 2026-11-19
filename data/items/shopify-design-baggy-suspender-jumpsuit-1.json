@@ -1,4 +1,5 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
@@ -20,21 +21,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/229781a95398d20a38e6da0ca3b2f825.jpg?v=1773433414"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "aurora-diamond-oversized",
  "hidden": false,
  "id": "shopify-design-baggy-suspender-jumpsuit-1",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Atelier Jumpsuit",
  "name_es": "Mono Atelier",
  "needs_review": false,
- "price_usd": 79.9,
- "rank": 627,
+ "page": true,
+ "price_usd": 29.99,
+ "rank": 389,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

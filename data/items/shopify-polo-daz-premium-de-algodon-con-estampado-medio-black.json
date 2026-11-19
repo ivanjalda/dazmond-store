@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos"
+  "hombre/polos",
+  "mujer/polo"
  ],
  "color": "Black",
  "created": "2026-11-19",
@@ -25,21 +27,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-12-oDnhF1Kysg.jpg?v=1726854101"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "polo-premium-algodon",
  "hidden": false,
  "id": "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Riviera Polo · Black",
  "name_es": "Polo Riviera · Negro",
  "needs_review": false,
- "price_usd": 167.0,
- "rank": 177,
+ "page": true,
+ "price_usd": 26.99,
+ "rank": 163,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -53,7 +58,7 @@
   "4XL"
  ],
  "source_title": "Polo DAZ Premium de algodón con estampado medio",
- "stripe_payment_link": "https://buy.stripe.com/4gMeVe3QU8uE1MafT01gs2Q",
+ "stripe_payment_link": "https://buy.stripe.com/14A14o3QUaCM8ayfT01gt2w",
  "supplier": "Shopify",
  "supplier_id": "polo-daz-premium-de-algodon-con-estampado-medio-black",
  "visual_verified": true

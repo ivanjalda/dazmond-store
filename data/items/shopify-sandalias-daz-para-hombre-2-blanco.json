@@ -2,7 +2,7 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-mujer/sandalias-chanclas"
+  "calzado-hombre/sandalias-chanclas-hombre"
  ],
  "color": "Blanco",
  "created": "2026-11-19",
@@ -21,21 +21,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/mens-slides-black-front-66a4d98e16211.jpg?v=1722079647"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "sandalias-hombre",
  "hidden": false,
  "id": "shopify-sandalias-daz-para-hombre-2-blanco",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Manhattan Sandals",
  "name_es": "Sandalias Manhattan",
  "needs_review": false,
- "price_usd": 44.9,
- "rank": 1711,
+ "page": true,
+ "price_usd": 51.99,
+ "rank": 1556,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

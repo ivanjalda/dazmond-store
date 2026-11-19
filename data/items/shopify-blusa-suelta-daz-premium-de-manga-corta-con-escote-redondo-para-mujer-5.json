@@ -19,21 +19,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20220713092235-Xh6jTPARlD_4595ba0c-c8a7-47bc-a260-50c5b8a69a06.jpg?v=1726687122"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "blusa-suelta-premium",
  "hidden": false,
  "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-5",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Manhattan Tee · Red",
  "name_es": "Camiseta Manhattan · Rojo",
  "needs_review": false,
- "price_usd": 107.0,
- "rank": 414,
+ "page": true,
+ "price_usd": 27.99,
+ "rank": 232,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -49,6 +52,7 @@
   "6XL"
  ],
  "source_title": "Blusa suelta DAZ Premium de manga corta con escote redondo para mujer",
+ "stripe_payment_link": "https://buy.stripe.com/8x214ogDG9yI9eC22a1gt3D",
  "supplier": "Shopify",
  "supplier_id": "blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-5",
  "visual_verified": true

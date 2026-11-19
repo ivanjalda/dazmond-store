@@ -17,22 +17,24 @@
   "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-6.webp"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "body-never-define",
  "hidden": false,
  "id": "interestprint-design-womens-square-neck-long-sleeve-bodysuit-1",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer"
  ],
  "material": "",
  "name_en": "Soho Bodysuit · White",
  "name_es": "Body Soho · Blanco",
  "needs_review": false,
  "page": true,
- "price_usd": 21.99,
- "rank": 1070,
+ "price_usd": 25.99,
+ "rank": 136,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -48,6 +50,7 @@
   "5XL"
  ],
  "source_title": "Body DAZMOND® \"Never Define Me\" de Manga Larga it-1",
+ "stripe_payment_link": "https://buy.stripe.com/14A5kE7365is0I6fT01gt25",
  "supplier": "InterestPrint",
  "supplier_id": "design-womens-square-neck-long-sleeve-bodysuit-1",
  "visual_verified": true

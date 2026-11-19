@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter"
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "color": "\"Aura Shield\" — Onyx Pattern (Cremallera Negra)",
  "created": "2026-11-19",
@@ -23,21 +25,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-mens-windbreaker-white-front-66a9318ac1b3d.jpg?v=1722364349"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "aura-shield-performance",
  "hidden": false,
  "id": "shopify-cortavientos-daz-para-hombre-aura-shield-onyx-pattern-cremallera-negra",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Riviera Coat",
- "name_es": "Abrigo Riviera",
+ "name_en": "Riviera Jacket",
+ "name_es": "Chaqueta Riviera",
  "needs_review": false,
- "price_usd": 87.9,
- "rank": 1390,
+ "page": true,
+ "price_usd": 63.99,
+ "rank": 1743,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

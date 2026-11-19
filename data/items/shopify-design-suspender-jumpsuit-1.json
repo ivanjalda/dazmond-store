@@ -1,4 +1,5 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
@@ -19,21 +20,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/47a9301aad2c6367e2e0377a262febe7.jpg?v=1773416479"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "luxury-golden-hearts",
  "hidden": false,
  "id": "shopify-design-suspender-jumpsuit-1",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Imperial Jumpsuit · Gold",
  "name_es": "Mono Imperial · Oro",
  "needs_review": false,
- "price_usd": 95.0,
- "rank": 558,
+ "page": true,
+ "price_usd": 28.99,
+ "rank": 515,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

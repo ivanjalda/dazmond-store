@@ -20,21 +20,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240628094400-gHIHyOWPE0_8e2294fe-7132-4951-9490-4564b6ac78ee.jpg?v=1727699630"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "vestido-corto-tirantes",
  "hidden": false,
  "id": "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-3",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer"
  ],
  "material": "",
  "name_en": "Soho Dress",
  "name_es": "Vestido Soho",
  "needs_review": false,
- "price_usd": 217.0,
- "rank": 24,
+ "page": true,
+ "price_usd": 23.99,
+ "rank": 65,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -50,7 +53,7 @@
   "5XL"
  ],
  "source_title": "Vestido corto DAZ con tirantes finos ajustables y sin mangas para mujer",
- "stripe_payment_link": "https://buy.stripe.com/7sYbJ25Z2dOY9eCbCK1gs0n",
+ "stripe_payment_link": "https://buy.stripe.com/fZu5kEbjmh1afD05em1gt0W",
  "supplier": "Shopify",
  "supplier_id": "vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-3",
  "visual_verified": true

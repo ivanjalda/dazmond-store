@@ -20,18 +20,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240613173423-eXkn78InWb_6ca1eb5b-2631-4702-8465-e94e6677081d.jpg?v=1726150458"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "funda-tapa-cuero",
  "hidden": false,
  "id": "shopify-funda-con-tapa-de-cuero-sintetico-daz-marron-para-telefono-2",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Madison Case",
  "name_es": "Funda Madison",
  "needs_review": false,
- "price_usd": 87.0,
- "rank": 540,
+ "page": true,
+ "price_usd": 27.99,
+ "rank": 239,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -40,6 +43,7 @@
   "M"
  ],
  "source_title": "Funda con tapa de cuero sintético DAZ marrón para teléfono",
+ "stripe_payment_link": "https://buy.stripe.com/8x27sM736h1a8ay5em1gt3K",
  "supplier": "Shopify",
  "supplier_id": "funda-con-tapa-de-cuero-sintetico-daz-marron-para-telefono-2",
  "visual_verified": true

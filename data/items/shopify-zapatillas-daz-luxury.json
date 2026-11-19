@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-mujer/zapatillas-casa"
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -20,21 +22,23 @@
   "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-2/D35%20%E6%A3%89%E6%8B%96%28%E5%86%85%E9%95%BF%29.jpg"
  ],
  "draft": false,
+ "fam": "zapatillas-luxury",
  "fixed_price": true,
  "hidden": false,
  "id": "shopify-zapatillas-daz-luxury",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Noir House Slippers",
  "name_es": "Zapatillas de Casa Noir",
  "needs_review": false,
+ "page": true,
  "price_usd": 29.9,
- "rank": 2005,
+ "rank": 1950,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

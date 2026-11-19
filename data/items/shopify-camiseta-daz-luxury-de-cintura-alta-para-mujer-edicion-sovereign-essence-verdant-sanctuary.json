@@ -1,4 +1,5 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
@@ -22,21 +23,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_191611.png?v=1788801473"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "sovereign-essence-high",
  "hidden": false,
  "id": "shopify-camiseta-daz-luxury-de-cintura-alta-para-mujer-edicion-sovereign-essence-verdant-sanctuary",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro",
+  "shopify-gorra-daz-de-malla"
  ],
  "material": "",
  "name_en": "Atelier Tee",
  "name_es": "Camiseta Atelier",
  "needs_review": false,
- "price_usd": 59.0,
- "rank": 1078,
+ "page": true,
+ "price_usd": 41.99,
+ "rank": 971,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

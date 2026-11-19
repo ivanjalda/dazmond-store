@@ -19,21 +19,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20220713092235-Xh6jTPARlD_e9b2ab43-4b78-4b82-8593-0f5eb3937665.jpg?v=1726686901"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "blusa-suelta-premium",
  "hidden": false,
  "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-1",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Atelier Tee · Red",
  "name_es": "Camiseta Atelier · Rojo",
  "needs_review": false,
- "price_usd": 127.0,
- "rank": 367,
+ "page": true,
+ "price_usd": 27.99,
+ "rank": 224,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -49,6 +52,7 @@
   "6XL"
  ],
  "source_title": "Blusa suelta DAZ Premium de manga corta con escote redondo para mujer",
+ "stripe_payment_link": "https://buy.stripe.com/eVqeVe736cKU9eCgX41gt3v",
  "supplier": "Shopify",
  "supplier_id": "blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-1",
  "visual_verified": true

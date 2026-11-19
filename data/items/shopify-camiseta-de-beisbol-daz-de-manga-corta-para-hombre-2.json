@@ -2,7 +2,7 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/camisas"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -19,21 +19,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20230512101633-RIlON1a51G_c4dab979-9388-4e35-8d0d-d35442590774.jpg?v=1726595457"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "camiseta-beisbol-manga",
  "hidden": false,
  "id": "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-2",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Riviera Tee",
- "name_es": "Camiseta Riviera",
+ "name_en": "Riviera Jersey Shirt",
+ "name_es": "Camisa Riviera",
  "needs_review": false,
- "price_usd": 127.0,
- "rank": 243,
+ "page": true,
+ "price_usd": 25.99,
+ "rank": 123,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -47,7 +50,7 @@
   "4XL"
  ],
  "source_title": "Camiseta de béisbol DAZ de manga corta para hombre",
- "stripe_payment_link": "https://buy.stripe.com/fZu7sM7365isaiGayG1gs3U",
+ "stripe_payment_link": "https://buy.stripe.com/aFabJ22MQ9yIbmKayG1gt1S",
  "supplier": "Shopify",
  "supplier_id": "camiseta-de-beisbol-daz-de-manga-corta-para-hombre-2",
  "visual_verified": true

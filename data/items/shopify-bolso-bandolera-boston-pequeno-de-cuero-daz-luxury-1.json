@@ -1,4 +1,5 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
@@ -21,21 +22,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1744711527-9-reEoyLEOIq.jpg?v=1744711673"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "bolso-bandolera-boston",
  "hidden": false,
  "id": "shopify-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury-1",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Imperial Bag",
  "name_es": "Bolso Imperial",
  "needs_review": false,
- "price_usd": 49.0,
- "rank": 1196,
+ "page": true,
+ "price_usd": 38.99,
+ "rank": 909,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

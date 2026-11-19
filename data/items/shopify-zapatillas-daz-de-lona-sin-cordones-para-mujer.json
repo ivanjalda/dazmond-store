@@ -2,7 +2,7 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-mujer/zapatillas"
+  "decor"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -17,21 +17,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/womens-slip-on-canvas-shoes-white-right-front-66e9a9a49a3c5.jpg?v=1726589373"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "grace-glide-slip",
  "hidden": false,
  "id": "shopify-zapatillas-daz-de-lona-sin-cordones-para-mujer",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Soho Sneakers",
  "name_es": "Zapatillas Soho",
  "needs_review": false,
- "price_usd": 64.9,
- "rank": 1578,
+ "page": true,
+ "price_usd": 59.99,
+ "rank": 1725,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -16,18 +16,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5954682228998696953_2048.jpg?v=1719605164"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "art-primal-unity",
  "hidden": false,
  "id": "shopify-reloj-de-pared-daz-art",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Manhattan Maison Object",
  "name_es": "Objeto Maison Manhattan",
  "needs_review": false,
- "price_usd": 64.0,
- "rank": 1298,
+ "page": true,
+ "price_usd": 47.99,
+ "rank": 1377,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

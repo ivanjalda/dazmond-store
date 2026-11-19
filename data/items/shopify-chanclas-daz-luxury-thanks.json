@@ -1,7 +1,9 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
+  "calzado-hombre/sandalias-chanclas-hombre",
   "calzado-mujer/sandalias-chanclas"
  ],
  "color": "",
@@ -16,21 +18,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/sublimation-flip-flops-white-top-66a7ec706e362.jpg?v=1776715467"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "gratitude-edition-luxury",
  "hidden": false,
  "id": "shopify-chanclas-daz-luxury-thanks",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Madison Sandals",
  "name_es": "Sandalias Madison",
  "needs_review": false,
- "price_usd": 39.0,
- "rank": 1135,
+ "page": true,
+ "price_usd": 33.99,
+ "rank": 776,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

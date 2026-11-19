@@ -2,7 +2,7 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "mujer/bolsos-carteras"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -21,18 +21,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240326103936-8cLOfO7a0Z_cdcb62bf-b84a-4c98-b905-2f4d7d79bf89.png?v=1727954124"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "bolso-bandolera-luxury",
  "hidden": false,
  "id": "shopify-bolso-bandolera-daz-luxury-con-cadena-de-pu-para-mujer-1",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Madison Case",
  "name_es": "Funda Madison",
  "needs_review": false,
- "price_usd": 187.0,
- "rank": 340,
+ "page": true,
+ "price_usd": 31.99,
+ "rank": 688,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

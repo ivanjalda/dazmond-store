@@ -12,18 +12,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/scented-soy-candle---white-sage-and-lavender-white-sage-and-lavender-front-6822514627dc9.jpg?v=1747079508"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "vela-perfumada-luxury",
  "hidden": false,
  "id": "shopify-vela-perfumada-daz-luxury-de-soja-salvia-blanca-y-lavanda",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Manhattan Candle",
  "name_es": "Vela Manhattan",
  "needs_review": false,
- "price_usd": 39.0,
- "rank": 980,
+ "page": true,
+ "price_usd": 31.99,
+ "rank": 530,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

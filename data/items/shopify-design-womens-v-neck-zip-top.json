@@ -1,4 +1,5 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
@@ -19,21 +20,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_rjhaa6rjhaa6rjha.png?v=1781792676"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "luxury-dandelion-breeze",
  "hidden": false,
  "id": "shopify-design-womens-v-neck-zip-top",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro",
+  "shopify-gorra-daz-de-malla"
  ],
  "material": "",
  "name_en": "Soho Tee",
  "name_es": "Camiseta Soho",
  "needs_review": false,
- "price_usd": 65.0,
- "rank": 614,
+ "page": true,
+ "price_usd": 26.99,
+ "rank": 131,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -48,6 +52,7 @@
   "5XL"
  ],
  "source_title": "DAZMOND® Luxury \"Dandelion Breeze\" V-Neck Zip Top",
+ "stripe_payment_link": "https://buy.stripe.com/eVq8wQ3QU7qAaiGayG1gt20",
  "supplier": "Shopify",
  "supplier_id": "design-womens-v-neck-zip-top",
  "visual_verified": true

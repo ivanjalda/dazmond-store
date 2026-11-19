@@ -1,4 +1,5 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
@@ -16,20 +17,24 @@
   "https://images.printify.com/mockup/667d7f2d904feab6a00efc29/106591/104050/zuecos-de-espuma-daz-america.jpg?camera_label=left-outside"
  ],
  "draft": false,
+ "fam": "zuecos-espuma-america",
  "hidden": false,
  "id": "printify-667d7f2d904feab6a00efc29",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Riviera Clogs · Black",
  "name_es": "Zuecos Riviera · Negro",
  "needs_review": false,
- "price_usd": 50.0,
- "rank": 1880,
+ "page": true,
+ "price_usd": 27.99,
+ "rank": 2034,
+ "shipping_usd": 6.0,
+ "shipping_worst_usd": 6.0,
  "shop_verified": false,
  "size_chart": null,
  "size_guide": [],

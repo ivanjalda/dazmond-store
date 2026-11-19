@@ -1,4 +1,5 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
@@ -15,21 +16,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/suitcase-black-large-front-68a495a53ac75.jpg?v=1755616696"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "maleta-rigida-luxury",
  "hidden": false,
  "id": "shopify-maleta-rigida-daz-luxury",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Avenue Bag",
  "name_es": "Bolso Avenue",
  "needs_review": false,
- "price_usd": 205.0,
- "rank": 1850,
+ "page": true,
+ "price_usd": 197.99,
+ "rank": 1883,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

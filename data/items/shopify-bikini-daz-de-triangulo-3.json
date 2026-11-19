@@ -2,7 +2,6 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
   "mujer/trajes-bano"
  ],
  "color": "",
@@ -17,21 +16,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-string-bikini-white-product-details-2-66a7a9a370e1f.jpg?v=1722263992"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "luxury-golden-zebra",
  "hidden": false,
  "id": "shopify-bikini-daz-de-triangulo-3",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer"
  ],
  "material": "",
  "name_en": "Soho Swimwear · Gold",
  "name_es": "Bañador Soho · Oro",
  "needs_review": false,
- "price_usd": 74.0,
- "rank": 1360,
+ "page": true,
+ "price_usd": 54.99,
+ "rank": 1646,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

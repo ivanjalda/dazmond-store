@@ -9,24 +9,28 @@
  "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
  "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
  "display_images": [
-  "https://images.printify.com/mockup/668eaa0ce8327b730b0bcac2/86204/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
-  "https://images.printify.com/mockup/668eaa0ce8327b730b0bcac2/86204/55197/short-daz-luxury-para-mujer.jpg?camera_label=back"
+  "https://images.printify.com/mockup/668eaa0ce8327b730b0bcac2/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
+  "https://images.printify.com/mockup/668eaa0ce8327b730b0bcac2/86201/55197/short-daz-luxury-para-mujer.jpg?camera_label=back"
  ],
  "draft": false,
+ "fam": "short-luxury-mujer",
  "hidden": false,
  "id": "printify-668eaa0ce8327b730b0bcac2",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Imperial Piece",
  "name_es": "Pieza Imperial",
  "needs_review": true,
- "price_usd": 70.0,
- "rank": 1756,
+ "page": true,
+ "price_usd": 47.99,
+ "rank": 1895,
+ "shipping_usd": 6.09,
+ "shipping_worst_usd": 15.49,
  "shop_verified": false,
  "size_chart": null,
  "size_guide": [],

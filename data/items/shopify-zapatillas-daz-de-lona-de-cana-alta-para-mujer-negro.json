@@ -2,7 +2,7 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-mujer/zapatillas"
+  "mujer/camisetas-blusas-tops"
  ],
  "color": "Negro",
  "created": "2026-11-19",
@@ -25,21 +25,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/womens-high-top-canvas-shoes-black-front-66a7e1ef9ab2e.jpg?v=1722278413"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "lady-heritage-grand",
  "hidden": false,
  "id": "shopify-zapatillas-daz-de-lona-de-cana-alta-para-mujer-negro",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Soho Sneakers",
  "name_es": "Zapatillas Soho",
  "needs_review": false,
- "price_usd": 77.0,
- "rank": 1496,
+ "page": true,
+ "price_usd": 62.99,
+ "rank": 1695,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

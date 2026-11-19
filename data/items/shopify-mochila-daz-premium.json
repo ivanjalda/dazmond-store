@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras"
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -20,21 +22,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-backpack-white-back-66a4dcebee47e.jpg?v=1722080520"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "mochila-premium-emerald",
  "hidden": false,
  "id": "shopify-mochila-daz-premium",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Manhattan Bag",
  "name_es": "Bolso Manhattan",
  "needs_review": false,
- "price_usd": 87.0,
- "rank": 1244,
+ "page": true,
+ "price_usd": 57.99,
+ "rank": 1605,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

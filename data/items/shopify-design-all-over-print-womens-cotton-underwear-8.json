@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/ropa-interior"
+  "hombre/ropa-interior",
+  "mujer/ropa-interior"
  ],
  "color": "Amarillo",
  "created": "2026-11-19",
@@ -18,21 +20,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_sijluisijluisijl.png?v=1773421218"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "luxury-monogram-signature",
  "hidden": false,
  "id": "shopify-design-all-over-print-womens-cotton-underwear-8",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro",
+  "shopify-gorra-daz-de-malla"
  ],
  "material": "",
  "name_en": "Madison Underwear",
  "name_es": "Ropa Interior Madison",
  "needs_review": false,
- "price_usd": 29.9,
- "rank": 784,
+ "page": true,
+ "price_usd": 23.99,
+ "rank": 221,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -44,6 +49,7 @@
   "2XL"
  ],
  "source_title": "DAZMOND® Luxury \"Monogram Signature\" Cotton Briefs",
+ "stripe_payment_link": "https://buy.stripe.com/8x2bJ29be26g2QecGO1gt3s",
  "supplier": "Shopify",
  "supplier_id": "design-all-over-print-womens-cotton-underwear-8",
  "visual_verified": true

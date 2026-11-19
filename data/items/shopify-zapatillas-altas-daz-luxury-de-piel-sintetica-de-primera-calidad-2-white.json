@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hombre"
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
  ],
  "color": "White",
  "created": "2026-11-19",
@@ -25,21 +27,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732298020-3-q432eF2tHm.jpg?v=1732298128"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "zapatillas-altas-luxury",
  "hidden": false,
  "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-2-white",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Avenue Sneakers · White",
  "name_es": "Zapatillas Avenue · Blanco",
  "needs_review": false,
- "price_usd": 227.0,
- "rank": 402,
+ "page": true,
+ "price_usd": 38.99,
+ "rank": 1027,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatos-elegantes"
+  "calzado-hombre/zapatos-elegantes",
+  "calzado-mujer/zapatillas"
  ],
  "color": "White",
  "created": "2026-11-19",
@@ -25,21 +27,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731088672-7-tFwPqwLn0P.jpg?v=1731089123"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "zapatos-skate-premium",
  "hidden": false,
  "id": "shopify-zapatos-de-skate-daz-premium-de-cuero-de-cana-baja-ligeros-para-adultos-white",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Soho Dress Shoes · White",
  "name_es": "Zapatos Soho · Blanco",
  "needs_review": false,
- "price_usd": 177.0,
- "rank": 553,
+ "page": true,
+ "price_usd": 38.99,
+ "rank": 1054,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

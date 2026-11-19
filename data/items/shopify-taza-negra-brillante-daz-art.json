@@ -18,18 +18,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-glossy-mug-black-15-oz-front-667efdbd8c636.jpg?v=1719598573"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "art-noir-soul",
  "hidden": false,
  "id": "shopify-taza-negra-brillante-daz-art",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Hudson Mug",
  "name_es": "Taza Hudson",
  "needs_review": false,
- "price_usd": 35.0,
- "rank": 864,
+ "page": true,
+ "price_usd": 27.99,
+ "rank": 342,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

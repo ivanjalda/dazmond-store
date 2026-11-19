@@ -1,4 +1,5 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
@@ -20,21 +21,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_i3pfa0i3pfa0i3pf.png?v=1780688197"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "luxury-sapphire-kisses",
  "hidden": false,
  "id": "shopify-design-all-over-print-womens-cotton-underwear-4",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro",
+  "shopify-gorra-daz-de-malla"
  ],
  "material": "",
  "name_en": "Soho Underwear",
  "name_es": "Ropa Interior Soho",
  "needs_review": false,
- "price_usd": 25.0,
- "rank": 841,
+ "page": true,
+ "price_usd": 23.99,
+ "rank": 217,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -46,6 +50,7 @@
   "2XL"
  ],
  "source_title": "DAZMOND® Luxury \"Sapphire Kisses & Diamonds\" Cotton Briefs",
+ "stripe_payment_link": "https://buy.stripe.com/7sY5kE7366mw76u4ai1gt3o",
  "supplier": "Shopify",
  "supplier_id": "design-all-over-print-womens-cotton-underwear-4",
  "visual_verified": true

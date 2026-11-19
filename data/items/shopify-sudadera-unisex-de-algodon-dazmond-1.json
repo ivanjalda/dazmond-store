@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/chandal-sudaderas"
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -18,21 +20,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-cotton-hoodie-white-right-back-6909e42aca6ec.jpg?v=1765546384"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "sudadera-algodon",
  "hidden": false,
  "id": "shopify-sudadera-unisex-de-algodon-dazmond-1",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Manhattan Sweatshirt",
  "name_es": "Sudadera Manhattan",
  "needs_review": false,
- "price_usd": 70.0,
- "rank": 1733,
+ "page": true,
+ "price_usd": 72.99,
+ "rank": 1830,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

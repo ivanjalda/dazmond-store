@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos"
+  "hombre/polos",
+  "mujer/polo"
  ],
  "color": "\"Elite Piqué\" — Pristine White (Blanco)",
  "created": "2026-11-19",
@@ -24,21 +26,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/premium-polo-shirt-stone-front-6655f20eefc00.jpg?v=1716908681"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "elite-pique-premium",
  "hidden": false,
  "id": "shopify-polo-daz-luxury-para-hombre-elite-pique-pristine-white-blanco",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Atelier Polo · White",
  "name_es": "Polo Atelier · Blanco",
  "needs_review": false,
- "price_usd": 64.9,
- "rank": 1127,
+ "page": true,
+ "price_usd": 44.99,
+ "rank": 1305,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

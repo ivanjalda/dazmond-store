@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/botas-botines-hombre"
+  "calzado-hombre/botas-botines-hombre",
+  "calzado-mujer/botas-botines"
  ],
  "color": "white",
  "created": "2026-11-19",
@@ -18,21 +20,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/897c71b5bf78c773a2602115b2c04c12_c1a0a52b-f3e9-4211-9b5c-c48c60697244.jpg?v=1770924623"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "abrigo-royal-crest",
  "hidden": false,
  "id": "interestprint-design-mens-double-breasted-coat-1",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Avenue Boots · White",
  "name_es": "Botas Avenue · Blanco",
  "needs_review": false,
- "price_usd": 51.99,
- "rank": 1618,
+ "page": true,
+ "price_usd": 52.99,
+ "rank": 1622,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

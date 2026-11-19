@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-mujer/sandalias-chanclas"
+  "calzado-hombre/zapatos-elegantes",
+  "calzado-mujer/zapatillas"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -24,21 +26,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240705101959-2JyNhthNgr_b49ec7b9-a7c3-4351-9b08-cfe38b41490c.jpg?v=1731514461"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "zapatos-acuaticos-premium",
  "hidden": false,
  "id": "shopify-zapatos-acuaticos-daz-premium-para-adultos-1",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Atelier Sandals",
  "name_es": "Sandalias Atelier",
  "needs_review": false,
- "price_usd": 137.0,
- "rank": 158,
+ "page": true,
+ "price_usd": 23.99,
+ "rank": 76,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -51,7 +56,7 @@
   "EU46"
  ],
  "source_title": "Zapatos acuáticos DAZ Premium para adultos",
- "stripe_payment_link": "https://buy.stripe.com/8x2fZidru5isaiGcGO1gs2x",
+ "stripe_payment_link": "https://buy.stripe.com/aFadRa5Z212c8ay9uC1gt17",
  "supplier": "Shopify",
  "supplier_id": "zapatos-acuaticos-daz-premium-para-adultos-1",
  "visual_verified": true

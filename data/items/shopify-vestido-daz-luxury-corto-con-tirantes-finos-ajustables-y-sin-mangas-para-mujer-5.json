@@ -20,21 +20,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240628094400-gHIHyOWPE0_50ed0f41-66fa-4ade-a920-22d81c0f164b.jpg?v=1727363281"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "vestido-luxury-corto",
  "hidden": false,
  "id": "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-5",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer"
  ],
  "material": "",
  "name_en": "Noir Dress",
  "name_es": "Vestido Noir",
  "needs_review": false,
- "price_usd": 277.0,
- "rank": 12,
+ "page": true,
+ "price_usd": 23.99,
+ "rank": 73,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -50,7 +53,7 @@
   "5XL"
  ],
  "source_title": "Vestido DAZ Luxury corto con tirantes finos ajustables y sin mangas para mujer",
- "stripe_payment_link": "https://buy.stripe.com/eVq7sM736cKUgH4dKS1gs0b",
+ "stripe_payment_link": "https://buy.stripe.com/9B67sMbjm4eo3UifT01gt14",
  "supplier": "Shopify",
  "supplier_id": "vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-5",
  "visual_verified": true

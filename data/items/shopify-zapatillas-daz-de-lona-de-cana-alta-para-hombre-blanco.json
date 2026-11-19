@@ -2,7 +2,7 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hombre"
+  "decor"
  ],
  "color": "Blanco",
  "created": "2026-11-19",
@@ -25,21 +25,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/mens-high-top-canvas-shoes-white-front-66a7e2224cb86.jpg?v=1722278455"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "urban-pinnacle-high",
  "hidden": false,
  "id": "shopify-zapatillas-daz-de-lona-de-cana-alta-para-hombre-blanco",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Hudson Sneakers",
  "name_es": "Zapatillas Hudson",
  "needs_review": false,
- "price_usd": 79.0,
- "rank": 1470,
+ "page": true,
+ "price_usd": 62.99,
+ "rank": 1692,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

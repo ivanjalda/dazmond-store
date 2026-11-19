@@ -17,21 +17,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2d820e75189db96be7367998b98ddeca.jpg?v=1770924429"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "camiseta-hombre-coleccion",
  "hidden": false,
  "id": "interestprint-design-all-over-print-mens-t-shirt",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-  "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera"
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro",
+  "shopify-gorra-daz-de-malla"
  ],
  "material": "",
  "name_en": "Manhattan Tee · White",
  "name_es": "Camiseta Manhattan · Blanco",
  "needs_review": false,
- "price_usd": 20.99,
- "rank": 1035,
+ "page": true,
+ "price_usd": 24.99,
+ "rank": 222,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -47,6 +50,7 @@
   "6XL"
  ],
  "source_title": "Camiseta para Hombre Colección Privada \"Urban Shadow\"",
+ "stripe_payment_link": "https://buy.stripe.com/fZueVeevycKUgH46iq1gt3t",
  "supplier": "InterestPrint",
  "supplier_id": "design-all-over-print-mens-t-shirt",
  "visual_verified": true

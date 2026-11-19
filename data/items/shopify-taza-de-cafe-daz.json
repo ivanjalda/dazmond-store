@@ -18,18 +18,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1741347551-8-H1fLUdsKjy.jpg?v=1741347750"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "taza-cafe",
  "hidden": false,
  "id": "shopify-taza-de-cafe-daz",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Hudson Mug",
  "name_es": "Taza Hudson",
  "needs_review": false,
- "price_usd": 25.0,
- "rank": 1543,
+ "page": true,
+ "price_usd": 32.99,
+ "rank": 630,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

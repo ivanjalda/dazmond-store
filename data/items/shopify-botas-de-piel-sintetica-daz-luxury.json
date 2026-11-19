@@ -1,7 +1,9 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
+  "calzado-hombre/botas-botines-hombre",
   "calzado-mujer/botas-botines"
  ],
  "color": "",
@@ -21,21 +23,23 @@
   "https://assets-us.wowfulfillment.com/desc/d41-size-chart-0330.jpg"
  ],
  "draft": false,
+ "fam": "botas-piel-sintetica",
  "fixed_price": true,
  "hidden": false,
  "id": "shopify-botas-de-piel-sintetica-daz-luxury",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Madison Boots",
  "name_es": "Botas Madison",
  "needs_review": false,
+ "page": true,
  "price_usd": 109.0,
- "rank": 1976,
+ "rank": 1921,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

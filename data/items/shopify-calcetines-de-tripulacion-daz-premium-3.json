@@ -23,21 +23,25 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/vjHnqwP8QLfTelqLJv5Y69fIgwN5oBZZGqzKXnMC_b5c2eed1-3d14-435e-9420-67820d1c8221.jpg?v=1735842274"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "calcetines-tripulacion-premium",
  "hidden": false,
  "id": "shopify-calcetines-de-tripulacion-daz-premium-3",
+ "img_checked": "2026-11-19",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro",
+  "shopify-gorra-daz-de-malla"
  ],
  "material": "",
  "name_en": "Hudson Underwear",
  "name_es": "Ropa Interior Hudson",
  "needs_review": false,
- "price_usd": 27.0,
- "rank": 657,
+ "page": true,
+ "price_usd": 21.99,
+ "rank": 6,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -46,6 +50,7 @@
   "L/XL"
  ],
  "source_title": "Calcetines de tripulación DAZ Premium",
+ "stripe_payment_link": "https://buy.stripe.com/3cI14o736fX68ay36e1gs47",
  "supplier": "Shopify",
  "supplier_id": "calcetines-de-tripulacion-daz-premium-3",
  "visual_verified": true

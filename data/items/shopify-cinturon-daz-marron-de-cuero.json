@@ -18,21 +18,25 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240708142907-wJDUQwoRD8.jpg?v=1726062602"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "cinturon-marron-cuero",
  "hidden": false,
  "id": "shopify-cinturon-daz-marron-de-cuero",
+ "img_checked": "2026-11-19",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-gorra-daz-de-malla"
  ],
  "material": "",
  "name_en": "Avenue Belt",
  "name_es": "Cinturón Avenue",
  "needs_review": false,
- "price_usd": 35.0,
- "rank": 732,
+ "page": true,
+ "price_usd": 24.99,
+ "rank": 54,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -42,6 +46,7 @@
   "140cm"
  ],
  "source_title": "Cinturón DAZ marrón de cuero",
+ "stripe_payment_link": "https://buy.stripe.com/bJe6oIcnq26g76u7mu1gt0L",
  "supplier": "Shopify",
  "supplier_id": "cinturon-daz-marron-de-cuero",
  "visual_verified": true

@@ -14,23 +14,27 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/white-ceramic-mug-with-color-inside-yellow-11-oz-front-680b60c06222b.jpg?v=1745576140"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "taza",
  "hidden": false,
  "id": "shopify-taza-daz",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Hudson Mug",
  "name_es": "Taza Hudson",
  "needs_review": false,
- "price_usd": 25.0,
- "rank": 1024,
+ "page": true,
+ "price_usd": 26.99,
+ "rank": 133,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
  "sizes": [],
  "source_title": "Taza DAZ",
+ "stripe_payment_link": "https://buy.stripe.com/eVq7sMgDG8uEaiGcGO1gt22",
  "supplier": "Shopify",
  "supplier_id": "taza-daz",
  "visual_verified": true

@@ -1,7 +1,9 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
+  "hombre/albornoz-pijama",
   "mujer/batas-pijamas"
  ],
  "color": "",
@@ -16,21 +18,23 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/SGPfBpCwFDb7NnPsrZdbZpAeRE3KTPyA_e033cd57-7f26-4d39-88f4-046c0ab9503d.png?v=1743701992"
  ],
  "draft": false,
+ "fam": "pijama-verano-luxury",
  "fixed_price": true,
  "hidden": false,
  "id": "shopify-pijama-de-verano-daz-luxury-1",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Imperial Loungewear",
  "name_es": "Pijama Imperial",
  "needs_review": false,
+ "page": true,
  "price_usd": 39.0,
- "rank": 1994,
+ "rank": 1939,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

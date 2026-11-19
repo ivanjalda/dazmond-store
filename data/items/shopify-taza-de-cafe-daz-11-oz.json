@@ -17,18 +17,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20230419172150-GUXPrS15nP.jpg?v=1741348599"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "taza-cafe-oz",
  "hidden": false,
  "id": "shopify-taza-de-cafe-daz-11-oz",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Imperial Mug",
  "name_es": "Taza Imperial",
  "needs_review": false,
- "price_usd": 25.0,
- "rank": 1544,
+ "page": true,
+ "price_usd": 32.99,
+ "rank": 631,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

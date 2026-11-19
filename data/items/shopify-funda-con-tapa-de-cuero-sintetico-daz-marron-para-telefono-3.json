@@ -20,18 +20,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240613173423-eXkn78InWb_cf734c6e-2109-4f5d-8552-0246e84257dc.jpg?v=1726223259"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "funda-tapa-cuero",
  "hidden": false,
  "id": "shopify-funda-con-tapa-de-cuero-sintetico-daz-marron-para-telefono-3",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-blanca-brillante-daz-luxury"
  ],
  "material": "",
  "name_en": "Hudson Case",
  "name_es": "Funda Hudson",
  "needs_review": false,
- "price_usd": 87.0,
- "rank": 541,
+ "page": true,
+ "price_usd": 27.99,
+ "rank": 240,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -40,6 +43,7 @@
   "M"
  ],
  "source_title": "Funda con tapa de cuero sintético DAZ marrón para teléfono",
+ "stripe_payment_link": "https://buy.stripe.com/3cIcN62MQ5isfD0fT01gt3L",
  "supplier": "Shopify",
  "supplier_id": "funda-con-tapa-de-cuero-sintetico-daz-marron-para-telefono-3",
  "visual_verified": true

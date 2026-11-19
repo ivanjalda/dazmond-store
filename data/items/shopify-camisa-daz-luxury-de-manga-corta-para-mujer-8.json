@@ -1,7 +1,9 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
+  "hombre/camisas",
   "mujer/camisas"
  ],
  "color": "",
@@ -19,21 +21,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-back-66b210f5d70ad.jpg?v=1775844732"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "oeil-celeste-resort",
  "hidden": false,
  "id": "shopify-camisa-daz-luxury-de-manga-corta-para-mujer-8",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer-1",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Hudson Shirt",
  "name_es": "Camisa Hudson",
  "needs_review": false,
- "price_usd": 84.0,
- "rank": 1132,
+ "page": true,
+ "price_usd": 53.99,
+ "rank": 1530,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

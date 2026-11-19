@@ -19,21 +19,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20220920174813-mS5g3uxvrq_88133d47-5bd6-44a6-a1e7-88911ddb41a2.jpg?v=1729606066"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "vestido-noche-lujo",
  "hidden": false,
  "id": "shopify-vestido-de-noche-daz-lujo-elegante-sin-mangas-para-mujer-3",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer"
  ],
  "material": "",
  "name_en": "Imperial Dress",
  "name_es": "Vestido Imperial",
  "needs_review": false,
- "price_usd": 277.0,
- "rank": 35,
+ "page": true,
+ "price_usd": 26.99,
+ "rank": 195,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -51,7 +54,7 @@
   "6XL"
  ],
  "source_title": "Vestido de noche DAZ Lujo, elegante sin mangas para mujer",
- "stripe_payment_link": "https://buy.stripe.com/8x28wQfzC3ak9eCeOW1gs0y",
+ "stripe_payment_link": "https://buy.stripe.com/28EaEY7364eo9eCdKS1gt32",
  "supplier": "Shopify",
  "supplier_id": "vestido-de-noche-daz-lujo-elegante-sin-mangas-para-mujer-3",
  "visual_verified": true

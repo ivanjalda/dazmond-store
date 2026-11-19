@@ -18,21 +18,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240628094442-97S1EHAyPt_3e9e12c4-5cdd-4ee5-8a4c-bed1703059c8.jpg?v=1727342249"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "vestidos-mujer-ajustado",
  "hidden": false,
  "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-6",
  "look": [
-  "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-  "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer"
  ],
  "material": "",
  "name_en": "Atelier Dress",
  "name_es": "Vestido Atelier",
  "needs_review": false,
- "price_usd": 187.0,
- "rank": 111,
+ "page": true,
+ "price_usd": 25.99,
+ "rank": 210,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -47,7 +50,7 @@
   "5XL"
  ],
  "source_title": "Vestidos para mujer ajustado con escote y realce de la cadera",
- "stripe_payment_link": "https://buy.stripe.com/3cI4gA1IMfX6duS5em1gs1M",
+ "stripe_payment_link": "https://buy.stripe.com/7sY6oI87aaCM1MadKS1gt3h",
  "supplier": "Shopify",
  "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-6",
  "visual_verified": true

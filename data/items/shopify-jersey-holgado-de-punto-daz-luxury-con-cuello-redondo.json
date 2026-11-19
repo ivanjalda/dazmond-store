@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter"
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -13,21 +15,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/relaxed-fit-knitted-crew-neck-sweater-custom-3xs-back-6839746003000.jpg?v=1748595829"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "jersey-holgado-punto",
  "hidden": false,
  "id": "shopify-jersey-holgado-de-punto-daz-luxury-con-cuello-redondo",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Soho Coat · Red",
- "name_es": "Abrigo Soho · Rojo",
+ "name_en": "Soho Jacket · Red",
+ "name_es": "Chaqueta Soho · Rojo",
  "needs_review": false,
- "price_usd": 49.9,
- "rank": 1966,
+ "page": true,
+ "price_usd": 75.99,
+ "rank": 1842,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

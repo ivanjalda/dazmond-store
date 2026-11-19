@@ -14,18 +14,21 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/white-glossy-mug-white-15-oz-woman-682ca1b18ed7e.jpg?v=1747755459"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "taza-blanca-brillante",
  "hidden": false,
  "id": "shopify-taza-blanca-brillante-daz-luxury",
  "look": [
-  "shopify-bolso-daz-con-bandolera-black"
+  "shopify-taza-daz"
  ],
  "material": "",
  "name_en": "Madison Mug",
  "name_es": "Taza Madison",
  "needs_review": false,
- "price_usd": 39.9,
- "rank": 662,
+ "page": true,
+ "price_usd": 23.99,
+ "rank": 120,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -35,6 +38,7 @@
   "20 oz"
  ],
  "source_title": "Taza blanca brillante DAZ Luxury",
+ "stripe_payment_link": "https://buy.stripe.com/cNi7sM4UY5is8ay6iq1gt1P",
  "supplier": "Shopify",
  "supplier_id": "taza-blanca-brillante-daz-luxury",
  "visual_verified": true

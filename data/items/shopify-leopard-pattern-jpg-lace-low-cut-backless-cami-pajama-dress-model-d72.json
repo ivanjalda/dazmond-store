@@ -2,7 +2,6 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/albornoz-pijama",
   "mujer/batas-pijamas"
  ],
  "color": "",
@@ -18,21 +17,24 @@
   "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "vestido-pijama-luxury",
  "hidden": false,
  "id": "shopify-leopard-pattern-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Riviera Loungewear",
  "name_es": "Pijama Riviera",
  "needs_review": false,
- "price_usd": 39.9,
- "rank": 1034,
+ "page": true,
+ "price_usd": 32.99,
+ "rank": 667,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

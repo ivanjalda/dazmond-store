@@ -2,7 +2,6 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/conjuntos",
   "mujer/vestidos-monos-petos"
  ],
  "color": "Morado",
@@ -18,22 +17,24 @@
   "assets/products/shopify-design-all-over-print-womens-shortall-1-6.webp"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "argyle-heritage-shortall",
  "hidden": false,
  "id": "shopify-design-all-over-print-womens-shortall-1",
  "look": [
-  "shopify-design-womens-cropped-fleece-jacket-2",
-  "shopify-camiseta-de-beisbol-daz-de-manga-corta-para-hombre-5",
-  "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
-  "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+  "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer"
  ],
  "material": "",
  "name_en": "Monogram Jumpsuit · Pink",
  "name_es": "Mono Monogram · Rosa",
  "needs_review": false,
  "page": true,
- "price_usd": 71.0,
- "rank": 637,
+ "price_usd": 28.99,
+ "rank": 384,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

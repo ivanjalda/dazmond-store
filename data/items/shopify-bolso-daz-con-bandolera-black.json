@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
  ],
  "color": "Black",
  "created": "2026-11-19",
@@ -25,18 +27,24 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-8-Deu6OcoR7f.jpg?v=1727883738"
  ],
  "draft": false,
- "fixed_price": true,
+ "fam": "bolso-bandolera",
  "hidden": false,
  "id": "shopify-bolso-daz-con-bandolera-black",
  "look": [
-  "shopify-bolso-daz-con-bandolera-brown"
+  "shopify-es-package-protection",
+  "shopify-calcetines-de-tripulacion-daz-premium",
+  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
  "name_en": "Soho Case · Black",
  "name_es": "Funda Soho · Negro",
  "needs_review": false,
- "price_usd": 147.0,
- "rank": 237,
+ "page": true,
+ "price_usd": 26.99,
+ "rank": 279,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
