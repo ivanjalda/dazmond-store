@@ -383,7 +383,8 @@
     const canBuy = p.available !== false && p.price_usd > 0;
     const c = p.offer && S.camp.active && S.camp[S.lang];
     const info = (S.catalog.menus.find(m => m.groups.some(g => g.id === (p.categories || [''])[0].split('/')[0])) || {});
-    const details = [p.material ? `${t('d_material')}: ${p.material}` : '', p.color ? `${t('d_color')}: ${p.color}` : '', t('d_made'), p.details_src || ''].filter(Boolean).join('\n');
+    const aiDet = p['details_' + S.lang];
+    const details = aiDet ? aiDet : [p.material ? `${t('d_material')}: ${p.material}` : '', p.color ? `${t('d_color')}: ${p.color}` : '', t('d_made')].filter(Boolean).join('\n');
     const sc = p.size_chart;
     const guideTable = sc && sc.rows && sc.rows.length ? `<div class="size-table"><table><thead><tr>${((S.lang === 'es' && sc.headers_es) || sc.headers || []).map(h => `<th>${esc(h)}</th>`).join('')}</tr></thead>
       <tbody>${sc.rows.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table>
