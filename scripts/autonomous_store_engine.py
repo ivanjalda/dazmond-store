@@ -40,7 +40,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from dz_common import env, load_json as _lj, printful, printify, request, save_json as _sj, stripe  # noqa: E402
+from dz_common import env, load_json as _lj, printful, printify, printify_shop_id, request, save_json as _sj, stripe  # noqa: E402
 import ai_vision  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -276,9 +276,9 @@ def _split_by_color(variants, color_of, size_of):
 
 def read_printify():
     """Lee tu tienda de Printify. Cada color se convierte en una pieza propia (como en las grandes casas)."""
-    if not env("PRINTIFY_TOKEN") or not env("PRINTIFY_SHOP_ID"):
+    shop = printify_shop_id()
+    if not env("PRINTIFY_TOKEN") or not shop:
         return []
-    shop = env("PRINTIFY_SHOP_ID")
     rows, page = [], 1
     try:
         while page <= 30:

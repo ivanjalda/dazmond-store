@@ -20,7 +20,7 @@ import sys
 from datetime import timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from dz_common import NOW, env, load_json, notify, printful, printify, stripe  # noqa: E402
+from dz_common import NOW, env, load_json, notify, printful, printify, printify_shop_id, stripe  # noqa: E402
 
 FLAG = "dazmond_enviado"
 
@@ -59,7 +59,7 @@ def variant_for(p, size):
 
 
 def send_printify(p, vid, qty, a, ref, cfg):
-    shop = env("PRINTIFY_SHOP_ID")
+    shop = printify_shop_id()
     order = printify(f"/shops/{shop}/orders.json", {
         "external_id": ref, "label": ref[-12:],
         "line_items": [{"product_id": p.get("supplier_product_id"), "variant_id": int(vid), "quantity": qty}],

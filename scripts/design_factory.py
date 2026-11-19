@@ -23,7 +23,7 @@ import sys
 import time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from dz_common import NOW, ROOT, TODAY, env, load_json, notify, printify, save_json, slug  # noqa: E402
+from dz_common import NOW, ROOT, TODAY, env, load_json, notify, printify, printify_shop_id, save_json, slug  # noqa: E402
 
 DESIGNS = os.path.join(ROOT, "disenos")
 EXTS = (".png", ".jpg", ".jpeg")
@@ -88,8 +88,8 @@ def split_template_keys(raw, known):
 
 
 def main():
-    if not env("PRINTIFY_TOKEN") or not env("PRINTIFY_SHOP_ID"):
-        log("Sin PRINTIFY_TOKEN / PRINTIFY_SHOP_ID: no se crean productos todavía.")
+    if not env("PRINTIFY_TOKEN") or not printify_shop_id():
+        log("Sin PRINTIFY_TOKEN: no se crean productos todavía.")
         return 0
     cfg = load_json("config.json", {})
     if not cfg.get("design_factory", {}).get("enabled", True):
@@ -99,7 +99,7 @@ def main():
     known = tpls.get("plantillas", {})
     registry = load_json("disenos.json", {"files": {}})
     cache = load_json("plantillas_resueltas.json", {})
-    shop = env("PRINTIFY_SHOP_ID")
+    shop = printify_shop_id()
     files = sorted(f for f in os.listdir(DESIGNS) if f.lower().endswith(EXTS)) if os.path.isdir(DESIGNS) else []
     def waiting(f):
         e = registry["files"].get(f, {})

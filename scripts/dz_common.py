@@ -93,6 +93,31 @@ def printify(path, body=None, method=None):
                    {"Authorization": f"Bearer {token}"}, body=body, timeout=120)
 
 
+_SHOP = None
+
+
+def printify_shop_id():
+    """Número de tu tienda de Printify. Si no está en los secretos, lo busca solo con la clave:
+    la tienda cuyo nombre contiene "DAZ" (o la única que haya)."""
+    global _SHOP
+    if env("PRINTIFY_SHOP_ID"):
+        return env("PRINTIFY_SHOP_ID")
+    if _SHOP or not env("PRINTIFY_TOKEN"):
+        return _SHOP
+    try:
+        shops = printify("/shops.json") or []
+        pref = (load_json("config.json", {}).get("printify_shop_name") or "daz").lower()
+        pick = next((s for s in shops if pref in str(s.get("title", "")).lower()), shops[0] if len(shops) == 1 else None)
+        if pick:
+            _SHOP = str(pick["id"])
+            print(f"[printify] Tienda encontrada: {pick.get('title')} ({_SHOP})")
+        else:
+            print("[printify] Tienes varias tiendas y ninguna se llama DAZ…: pon PRINTIFY_SHOP_ID.")
+    except Exception as e:
+        print(f"[printify] No pude buscar tu tienda: {str(e)[:120]}")
+    return _SHOP
+
+
 # ----------------------------------------------------------------- Printful
 def printful(path, body=None, method=None):
     token = env("PRINTFUL_TOKEN")
