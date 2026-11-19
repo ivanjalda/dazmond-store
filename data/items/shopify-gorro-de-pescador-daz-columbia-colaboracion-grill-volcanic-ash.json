@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "color": "Grill — \"Volcanic Ash\"",
  "created": "2026-11-19",
@@ -27,15 +29,15 @@
  "hidden": false,
  "id": "shopify-gorro-de-pescador-daz-columbia-colaboracion-grill-volcanic-ash",
  "look": [
+  "shopify-es-package-protection",
   "shopify-calcetines-de-tripulacion-daz-premium",
   "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro",
-  "shopify-gorra-daz-de-malla"
+  "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Avenue Piece",
- "name_es": "Pieza Avenue",
- "needs_review": true,
+ "name_en": "Avenue Hat",
+ "name_es": "Gorro Avenue",
+ "needs_review": false,
  "page": true,
  "price_usd": 53.99,
  "rank": 1538,

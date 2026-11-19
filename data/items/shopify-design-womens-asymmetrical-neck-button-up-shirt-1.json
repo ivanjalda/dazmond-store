@@ -3,7 +3,6 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camisas",
   "mujer/camisas"
  ],
  "color": "Gris",
@@ -22,10 +21,10 @@
  "hidden": false,
  "id": "shopify-design-womens-asymmetrical-neck-button-up-shirt-1",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Madison Tee",
@@ -50,6 +49,7 @@
   "5XL"
  ],
  "source_title": "DAZMOND® Luxury \"Bohemian Diamond\" Asymmetrical Button-Up Shirt",
+ "stripe_payment_link": "https://buy.stripe.com/4gM28s736eT2aiGeOW1gu0e",
  "supplier": "Shopify",
  "supplier_id": "design-womens-asymmetrical-neck-button-up-shirt-1",
  "visual_verified": true

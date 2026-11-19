@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/pantalones-cortos"
+  "hombre/mallas",
+  "mujer/leggings"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -23,8 +25,8 @@
   "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Imperial Shorts",
- "name_es": "Bermuda Imperial",
+ "name_en": "Imperial Tights",
+ "name_es": "Mallas Imperial",
  "needs_review": false,
  "page": true,
  "price_usd": 46.99,

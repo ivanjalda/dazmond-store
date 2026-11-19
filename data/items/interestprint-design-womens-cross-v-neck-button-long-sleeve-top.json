@@ -3,7 +3,6 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
  "color": "white",
@@ -23,10 +22,10 @@
  "hidden": false,
  "id": "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
  "look": [
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro",
-  "shopify-gorra-daz-de-malla"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Hudson Tee · White",
@@ -51,6 +50,7 @@
   "5XL"
  ],
  "source_title": "Top Colección Privada \"Aura Silvestre\" de Manga Larga",
+ "stripe_payment_link": "https://buy.stripe.com/eVqbJ2afifX63Ui7mu1gu0T",
  "supplier": "InterestPrint",
  "supplier_id": "design-womens-cross-v-neck-button-long-sleeve-top",
  "visual_verified": true

@@ -3,7 +3,6 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
  ],
  "color": "Blanco",
@@ -23,10 +22,10 @@
  "hidden": false,
  "id": "shopify-design-womens-drop-shoulder-cardigan-1",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
  "name_en": "Manhattan Jacket",
@@ -49,6 +48,7 @@
   "3XL"
  ],
  "source_title": "Cárdigan de hombros caídos DAZ Luxury",
+ "stripe_payment_link": "https://buy.stripe.com/00wbJ2bjmdOY0I622a1gu0S",
  "supplier": "Shopify",
  "supplier_id": "design-womens-drop-shoulder-cardigan-1",
  "visual_verified": true

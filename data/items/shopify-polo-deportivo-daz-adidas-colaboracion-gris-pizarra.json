@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos"
+  "hombre/polos",
+  "mujer/polo"
  ],
  "color": "Gris pizarra",
  "created": "2026-11-19",
