@@ -58,9 +58,6 @@ Envío: 8
 Yo leo las fotos: el nombre, el tipo, si es de hombre o mujer, las tallas y la guía de tallas.
 Si quieres, puedes añadir también: Nombre, Tallas, Tipo, Para (hombre/mujer/unisex), Precio (si quieres fijarlo tú).
 
-3️⃣ TODOS tus productos de Shopify de golpe
-En Shopify: Productos → Exportar → Todos los productos → CSV. Mándame ese archivo aquí y los paso todos a la web (fotos, tallas, guías y precios).
-
 2️⃣ DISEÑO para crear productos solos en Printify
 Manda la imagen como ARCHIVO (📎 → Archivo) con el texto:
 
@@ -68,7 +65,10 @@ DISEÑO
 Nombre: Noir Monogram
 Productos: camiseta, sudadera-capucha, cojin
 
-(«Productos» es opcional.)"""
+(«Productos» es opcional.)
+
+3️⃣ TODOS tus productos de Shopify de golpe
+En Shopify: Productos → Exportar → Todos los productos → CSV. Mándame ese archivo aquí y los paso todos a la web (fotos, tallas, guías y precios)."""
 
 KEYS = {
     "proveedor": "supplier", "nombre": "title", "precio": "price_usd", "coste": "cost_usd", "costo": "cost_usd", "envio": "shipping_usd",

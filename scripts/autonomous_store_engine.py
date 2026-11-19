@@ -515,7 +515,7 @@ def detect_site(cfg):
 
 def ensure_payment_link(p):
     """Enlace normal y, si hay oferta de campaña, un enlace aparte con el precio de oferta."""
-    if not os.environ.get("STRIPE_SECRET_KEY"):
+    if not os.environ.get("STRIPE_SECRET_KEY") or str(p.get("supplier_id", "")).upper().startswith("DEMO-"):
         return
     try:
         cents = int(round(p["price_usd"] * 100))
@@ -619,6 +619,8 @@ def sort_images(p, row_images, row_model_images):
     for u in row_images:
         (models if MODEL_HINT.search(u) else originals).append(u)
     models += row_model_images
+    if p.get("_shop_photos"):  # fotos que elegiste en Shopify para este producto
+        originals = list(dict.fromkeys(p.pop("_shop_photos") + originals))
     p["images_original"] = originals or p.get("images_original", [])
     p["images_model"] = models or p.get("images_model", [])
     ver = verified_photos(p["id"])
@@ -811,6 +813,26 @@ def main():
     # Los 6 productos de ejemplo desaparecen solos en cuanto entra el primer producto real
     real = any(not str(p.get("supplier_id", "")).upper().startswith("DEMO-") for p in plist)
     plist = [p for p in plist if not (real and str(p.get("supplier_id", "")).upper().startswith("DEMO-"))]
+    # Si un producto de Printify/Printful llega dos veces (por la conexión directa y por la mudanza de
+    # Shopify), se queda la versión conectada (pedidos automáticos) con tus fotos y guía de Shopify.
+    api = {}
+    for p in plist:
+        if p.get("variant_map") and p.get("supplier") in ("Printify", "Printful"):
+            api.setdefault((p["supplier"], (p.get("source_title") or "").strip().lower()), p)
+    merged = []
+    for p in plist:
+        key = (p.get("supplier"), (p.get("source_title") or "").strip().lower())
+        twin = api.get(key)
+        if twin and twin is not p and not p.get("variant_map"):
+            for k in ("size_guide", "size_chart", "details_src"):
+                if p.get(k) and not twin.get(k):
+                    twin[k] = p[k]
+            twin["_shop_photos"] = (p.get("_row_images") or []) + (p.get("display_images") or [])
+            if p.get("fixed_price") and not twin.get("locked_price"):  # tu precio de Shopify manda
+                twin["price_usd"], twin["margin_pct"], twin["fixed_price"] = p["price_usd"], p.get("margin_pct"), True
+            continue
+        merged.append(p)
+    plist = merged
     for p in plist:
         sort_images(p, p.pop("_row_images", []), p.pop("_row_model", []))
         p.setdefault("price_usd", 0.0)
