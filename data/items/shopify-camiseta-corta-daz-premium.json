@@ -1,15 +1,22 @@
 {
+ "ai_color": "multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
  "ai_priority": true,
+ "ai_type": "crop top",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A sculptural silhouette engineered to elevate modern warm-weather dressing. Crafted from a refined stretch knit in a supportive double-layer construction, this crop top delivers an opaque, contouring drape with seamless fluid ease. Broad shoulder straps frame an open neckline, balanced by a sharp U-shaped back for a confident line. Rich architectural imagery brings multidimensional depth and artistic tension to this essential statement piece. Made to order with exceptional precision, available for worldwide delivery.",
+ "desc_es": "Una silueta escultural concebida para definir el guardarropa contemporáneo. Confeccionado en un tejido técnico elástico de doble capa, este top corto ofrece una caída impecable sin transparencias. Su diseño presenta tirantes anchos, escote amplio y una espalda pronunciada en U que enfatiza la línea natural del cuerpo con sobria distinción. El estampado arquitectónico de matices vibrantes convierte la prenda en una declaración de arte gráfico de alta precisión. Creado a pedido para asegurar una confección meticulosa, con envíos a nivel internacional.",
+ "details_en": "· 95% polyester, 5% elastane\n· Double-layered opaque construction\n· Wide neckline with thick shoulder straps\n· U-shaped backline\n· Gentle hand wash or delicate machine wash; no ironing required\n· Made to order with worldwide shipping",
+ "details_es": "· 95% poliéster, 5% elastano\n· Confección de doble capa, no transparente\n· Escote amplio y tirantes anchos\n· Espalda en U pronunciada\n· Lavado a mano o a máquina en ciclo suave; no requiere planchado\n· Confección bajo pedido y envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167489-1-hWf6J5fyHF.jpg?v=1729167725",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167489-2-hWf6J5fyHF.jpg?v=1729167730",
@@ -17,8 +24,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167489-4-hWf6J5fyHF.jpg?v=1729167739",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167489-5-hWf6J5fyHF.jpg?v=1729167744",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167489-6-hWf6J5fyHF.jpg?v=1729167748",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167489-7-hWf6J5fyHF.jpg?v=1729167753",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240822153118-J1jtSYoGZY.jpg?v=1729167757"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167489-7-hWf6J5fyHF.jpg?v=1729167753"
  ],
  "draft": false,
  "fam": "camiseta-corta-premium",
@@ -26,14 +32,14 @@
  "id": "shopify-camiseta-corta-daz-premium",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro",
-  "shopify-gorra-daz-de-malla"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
- "name_en": "Noir Tee",
- "name_es": "Camiseta Noir",
+ "name_en": "Architectural Print Crop Top",
+ "name_es": "Top Corto Estampado Arquitectónico",
  "needs_review": false,
  "page": true,
  "price_usd": 22.99,
@@ -41,8 +47,64 @@
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Shoulder",
+   "Bust"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Hombro",
+   "Busto"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Por favor permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "42cm (16.5\")",
+    "39cm (15.3\")",
+    "90cm (35.4\")"
+   ],
+   [
+    "S",
+    "43cm (16.9\")",
+    "40cm (15.7\")",
+    "94cm (37.0\")"
+   ],
+   [
+    "M",
+    "44cm (17.3\")",
+    "41cm (16.1\")",
+    "98cm (38.5\")"
+   ],
+   [
+    "L",
+    "45cm (17.7\")",
+    "42.5cm (16.7\")",
+    "104cm (40.9\")"
+   ],
+   [
+    "XL",
+    "46cm (18.1\")",
+    "44cm (17.3\")",
+    "110cm (43.3\")"
+   ],
+   [
+    "2XL",
+    "47cm (18.5\")",
+    "45.5cm (17.9\")",
+    "116cm (45.6\")"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240822153118-J1jtSYoGZY.jpg?v=1729167757"
+ ],
  "sizes": [
   "S",
   "M",

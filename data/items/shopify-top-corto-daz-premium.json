@@ -1,15 +1,22 @@
 {
+ "ai_color": "gold / blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
  "ai_priority": true,
+ "ai_type": "crop top",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Architectural symmetry meets a sharp modern form. Designed with a clean neckline and substantial shoulder straps, this cropped silhouette is cut from a stretch-infused, double-layered fabric that contours without transparency. Intricate celestial and cathedral graphics envelop the piece in deep gold and vivid blue. Lightweight, breathable, and exceptionally soft to the touch. Wear standalone with high-waisted trousers or layered beneath relaxed tailoring. Tailored on demand with worldwide delivery.",
+ "desc_es": "La simetría arquitectónica define una silueta contemporánea y limpia. Confeccionado con un escote estructurado y tirantes anchos, este top corto presenta un diseño de doble capa en tejido elástico y transpirable que ofrece sujeción sin transparencias. Su estampado gráfico rinde homenaje a motivos de bóveda y catedral en tonos dorados y azul profundo. Una pieza ligera, suave y versátil para estilismos depurados de alto impacto. Llévelo con prendas de tiro alto o bajo sastrería fluida. Confeccionado exclusivamente bajo pedido.",
+ "details_en": "· 95% polyester, 5% elastane\n· Double-layered, non-sheer construction\n· Wide shoulder straps and U-shaped back\n· Gentle hand or machine wash; no ironing required\n· Made to order with worldwide shipping",
+ "details_es": "· 95% poliéster, 5% elastano\n· Confección de doble capa no transparente\n· Tirantes anchos y espalda en U\n· Lavado suave a mano o a máquina; no requiere planchado\n· Confeccionado bajo pedido con envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167775-1-IHJw8S9f0y.jpg?v=1729167877",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167775-2-IHJw8S9f0y.jpg?v=1729167882",
@@ -17,8 +24,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167775-4-IHJw8S9f0y.jpg?v=1729167892",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167775-5-IHJw8S9f0y.jpg?v=1729167896",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167775-6-IHJw8S9f0y.jpg?v=1729167901",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167775-7-IHJw8S9f0y.jpg?v=1729167906",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240822153118-J1jtSYoGZY_71e75cc3-e86d-4c3a-b415-0d31c87123d7.jpg?v=1729167909"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1729167775-7-IHJw8S9f0y.jpg?v=1729167906"
  ],
  "draft": false,
  "fam": "top-corto-premium",
@@ -26,14 +32,14 @@
  "id": "shopify-top-corto-daz-premium",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro",
-  "shopify-gorra-daz-de-malla"
+  "shopify-braguita-daz-de-mujer",
+  "shopify-braguita-daz-de-mujer-3",
+  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
+  "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer"
  ],
  "material": "",
- "name_en": "Monogram Tee",
- "name_es": "Camiseta Monogram",
+ "name_en": "Cathedral Dome Cropped Tank",
+ "name_es": "Top Corto Cathedral Dome",
  "needs_review": false,
  "page": true,
  "price_usd": 22.99,
@@ -41,8 +47,64 @@
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Shoulder",
+   "Bust"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Hombro",
+   "Busto"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Por favor permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "42cm(16.5\")",
+    "39cm(15.3\")",
+    "90cm(35.4\")"
+   ],
+   [
+    "S",
+    "43cm(16.9\")",
+    "40cm(15.7\")",
+    "94cm(37.0\")"
+   ],
+   [
+    "M",
+    "44cm(17.3\")",
+    "41cm(16.1\")",
+    "98cm(38.5\")"
+   ],
+   [
+    "L",
+    "45cm(17.7\")",
+    "42.5cm(16.7\")",
+    "104cm(40.9\")"
+   ],
+   [
+    "XL",
+    "46cm(18.1\")",
+    "44cm(17.3\")",
+    "110cm(43.3\")"
+   ],
+   [
+    "2XL",
+    "47cm(18.5\")",
+    "45.5cm(17.9\")",
+    "116cm(45.6\")"
+   ]
+  ],
+  "unit": "cm (in)"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240822153118-J1jtSYoGZY_71e75cc3-e86d-4c3a-b415-0d31c87123d7.jpg?v=1729167909"
+ ],
  "sizes": [
   "S",
   "M",
