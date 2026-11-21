@@ -1,5 +1,11 @@
 {
+ "ai_color": "green multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "scuba knit, TPR rubber",
  "ai_priority": true,
+ "ai_type": "water shoes",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +14,10 @@
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Designed for seamless transition between shoreline and sea. These slip-on water shoes feature an intricate graphic motif rendered across flexible, quick-drying scuba knit. The lightweight construction contours naturally to the foot for effortless wear. Underneath, a durable TPR rubber outsole delivers breathable traction and essential protection against sharp stones and hot ground. A precise fusion of technical ease, aquatic performance, and confident visual distinction.",
+ "desc_es": "Concebidos para una transición impecable entre la orilla y el agua. Estos escarpines acuáticos sin cordones presentan un complejo motivo gráfico sobre un tejido de punto scuba flexible y de secado rápido. Su silueta ligera se amolda con precisión anatómica para un confort continuo. En la base, una suela de goma TPR antideslizante y transpirable proporciona protección contra rocas y superficies cálidas. Una propuesta técnica que aúna funcionalidad depurada y carácter visual.",
+ "details_en": "· Scuba knit fabric upper\n· Breathable, non-slip TPR rubber outsole\n· Thickened protective insole\n· Slip-on construction with heel pull tab\n· Hand wash cold, air dry\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Parte superior de tejido de punto scuba\n· Suela de goma TPR transpirable y antideslizante\n· Plantilla reforzada de absorción protectora\n· Silueta sin cordones con tirador posterior\n· Lavar a mano con agua fría y secar al aire libre\n· Confeccionado bajo pedido\n· Envío a nivel mundial",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521631-1-Fe83gXhPjc.jpg?v=1731521803",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521631-2-Fe83gXhPjc.jpg?v=1731521808",
@@ -20,10 +28,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521631-7-Fe83gXhPjc.jpg?v=1731521831",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521631-8-Fe83gXhPjc.jpg?v=1731521835",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521631-9-Fe83gXhPjc.jpg?v=1731521840",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521631-10-Fe83gXhPjc.jpg?v=1731521845",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521631-11-Fe83gXhPjc.jpg?v=1731521849",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240703092027-XTawGOshos_b54e0638-9135-4db8-9374-0e174dd24dee.jpg?v=1731521852",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240705101959-2JyNhthNgr_6d0bcf0b-0214-438c-b11a-ec0bf80a8033.jpg?v=1731521855"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521631-10-Fe83gXhPjc.jpg?v=1731521845"
  ],
  "draft": false,
  "fam": "zapatos-acuaticos-premium",
@@ -37,8 +42,8 @@
   "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Hudson Sandals",
- "name_es": "Sandalias Hudson",
+ "name_en": "Tribal Motif Water Shoes",
+ "name_es": "Escarpines Acuáticos Estampado Tribal",
  "needs_review": false,
  "page": true,
  "price_usd": 23.99,

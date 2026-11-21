@@ -1,5 +1,11 @@
 {
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Scuba knit upper, TPR rubber sole",
  "ai_priority": true,
+ "ai_type": "shoes",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +14,10 @@
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Engineered for coastal exploration and effortless transition between land and water. These water shoes feature a flexible scuba knit upper enriched with a striking graphic motif in vibrant gradient tones. The streamlined slip-on construction contours precisely to the foot, delivering a soft lining and an ultra-lightweight, packable design. Underfoot, a breathable, non-slip TPR sole paired with a thickened insole shields against hot sand, rough gravel, and sharp coastal surfaces. Pure modern functionality crafted for refined leisure. Made to order with worldwide shipping.",
+ "desc_es": "Diseñadas para la libertad costera y un movimiento fluido. Estas zapatillas acuáticas combinan una parte superior de punto scuba elástico con un cautivador estampado gráfico en degradados vibrantes. Su silueta slip-on se ajusta con total precisión al pie, ofreciendo un forro suave y una ligereza plegable pensada para viajar con sobria practicidad. La suela de TPR antideslizante y transpirable, complementada con una plantilla de amortiguación gruesa, protege frente a rocas afiladas y arena caliente. Pieza confeccionada por encargo con envío a todo el mundo.",
+ "details_en": "· Scuba knit upper\n· Breathable, non-slip TPR rubber outsole\n· Thickened protective insole for rough terrain\n· Foldable, lightweight slip-on design with heel pull tab\n· Soft quick-drying lining\n· Hand wash cold, air dry\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Parte superior en tejido de punto scuba\n· Suela exterior de goma TPR antideslizante y transpirable\n· Plantilla reforzada de mayor grosor para protección en terrenos irregulares\n· Silueta slip-on flexible y plegable con tirador en el talón\n· Forro interior suave de secado rápido\n· Lavar a mano con agua fría y secar al aire\n· Confección por encargo\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731522044-1-88f0IAov1V.jpg?v=1731522116",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731522044-2-88f0IAov1V.jpg?v=1731522121",
@@ -20,10 +28,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731522044-7-88f0IAov1V.jpg?v=1731522147",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731522044-8-88f0IAov1V.jpg?v=1731522151",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731522044-9-88f0IAov1V.jpg?v=1731522156",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731522044-10-88f0IAov1V.jpg?v=1731522161",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731522044-11-88f0IAov1V.jpg?v=1731522166",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240703092027-XTawGOshos_de7a5d94-27b1-4005-a3f5-14d678f497cb.jpg?v=1731522169",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240705101959-2JyNhthNgr_8854a63e-76cc-4927-b9cf-9f45045729bd.jpg?v=1731522172"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731522044-10-88f0IAov1V.jpg?v=1731522161"
  ],
  "draft": false,
  "fam": "zapatos-acuaticos-premium",
@@ -37,8 +42,8 @@
   "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Atelier Sandals",
- "name_es": "Sandalias Atelier",
+ "name_en": "Graphic Scuba Water Shoes",
+ "name_es": "Zapatillas Acuáticas Scuba Graphic Pattern",
  "needs_review": false,
  "page": true,
  "price_usd": 23.99,

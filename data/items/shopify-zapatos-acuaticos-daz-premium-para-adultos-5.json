@@ -1,5 +1,11 @@
 {
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "scuba knit, TPR rubber",
  "ai_priority": true,
+ "ai_type": "water shoes",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +14,10 @@
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Engineered for an effortless transition between shore and water. These water shoes pair an ergonomic silhouette with a flexible, quick-drying scuba knit upper. The non-slip TPR rubber outsole ensures steadfast traction and reliable defense against heated sand or sharp terrain. Designed with a soft interior lining and a supple, packable profile, they mold seamlessly to the foot. Minimalist luxury meets practical coastal performance, delivering continuous comfort across aquatic and leisure pursuits.",
+ "desc_es": "Diseñados para la transición fluida entre la costa y el agua. Estos zapatos acuáticos combinan una silueta ergonómica con una confección técnica en tejido de punto Scuba, flexible y de secado rápido. La suela de goma TPR antideslizante ofrece tracción precisa y una barrera protectora frente a superficies rugosas o cálidas. Su estructura ligera y plegable se adapta a la anatomía del pie con absoluta naturalidad, garantizando confort continuo tanto en actividades acuáticas como en momentos de descanso.",
+ "details_en": "· Breathable, quick-drying scuba knit upper\n· Non-slip TPR rubber outsole with textured grip\n· Thickened insole for protection against rough terrain\n· Slip-on construction with rear pull tab\n· Ultra-lightweight and foldable design\n· Care: Hand wash cold, air dry\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Parte superior en tejido de punto Scuba transpirable y de secado rápido\n· Suela antideslizante de goma TPR con tracción hexagonal\n· Plantilla reforzada para mayor protección contra superficies rugosas\n· Diseño sin cordones con tirador posterior para calzado fácil\n· Estructura flexible y plegable\n· Cuidados: Lavar a mano con agua fría y secar al aire libre\n· Fabricación bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521493-1-EpnPvwYPP0.jpg?v=1731521563",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521493-2-EpnPvwYPP0.jpg?v=1731521568",
@@ -20,10 +28,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521493-7-EpnPvwYPP0.jpg?v=1731521592",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521493-8-EpnPvwYPP0.jpg?v=1731521604",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521493-9-EpnPvwYPP0.jpg?v=1731521608",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521493-10-EpnPvwYPP0.jpg?v=1731521613",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521493-11-EpnPvwYPP0.jpg?v=1731521617",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240703092027-XTawGOshos_ad084c6a-68d7-42b1-b08c-84c95be9d370.jpg?v=1731521620",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240705101959-2JyNhthNgr_fd958861-8cdf-4770-8926-ec96576083f1.jpg?v=1731521624"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731521493-10-EpnPvwYPP0.jpg?v=1731521613"
  ],
  "draft": false,
  "fam": "zapatos-acuaticos-premium",
@@ -37,8 +42,8 @@
   "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Noir Sandals",
- "name_es": "Sandalias Noir",
+ "name_en": "Seashell Print Water Shoes",
+ "name_es": "Zapatos Acuáticos Seashell Print",
  "needs_review": false,
  "page": true,
  "price_usd": 23.99,

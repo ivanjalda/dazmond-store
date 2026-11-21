@@ -1,5 +1,11 @@
 {
+ "ai_color": "Black, Yellow, Light Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
  "ai_priority": true,
+ "ai_type": "visor",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +14,10 @@
  ],
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Engineered for effortless composure in open air, this visor merges athletic utility with understated refinement. Crafted from soft, premium cotton, it features a contoured brim designed to shield against harsh rays, finished with signature front embroidery. An integrated cotton sweatband ensures lasting breathability, complemented by an adjustable rear strap for an exact fit. A tailored essential for court, course, and sunlit days.",
+ "desc_es": "Diseñada para un rendimiento impecable bajo el sol, esta visera redefine la elegancia funcional en la pista y al aire libre. Su estructura está confeccionada en algodón puro de textura suave, combinada con una visera de protección solar y bordado distintivo frontal. La banda interior absorbe el sudor con delicadeza, mientras que el ajuste posterior asegura una sujeción precisa y cómoda en todo momento. Sofisticación deportiva para cualquier temporada.",
+ "details_en": "· Soft cotton construction\n· Interior cotton sweatband\n· Adjustable hook-and-loop closure\n· Dimensions: 15 cm brim; 55–60 cm circumference\n· Hand wash cold recommended; do not bleach; air dry\n· Made to order with worldwide shipping",
+ "details_es": "· Confección en algodón suave\n· Banda interior de sudor en algodón\n· Cierre ajustable de velcro\n· Medidas: visera de 15 cm; circunferencia de 55 a 60 cm\n· Lavar a mano con agua fría; no usar blanqueador; secar al aire\n· Confección bajo pedido con envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-2-NObIjHOka1.jpg?v=1728389368",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-6-NObIjHOka1.jpg?v=1728389280",
@@ -17,14 +25,9 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-18-NObIjHOka1.jpg?v=1728389287",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-24-NObIjHOka1.jpg?v=1728389291",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-30-NObIjHOka1.jpg?v=1728389295",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-5-NObIjHOka1.jpg?v=1728389302",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-11-NObIjHOka1.jpg?v=1728389305",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-17-NObIjHOka1.jpg?v=1728389309",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-23-NObIjHOka1.jpg?v=1728389313",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-29-NObIjHOka1.jpg?v=1728389316",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-35-NObIjHOka1.jpg?v=1728389320",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-3-NObIjHOka1.jpg?v=1728389324"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-17-NObIjHOka1.jpg?v=1728389309"
  ],
  "draft": false,
  "fam": "gorra-premium",
@@ -38,8 +41,8 @@
   "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Imperial Hat · Black",
- "name_es": "Gorro Imperial · Negro",
+ "name_en": "Embroidered Cotton Sports Visor",
+ "name_es": "Visera Deportiva en Algodón Bordado",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
@@ -47,8 +50,28 @@
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Brim"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Visera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "55cm(22.0\")-60cm(24\")",
+    "15cm(5.9\")"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298"
+ ],
  "sizes": [
   "Black"
  ],
