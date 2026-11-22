@@ -32862,91 +32862,6 @@
       "img": "https://images.printify.com/mockup/669e806425958c3555000e36/80176/47003/bolsa-daz-luxury-de-almuerzo-de-poliester.jpg?camera_label=front"
     },
     {
-      "id": "printify-668d262a442fbb17cc0643ca",
-      "name_es": "Falda Monogram",
-      "name_en": "Monogram Skirt",
-      "price_usd": 55.99,
-      "badge": "new",
-      "categories": [
-        "mujer/falda"
-      ],
-      "available": true,
-      "rank": 1902,
-      "created": "2026-11-19",
-      "page": true,
-      "supplier_id": "668d262a442fbb17cc0643ca",
-      "fam": "falda-premium-art",
-      "img": "https://images.printify.com/mockup/668d262a442fbb17cc0643ca/43199/699/falda-daz-premium-art-para-mujer.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-668d28a29b6281d799024d4d",
-      "name_es": "Falda Hudson",
-      "name_en": "Hudson Skirt",
-      "price_usd": 55.99,
-      "badge": "new",
-      "categories": [
-        "mujer/falda"
-      ],
-      "available": true,
-      "rank": 1903,
-      "created": "2026-11-19",
-      "page": true,
-      "supplier_id": "668d28a29b6281d799024d4d",
-      "fam": "falda-art-mujer",
-      "img": "https://images.printify.com/mockup/668d28a29b6281d799024d4d/43199/699/falda-daz-art-para-mujer.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-668d48f046ad9d669109904a",
-      "name_es": "Falda Madison",
-      "name_en": "Madison Skirt",
-      "price_usd": 55.99,
-      "badge": "new",
-      "categories": [
-        "mujer/falda"
-      ],
-      "available": true,
-      "rank": 1904,
-      "created": "2026-11-19",
-      "page": true,
-      "supplier_id": "668d48f046ad9d669109904a",
-      "fam": "falda-art-mujer",
-      "img": "https://images.printify.com/mockup/668d48f046ad9d669109904a/43199/699/falda-daz-art-para-mujer.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-668d4a9d4aaa7843530eb807",
-      "name_es": "Falda Soho",
-      "name_en": "Soho Skirt",
-      "price_usd": 55.99,
-      "badge": "new",
-      "categories": [
-        "mujer/falda"
-      ],
-      "available": true,
-      "rank": 1905,
-      "created": "2026-11-19",
-      "page": true,
-      "supplier_id": "668d4a9d4aaa7843530eb807",
-      "fam": "falda-art-mujer",
-      "img": "https://images.printify.com/mockup/668d4a9d4aaa7843530eb807/43199/699/falda-daz-art-para-mujer.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-668d517c9fb7b7acb409f0de",
-      "name_es": "Falda Hudson",
-      "name_en": "Hudson Skirt",
-      "price_usd": 55.99,
-      "badge": "new",
-      "categories": [
-        "mujer/falda"
-      ],
-      "available": true,
-      "rank": 1906,
-      "created": "2026-11-19",
-      "page": true,
-      "supplier_id": "668d517c9fb7b7acb409f0de",
-      "fam": "falda-luxury-art",
-      "img": "https://images.printify.com/mockup/668d517c9fb7b7acb409f0de/43199/699/falda-daz-luxury-art-para-mujer.jpg?camera_label=front"
-    },
-    {
       "id": "printify-66b0eabae9b54b73a608799f-black",
       "name_es": "Camiseta Monogram · Negro",
       "name_en": "Monogram Tee · Black",
@@ -32956,7 +32871,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 1907,
+      "rank": 1902,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "66b0eabae9b54b73a608799f-black",
@@ -32973,7 +32888,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 1908,
+      "rank": 1903,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "66b0eabae9b54b73a608799f-smoke",
@@ -32990,7 +32905,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 1909,
+      "rank": 1904,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "66b0eabae9b54b73a608799f-white",
@@ -33007,7 +32922,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 1910,
+      "rank": 1905,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "66a38a65986816ca980b0a24-grass",
@@ -33024,12 +32939,97 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 1911,
+      "rank": 1906,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "66a38a65986816ca980b0a24-island-green",
       "fam": "camiseta-bolsillo-tenido",
       "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103748/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-668d262a442fbb17cc0643ca",
+      "name_es": "Falda Monogram",
+      "name_en": "Monogram Skirt",
+      "price_usd": 59.99,
+      "badge": "new",
+      "categories": [
+        "mujer/falda"
+      ],
+      "available": true,
+      "rank": 1907,
+      "created": "2026-11-19",
+      "page": true,
+      "supplier_id": "668d262a442fbb17cc0643ca",
+      "fam": "falda-premium-art",
+      "img": "https://images.printify.com/mockup/668d262a442fbb17cc0643ca/43199/699/falda-daz-premium-art-para-mujer.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-668d28a29b6281d799024d4d",
+      "name_es": "Falda Hudson",
+      "name_en": "Hudson Skirt",
+      "price_usd": 59.99,
+      "badge": "new",
+      "categories": [
+        "mujer/falda"
+      ],
+      "available": true,
+      "rank": 1908,
+      "created": "2026-11-19",
+      "page": true,
+      "supplier_id": "668d28a29b6281d799024d4d",
+      "fam": "falda-art-mujer",
+      "img": "https://images.printify.com/mockup/668d28a29b6281d799024d4d/43199/699/falda-daz-art-para-mujer.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-668d48f046ad9d669109904a",
+      "name_es": "Falda Madison",
+      "name_en": "Madison Skirt",
+      "price_usd": 59.99,
+      "badge": "new",
+      "categories": [
+        "mujer/falda"
+      ],
+      "available": true,
+      "rank": 1909,
+      "created": "2026-11-19",
+      "page": true,
+      "supplier_id": "668d48f046ad9d669109904a",
+      "fam": "falda-art-mujer",
+      "img": "https://images.printify.com/mockup/668d48f046ad9d669109904a/43199/699/falda-daz-art-para-mujer.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-668d4a9d4aaa7843530eb807",
+      "name_es": "Falda Soho",
+      "name_en": "Soho Skirt",
+      "price_usd": 59.99,
+      "badge": "new",
+      "categories": [
+        "mujer/falda"
+      ],
+      "available": true,
+      "rank": 1910,
+      "created": "2026-11-19",
+      "page": true,
+      "supplier_id": "668d4a9d4aaa7843530eb807",
+      "fam": "falda-art-mujer",
+      "img": "https://images.printify.com/mockup/668d4a9d4aaa7843530eb807/43199/699/falda-daz-art-para-mujer.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-668d517c9fb7b7acb409f0de",
+      "name_es": "Falda Hudson",
+      "name_en": "Hudson Skirt",
+      "price_usd": 59.99,
+      "badge": "new",
+      "categories": [
+        "mujer/falda"
+      ],
+      "available": true,
+      "rank": 1911,
+      "created": "2026-11-19",
+      "page": true,
+      "supplier_id": "668d517c9fb7b7acb409f0de",
+      "fam": "falda-luxury-art",
+      "img": "https://images.printify.com/mockup/668d517c9fb7b7acb409f0de/43199/699/falda-daz-luxury-art-para-mujer.jpg?camera_label=front"
     },
     {
       "id": "shopify-botas-daz-luxury-de-piel-sintetica",
