@@ -3,7 +3,8 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hogar"
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
  ],
  "cg": "t-zapatilla-daz-luxury",
  "color": "",
@@ -27,18 +28,19 @@
  "hidden": false,
  "id": "shopify-zapatilla-daz-luxury",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Soho House Slippers",
- "name_es": "Zapatillas de Casa Soho",
+ "name_en": "Soho Sneakers",
+ "name_es": "Zapatillas Soho",
  "needs_review": false,
  "page": true,
  "price_usd": 29.9,
- "rank": 1956,
+ "rank": 1888,
+ "shop_category": "Ropa y accesorios > Calzado > Pantuflas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

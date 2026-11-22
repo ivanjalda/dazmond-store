@@ -3,7 +3,8 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/mallas"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "t-gorra-de-malla-daz-luxury",
  "color": "",
@@ -27,20 +28,21 @@
  "id": "shopify-gorra-de-malla-daz-luxury",
  "img_checked": "2026-11-21",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
   "printful-365090873",
-  "printful-390187180"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Tights",
- "name_es": "Mallas Avenue",
+ "name_en": "Avenue Hat",
+ "name_es": "Gorro Avenue",
  "needs_review": false,
  "page": true,
- "price_usd": 32.99,
- "rank": 1497,
+ "price_usd": 29.99,
+ "rank": 1316,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

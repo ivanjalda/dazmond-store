@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "The image presents a flat, composited product render typical of basic merchandise platforms, lacking the sophisticated lighting and atmospheric depth required f",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-383200891",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette that redefines contemporary design codes. This piece presents an oversized structure with a distinctive high neck that delivers presence and character. Crafted with a minimalist aesthetic, it offers an impeccable drape and a clean touch. Each garment is meticulously crafted upon order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine los códigos del diseño contemporáneo. Esta pieza presenta una estructura oversize con un distintivo cuello alto que aporta presencia y carácter. Confeccionada con una estética minimalista, ofrece una caída impecable y un tacto depurado. Cada prenda se elabora meticulosamente bajo demanda para garantizar una exclusividad absoluta. Disponible para envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/1ac/1ac849b55bcaddb62e0ea5a1eb7a2221_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-383200891-white",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Riviera Tee · White",
- "name_es": "Camiseta Riviera · Blanco",
+ "name_en": "DAZ High Neck Oversized T-Shirt · White",
+ "name_es": "Camiseta Oversize Cuello Alto DAZ · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
- "rank": 648,
+ "rank": 632,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

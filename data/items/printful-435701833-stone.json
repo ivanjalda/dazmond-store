@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Stone",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot against a neutral background, though lacking editorial atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-435701833",
  "color": "Stone",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Sober silhouette with deliberately generous proportions. Structured high neck defining an imposing presence. The stone tone brings understated and versatile elegance. Made-to-order construction to ensure absolute exclusivity. Worldwide shipping available for discerning clients.",
+ "desc_es": "Silueta sobria con proporciones deliberadamente amplias. Cuello alto estructurado que define una presencia imponente. El tono piedra aporta una elegancia sobria y versátil. Confección bajo demanda para garantizar una exclusividad absoluta. Envío mundial disponible para clientes exigentes.",
+ "details_en": "· Oversized fit\n· High neck\n· Made-to-order",
+ "details_es": "· Corte oversized\n· Cuello alto\n· Confección bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/6b8/6b845cc20205859cacbd66c1f87d6823_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-435701833-stone",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Noir Tee",
- "name_es": "Camiseta Noir",
+ "name_en": "Blaster 2.0 Organic Oversized High-Neck Tee · Stone",
+ "name_es": "Camiseta Blaster 2.0 Oversize de Cuello Alto · Stone",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
- "rank": 650,
+ "rank": 634,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -7,8 +7,8 @@
  "cg": "printful-346242058",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+ "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
  "display_images": [
   "https://files.cdn.printful.com/files/047/047c3f493e41d2b194d44070d0a23f38_preview.png"
  ],
@@ -18,20 +18,21 @@
  "id": "printful-346242058-black",
  "img_checked": "2026-11-22",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Monogram Sandals · Black",
- "name_es": "Sandalias Monogram · Negro",
+ "name_en": "Soho Sandals · Black",
+ "name_es": "Sandalias Soho · Negro",
  "needs_review": false,
  "page": true,
- "price_usd": 54.99,
- "rank": 45,
+ "price_usd": 53.99,
+ "rank": 502,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 10.19,
+ "shop_category": "Ropa y accesorios > Calzado > Sandalias",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -58,7 +59,7 @@
   "2987490_15244"
  ],
  "source_title": "DAZMOND® \"América Black\" Luxury Slides",
- "stripe_payment_link": "https://buy.stripe.com/00w14objm12cfD0ayG1gC3m",
+ "stripe_payment_link": "https://buy.stripe.com/eVq9AU7369yI2Qe4ai1gF2Y",
  "supplier": "Printful",
  "supplier_id": "346242058-black",
  "visual_verified": true

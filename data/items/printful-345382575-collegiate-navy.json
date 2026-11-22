@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "cg": "printful-345382575",
  "color": "Collegiate Navy",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://files.cdn.printful.com/files/881/8814257a105a8ed34e2239d15802d324_preview.png"
  ],
@@ -17,20 +19,21 @@
  "hidden": false,
  "id": "printful-345382575-collegiate-navy",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Avenue Piece · Navy",
- "name_es": "Pieza Avenue · Azul Marino",
- "needs_review": true,
+ "name_en": "Soho Sweatshirt · Collegiate Navy",
+ "name_es": "Sudadera Soho · Collegiate Navy",
+ "needs_review": false,
  "page": true,
  "price_usd": 100.99,
- "rank": 557,
+ "rank": 539,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chaquetas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

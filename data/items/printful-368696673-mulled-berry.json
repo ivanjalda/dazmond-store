@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Mulled Berry",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, standard e-commerce presentation without elevated luxury staging.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368696673",
  "color": "Mulled Berry",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A bold expression of contemporary design. This tie-dye piece features a deep, enveloping tone, designed to define the silhouette with presence. Crafted with precision on demand to ensure absolute exclusivity. Its refined aesthetic balances comfort with a resolute attitude. Available with worldwide shipping for discerning clients.",
+ "desc_es": "Una expresión audaz de diseño contemporáneo. Esta pieza tie-dye presenta un tono profundo y envolvente, pensado para definir la silueta con presencia. Confeccionada con precisión bajo demanda para garantizar una exclusividad absoluta. Su estética refinada equilibra la comodidad con una actitud decidida. Disponible con envío internacional para clientes exigentes.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/9c8/9c810753135ed5e9960cb93061813508_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-368696673-mulled-berry",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Atelier Sweatshirt",
- "name_es": "Sudadera Atelier",
+ "name_en": "Black Tie-Dye Dazmond Hoodie · Mulled Berry",
+ "name_es": "Sudadera Tie-Dye Negra Dazmond · Mulled Berry",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 97.99,
- "rank": 634,
+ "rank": 618,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

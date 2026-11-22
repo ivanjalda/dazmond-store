@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/gorro-bufanda"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "t-sombrero-de-pescador-daz-luxury",
  "color": "",
@@ -25,10 +27,10 @@
  "hidden": false,
  "id": "shopify-sombrero-de-pescador-daz-luxury",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "Avenue Hat",
@@ -36,7 +38,8 @@
  "needs_review": false,
  "page": true,
  "price_usd": 34.9,
- "rank": 1947,
+ "rank": 1879,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

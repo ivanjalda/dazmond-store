@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:11:44Z",
+  "updated": "2026-11-22T22:41:36Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -21529,7 +21529,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-6750352c74c95aa2af003f06-white-sole": {
@@ -21538,7 +21538,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-66d98c33d084380d6503ad80": {
@@ -21565,7 +21565,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-66d9866ac830a5938703f549": {
@@ -21592,7 +21592,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-66cf45b7aed3358c8e0c813d": {
@@ -21619,7 +21619,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-66ce0992d02dceb72c028348": {
@@ -21628,7 +21628,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-66c77bb7ccae1a6d1d0c4c37": {
@@ -21646,7 +21646,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-66c7788478bf9b611c0137c9-white": {
@@ -21655,7 +21655,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-66c776845a6e6cd10602ba6b-black": {
@@ -21682,7 +21682,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-66c77521952a7b43690bcfdd-white": {
@@ -21691,7 +21691,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-66b0eabae9b54b73a608799f-white": {
@@ -21952,7 +21952,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-669f89290086155073058730": {
@@ -21988,7 +21988,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-669e806425958c3555000e36": {
@@ -23297,9 +23297,9 @@
       "revenue_30d": 0.0
     },
     "printful-382149130": {
-      "views": 0,
+      "views": 1,
       "clicks": 0,
-      "views_today": 0,
+      "views_today": 1,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -24404,9 +24404,9 @@
       "revenue_30d": 0.0
     },
     "printful-365090873": {
-      "views": 0,
+      "views": 1,
       "clicks": 0,
-      "views_today": 0,
+      "views_today": 1,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -25007,18 +25007,18 @@
       "revenue_30d": 0.0
     },
     "printful-357300009-black": {
-      "views": 0,
+      "views": 2,
       "clicks": 0,
-      "views_today": 0,
+      "views_today": 2,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printful-357300009-white": {
-      "views": 0,
+      "views": 2,
       "clicks": 0,
-      "views_today": 0,
+      "views_today": 2,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -27896,9 +27896,9 @@
       "revenue_30d": 0.0
     },
     "printful-350459260": {
-      "views": 0,
+      "views": 1,
       "clicks": 0,
-      "views_today": 0,
+      "views_today": 1,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,

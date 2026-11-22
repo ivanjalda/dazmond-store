@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/pantalones",
+  "mujer/pantalones"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "track pants",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio photography with professional lighting and minimalist staging, aligning with luxury fashion standards.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-351737181",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold expression of modern tailoring and contemporary design. This impeccably cut piece features a dynamic abstract print that defies the conventional. Crafted with meticulous attention to detail, it delivers a versatile silhouette balancing refined comfort with an avant-garde aesthetic. Designed for those who demand distinction in their everyday wardrobe. Available exclusively made to order with worldwide shipping.",
+ "desc_es": "Una expresión audaz de la sastrería moderna y el diseño contemporáneo. Este diseño de corte impecable presenta un estampado abstracto dinámico que desafía lo convencional. Elaborado con atención al detalle, ofrece una silueta versátil que equilibra el confort refinado con una estética vanguardista. Diseñado para quienes exigen distinción en su vestuario diario. Disponible exclusivamente bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/171/17174378444d77fd3d35a744b4de0cf4_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-351737181",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Noir Trousers · Black",
- "name_es": "Pantalón Noir · Negro",
+ "name_en": "Cyan Splash Track Pants",
+ "name_es": "Pantalón de Chándal Cyan Splash",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 55.99,
- "rank": 483,
+ "rank": 440,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 9.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

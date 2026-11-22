@@ -3,13 +3,14 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos"
+  "hombre/polos",
+  "mujer/polo"
  ],
  "cg": "t-polo-de-algodon-daz-bordado",
  "color": "Navy",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+ "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1744624834-5-HRteJHrha8.jpg?v=1744625184",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1744624834-5-HRteJHrha8.jpg?v=1744625184",
@@ -31,20 +32,21 @@
  "hidden": false,
  "id": "shopify-polo-de-algodon-daz-bordado-navy",
  "look": [
-  "printful-361906822",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-361906822",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Atelier Polo · Navy",
- "name_es": "Polo Atelier · Azul Marino",
+ "name_en": "Manhattan Polo · Navy",
+ "name_es": "Polo Manhattan · Azul Marino",
  "needs_review": false,
  "page": true,
- "price_usd": 40.99,
- "rank": 1685,
+ "price_usd": 36.99,
+ "rank": 1738,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Polos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

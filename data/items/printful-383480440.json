@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-swim-trunks-white-front-68397cf083cef.jpg?v=1748598016",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-swim-trunks-white-back-68397cf0845fb.jpg?v=1748598016"
+ ],
  "ai_cats": [
   "hombre/banador"
  ],
@@ -26,23 +30,25 @@
  ],
  "draft": false,
  "fam": "banador-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-383480440",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
- "material": "",
+ "material": "recycled material",
  "name_en": "DAZ Luxury Recycled Swim Trunks",
  "name_es": "Bañador Reciclado DAZ Luxury",
  "needs_review": false,
  "page": true,
  "price_usd": 75.99,
- "rank": 416,
+ "rank": 373,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Trajes de baño de una pieza",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

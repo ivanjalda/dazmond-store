@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic Cotton",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce model shot, lacking high-end luxury campaign atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-351492946",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette redefining the codes of everyday luxury. Crafted from selected organic cotton for a smooth texture and impeccable drape. Its essential deep black design is accented with a distinctive chest detail. Created through an exclusive made-to-order process and available with worldwide shipping. A versatile garment that brings effortless sophistication to any contemporary wardrobe.",
+ "desc_es": "Una silueta depurada que redefine los códigos del lujo cotidiano. Confeccionada en algodón orgánico seleccionado para ofrecer una textura suave y una caída impecable. Su diseño esencial en negro profundo se acentúa con el detalle distintivo en el pecho. Creada mediante un proceso exclusivo bajo pedido y disponible con envío internacional. Una prenda versátil que aporta sofisticación sin esfuerzo a cualquier guardarropa contemporáneo.",
+ "details_en": "· 100% organic cotton\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· 100% algodón orgánico\n· Pieza confeccionada bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/422/42213cbcf5a5598e4d9a4d8fcf50065c_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-351492946",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Tee · Black",
- "name_es": "Camiseta Avenue · Negro",
+ "name_en": "Black Gold Essential T-Shirt",
+ "name_es": "Camiseta Black Gold Essential",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
- "rank": 617,
+ "rank": 601,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

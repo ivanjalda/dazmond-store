@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Navy Blazer",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton Heritage",
  "ai_priority": true,
+ "ai_type": "sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Flat supplier mockup with digital print overlay lacks true luxury studio depth.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-345660622",
  "color": "Navy Blazer",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined expression of relaxed tailoring. This navy blue sweatshirt features a clean silhouette, designed to offer effortless composure. Crafted on demand to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una expresión refinada de la sastrería relajada. Esta sudadera en tono azul marino presenta una silueta depurada, diseñada para ofrecer una presencia impecable sin esfuerzo. Confeccionada bajo pedido para garantizar exclusividad. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confeccionado bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e30/e3022a2d388eabea1dc498d86780d776_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-345660622-navy-blazer",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Manhattan Blazer · Navy",
- "name_es": "Blazer Manhattan · Azul Marino",
+ "name_en": "Core Elite Heritage Sweatshirt · Navy Blazer",
+ "name_es": "Sudadera Core Elite Heritage · Navy Blazer",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
- "rank": 430,
+ "rank": 387,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

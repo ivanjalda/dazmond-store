@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "Scarlet",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Clean model shot with decent lighting, though the background environment feels slightly industrial for a luxury house.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/abrigo-chaqueta-sueter"
  ],
  "cg": "printful-345578536",
  "color": "Scarlet",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold silhouette designed for movement and contemporary protection. This packable model blends technical functionality with a refined, direct aesthetic. The scarlet red hue provides a striking and sophisticated visual accent. Each piece is made to order with meticulous attention to detail. Available with worldwide shipping to ensure a global and exclusive presence.",
+ "desc_es": "Una silueta audaz diseñada para el movimiento y la protección contemporánea. Este modelo empacable combina funcionalidad técnica con una estética depurada y directa. El tono rojo escarlata aporta un acento visual rotundo y sofisticado. Cada pieza se confecciona bajo demanda con atención meticulosa a los detalles. Disponible con envío internacional para asegurar una presencia global y exclusiva.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/505/50552985e4a9da45f32d3e899bf50ab1_preview.png"
  ],
@@ -21,18 +33,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Imperial Jacket",
- "name_es": "Chaqueta Imperial",
+ "name_en": "Vanguard Packable Jacket · Scarlet",
+ "name_es": "Chaqueta Empacable Vanguard · Scarlet",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 69.99,
- "rank": 656,
+ "rank": 640,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos > Chaquetas impermeables",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

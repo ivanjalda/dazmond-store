@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Navy Blazer",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton Heritage M2480",
  "ai_priority": true,
+ "ai_type": "sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a neutral background, but lacks the high-end lighting and atmospheric depth of a luxury campaign.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-368696860",
  "color": "Navy Blazer",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An impeccable silhouette defined by its deep tone and understated presence. This garment encapsulates contemporary elegance with an essential and refined design. Tailored to offer a precise drape and absolute comfort for daily wear. Each piece is crafted on demand to ensure ultimate exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta impecable definida por su tono profundo y su presencia sobria. Esta prenda encapsula la elegancia contemporánea con un diseño esencial y refinado. Confeccionada para ofrecer una caída perfecta y una comodidad absoluta en el uso diario. Cada pieza se elabora bajo demanda para garantizar la máxima exclusividad. Disponible con envío internacional.",
+ "details_en": "· Cotton Heritage M2480 cotton\n· Unisex design\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Algodón Cotton Heritage M2480\n· Diseño unisex\n· Elaborado bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/aed/aed44fe5ec2c5ce311f770ba15f70c9d_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-368696860-navy-blazer",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Imperial Blazer · Navy",
- "name_es": "Blazer Imperial · Azul Marino",
+ "name_en": "DAZ Premium Black Sweatshirt · Navy Blazer",
+ "name_es": "Sudadera DAZ Premium en Negro · Navy Blazer",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
- "rank": 460,
+ "rank": 417,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

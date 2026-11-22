@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/knitted-cardigan-custom-2xs-front-682b09c4de8ce.jpg?v=1748516022",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/knitted-cardigan-custom-xs-back-682b09c4ddd9d.jpg?v=1748516022"
+ ],
  "ai_cats": [
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
@@ -34,23 +38,25 @@
  ],
  "draft": false,
  "fam": "cardigan-punto-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382652539",
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "DAZ Luxury Knitted Cardigan",
  "name_es": "Cárdigan de punto DAZ Luxury",
  "needs_review": false,
  "page": true,
- "price_usd": 84.99,
- "rank": 329,
+ "price_usd": 83.99,
+ "rank": 725,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 11.39,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Cárdigan",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -75,7 +81,7 @@
   "5808386_21037"
  ],
  "source_title": "Cárdigan de punto DAZ Luxury",
- "stripe_payment_link": "https://buy.stripe.com/eVqdRa5Z24eocqO0Y61gD3O",
+ "stripe_payment_link": "https://buy.stripe.com/3cI28s0EIbGQcqObCK1gF3n",
  "supplier": "Printful",
  "supplier_id": "382652539",
  "visual_verified": true

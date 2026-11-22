@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Graphite",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, standard e-commerce presentation lacking high-fashion atmospheric lighting.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368165235",
  "color": "Graphite",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Essential silhouette designed for contemporary movement. This piece combines technical functionality with refined design. Crafted on demand to ensure absolute exclusivity. Each unit is built with precise attention to detail. Worldwide shipping is available for this timeless creation.",
+ "desc_es": "Silueta esencial diseñada para el movimiento contemporáneo. Esta pieza combina funcionalidad técnica con un diseño depurado. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Cada unidad se elabora con precisión milimétrica. Envío mundial disponible para esta creación atemporal.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/aa5/aa553f6ea7f1403ab8839f53986846ee_preview.png"
  ],
@@ -21,18 +35,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Hudson Jacket",
- "name_es": "Chaqueta Hudson",
+ "name_en": "DAZMOND Packable Jacket · Graphite",
+ "name_es": "Chaqueta plegable DAZMOND · Graphite",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 69.99,
- "rank": 681,
+ "rank": 666,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

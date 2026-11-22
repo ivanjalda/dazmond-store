@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/gorro-bufanda"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "t-sombrero-de-pescador-daz-premium-unisex-de-moda",
  "color": "Blue",
@@ -31,20 +33,21 @@
  "id": "shopify-sombrero-de-pescador-daz-premium-unisex-de-moda-blue",
  "img_checked": "2026-11-19",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Hat · Blue",
- "name_es": "Gorro Monogram · Azul",
+ "name_en": "Hudson Hat · Blue",
+ "name_es": "Gorro Hudson · Azul",
  "needs_review": false,
  "page": true,
- "price_usd": 24.99,
- "rank": 1066,
+ "price_usd": 22.99,
+ "rank": 843,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -52,7 +55,7 @@
   "Blue"
  ],
  "source_title": "Sombrero de pescador DAZ Premium unisex de moda",
- "stripe_payment_link": "https://buy.stripe.com/14A6oI0EI7qA0I68qy1gu0D",
+ "stripe_payment_link": "https://buy.stripe.com/3cIfZi4UYh1aaiG36e1gG0V",
  "supplier": "Shopify",
  "supplier_id": "sombrero-de-pescador-daz-premium-unisex-de-moda-blue",
  "visual_verified": true

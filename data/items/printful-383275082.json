@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-front-6835f5b90d3b8.jpg?v=1748366794",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-product-details-6835f5b90fa96.jpg?v=1748366793",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-front-6835f5b90fc80.jpg?v=1748366793",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-right-6835f5b90fe06.jpg?v=1748366793",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-back-6835f5b90ffe1.jpg?v=1748366793",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-left-6835f5b9101fb.jpg?v=1748366793",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-right-6835f5b9103c4.jpg?v=1748366793"
+ ],
  "ai_cats": [
   "hombre/camisas",
   "mujer/camisas"
@@ -27,13 +36,14 @@
  ],
  "draft": false,
  "fam": "camisa-manga-corta",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-383275082",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "Luxury All-Over Short Sleeve Shirt",
@@ -41,9 +51,10 @@
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,
- "rank": 414,
+ "rank": 371,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

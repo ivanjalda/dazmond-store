@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_93dqak93dqak93dq.png?v=1777562032",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_k634qrk634qrk634.png?v=1777562032",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_exqipjexqipjexqi.png?v=1777562036",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682cadc33c55.jpg?v=1719847655"
+ ],
  "ai_color": "Black / Emerald",
  "ai_copy": true,
  "ai_done": true,
@@ -10,7 +16,7 @@
   "hombre/camiseta"
  ],
  "cg": "printful-350684788",
- "color": "",
+ "color": "Black / Emerald",
  "created": "2026-11-22",
  "desc_en": "A bold expression of contemporary style. This design merges geometric patterns with refined emerald and black tones. A piece conceived to stand out with elegance in every step. Exclusive made-to-order creation with worldwide shipping available.",
  "desc_es": "Una expresión audaz de estilo contemporáneo. Este diseño fusiona patrones geométricos con detalles refinados en tonos esmeralda y negro. Una pieza concebida para destacar con elegancia en cada paso. Confección exclusiva bajo pedido con envíos disponibles a todo el mundo.",
@@ -21,13 +27,14 @@
  ],
  "draft": false,
  "fam": "polka-emerald-art",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350684788",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "Polka Emerald Art Socks",
@@ -35,9 +42,10 @@
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,
- "rank": 349,
+ "rank": 306,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Calcetines > Calcetines largos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

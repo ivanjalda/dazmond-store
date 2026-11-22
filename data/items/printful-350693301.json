@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_nitca6nitca6nitc.png?v=1777653350",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_217uwh217uwh217u.png?v=1777653350",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_4f9lqj4f9lqj4f9l.png?v=1777653351",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_hg21fthg21fthg21.png?v=1777653350",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682e437215d5.jpg?v=1719854147"
+ ],
  "ai_color": "Black",
  "ai_copy": true,
  "ai_done": true,
@@ -10,7 +17,7 @@
   "hombre/camiseta"
  ],
  "cg": "printful-350693301",
- "color": "",
+ "color": "Black",
  "created": "2026-11-22",
  "desc_en": "A statement of style that defies the conventional. These socks fuse a chocolate-inspired graphic design with an urban and sophisticated aesthetic. The deep black silhouette contrasts with the upper motif, creating an unmistakable visual impact. Each piece is made to order with worldwide shipping. The definitive expression of modern individuality.",
  "desc_es": "Una declaración de estilo que desafía lo convencional. Estos calcetines fusionan un diseño gráfico inspirado en el chocolate con una estética urbana y sofisticada. La silueta en negro profundo contrasta con el motivo superior, creando un impacto visual inconfundible. Cada pieza se elabora bajo pedido con envíos a todo el mundo. La expresión definitiva de la individualidad moderna.",
@@ -21,13 +28,14 @@
  ],
  "draft": false,
  "fam": "chocolate-bar-art",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350693301",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "Chocolate Bar Art Socks",
@@ -35,9 +43,10 @@
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,
- "rank": 355,
+ "rank": 312,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Calcetines > Calcetines largos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

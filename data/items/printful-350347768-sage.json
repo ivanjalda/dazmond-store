@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Sage",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio lifestyle capture, though standard supplier presentation style lacks high-end editorial atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-350347768",
  "color": "Sage",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined presence for outdoor pursuits. This hat blends sophisticated functionality with a clean silhouette in sage. Designed to deliver protection and effortless style. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Una presencia refinada para los días al aire libre. Este sombrero combina funcionalidad sofisticada con una silueta depurada en tono salvia. Diseñado para ofrecer protección y estilo sin esfuerzo. Cada pieza se confecciona bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/89d/89dfb579a4e824f592402a9d88725ff9_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-350347768-sage",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Atelier Hat",
- "name_es": "Gorro Atelier",
+ "name_en": "Elite Booney Hat · Sage",
+ "name_es": "Sombrero Booney Elite · Sage",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
- "rank": 567,
+ "rank": 549,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

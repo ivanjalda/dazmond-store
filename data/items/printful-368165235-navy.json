@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368165235",
  "color": "Navy",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Essential design for unpredictable weather. This packable jacket offers functionality without compromising aesthetics. Structured silhouette featuring a top zip closure and adjustable hood. Crafted for urban versatility and fluid movement. Each piece is made to order in our facilities. Available for worldwide shipping.",
+ "desc_es": "Diseño esencial para climas impredecibles. Esta chaqueta plegable ofrece funcionalidad sin comprometer la estética. Silueta estructurada con cierre superior y capucha ajustable. Confección pensada para la versatilidad urbana y el movimiento fluido. Cada pieza se elabora bajo demanda en nuestras instalaciones. Disponible para envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/223/223dd2ba455a5ce2a6c513eaa131e4e9_preview.png"
  ],
@@ -21,18 +35,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Jacket · Navy",
- "name_es": "Chaqueta Manhattan · Azul Marino",
+ "name_en": "DAZMOND Packable Jacket · Navy",
+ "name_es": "Chaqueta plegable DAZMOND · Azul Marino",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 69.99,
- "rank": 683,
+ "rank": 668,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

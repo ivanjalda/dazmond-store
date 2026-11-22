@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Royal Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368165235",
  "color": "Royal Blue",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential garment engineered for movement and urban versatility. This packable jacket combines a functional silhouette with a refined aesthetic in a vibrant blue tone. The design delivers protection against the elements while maintaining a sophisticated and contemporary presence. Each piece is made to order in our ateliers. We offer worldwide shipping to ensure your selection arrives at any destination with the utmost exclusivity.",
+ "desc_es": "Una prenda esencial diseñada para el movimiento y la versatilidad urbana. Esta chaqueta plegable combina una silueta funcional con una estética depurada en un vibrante tono azul. El diseño ofrece protección contra los elementos manteniendo una presencia sofisticada y contemporánea. Cada pieza se elabora bajo demanda en nuestros talleres. Ofrecemos envíos a todo el mundo para garantizar que su selección llegue a cualquier destino con la máxima exclusividad.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/803/8034518683cd80668a70e3c3f390b006_preview.png"
  ],
@@ -21,18 +35,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Jacket · Blue",
- "name_es": "Chaqueta Monogram · Azul",
+ "name_en": "DAZMOND Packable Jacket · Royal Blue",
+ "name_es": "Chaqueta plegable DAZMOND · Royal Blue",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 69.99,
- "rank": 684,
+ "rank": 669,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

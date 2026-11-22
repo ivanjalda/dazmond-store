@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_94ky8094ky8094ky.png?v=1775843110",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_dfq0xfdfq0xfdfq0.png?v=1775843110",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_huhoqahuhoqahuho.png?v=1775843110",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_1lowoo1lowoo1low.png?v=1775843110",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-front-66b210505180d.jpg?v=1775843110",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-back-66b2105056b74.jpg?v=1775843110"
+ ],
  "ai_cats": [
   "hombre/camisas",
   "mujer/camisas"
@@ -27,13 +35,14 @@
  ],
  "draft": false,
  "fam": "aura-dusk-resort",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-355737256",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "Aura Dusk Resort Shirt",
@@ -41,9 +50,10 @@
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,
- "rank": 389,
+ "rank": 346,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

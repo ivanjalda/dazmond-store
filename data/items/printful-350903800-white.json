@@ -2,13 +2,13 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hombre"
+  "hombre/camiseta"
  ],
  "cg": "printful-350903800",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in canvas, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en lona, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "For those who don't follow trends — they set them. Made to order in canvas, with an impeccable finish and a silhouette that speaks for itself.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co. en lona, diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://files.cdn.printful.com/files/acb/acbd758be5941bd59c9e951e67af69b9_preview.png"
  ],
@@ -17,20 +17,21 @@
  "hidden": false,
  "id": "printful-350903800-white",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Sneakers · White",
- "name_es": "Zapatillas Avenue · Blanco",
+ "name_en": "Monogram Tee · White",
+ "name_es": "Camiseta Monogram · Blanco",
  "needs_review": false,
  "page": true,
  "price_usd": 67.99,
- "rank": 614,
+ "rank": 598,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 10.19,
+ "shop_category": "Ropa y accesorios > Calzado > Zapatillas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -12,7 +12,8 @@
  "display_images": [
   "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front",
   "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24433/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=back",
-  "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24404/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=close-up"
+  "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24404/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=close-up",
+  "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24390/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=on-person-front"
  ],
  "draft": false,
  "fam": "conjunto-pijama-corto",
@@ -20,9 +21,9 @@
  "id": "printify-66d98827f02b0468c20aa681",
  "look": [
   "printful-383192424-black",
-  "printful-353393584",
   "printful-379237645",
-  "printful-338164153"
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
  "name_en": "Imperial Loungewear · White",
@@ -30,10 +31,11 @@
  "needs_review": false,
  "page": true,
  "price_usd": 55.99,
- "rank": 2036,
+ "rank": 1645,
  "shipping_usd": 5.89,
  "shipping_worst_usd": 7.09,
- "shop_verified": false,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Pijamas",
+ "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
  "sizes": [
@@ -54,5 +56,5 @@
  "stripe_payment_link": "https://buy.stripe.com/8x25kE1IMdOYgH4eOW1gA3I",
  "supplier": "Printify",
  "supplier_id": "66d98827f02b0468c20aa681",
- "visual_verified": false
+ "visual_verified": true
 }

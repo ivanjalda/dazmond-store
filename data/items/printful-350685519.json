@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_qo1bdsqo1bdsqo1b.png?v=1777569444",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_lueo9mlueo9mlueo.png?v=1777569444",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_eu709geu709geu70.png?v=1777569444",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_yqjj20yqjj20yqjj.png?v=1777569447",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_yhk8xfyhk8xfyhk8.png?v=1777569444",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682cc1c60145.jpg?v=1719847975"
+ ],
  "ai_color": "black",
  "ai_copy": true,
  "ai_done": true,
@@ -10,7 +18,7 @@
   "hombre/camiseta"
  ],
  "cg": "printful-350685519",
- "color": "",
+ "color": "black",
  "created": "2026-11-22",
  "desc_en": "A wearable work of art. These socks present an architectural-inspired geometric pattern fused with the house's contemporary aesthetic. Deep tones intertwine with intricate details to deliver an unmistakable visual profile. The silhouette combines a dark base with a graphic upper print. Each piece is crafted exclusively on demand to ensure absolute exclusivity. We offer worldwide shipping from our workshops.",
  "desc_es": "Una obra de arte para vestir. Estos calcetines presentan un diseño geométrico de inspiración arquitectónica fusionado con la estética contemporánea de la casa. Tonos profundos se entrelazan con detalles intrincados para ofrecer un perfil visual inconfundible. La silueta combina una base oscura con un estampado gráfico superior. Cada pieza se elabora exclusivamente bajo demanda para garantizar una exclusividad absoluta. Ofrecemos envíos a todo el mundo desde nuestros talleres.",
@@ -21,13 +29,14 @@
  ],
  "draft": false,
  "fam": "mosaic-masterpiece-art",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350685519",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "Mosaic Masterpiece Black Socks",
@@ -35,9 +44,10 @@
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,
- "rank": 351,
+ "rank": 308,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Calcetines",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

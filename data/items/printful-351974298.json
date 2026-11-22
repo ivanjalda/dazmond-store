@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "recycled fabric",
  "ai_priority": true,
+ "ai_type": "basketball jersey",
+ "ai_ver": 2,
+ "art_note": "Flat, template-style product shot lacking high-end lighting and environmental depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-351974298",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A bold reinterpretation of athletic aesthetics. This basketball piece blends a dynamic all-over design with clean, refined lines. Crafted to order to ensure absolute exclusivity. The perfect balance between modern comfort and urban sophistication. Available with worldwide shipping.",
+ "desc_es": "Una reinterpretación audaz de la estética deportiva. Esta pieza de baloncesto combina un diseño dinámico integral con líneas limpias y refinadas. Confeccionada bajo demanda para garantizar una exclusividad absoluta. El equilibrio perfecto entre la comodidad moderna y la sofisticación urbana. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/a31/a31b9f97c51e671b37c41b1a78f332c8_preview.png"
  ],
@@ -21,18 +36,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Madison Sweater · White",
- "name_es": "Suéter Madison · Blanco",
+ "name_en": "Monochrome Dynasty Basketball Jersey",
+ "name_es": "Camiseta de baloncesto Monochrome Dynasty",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
- "rank": 619,
+ "rank": 603,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Camisetas sin mangas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

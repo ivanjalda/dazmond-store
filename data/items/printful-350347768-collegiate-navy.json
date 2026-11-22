@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Collegiate Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Booney Hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio lifestyle shot against a plain background, functional yet lacking high editorial elevation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-350347768",
  "color": "Collegiate Navy",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential silhouette tailored for the contemporary traveler. This hat merges protection and technical refinement in a deep navy hue. Its lightweight construction delivers unwavering comfort beneath the sun. Each piece is crafted exclusively on demand in our ateliers. We offer worldwide shipping to accompany your every destination.",
+ "desc_es": "Una silueta esencial diseñada para el viajero contemporáneo. Este sombrero combina protección y refinamiento técnico en un tono azul marino profundo. Su construcción ligera ofrece una comodidad inquebrantable bajo el sol. Cada pieza se confecciona exclusivamente bajo demanda en nuestros talleres. Realizamos envíos a todo el mundo para acompañar cada destino.",
+ "details_en": "· Made-to-order craftsmanship\n· Worldwide shipping available",
+ "details_es": "· Confección exclusiva bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/ee8/ee8353863d81b8b62ab0dfd9439cba8c_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-350347768-collegiate-navy",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Riviera Hat · Navy",
- "name_es": "Gorro Riviera · Azul Marino",
+ "name_en": "Elite Booney Hat · Collegiate Navy",
+ "name_es": "Sombrero Booney Elite · Collegiate Navy",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
- "rank": 564,
+ "rank": 546,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle context with strong framing and natural lighting.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/abrigo-chaqueta-sueter"
  ],
  "cg": "printful-345578536",
  "color": "Navy",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential piece for seasonal transitions. This packable jacket redefines urban utility with a clean and precise silhouette. The design prioritizes versatility without compromising elegance. Each garment is crafted on demand in our ateliers. We offer worldwide shipping to ensure exclusivity and precision with every delivery.",
+ "desc_es": "Una pieza esencial para la transición entre estaciones. Esta chaqueta empacable redefine la utilidad urbana con una silueta limpia y precisa. El diseño prioriza la versatilidad sin comprometer la elegancia. Cada prenda se elabora bajo demanda en nuestros talleres. Ofrecemos envíos a todo el mundo para garantizar exclusividad y precisión en cada entrega.",
+ "details_en": "· Exclusive made-to-order construction\n· Available with worldwide shipping",
+ "details_es": "· Confección exclusiva bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/413/413736780283677a1de01cdffed6698b_preview.png"
  ],
@@ -21,18 +33,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Madison Jacket · Navy",
- "name_es": "Chaqueta Madison · Azul Marino",
+ "name_en": "Vanguard Packable Jacket · Navy",
+ "name_es": "Chaqueta Empacable Vanguard · Azul Marino",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 69.99,
- "rank": 654,
+ "rank": 638,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos > Chaquetas impermeables",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

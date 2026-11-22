@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/conjuntos",
+  "mujer/vestidos-monos-petos"
  ],
  "cg": "t-dazmond-abstract-canvas-jumpsuit",
  "color": "Dorado",
  "created": "2026-11-19",
  "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in canvas, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co. en lona, diseñada para acompañarte del día a la noche.",
+ "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en lona, con un acabado impecable y una silueta que habla por sí sola.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_4ejo5s4ejo5s4ejo.png?v=1775664198",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_9ayxjc9ayxjc9ayx.png?v=1775664198",
@@ -23,17 +25,21 @@
  "id": "shopify-design-baggy-suspender-jumpsuit-4",
  "img_checked": "2026-11-20",
  "look": [
-  "printful-382149130"
+  "printful-365090873",
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Avenue Art Print",
- "name_es": "Lámina Avenue",
+ "name_en": "Hudson Jumpsuit",
+ "name_es": "Mono Hudson",
  "needs_review": false,
  "page": true,
- "price_usd": 29.99,
- "rank": 1154,
+ "price_usd": 25.99,
+ "rank": 1314,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de una pieza",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

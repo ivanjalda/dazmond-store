@@ -3,7 +3,8 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hombre"
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
  ],
  "cg": "t-zapatillas-deportivas-elasticas-daz-luxury",
  "color": "",
@@ -29,10 +30,10 @@
  "hidden": false,
  "id": "shopify-zapatillas-deportivas-elasticas-daz-luxury",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "Madison Sneakers",
@@ -40,7 +41,8 @@
  "needs_review": false,
  "page": true,
  "price_usd": 147.99,
- "rank": 1973,
+ "rank": 1905,
+ "shop_category": "Ropa y accesorios > Calzado > Zapatillas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

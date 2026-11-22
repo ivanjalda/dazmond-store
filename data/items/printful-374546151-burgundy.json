@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Burgundy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "algodón orgánico",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio model shot against a plain white background, though standard e-commerce style rather than high luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-374546151",
  "color": "Burgundy",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevated simplicity defines the essential silhouette of this piece. Crafted from selected organic cotton, it offers a soft touch and an impeccable drape. Its refined, timeless design embodies modern elegance. Each garment is crafted to order in our house. Available with worldwide shipping.",
+ "desc_es": "La simplicidad elevada define la silueta esencial de esta pieza. Confeccionada con algodón orgánico seleccionado, ofrece un tacto suave y una caída impecable. Su diseño depurado y atemporal encarna la elegancia moderna. Cada prenda se elabora bajo demanda en nuestra casa. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% organic cotton\n· Made to order",
+ "details_es": "· 100% algodón orgánico\n· Elaborado bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/9cb/9cbfb927df99ad7926ad8737bf017bc7_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-374546151-burgundy",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Tee · Burgundy",
- "name_es": "Camiseta Manhattan · Burdeos",
+ "name_en": "Essential Organic T-Shirt · Burgundy",
+ "name_es": "Camiseta Orgánica Esencial · Burdeos",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
- "rank": 637,
+ "rank": 621,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Fraiche Peche",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "algodón orgánico",
  "ai_priority": true,
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "Generic e-commerce mockup on a plain white background with standard lighting, lacking luxury atmosphere.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-374546151",
  "color": "Fraiche Peche",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An expression of relaxed elegance. This refined silhouette redefines everyday wardrobe codes with a modern sensibility. Crafted carefully on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una expresión de elegancia relajada. Esta silueta depurada redefine los códigos del guardarropa diario con una sensibilidad moderna. Confeccionada cuidadosamente bajo demanda para garantizar una exclusividad absoluta. Disponible con envío mundial.",
+ "details_en": "· 100% organic cotton\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· 100% algodón orgánico\n· Pieza confeccionada bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/7a5/7a5e929872d6c935ffe6285472590044_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-374546151-fraiche-peche",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Tee",
- "name_es": "Camiseta Avenue",
+ "name_en": "Essential Organic T-Shirt · Fraiche Peche",
+ "name_es": "Camiseta Orgánica Esencial · Fraiche Peche",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
- "rank": 639,
+ "rank": 623,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

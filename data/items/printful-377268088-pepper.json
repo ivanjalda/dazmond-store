@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Pepper",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a neutral background, lacking the emotional depth of a luxury lifestyle campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-377268088",
  "color": "Pepper",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential silhouette designed for the transition between comfort and understated sophistication. This design is presented in a deep, versatile shade, ideal for the contemporary wardrobe. The refined structure offers an effortless commanding presence. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Una silueta esencial diseñada para la transición entre la comodidad y la sofisticación discreta. Este diseño se presenta en un tono profundo y versátil, ideal para el guardarropa contemporáneo. La estructura depurada ofrece una presencia imponente sin esfuerzo. Cada pieza se confecciona bajo demanda con envíos disponibles a nivel mundial.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/ebd/ebd995b269645c99bf91402a1b4e45ee_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-377268088-pepper",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Imperial Sweatshirt",
- "name_es": "Sudadera Imperial",
+ "name_en": "DAZ Luxury Comfort Sweatshirt · Pepper",
+ "name_es": "Sudadera DAZ Luxury Comfort · Pepper",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
- "rank": 525,
+ "rank": 485,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

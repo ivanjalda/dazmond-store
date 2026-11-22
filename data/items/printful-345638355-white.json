@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
  "ai_priority": true,
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a minimalist clothing rack, though slightly generic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-345638355",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The definition of contemporary elegance. This refined silhouette commands an unmistakable presence in the modern wardrobe. Tailored with precision for those who demand effortless distinction. Each piece is meticulously crafted to order in the United States. Available with worldwide shipping to ensure global exclusivity. A pure expression of urban sophistication.",
+ "desc_es": "La definición de la elegancia contemporánea. Esta silueta depurada ofrece una presencia inconfundible en el guardarropa moderno. Confeccionada con precisión para quienes exigen distinción sin esfuerzo. Cada pieza se elabora meticulosamente bajo demanda en los Estados Unidos. Disponible con envío internacional para asegurar su exclusividad global. Una expresión pura de sofisticación urbana.",
+ "details_en": "· Cotton\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Algodón\n· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/ac1/ac1b19a08f2fad1fd4f4fdeb412e03cb_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-345638355-white",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Noir Sweatshirt · White",
- "name_es": "Sudadera Noir · Blanco",
+ "name_en": "Urban Prestige Heritage Hoodie · White",
+ "name_es": "Sudadera Urban Prestige Heritage · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
- "rank": 662,
+ "rank": 646,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

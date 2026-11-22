@@ -3,7 +3,8 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos"
+  "hombre/polos",
+  "mujer/polo"
  ],
  "cg": "t-polo-de-algodon-daz-bordado",
  "color": "Negro",
@@ -31,20 +32,21 @@
  "hidden": false,
  "id": "shopify-polo-de-algodon-daz-bordado-negro",
  "look": [
-  "printful-361906822",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-361906822",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Imperial Polo",
- "name_es": "Polo Imperial",
+ "name_en": "Manhattan Polo · Negro",
+ "name_es": "Polo Manhattan · Negro",
  "needs_review": false,
  "page": true,
- "price_usd": 40.99,
- "rank": 1686,
+ "price_usd": 36.99,
+ "rank": 1739,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Polos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras"
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
  ],
  "cg": "t-bolsa-de-viaje-plegable-de-cuero-daz-luxury",
  "color": "",
@@ -23,20 +25,21 @@
  "hidden": false,
  "id": "shopify-bolsa-de-viaje-plegable-de-cuero-daz-luxury",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "Manhattan Bag",
  "name_es": "Bolso Manhattan",
  "needs_review": false,
  "page": true,
- "price_usd": 67.99,
- "rank": 1886,
+ "price_usd": 65.99,
+ "rank": 1845,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Maletas y bolsos de viaje > Bolsas de deporte",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

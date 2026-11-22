@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/corbatas"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
  "color": "",
@@ -22,26 +24,27 @@
  "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-2",
  "img_checked": "2026-11-19",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
   "printful-365090873",
-  "printful-390187180"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Tie",
- "name_es": "Corbata Avenue",
+ "name_en": "Atelier Hat",
+ "name_es": "Gorro Atelier",
  "needs_review": false,
  "page": true,
- "price_usd": 21.99,
- "rank": 805,
+ "price_usd": 19.99,
+ "rank": 768,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Complementos > Corbatas y pajaritas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
  "sizes": [],
  "source_title": "Corbata tipo bandana DAZ con estampado integral",
- "stripe_payment_link": "https://buy.stripe.com/6oU28s0EIfX6gH4eOW1gt0v",
+ "stripe_payment_link": "https://buy.stripe.com/00waEY4UYh1a3UidKS1gF3Q",
  "supplier": "Shopify",
  "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-2",
  "visual_verified": true

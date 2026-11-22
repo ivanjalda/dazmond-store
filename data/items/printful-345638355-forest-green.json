@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Forest Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a hanger with neutral lighting, but lacks the high-end editorial atmosphere of a true luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-345638355",
  "color": "Forest Green",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The essential silhouette is redefined through a deep forest green tone. This cotton piece embodies relaxed elegance and sophisticated presence. Designed to offer absolute comfort without compromising a refined aesthetic. Each garment is crafted to order, ensuring exclusivity and an uncompromising commitment to contemporary tailoring. Available for worldwide shipping.",
+ "desc_es": "La silueta esencial se redefine a través de un profundo tono verde bosque. Esta pieza de algodón encarna una elegancia relajada y una presencia sofisticada. Diseñada para ofrecer una comodidad absoluta sin renunciar a una estética depurada. Cada prenda se confecciona bajo pedido, garantizando exclusividad y un compromiso absoluto con la sastrería contemporánea. Disponible para envío a todo el mundo.",
+ "details_en": "· 100% cotton\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100% algodón\n· Confección bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/0be/0be30487a28c2275ea9d6003e9972162_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-345638355-forest-green",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Avenue Sweatshirt · Green",
- "name_es": "Sudadera Avenue · Verde",
+ "name_en": "Urban Prestige Heritage Hoodie · Forest Green",
+ "name_es": "Sudadera Urban Prestige Heritage · Forest Green",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
- "rank": 658,
+ "rank": 642,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

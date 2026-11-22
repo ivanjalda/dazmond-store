@@ -1,4 +1,19 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-black-front-682c62781a79b.jpg?v=1747740618",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-black-front-682c62781a79b.jpg?v=1747740618",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-black-front-682c62781a79b.jpg?v=1747740618",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-black-front-682c62781a79b.jpg?v=1747740618",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-black-front-682c62781a79b.jpg?v=1747740618",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-black-front-682c62781a79b.jpg?v=1747740618",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-black-back-682c627819cf9.jpg?v=1747740618",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-black-left-682c62781a8b7.jpg?v=1747739267",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-black-right-682c62781a9a7.jpg?v=1747739267",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-light-steel-front-682c62781aae5.jpg?v=1747739267",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-light-steel-back-682c62781aced.jpg?v=1747739268",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-light-steel-left-682c62781aebf.jpg?v=1747739267",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-hoodie-light-steel-right-682c62781b0ae.jpg?v=1747739268"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -27,23 +42,25 @@
  ],
  "draft": false,
  "fam": "sudadera-capucha-champion",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382723144-black",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "DAZMOND Black Hooded Sweatshirt",
- "name_es": "Sudadera con Capucha Negra DAZMOND",
+ "name_en": "DAZMOND Black Hooded Sweatshirt · Black",
+ "name_es": "Sudadera con Capucha Negra DAZMOND · Negro",
  "needs_review": false,
  "page": true,
  "price_usd": 62.99,
- "rank": 407,
+ "rank": 364,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

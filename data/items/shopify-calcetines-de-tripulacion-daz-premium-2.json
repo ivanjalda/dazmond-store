@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/ropa-interior"
+  "hombre/ropa-interior",
+  "mujer/ropa-interior"
  ],
  "cg": "t-calcetines-de-tripulacion-daz-premium",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735839265-1-OaTxSy27J9.jpg?v=1735839377",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735839265-2-OaTxSy27J9.jpg?v=1735839382",
@@ -29,20 +31,21 @@
  "id": "shopify-calcetines-de-tripulacion-daz-premium-2",
  "img_checked": "2026-11-19",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Imperial Underwear",
- "name_es": "Ropa Interior Imperial",
+ "name_en": "Noir Underwear",
+ "name_es": "Ropa Interior Noir",
  "needs_review": false,
  "page": true,
- "price_usd": 21.99,
- "rank": 772,
+ "price_usd": 18.99,
+ "rank": 787,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Calcetines",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -51,7 +54,7 @@
   "L/XL"
  ],
  "source_title": "Calcetines de tripulación DAZ Premium",
- "stripe_payment_link": "https://buy.stripe.com/eVq8wQ5Z24eo1Ma5em1gs46",
+ "stripe_payment_link": "https://buy.stripe.com/28E00k0EI7qA2QegX41gG01",
  "supplier": "Shopify",
  "supplier_id": "calcetines-de-tripulacion-daz-premium-2",
  "visual_verified": true

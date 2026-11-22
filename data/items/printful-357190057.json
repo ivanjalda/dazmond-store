@@ -1,16 +1,30 @@
 {
+ "ai_cats": [
+  "hombre/pantalones",
+  "mujer/pantalones"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Flat mannequin template with digital print overlay reduces visual depth and luxury appeal.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/chandal-sudaderas",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/pantalones",
+  "mujer/pantalones"
  ],
  "cg": "printful-357190057",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A contemporary reinterpretation of the relaxed silhouette. The wide-leg design offers a fluid drape and effortless movement. Crafted to order to ensure an impeccable finish. Worldwide shipping available for discerning clients.",
+ "desc_es": "Una reinterpretación contemporánea de la silueta relajada. El diseño de pierna ancha ofrece una caída fluida y un movimiento sin esfuerzo. Confeccionado bajo pedido para asegurar un acabado impecable. Envío mundial disponible para clientes exclusivos.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/406/406cbd62595085c25fc4bb5000196f17_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-357190057",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Soho Sweatshirt · White",
- "name_es": "Sudadera Soho · Blanco",
+ "name_en": "Soleil d'Or Wide-Leg Joggers",
+ "name_es": "Pantalón Wide-Leg Soleil d'Or",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 76.99,
- "rank": 585,
+ "rank": 567,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Ropa cómoda > Pantalones de estar por casa",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

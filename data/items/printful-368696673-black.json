@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, though presented in a standard e-commerce template style.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368696673",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A contemporary expression of relaxed luxury. This silhouette pairs a sophisticated tie-dye pattern with flawless design. Tailored to deliver an imposing presence and exceptional comfort. Each piece is crafted to order to ensure the highest standards of exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una expresion contemporanea de lujo relajado. Esta silueta combina un sofisticado patron tie-dye con un diseño impecable. Confeccionada para ofrecer una presencia imponente y una comodidad excepcional. Cada pieza se elabora bajo pedido para garantizar los mas altosestandares de exclusividad. Disponible con envios a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envio a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/d38/d3857735ff13cc7e2507653ed634ef8a_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-368696673-black",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Soho Sweatshirt · Black",
- "name_es": "Sudadera Soho · Negro",
+ "name_en": "Black Tie-Dye Dazmond Hoodie · Black",
+ "name_es": "Sudadera Tie-Dye Negra Dazmond · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 97.99,
- "rank": 633,
+ "rank": 617,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

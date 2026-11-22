@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_ehbz0mehbz0mehbz.png?v=1777650028",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_m1uqhym1uqhym1uq.png?v=1777650027",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_mmnjdwmmnjdwmmnj.png?v=1777650027",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_vdpnzfvdpnzfvdpn.png?v=1777650027",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682ccf40f2a9.jpg?v=1719848190"
+ ],
  "ai_color": "Black",
  "ai_copy": true,
  "ai_done": true,
@@ -10,7 +17,7 @@
   "hombre/camiseta"
  ],
  "cg": "printful-350685758",
- "color": "",
+ "color": "Black",
  "created": "2026-11-22",
  "desc_en": "A bold silhouette defining contemporary style. The graphic print stands out with precision against a vibrant backdrop. Crafted upon request to ensure ultimate exclusivity. Worldwide shipping available.",
  "desc_es": "Una silueta audaz que define el estilo contemporaneo. El estampado grafico destaca con precision sobre un fondo vibrante. Confeccionados bajo pedido para garantizar la maxima exclusividad. Envios a todo el mundo disponibles.",
@@ -21,13 +28,14 @@
  ],
  "draft": false,
  "fam": "zesty-lemon-art",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350685758",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "Zesty Lemon Art Socks",
@@ -35,9 +43,10 @@
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,
- "rank": 353,
+ "rank": 310,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Calcetines > Calcetines largos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

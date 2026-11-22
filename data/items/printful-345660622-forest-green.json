@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Forest Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton Heritage",
  "ai_priority": true,
+ "ai_type": "Sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Clean, flat supplier mockup on a plain background lacking true editorial depth.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-345660622",
  "color": "Forest Green",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Essential sweatshirt tailored with precision for the contemporary wardrobe. Featuring a deep forest green tone and a refined design that prioritizes silhouette. Each piece is meticulously crafted to order to ensure the highest standards of exclusivity. Available with worldwide shipping.",
+ "desc_es": "Sudadera esencial confeccionada con precisión para el guardarropa contemporáneo. Presenta un tono verde bosque profundo y un diseño depurado que prioriza la silueta. Cada pieza se elabora meticulosamente bajo pedido para garantizar los estándares más exigentes de exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· Heritage cotton\n· Made to order",
+ "details_es": "· Algodón Heritage\n· Confección bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/7d7/7d7372bfd4f5ee80a1445dd5990e1692_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-345660622-forest-green",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Hudson Sweatshirt · Green",
- "name_es": "Sudadera Hudson · Verde",
+ "name_en": "Core Elite Heritage Sweatshirt · Forest Green",
+ "name_es": "Sudadera Core Elite Heritage · Forest Green",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
- "rank": 429,
+ "rank": 386,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

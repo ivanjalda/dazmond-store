@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "bomber jacket",
+ "ai_ver": 2,
+ "art_note": "The image features a flat, template-based digital mockup with an artificial look common in print-on-demand suppliers.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355650241",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A sophisticated statement piece for the contemporary wardrobe. This silhouette combines modern design with a refined presence. Each garment is made to order in our facilities. We offer worldwide shipping for your convenience.",
+ "desc_es": "Una declaracion de intenciones sofisticada para el guardarropa contemporaneo. Esta silueta combina un diseño moderno con una presencia refinada. Cada pieza se confecciona bajo pedido en nuestros talleres. Ofrecemos envios a todo el mundo para su maxima comodidad.",
+ "details_en": "· Made to order\n· Available for worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Disponible para envio mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/8dc/8dcc1d78c867d1103a3c9d72f5465b4f_preview.png"
  ],
@@ -21,18 +35,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Hudson Jacket · White",
- "name_es": "Chaqueta Hudson · Blanco",
+ "name_en": "Gratitude Global Bomber Jacket",
+ "name_es": "Cazadora Bomber Gratitude Global",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 81.99,
- "rank": 439,
+ "rank": 396,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos > Chaquetas bomber",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

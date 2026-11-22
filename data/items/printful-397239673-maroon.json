@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "cg": "printful-397239673",
  "color": "Maroon",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+ "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
  "display_images": [
   "https://files.cdn.printful.com/files/ad8/ad856691ac3be71c90d75c11f2a69ced_preview.png"
  ],
@@ -17,17 +19,21 @@
  "hidden": false,
  "id": "printful-397239673-maroon",
  "look": [
-  "printful-382149130"
+  "printful-365090873",
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Soho Art Print",
- "name_es": "Lámina Soho",
+ "name_en": "Madison Sweatshirt · Maroon",
+ "name_es": "Sudadera Madison · Maroon",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,
- "rank": 473,
+ "rank": 430,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

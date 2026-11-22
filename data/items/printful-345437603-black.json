@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "polo shirt",
+ "ai_ver": 2,
+ "art_note": "Clean lifestyle composition, yet lacks the pristine minimalism of top-tier luxury campaigns.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "printful-345437603",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined interpretation of casual tailoring. This polo features a structured silhouette with a clean design that prioritizes subtlety. Crafted for versatility, it adapts with precision to any contemporary wardrobe. Each piece is made to order and shipped worldwide, ensuring an exclusive standard in every detail. Elegance resides in the simplicity of its lines and its understated yet commanding presence.",
+ "desc_es": "Una interpretación depurada de la sastrería informal. Este polo presenta una silueta estructurada con un diseño limpio que prioriza la sutileza. Confeccionado para ofrecer versatilidad, se adapta con precisión a cualquier guardarropa contemporáneo. Cada pieza es elaborada bajo pedido y enviada a todo el mundo, garantizando un estándar exclusivo en cada detalle. La elegancia reside en la simplicidad de sus líneas y en su presencia discreta pero imponente.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/2e5/2e5a0e63eac71e4aeebbcdef4b83eb61_preview.png"
  ],
@@ -19,20 +31,22 @@
  "hidden": false,
  "id": "printful-345437603-black",
  "look": [
-  "printful-361906822",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-361906822",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Riviera Polo · Black",
- "name_es": "Polo Riviera · Negro",
+ "name_en": "Elite Piqué Polo · Black",
+ "name_es": "Polo Elite Piqué · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
- "rank": 559,
+ "rank": 541,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Polos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

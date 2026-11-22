@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "cg": "printful-345382575",
  "color": "Black Heather",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://files.cdn.printful.com/files/8dc/8dc00450c1740d3cdf25356aa8852ab6_preview.png"
  ],
@@ -17,20 +19,21 @@
  "hidden": false,
  "id": "printful-345382575-black-heather",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Imperial Piece · Black",
- "name_es": "Pieza Imperial · Negro",
- "needs_review": true,
+ "name_en": "Soho Sweatshirt · Black Heather",
+ "name_es": "Sudadera Soho · Black Heather",
+ "needs_review": false,
  "page": true,
  "price_usd": 100.99,
- "rank": 556,
+ "rank": 538,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chaquetas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

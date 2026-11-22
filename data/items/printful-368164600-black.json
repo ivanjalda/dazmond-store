@@ -1,13 +1,15 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
  "cg": "printful-368164600",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+ "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
  "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://files.cdn.printful.com/files/d10/d107e1baf14d884a98ec0b9708822e57_preview.png"
@@ -18,17 +20,21 @@
  "id": "printful-368164600-black",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-382149130"
+  "printful-365090873",
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Art Print · Black",
- "name_es": "Lámina Avenue · Negro",
+ "name_en": "Noir Tee · Black",
+ "name_es": "Camiseta Noir · Negro",
  "needs_review": false,
  "page": true,
  "price_usd": 35.99,
- "rank": 208,
+ "rank": 169,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

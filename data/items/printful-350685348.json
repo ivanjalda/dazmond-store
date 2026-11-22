@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_d1shjid1shjid1sh.png?v=1777568161",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_9f7ogu9f7ogu9f7o.png?v=1777568160",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682cb99e0a8e.jpg?v=1719847843"
+ ],
  "ai_color": "black",
  "ai_copy": true,
  "ai_done": true,
@@ -10,7 +15,7 @@
   "hombre/camiseta"
  ],
  "cg": "printful-350685348",
- "color": "",
+ "color": "black",
  "created": "2026-11-22",
  "desc_en": "Equine silhouettes printed across a deep black background. An expression of subtle elegance and refined design. Each piece is crafted to order to ensure the utmost exclusivity. Worldwide shipping available. Luxury in its purest expression.",
  "desc_es": "Siluetas ecuestres impresas sobre un fondo negro profundo. Una expresion de elegancia sutil y diseño refinado. Cada pieza se confecciona bajo pedido para garantizar la maxima exclusividad. Envios disponibles a todo el mundo. El lujo en su expresion mas depurada.",
@@ -21,13 +26,14 @@
  ],
  "draft": false,
  "fam": "celestial-equine-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350685348",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "Celestial Equine Socks",
@@ -35,9 +41,10 @@
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,
- "rank": 350,
+ "rank": 307,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Calcetines > Calcetines largos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

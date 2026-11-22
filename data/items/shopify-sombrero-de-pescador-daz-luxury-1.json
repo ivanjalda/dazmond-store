@@ -1,13 +1,15 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/gorro-bufanda"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "t-sombrero-de-pescador-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+ "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
  "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/OapbYuwMWkyDDngxfqeeEjnxpFhcnUVH.jpg?v=1750693109",
@@ -23,18 +25,19 @@
  "hidden": false,
  "id": "shopify-sombrero-de-pescador-daz-luxury-1",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Atelier Hat",
- "name_es": "Gorro Atelier",
+ "name_en": "Avenue Hat",
+ "name_es": "Gorro Avenue",
  "needs_review": false,
  "page": true,
  "price_usd": 59.0,
- "rank": 1948,
+ "rank": 1880,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

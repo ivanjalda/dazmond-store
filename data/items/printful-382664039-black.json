@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-black-front-682b48bd92956.jpg?v=1747667146",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-black-front-682b48bd92956.jpg?v=1747667146",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-black-front-682b48bd92956.jpg?v=1747667146",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-black-front-682b48bd92956.jpg?v=1747667146",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-black-front-682b48bd92956.jpg?v=1747667146",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-black-front-682b48bd92956.jpg?v=1747667146",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-black-back-682b48bd934a4.jpg?v=1747667146",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-black-left-682b48bd935c3.jpg?v=1747667146",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-charcoal-heather-front-682b48bd93816.jpg?v=1747667147",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-charcoal-heather-back-682b48bd93a3f.jpg?v=1747667147",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-charcoal-heather-left-682b48bd93c40.jpg?v=1747667146",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-sandshell-front-682b48bd940cd.jpg?v=1747667147",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-sandshell-back-682b48bd94467.jpg?v=1747667146",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-mid-weight-hoodie-sandshell-left-682b48bd947ab.jpg?v=1747667147"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -27,23 +43,25 @@
  ],
  "draft": false,
  "fam": "sudadera-gruesa-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382664039-black",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "DAZ Premium Black Hoodie",
- "name_es": "Sudadera DAZ Premium Negra",
+ "name_en": "DAZ Premium Black Hoodie · Black",
+ "name_es": "Sudadera DAZ Premium Negra · Negro",
  "needs_review": false,
  "page": true,
  "price_usd": 46.99,
- "rank": 330,
+ "rank": 289,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

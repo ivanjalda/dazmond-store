@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/gorro-bufanda"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "t-sombrero-de-pescador-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/EnFJsWgWWnzXhbjvHHBQAXhSCfWHntnx.jpg?v=1750694038",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ESsUbMZgcSRZNJrakjCplAAnpgnrbnlR.jpg?v=1750694041",
@@ -22,18 +24,19 @@
  "hidden": false,
  "id": "shopify-sombrero-de-pescador-daz-luxury-3",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Hat",
- "name_es": "Gorro Monogram",
+ "name_en": "Avenue Hat",
+ "name_es": "Gorro Avenue",
  "needs_review": false,
  "page": true,
  "price_usd": 59.0,
- "rank": 1950,
+ "rank": 1882,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

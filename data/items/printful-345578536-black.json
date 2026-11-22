@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Clean lifestyle composition with industrial framing, though slightly leaning toward a commercial aesthetic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/abrigo-chaqueta-sueter"
  ],
  "cg": "printful-345578536",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A silhouette designed for urban versatility and effortless movement. This packable jacket balances contemporary utility with a minimalist aesthetic. The clean construction offers lightweight protection against the elements without compromising the line. Each piece is made to order in our ateliers. We ship worldwide.",
+ "desc_es": "Una silueta diseñada para la versatilidad urbana y el movimiento sin esfuerzo. Esta chaqueta empacable equilibra la utilidad contemporánea con una estética minimalista. Su confección limpia ofrece protección ligera contra los elementos sin comprometer la línea. Cada pieza se elabora bajo pedido en nuestros talleres. Enviamos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/613/61362373ec82d60c9402e16ca3c22a02_preview.png"
  ],
@@ -21,18 +33,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Jacket · Black",
- "name_es": "Chaqueta Monogram · Negro",
+ "name_en": "Vanguard Packable Jacket · Black",
+ "name_es": "Chaqueta Empacable Vanguard · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 69.99,
- "rank": 652,
+ "rank": 636,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos > Chaquetas impermeables",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

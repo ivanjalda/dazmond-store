@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled",
  "ai_priority": true,
+ "ai_type": "Track Jacket",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking the sophistication and depth expected of a luxury house.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-366731478",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined interpretation of contemporary sportswear tailoring. Structured silhouette crafted with precision and flawless finishes. Brand presence merges into a clean design prioritizing silhouette and form. Made-to-order production available exclusively through our digital platform. Worldwide shipping available for all pieces within the collection.",
+ "desc_es": "Una interpretación depurada de la sastrería deportiva contemporánea. Silueta estructurada diseñada con precisión y acabados impecables. La presencia de la marca se funde en un diseño depurado que prioriza la silueta y la forma. Confección bajo demanda disponible exclusivamente a través de nuestra plataforma digital. Envío internacional disponible para todas las piezas de la colección.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/0dc/0dcfa357a5b6e5c1da8e48369c82761a_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-366731478",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Avenue Sweatshirt · White",
- "name_es": "Sudadera Avenue · Blanco",
+ "name_en": "All-Over Print Track Jacket",
+ "name_es": "Chaqueta de Chándal All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 105.99,
- "rank": 626,
+ "rank": 610,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chaquetas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

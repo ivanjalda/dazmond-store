@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_l7va65l7va65l7va.png?v=1776705805",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_elqoruelqoruelqo.png?v=1776705805",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_oibga8oibga8oibg.png?v=1776705805",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_4h50nf4h50nf4h50.png?v=1776705805",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_6ytjv86ytjv86ytj.png?v=1776705805",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_blcdo9blcdo9blcd.png?v=1776705805",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-swim-trunks-white-back-665f2a019323c.jpg?v=1776705805"
+ ],
  "ai_cats": [
   "hombre/banador"
  ],
@@ -26,23 +35,25 @@
  ],
  "draft": false,
  "fam": "aqua-matrix-recycled",
+ "gender": "men",
  "hidden": false,
  "id": "printful-346230976",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
- "material": "",
+ "material": "recycled material",
  "name_en": "Aqua Matrix Swim Trunks",
  "name_es": "Bañador Aqua Matrix",
  "needs_review": false,
  "page": true,
  "price_usd": 75.99,
- "rank": 346,
+ "rank": 303,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Bóxers para natación",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

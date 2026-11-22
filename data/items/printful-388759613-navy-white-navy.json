@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Navy/White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Trucker Cap",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on white background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-388759613",
  "color": "Navy/ White/ Navy",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A classic silhouette reinterpreted with contemporary codes. This trucker cap combines a defined front structure with mesh back panels for elevated daily wear. The front design delivers a distinctive and refined accent. Crafted made-to-order to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta clásica reinterpretada con códigos contemporáneos. Esta gorra trucker combina una estructura frontal definida con paneles de malla trasera para un uso diario elevado. El diseño frontal aporta un acento distintivo y refinado. Confeccionada bajo demanda para garantizar exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· Made-to-order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/0aa/0aa776cd3e31bfcd5c1eb422c1ec31a7_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-388759613-navy-white-navy",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Hat · White",
- "name_es": "Gorro Avenue · Blanco",
+ "name_en": "Diamond Black Trucker Cap · Navy/ White/ Navy",
+ "name_es": "Gorra Trucker Diamond Black · Navy/ White/ Navy",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
- "rank": 468,
+ "rank": 425,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Gorros de camionero",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

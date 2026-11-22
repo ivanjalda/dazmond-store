@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled",
  "ai_priority": true,
+ "ai_type": "Basketball Jersey",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and modern composition, though the styling feels slightly generic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-351973802",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A contemporary silhouette that redefines traditional sportswear codes. The bold kinetic-inspired design delivers striking visual contrast. Tailored with precision to offer an impeccable fit and a commanding presence. Each piece is meticulously crafted to order within our ateliers. Available with worldwide shipping for discerning clients.",
+ "desc_es": "Una silueta contemporánea que redefine los códigos deportivos tradicionales. El diseño audaz de inspiración cinética aporta un contraste visual impactante. Confeccionada con precisión para ofrecer un ajuste impecable y una presencia dominante. Cada pieza se elabora meticulosamente bajo pedido en los talleres de la marca. Disponible con servicio de envío internacional para clientes exclusivos.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/192/192d68bf5f5c87ca8c4645c9a8960b44_preview.png"
  ],
@@ -21,18 +36,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Sweater · White",
- "name_es": "Suéter Avenue · Blanco",
+ "name_en": "Neon Velocity Basketball Jersey",
+ "name_es": "Camiseta de Baloncesto Neon Velocity",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
- "rank": 618,
+ "rank": 602,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_ohwwmuohwwmuohww.png?v=1775763038",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-front-66b20dc251ae9.jpg?v=1775763038",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-back-66b20dc253076.jpg?v=1775763038",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_k3jz4rk3jz4rk3jz.png?v=1775762990"
+ ],
  "ai_cats": [
   "hombre/camisas",
   "mujer/camisas"
@@ -27,13 +33,14 @@
  ],
  "draft": false,
  "fam": "royal-amethyst",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-355736711",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "Royal Amethyst Shirt",
@@ -41,9 +48,10 @@
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,
- "rank": 383,
+ "rank": 340,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

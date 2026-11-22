@@ -9,32 +9,35 @@
  "cg": "printify-66c7788478bf9b611c0137c9",
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
+  "https://images.printify.com/mockup/66c7788478bf9b611c0137c9/77571/35870/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-front-2",
   "https://images.printify.com/mockup/66c7788478bf9b611c0137c9/77571/35866/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front",
-  "https://images.printify.com/mockup/66c7788478bf9b611c0137c9/77571/35867/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=back"
+  "https://images.printify.com/mockup/66c7788478bf9b611c0137c9/77571/35867/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=back",
+  "https://images.printify.com/mockup/66c7788478bf9b611c0137c9/77571/35868/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-front"
  ],
  "draft": false,
  "fam": "bata-tipo-kimono",
  "hidden": false,
  "id": "printify-66c7788478bf9b611c0137c9-black",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Manhattan Loungewear · Black",
- "name_es": "Pijama Manhattan · Negro",
+ "name_en": "Madison Loungewear · Black",
+ "name_es": "Pijama Madison · Negro",
  "needs_review": false,
  "page": true,
  "price_usd": 56.99,
- "rank": 2030,
+ "rank": 1612,
  "shipping_usd": 5.89,
  "shipping_worst_usd": 7.09,
- "shop_verified": false,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes ceremoniales y tradicionales > Kimonos",
+ "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
  "sizes": [
@@ -57,5 +60,5 @@
  "stripe_payment_link": "https://buy.stripe.com/5kQaEY5Z212c62q0Y61gA3C",
  "supplier": "Printify",
  "supplier_id": "66c7788478bf9b611c0137c9-black",
- "visual_verified": false
+ "visual_verified": true
 }

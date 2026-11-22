@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
  "cg": "printful-374546510",
  "color": "Olive Triblend",
@@ -18,17 +20,21 @@
  "id": "printful-374546510-olive-triblend",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-382149130"
+  "printful-365090873",
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Soho Art Print · Olive",
- "name_es": "Lámina Soho · Oliva",
+ "name_en": "Imperial Tee · Olive Triblend",
+ "name_es": "Camiseta Imperial · Olive Triblend",
  "needs_review": false,
  "page": true,
  "price_usd": 39.99,
- "rank": 124,
+ "rank": 85,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

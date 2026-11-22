@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Lavender",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "algodón orgánico",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio model shot on white background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-374546151",
  "color": "Lavender",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of everyday elegance. This garment delivers an immaculate silhouette and a quiet yet striking presence. Designed for versatile styling, it transitions effortlessly between relaxed tailoring and casual luxury. Each piece is crafted exclusively upon demand to ensure an uncompromising standard of excellence. Available with worldwide shipping.",
+ "desc_es": "Una expresión depurada de la elegancia cotidiana. Esta prenda ofrece una silueta impecable y una presencia discreta pero rotunda. Diseñada para un uso versátil, transita con fluidez entre la sastrería relajada y el lujo casual. Cada pieza se confecciona exclusivamente bajo demanda para garantizar un estándar de excelencia intransigente. Disponible con envío internacional.",
+ "details_en": "· Organic cotton\n· Made-to-order\n· Worldwide shipping",
+ "details_es": "· Algodón orgánico\n· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/fca/fca080c27997daa9edb439ebbe3c96ef_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-374546151-lavender",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Tee",
- "name_es": "Camiseta Monogram",
+ "name_en": "Essential Organic T-Shirt · Lavender",
+ "name_es": "Camiseta Orgánica Esencial · Lavender",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
- "rank": 640,
+ "rank": 624,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

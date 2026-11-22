@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
  "cg": "printful-357300210",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order in silk, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad en seda se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in silk, designed to take you from day to night.",
+ "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en seda, con un acabado impecable y una silueta que habla por sí sola.",
  "display_images": [
   "https://files.cdn.printful.com/files/e5c/e5c142a3d5f61710caca1a9773f9ab48_preview.png"
  ],
@@ -18,17 +20,21 @@
  "id": "printful-357300210-white",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-382149130"
+  "printful-365090873",
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Atelier Art Print · White",
- "name_es": "Lámina Atelier · Blanco",
+ "name_en": "Noir Tee · White",
+ "name_es": "Camiseta Noir · Blanco",
  "needs_review": false,
  "page": true,
  "price_usd": 34.99,
- "rank": 118,
+ "rank": 79,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas sin mangas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

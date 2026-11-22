@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Stone",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "polo shirt",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle shot with a refined color palette and clean composition that elevates the garment.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "printful-345437603",
  "color": "Stone",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Relaxed elegance defines this essential piece of casual tailoring. Crafted with precision to offer an impeccable silhouette. A neutral tone that evokes timeless sophistication. Designed for the contemporary man who values understated luxury and effortless style. Each piece is crafted to order with worldwide shipping available.",
+ "desc_es": "La elegancia relajada define esta pieza esencial de sastrería casual. Confeccionada con precisión para ofrecer una silueta impecable. Un tono neutro que evoca sofisticación atemporal. Diseñada para el hombre contemporáneo que valora la discreción y el lujo sin esfuerzo. Cada pieza se elabora bajo pedido y cuenta con envío mundial.",
+ "details_en": "· Crafted to order\n· Worldwide shipping available",
+ "details_es": "· Elaborado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/4ad/4ad9224afa70e81e91dae51ccdb2f0e9_preview.png"
  ],
@@ -19,20 +31,22 @@
  "hidden": false,
  "id": "printful-345437603-stone",
  "look": [
-  "printful-361906822",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-361906822",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Noir Polo",
- "name_es": "Polo Noir",
+ "name_en": "Elite Piqué Polo · Stone",
+ "name_es": "Polo Elite Piqué · Stone",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 47.99,
- "rank": 562,
+ "rank": 544,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Polos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

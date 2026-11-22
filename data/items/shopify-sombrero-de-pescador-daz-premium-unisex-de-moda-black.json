@@ -1,13 +1,15 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/gorro-bufanda"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "t-sombrero-de-pescador-daz-premium-unisex-de-moda",
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+ "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
  "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-2-ZG2nnM1u7T.jpg?v=1731617853",
@@ -31,20 +33,21 @@
  "id": "shopify-sombrero-de-pescador-daz-premium-unisex-de-moda-black",
  "img_checked": "2026-11-19",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Noir Hat · Black",
- "name_es": "Gorro Noir · Negro",
+ "name_en": "Hudson Hat · Black",
+ "name_es": "Gorro Hudson · Negro",
  "needs_review": false,
  "page": true,
- "price_usd": 24.99,
- "rank": 1065,
+ "price_usd": 22.99,
+ "rank": 842,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -52,7 +55,7 @@
   "Black"
  ],
  "source_title": "Sombrero de pescador DAZ Premium unisex de moda",
- "stripe_payment_link": "https://buy.stripe.com/aFa28sgDGdOY76u7mu1gu0C",
+ "stripe_payment_link": "https://buy.stripe.com/9B6cN60EIfX6gH4eOW1gG0U",
  "supplier": "Shopify",
  "supplier_id": "sombrero-de-pescador-daz-premium-unisex-de-moda-black",
  "visual_verified": true

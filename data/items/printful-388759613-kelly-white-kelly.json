@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Kelly/White/Kelly",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Trucker Cap",
+ "ai_ver": 2,
+ "art_note": "Clean e-commerce product shot with neutral studio lighting, standard presentation without lifestyle context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-388759613",
  "color": "Kelly/ White/ Kelly",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The DAZ trucker cap redefines the codes of contemporary urban aesthetics. Its structured five-panel design delivers a clean and distinctive profile. Crafted made to order to ensure absolute exclusivity. The chromatic contrast introduces a bold and sophisticated character. An essential accessory to complete modern silhouettes with a discreet and refined attitude. Available for worldwide shipping.",
+ "desc_es": "La gorra trucker DAZ redefine los códigos de la estética urbana contemporánea. Su diseño estructurado de cinco paneles ofrece un perfil limpio y distintivo. Confeccionada bajo demanda para garantizar una exclusividad absoluta. El contraste cromático aporta un carácter audaz y sofisticado. Un accesorio esencial para completar siluetas modernas con actitud discreta y refinada. Disponible para envío a todo el mundo.",
+ "details_en": "· Made exclusively to order.\n· Worldwide shipping available.",
+ "details_es": "· Hecho a pedido exclusivamente.\n· Envío disponible a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/299/299b7351bb8f4c3735dd8f61d6e9c5b3_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-388759613-kelly-white-kelly",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Hat · White",
- "name_es": "Gorro Avenue · Blanco",
+ "name_en": "Diamond Black Trucker Cap · Kelly/ White/ Kelly",
+ "name_es": "Gorra Trucker Diamond Black · Kelly/ White/ Kelly",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
- "rank": 466,
+ "rank": 423,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Gorros de camionero",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

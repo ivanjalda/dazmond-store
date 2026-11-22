@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Navy Blazer",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
  "ai_priority": true,
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a hanger, but lacks the high-end editorial lighting and staging of a true luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-345638355",
  "color": "Navy Blazer",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of contemporary design. This garment redefines comfort with a clean silhouette and a sophisticated tone. Crafted with precision on demand to ensure absolute exclusivity. Its minimalist aesthetic aligns with modern elegance. A versatile piece designed for the discerning wardrobe. Available with worldwide shipping.",
+ "desc_es": "Una expresión refinada de diseño contemporáneo. Esta prenda redefine el confort con una silueta depurada y un tono sobrio. Confeccionada con precisión bajo demanda para garantizar una exclusividad absoluta. Su estética minimalista se alinea con la elegancia moderna. Una pieza versátil diseñada para el guardarropa exigente. Disponible para envío a todo el mundo.",
+ "details_en": "· Composition: Cotton\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Composición: Cotton\n· Pieza confeccionada bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/a7c/a7c53453d39c402b296a14bd93453714_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-345638355-navy-blazer",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Manhattan Blazer · Navy",
- "name_es": "Blazer Manhattan · Azul Marino",
+ "name_en": "Urban Prestige Heritage Hoodie · Navy Blazer",
+ "name_es": "Sudadera Urban Prestige Heritage · Navy Blazer",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
- "rank": 660,
+ "rank": 644,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

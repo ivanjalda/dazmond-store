@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/ropa-interior"
+  "hombre/ropa-interior",
+  "mujer/ropa-interior"
  ],
  "cg": "t-calcetines-de-tripulacion-daz-premium",
  "color": "",
  "created": "2026-11-19",
  "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735842465-1-0ojMShNO4H.jpg?v=1735842548",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735842465-2-0ojMShNO4H.jpg?v=1735842553",
@@ -29,20 +31,21 @@
  "id": "shopify-calcetines-de-tripulacion-daz-premium-4",
  "img_checked": "2026-11-19",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "Noir Underwear",
  "name_es": "Ropa Interior Noir",
  "needs_review": false,
  "page": true,
- "price_usd": 21.99,
- "rank": 774,
+ "price_usd": 18.99,
+ "rank": 789,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Calcetines",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
@@ -51,7 +54,7 @@
   "L/XL"
  ],
  "source_title": "Calcetines de tripulación DAZ Premium",
- "stripe_payment_link": "https://buy.stripe.com/7sY7sM4UY5is2Qe36e1gt00",
+ "stripe_payment_link": "https://buy.stripe.com/dRmdRaevy6mweyW9uC1gG03",
  "supplier": "Shopify",
  "supplier_id": "calcetines-de-tripulacion-daz-premium-4",
  "visual_verified": true

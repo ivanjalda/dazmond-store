@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled",
  "ai_priority": true,
+ "ai_type": "track jacket",
+ "ai_ver": 2,
+ "art_note": "Generic supplier mockup on an invisible mannequin, lacking luxury studio lighting and depth.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-366733932",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette redefining everyday luxury. This track jacket blends precise proportions with a distinctive graphic design. Crafted on demand to ensure exclusivity in every piece. Available for worldwide shipping. The structured cut delivers an impeccable presence. A versatile garment designed for the contemporary wardrobe.",
+ "desc_es": "Una silueta depurada que redefine el lujo cotidiano. Esta chaqueta de chándal combina proporciones precisas con un diseño gráfico distintivo. Confeccionada bajo demanda para garantizar exclusividad en cada pieza. Disponible para envíos a todo el mundo. El corte estructurado ofrece una presencia impecable. Una prenda versátil diseñada para el guardarropa contemporáneo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/20a/20a4afe449a9be84a862b7df4270533f_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-366733932",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Soho Sweatshirt · White",
- "name_es": "Sudadera Soho · Blanco",
+ "name_en": "All-Over Track Jacket",
+ "name_es": "Chaqueta de Chándal All-Over",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 105.99,
- "rank": 628,
+ "rank": 612,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chaquetas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

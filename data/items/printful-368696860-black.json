@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton Heritage M2480",
  "ai_priority": true,
+ "ai_type": "sweatshirt",
+ "ai_ver": 2,
+ "art_note": "The image features a flat, computer-generated mock-up style presentation that lacks the sophistication and tactile depth expected of a luxury fashion house.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-368696860",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined and essential silhouette. Designed for versatile and contemporary wear. Crafted from selected materials to ensure an impeccable presence. Each piece is exclusively made to order. Worldwide shipping available for international clients. A garment that defines the standard of modern luxury.",
+ "desc_es": "Una silueta depurada y esencial. Diseñada para un uso versátil y contemporáneo. Confeccionada con materiales seleccionados para garantizar una presencia impecable. Cada pieza se elabora exclusivamente bajo demanda. Envío mundial disponible para clientes internacionales. Una prenda que define el estándar del lujo moderno.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Fabricado bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/061/0611fd1f82e3c692d032f70e34f4514d_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-368696860-black",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Imperial Sweatshirt · Black",
- "name_es": "Sudadera Imperial · Negro",
+ "name_en": "DAZ Premium Black Sweatshirt · Black",
+ "name_es": "Sudadera DAZ Premium en Negro · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
- "rank": 457,
+ "rank": 414,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

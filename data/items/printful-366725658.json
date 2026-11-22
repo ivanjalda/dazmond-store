@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled",
  "ai_priority": true,
+ "ai_type": "track jacket",
+ "ai_ver": 2,
+ "art_note": "The image features a flat, computer-generated mannequin mock-up with unnatural posture, lacking real luxury campaign standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-366725658",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary interpretation of casual luxury. This pure white track jacket defines a polished and versatile silhouette. The design integrates clean lines with a minimalist aesthetic. Each piece is crafted to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una interpretación contemporánea del lujo informal. Esta chaqueta de chándal en tono blanco puro define una silueta pulida y versátil. El diseño integra líneas depuradas con una estética minimalista. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Disponible para envío mundial.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/bdf/bdf1a8dd2f86fd0c04b02d55c4ef5a29_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-366725658",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Manhattan Sweatshirt · White",
- "name_es": "Sudadera Manhattan · Blanco",
+ "name_en": "All-Over Print Track Jacket",
+ "name_es": "Chaqueta de Chándal All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 105.99,
- "rank": 623,
+ "rank": 607,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

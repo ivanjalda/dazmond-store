@@ -1,13 +1,15 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/corbatas"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+ "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
  "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726045963-1-MylgBlPF9S.jpg?v=1726046068",
@@ -22,26 +24,27 @@
  "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-3",
  "img_checked": "2026-11-19",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
   "printful-365090873",
-  "printful-390187180"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Atelier Tie",
- "name_es": "Corbata Atelier",
+ "name_en": "Atelier Hat",
+ "name_es": "Gorro Atelier",
  "needs_review": false,
  "page": true,
- "price_usd": 21.99,
- "rank": 808,
+ "price_usd": 19.99,
+ "rank": 771,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Complementos > Corbatas y pajaritas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
  "sizes": [],
  "source_title": "Corbata tipo bandana DAZ con estampado integral",
- "stripe_payment_link": "https://buy.stripe.com/dRm7sMdru3akaiG36e1gt0y",
+ "stripe_payment_link": "https://buy.stripe.com/8x2bJ2bjmfX6cqO9uC1gF3T",
  "supplier": "Shopify",
  "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-3",
  "visual_verified": true

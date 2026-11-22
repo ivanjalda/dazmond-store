@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "cg": "printify-667fef28e7d326f1ba036b17",
  "color": "Cream",
@@ -17,17 +19,21 @@
  "hidden": false,
  "id": "printify-667fef28e7d326f1ba036b17",
  "look": [
-  "printful-382149130"
+  "printful-365090873",
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Imperial Throw · Cream",
- "name_es": "Manta Imperial · Crema",
+ "name_en": "Imperial Sweatshirt · Cream",
+ "name_es": "Sudadera Imperial · Crema",
  "needs_review": false,
  "page": true,
- "price_usd": 104.99,
- "rank": 2027,
+ "price_usd": 102.99,
+ "rank": 1965,
  "shipping_usd": 16.69,
  "shipping_worst_usd": 23.49,
+ "shop_category": "",
  "shop_verified": false,
  "size_chart": null,
  "size_guide": [],

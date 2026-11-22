@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-front-66b20e7ee17f2.jpg?v=1722945169",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-back-66b20e7ee366e.jpg?v=1722945174",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-right-66b20e7ee37f2.jpg?v=1722945177",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-left-66b20e7ee38ff.jpg?v=1722945180"
+ ],
  "ai_cats": [
   "hombre/camisas",
   "mujer/camisas"
@@ -27,13 +33,14 @@
  ],
  "draft": false,
  "fam": "solaris-edition",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-355736860",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "Solaris Gold Edition Shirt",
@@ -41,9 +48,10 @@
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,
- "rank": 385,
+ "rank": 342,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

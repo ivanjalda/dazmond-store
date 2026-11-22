@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "The image presents a flat, composited product mockup rather than a refined luxury studio photograph.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-351493150",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential silhouette defined by its chromatic purity and magnetic presence. This piece embodies effortless sophistication for the contemporary wardrobe. Each garment is crafted exclusively on demand. We offer worldwide shipping to cater to our global clientele.",
+ "desc_es": "Una silueta esencial definida por su pureza cromática y su presencia magnética. Esta pieza encarna la sofisticación sin esfuerzo para el guardarropa contemporáneo. Cada prenda se confecciona exclusivamente bajo demanda en Estados Unidos. Ofrecemos envíos a todo el mundo para satisfacer las exigencias de nuestros clientes globales.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b5c/b5c73a256ab136b9790fc3932e4ca020_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-351493150-black",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Tee · Black",
- "name_es": "Camiseta Monogram · Negro",
+ "name_en": "Gold Crest T-Shirt · Black",
+ "name_es": "Camiseta Gold Crest · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
- "rank": 477,
+ "rank": 434,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

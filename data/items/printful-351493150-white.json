@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "The image features a flat, floating mockup style typical of lower-end e-commerce rather than luxury presentation.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-351493150",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential garment conceived with clean lines. Relaxed unisex silhouette. Distinguished by the Gold Crest motif at the chest. Made to order. Worldwide shipping available.",
+ "desc_es": "Una prenda esencial concebida con líneas depuradas. Silueta unisex de corte relajado. Destaca por el motivo Gold Crest en el pecho. Confección bajo demanda. Envío mundial disponible.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/6c3/6c30d4b1f9e5c9c381a99ff7a5edf40c_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-351493150-white",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Soho Tee · White",
- "name_es": "Camiseta Soho · Blanco",
+ "name_en": "Gold Crest T-Shirt · White",
+ "name_es": "Camiseta Gold Crest · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
- "rank": 479,
+ "rank": 436,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

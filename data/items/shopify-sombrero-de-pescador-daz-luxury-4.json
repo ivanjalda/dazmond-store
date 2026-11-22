@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/gorro-bufanda"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "t-sombrero-de-pescador-daz-luxury",
  "color": "",
  "created": "2026-11-19",
  "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/EftqTfFFTdVzPLuOgJtRsZXEzXUefCcs.jpg?v=1750694215",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/VBVPkLxfFkRPqGmTmZRQFTUHtCvXjBTp.jpg?v=1750694217",
@@ -22,18 +24,19 @@
  "hidden": false,
  "id": "shopify-sombrero-de-pescador-daz-luxury-4",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Riviera Hat",
- "name_es": "Gorro Riviera",
+ "name_en": "Avenue Hat",
+ "name_es": "Gorro Avenue",
  "needs_review": false,
  "page": true,
  "price_usd": 59.9,
- "rank": 1951,
+ "rank": 1883,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

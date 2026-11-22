@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_71u1fp71u1fp71u1.png?v=1777560529",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_e51q8qe51q8qe51q.png?v=1777560528",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_jic1shjic1shjic1.png?v=1777560528",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_setftpsetftpsetf.png?v=1777560527",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_34vovs34vovs34vo.png?v=1777560528",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682c9b15a790.jpg?v=1719847357"
+ ],
  "ai_color": "Black",
  "ai_copy": true,
  "ai_done": true,
@@ -10,7 +18,7 @@
   "hombre/camiseta"
  ],
  "cg": "printful-350684556",
- "color": "",
+ "color": "Black",
  "created": "2026-11-22",
  "desc_en": "Redefine your everyday silhouette with a piece crafted for the modern collector. These socks combine refined aesthetics with a commanding presence. Every detail responds to a vision of absolute elegance and uncompromising design. The silhouette offers an impeccable finish that complements any luxury wardrobe. Crafted exclusively made to order to ensure an exceptional standard. Worldwide shipping is available for your utmost convenience.",
  "desc_es": "Redefina su silueta cotidiana con una pieza creada para el coleccionista moderno. Estos calcetines combinan una estética depurada con una presencia contundente. Cada detalle responde a una visión de elegancia absoluta y diseño intransigente. La silueta ofrece un acabado impecable que complementa cualquier guardarropa de lujo. Fabricado bajo pedido exclusivo para garantizar un estándar excepcional. Disponible envío a todo el mundo para su máxima comodidad.",
@@ -21,13 +29,14 @@
  ],
  "draft": false,
  "fam": "step-into-art",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350684556",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "Step into Art Crew Socks",
@@ -35,9 +44,10 @@
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,
- "rank": 347,
+ "rank": 304,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Calcetines > Calcetines largos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

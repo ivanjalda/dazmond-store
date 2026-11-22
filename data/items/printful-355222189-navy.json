@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "The image is a flat, composited supplier product shot on a plain background, lacking the depth and lighting expected of luxury visual merchandising.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355222189",
  "color": "Navy",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An commanding presence in deep navy. This silhouette merges refined aesthetics with absolute everyday comfort. Clean lines and a polished design redefine relaxed luxury. Each piece is meticulously crafted to order. Available with worldwide shipping.",
+ "desc_es": "Una presencia imponente en azul marino profundo. Esta silueta combina una estética depurada con una comodidad absoluta para el día a día. Las líneas limpias y el diseño depurado redefinen el lujo relajado. Cada pieza se elabora meticulosamente bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/692/692f85268590476155431846d812c8b2_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-355222189-navy",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Avenue Sweatshirt · Navy",
- "name_es": "Sudadera Avenue · Azul Marino",
+ "name_en": "Alliance Hooded Sweatshirt · Navy",
+ "name_es": "Sudadera Alliance Con Capucha · Azul Marino",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 90.99,
- "rank": 674,
+ "rank": 658,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

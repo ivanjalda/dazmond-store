@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-front-6836dcfb5c957.jpg?v=1748425993",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-back-6836dcfb5d8a8.jpg?v=1748425992",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-left-6836dcfb5d9e6.jpg?v=1748425993",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-right-6836dcfb5db38.jpg?v=1748425992",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-front-6836dcfb5d584.jpg?v=1748425993",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-front-6836dcfb5d6bb.jpg?v=1748425993",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-back-6836dcfb5d7a3.jpg?v=1748425993"
+ ],
  "ai_cats": [
   "hombre/camisas",
   "mujer/camisas"
@@ -27,13 +36,14 @@
  ],
  "draft": false,
  "fam": "camisa-manga-corta",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-383320103",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "DAZ Luxury All-Over Print Shirt",
@@ -41,9 +51,10 @@
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,
- "rank": 415,
+ "rank": 372,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

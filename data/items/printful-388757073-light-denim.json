@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Light Denim",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "bucket hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, adequate for e-commerce but lacks high-end editorial atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-388757073",
  "color": "Light Denim",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in denim, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co. en denim, diseñada para acompañarte del día a la noche.",
+ "desc_en": "A contemporary expression of casual sophistication. This light denim design redefines summer style codes with a clean silhouette and essential lines. Each piece is meticulously crafted to order to ensure absolute exclusivity. The luminous tone brings freshness to any refined wardrobe. Available with worldwide shipping.",
+ "desc_es": "Una expresión contemporánea de sofisticación casual. Este diseño en denim claro redefine los códigos del estilo estival con una silueta depurada y líneas esenciales. Cada pieza se elabora meticulosamente bajo demanda para garantizar una exclusividad absoluta. El tono luminoso aporta frescura a cualquier guardarropa refinado. Disponible con envío internacional.",
+ "details_en": "· Exclusive made-to-order construction\n· Worldwide shipping available",
+ "details_es": "· Confección exclusiva bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/de1/de1ad2b6f06797c0870b9614c5ce098d_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-388757073-light-denim",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Riviera Hat",
- "name_es": "Gorro Riviera",
+ "name_en": "Capstone Denim Bucket Hat · Light Denim",
+ "name_es": "Gorro Pescador Denim Capstone · Light Denim",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 33.99,
- "rank": 696,
+ "rank": 682,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

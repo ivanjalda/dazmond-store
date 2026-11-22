@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-front-66a933b186fcd.jpg?v=1722364868",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-back-66a933b18b3c7.jpg?v=1722364873",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-left-front-66a933b18b65a.jpg?v=1722364877",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-right-back-66a933b18b877.jpg?v=1722364880"
+ ],
  "ai_cats": [
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
@@ -27,13 +33,14 @@
  ],
  "draft": false,
  "fam": "galactic-vision-art",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-345572003",
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "Galactic Vision Bomber Jacket",
@@ -41,9 +48,10 @@
  "needs_review": false,
  "page": true,
  "price_usd": 81.99,
- "rank": 426,
+ "rank": 383,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos > Chaquetas bomber",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

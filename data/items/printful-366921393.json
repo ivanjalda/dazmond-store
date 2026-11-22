@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "track jacket",
+ "ai_ver": 2,
+ "art_note": "The image features a generic 3D template mockup with flat-pasted graphics, lacking the sophisticated lighting and atmosphere expected of a luxury fashion house.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-366921393",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reinterpretation of classic sportswear. This jacket combines a structured silhouette with a distinctive pattern. Each piece is crafted to order in our specialized workshops to ensure absolute exclusivity. Designed to offer an imposing and versatile presence in any urban environment. Available with worldwide shipping.",
+ "desc_es": "Una reinterpretación contemporánea de la ropa deportiva clásica. Esta chaqueta combina una silueta estructurada con un diseño distintivo. Cada pieza se confecciona bajo pedido en nuestros talleres especializados para garantizar una exclusividad absoluta. Diseñada para ofrecer una presencia imponente y versátil en cualquier entorno urbano. Disponible con envíos a todo el mundo.",
+ "details_en": "· Exclusive made-to-order craftsmanship\n· Worldwide shipping available",
+ "details_es": "· Confección exclusiva bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/61d/61d8e0688ad5952c11942326e1600ce1_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-366921393",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Monogram Sweatshirt · White",
- "name_es": "Sudadera Monogram · Blanco",
+ "name_en": "DAZ All-Over Track Jacket",
+ "name_es": "Chaqueta deportiva All-Over DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 105.99,
- "rank": 631,
+ "rank": 615,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chaquetas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

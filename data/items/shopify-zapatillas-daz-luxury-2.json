@@ -3,13 +3,14 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hogar"
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
  ],
  "cg": "t-zapatillas-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/MFSJhajDaDdzQisVbDWPtDdMmdSvKCGE_60f465c4-d539-4707-819b-f6b70bce4f02.jpg?v=1746461678",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/mQKsvrsQtsdfcCvVgIoRyrOUuLlfBuOs_52c1dc0d-2520-4d09-8239-c945a998902e.jpg?v=1746461678",
@@ -27,18 +28,19 @@
  "hidden": false,
  "id": "shopify-zapatillas-daz-luxury-2",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Manhattan House Slippers",
- "name_es": "Zapatillas de Casa Manhattan",
+ "name_en": "Noir Sneakers",
+ "name_es": "Zapatillas Noir",
  "needs_review": false,
  "page": true,
  "price_usd": 32.0,
- "rank": 1959,
+ "rank": 1891,
+ "shop_category": "Ropa y accesorios > Calzado > Pantuflas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

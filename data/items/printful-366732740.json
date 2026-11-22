@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled",
  "ai_priority": true,
+ "ai_type": "Track Jacket",
+ "ai_ver": 2,
+ "art_note": "Digital mockup template on a headless form, failing to meet luxury house presentation standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-366732740",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette redefining casual elegance. This track jacket blends contemporary design with functional appeal. Crafted from recycled materials, it delivers an imposing yet versatile presence. Each piece is meticulously made to order. We offer worldwide shipping to cater to our global clientele. A definitive statement of modern, sophisticated style.",
+ "desc_es": "Una silueta depurada que redefine la elegancia casual. Esta chaqueta de chándal combina un diseño contemporáneo con un enfoque funcional. Confeccionada con materiales reciclados, ofrece una presencia imponente y versátil. Cada pieza se elabora meticulosamente bajo pedido en nuestras instalaciones. Ofrecemos envíos a todo el mundo para satisfacer las exigencias de nuestros clientes globales. Una declaración de estilo moderno y sofisticado.",
+ "details_en": "· Made to order.\n· Worldwide shipping.",
+ "details_es": "· Hecho bajo pedido.\n· Envío a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/4b9/4b93e40a6ea4c18ac74c38698b27a52d_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-366732740",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Monogram Sweatshirt · White",
- "name_es": "Sudadera Monogram · Blanco",
+ "name_en": "Recycled All-Over Print Track Jacket",
+ "name_es": "Chaqueta de Chándal Estampada Reciclada",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 105.99,
- "rank": 627,
+ "rank": 611,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chaquetas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

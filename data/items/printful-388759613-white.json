@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "cap",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a neutral background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-388759613",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential piece for the contemporary wardrobe. This trucker cap combines a structured five-panel design with a clean and modern aesthetic. Crafted on demand to ensure exclusivity and minimize waste. Available with worldwide shipping. The silhouette offers a versatile and sophisticated fit, ideal for complementing refined urban ensembles with a touch of understated distinction.",
+ "desc_es": "Una pieza esencial para el guardarropa contemporáneo. Esta gorra tipo trucker combina un diseño estructurado de cinco paneles con una estética depurada y moderna. Confeccionada bajo pedido para garantizar exclusividad y minimizar el desperdicio. Disponible con envío a todo el mundo. La silueta ofrece un ajuste versátil y sofisticado, ideal para complementar conjuntos urbanos refinados con un toque de distinción discreta.",
+ "details_en": "· Made-to-order piece.\n· Worldwide shipping available.",
+ "details_es": "· Confección bajo pedido.\n· Envío disponible a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/e16/e16dd0401c7f6a638f3a2d7b4f7f8060_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-388759613-white",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Noir Hat · White",
- "name_es": "Gorro Noir · Blanco",
+ "name_en": "Diamond Black Trucker Cap · White",
+ "name_es": "Gorra Trucker Diamond Black · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
- "rank": 470,
+ "rank": 427,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Gorros de camionero",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

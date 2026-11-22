@@ -1,13 +1,15 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
  "cg": "printful-374479157",
  "color": "Athletic Heather",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+ "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
  "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
  "display_images": [
   "https://files.cdn.printful.com/files/a21/a219d3ff793e0a30a7e45df76ed593b6_preview.png"
@@ -18,17 +20,21 @@
  "id": "printful-374479157-athletic-heather",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-382149130"
+  "printful-365090873",
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Hudson Art Print",
- "name_es": "Lámina Hudson",
+ "name_en": "Soho Tee · Athletic Heather",
+ "name_es": "Camiseta Soho · Athletic Heather",
  "needs_review": false,
  "page": true,
  "price_usd": 37.99,
- "rank": 63,
+ "rank": 27,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

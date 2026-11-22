@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Khaki",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "cap",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle shot with moody lighting and architectural framing.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-369131790",
  "color": "Khaki",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A relaxed silhouette defined by time-worn character. The DAZ Premium distressed cap balances urban aesthetics with understated elegance. Designed to accompany moments of pause with a distinctive presence. Each piece is made to order to ensure ultimate exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta relajada con un carácter marcado por el tiempo. La gorra desgastada DAZ Premium equilibra la estética urbana con una elegancia sobria. Diseñada para acompañar los momentos de pausa con una presencia distintiva. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/053/0530101e6ae24df9bdcaac1281196161_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-369131790-khaki",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Soho Hat",
- "name_es": "Gorro Soho",
+ "name_en": "DAZ Premium Distressed Cap · Khaki",
+ "name_es": "Gorra Desgastada DAZ Premium · Khaki",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
- "rank": 688,
+ "rank": 673,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Grill",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Booney Hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait from the back, standard e-commerce presentation with flat lighting.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-350347768",
  "color": "Grill",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential piece for the contemporary silhouette. This booney hat offers a refined and functional aesthetic. The design prioritizes protection and lightness. Clean lines define a versatile everyday accessory. Crafted made-to-order. Available with worldwide shipping.",
+ "desc_es": "Una pieza esencial para la silueta contemporánea. Este sombrero booney ofrece una estética depurada y funcional. El diseño prioriza la protección y la ligereza. Líneas limpias que definen un accesorio versátil para el día a día. Confección bajo demanda. Disponible con envío internacional.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/f0c/f0ccc86a2feb2613965e7d7de6d61276_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-350347768-grill",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Imperial Hat",
- "name_es": "Gorro Imperial",
+ "name_en": "Elite Booney Hat · Grill",
+ "name_es": "Sombrero Booney Elite · Grill",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
- "rank": 566,
+ "rank": 548,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic Cotton",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "The image features a generic mockup look with a flat-rendered white t-shirt on a model, lacking the sophisticated lighting and atmospheric depth required for lu",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-374546151",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The purity of contemporary design defines this essential piece. Crafted from soft organic cotton, it offers a refined silhouette that drapes naturally. An indispensable wardrobe foundation that transcends seasonal trends. Each garment is made to order and shipped worldwide.",
+ "desc_es": "La pureza del diseño contemporáneo se define en esta pieza esencial. Confeccionada en suave algodón orgánico, ofrece una silueta depurada que acompaña la forma con naturalidad. Un fondo de armario indispensable que trasciende las tendencias estacionales. Cada prenda es confeccionada bajo demanda en nuestros talleres y cuenta con envíos a todo el mundo.",
+ "details_en": "· 100% organic cotton\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100% algodón orgánico\n· Confeccionado bajo demanda\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/156/1567dd96d1c3a637202746b337504abc_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-374546151-white",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Soho Tee · White",
- "name_es": "Camiseta Soho · Blanco",
+ "name_en": "Essential Organic T-Shirt · White",
+ "name_es": "Camiseta Orgánica Esencial · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
- "rank": 642,
+ "rank": 626,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

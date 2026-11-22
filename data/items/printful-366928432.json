@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "accessory",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with stylized staging, presenting the plush toy clearly.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-366928432",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A distinctive expression of design and character. This plush teddy bear features a custom white t-shirt accented with exclusive graphic house details. Crafted on demand to ensure absolute exclusivity. Available for worldwide shipping. An exceptional decorative piece reflecting sophistication and modernity in every single detail.",
+ "desc_es": "Una expresión distintiva de diseño y carácter. Este osito de peluche presenta una camiseta blanca personalizada con detalles gráficos exclusivos de la casa. Creado bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo. Una pieza decorativa excepcional que refleja sofisticación y modernidad en cada detalle.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/5fe/5fedf5dbbe25989113bd0edd598e3ffa_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-366928432",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Tee · White",
- "name_es": "Camiseta Manhattan · Blanco",
+ "name_en": "Teddy Bear with T-Shirt",
+ "name_es": "Oso de Peluche con Camiseta",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 44.99,
- "rank": 632,
+ "rank": 616,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Juegos y juguetes > Juguetes",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

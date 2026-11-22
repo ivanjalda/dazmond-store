@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-front-66b20e195e006.jpg?v=1722945066",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-back-66b20e195f14d.jpg?v=1722945069",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-right-66b20e195f3b9.jpg?v=1722945072",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-left-66b20e195f5be.jpg?v=1722945075"
+ ],
  "ai_cats": [
   "hombre/camisas",
   "mujer/camisas"
@@ -27,13 +33,14 @@
  ],
  "draft": false,
  "fam": "quartz",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-355736791",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "Pink quartz button shirt",
@@ -41,9 +48,10 @@
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,
- "rank": 384,
+ "rank": 341,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

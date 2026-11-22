@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Maroon",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton Heritage",
  "ai_priority": true,
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation of the maroon hoodie on a hanger, but lacks a human model or high-fashion atmospheric lighting.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-345638355",
  "color": "Maroon",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A definitive expression of relaxed sophistication. This maroon hooded sweatshirt redefines everyday comfort through an impeccable silhouette and refined design. Crafted to order to ensure absolute exclusivity and available with worldwide shipping. An essential garment that balances understated elegance with a commanding presence. Designed for those who demand distinction in every detail of their wardrobe.",
+ "desc_es": "Una expresión definitiva de sofisticación relajada. Esta sudadera con capucha en tono burdeos redefine el confort cotidiano mediante una silueta impecable y un diseño depurado. Confeccionada bajo pedido para garantizar exclusividad absoluta y disponible con envío mundial. Una prenda esencial que equilibra la elegancia discreta con una presencia imponente. Diseñada para quienes exigen distinción en cada detalle de su guardarropa.",
+ "details_en": "· Cotton Heritage cotton\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Algodón Cotton Heritage\n· Confeccionado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/dfd/dfdc6efada1e07286122a7f084649ead_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-345638355-maroon",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Riviera Sweatshirt",
- "name_es": "Sudadera Riviera",
+ "name_en": "Urban Prestige Heritage Hoodie · Maroon",
+ "name_es": "Sudadera Urban Prestige Heritage · Maroon",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
- "rank": 659,
+ "rank": 643,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

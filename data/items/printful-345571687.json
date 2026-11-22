@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-front-66a933e8d50c0.jpg?v=1722364918",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-back-66a933e8d85b5.jpg?v=1776271521",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-front-66a933e8d6e5b.jpg?v=1776271521",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-product-details-66a933e8d7199.jpg?v=1776271521"
+ ],
  "ai_cats": [
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
@@ -27,13 +33,14 @@
  ],
  "draft": false,
  "fam": "monochrome-flow-bomber",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-345571687",
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "Monochrome Flow Bomber Jacket",
@@ -41,9 +48,10 @@
  "needs_review": false,
  "page": true,
  "price_usd": 81.99,
- "rank": 425,
+ "rank": 382,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos > Chaquetas bomber",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

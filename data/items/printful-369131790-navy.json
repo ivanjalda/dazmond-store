@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "cap",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle shot with moody, high-end architectural framing and natural lighting.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-369131790",
  "color": "Navy",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The classic silhouette meets a worn finish. This piece brings subtle presence to any casual ensemble. Crafted to offer comfort with a relaxed character. Made-to-order pieces. Worldwide shipping available.",
+ "desc_es": "La silueta clásica se encuentra con un acabado desgastado. Esta pieza aporta una presencia sutil a cualquier conjunto casual. Diseñada para ofrecer comodidad con un carácter relajado. Fabricado bajo demanda. Envío disponible a todo el mundo.",
+ "details_en": "· Made-to-order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/dc7/dc76da169c7d0e61ec8785ada0f9d5bd_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-369131790-navy",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Hat · Navy",
- "name_es": "Gorro Avenue · Azul Marino",
+ "name_en": "DAZ Premium Distressed Cap · Navy",
+ "name_es": "Gorra Desgastada DAZ Premium · Azul Marino",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
- "rank": 689,
+ "rank": 674,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

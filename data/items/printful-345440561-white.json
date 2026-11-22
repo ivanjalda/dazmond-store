@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-white-front-6655f68838cb2.jpg?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-white-front-6655f68838cb2.jpg?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-white-front-6655f68838cb2.jpg?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-white-front-6655f68838cb2.jpg?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-white-front-6655f68838cb2.jpg?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-66560a99c873d.png?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-66560a99c9b9c.png?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-6655f68835567.jpg?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-left-front-6655f6883693d.jpg?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-66560a99c7d00.png?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-back-6655f68836b19.jpg?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-navy-left-front-6655f68836d09.jpg?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-navy-front-6655f68836f77.jpg?v=1716915633",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-forest-green-front-66560a99cf79e.png?v=1716915633"
+ ],
  "ai_cats": [
   "hombre/polos"
  ],
@@ -25,23 +41,25 @@
  ],
  "draft": false,
  "fam": "x-under-armour",
+ "gender": "men",
  "hidden": false,
  "id": "printful-345440561-white",
  "look": [
-  "printful-361906822",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-361906822",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Kinetic Elite Polo",
- "name_es": "Polo Kinetic Elite",
+ "name_en": "Kinetic Elite Polo · White",
+ "name_es": "Polo Kinetic Elite · Blanco",
  "needs_review": false,
  "page": true,
  "price_usd": 81.99,
- "rank": 424,
+ "rank": 381,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Polos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

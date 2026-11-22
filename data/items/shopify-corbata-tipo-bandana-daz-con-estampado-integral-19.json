@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/corbatas"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
  "color": "",
  "created": "2026-11-19",
  "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726049143-1-vyGjAXfS72.jpg?v=1726049215",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726049143-2-vyGjAXfS72.jpg?v=1726049219",
@@ -24,26 +26,27 @@
  "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-19",
  "img_checked": "2026-11-19",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
   "printful-365090873",
-  "printful-390187180"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Noir Tie",
- "name_es": "Corbata Noir",
+ "name_en": "Atelier Hat",
+ "name_es": "Gorro Atelier",
  "needs_review": false,
  "page": true,
- "price_usd": 21.99,
- "rank": 804,
+ "price_usd": 19.99,
+ "rank": 767,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Complementos > Corbatas y pajaritas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
  "sizes": [],
  "source_title": "Corbata tipo bandana DAZ con estampado integral",
- "stripe_payment_link": "https://buy.stripe.com/dRmdRabjmaCMbmK36e1gt0u",
+ "stripe_payment_link": "https://buy.stripe.com/aFafZi7367qA4YmfT01gF3P",
  "supplier": "Shopify",
  "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-19",
  "visual_verified": true

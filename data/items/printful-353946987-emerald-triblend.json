@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
  "cg": "printful-353946987",
  "color": "Emerald Triblend",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+ "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
  "display_images": [
   "https://files.cdn.printful.com/files/0ac/0ac6e7bc3fbbcef7a0d052451da678e7_preview.png"
  ],
@@ -18,17 +20,21 @@
  "id": "printful-353946987-emerald-triblend",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-382149130"
+  "printful-365090873",
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Imperial Art Print",
- "name_es": "Lámina Imperial",
+ "name_en": "Monogram Tee · Emerald Triblend",
+ "name_es": "Camiseta Monogram · Emerald Triblend",
  "needs_review": false,
  "page": true,
  "price_usd": 39.99,
- "rank": 110,
+ "rank": 73,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

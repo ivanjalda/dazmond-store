@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait with clear garment visibility, though standard e-commerce styling lacks high-end editorial edge.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-383200450",
  "color": "Gold",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette redefining everyday luxury. Meticulously tailored in a vibrant gold hue. Each piece is crafted strictly on demand to ensure ultimate exclusivity. Worldwide shipping available. An essential design bridging sophisticated presence with absolute comfort. Timeless elegance finds its purest expression in this exclusive garment from our collection.",
+ "desc_es": "Una silueta depurada que redefine el lujo cotidiano. Confeccionada con precisión en un tono dorado vibrante. Cada pieza se elabora meticulosamente bajo pedido para garantizar la máxima exclusividad. Envío disponible a todo el mundo. Un diseño esencial que combina una presencia sofisticada con una comodidad absoluta. La elegancia atemporal encuentra su expresión más pura en esta prenda exclusiva de nuestra colección.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/d21/d21ccd489b228fa915ff3bbd84b3bfa0_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-383200450-gold",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Manhattan Sweatshirt · Gold",
- "name_es": "Sudadera Manhattan · Oro",
+ "name_en": "DAZ Luxury Gold Sweatshirt · Gold",
+ "name_es": "Sudadera DAZ Luxury Gold · Oro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
- "rank": 546,
+ "rank": 527,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

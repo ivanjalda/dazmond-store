@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Scarlet",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, standard e-commerce presentation lacking editorial luxury styling.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368165235",
  "color": "Scarlet",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A bold silhouette designed for contemporary movement. The scarlet packable jacket redefines functionality with a magnetic presence. Crafted for those who demand versatility without compromising distinction. Its intense hue brings character to any urban ensemble. A lightweight piece that adapts to the elements with natural elegance. Available exclusively made to order with worldwide shipping.",
+ "desc_es": "Una silueta audaz diseñada para el movimiento contemporáneo. La chaqueta plegable escarlata redefine la funcionalidad con una presencia magnética. Confeccionada para quienes exigen versatilidad sin renunciar a la distinción. Su tono intenso aporta carácter a cualquier conjunto urbano. Una prenda ligera que se adapta a la intemperie con elegancia natural. Disponible exclusivamente bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/807/807bd4de63cb8ff48257932e973a2aee_preview.png"
  ],
@@ -21,18 +35,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Jacket",
- "name_es": "Chaqueta Avenue",
+ "name_en": "DAZMOND Packable Jacket · Scarlet",
+ "name_es": "Chaqueta plegable DAZMOND · Scarlet",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 69.99,
- "rank": 685,
+ "rank": 670,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

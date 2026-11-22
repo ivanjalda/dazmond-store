@@ -3,13 +3,14 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos"
+  "hombre/polos",
+  "mujer/polo"
  ],
  "cg": "t-polo-de-algodon-daz-bordado",
  "color": "Gris",
  "created": "2026-11-19",
  "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1744624834-4-HRteJHrha8.jpg?v=1744625185",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1744624834-4-HRteJHrha8.jpg?v=1744625185",
@@ -31,20 +32,21 @@
  "hidden": false,
  "id": "shopify-polo-de-algodon-daz-bordado-gris",
  "look": [
-  "printful-361906822",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-361906822",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Polo",
- "name_es": "Polo Manhattan",
+ "name_en": "Manhattan Polo · Gris",
+ "name_es": "Polo Manhattan · Gris",
  "needs_review": false,
  "page": true,
- "price_usd": 40.99,
- "rank": 1684,
+ "price_usd": 36.99,
+ "rank": 1737,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Polos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

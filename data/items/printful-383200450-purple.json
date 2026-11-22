@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait with clear garment visibility, though standard e-commerce framing lacks high fashion edge.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-383200450",
  "color": "Purple",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential silhouette reinterpreted with a modern approach. Tailored for an impeccable presence. Deep purple hue bringing character and distinction. Crewneck design balancing comfort with a refined aesthetic. A versatile piece for the contemporary wardrobe. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Una silueta esencial reinterpretada con un enfoque moderno. Confeccionada para ofrecer una presencia impecable. Tono púrpura profundo que aporta carácter y distinción. Diseño de cuello redondo que equilibra la comodidad con una estética depurada. Una prenda versátil para el guardarropa contemporáneo. Cada pieza se elabora bajo pedido. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/3e6/3e60c27aa308b3ed682dbdfd8b043804_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-383200450-purple",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Imperial Sweatshirt · Purple",
- "name_es": "Sudadera Imperial · Púrpura",
+ "name_en": "DAZ Luxury Gold Sweatshirt · Purple",
+ "name_es": "Sudadera DAZ Luxury Gold · Púrpura",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
- "rank": 548,
+ "rank": 529,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

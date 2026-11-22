@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled",
  "ai_priority": true,
+ "ai_type": "track jacket",
+ "ai_ver": 2,
+ "art_note": "The image features a flat, computer-generated mockup of a jacket on an invisible mannequin with an unnatural red color and flat graphic placement, falling short",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-366730180",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette that redefines urban elegance. This track jacket blends contemporary design with functional aesthetics. Crafted made-to-order to ensure absolute exclusivity. Worldwide shipping available. The essential piece for a modern and sophisticated wardrobe.",
+ "desc_es": "Una silueta depurada que redefine la elegancia urbana. Esta chaqueta de chándal combina un diseño contemporáneo con una estética funcional. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Envío mundial disponible. La pieza esencial para un guardarropa moderno y sofisticado.",
+ "details_en": "· Made-to-order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/f8a/f8a54e4b7c7501e9cba26a613526226b_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-366730180",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Atelier Sweatshirt · White",
- "name_es": "Sudadera Atelier · Blanco",
+ "name_en": "All-Over Print Track Jacket",
+ "name_es": "Chaqueta de Chándal All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 105.99,
- "rank": 625,
+ "rank": 609,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic Cotton",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, though it lacks the atmospheric depth of a high-end luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-435701833",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A bold silhouette defined by an imposing presence. This garment merges a contemporary oversized cut with a structured high neckline. The design is completed with the distinctive signature of the house. Crafted for those who command space with absolute confidence. Each piece is made to order to ensure uncompromising exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta audaz definida por una presencia imponente. Esta prenda combina un corte oversize contemporáneo con un cuello alto estructurado. El diseño se completa con la distintiva firma de la casa. Creada para quienes dominan el espacio con absoluta confianza. Cada pieza es confeccionada bajo demanda para garantizar una exclusividad sin concesiones. Disponible con envío internacional.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/7a9/7a98b466e824c415d8ad0575318457bb_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-435701833-black",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Tee · Black",
- "name_es": "Camiseta Manhattan · Negro",
+ "name_en": "Blaster 2.0 Organic Oversized High-Neck Tee · Black",
+ "name_es": "Camiseta Blaster 2.0 Oversize de Cuello Alto · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
- "rank": 649,
+ "rank": 633,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

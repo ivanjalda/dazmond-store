@@ -11,28 +11,31 @@
  "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
  "display_images": [
   "https://images.printify.com/mockup/66cf42a8adbc75428a0b8f15/74879/19086/pantalones-daz-de-pijama-para-hombre.jpg?camera_label=front",
-  "https://images.printify.com/mockup/66cf42a8adbc75428a0b8f15/74879/19167/pantalones-daz-de-pijama-para-hombre.jpg?camera_label=back"
+  "https://images.printify.com/mockup/66cf42a8adbc75428a0b8f15/74879/19167/pantalones-daz-de-pijama-para-hombre.jpg?camera_label=back",
+  "https://images.printify.com/mockup/66cf42a8adbc75428a0b8f15/74879/19219/pantalones-daz-de-pijama-para-hombre.jpg?camera_label=on-person-front",
+  "https://images.printify.com/mockup/66cf42a8adbc75428a0b8f15/74879/19285/pantalones-daz-de-pijama-para-hombre.jpg?camera_label=on-person-back"
  ],
  "draft": false,
  "fam": "pantalones-pijama-hombre",
  "hidden": false,
  "id": "printify-66cf42a8adbc75428a0b8f15",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "Noir Loungewear · White",
  "name_es": "Pijama Noir · Blanco",
  "needs_review": false,
  "page": true,
- "price_usd": 78.99,
- "rank": 2009,
+ "price_usd": 71.99,
+ "rank": 1827,
  "shipping_usd": 6.79,
  "shipping_worst_usd": 15.49,
- "shop_verified": false,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Pijamas",
+ "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
  "sizes": [
@@ -55,5 +58,5 @@
  "stripe_payment_link": "https://buy.stripe.com/dRm14o0EI8uE1MacGO1gA3h",
  "supplier": "Printify",
  "supplier_id": "66cf42a8adbc75428a0b8f15",
- "visual_verified": false
+ "visual_verified": true
 }

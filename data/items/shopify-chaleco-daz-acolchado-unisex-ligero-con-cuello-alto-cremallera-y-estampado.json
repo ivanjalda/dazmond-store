@@ -1,13 +1,15 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter"
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "cg": "t-chaleco-daz-acolchado-ligero-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+ "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
  "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727886424-1-WE0OZ507fF.jpg?v=1727886607",
@@ -25,18 +27,19 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Vest",
- "name_es": "Chaleco Manhattan",
+ "name_en": "Madison Vest",
+ "name_es": "Chaleco Madison",
  "needs_review": false,
  "page": true,
- "price_usd": 31.99,
- "rank": 1299,
+ "price_usd": 27.99,
+ "rank": 1399,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chalecos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

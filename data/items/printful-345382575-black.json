@@ -1,14 +1,16 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
  ],
  "cg": "printful-345382575",
  "color": "Black",
  "created": "2026-11-22",
  "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
  "display_images": [
   "https://files.cdn.printful.com/files/b2c/b2cec059729e8ff9f0afd0a38a9f288d_preview.png"
  ],
@@ -17,20 +19,21 @@
  "hidden": false,
  "id": "printful-345382575-black",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Avenue Piece · Black",
- "name_es": "Pieza Avenue · Negro",
- "needs_review": true,
+ "name_en": "Soho Sweatshirt · Black",
+ "name_es": "Sudadera Soho · Negro",
+ "needs_review": false,
  "page": true,
  "price_usd": 100.99,
- "rank": 555,
+ "rank": 537,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chaquetas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

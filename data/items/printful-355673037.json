@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_pp6ldppp6ldppp6l.png?v=1775581929",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_8x5pw8x5pw8x5pw8.png?v=1775581929",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_ss3n62ss3n62ss3n.png?v=1775581929",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_lfldbmlfldbmlfld.png?v=1775581929",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-front-66b1266ab2c39.jpg?v=1775581929",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-back-66b1266ab4040.jpg?v=1775581929",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-right-66b1266ab4269.jpg?v=1775581929",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-button-shirt-white-left-66b1266ab4470.jpg?v=1775581929"
+ ],
  "ai_cats": [
   "hombre/camisas",
   "mujer/camisas"
@@ -27,13 +37,14 @@
  ],
  "draft": false,
  "fam": "forest-pinstripe-aero",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-355673037",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
  "name_en": "Forest Pinstripe Aero-Luxe Shirt",
@@ -41,9 +52,10 @@
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,
- "rank": 381,
+ "rank": 338,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

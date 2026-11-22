@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "decor"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
  "cg": "printful-344773746",
  "color": "Black",
@@ -18,17 +20,21 @@
  "id": "printful-344773746",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-382149130"
+  "printful-365090873",
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Hudson Art Print · Black",
- "name_es": "Lámina Hudson · Negro",
+ "name_en": "Hudson Tee · Black",
+ "name_es": "Camiseta Hudson · Negro",
  "needs_review": false,
  "page": true,
  "price_usd": 35.99,
- "rank": 171,
+ "rank": 133,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

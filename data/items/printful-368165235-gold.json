@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, meeting e-commerce standards but lacking moody luxury campaign lighting.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368165235",
  "color": "Gold",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A versatile silhouette designed for unpredictable weather. This piece combines functionality with a refined aesthetic in a striking gold tone. The packable design offers convenience without compromising elegance. Made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una silueta versátil diseñada para el clima impredecible. Esta pieza combina funcionalidad con una estética depurada en un llamativo tono dorado. El diseño plegable ofrece comodidad sin comprometer la elegancia. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/eeb/eebc9259138f112e925c739cbabc5183_preview.png"
  ],
@@ -21,18 +35,20 @@
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Jacket · Gold",
- "name_es": "Chaqueta Manhattan · Oro",
+ "name_en": "DAZMOND Packable Jacket · Gold",
+ "name_es": "Chaqueta plegable DAZMOND · Oro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 69.99,
- "rank": 680,
+ "rank": 665,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

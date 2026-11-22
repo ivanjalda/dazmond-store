@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Fossil",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio lifestyle shot with natural lighting, though standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-350347768",
  "color": "Fossil",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential piece for contemporary style. This hat combines refined functionality with a clean silhouette. Designed to offer protection without compromising minimalist elegance. Every detail responds to a pursuit of sophisticated versatility. Ideal for completing outdoor ensembles with a distinguished and understated presence. Crafted to order with worldwide shipping.",
+ "desc_es": "Una pieza esencial para el estilo contemporaneo. Este sombrero combina funcionalidad refinada con una silueta depurada. Diseñado para ofrecer proteccion sin comprometer la elegancia minimalista. Cada detalle responde a una busqueda de versatilidad sofisticada. Ideal para completar atuendos de exterior con una presencia distinguida y discreta. Confeccionado bajo pedido con envios a todo el mundo.",
+ "details_en": "· Made-to-order piece· Worldwide shipping available",
+ "details_es": "· Pieza confeccionada bajo pedido\n· Disponible con envios mundiales",
  "display_images": [
   "https://files.cdn.printful.com/files/254/254c228a059b4e9fe2c8315e5ecf532b_preview.png"
  ],
@@ -19,20 +33,22 @@
  "hidden": false,
  "id": "printful-350347768-fossil",
  "look": [
-  "printful-351492575-black",
   "printful-365090873",
-  "printful-390187180",
-  "printful-353253137"
+  "printful-351492575-black",
+  "printful-357300009-black",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Noir Hat",
- "name_es": "Gorro Noir",
+ "name_en": "Elite Booney Hat · Fossil",
+ "name_es": "Sombrero Booney Elite · Fossil",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
- "rank": 565,
+ "rank": 547,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

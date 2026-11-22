@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_b99fpkb99fpkb99f.png?v=1777650774",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_qqm8xpqqm8xpqqm8.png?v=1777650778",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_dp0ca9dp0ca9dp0c.png?v=1777650779",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_vea0m8vea0m8vea0.png?v=1777650778",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682cebc995c2.jpg?v=1719848648"
+ ],
  "ai_color": "black",
  "ai_copy": true,
  "ai_done": true,
@@ -10,7 +17,7 @@
   "hombre/camiseta"
  ],
  "cg": "printful-350686245",
- "color": "",
+ "color": "black",
  "created": "2026-11-22",
  "desc_en": "Light and shadow meet in a refined aesthetic. This piece redefines contemporary design codes with a magnetic presence. A subtle statement of style that accompanies every step with absolute distinction. Made to order and worldwide shipping.",
  "desc_es": "Luz y sombra se encuentran en una estética depurada. Esta pieza redefine los códigos del diseño contemporáneo con una presencia magnética. Una declaración sutil de estilo que acompaña cada paso con absoluta distinción. Confección bajo demanda y envíos a todo el mundo.",
@@ -21,13 +28,14 @@
  ],
  "draft": false,
  "fam": "emerald-lights-art",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350686245",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-346239758"
  ],
  "material": "",
  "name_en": "Emerald Lights Art Socks",
@@ -35,9 +43,10 @@
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,
- "rank": 354,
+ "rank": 311,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Calcetines > Calcetines largos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],

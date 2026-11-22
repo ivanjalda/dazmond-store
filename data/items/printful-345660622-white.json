@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "cotton",
  "ai_priority": true,
+ "ai_type": "sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style against a plain background detracts from the luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-345660622",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette that redefines everyday luxury. Crafted from premium cotton, this piece combines absolute comfort with an commanding presence. Clean lines and minimalist design reflect the modern elegance of the house. Designed to offer versatility without compromising style. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine el lujo cotidiano. Confeccionada con algodón de primera calidad, esta prenda combina un confort absoluto con una presencia imponente. Las líneas limpias y el diseño minimalista reflejan la elegancia moderna de la casa. Diseñada para ofrecer versatilidad sin comprometer el estilo. Cada pieza se elabora bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Premium cotton\n· Made to order",
+ "details_es": "· Algodón de primera calidad\n· Made to order",
  "display_images": [
   "https://files.cdn.printful.com/files/66a/66a4cb218a6322bd2325ae6161d6320c_preview.png"
  ],
@@ -19,20 +34,22 @@
  "hidden": false,
  "id": "printful-345660622-white",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printful-365090873",
-  "printful-390187180"
+  "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Imperial Sweatshirt · White",
- "name_es": "Sudadera Imperial · Blanco",
+ "name_en": "Core Elite Heritage Sweatshirt · White",
+ "name_es": "Sudadera Core Elite Heritage · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
- "rank": 432,
+ "rank": 389,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
