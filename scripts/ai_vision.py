@@ -232,8 +232,9 @@ def write_copy(data_text, image_path=None):
 
 
 
-ENRICH_PROMPT = """You are the product editor and head copywriter of DAZMOND & Co., an American luxury fashion house
-(registered US brand, made-to-order pieces, worldwide shipping). You receive the photos of ONE product, in order,
+ENRICH_PROMPT = """You are the art director, head of visual merchandising and head copywriter of DAZMOND & Co., an American
+luxury fashion house (think Saint Laurent, Hugo Boss, Prada e-commerce standards
+) (registered US brand, made-to-order pieces, worldwide shipping). You receive the photos of ONE product, in order,
 and the messy supplier data. Do everything below in ONE answer.
 
 Supplier data: {data}
@@ -241,6 +242,12 @@ Supplier data: {data}
 A) Photos: for each photo say what it is: "product" (clean shot, no person), "model" (worn by a person / lifestyle),
    "size_guide" (size chart, measurement table or how-to-measure), "detail" (close-up), "other" (logo, banner, text,
    unrelated). Also "sharp": true/false (garment and print clearly visible).
+   Judge each photo as a luxury art director and give "quality":
+   "premium" = looks like a real luxury campaign or a clean, high-end studio shot;
+   "ok" = clean product photo, correct but plain;
+   "cheap" = makes the brand look like a marketplace seller: print pasted flat on a body or mannequin template,
+   fake/composited look, head cut off awkwardly, unnatural pose or lighting, low resolution, stretched, collage,
+   text or banners over the image, generic supplier style, or a supplier size chart in bright colors.
 B) If a photo is a size guide, READ IT CAREFULLY and copy the table exactly (never invent numbers, use "?" if unreadable).
 C) Rewrite the product in the house style, in Spanish and English: elegant, sensory, confident (Saint Laurent, Hugo Boss).
    Short sentences, no emojis, no exclamation marks. NEVER invent facts (no fabrics, origins, "handmade", awards not in
@@ -249,7 +256,8 @@ C) Rewrite the product in the house style, in Spanish and English: elegant, sens
    (composition, fit, closure, care); if none, just the made-to-order line.
 
 Return ONLY JSON:
-{{"photos": [{{"n": 1, "kind": "...", "sharp": true}}],
+{{"photos": [{{"n": 1, "kind": "...", "sharp": true, "quality": "premium|ok|cheap"}}],
+  "art_score": 1-10 (how luxury the best photo looks), "art_note": "short reason",
   "size_chart": null or {{"unit": "", "headers": [], "headers_es": [], "rows": [[]], "notes_en": "", "notes_es": ""}},
   "sizes": [], "type": "", "gender": "men|women|unisex", "color": "", "material": "",
   "name_es": "", "name_en": "", "desc_es": "", "desc_en": "", "details_es": "", "details_en": ""}}"""
@@ -287,5 +295,62 @@ def audit(image_path, claim):
         data = base64.b64encode(f.read()).decode()
     body = {"contents": [{"role": "user", "parts": [{"text": AUDIT_PROMPT.format(claim=claim)},
                                                     {"inline_data": {"mime_type": "image/jpeg", "data": data}}]}],
+            "generationConfig": {"temperature": 0, "responseMimeType": "application/json"}}
+    return generate_json(body, 90)
+
+
+# ------------------------------------------------ estudio de fotos (modelo real con TU prenda)
+STUDIO_ERROR = ""
+
+
+def studio_photo(src_path, prompt, model="gemini-2.5-flash-image"):
+    """Crea una foto nueva (modelo real, sitio real) con la prenda de la foto original. Devuelve bytes JPEG/PNG o None.
+    Deja el motivo del fallo en STUDIO_ERROR ("bloqueado" si Google no lo permite con esta clave)."""
+    global STUDIO_ERROR
+    STUDIO_ERROR = ""
+    if not _keys() or not src_path or not os.path.exists(src_path):
+        return None
+    with open(_shrink(src_path), "rb") as f:
+        data = base64.b64encode(f.read()).decode()
+    body = {"contents": [{"role": "user", "parts": [{"text": prompt},
+                                                    {"inline_data": {"mime_type": "image/jpeg", "data": data}}]}],
+            "generationConfig": {"responseModalities": ["TEXT", "IMAGE"]}}
+    for key in _keys():
+        url = "https://generativelanguage.googleapis.com/v1beta/models/" + model + ":generateContent?key=" + key
+        try:
+            res = request(url, "POST", body=body, timeout=180, retries=0)
+        except Exception as e:
+            err = str(e)
+            STUDIO_ERROR = err[:300]
+            low = err.lower()
+            if "429" in err or "403" in err or "billing" in low or "free tier" in low or "not available" in low or "404" in err:
+                STUDIO_ERROR = "bloqueado: " + err[:250]
+                continue
+            return None
+        for part in ((res.get("candidates") or [{}])[0].get("content") or {}).get("parts", []):
+            inline = part.get("inline_data") or part.get("inlineData")
+            if inline and inline.get("data"):
+                return base64.b64decode(inline["data"])
+        STUDIO_ERROR = "sin imagen en la respuesta"
+        return None
+    return None
+
+
+SAME_PROMPT = """Image 1 is the official product photo. Image 2 is a new campaign photo.
+Is the product in image 2 EXACTLY the same product as in image 1: same type, same cut, same colors, same print/pattern
+and same logo placement? Small changes of pose, light or wrinkles are fine; any change of design, color, print or logo is NOT.
+Also answer if image 2 looks like a real photograph (no deformed hands/faces, no garbled text).
+Answer ONLY JSON: {"same": true/false, "realistic": true/false, "reason": "short"}"""
+
+
+def same_product(orig_path, new_path):
+    """Control de calidad: la foto nueva tiene que llevar EXACTAMENTE la misma prenda. dict o None."""
+    if not ready():
+        return None
+    parts = [{"text": SAME_PROMPT}]
+    for p in (orig_path, new_path):
+        with open(_shrink(p), "rb") as f:
+            parts.append({"inline_data": {"mime_type": "image/jpeg", "data": base64.b64encode(f.read()).decode()}})
+    body = {"contents": [{"role": "user", "parts": parts}],
             "generationConfig": {"temperature": 0, "responseMimeType": "application/json"}}
     return generate_json(body, 90)

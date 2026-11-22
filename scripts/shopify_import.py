@@ -33,7 +33,7 @@ RAW_DIR = os.path.join(DATA, "suppliers", "shopify")
 OUT = os.path.join(DATA, "suppliers", "shopify_productos.csv")
 FIELDS = ["supplier", "supplier_id", "title", "type", "gender", "color", "material", "cost_usd", "shipping_usd",
           "price_usd", "sizes", "images", "size_guide", "size_chart", "stock", "description", "verified",
-          "sku_map", "source_title", "draft", "ai_sizes", "ai_type", "ai_gender", "ai_color", "ai_material", "ai_title"]
+          "sku_map", "source_title", "draft", "ai_sizes", "ai_type", "ai_gender", "ai_color", "ai_material", "ai_title", "shop_category", "tags"]
 SUPPLIERS = [("printify", "Printify"), ("printful", "Printful"), ("popcustoms", "POPCUSTOMS"),
              ("inkpod", "Inkpod"), ("ink pod", "Inkpod"), ("wowfulfillment", "Inkpod"),
              ("interestprint", "InterestPrint"), ("interest print", "InterestPrint")]
@@ -147,7 +147,8 @@ def build_rows(p, cfg):
         imgs = imgs + [u for u in body_images(body) if u not in imgs]
         sid = p["handle"] + (f"-{slug(color)}" if color and len(groups) > 1 else "")
         rows.append({"supplier": supplier, "supplier_id": sid, "title": title,
-                     "type": " ".join(x for x in (p.get("Type", ""), p.get("Product Category", ""), p.get("Tags", "")) if x),
+                     "type": " ".join(x for x in (p.get("Type", ""), p.get("Product Category", "")) if x),
+                     "shop_category": p.get("Product Category", ""), "tags": p.get("Tags", ""),
                      "gender": {"female": "women", "male": "men", "unisex": "unisex"}.get(
                          (p.get("Google Shopping / Gender") or "").strip().lower(), ""),
                      "color": color, "material": "",

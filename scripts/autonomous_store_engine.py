@@ -31,6 +31,7 @@ import json
 import math
 import os
 import re
+import shutil
 import sys
 import time
 import urllib.error
@@ -109,20 +110,21 @@ FOOTWEAR = [
     (r"sneaker|trainer|high ?top|low ?top|running shoe|shoe|zapatilla", "zapatillas-hombre", "zapatillas", "Zapatillas", "Sneakers"),
 ]
 
-DECOR = r"pillow|cushion|cojin|cojín|mug|taza|poster|canvas|lienzo|blanket|manta|candle|vela|\brugs?\b|alfombra|tapestry|wall art|cuadro|puzzle|coaster|posavasos|phone case|funda|towel|toalla|throw pillow|throw blanket|home decor|wall decor"
+DECOR = r"pillow|cushion|cojin|cojín|\bmugs?\b|\btazas?\b|poster|canvas print|stretched canvas|framed canvas|\bcanvas\b(?! ?(tote|bag|shoe|sneaker))|lienzo|blanket|\bmanta\b|candle|\bvelas?\b|\brugs?\b|alfombra|tapestry|wall art|\bcuadro\b|puzzle|coaster|posavasos|phone case|funda|towel|toalla|throw pillow|throw blanket|home decor|wall decor"
 
 # objetos de estilo de vida: se miran DESPUÉS de la ropa (así "Wine Red Dress" sigue siendo un vestido)
-LIFESTYLE = r"placemat|mantel|\bvasos?\b|\bcopas?\b|\bjarras?\b|\bglass(es)?\b|shot glass|chupito|tumbler|\btermo\b|thermos|water bottle|botella|whisk(e)?y|wine|\bvino\b|beer|cerveza|can cooler|koozie|enfriador|notebook|journal|cuaderno|libreta|night light|luz nocturna|\blamp\b|l[aá]mpara|\bball\b|bal[oó]n|arm sleeves?|cooling sleeves?|mangas de enfriamiento|mangas para (el|los) brazos?|petaca|flask|\bwatch(es)?\b|\breloj|necklace|collar de|colgante|pendant|bracelet|pulsera|keychain|llavero|sticker|pegatina|puzzle|playing cards|naipes"
+LIFESTYLE = r"luggage|suitcase|maleta|carry[ -]?on|trolley|placemat|mantel|\bvasos?\b|\bcopas?\b|\bjarras?\b|\bglass(es)?\b|shot glass|chupito|tumbler|\btermo\b|thermos|water bottle|botella|whisk(e)?y|wine|\bvino\b|beer|cerveza|can cooler|koozie|enfriador|notebook|journal|cuaderno|libreta|night light|luz nocturna|\blamp\b|l[aá]mpara|\bball\b|bal[oó]n|arm sleeves?|cooling sleeves?|mangas de enfriamiento|mangas para (el|los) brazos?|petaca|flask|\bwatch(es)?\b|\breloj|necklace|collar de|colgante|pendant|bracelet|pulsera|keychain|llavero|sticker|pegatina|puzzle|playing cards|naipes"
 
 DECOR_TYPES = [
     (r"pillow|cushion|coj[ií]n", "Cojín", "Cushion"),
     (r"blanket|manta|throw", "Manta", "Throw"),
     (r"mug|taza", "Taza", "Mug"),
-    (r"poster|canvas|lienzo|wall art|cuadro|tapestry", "Lámina", "Art Print"),
+    (r"poster|canvas|lienzo|wall art|\bcuadro\b|tapestry", "Lámina", "Art Print"),
     (r"candle|vela", "Vela", "Candle"),
     (r"rug|alfombra", "Alfombra", "Rug"),
     (r"towel|toalla", "Toalla", "Towel"),
     (r"phone case|funda", "Funda", "Case"),
+    (r"luggage|suitcase|maleta|carry[ -]?on|trolley", "Maleta", "Luggage"),
     (r"placemat|mantel", "Mantel Individual", "Placemat"),
     (r"shot glass|chupito", "Vaso de Chupito", "Shot Glass"),
     (r"wine|vino|\bcopas?\b", "Copa de Vino", "Wine Glass"),
@@ -141,6 +143,8 @@ DECOR_TYPES = [
 ]
 
 APPAREL = [
+    (r"\bbag\b|wallet|tote|backpack|purse|clutch|bolso|\bbolsas?\b|cartera|mochila|card ?holder|tarjetero|lunch", "bolsos-carteras", "bolsos-carteras", "Bolso", "Bag"),
+    (r"\bhat\b|\bcap\b(?![ -]?sleeve)|beanie|scarf|bucket|gorro|gorra|bufanda|sombrero|visor|bandana|pa[nñ]uelo|balaclava", "gorro-bufanda", "gorros-bufandas", "Gorro", "Hat"),
     (r"necktie|bow ?tie|corbata|\bties?\b(?![ -]?(front|dye|waist|up|back|knot|side))", "corbatas", None, "Corbata", "Tie"),
     (r"\bbelt\b|cinturon|cinturón", "cinturon", None, "Cinturón", "Belt"),
     (r"blazer|suit jacket|americana", "americana-blazer", "chaqueta-sudadera-sueter", "Blazer", "Blazer"),
@@ -153,20 +157,18 @@ APPAREL = [
     (r"skirt|falda", None, "falda", "Falda", "Skirt"),
     (r"legging", "mallas", "leggings", "Leggings", "Leggings"),
     (r"tights|compression|\bmalla", "mallas", "leggings", "Mallas", "Tights"),
-    (r"tracksuit|jogger|sweatpant|chandal|chándal|hoodie|sweatshirt|sudadera", "chandal-sudaderas", "chaqueta-sudadera-sueter", "Sudadera", "Sweatshirt"),
+    (r"tracksuit|jogger|sweatpant|chandal|chándal|hoodie|sweatshirt|sudadera|fleece|forro polar|\bpolar\b|quarter[ -]?zip|1/4 zip|half[ -]?zip|zip[ -]?up", "chandal-sudaderas", "chaqueta-sudadera-sueter", "Sudadera", "Sweatshirt"),
     (r"\bset\b|conjunto|co-ord|two piece|2 piece", "conjuntos", "conjuntos", "Conjunto", "Set"),
     (r"baseball|b[eé]isbol|softball|football jersey|hockey jersey|sports jersey", "camisas", "camisas", "Camisa", "Jersey Shirt"),
     (r"\bvest\b|chaleco|gilet|\bcape\b|\bcapa\b|poncho", "abrigo-chaqueta-sueter", "chaqueta-sudadera-sueter", "Chaleco", "Vest"),
     (r"\bcoat\b|overcoat|trench|jacket|parka|bomber|puffer|windbreaker|abrigo|chaqueta|cazadora|anorak", "abrigo-chaqueta-sueter", "chaqueta-sudadera-sueter", "Chaqueta", "Jacket"),
     (r"polo", "polos", "polo", "Polo", "Polo"),
-    (r"t-shirt|tshirt|\btee\b|camiseta|tank|crop|\btops?\b", "camiseta", "camisetas-blusas-tops", "Camiseta", "Tee"),
+    (r"t-shirt|tshirt|\btee\b|camiseta|tank|crop|\btops?\b|muscle|sleeveless|sin mangas", "camiseta", "camisetas-blusas-tops", "Camiseta", "Tee"),
     (r"blouse|blusa", None, "camisetas-blusas-tops", "Blusa", "Blouse"),
     (r"shirt|camisa|button", "camisas", "camisas", "Camisa", "Shirt"),
     (r"sweater|cardigan|pullover|jumper|knit|su[eé]ter|jersey|punto", "abrigo-chaqueta-sueter", "chaqueta-sudadera-sueter", "Suéter", "Sweater"),
     (r"shorts|bermuda|pantal[oó]n corto", "pantalones-cortos", "pantalones-cortos", "Bermuda", "Shorts"),
     (r"pants|trouser|jean|chino|pantal[oó]n", "pantalones", "pantalones", "Pantalón", "Trousers"),
-    (r"\bbag\b|wallet|tote|backpack|purse|clutch|bolso|\bbolsas?\b|cartera|mochila|card ?holder|tarjetero|lunch", "bolsos-carteras", "bolsos-carteras", "Bolso", "Bag"),
-    (r"\bhat\b|\bcap\b|beanie|scarf|bucket|gorro|gorra|bufanda|sombrero|visor|bandana|pa[nñ]uelo|balaclava", "gorro-bufanda", "gorros-bufandas", "Gorro", "Hat"),
 ]
 
 COLORS = {
@@ -229,11 +231,25 @@ def detect_gender(row, text):
 
 
 def classify(row):
-    """Devuelve (lista_de_categorías, nombre ES, nombre EN, necesita_revisión)."""
-    text = " ".join([row.get("type", ""), row.get("title", ""),  # el código del producto también da pistas (womens-cropped-jacket)
-                     re.sub(r"[-_]+", " ", str(row.get("supplier_id", "")))]).lower()
+    """Devuelve (lista_de_categorías, nombre ES, nombre EN, necesita_revisión).
+    Primero manda el NOMBRE del producto; solo si el nombre no dice qué es, se miran el tipo y las etiquetas."""
+    noise = r"bella ?\+? ?canvas|bella\s*&\s*canvas|comfort colors|next level|gildan|champion|cotton heritage|\b\d{3,5}\b"
+    clean = lambda x: re.sub(noise, " ", str(x or "").lower())
+    title_text = clean(" ".join([row.get("title", ""), re.sub(r"[-_]+", " ", str(row.get("supplier_id", "")))]))
+    text = clean(" ".join([row.get("type", ""), title_text]))
     gender = detect_gender(row, text)
+    # Orden de confianza: lo que vio la IA en la foto → el nombre → la categoría de Shopify → el tipo → las etiquetas
+    passes = [clean(row.get("ai_type")), title_text, clean(row.get("shop_category")), text,
+              clean(" ".join([text, row.get("tags", "")]))]
+    for t in [x for x in passes if x.strip()]:
+        got = _classify_text(t, gender)
+        if got:
+            return got
+    fallback = "mujer/camisetas-blusas-tops" if gender == "women" else "hombre/camiseta"
+    return [fallback], "Pieza", "Piece", True
 
+
+def _classify_text(text, gender):
     for pattern, men_sub, women_sub, n_es, n_en in FOOTWEAR:
         if re.search(pattern, text):
             if gender == "women":
@@ -241,12 +257,6 @@ def classify(row):
             if gender == "men":
                 return [f"calzado-hombre/{men_sub}"], n_es, n_en, False
             return [f"calzado-hombre/{men_sub}", f"calzado-mujer/{women_sub}"], n_es, n_en, False
-
-    if re.search(DECOR, text):
-        for pat, n_es, n_en in DECOR_TYPES:
-            if re.search(pat, text):
-                return ["decor"], n_es, n_en, False
-        return ["decor"], "Objeto Maison", "Maison Object", False
 
     for pattern, men_sub, women_sub, n_es, n_en in APPAREL:
         if re.search(pattern, text):
@@ -259,14 +269,12 @@ def classify(row):
                 continue
             return cats, n_es, n_en, False
 
-    if re.search(LIFESTYLE, text):
+    if re.search(DECOR, text) or re.search(LIFESTYLE, text):
         for pat, n_es, n_en in DECOR_TYPES:
             if re.search(pat, text):
                 return ["decor"], n_es, n_en, False
         return ["decor"], "Objeto Maison", "Maison Object", False
-
-    fallback = "mujer/camisetas-blusas-tops" if gender == "women" else "hombre/camiseta"
-    return [fallback], "Pieza", "Piece", True
+    return None
 
 
 # ------------------------------------------------------------- precios
@@ -292,7 +300,8 @@ def lowest_price(cost, ship_main, ship_worst, cfg):
     f = pr.get("stripe_fee_pct", 4.5) / 100
     fixed = pr.get("stripe_fee_fixed", 0.30)
     t = pr.get("target_margin_pct", 20) / 100
-    m = pr.get("min_margin_pct", 15) / 100
+    # Europa (envío más caro) solo tiene que dejar un pequeño beneficio, no el 15 %: si no, todo sube de precio
+    m = pr.get("min_margin_worst_pct", 5) / 100
     raw = max((cost + ship_main + fixed) / (1 - t - f), (cost + ship_worst + fixed) / (1 - m - f))
     price = math.ceil(raw + 0.01) - 0.01 if pr.get("ending_99", True) else math.ceil(raw)
     profit = price - cost - ship_main - (price * f + fixed)
@@ -315,8 +324,8 @@ def printify_shipping(bp, pp):
             countries = prof.get("countries", [])
             if "US" in countries:
                 us = c if us is None else max(us, c)
-            if any(x in countries for x in ("ES", "REST_OF_THE_WORLD", "DE", "FR", "GB")):
-                worst = c if worst is None else max(worst, c)
+            if any(x in countries for x in ("ES", "DE", "FR", "IT", "GB")):
+                worst = c if worst is None else max(worst, c)  # Europa; el "resto del mundo" ya no infla el precio
     except Exception:
         pass
     us = us if us is not None else 6.0
@@ -438,7 +447,7 @@ def read_printify():
                         "supplier": "Printify",
                         "supplier_id": f"{p['id']}-{slug(color)}" if color and len(groups) > 1 else str(p["id"]),
                         "supplier_product_id": str(p["id"]),
-                        "title": p.get("title", ""), "type": " ".join(p.get("tags", [])),
+                        "title": p.get("title", ""), "type": "", "tags": " ".join(p.get("tags", [])),
                         "gender": "", "color": color, "material": "",
                         "cost_usd": str(max(v.get("cost", 0) for v in vs) / 100),
                         "shipping_usd": str(printify_shipping(p.get("blueprint_id"), p.get("print_provider_id"))[0]),
@@ -948,6 +957,34 @@ COLOR_WORDS = {"color", "colour", "negro", "negra", "blanco", "blanca", "rojo", 
                "claro", "oscuro", "obsidian", "quartz"}
 
 
+def _color_label(p, lang):
+    c = (p.get("color") or "").strip()
+    if not c:
+        return ""
+    hit = COLORS.get(c.lower().split()[0]) if c.split() else None
+    return hit[0 if lang == "es" else 1] if hit and len(c.split()) == 1 else c.title()
+
+
+def unify_names(plist):
+    """El mismo diseño en varios colores lleva EL MISMO nombre; solo cambia el color del final."""
+    groups = {}
+    for p in plist:
+        groups.setdefault(p.get("cg") or p["id"], []).append(p)
+    for sibs in groups.values():
+        if len(sibs) < 2:
+            continue
+        lead = next((q for q in sibs if q.get("ai_done") and not q.get("hidden")), None) or sibs[0]
+        for lang in ("es", "en"):
+            base = re.split(r"\s+·\s+", lead.get(f"name_{lang}") or "")[0].strip()
+            if not base:
+                continue
+            for q in sibs:
+                if q.get("locked_copy"):
+                    continue
+                col = _color_label(q, lang)
+                q[f"name_{lang}"] = f"{base} · {col}" if col else base
+
+
 # ------------------------------------------------------- limpieza automática
 def cleanup(plist, cfg):
     """Archiva (oculta, sin borrar) lo que el proveedor ya no tiene, y lo recupera solo si vuelve.
@@ -988,7 +1025,8 @@ def cleanup(plist, cfg):
             newly.append(p)
         if st.get("sales_30d"):
             p["ever_sold"] = True
-        p["hidden"] = bool(p.get("archived")) or (p.get("draft") and not p.get("ai_done"))
+        p["hidden"] = (bool(p.get("archived")) or (p.get("draft") and not p.get("ai_done"))
+                       or (p.get("needs_review") and not p.get("ai_done") and not p.get("locked_category")))
         if p["hidden"]:
             p["available"] = False
     if flags.get("archive") or flags.get("restore"):
@@ -1001,7 +1039,7 @@ def cleanup(plist, cfg):
 
 # ------------------------------------------------ archivos rápidos para la web
 LITE = ("id", "name_es", "name_en", "price_usd", "offer", "badge", "categories", "available", "rank", "created",
-        "page", "supplier_id", "fam", "cg", "color")
+        "page", "supplier_id", "fam", "cg", "color", "art_score")
 ITEM_SKIP = ("cost_usd", "margin_pct", "markup_adjust", "price_history", "score", "source_text", "raw_images",
              "variant_map", "sku_map", "size_values", "stripe_product_id", "stripe_link_id", "stripe_offer_link_id",
              "stripe_price_cents", "stripe_offer_cents", "stripe_site", "images_model", "images_original",
@@ -1047,6 +1085,8 @@ def why_hidden(p):
         return WHY.get(p["archived"], "Archivado: " + str(p["archived"]))
     if p.get("draft") and not p.get("ai_done"):
         return "Borrador: esperando la revisión de la IA"
+    if p.get("needs_review") and not p.get("ai_done"):
+        return "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
     if p.get("hide_reason"):
         return "Vigilante: " + p["hide_reason"]
     return "Oculto"
@@ -1087,7 +1127,8 @@ def write_panel(plist, stats):
                    "sin_boton_de_pago": sum(1 for p in vis if not p.get("stripe_payment_link")),
                    "seccion_dudosa": sum(1 for p in real if p.get("needs_review") and not p.get("hidden")),
                    "ventas_30_dias": sum(v.get("sales_30d", 0) for v in stats.values()),
-                   "visitas_30_dias": sum(v.get("views", 0) for v in stats.values())},
+                   "visitas_30_dias": sum(v.get("views", 0) for v in stats.values()),
+                   "fotos_de_campana": sum(1 for p in real if p.get("studio_img"))},
         "reasons": reasons, "suppliers": sup,
         "guard": [{"date": d.get("date"), "n": len(d.get("fixes", [])), "fixes": d.get("fixes", [])[-60:]} for d in qlog],
         "top_sales": top("sales_30d"), "top_views": top("views"),
@@ -1106,10 +1147,10 @@ def ai_enrich(plist, cfg):
         return
     import tempfile
     limit = cfg.get("ai", {}).get("enrich_per_run", 40)
-    todo = [p for p in plist if not p.get("ai_done") and not p.get("locked_copy") and not p.get("archived")
-            and not str(p.get("supplier_id", "")).upper().startswith("DEMO-")]
-    todo.sort(key=lambda p: (not (p.get("ai_priority") or p.get("needs_review")), bool(p.get("hidden")),
-                             bool(p.get("draft"))))  # primero lo dudoso, luego lo que ya se ve, los borradores al final
+    todo = [p for p in plist if (not p.get("ai_done") or (p.get("ai_ver", 1) < 2 and not p.get("ai_fail")))
+            and not p.get("archived") and not str(p.get("supplier_id", "")).upper().startswith("DEMO-")]
+    todo.sort(key=lambda p: (bool(p.get("ai_done")), not (p.get("ai_priority") or p.get("needs_review")),
+                             bool(p.get("hidden")), bool(p.get("draft"))))  # primero lo dudoso, luego lo que ya se ve, los borradores al final
     done = 0
     stop_at = time.time() + 60 * float(cfg.get("ai", {}).get("minutes_per_run", 15))
     for p in todo[:limit]:
@@ -1152,7 +1193,12 @@ def ai_enrich(plist, cfg):
             if ph.get("kind") == "size_guide":
                 guides.append(u)
             elif ph.get("kind") != "other" and ph.get("sharp", True) is not False:
-                keep.append({"u": u, "k": ph.get("kind", "product")})
+                keep.append({"u": u, "k": ph.get("kind", "product"), "q": ph.get("quality", "ok")})
+        p["art_score"] = out.get("art_score")
+        p["art_note"] = str(out.get("art_note") or "")[:160]
+        # fotos que dan imagen barata (montajes, cabezas cortadas, plantillas...): fuera, y foto de campaña nueva
+        p["needs_studio"] = any(x["q"] == "cheap" for x in keep) or not any(x["q"] == "premium" for x in keep)
+        p["ai_ver"] = 2
         if keep or guides:
             p["ai_images"] = {"keep": keep, "guides": guides}
             apply_ai_images(p)
@@ -1207,7 +1253,10 @@ def apply_ai_images(p):
     fotos con modelo solo si las elegiste tú (Shopify/bot) o subiste tu foto verificada."""
     ai = p.get("ai_images") or {}
     ver = verified_photos(p["id"])
-    keep = [x["u"] for x in ai.get("keep", []) if x.get("k") != "model" or p.get("shop_verified")]
+    pool = ai.get("keep", [])
+    if any(x.get("q") != "cheap" for x in pool):  # si hay alternativa, las fotos "baratas" no se enseñan
+        pool = [x for x in pool if x.get("q") != "cheap"]
+    keep = [x["u"] for x in pool if x.get("k") != "model" or p.get("shop_verified")]
     p["visual_verified"] = bool(ver) or bool(p.get("shop_verified"))
     p["display_images"] = list(dict.fromkeys(ver + keep)) or ver + p.get("images_original", [])
     if ai.get("guides"):
@@ -1236,6 +1285,112 @@ def sort_images(p, row_images, row_model_images):
     p["visual_verified"] = bool(ver)
     # Regla de fidelidad: sin foto verificada, solo se muestran las originales nítidas.
     p["display_images"] = ver + p["images_original"] if ver else list(p["images_original"])
+
+
+# ------------------------------------------------------- estudio de fotos con IA
+SCENES = [
+    "the grand staircase of a classic Parisian opera house", "a sunlit terrace of a luxury villa on the Amalfi coast",
+    "the marble lobby of a five-star hotel in Monaco", "a Manhattan penthouse at golden hour with skyline windows",
+    "a private yacht deck in the Mediterranean", "a royal palace gallery with gilded mirrors",
+    "a cobblestone street in Milan's fashion district", "a modern art museum hall with soft daylight",
+    "a vineyard estate in Tuscany at sunset", "the courtyard of an elegant Madrid palace",
+    "a minimalist luxury photo studio with warm light", "a rooftop bar in Dubai at dusk",
+]
+
+
+def _studio_prompt(p):
+    cats = p.get("categories") or [""]
+    group = cats[0].split("/")[0]
+    scene = pick(p["id"] + "scene", SCENES)
+    keep = ("Keep the product EXACTLY as in the attached photo: same design, cut, colors, print, pattern and logo "
+            "position. Do not add text, brands or watermarks. Photorealistic, natural skin and hands, 4k, "
+            "luxury fashion campaign, elegant and tasteful pose.")
+    if group == "decor":
+        return f"Create a real-looking luxury lifestyle photo of this exact product, styled in {scene}, no people. {keep}"
+    if group.startswith("calzado"):
+        who = "a woman" if group == "calzado-mujer" else "a man"
+        return f"Create a real-looking campaign photo of {who} wearing these exact shoes in {scene}, the shoes clearly visible. {keep}"
+    both = {"hombre", "mujer"} <= {c.split("/")[0] for c in cats}
+    if both:
+        who = pick(p["id"] + "who", ["a real male fashion model", "a real female fashion model"])
+    else:
+        who = "a real female fashion model" if group == "mujer" else "a real male fashion model"
+    return f"Create a real-looking campaign photo of {who} wearing this exact garment in {scene}. {keep}"
+
+
+def photo_studio(plist, cfg):
+    """Cada producto (y cada color) recibe su propia foto de campaña: modelo real, sitio real, TU prenda intacta.
+    La IA comprueba después que la prenda es exactamente la misma; si no, la foto se descarta."""
+    st = cfg.setdefault("studio", {})
+    st.setdefault("enabled", True)
+    st.setdefault("per_run", 12)
+    st.setdefault("model", "gemini-2.5-flash-image")
+    studio_dir = os.path.join(ROOT, "assets", "products", "studio")
+    for p in plist:  # las fotos ya hechas van primero (la original sigue detrás)
+        sp = p.get("studio_img")
+        if sp and os.path.exists(os.path.join(ROOT, sp)):
+            p["display_images"] = [sp] + [u for u in p.get("display_images", []) if u != sp]
+    if not st.get("enabled") or not ai_vision.ready() or st.get("blocked_on") == TODAY:
+        return
+    import tempfile
+    sizes = {}
+    for p in plist:
+        if not p.get("hidden"):
+            sizes[p.get("cg") or p["id"]] = sizes.get(p.get("cg") or p["id"], 0) + 1
+
+    def needs_photo(p):
+        # sin foto con modelo, o con la MISMA modelo repetida en varios colores → necesita su foto propia
+        repeated = sizes.get(p.get("cg") or p["id"], 1) > 1
+        return repeated or not p.get("images_model") or p.get("needs_studio")
+
+    todo = [p for p in sorted(plist, key=lambda x: (sizes.get(x.get("cg") or x["id"], 1) == 1, x.get("rank", 9999)))
+            if not p.get("hidden") and p.get("ai_done") and not p.get("studio_img")
+            and (p.get("studio_fail") or 0) < 2 and p.get("display_images") and needs_photo(p)]
+    made = tried = 0
+    os.makedirs(studio_dir, exist_ok=True)
+    for p in todo:
+        if tried >= st.get("per_run", 12):
+            break
+        tried += 1
+        src = p["display_images"][0]
+        tmp = tempfile.mkdtemp()
+        orig = os.path.join(tmp, "orig.jpg")
+        try:
+            if src.startswith("http"):
+                rq = urllib.request.Request(src, headers={"User-Agent": "Mozilla/5.0 DAZMOND"})
+                with urllib.request.urlopen(rq, timeout=40) as r, open(orig, "wb") as f:
+                    f.write(r.read())
+            else:
+                shutil.copy(os.path.join(ROOT, src), orig)
+        except Exception:
+            continue
+        img = ai_vision.studio_photo(orig, _studio_prompt(p), st.get("model"))
+        if img is None:
+            if ai_vision.STUDIO_ERROR.startswith("bloqueado"):
+                st["blocked_on"] = TODAY
+                st["blocked_reason"] = ai_vision.STUDIO_ERROR[:200]
+                log("Estudio de fotos: Google no permite crear imágenes con esta clave gratuita hoy. "
+                    "Se reintenta mañana.")
+                break
+            p["studio_fail"] = (p.get("studio_fail") or 0) + 1
+            continue
+        new = os.path.join(tmp, "new.png")
+        with open(new, "wb") as f:
+            f.write(img)
+        check = ai_vision.same_product(orig, new) or {}
+        if not (check.get("same") and check.get("realistic", True)):
+            p["studio_fail"] = (p.get("studio_fail") or 0) + 1
+            log(f"Estudio: foto descartada para {p['id']} ({check.get('reason', 'sin control')})")
+            continue
+        final = ai_vision.compress(new, os.path.join(studio_dir, p["id"]), 1100)
+        rel = os.path.relpath(final, ROOT).replace(os.sep, "/")
+        p["studio_img"] = rel
+        p["display_images"] = [rel] + [u for u in p.get("display_images", []) if u != rel]
+        made += 1
+        time.sleep(4)
+    if tried:
+        st.pop("blocked_reason", None) if made else None
+        log(f"Estudio de fotos: {made} fotos de campaña nuevas (de {tried} intentos)")
 
 
 # ----------------------------------------------------- campañas por temporada
@@ -1349,6 +1504,14 @@ def main():
     detect_site(cfg)
     old_list = load_json("products.json", {"products": []}).get("products", [])
     old = {p["id"]: p for p in old_list}
+    if not cfg.get("migr_cls2"):  # reglas nuevas: las correcciones automáticas antiguas se recalculan una vez
+        for p in old.values():
+            p.pop("fixed_cats", None)
+        cfg["migr_cls2"] = True
+    ai_cfg = cfg.setdefault("ai", {})  # más productos revisados por la IA cada hora
+    ai_cfg["enrich_per_run"] = max(ai_cfg.get("enrich_per_run", 0), 150)
+    ai_cfg["minutes_per_run"] = max(ai_cfg.get("minutes_per_run", 0), 20)
+    cfg.setdefault("guard", {})["ai_audit_per_run"] = max(cfg["guard"].get("ai_audit_per_run", 0), 20)
     analytics = load_json("store_analytics.json", {"products": {}})
     stats = analytics.setdefault("products", {})
 
@@ -1371,6 +1534,8 @@ def main():
             r["title"] = r["ai_title"]
         pid = slug(r["supplier"]) + "-" + slug(r.get("supplier_id") or r["title"])
         prev = old.get(pid, {})
+        if not r.get("shop_category") and prev.get("shop_category"):
+            r["shop_category"] = prev["shop_category"]  # la categoría que tenía en Shopify (aunque venga de Printful)
         cats, n_es, n_en, review = classify(r)
         # Una sola decisión que se mantiene hora tras hora (antes el vigilante y el motor se corregían el uno al otro):
         # 1.º lo que fijes tú · 2.º la corrección del vigilante · 3.º lo que vio la IA en las fotos · 4.º las reglas
@@ -1406,6 +1571,7 @@ def main():
             "needs_review": review, "created": prev.get("created", TODAY),
             "material": r.get("material", "") or prev.get("material", ""),
             "color": r.get("color", "") or prev.get("color", ""),
+            "shop_category": r.get("shop_category", "") or prev.get("shop_category", ""),
         })
         urls = lambda key: [u.strip() for u in r.get(key, "").split("|") if u.strip().startswith(("http", "assets/"))]
         p["_row_images"], p["_row_model"] = urls("images"), urls("model_images")
@@ -1446,7 +1612,8 @@ def main():
         p["source_text"] = " ".join(x for x in (r.get("title", ""), r.get("type", ""), r.get("color", ""),
                                                  r.get("material", ""), r.get("description", "")) if x)[:3000]
         if not prev.get("locked_copy") and not prev.get("ai_copy"):  # plantilla mientras la IA no lo reescribe
-            p["name_es"], p["name_en"], p["desc_es"], p["desc_en"] = luxury_copy(pid, n_es, n_en, r)
+            fam_key = slug(r["supplier"]) + "-" + str(r.get("supplier_product_id") or slug(r["title"]))
+            p["name_es"], p["name_en"], p["desc_es"], p["desc_en"] = luxury_copy(fam_key, n_es, n_en, r)
         fixed = 0.0
         try:
             fixed = float(r.get("price_usd") or 0)
@@ -1471,21 +1638,29 @@ def main():
     plist = [p for p in plist if not (real and str(p.get("supplier_id", "")).upper().startswith("DEMO-"))]
     # Si un producto de Printify/Printful llega dos veces (por la conexión directa y por la mudanza de
     # Shopify), se queda la versión conectada (pedidos automáticos) con tus fotos y guía de Shopify.
-    api, by_sku = {}, {}
+    def tkey(p):  # el mismo producto aunque venga de otro sitio: nombre limpio (+ color)
+        t = re.sub(r"[^a-z0-9]+", " ", slug(p.get("source_title") or "").replace("-", " ")).strip()
+        return t, slug(p.get("color") or "")
+    api, by_sku, by_title = {}, {}, {}
     for p in plist:
         if p.get("variant_map") and p.get("supplier") in ("Printify", "Printful"):
-            api.setdefault((p["supplier"], (p.get("source_title") or "").strip().lower()), p)
+            k = tkey(p)
+            api.setdefault(k, p)
+            by_title.setdefault(k[0], p)
             for sku in p.get("skus", []):
                 by_sku[sku] = p
     merged = []
     for p in plist:
-        key = (p.get("supplier"), (p.get("source_title") or "").strip().lower())
-        twin = next((by_sku[s] for s in (p.get("sku_map") or {}).values() if s in by_sku), None) or api.get(key)
+        k = tkey(p)
+        twin = (next((by_sku[s] for s in (p.get("sku_map") or {}).values() if s in by_sku), None)
+                or api.get(k) or by_title.get(k[0]))
         if twin and twin is not p and not p.get("variant_map"):
             for k in ("size_guide", "size_chart", "details_src"):
                 if p.get(k) and not twin.get(k):
                     twin[k] = p[k]
             twin["_shop_photos"] = (p.get("_row_images") or []) + (p.get("display_images") or [])
+            if p.get("shop_category") and not twin.get("shop_category"):
+                twin["shop_category"] = p["shop_category"]
             twin["shop_verified"] = twin.get("shop_verified") or p.get("shop_verified")
             if p.get("fixed_price") and not twin.get("locked_price") and not twin.get("cost_usd"):
                 twin["price_usd"], twin["margin_pct"], twin["fixed_price"] = p["price_usd"], p.get("margin_pct"), True
@@ -1593,6 +1768,9 @@ def main():
     for p in plist:
         p["fam"] = family_of(p)
         p["cg"] = color_group(p)
+    unify_names(plist)
+    photo_studio(plist, cfg)
+    stage("estudio de fotos")
     complete_the_look(plist)
     cap = cfg.get("stripe", {}).get("links_per_run", 250)
     made = 0
