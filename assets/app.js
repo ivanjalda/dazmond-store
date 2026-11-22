@@ -12,6 +12,7 @@
   const T = {
     es: {
       topbar: 'Envíos a todo el mundo · Confección bajo demanda · Pago seguro',
+      colors: 'colores', color: 'Color',
       hero_eyebrow: 'Casa de moda americana · Registrada en EE. UU.',
       hero_title: 'DAZMOND & Co.',
       hero_text: 'Prendas únicas, ediciones irrepetibles y una forma nueva de entender el lujo: exclusivo, cercano y a un precio accesible.',
@@ -55,6 +56,7 @@
     },
     en: {
       topbar: 'Worldwide shipping · Made to order · Secure checkout',
+      colors: 'colours', color: 'Colour',
       hero_eyebrow: 'American fashion house · Registered in the USA',
       hero_title: 'DAZMOND & Co.',
       hero_text: 'One-of-a-kind pieces, limited editions and a new way to experience luxury: exclusive, personal and accessibly priced.',
@@ -147,7 +149,8 @@
     ]);
     S.cfg = cfg; S.catalog = catalog; S.camp = camp || { active: false };
     S.products = (prod.products || []).slice().sort((a, b) => (a.rank || 999) - (b.rank || 999));
-    S.products.forEach(p => { S.byId[p.id] = p; });
+    S.byCg = {};
+    S.products.forEach(p => { S.byId[p.id] = p; const k = p.cg || p.id; (S.byCg[k] = S.byCg[k] || []).push(p); });
     if (!S.lang) S.lang = (navigator.language || 'es').toLowerCase().startsWith('es') ? 'es' : (cfg.default_lang || 'en');
     if (!S.cur) S.cur = S.lang === 'es' && /^es|^fr|^de|^it|^pt|^nl/.test((navigator.language || '').toLowerCase()) ? 'EUR' : (cfg.default_currency || 'USD');
     bindUI(); applyStatic(); renderNav(); route(); updateCounts(); initFirebase(); initAnalytics();
@@ -234,6 +237,7 @@
     else if (parts[0] === 'legal') legalView(parts[1]);
     else if (parts[0] === 'gracias') thanksView();
     else if (parts[0] === 'campana') campaignView();
+    else if (parts[0] === 'panel') panelView();
     else homeView();
     $$('#mainNav a, #mainNav button').forEach(el => el.classList.toggle('active',
       (el.getAttribute('href') || '').includes('/' + (parts[1] || parts[0])) || el.dataset.menu === (parts[1] || '').replace(/^calzado-.*/, 'calzado')));
@@ -251,7 +255,14 @@
       <button class="fav" data-fav="${p.id}" aria-label="${t('favs')}">${fav ? '♥' : '♡'}</button>
       <div class="img">${img}</div>
       <div class="info"><div class="name">${esc(p['name_' + S.lang] || p.name_en)}</div>
-      <div class="price">${priceHTML(p)}</div></div></a>`;
+      <div class="price">${priceHTML(p)}</div>
+      ${siblings(p).length > 1 ? `<div class="ncolors">${siblings(p).length} ${t('colors')}</div>` : ''}</div></a>`;
+  }
+  /* Un mismo diseño en varios colores sale UNA sola vez en las listas; los colores se eligen en la ficha */
+  const siblings = p => (S.byCg && S.byCg[p.cg || p.id]) || [p];
+  function collapse(list) {
+    const seen = new Set();
+    return list.filter(p => { const k = p.cg || p.id; if (seen.has(k)) return false; seen.add(k); return true; });
   }
   const grid = list => list.length ? list.map(card).join('') : `<p class="empty">${t('empty')}</p>`;
   const picks = ids => (ids || []).map(id => S.byId[id]).filter(Boolean);
@@ -337,7 +348,7 @@
     document.title = c.title + ' — DAZMOND & Co.';
     app.innerHTML = `<section class="campaign" style="border-top:0"><p class="eyebrow">${esc(c.eyebrow)}</p><h2>${esc(c.title)}</h2><p>${esc(c.text)}</p>
       ${S.camp.ends ? `<p class="ends">${t('until')} ${fdate(S.camp.ends)}</p>` : ''}</section>
-      <section class="section" style="padding-top:2px"><div class="runway">${grid(picks(S.camp.selection))}</div></section>`;
+      <section class="section" style="padding-top:2px"><div class="runway">${grid(collapse(picks(S.camp.selection)))}</div></section>`;
   }
 
   /* ---------- Listados con filtros ---------- */
@@ -389,6 +400,7 @@
       if (v.sort === 'low') list.sort((a, b) => priceNow(a) - priceNow(b));
       if (v.sort === 'high') list.sort((a, b) => priceNow(b) - priceNow(a));
       if (v.sort === 'new') list.sort((a, b) => (b.created || '').localeCompare(a.created || ''));
+      list = collapse(list);
       let shown = 48;  // se muestran de 48 en 48 para que el móvil vaya rápido
       const paint = () => {
         $('#listGrid').innerHTML = grid(list.slice(0, shown));
@@ -427,7 +439,7 @@
     let size = null;
     const list = imgs(p).length ? imgs(p) : [null];
     const shots = list.map(u => `<div class="shot">${u ? `<img src="${esc(u)}" alt="${esc(name)}" decoding="async">` : '<span class="ph" style="font-size:140px">D</span>'}</div>`).join('');
-    const look = picks(p.look);
+    const look = collapse(picks(p.look).filter(q => (q.cg || q.id) !== (p.cg || p.id)));
     const canBuy = p.available !== false && p.price_usd > 0;
     const c = p.offer && S.camp.active && S.camp[S.lang];
     const info = (S.catalog.menus.find(m => m.groups.some(g => g.id === (p.categories || [''])[0].split('/')[0])) || {});
@@ -450,6 +462,8 @@
           ${c ? `<p class="camp-tag" style="margin-top:14px">${esc(c.title)}${p.offer.ends ? ' · ' + t('until') + ' ' + fdate(p.offer.ends) : ''}</p>` : ''}
           <div class="pdp-price">${priceHTML(p)}</div>
           ${S.cur === 'EUR' ? `<p class="note">${t('fx_note')}</p>` : ''}
+          ${siblings(p).length > 1 ? `<p class="eyebrow" style="margin-top:26px">${t('color')}${p.color ? ' · ' + esc(p.color) : ''}</p>
+            <div class="swatches">${siblings(p).map(q => `<a href="${plink(q)}" class="${q.id === p.id ? 'sel' : ''}" title="${esc(q.color || '')}" aria-label="${esc(q.color || q.name_en)}">${q.img ? `<img src="${esc(abs(q.img))}" alt="" loading="lazy">` : '<span>' + esc((q.color || '·').slice(0, 2)) + '</span>'}</a>`).join('')}</div>` : ''}
           ${p.sizes && p.sizes.length ? `<p class="eyebrow" style="margin-top:26px">${t('size')}</p>
             <div class="options" id="sizes">${p.sizes.map(s => `<button type="button" data-size="${esc(s)}">${esc(s)}</button>`).join('')}</div>` : '<div style="height:22px"></div>'}
           <div class="actions">
@@ -565,9 +579,65 @@
     const res = S.products.filter(p => {
       const txt = [p.name_es, p.name_en, p.source_title, (p.categories || []).join(' ')].join(' ').toLowerCase();
       return words.every(w => txt.includes(w));
-    }).slice(0, 24);
-    $('#searchResults').innerHTML = grid(res);
+    });
+    $('#searchResults').innerHTML = grid(collapse(res).slice(0, 24));
     $$('#searchResults a').forEach(a => a.addEventListener('click', closeLayers));
+  }
+
+  /* ---------- Panel del dueño (#/panel): todo lo que pasa dentro de la tienda ---------- */
+  async function sha256(txt) {
+    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+  async function panelView() {
+    document.title = 'Panel del dueño — DAZMOND & Co.';
+    app.innerHTML = '<section class="section"><p class="empty">…</p></section>';
+    const P = await getJSON(BASE + 'data/panel.json', null);
+    if (!P) { app.innerHTML = '<section class="section panel"><h1>Panel del dueño</h1><p class="muted">El panel aparecerá cuando la tienda termine su próxima hora de trabajo.</p></section>'; return; }
+    if (!P.key) { app.innerHTML = '<section class="section panel"><h1>Panel del dueño</h1><p class="muted">Primero crea tu clave: escribe a tu bot de Telegram <b>PANEL</b> y tu clave (por ejemplo: PANEL Dazmond2026). En una hora podrás entrar.</p></section>'; return; }
+    let ok = false;
+    try { ok = sessionStorage.getItem('dz_panel') === P.key; } catch (e) { ok = false; }
+    if (!ok) {
+      app.innerHTML = `<section class="section panel"><h1>Panel del dueño</h1><form id="pf" class="panel-login">
+        <input type="password" name="k" placeholder="Tu clave" autocomplete="current-password"><button class="btn btn-solid">Entrar</button></form><p class="muted" id="pmsg"></p></section>`;
+      $('#pf').onsubmit = async e => {
+        e.preventDefault();
+        const h = await sha256(e.target.k.value.trim());
+        if (h === P.key) { try { sessionStorage.setItem('dz_panel', h); } catch (er) { /* sin almacenamiento */ } panelView(); }
+        else $('#pmsg').textContent = 'Clave incorrecta.';
+      };
+      return;
+    }
+    const T0 = P.totals || {};
+    const num = (n, lbl) => `<div class="kpi"><b>${(n || 0).toLocaleString('es-ES')}</b><span>${lbl}</span></div>`;
+    const row = x => `<tr><td>${x.img ? `<img src="${esc(abs(x.img))}" alt="" loading="lazy">` : ''}</td><td><a href="${BASE}#/p/${esc(x.id)}">${esc(x.n)}</a><br><small>${esc(x.id)}</small></td><td>${esc(x.s)}</td><td>${esc(x.why || x.c || '')}${x.v != null ? ' · ' + x.v : ''}</td></tr>`;
+    const reasons = Object.keys(P.hidden.reduce((o, x) => { o[x.why.split(':')[0]] = 1; return o; }, {}));
+    app.innerHTML = `<section class="section panel">
+      <p class="eyebrow">Solo para ti</p><h1>Panel del dueño</h1>
+      <p class="muted">Última vez que trabajó la tienda: <b>${esc(P.updated)}</b>. Se actualiza sola cada hora.</p>
+      <div class="kpis">${num(T0.a_la_vista, 'productos a la vista')}${num(T0.disenos_a_la_vista, 'diseños distintos (con sus colores)')}${num(T0.ocultos, 'ocultos')}${num(T0.catalogo, 'en el catálogo')}
+        ${num(T0.ia_revisados, 'revisados por la IA')}${num(T0.ia_pendientes, 'esperando a la IA')}${num(T0.con_boton_de_pago, 'con botón de pago')}${num(T0.sin_boton_de_pago, 'aún sin botón de pago')}
+        ${num(T0.seccion_dudosa, 'con sección dudosa')}${num(T0.ventas_30_dias, 'ventas (30 días)')}${num(T0.visitas_30_dias, 'visitas a productos (30 días)')}</div>
+      <h2>Por qué hay productos ocultos</h2>
+      <table class="ptable"><tbody>${Object.entries(P.reasons || {}).map(([k, v]) => `<tr><td>${esc(k)}</td><td><b>${v}</b></td></tr>`).join('')}</tbody></table>
+      <h2>Proveedores</h2>
+      <table class="ptable"><thead><tr><th>Proveedor</th><th>A la vista</th><th>Ocultos</th></tr></thead><tbody>${Object.entries(P.suppliers || {}).map(([k, v]) => `<tr><td>${esc(k)}</td><td>${v.visibles}</td><td>${v.ocultos}</td></tr>`).join('')}</tbody></table>
+      <h2>Lo que ha corregido el vigilante</h2>
+      ${(P.guard || []).slice().reverse().map(d => `<details><summary>${esc(d.date)} · ${d.n} correcciones</summary><ul class="plist">${d.fixes.map(f => `<li>${esc(f)}</li>`).join('')}</ul></details>`).join('') || '<p class="muted">Sin correcciones.</p>'}
+      ${P.top_sales && P.top_sales.length ? `<h2>Lo más vendido (30 días)</h2><table class="ptable"><tbody>${P.top_sales.map(row).join('')}</tbody></table>` : ''}
+      ${P.top_views && P.top_views.length ? `<h2>Lo más visto (30 días)</h2><table class="ptable"><tbody>${P.top_views.map(row).join('')}</tbody></table>` : ''}
+      ${P.review && P.review.length ? `<h2>Sección dudosa (la IA los revisará)</h2><table class="ptable"><tbody>${P.review.map(row).join('')}</tbody></table>` : ''}
+      <h2>Productos ocultos (${P.hidden.length})</h2>
+      <p class="muted">Para volver a poner uno en la web, escribe a tu bot: VOLVER y su código.</p>
+      <label class="muted">Ver: <select id="hf"><option value="">Todos</option>${reasons.map(r => `<option>${esc(r)}</option>`).join('')}</select></label>
+      <table class="ptable"><tbody id="hrows"></tbody></table>
+      <h2>Lo que hizo la tienda en su última hora</h2>
+      <pre class="plog">${esc((P.log || []).join('\n'))}</pre>
+      <p style="margin-top:30px"><button class="btn" id="pout">Salir del panel</button></p>
+    </section>`;
+    const paintH = () => { const f = $('#hf').value; $('#hrows').innerHTML = P.hidden.filter(x => !f || x.why.startsWith(f)).slice(0, 400).map(row).join(''); };
+    $('#hf').onchange = paintH; paintH();
+    $('#pout').onclick = () => { try { sessionStorage.removeItem('dz_panel'); } catch (e) { /* nada */ } location.hash = '#/'; };
   }
 
   /* ---------- Identidad y campañas ---------- */
