@@ -1,16 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/banador"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "recycled material",
  "ai_priority": true,
+ "ai_type": "swim trunks",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
-  "mujer/trajes-bano"
+  "hombre/banador"
  ],
  "cg": "printful-383480440",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Summer demands an impeccable presence. DAZMOND & Co. presents an essential swimwear piece, designed for sophisticated leisure. Clean lines. A refined silhouette. Crafted to order from recycled materials for the modern man. Worldwide shipping available.",
+ "desc_es": "El verano exige una presencia impecable. DAZMOND & Co. presenta una pieza esencial de baño, diseñada para el ocio sofisticado. Líneas limpias. Una silueta depurada. Confeccionado bajo demanda con materiales reciclados para el hombre moderno. Envío mundial disponible.",
+ "details_en": "· Made-to-order piece\n· Recycled materials",
+ "details_es": "· Pieza confeccionada bajo demanda\n· Materiales reciclados",
  "display_images": [
   "https://files.cdn.printful.com/files/4a9/4a9e1ebb562aa6c459f84f641962d56b_preview.png"
  ],
@@ -25,8 +35,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Manhattan Swimwear · White",
- "name_es": "Bañador Manhattan · Blanco",
+ "name_en": "DAZ Luxury Recycled Swim Trunks",
+ "name_es": "Bañador Reciclado DAZ Luxury",
  "needs_review": false,
  "page": true,
  "price_usd": 75.99,

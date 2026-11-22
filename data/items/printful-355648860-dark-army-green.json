@@ -1,14 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Dark Army Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "T-shirt",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
  "cg": "printful-355648860",
  "color": "Dark Army Green",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette with subtle charisma. Designed to deliver presence and absolute comfort. Precisely tailored in a dark army green tone. Each piece is crafted on demand to ensure unmatched exclusivity. Available with worldwide shipping. Modern luxury redefines the essential codes of the contemporary wardrobe with absolute sobriety.",
+ "desc_es": "Una silueta depurada con un carisma sutil. Diseñada para ofrecer presencia y comodidad absoluta. Confeccionada con precisión en un tono verde militar oscuro. Cada pieza se elabora bajo pedido para garantizar una exclusividad inigualable. Disponible con envío a todo el mundo. El lujo moderno redefine los códigos esenciales del guardarropa masculino y femenino con absoluta sobriedad.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/fef/fefb45fd345b890a8ead7b7cc25400c5_preview.png"
  ],
@@ -23,9 +35,9 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Avenue Piece · Green",
- "name_es": "Pieza Avenue · Verde",
- "needs_review": true,
+ "name_en": "The Dazmond Indigo 160 T-Shirt",
+ "name_es": "Camiseta The Dazmond Indigo 160",
+ "needs_review": false,
  "page": true,
  "price_usd": 36.99,
  "rank": 318,

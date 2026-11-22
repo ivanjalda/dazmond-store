@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-355671315",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The silhouette redefines the concept of contemporary elegance. Each piece is exclusively crafted to order in our ateliers. Clean lines find their balance in a sophisticated aesthetic. A design conceived for the modern wardrobe with a distinctive character. We offer worldwide shipping for your utmost convenience.",
+ "desc_es": "La silueta redefine el concepto de la elegancia contemporánea. Cada pieza se confecciona de manera exclusiva bajo pedido en nuestros talleres. Las líneas depuradas encuentran su equilibrio en una estética sofisticada. Un diseño pensado para el guardarropa moderno con un carácter distintivo. Ofrecemos envíos a todo el mundo para su máxima comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/d81/d81be32375b13b04cb5a2c87d4d27e7c_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Manhattan Shirt · White",
- "name_es": "Camisa Manhattan · Blanco",
+ "name_en": "Emerald Aero-Luxe 100 Shirt",
+ "name_es": "Camisa Aero-Luxe 100 Emerald",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

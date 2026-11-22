@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "button shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-355737078",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A statement of intent in deep crimson. This button shirt delivers an impeccable silhouette and a magnetic presence. Crafted to order to ensure an exclusive finish. Available for worldwide shipping. The aesthetic is defined by clean lines and sophisticated minimalism. A versatile piece to elevate any contemporary wardrobe.",
+ "desc_es": "Una declaración de intención en tono carmesí profundo. Esta camisa de botones ofrece una silueta impecable y una presencia magnética. Confeccionada bajo pedido para asegurar un acabado exclusivo. Disponible para envíos internacionales. La estética se define por líneas limpias y un minimalismo sofisticado. Una prenda versátil para elevar cualquier guardarropa contemporáneo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/d7b/d7bcc596bf226840470b980c16b66d56_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Avenue Shirt · White",
- "name_es": "Camisa Avenue · Blanco",
+ "name_en": "Scarlet Ruby Shirt",
+ "name_es": "Camisa Scarlet Ruby",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

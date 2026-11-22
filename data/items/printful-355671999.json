@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Button Shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-355671999",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined silhouette that redefines casual elegance. Crafted with millimeter precision on demand. An all-over design that projects discreet and modern sophistication. Ideal for those seeking distinction in every detail. Available for worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine la elegancia casual. Confeccionada con precisión milimétrica bajo demanda. Un diseño integral que proyecta una sofisticación discreta y moderna. Ideal para quienes buscan distinción en cada detalle. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/76e/76e1ec992191a908ebfe81b2a738cd4b_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Avenue Shirt · White",
- "name_es": "Camisa Avenue · Blanco",
+ "name_en": "Timber Aero-Luxe 100 Shirt",
+ "name_es": "Camisa Timber Aero-Luxe 100",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

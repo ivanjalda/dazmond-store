@@ -1,27 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "Polo",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "printful-345440561",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Definition of contemporary elegance. Clean lines that redefine the masculine silhouette. Impeccable tailoring for the discerning man. A perfect balance between sophistication and daily comfort. Each piece is crafted exclusively made to order. We offer worldwide shipping for your convenience. An essential garment that transcends fleeting trends. Discover luxury in its highest expression.",
+ "desc_es": "Definicion de elegancia contemporanea. Lineas limpias que redefinen la silueta masculina. Confeccion impecable para el hombre exigente. Un equilibrio perfecto entre sofisticacion y confort diario. Cada pieza es elaborada exclusivamente bajo pedido en nuestras instalaciones. Ofrecemos envios a todo el mundo para su mayor comodidad. Una prenda esencial que trasciende las tendencias pasajeras. Descubra el lujo en su maxima expresion.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envio mundial disponible",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-white-front-6655f68838cb2.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-66560a99c873d.png?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-66560a99c9b9c.png?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-6655f68835567.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-left-front-6655f6883693d.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-66560a99c7d00.png?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-back-6655f68836b19.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-navy-left-front-6655f68836d09.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-navy-front-6655f68836f77.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-forest-green-front-66560a99cf79e.png?v=1716915633"
+  "https://files.cdn.printful.com/files/1d4/1d415e7b3e515f73cbb8534c11208715_preview.png"
  ],
  "draft": false,
  "fam": "x-under-armour",
@@ -34,8 +34,8 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Hudson Polo · White",
- "name_es": "Polo Hudson · Blanco",
+ "name_en": "Kinetic Elite Polo",
+ "name_es": "Polo Kinetic Elite",
  "needs_review": false,
  "page": true,
  "price_usd": 81.99,

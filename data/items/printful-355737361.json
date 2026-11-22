@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-355737361",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A statement of relaxed sophistication. This resort shirt fuses contemporary tailoring with a distinctive visual narrative. The clean silhouette delivers a commanding yet effortless presence. Each piece is meticulously crafted to order to ensure absolute exclusivity. The design integrates clean lines and a polished aesthetic. Tailored for those who master the art of distinction in any latitude. Available with worldwide shipping.",
+ "desc_es": "Una declaración de sofisticación relajada. Esta camisa resort fusiona la sastrería contemporánea con una narrativa visual distintiva. La silueta depurada ofrece una presencia imponente pero accesible. Cada pieza se elabora meticulosamente bajo demanda para garantizar una exclusividad absoluta. El diseño integra líneas limpias y una estética pulida. Diseñada para quienes dominan el arte de la distinción en cualquier latitud. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/857/8576cbf4168eb4ccc856cac3162dd7cf_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Avenue Shirt · White",
- "name_es": "Camisa Avenue · Blanco",
+ "name_en": "Oeil Céleste Resort Shirt",
+ "name_es": "Camisa Oeil Céleste Resort",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

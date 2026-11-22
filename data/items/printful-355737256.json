@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-355737256",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Sunset light captured in textile form. Fluid silhouette designed for refined leisure and effortless movement. All-over print evoking warm horizons. Made-to-order construction with worldwide shipping available. Impeccable aesthetics for moments of absolute disconnection. Elegance rests in the simplicity of forms. A versatile piece that transcends seasons. Exclusivity in every detail.",
+ "desc_es": "Luz de atardecer capturada en formato textil. Silueta fluida diseñada para el descanso refinado y el movimiento sin esfuerzo. Estampado envolvente que evoca horizontes cálidos. Confección bajo demanda con disponibilidad de envío internacional. Estética impecable para momentos de absoluta desconexión. La elegancia descansa en la simplicidad de las formas. Una pieza versátil que trasciende las estaciones. Exclusividad en cada detalle.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/7a5/7a51943e0a79950becf374689aa54982_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Riviera Shirt · White",
- "name_es": "Camisa Riviera · Blanco",
+ "name_en": "Aura Dusk Resort Shirt",
+ "name_es": "Camisa Resort Aura Dusk",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

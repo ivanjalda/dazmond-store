@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "White / Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-355737146",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The Pink Aura shirt redefines relaxed elegance. Its all-over print evokes an ethereal and sophisticated atmosphere. Clean lines define a modern and fluid silhouette. Each piece is crafted made-to-order in our ateliers. The unisex design brings versatility and distinction to any wardrobe. A flawless balance between color and sobriety. Available with worldwide shipping.",
+ "desc_es": "La camisa Pink Aura redefine la elegancia relajada. Su estampado integral evoca una atmósfera etérea y sofisticada. Las líneas limpias definen una silueta moderna y fluida. Cada pieza se elabora bajo demanda en nuestros talleres. El diseño unisex aporta versatilidad y distinción a cualquier guardarropa. Un equilibrio perfecto entre color y sobriedd. Disponible con envío a todo el mundo.",
+ "details_en": "· Made-to-order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/446/446360d82b192fb7160015274844c2cf_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Riviera Shirt · White",
- "name_es": "Camisa Riviera · Blanco",
+ "name_en": "Pink Aura Shirt",
+ "name_es": "Camisa Pink Aura",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

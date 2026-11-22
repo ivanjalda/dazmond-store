@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,17 +18,12 @@
  "cg": "printful-345652771",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Clean and contemporary silhouette. Designed for commanding presence. The raglan cut defines the shoulders with natural fluidity. Pure white tone. Minimalist aesthetic with a central graphic accent. Crafted upon order to ensure absolute exclusivity. Worldwide shipping available. An essential piece for the modern wardrobe.",
+ "desc_es": "Silueta depurada y contemporánea. Diseño pensado para una presencia imponente. El corte raglán define los hombros con fluidez natural. Tono blanco puro. Estética minimalista con acento gráfico central. Confección bajo pedido para garantizar exclusividad absoluta. Envios disponibles a todo el mundo. Una prenda esencial para el armario moderno.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-white-left-front-66589c7433ff3.jpg?v=1717083507",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-burgundy-front-66589c7412561.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-black-product-details-2-66589c74123f5.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-burgundy-product-details-66589c74129b9.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-charcoal-melange-front-66589c7412dcf.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-charcoal-melange-back-66589c74134d8.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-charcoal-melange-product-details-66589c7413edf.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-bottle-green-front-66589c74148c0.jpg?v=1776274490"
+  "https://files.cdn.printful.com/files/a18/a18d813e4139af8743eacbe2a0ea48d5_preview.png"
  ],
  "draft": false,
  "fam": "artistic-essence-organic",
@@ -32,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Hudson Sweatshirt · White",
- "name_es": "Sudadera Hudson · Blanco",
+ "name_en": "Artistic Essence Organic Hoodie",
+ "name_es": "Sudadera con capucha Artistic Essence",
  "needs_review": false,
  "page": true,
  "price_usd": 63.99,

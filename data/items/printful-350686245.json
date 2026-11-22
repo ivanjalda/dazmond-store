@@ -1,4 +1,9 @@
 {
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "socks",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +12,12 @@
  "cg": "printful-350686245",
  "color": "",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Light and shadow meet in a refined aesthetic. This piece redefines contemporary design codes with a magnetic presence. A subtle statement of style that accompanies every step with absolute distinction. Made to order and worldwide shipping.",
+ "desc_es": "Luz y sombra se encuentran en una estética depurada. Esta pieza redefine los códigos del diseño contemporáneo con una presencia magnética. Una declaración sutil de estilo que acompaña cada paso con absoluta distinción. Confección bajo demanda y envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_b99fpkb99fpkb99f.png?v=1777650774",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_qqm8xpqqm8xpqqm8.png?v=1777650778",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_dp0ca9dp0ca9dp0c.png?v=1777650779",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_vea0m8vea0m8vea0.png?v=1777650778",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682cebc995c2.jpg?v=1719848648"
+  "https://files.cdn.printful.com/files/e0d/e0d4002d45bc5f832ca50c788e9383e9_preview.png"
  ],
  "draft": false,
  "fam": "emerald-lights-art",
@@ -27,8 +30,8 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Noir Piece",
- "name_es": "Pieza Noir",
+ "name_en": "Emerald Lights Art Socks",
+ "name_es": "Calcetines Emerald Lights Art",
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,

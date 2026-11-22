@@ -1,4 +1,9 @@
 {
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "socks",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +12,12 @@
  "cg": "printful-350685608",
  "color": "",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold expression of sophisticated design. These socks fuse a refined aesthetic with unique details. Made to order to ensure absolute exclusivity. Available with worldwide shipping. An essential piece that redefines contemporary accessories with unmistakable character.",
+ "desc_es": "Una expresion audaz de diseno sofisticado. Estos calcetines fusionan una estetica refinada con detalles unicos. Confeccionados bajo demanda para asegurar una exclusividad absoluta. Disponibles con envios a todo el mundo. Una pieza esencial que redefine los accesorios contemporaneos con un caracter inconfundible.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envio mundial disponible",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_32u4ac32u4ac32u4.png?v=1777646701",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_jkyv48jkyv48jkyv.png?v=1777646701",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_l1wj29l1wj29l1wj.png?v=1777646702",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682cc75d16e4.jpg?v=1719848064"
+  "https://files.cdn.printful.com/files/1c1/1c11d046efbed7f8578412a366818d43_preview.png"
  ],
  "draft": false,
  "fam": "crimson-heritage-art",
@@ -26,8 +30,8 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Manhattan Piece",
- "name_es": "Pieza Manhattan",
+ "name_en": "Crimson Heritage Art Socks",
+ "name_es": "Calcetines Crimson Heritage Art",
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,

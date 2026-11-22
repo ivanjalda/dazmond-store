@@ -1,24 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/banador"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "recycled material",
  "ai_priority": true,
+ "ai_type": "swim trunks",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
-  "mujer/trajes-bano"
+  "hombre/banador"
  ],
  "cg": "printful-346230976",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined silhouette for sunlit days. This design combines clean lines with a distinctive all-over print. Crafted for the modern man seeking distinction by the sea. Each piece is meticulously made to order using recycled materials. We offer worldwide shipping for your convenience. The silhouette delivers effortless comfort and style. An essential garment to complete your summer wardrobe with sophistication and presence.",
+ "desc_es": "Una propuesta depurada para los días de sol. Este diseño combina líneas limpias con un estampado integral distintivo. Pensado para el hombre moderno que busca distinción junto al mar. Cada pieza se elabora meticulosamente bajo pedido en materiales reciclados. Ofrecemos envíos a todo el mundo para su mayor comodidad. La silueta ofrece comodidad y estilo sin esfuerzo. Una prenda esencial para completar su guardarropa estival con sofisticación y presencia.",
+ "details_en": "· Made to order\n· Worldwide shipping available\n· All-over print",
+ "details_es": "· Confeccionado bajo pedido\n· Envío a todo el mundo disponible\n· Estampado all-over print",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_l7va65l7va65l7va.png?v=1776705805",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_elqoruelqoruelqo.png?v=1776705805",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_oibga8oibga8oibg.png?v=1776705805",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_4h50nf4h50nf4h50.png?v=1776705805",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_6ytjv86ytjv86ytj.png?v=1776705805",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_blcdo9blcdo9blcd.png?v=1776705805",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-swim-trunks-white-back-665f2a019323c.jpg?v=1776705805"
+  "https://files.cdn.printful.com/files/953/9535785cea751ead0fd5f8c1011fcd71_preview.png"
  ],
  "draft": false,
  "fam": "aqua-matrix-recycled",
@@ -31,8 +35,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Noir Swimwear · White",
- "name_es": "Bañador Noir · Blanco",
+ "name_en": "Aqua Matrix Swim Trunks",
+ "name_es": "Bañador Aqua Matrix",
  "needs_review": false,
  "page": true,
  "price_usd": 75.99,

@@ -1,16 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/banador"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "recycled fabric",
  "ai_priority": true,
+ "ai_type": "swim trunks",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
-  "mujer/trajes-bano"
+  "hombre/banador"
  ],
  "cg": "printful-383480559",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Essential silhouette for the modern summer. Crafted from recycled materials with sustainability certification. Clean lines and refined design. Comfort meets minimalist aesthetics. Crafted to order to ensure absolute exclusivity. International shipping available for discerning clients.",
+ "desc_es": "Silueta esencial para el verano moderno. Confeccionados con materiales reciclados con certificado de sostenibilidad. Líneas limpias y diseño depurado. La comodidad se une a la estética minimalista. Creado bajo demanda para garantizar una exclusividad absoluta. Envío internacional disponible para clientes exigentes.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/195/195d0d2b005ee0f51cd5f48f828d7e87_preview.png"
  ],
@@ -25,8 +35,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Imperial Swimwear · White",
- "name_es": "Bañador Imperial · Blanco",
+ "name_en": "All-Over Recycled Swim Trunks",
+ "name_es": "Bañador Reciclado All-Over",
  "needs_review": false,
  "page": true,
  "price_usd": 75.99,

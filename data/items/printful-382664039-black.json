@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-382664039",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette redefining casual elegance. The dark design merges with sober textures to offer an imposing presence. Each piece is made to order in our workshops and features worldwide shipping. Darkness takes center stage in this essential garment. Flawless silhouette and refined finishes for a sophisticated style on any occasion. Elevate your wardrobe with this benchmark of modern luxury.",
+ "desc_es": "Una silueta depurada que redefine la elegancia casual. El diseño oscuro se funde con texturas sobrias para ofrecer una presencia imponente. Cada pieza se confecciona bajo pedido en nuestros talleres y cuenta con envío a todo el mundo. La penumbra adquiere protagonismo en esta prenda esencial. Silueta impecable y acabados depurados para un estilo sofisticado en cualquier ocasión. Eleve su guardarropa con este referente de la suntuosidad moderna.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/770/770261e2946bb1d100f98f7024eae7d4_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Monogram Sweatshirt · Black",
- "name_es": "Sudadera Monogram · Negro",
+ "name_en": "DAZ Premium Black Hoodie",
+ "name_es": "Sudadera DAZ Premium Negra",
  "needs_review": false,
  "page": true,
  "price_usd": 46.99,

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-crossbody-bag-black-front-66a4db2f3677e.jpg?v=1722080061",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-crossbody-bag-black-left-front-66a4db2f3752f.jpg?v=1722080064",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-crossbody-bag-black-back-66a4db2f37639.jpg?v=1722080068",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-crossbody-bag-black-right-back-66a4db2f377a2.jpg?v=1722080070"
+ ],
  "ai_cats": [
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "bolso-luxury-correa",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-353286013",
  "look": [

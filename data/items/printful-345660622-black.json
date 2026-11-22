@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
  "ai_priority": true,
+ "ai_type": "Sweatshirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,18 +19,12 @@
  "cg": "printful-345660622",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Defined by a streamlined silhouette. Crafted from pure cotton with a substantial feel. A modern classic for the contemporary wardrobe. Sparing lines and magnetic presence. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Definido por la silueta depurada. Confeccionado en puro algodón de tacto denso. Un clásico moderno para el armario contemporáneo. Líneas sobrias y presencia magnética. Cada pieza se confecciona bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% cotton\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· 100% algodón\n· Confección bajo demanda\n· Envío mundial disponible",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-sweatshirt-black-front-66a92fe5c9774.jpg?v=1722363908",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-sweatshirt-white-front-66a92fe5c532c.jpg?v=1722363903",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-sweatshirt-black-back-66a92fe5cae19.jpg?v=1722363919",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-sweatshirt-navy-blazer-front-66a92fe5cb345.jpg?v=1722363923",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-sweatshirt-navy-blazer-back-66a92fe5ce017.jpg?v=1722363932",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-sweatshirt-team-royal-front-66a92fe5cf073.jpg?v=1722363936",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-sweatshirt-team-royal-back-66a92fe5d4076.jpg?v=1722363945",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-sweatshirt-forest-green-front-66a92fe5d5561.jpg?v=1722363948",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-sweatshirt-forest-green-back-66a92fe5dcb5d.jpg?v=1722363957"
+  "https://files.cdn.printful.com/files/486/486399217c17d1002b774e461135b91d_preview.png"
  ],
  "draft": false,
  "fam": "core-elite-premium",
@@ -33,8 +37,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Noir Sweatshirt · Black",
- "name_es": "Sudadera Noir · Negro",
+ "name_en": "Core Elite Heritage Sweatshirt",
+ "name_es": "Sudadera Core Elite Heritage",
  "needs_review": false,
  "page": true,
  "price_usd": 47.99,

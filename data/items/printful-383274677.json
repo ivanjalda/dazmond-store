@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Button Shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-383274677",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Refined silhouette in pristine white. Designed for a versatile and contemporary presence. Clean lines that define modern luxury. Made-to-order craftsmanship available with worldwide shipping. An essential piece for the sophisticated wardrobe.",
+ "desc_es": "Silueta depurada en tono blanco impecable. Diseñada para una presencia versátil y contemporánea. Líneas limpias que definen el lujo moderno. Confección bajo demanda disponible con envíos internacionales. Una pieza esencial para el armario sofisticado.",
+ "details_en": "· Made to order.\n· Worldwide shipping available.",
+ "details_es": "· Hecho bajo pedido.\n· Envío mundial disponible.",
  "display_images": [
   "https://files.cdn.printful.com/files/000/0005279d7966e3244c4c70601aa2e303_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Hudson Shirt · White",
- "name_es": "Camisa Hudson · Blanco",
+ "name_en": "All-over print button shirt",
+ "name_es": "Camisa de botonadura all-over print",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

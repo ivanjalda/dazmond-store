@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Light Steel",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-382723144",
  "color": "Light Steel",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential silhouette defined by clean lines and a refined design. This piece embodies modern elegance through its understated tone and flawless construction. Designed for daily wear, it offers a perfect balance between comfort and distinction. Each garment is crafted on demand in our facilities. We offer worldwide delivery to ensure maximum exclusivity upon arrival.",
+ "desc_es": "Una silueta esencial definida por líneas limpias y un diseño depurado. Esta pieza encarna la elegancia moderna a través de su tono sobrio y su construcción impecable. Pensada para el uso cotidiano, ofrece un equilibrio perfecto entre confort y distinción. Cada prenda se confecciona bajo pedido en nuestras instalaciones. Ofrecemos envíos a todo el mundo para garantizar la máxima exclusividad en su entrega.",
+ "details_en": "· Made-to-order piece\n· Available for worldwide shipping",
+ "details_es": "· Confeccionado bajo pedido\n· Disponible para envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/ec0/ec0eccbe59c93b776141ce8e875aafcf_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Imperial Sweatshirt",
- "name_es": "Sudadera Imperial",
+ "name_en": "DAZMOND Hooded Sweatshirt",
+ "name_es": "Sudadera Con Capucha DAZMOND",
  "needs_review": false,
  "page": true,
  "price_usd": 62.99,

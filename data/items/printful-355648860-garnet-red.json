@@ -1,14 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Garnet Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "T-shirt",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
  "cg": "printful-355648860",
  "color": "Garnet Red",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential garment crafted with a clean and contemporary silhouette. The rich garnet red tone brings depth and charisma to any wardrobe selection. The subtle texture offers a distinctive touch. Each piece is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una prenda esencial diseñada con una silueta depurada y contemporánea. El tono rojo granate aporta profundidad y carisma a cualquier selección de armario. La textura sutil ofrece un tacto distintivo. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/431/431332a0ae877414f8d7fdc24ed25bb1_preview.png"
  ],
@@ -23,9 +35,9 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Monogram Piece · Red",
- "name_es": "Pieza Monogram · Rojo",
- "needs_review": true,
+ "name_en": "Dazmond Indigo Husky T-Shirt",
+ "name_es": "Camiseta Husky Dazmond Indigo",
+ "needs_review": false,
  "page": true,
  "price_usd": 36.99,
  "rank": 320,

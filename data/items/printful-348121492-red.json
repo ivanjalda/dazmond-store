@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-dad-hat-red-front-66631f30aa8c3.jpg?v=1746053441",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-dad-hat-white-left-front-6663284c7ef95.jpg?v=1776783977",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-dad-hat-white-left-front-66631f30ada91.jpg?v=1776783977",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-dad-hat-black-front-6663284c780df.jpg?v=1776783977",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-dad-hat-navy-left-front-6663284c78ded.jpg?v=1746053441",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-dad-hat-grey-right-front-66631f30ab20a.jpg?v=1746053441",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-dad-hat-white-right-front-6663284c7e63e.jpg?v=1746053441"
+ ],
  "ai_cats": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
@@ -27,6 +36,7 @@
  ],
  "draft": false,
  "fam": "x-under-armour",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-348121492-red",
  "look": [

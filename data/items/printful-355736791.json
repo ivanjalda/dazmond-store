@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-355736791",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A polished silhouette defined by the pink quartz hue. Clean lines dictate modern elegance. Crafted to order for a distinguished presence. Available with worldwide shipping.",
+ "desc_es": "Una silueta pulida definida por el tono cuarzo rosa. Las líneas limpias dictan una elegancia moderna. Confeccionada bajo pedido para una presencia distinguida. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/821/8213948086e1763b5b669e0079f9fcda_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Noir Shirt · White",
- "name_es": "Camisa Noir · Blanco",
+ "name_en": "Pink quartz button shirt",
+ "name_es": "Camisa de botones cuarzo rosa",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

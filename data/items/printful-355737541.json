@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Resort Shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-355737541",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A sublime expression of relaxed elegance. The all-over print evokes the sophistication of summer style with an impeccable silhouette. Crafted on demand to ensure absolute exclusivity. Worldwide shipping available. This piece defines contemporary luxury with timeless appeal and exceptional lightness for warmer days. Discover the perfect balance between refined comfort and distinguished design.",
+ "desc_es": "Una expresion sublime de elegancia relajada. El estampado integral evoca la sofisticacion del estilo estival con una silueta impecable. Confeccionada bajo pedido para asegurar una exclusividad absoluta. Envios disponibles a todo el mundo. Esta prenda define el lujo contemporaneo con un atractivo atemporal y una ligereza excepcional para los dias mas calidos. Descubra el equilibrio perfecto entre comodidad refinada y diseno distinguido.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/abf/abf2f714e75d38b09cb782908ad71cd4_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Hudson Shirt · White",
- "name_es": "Camisa Hudson · Blanco",
+ "name_en": "Bloom d’Ivoire Resort Shirt",
+ "name_es": "Camisa Resort Bloom d’Ivoire",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

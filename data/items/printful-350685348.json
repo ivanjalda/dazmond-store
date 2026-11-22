@@ -1,4 +1,9 @@
 {
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "socks",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,12 +12,12 @@
  "cg": "printful-350685348",
  "color": "",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Equine silhouettes printed across a deep black background. An expression of subtle elegance and refined design. Each piece is crafted to order to ensure the utmost exclusivity. Worldwide shipping available. Luxury in its purest expression.",
+ "desc_es": "Siluetas ecuestres impresas sobre un fondo negro profundo. Una expresion de elegancia sutil y diseño refinado. Cada pieza se confecciona bajo pedido para garantizar la maxima exclusividad. Envios disponibles a todo el mundo. El lujo en su expresion mas depurada.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Disponible con envio mundial",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_d1shjid1shjid1sh.png?v=1777568161",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_9f7ogu9f7ogu9f7o.png?v=1777568160",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682cb99e0a8e.jpg?v=1719847843"
+  "https://files.cdn.printful.com/files/5ca/5ca6e2563e1bb3f0f6e1c6bbe4b437d8_preview.png"
  ],
  "draft": false,
  "fam": "celestial-equine-premium",
@@ -25,8 +30,8 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Riviera Piece",
- "name_es": "Pieza Riviera",
+ "name_en": "Celestial Equine Socks",
+ "name_es": "Calcetines Celestial Equine",
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,

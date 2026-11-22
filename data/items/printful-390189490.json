@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/suitcase-black-small-front-68a49afb6e623.jpg?v=1755618063",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/suitcase-black-medium-front-68a49afb6ef66.jpg?v=1755618064",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/suitcase-black-large-front-68a49afb6efde.jpg?v=1755618063"
+ ],
  "ai_color": "Black",
  "ai_copy": true,
  "ai_done": true,
@@ -24,6 +29,7 @@
  ],
  "draft": false,
  "fam": "maleta-rigida-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-390189490",
  "img_checked": "2026-11-22",

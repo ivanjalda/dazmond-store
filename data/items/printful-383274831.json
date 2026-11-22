@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-383274831",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined silhouette that redefines casual elegance. This piece offers an impeccable presence for any occasion. The clean design balances modernity with the tradition of high fashion. Crafted to order to ensure absolute exclusivity. Worldwide shipping available. Simplicity meets supreme luxury in every stitch. A statement of subtle yet enduring style.",
+ "desc_es": "Una silueta refinada que redefine la elegancia casual. Esta pieza ofrece una presencia impecable para cualquier ocasion. El diseño limpio equilibra la modernidad con la tradicion de la alta costura. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Envios disponibles a todo el mundo. La sencillez se encuentra con el lujo supremo en cada costura. Una declaracion de estilo sutil pero perdurable.",
+ "details_en": "· Made-to-order piece.\n· Available with worldwide shipping.",
+ "details_es": "· Pieza elaborada bajo pedido.\n· Disponible con envio a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/610/610a85d18b144b727ff72db674ac3d94_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Soho Shirt · White",
- "name_es": "Camisa Soho · Blanco",
+ "name_en": "DAZ Luxury Short Sleeve Shirt",
+ "name_es": "Camisa de Manga Corta DAZ Luxury",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

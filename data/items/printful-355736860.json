@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-355736860",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Light and structure merge in this refined silhouette. The design defines an impeccable presence. Clean lines accompany the body with absolute naturalness. Each piece is crafted made to order. Available with worldwide shipping.",
+ "desc_es": "Luz y estructura se funden en esta silueta depurada. La propuesta define una presencia impecable. Lineas limpias acompanan el cuerpo con absoluta naturalidad. Cada pieza se elabora bajo demanda. Disponible con envio internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a medida\n· Envio mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/5f2/5f24ab63fb8c1d2ba667f166588bca3c_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Soho Shirt · White",
- "name_es": "Camisa Soho · Blanco",
+ "name_en": "Solaris Gold Edition Shirt",
+ "name_es": "Camisa Solaris Gold Edition",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

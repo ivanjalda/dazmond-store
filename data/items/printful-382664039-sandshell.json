@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Sandshell",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-382664039",
  "color": "Sandshell",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Clean silhouette. Sober presence. This garment redefines everyday luxury with a neutral tone and an impeccable structure. The design evokes timeless sophistication. Each piece is crafted on exclusive made-to-order standards. Worldwide shipping is available for select clients. A minimalist expression of refined style.",
+ "desc_es": "Silueta limpia. Presencia sobria. Esta prenda redefine el lujo cotidiano con un tono neutro y una estructura impecable. El diseño evoca sofisticación atemporal. Cada pieza se confecciona bajo pedido exclusivo. El envío mundial está disponible para clientes selectos. Una expresión minimalista de estilo refinado.",
+ "details_en": "· Made to order.\n· Worldwide shipping available.",
+ "details_es": "· Confección bajo pedido.\n· Envío mundial disponible.",
  "display_images": [
   "https://files.cdn.printful.com/files/592/592a94ba561dfe5f02deea876002e349_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Atelier Sweatshirt",
- "name_es": "Sudadera Atelier",
+ "name_en": "DAZ Premium Lane Seven Hoodie",
+ "name_es": "Sudadera DAZ Premium Lane Seven",
  "needs_review": false,
  "page": true,
  "price_usd": 46.99,

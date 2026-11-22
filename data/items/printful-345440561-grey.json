@@ -1,27 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "polo shirt",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "printful-345440561",
  "color": "Grey",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential garment defining modern sophistication. This grey polo combines an impeccable silhouette with a commanding presence. Each piece is crafted made to order to ensure ultimate exclusivity. Available with worldwide shipping. The design prioritizes sobriety and quiet luxury. A creation tailored for the contemporary man demanding distinction in every detail. Minimalist aesthetics redefine the formal and casual wardrobe with timeless elegance.",
+ "desc_es": "Una prenda esencial que define la sofisticacion moderna. Este polo en tono gris combina una silueta impecable con una presencia dominante. Cada pieza se confecciona bajo pedido para garantizar la maxima exclusividad. Disponible con envio a todo el mundo. El diseño prioriza la sobriedad y el lujo discreto. Una creacion pensada para el hombre contemporaneo que exige distincion en cada detalle. La estetica minimalista redefine el guardarropa formal y casual con una elegancia atemporal.",
+ "details_en": "· Made to order.\n· Worldwide shipping available.",
+ "details_es": "· Confeccionado bajo pedido.\n· Envios a todo el mundo disponibles.",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-grey-front-6655f68837f9c.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-66560a99c873d.png?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-66560a99c9b9c.png?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-6655f68835567.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-left-front-6655f6883693d.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-front-66560a99c7d00.png?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-black-back-6655f68836b19.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-navy-left-front-6655f68836d09.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-navy-front-6655f68836f77.jpg?v=1716915633",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-mens-polo-shirt-forest-green-front-66560a99cf79e.png?v=1716915633"
+  "https://files.cdn.printful.com/files/db5/db54876e79b098a22582d5b8c501796c_preview.png"
  ],
  "draft": false,
  "fam": "x-under-armour",
@@ -34,8 +34,8 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Manhattan Polo · Grey",
- "name_es": "Polo Manhattan · Gris",
+ "name_en": "Grey Kinetic Elite Polo",
+ "name_es": "Polo Kinetic Elite Gris",
  "needs_review": false,
  "page": true,
  "price_usd": 81.99,

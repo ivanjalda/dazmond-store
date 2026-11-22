@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "button shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-355672608",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined lines and an imposing presence. This piece redefines modern tailoring with an absolute geometric focus. The clean front structure creates a sophisticated and effortless silhouette. Designed for those who command space effortlessly. Each piece is made to order. We offer worldwide shipping.",
+ "desc_es": "Líneas definidas y presencia imponente. Esta pieza redefine la sastrería moderna con un enfoque geométrico absoluto. La estructura frontal limpia crea una silueta sofisticada y ligera. Diseñada para quienes dominan el espacio sin esfuerzo. Cada pieza se confecciona bajo pedido exclusivo. Ofrecemos envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/926/926874dbd185ca578283bfa63914a1a4_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Madison Shirt · White",
- "name_es": "Camisa Madison · Blanco",
+ "name_en": "Verdant Aero-Luxe Button Shirt",
+ "name_es": "Camisa de Botones Verdant Aero-Luxe",
  "needs_review": false,
  "page": true,
  "price_usd": 64.99,

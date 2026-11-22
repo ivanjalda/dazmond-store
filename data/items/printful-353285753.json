@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Denim Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic Denim",
  "ai_priority": true,
+ "ai_type": "tote bag",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +19,10 @@
  "cg": "printful-353285753",
  "color": "Denim Blue",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order in denim, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en denim, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Clean silhouette for everyday wear. Contemporary aesthetic with a structured profile. Crafted from dense and refined organic denim. Deep blue tone with subtle nuances. Versatile accessory with generous capacity. Made-to-order piece. Available with worldwide shipping.",
+ "desc_es": "Silueta depurada para el día a día. Estética contemporánea con un perfil estructurado. Confección en denim orgánico de tacto denso y refinado. Tonalidad azul profunda con matices sutiles. Acccsorio versátil de gran capacidad. Pieza elaborada bajo pedido. Disponible con envíos a todo el mundo.",
+ "details_en": "· Crafted from organic denim\n· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Confección en denim orgánico\n· Elaborado bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/211/211476f1b49f96ad34466d15c94c2ff7_preview.png"
  ],
@@ -25,8 +37,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Manhattan Bag · Blue",
- "name_es": "Bolso Manhattan · Azul",
+ "name_en": "Heritage Mantis Tote Bag",
+ "name_es": "Bolsa de mano Heritage Mantis",
  "needs_review": false,
  "page": true,
  "price_usd": 46.99,

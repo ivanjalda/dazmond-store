@@ -1,4 +1,9 @@
 {
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "socks",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +12,12 @@
  "cg": "printful-350685519",
  "color": "",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A wearable work of art. These socks present an architectural-inspired geometric pattern fused with the house's contemporary aesthetic. Deep tones intertwine with intricate details to deliver an unmistakable visual profile. The silhouette combines a dark base with a graphic upper print. Each piece is crafted exclusively on demand to ensure absolute exclusivity. We offer worldwide shipping from our workshops.",
+ "desc_es": "Una obra de arte para vestir. Estos calcetines presentan un diseño geométrico de inspiración arquitectónica fusionado con la estética contemporánea de la casa. Tonos profundos se entrelazan con detalles intrincados para ofrecer un perfil visual inconfundible. La silueta combina una base oscura con un estampado gráfico superior. Cada pieza se elabora exclusivamente bajo demanda para garantizar una exclusividad absoluta. Ofrecemos envíos a todo el mundo desde nuestros talleres.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_qo1bdsqo1bdsqo1b.png?v=1777569444",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_lueo9mlueo9mlueo.png?v=1777569444",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_eu709geu709geu70.png?v=1777569444",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_yqjj20yqjj20yqjj.png?v=1777569447",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_yhk8xfyhk8xfyhk8.png?v=1777569444",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/black-foot-sublimated-socks-flat-6682cc1c60145.jpg?v=1719847975"
+  "https://files.cdn.printful.com/files/812/8127ee7fea625b99729954f6553540a6_preview.png"
  ],
  "draft": false,
  "fam": "mosaic-masterpiece-art",
@@ -28,8 +30,8 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Monogram Piece",
- "name_es": "Pieza Monogram",
+ "name_en": "Mosaic Masterpiece Black Socks",
+ "name_es": "Calcetines Mosaic Masterpiece Black",
  "needs_review": true,
  "page": true,
  "price_usd": 23.99,

@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Burgundy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,17 +18,12 @@
  "cg": "printful-345652771",
  "color": "Burgundy",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette that redefines casual elegance. This piece delivers sophisticated presence through its burgundy tone and flawless lines. Crafted on demand to ensure absolute exclusivity. Every detail is considered for the contemporary wardrobe. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine la elegancia casual. Esta pieza ofrece una presencia sofisticada con su tono burdeos y líneas impecables. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Cada detalle ha sido pensado para el guardarropa contemporáneo. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-burgundy-front-2-66589c741ac06.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-burgundy-front-66589c7412561.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-black-product-details-2-66589c74123f5.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-burgundy-product-details-66589c74129b9.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-charcoal-melange-front-66589c7412dcf.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-charcoal-melange-back-66589c74134d8.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-charcoal-melange-product-details-66589c7413edf.jpg?v=1776274490",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-eco-raglan-hoodie-bottle-green-front-66589c74148c0.jpg?v=1776274490"
+  "https://files.cdn.printful.com/files/6e1/6e1e73914515e32c1d82eb222bae4eea_preview.png"
  ],
  "draft": false,
  "fam": "artistic-essence-organic",
@@ -32,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Madison Sweatshirt · Burgundy",
- "name_es": "Sudadera Madison · Burdeos",
+ "name_en": "Artistic Essence Hoodie",
+ "name_es": "Sudadera Artistic Essence",
  "needs_review": false,
  "page": true,
  "price_usd": 63.99,

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-crossbody-bag-black-front-66a4da9243965.jpg?v=1722079901",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-crossbody-bag-black-left-front-66a4da9245ee7.jpg?v=1722079905",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-crossbody-bag-black-back-66a4da9246081.jpg?v=1722079913",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-crossbody-bag-black-right-back-66a4da92461e5.jpg?v=1722079921"
+ ],
  "ai_cats": [
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "bolso-luxury-art",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-353288950",
  "look": [

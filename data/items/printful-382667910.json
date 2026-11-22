@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Verde",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Cárdigan",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-382667910",
  "color": "Custom",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential knitwear piece defining contemporary sophistication. Structured silhouette with refined color contrast. A versatile design tailored for the modern wardrobe. Crafted made-to-order with worldwide shipping available. Quiet elegance for every occasion.",
+ "desc_es": "Una prenda de punto esencial que define la sofisticación contemporánea. Silueta estructurada con contrastes depurados. Diseño versátil para el guardarropa moderno. Confección artesanal bajo demanda con envíos disponibles a todo el mundo. Elegancia discreta para cada ocasión.",
+ "details_en": "· Made-to-order piece\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/8c7/8c7b1eaea4dfb94d93d104d20d3ffb1a_preview.png",
   "https://files.cdn.printful.com/files/506/506213f3dd7717f0802b11d908c4586c_preview.png",
@@ -32,8 +43,8 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Soho Sweater",
- "name_es": "Suéter Soho",
+ "name_en": "DAZ Luxury Knitted Cardigan",
+ "name_es": "Cárdigan de Punto DAZ Luxury",
  "needs_review": false,
  "page": true,
  "price_usd": 84.99,

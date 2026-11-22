@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Charcoal Heather",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-382664039",
  "color": "Charcoal Heather",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Clean silhouette in heather charcoal tone. A design conceived for modern sophistication and absolute comfort. Each piece is crafted exclusively to order in our authorized workshops. The enveloping texture defines an imposing presence. Clean lines that redefine contemporary luxury. Available for worldwide shipping with global quality standards.",
+ "desc_es": "Silueta depurada en tono carbón jaspeado. Un diseño pensado para la sofisticación moderna y el confort absoluto. Cada pieza se confecciona exclusivamente bajo pedido en nuestros talleres autorizados. La textura envolvente define una presencia imponente. Líneas limpias que redefinen el lujo contemporáneo. Disponible para envío a todo el mundo con estándares globales de calidad.",
+ "details_en": "· Exclusive made-to-order production\n· Available for worldwide shipping",
+ "details_es": "· Confección exclusiva bajo pedido\n· Disponible para envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/771/77155650de9c2d1c82cc36a3ed80660d_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-390187180"
  ],
  "material": "",
- "name_en": "Riviera Sweatshirt",
- "name_es": "Sudadera Riviera",
+ "name_en": "DAZ Premium Charcoal Heather Hoodie",
+ "name_es": "Sudadera DAZ Premium Charcoal Heather",
  "needs_review": false,
  "page": true,
  "price_usd": 46.99,

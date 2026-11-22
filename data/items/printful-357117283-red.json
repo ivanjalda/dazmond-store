@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-red-front-66c391ba9e53b.jpg?v=1724092905",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-black-white-left-front-66c391ba9e0b5.jpg?v=1776093835",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-black-white-front-66c391ba9aaa3.jpg?v=1776093835",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-black-white-back-66c391ba9de91.jpg?v=1776093835",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-black-white-left-66c391ba9df90.jpg?v=1776093835",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-black-white-right-66c391ba9e1ca.jpg?v=1724092894",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-black-white-right-front-66c391ba9e2cf.jpg?v=1724092898",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-red-back-66c391ba9e48f.jpg?v=1724092901",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-red-left-66c391ba9e603.jpg?v=1724092908",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-red-left-front-66c391ba9e6f3.jpg?v=1724092912",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-red-right-66c391ba9e7f1.jpg?v=1724092915",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-red-right-front-66c391ba9e8e4.jpg?v=1724092919",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-rustic-orange-khaki-back-66c391ba9ed0e.jpg?v=1724092928",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/retro-trucker-hat-rustic-orange-khaki-front-66c391ba9ede8.jpg?v=1724092936"
+ ],
  "ai_cats": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
@@ -27,6 +43,7 @@
  ],
  "draft": false,
  "fam": "legacy-blessed-trucker",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-357117283-red",
  "look": [

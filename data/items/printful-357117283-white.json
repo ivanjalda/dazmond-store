@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Trucker Cap",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-357117283",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined classic silhouette for the contemporary wardrobe. The Legacy Blessed trucker cap by DAZMOND & Co. delivers a distinctive presence. Its clean design conveys understated and confident elegance. Each piece is crafted exclusively on demand to ensure absolute exclusivity. We offer worldwide shipping. Elevate your daily rotation with this essential piece.",
+ "desc_es": "Una silueta clásica refinada para el guardarropa contemporáneo. La gorra trucker Legacy Blessed de DAZMOND & Co. ofrece una presencia distintiva. Su diseño limpio transmite una elegancia sobria y segura. Cada pieza se elabora exclusivamente bajo demanda para garantizar una exclusividad absoluta. Ofrecemos envíos a todo el mundo. Eleve su estilo diario con esta pieza esencial.",
+ "details_en": "· Made to order\n· Available in white",
+ "details_es": "· Hecho a pedido\n· Disponible en color blanco",
  "display_images": [
   "https://files.cdn.printful.com/files/9d0/9d0b36bff61bad4eae0218627a82c759_preview.png"
  ],
@@ -25,8 +36,8 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Noir Hat · White",
- "name_es": "Gorro Noir · Blanco",
+ "name_en": "Legacy Blessed Trucker Cap",
+ "name_es": "Gorra Trucker Legacy Blessed",
  "needs_review": false,
  "page": true,
  "price_usd": 27.99,

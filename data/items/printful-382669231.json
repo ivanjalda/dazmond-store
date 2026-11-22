@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Gris",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Cárdigan",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "printful-382669231",
  "color": "Custom",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined knitted piece defining contemporary elegance. Structured silhouette with classic button fastening and subtle contrast finishes. Impeccable tailoring designed for the sophisticated wardrobe. Each item is crafted to order to ensure complete exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una prenda de punto refinada que define la elegancia contemporánea. Silueta estructurada con diseño clásico de botonadura frontal y contraste sutil en los acabados. Confección impecable pensada para el guardarropa sofisticado. Cada pieza se elabora bajo pedido para asegurar exclusividad total. Disponible con envío internacional.",
+ "details_en": "· Made to order exclusively\n· Available with worldwide shipping",
+ "details_es": "· Hecho a pedido exclusivamente\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/1a9/1a977dc96c80761e9e22cbff63419429_preview.png",
   "https://files.cdn.printful.com/files/dd2/dd222100c378431554936abcf4a5fd1e_preview.png",
@@ -32,8 +43,8 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Hudson Sweater",
- "name_es": "Suéter Hudson",
+ "name_en": "DAZ Luxury Knitted Cardigan",
+ "name_es": "Cárdigan de punto DAZ Luxury",
  "needs_review": false,
  "page": true,
  "price_usd": 84.99,
