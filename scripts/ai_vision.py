@@ -12,9 +12,11 @@ Necesita el secreto GEMINI_API_KEY (gratis en Google AI Studio). Sin él no hace
 import base64
 import json
 import os
+import re
 import shutil
 import subprocess
 import tempfile
+import time
 
 from dz_common import env, load_json, request
 
@@ -40,8 +42,80 @@ Return ONLY a JSON object with these keys:
 Never invent measurements: if a number is unreadable, write "?"."""
 
 
+# ------------------------------------------------ llamada a Gemini con reparto del límite gratuito
+# Cada modelo de Gemini tiene su propio límite gratuito, y cada clave creada en un proyecto distinto de
+# Google también. Si uno se agota, se prueba el siguiente. Si es el límite "por minuto", se espera un minuto.
+FALLBACK_MODELS = ["gemini-2.5-flash-lite", "gemini-2.0-flash-lite", "gemini-2.0-flash",
+                   "gemini-flash-lite-latest", "gemini-2.5-flash", "gemini-flash-latest"]
+EXHAUSTED = set()   # (clave, modelo) agotados en esta hora
+DAY_LIMIT_HIT = False
+LAST_ERROR = ""
+
+
+def _keys():
+    ks = [env("GEMINI_API_KEY"), env("GEMINI_API_KEY_2"), env("GEMINI_API_KEY_3")]
+    return [k for k in ks if k]
+
+
+def _models():
+    first = load_json("config.json", {}).get("ai", {}).get("model", "gemini-2.5-flash-lite")
+    return [first] + [m for m in FALLBACK_MODELS if m != first]
+
+
+def generate(body, timeout=150):
+    """Devuelve el texto de la respuesta, o None (motivo en LAST_ERROR).
+    DAY_LIMIT_HIT = True cuando TODOS los modelos de TODAS las claves están agotados."""
+    global LAST_ERROR, DAY_LIMIT_HIT
+    LAST_ERROR = ""
+    for key in _keys():
+        for m in _models():
+            if (key, m) in EXHAUSTED:
+                continue
+            url = "https://generativelanguage.googleapis.com/v1beta/models/" + m + ":generateContent?key=" + key
+            for attempt in range(2):
+                try:
+                    res = request(url, "POST", body=body, timeout=timeout, retries=0)
+                    return res["candidates"][0]["content"]["parts"][0]["text"]
+                except Exception as e:
+                    err = str(e)
+                    LAST_ERROR = f"{m}: {err[:300]}"
+                    low = err.lower()
+                    if "404" in err or "not found" in low or "not supported" in low:
+                        EXHAUSTED.add((key, m))  # modelo retirado: el siguiente
+                        break
+                    if "429" in err or "RESOURCE_EXHAUSTED" in err:
+                        if "PerDay" not in err and "per day" not in low and attempt == 0:
+                            time.sleep(62)  # límite por minuto: se espera y se repite
+                            continue
+                        EXHAUSTED.add((key, m))  # límite del día de este modelo: se prueba otro
+                        break
+                    if any(c in err for c in ("500", "502", "503", "504")) or "timed out" in low:
+                        if attempt == 0:
+                            time.sleep(5)
+                            continue
+                        break
+                    return None  # otro fallo (foto ilegible, petición rara...): no se gasta más
+    DAY_LIMIT_HIT = bool(_keys()) and all((k, m) in EXHAUSTED for k in _keys() for m in _models())
+    return None
+
+
+def generate_json(body, timeout=150):
+    txt = generate(body, timeout)
+    if not txt:
+        return None
+    try:
+        out = json.loads(txt)
+    except ValueError:
+        m = re.search(r"\{.*\}", txt, re.S)
+        try:
+            out = json.loads(m.group(0)) if m else None
+        except ValueError:
+            out = None
+    return out if isinstance(out, dict) else None
+
+
 def ready():
-    return bool(env("GEMINI_API_KEY"))
+    return bool(_keys())
 
 
 def _shrink(path):
@@ -58,7 +132,6 @@ def analyze(paths, context=""):
     """paths: fotos locales en orden. Devuelve el diccionario descrito arriba, o None."""
     if not ready() or not paths:
         return None
-    model = load_json("config.json", {}).get("ai", {}).get("model", "gemini-2.5-flash")
     parts = [{"text": PROMPT.format(context=context or "-")}]
     for i, p in enumerate(paths[:12]):
         small = _shrink(p)
@@ -68,19 +141,10 @@ def analyze(paths, context=""):
         parts.append({"inline_data": {"mime_type": "image/jpeg", "data": data}})
     body = {"contents": [{"role": "user", "parts": parts}],
             "generationConfig": {"temperature": 0.1, "responseMimeType": "application/json"}}
-    last = None
-    for m in [model, "gemini-flash-latest", "gemini-2.0-flash"]:  # si un modelo se retira, prueba el siguiente
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent?key={env('GEMINI_API_KEY')}"
-        try:
-            res = request(url, "POST", body=body, timeout=180, retries=2)
-            text = res["candidates"][0]["content"]["parts"][0]["text"]
-            return json.loads(text)
-        except Exception as e:
-            last = e
-            if "404" not in str(e):
-                break
-    print(f"[ia] No se pudieron leer las fotos: {str(last)[:160]}")
-    return None
+    out = generate_json(body, 180)
+    if out is None:
+        print(f"[ia] No se pudieron leer las fotos: {LAST_ERROR[:200]}")
+    return out
 
 
 def compress(src, dest_noext, width=1400):
@@ -151,7 +215,6 @@ def write_copy(data_text, image_path=None):
     """Escribe nombre, descripción y detalles de lujo (ES/EN) para un producto. Devuelve dict o None."""
     if not ready():
         return None
-    model = load_json("config.json", {}).get("ai", {}).get("model", "gemini-2.5-flash")
     parts = [{"text": COPY_PROMPT.format(data=data_text[:3000])}]
     if image_path and os.path.exists(image_path):
         small = _shrink(image_path)
@@ -159,22 +222,15 @@ def write_copy(data_text, image_path=None):
             parts.append({"inline_data": {"mime_type": "image/jpeg", "data": base64.b64encode(f.read()).decode()}})
     body = {"contents": [{"role": "user", "parts": parts}],
             "generationConfig": {"temperature": 0.6, "responseMimeType": "application/json"}}
-    for m in [model, "gemini-flash-latest", "gemini-2.0-flash"]:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent?key={env('GEMINI_API_KEY')}"
-        try:
-            res = request(url, "POST", body=body, timeout=120, retries=2)
-            out = json.loads(res["candidates"][0]["content"]["parts"][0]["text"])
-            if all(out.get(k) for k in ("name_es", "name_en", "desc_es", "desc_en")):
-                return out
-            return None
-        except Exception as e:
-            if "404" not in str(e):
-                print(f"[ia] No se pudo escribir el texto: {str(e)[:120]}")
-                return None
+    out = generate_json(body, 120)
+    if out and all(out.get(k) for k in ("name_es", "name_en", "desc_es", "desc_en")):
+        return out
+    if out is None:
+        print(f"[ia] No se pudo escribir el texto: {LAST_ERROR[:200]}")
     return None
 
 
-LAST_ERROR = ""
+
 
 ENRICH_PROMPT = """You are the product editor and head copywriter of DAZMOND & Co., an American luxury fashion house
 (registered US brand, made-to-order pieces, worldwide shipping). You receive the photos of ONE product, in order,
@@ -201,11 +257,8 @@ Return ONLY JSON:
 
 def enrich(paths, data_text):
     """Una sola llamada por producto: clasifica fotos, lee la guía de tallas y escribe los textos. dict o None."""
-    global LAST_ERROR
-    LAST_ERROR = ""
     if not ready():
         return None
-    model = load_json("config.json", {}).get("ai", {}).get("model", "gemini-2.5-flash")
     parts = [{"text": ENRICH_PROMPT.format(data=(data_text or "-")[:3000])}]
     for i, p in enumerate(paths[:10]):
         small = _shrink(p)
@@ -215,17 +268,7 @@ def enrich(paths, data_text):
         parts.append({"inline_data": {"mime_type": "image/jpeg", "data": data}})
     body = {"contents": [{"role": "user", "parts": parts}],
             "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json"}}
-    for m in [model, "gemini-flash-latest", "gemini-2.0-flash"]:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent?key={env('GEMINI_API_KEY')}"
-        try:
-            res = request(url, "POST", body=body, timeout=150, retries=1)
-            out = json.loads(res["candidates"][0]["content"]["parts"][0]["text"])
-            return out if isinstance(out, dict) else None
-        except Exception as e:
-            LAST_ERROR = str(e)[:200]
-            if "404" not in LAST_ERROR:
-                return None
-    return None
+    return generate_json(body, 150)
 
 
 AUDIT_PROMPT = """You are the quality inspector of a luxury fashion store. Look at the photo.
@@ -238,19 +281,11 @@ Answer ONLY JSON: {{"ok": true/false (is that listing correct for what you see?)
 
 def audit(image_path, claim):
     """Revisión de control: ¿la foto corresponde a la sección y al público donde está? dict o None."""
-    global LAST_ERROR
     if not ready() or not image_path or not os.path.exists(image_path):
         return None
-    model = load_json("config.json", {}).get("ai", {}).get("model", "gemini-2.5-flash")
     with open(_shrink(image_path), "rb") as f:
         data = base64.b64encode(f.read()).decode()
     body = {"contents": [{"role": "user", "parts": [{"text": AUDIT_PROMPT.format(claim=claim)},
                                                     {"inline_data": {"mime_type": "image/jpeg", "data": data}}]}],
             "generationConfig": {"temperature": 0, "responseMimeType": "application/json"}}
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={env('GEMINI_API_KEY')}"
-    try:
-        res = request(url, "POST", body=body, timeout=90, retries=1)
-        return json.loads(res["candidates"][0]["content"]["parts"][0]["text"])
-    except Exception as e:
-        LAST_ERROR = str(e)[:200]
-        return None
+    return generate_json(body, 90)

@@ -86,6 +86,16 @@ def send_printful(p, vid, qty, a, ref, cfg):
     return f"printful:{(order.get('result') or {}).get('id')}"
 
 
+def manual(p, head, size, qty, a, ref):
+    sku = (p.get("sku_map") or {}).get(size or "unica") or ""
+    notify(f"{head}\n\n👉 Haz este pedido tú en {p.get('supplier')}:\n"
+           f"{p.get('source_title', '')}\nTalla: {size or '-'} · Cantidad: {qty}"
+           f"{(' · SKU: ' + str(sku)) if sku else ''}\n\n"
+           f"Enviar a:\n{a['name']}\n{a['line1']} {a['line2']}\n{a['zip']} {a['city']} {a['state']}\n"
+           f"{a['country']}\nTel: {a['phone'] or '-'} · {a['email']}\n\nReferencia: {ref[-12:]}")
+    return "manual"
+
+
 def main():
     if not env("STRIPE_SECRET_KEY"):
         log("Sin STRIPE_SECRET_KEY: todavía no hay pedidos que revisar.")
@@ -127,16 +137,20 @@ def main():
             if supplier == "printify" and env("PRINTIFY_TOKEN") and vid:
                 result = send_printify(p, vid, qty, a, ref, cfg)
                 notify(f"{head}\n✓ Pedido enviado solo a Printify ({result}).")
-            elif supplier == "printful" and env("PRINTFUL_TOKEN") and vid:
-                result = send_printful(p, vid, qty, a, ref, cfg)
-                notify(f"{head}\n✓ Pedido enviado solo a Printful ({result}).")
+            elif supplier == "printful" and env("PRINTFUL_TOKEN") and vid and not cfg.get("orders", {}).get("printful_manual"):
+                try:
+                    result = send_printful(p, vid, qty, a, ref, cfg)
+                    notify(f"{head}\n✓ Pedido enviado solo a Printful ({result}).")
+                except Exception as e:
+                    if "Manual Order" not in str(e) and "platform" not in str(e).lower():
+                        raise
+                    # tu tienda de Printful está unida a Shopify y Printful no deja pedir por la API:
+                    # te llega el pedido completo por Telegram para hacerlo tú (y no se vuelve a intentar)
+                    cfg.setdefault("orders", {})["printful_manual"] = True
+                    save_json("config.json", cfg)
+                    result = manual(p, head, size, qty, a, ref)
             else:
-                result = "manual"
-                notify(f"{head}\n\n👉 Haz este pedido tú en {p.get('supplier')}:\n"
-                       f"{p.get('source_title', '')}\nTalla: {size or '-'} · Cantidad: {qty}"
-                       f"{(' · SKU: ' + str((p.get('sku_map') or {}).get(size or 'unica', ''))) if (p.get('sku_map') or {}).get(size or 'unica') else ''}\n\n"
-                       f"Enviar a:\n{a['name']}\n{a['line1']} {a['line2']}\n{a['zip']} {a['city']} {a['state']}\n"
-                       f"{a['country']}\nTel: {a['phone'] or '-'} · {a['email']}\n\nReferencia: {ref[-12:]}")
+                result = manual(p, head, size, qty, a, ref)
             stripe(f"/payment_intents/{pi_id}", {f"metadata[{FLAG}]": result})
             done += 1
         except Exception as e:

@@ -107,6 +107,9 @@ FOOTWEAR = [
 
 DECOR = r"pillow|cushion|cojin|cojín|mug|taza|poster|canvas|lienzo|blanket|manta|candle|vela|\brugs?\b|alfombra|tapestry|wall art|cuadro|puzzle|coaster|posavasos|phone case|funda|towel|toalla|throw pillow|throw blanket|home decor|wall decor"
 
+# objetos de estilo de vida: se miran DESPUÉS de la ropa (así "Wine Red Dress" sigue siendo un vestido)
+LIFESTYLE = r"placemat|mantel|\bvasos?\b|\bcopas?\b|\bjarras?\b|\bglass(es)?\b|shot glass|chupito|tumbler|\btermo\b|thermos|water bottle|botella|whisk(e)?y|wine|\bvino\b|beer|cerveza|can cooler|koozie|enfriador|notebook|journal|cuaderno|libreta|night light|luz nocturna|\blamp\b|l[aá]mpara|\bball\b|bal[oó]n|arm sleeves?|cooling sleeves?|mangas de enfriamiento|mangas para (el|los) brazos?|petaca|flask|\bwatch(es)?\b|\breloj|necklace|collar de|colgante|pendant|bracelet|pulsera|keychain|llavero|sticker|pegatina|puzzle|playing cards|naipes"
+
 DECOR_TYPES = [
     (r"pillow|cushion|coj[ií]n", "Cojín", "Cushion"),
     (r"blanket|manta|throw", "Manta", "Throw"),
@@ -116,6 +119,21 @@ DECOR_TYPES = [
     (r"rug|alfombra", "Alfombra", "Rug"),
     (r"towel|toalla", "Toalla", "Towel"),
     (r"phone case|funda", "Funda", "Case"),
+    (r"placemat|mantel", "Mantel Individual", "Placemat"),
+    (r"shot glass|chupito", "Vaso de Chupito", "Shot Glass"),
+    (r"wine|vino|\bcopas?\b", "Copa de Vino", "Wine Glass"),
+    (r"beer|cerveza|jarra", "Jarra de Cerveza", "Beer Mug"),
+    (r"whisk(e)?y|\bvasos?\b|\bglass(es)?\b|tumbler", "Vaso", "Glass"),
+    (r"petaca|flask", "Petaca", "Hip Flask"),
+    (r"\btermo\b|thermos|bottle|botella", "Termo", "Bottle"),
+    (r"can cooler|koozie|enfriador", "Enfriador de Latas", "Can Cooler"),
+    (r"notebook|journal|cuaderno|libreta", "Cuaderno", "Notebook"),
+    (r"night light|luz nocturna|lamp|l[aá]mpara", "Lámpara", "Lamp"),
+    (r"\bball\b|bal[oó]n", "Balón", "Ball"),
+    (r"sleeve|mangas", "Mangas Deportivas", "Arm Sleeves"),
+    (r"watch|reloj", "Reloj", "Watch"),
+    (r"necklace|collar|colgante|pendant|bracelet|pulsera", "Joya", "Jewellery"),
+    (r"keychain|llavero", "Llavero", "Keyring"),
 ]
 
 APPAREL = [
@@ -134,6 +152,7 @@ APPAREL = [
     (r"tracksuit|jogger|sweatpant|chandal|chándal|hoodie|sweatshirt|sudadera", "chandal-sudaderas", "chaqueta-sudadera-sueter", "Sudadera", "Sweatshirt"),
     (r"\bset\b|conjunto|co-ord|two piece|2 piece", "conjuntos", "conjuntos", "Conjunto", "Set"),
     (r"baseball|b[eé]isbol|softball|football jersey|hockey jersey|sports jersey", "camisas", "camisas", "Camisa", "Jersey Shirt"),
+    (r"\bvest\b|chaleco|gilet|\bcape\b|\bcapa\b|poncho", "abrigo-chaqueta-sueter", "chaqueta-sudadera-sueter", "Chaleco", "Vest"),
     (r"\bcoat\b|overcoat|trench|jacket|parka|bomber|puffer|windbreaker|abrigo|chaqueta|cazadora|anorak", "abrigo-chaqueta-sueter", "chaqueta-sudadera-sueter", "Chaqueta", "Jacket"),
     (r"polo", "polos", "polo", "Polo", "Polo"),
     (r"t-shirt|tshirt|\btee\b|camiseta|tank|crop|\btops?\b", "camiseta", "camisetas-blusas-tops", "Camiseta", "Tee"),
@@ -142,8 +161,8 @@ APPAREL = [
     (r"sweater|cardigan|pullover|jumper|knit|su[eé]ter|jersey|punto", "abrigo-chaqueta-sueter", "chaqueta-sudadera-sueter", "Suéter", "Sweater"),
     (r"shorts|bermuda|pantal[oó]n corto", "pantalones-cortos", "pantalones-cortos", "Bermuda", "Shorts"),
     (r"pants|trouser|jean|chino|pantal[oó]n", "pantalones", "pantalones", "Pantalón", "Trousers"),
-    (r"\bbag\b|wallet|tote|backpack|purse|clutch|bolso|cartera|mochila", "bolsos-carteras", "bolsos-carteras", "Bolso", "Bag"),
-    (r"\bhat\b|\bcap\b|beanie|scarf|bucket|gorro|gorra|bufanda", "gorro-bufanda", "gorros-bufandas", "Gorro", "Hat"),
+    (r"\bbag\b|wallet|tote|backpack|purse|clutch|bolso|\bbolsas?\b|cartera|mochila|card ?holder|tarjetero|lunch", "bolsos-carteras", "bolsos-carteras", "Bolso", "Bag"),
+    (r"\bhat\b|\bcap\b|beanie|scarf|bucket|gorro|gorra|bufanda|sombrero|visor|bandana|pa[nñ]uelo|balaclava", "gorro-bufanda", "gorros-bufandas", "Gorro", "Hat"),
 ]
 
 COLORS = {
@@ -167,7 +186,27 @@ MATERIALS = {
 LINES = ["Manhattan", "Noir", "Riviera", "Atelier", "Soho", "Imperial", "Avenue", "Monogram", "Hudson", "Madison"]
 
 
+NOT_PRODUCT = r"package[ -]protection|shipping[ -]protection|route[ -]protection|seguro de env[ií]o|order protection|propina"
+
+
+def explicit_gender(title_text):
+    """Lo que dice el propio nombre del producto (o su código): manda sobre cualquier otro dato."""
+    t = (title_text or "").lower()
+    w = bool(re.search(r"\b(women|woman|womens|women's|ladies|lady|mujer|mujeres|dama|damas|femenin[oa]s?|girls?|chicas?|para ella)\b", t))
+    m = bool(re.search(r"\b(men|man|mens|men's|hombre|hombres|caballero|caballeros|masculin[oa]s?|boys?|chicos?|para [eé]l)\b", t))
+    if w and not m:
+        return "women"
+    if m and not w:
+        return "men"
+    if w and m:
+        return "unisex"
+    return ""
+
+
 def detect_gender(row, text):
+    exp = explicit_gender(" ".join([row.get("title", ""), re.sub(r"[-_]+", " ", str(row.get("supplier_id", "")))]))
+    if exp:
+        return exp
     g = (row.get("gender") or "").strip().lower()
     if g in ("women", "woman", "mujer", "female", "f", "w"):
         return "women"
@@ -215,6 +254,12 @@ def classify(row):
             if not cats:  # esta prenda no existe para ese público: se prueba la siguiente regla
                 continue
             return cats, n_es, n_en, False
+
+    if re.search(LIFESTYLE, text):
+        for pat, n_es, n_en in DECOR_TYPES:
+            if re.search(pat, text):
+                return ["decor"], n_es, n_en, False
+        return ["decor"], "Objeto Maison", "Maison Object", False
 
     fallback = "mujer/camisetas-blusas-tops" if gender == "women" else "hombre/camiseta"
     return [fallback], "Pieza", "Piece", True
@@ -408,7 +453,9 @@ def read_printify():
 
 
 def read_printful():
-    """Lee tu tienda de Printful (tienda de tipo API / pedidos manuales)."""
+    """Lee tu tienda de Printful. Vale para los dos tipos de tienda:
+    - tienda "API / pedidos manuales" → /store/products
+    - tienda conectada a Shopify, Etsy... → /sync/products (es la tuya)"""
     if not env("PRINTFUL_TOKEN"):
         return []
     cache = load_json("supplier_cache.json", {})
@@ -416,14 +463,28 @@ def read_printful():
     rows = []
     try:
         offset = 0
+        base = cache.get("printful_endpoint") or "/store/products"
         while offset < 2000:
-            lst = printful(f"/store/products?limit=100&offset={offset}")
+            try:
+                lst = printful(f"{base}?limit=100&offset={offset}")
+            except Exception as e:
+                if base == "/store/products" and ("Manual Order" in str(e) or "400" in str(e)):
+                    base = "/sync/products"  # tienda conectada a una plataforma (Shopify)
+                    lst = printful(f"{base}?limit=100&offset={offset}")
+                else:
+                    raise
+            cache["printful_endpoint"] = base
             items = lst.get("result", [])
             for it in items:
-                det = printful(f"/store/products/{it['id']}").get("result", {})
+                det = printful(f"{base}/{it['id']}").get("result", {})
                 sp = det.get("sync_product", {})
                 vs = [v for v in det.get("sync_variants", []) if not v.get("is_ignored")
                       and str(v.get("availability_status", "active")).lower() not in ("discontinued", "out_of_stock")]
+                for v in vs:  # en las tiendas conectadas el color y la talla vienen en el nombre: "Camiseta - Negro / M"
+                    if not v.get("color") and not v.get("size") and " / " in str(v.get("name", "")):
+                        tail = str(v["name"]).rsplit(" - ", 1)[-1]
+                        bits = [b.strip() for b in tail.split(" / ")]
+                        v["color"], v["size"] = (bits[0], bits[-1]) if len(bits) >= 2 else ("", bits[0])
                 groups = _split_by_color(vs, lambda v: v.get("color") or "", lambda v: v.get("size") or "")
                 for color, gv in groups.items():
                     sizes, vmap, imgs, cost = [], {}, [], None
@@ -707,17 +768,17 @@ def quality_guard(plist, cfg):
             continue
         title = ((p.get("source_title") or "") + " " + re.sub(r"[-_]+", " ", str(p.get("supplier_id", "")))).lower()
         groups = {_group_of(c) for c in p.get("categories", [])}
-        # 1. público explícito en el título que no cuadra con la sección
-        if not p.get("locked_category"):
-            want = "women" if re.search(WOMEN_WORDS, title) else ("men" if re.search(MEN_WORDS, title) else "")
+        # 1. el nombre dice "hombre" o "mujer" y la sección no cuadra → se recoloca UNA vez y se queda fijo
+        if not p.get("locked_category") and not p.get("fixed_cats"):
+            want = explicit_gender(title)
             bad = (want == "women" and "hombre" in groups) or (want == "men" and "mujer" in groups)
-            rule_cats, _, _, review = classify({"type": f"{p.get('ai_type', '')} {title}", "title": title,
-                                                "gender": p.get("ai_gender") or want})
-            if bad or (not review and not p.get("ai_done") and set(rule_cats) != set(p.get("categories", []))
-                       and not p.get("variant_map")):
-                if set(rule_cats) != set(p.get("categories", [])):
+            if bad:
+                rule_cats, _, _, review = classify({"type": f"{p.get('ai_type', '')} {p.get('source_text', '')[:300]}",
+                                                    "title": p.get("source_title", ""),
+                                                    "supplier_id": p.get("supplier_id", ""), "gender": want})
+                if not review and set(rule_cats) != set(p.get("categories", [])):
                     fix(p, f"sección corregida a {', '.join(rule_cats)}")
-                    p["categories"] = rule_cats
+                    p["categories"] = p["fixed_cats"] = rule_cats
             # 2. va a las dos secciones (público dudoso): revisión con IA primero
             if {"hombre", "mujer"} <= {_group_of(c) for c in p["categories"]} and not p.get("ai_done"):
                 p["ai_priority"] = True
@@ -755,6 +816,7 @@ def quality_guard(plist, cfg):
     # 6. inspección con IA de una muestra (lo ya revisado también se vigila)
     n = g.get("ai_audit_per_run", 10) if ai_vision.ready() else 0
     sample = [p for p in plist if p.get("ai_done") and not p.get("hidden") and not p.get("locked_category")
+              and not p.get("fixed_cats")
               and p.get("audited", "") < (NOW - timedelta(days=30)).strftime("%Y-%m-%d")][:n]
     names = {f"{m['id']}": m for m in _lj("catalog.json", {"menus": []}).get("menus", [])}
     for p in sample:
@@ -775,7 +837,7 @@ def quality_guard(plist, cfg):
             claim = " and ".join(p.get("categories", []))
             out = ai_vision.audit(path, f"section {claim} (sex: {'both' if len({_group_of(c) for c in p['categories']}) > 1 else _group_of(p['categories'][0])})")
         if not out:
-            if "429" in ai_vision.LAST_ERROR:
+            if ai_vision.DAY_LIMIT_HIT:
                 break
             continue
         p["audited"] = TODAY
@@ -784,7 +846,7 @@ def quality_guard(plist, cfg):
                                            "gender": out.get("gender", "")})
             if not review and set(cats) != set(p["categories"]):
                 fix(p, f"inspección IA: era {out.get('type')} ({out.get('gender')}) → {', '.join(cats)}")
-                p["categories"] = cats
+                p["categories"] = p["ai_cats"] = cats
                 p["ai_type"], p["ai_gender"] = out.get("type", ""), out.get("gender", "")
         time.sleep(3)
     hist = _lj("quality_log.json", {"days": []})
@@ -923,9 +985,13 @@ def ai_enrich(plist, cfg):
                     pass
             out = ai_vision.enrich(local, p.get("source_text") or p.get("source_title", ""))
         if not out:
-            if "429" in ai_vision.LAST_ERROR or "RESOURCE_EXHAUSTED" in ai_vision.LAST_ERROR:
-                log("IA: límite gratuito de hoy alcanzado; sigo en la próxima hora.")
+            if ai_vision.DAY_LIMIT_HIT:
+                log(f"IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. ({ai_vision.LAST_ERROR[:160]})")
                 break
+            if not local:
+                log(f"IA: no pude descargar las fotos de {p['id']}")
+            else:
+                log(f"IA: fallo con {p['id']}: {ai_vision.LAST_ERROR[:160]}")
             p["ai_fail"] = p.get("ai_fail", 0) + 1
             if p["ai_fail"] >= 3:
                 p["ai_done"] = True  # no insistir para siempre con un producto que falla
@@ -951,10 +1017,10 @@ def ai_enrich(plist, cfg):
             p["ai_sizes"] = "|".join(p["sizes"])
         if not p.get("locked_category"):
             cats, _, _, review = classify({"type": f"{out.get('type', '')} {p.get('source_title', '')}",
-                                           "title": p.get("source_title", ""),
+                                           "title": p.get("source_title", ""), "supplier_id": p.get("supplier_id", ""),
                                            "gender": out.get("gender") or p.get("gender", "")})
             if not review:
-                p["categories"], p["needs_review"] = cats, False
+                p["categories"], p["needs_review"], p["ai_cats"] = cats, False, cats
         if out.get("name_es") and out.get("desc_es") and not p.get("locked_copy"):
             for k in ("name_es", "name_en", "desc_es", "desc_en", "details_es", "details_en"):
                 if out.get(k):
@@ -1120,6 +1186,15 @@ def complete_the_look(products):
 
 
 # --------------------------------------------------------------- programa
+_T = [time.time()]
+
+
+def stage(name):
+    now = time.time()
+    log(f"⏱ {name}: {int(now - _T[0])} s")
+    _T[0] = now
+
+
 def main():
     cfg = load_json("config.json", {})
     detect_site(cfg)
@@ -1129,6 +1204,7 @@ def main():
     stats = analytics.setdefault("products", {})
 
     rows = read_csvs() + read_printify() + read_printful()
+    stage("lectura de proveedores")
     products = dict(old)  # nunca se borra nada: lo que ya existía se conserva
 
     for r in rows:
@@ -1147,8 +1223,14 @@ def main():
         pid = slug(r["supplier"]) + "-" + slug(r.get("supplier_id") or r["title"])
         prev = old.get(pid, {})
         cats, n_es, n_en, review = classify(r)
+        # Una sola decisión que se mantiene hora tras hora (antes el vigilante y el motor se corregían el uno al otro):
+        # 1.º lo que fijes tú · 2.º la corrección del vigilante · 3.º lo que vio la IA en las fotos · 4.º las reglas
         if prev.get("locked_category"):
             cats = prev["categories"]
+        elif prev.get("fixed_cats"):
+            cats, review = prev["fixed_cats"], False
+        elif prev.get("ai_cats"):
+            cats, review = prev["ai_cats"], False
         pr = cfg.get("pricing", {})
         try:
             base = float(r.get("cost_usd") or 0)
@@ -1184,6 +1266,8 @@ def main():
             p["skus"] = r.get("skus", [])
             SEEN_API.add(pid)
         p["draft"] = r.get("draft") == "yes"
+        if re.search(NOT_PRODUCT, f"{r.get('title', '')} {r.get('supplier_id', '')}".lower()):
+            p["archived"], p["hidden"], p["needs_review"] = "no-es-producto", True, False  # p. ej. "Package Protection" de Shopify
         if r.get("supplier_product_id"):
             p["supplier_product_id"] = r["supplier_product_id"]
         if r.get("gender"):
@@ -1277,9 +1361,11 @@ def main():
             if p.get(k):
                 link_to_pid[p[k]] = p["id"]
     has_stripe = bool(os.environ.get("STRIPE_SECRET_KEY"))
+    stage("catálogo, precios y limpieza")
     sales = stripe_sales(link_to_pid)
     read_firebase_stats(cfg, stats)
     ensure_coupons(cfg)
+    stage("ventas, visitas y cupones")
     for p in plist:
         s = stats.setdefault(p["id"], {})
         for k in ("views", "clicks", "views_today", "sales_30d", "sales_today"):
@@ -1352,7 +1438,9 @@ def main():
         log(f"Campaña activa: {camp['id']} · {len(offers)} ofertas · {len(gifts)} regalos")
 
     ai_enrich(plist, cfg)
+    stage("revisión con IA")
     quality_guard(plist, cfg)
+    stage("vigilante")
     for p in plist:
         p["fam"] = family_of(p)
     complete_the_look(plist)
@@ -1367,6 +1455,7 @@ def main():
             made += 1
     if made:
         log(f"Stripe: {made} productos con enlace de pago nuevo en esta hora")
+    stage("enlaces de pago")
 
     update_fx(cfg)
     analytics["updated"] = NOW.strftime("%Y-%m-%dT%H:%M:%SZ")
