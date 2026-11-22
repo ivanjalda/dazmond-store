@@ -183,6 +183,16 @@ def main():
             continue
         first = (caption or "").strip()
         cmd = slug(first.split()[0]).upper() if first else ""
+        if cmd == "BREVO":
+            m = re.search(r"\b(ES|EN)\b\s+(https://\S+)", first, re.I)
+            if not m:
+                reply("Escribe: BREVO ES y la dirección del formulario en español (o BREVO EN para el de inglés).")
+            else:
+                cfg = load_json("config.json", {})
+                cfg.setdefault("newsletter", {})["brevo_form_url_" + m.group(1).lower()] = m.group(2).strip()
+                save_json("config.json", cfg)
+                reply(f"✓ Formulario de Brevo en {m.group(1).upper()} conectado. En una hora la suscripción de la web funcionará.")
+            continue
         if cmd == "FIREBASE":
             got = {k: (re.search(k + r"""["']?\s*[:=]\s*["']([^"']+)["']""", caption) or [None, ""])[1]
                    for k in ("apiKey", "authDomain", "projectId", "storageBucket", "messagingSenderId", "appId")}
