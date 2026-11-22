@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "one-piece swimsuit",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
   "mujer/trajes-bano"
  ],
+ "cg": "printful-351055469",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined vision of summer elegance. This one-piece swimsuit features an all-over artistic print that redefines classic lines. The silhouette sculpts the figure with absolute precision. Each piece is crafted on demand to ensure absolute exclusivity. Designed to stand out with serene sophistication by the water. Available with worldwide shipping.",
+ "desc_es": "Una visión depurada de la elegancia estival. Este bañador de una pieza presenta un estampado artístico integral que redefine las líneas clásicas. La silueta esculpe la figura con precisión milimétrica. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Diseñado para destacar con una sofisticación serena junto al agua. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/3df/3df6cce0ea30ea57ad2244058942023e_preview.png"
  ],
@@ -18,14 +28,14 @@
  "hidden": false,
  "id": "printful-351055469",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-379237645",
+  "printful-338164153"
  ],
  "material": "",
- "name_en": "Monogram Swimwear · White",
- "name_es": "Bañador Monogram · Blanco",
+ "name_en": "Fluid Art One-Piece Swimsuit",
+ "name_es": "Bañador de una pieza Fluid Art",
  "needs_review": false,
  "page": true,
  "price_usd": 49.99,

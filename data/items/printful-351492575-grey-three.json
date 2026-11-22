@@ -1,13 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/polos",
+  "mujer/polo"
+ ],
+ "ai_color": "Grey Three",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "polo",
+ "audited": "2026-11-22",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/polos",
+  "mujer/polo"
  ],
+ "cg": "printful-351492575",
  "color": "Grey Three",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette redefining casual elegance. Crafted with precision to project commanding presence. The neutral grey tone delivers versatility and understated sophistication. Each piece is made to order with worldwide shipping. An essential design for the contemporary wardrobe.",
+ "desc_es": "Una silueta depurada que redefine la elegancia casual. Confeccionada con precisión para ofrecer una presencia imponente. El tono gris neutro aporta versatilidad y sofisticación sobria. Cada pieza se elabora bajo pedido con envíos a todo el mundo. Un diseño esencial para el guardarropa contemporáneo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/891/891bd13df88b8954a43aef36a6eae586_preview.png"
  ],
@@ -19,13 +33,13 @@
  "look": [
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Madison Piece · Grey",
- "name_es": "Pieza Madison · Gris",
- "needs_review": true,
+ "name_en": "Gold Crest Polo",
+ "name_es": "Polo Gold Crest",
+ "needs_review": false,
  "page": true,
  "price_usd": 25.0,
  "rank": 4,

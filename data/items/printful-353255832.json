@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_195256.png?v=1788890066",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_195312.png?v=1788890066",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_195239.png?v=1788890066",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_195329.png?v=1788890067",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_195347.png?v=1788890066"
+ ],
  "ai_cats": [
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
@@ -16,6 +23,7 @@
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
+ "cg": "printful-353255832",
  "color": "White",
  "created": "2026-11-22",
  "desc_en": "A bold silhouette for urban exploration. Defined by a white and grey camouflage pattern, this piece unites functionality and contemporary design. Precision-crafted for constant movement. Every element reflects a modern, refined aesthetic. Available made-to-order with worldwide shipping.",
@@ -27,6 +35,7 @@
  ],
  "draft": false,
  "fam": "mochila-art-urban",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-353255832",
  "img_checked": "2026-11-22",
@@ -34,7 +43,7 @@
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-346239758"
+  "printful-390187180"
  ],
  "material": "",
  "name_en": "Urban Camo Art Backpack",

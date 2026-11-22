@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "cap",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
  ],
+ "cg": "printful-348121492",
  "color": "Grey",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A streamlined silhouette designed for daily wear. This cap combines functionality with a refined aesthetic. Its neutral tone brings versatility to any wardrobe. Clean lines define the contemporary design. Each piece is crafted made to order. We offer worldwide shipping for your convenience.",
+ "desc_es": "Una silueta depurada diseñada para el día a día. Esta gorra combina funcionalidad y una estética refinada. Su tono neutro aporta versatilidad a cualquier guardarropa. Las líneas limpias definen el diseño contemporáneo. Cada pieza se elabora bajo demanda. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/0dd/0dd06008c475e82a4cb9aa09becae5a4_preview.png"
  ],
@@ -20,12 +32,12 @@
  "look": [
   "printful-351492575-black",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Atelier Hat · Grey",
- "name_es": "Gorro Atelier · Gris",
+ "name_en": "Apex Performance Grey Cap",
+ "name_es": "Gorra Apex Performance Gris",
  "needs_review": false,
  "page": true,
  "price_usd": 43.99,

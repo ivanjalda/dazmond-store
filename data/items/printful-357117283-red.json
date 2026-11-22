@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Trucker Cap",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
  ],
+ "cg": "printful-357117283",
  "color": "Red",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An iconic silhouette reinvented with bold character. The Legacy Blessed trucker cap delivers a clean design and an imposing presence. The vibrant red color brings intensity to any urban ensemble. Each piece is meticulously crafted made to order. Available for worldwide shipping. Contemporary elegance meets everyday functionality.",
+ "desc_es": "Una silueta icónica reinventada con un carácter audaz. La gorra trucker Legacy Blessed ofrece un diseño limpio y una presencia imponente. El color rojo vibrante aporta intensidad a cualquier conjunto urbano. Cada pieza se elabora meticulosamente bajo demanda. Disponible para envíos a todo el mundo. La elegancia contemporánea se une a la funcionalidad diaria.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/37b/37bf850367ac9d74a5e45432e15daaa3_preview.png"
  ],
@@ -20,12 +32,12 @@
  "look": [
   "printful-351492575-black",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Madison Hat · Red",
- "name_es": "Gorro Madison · Rojo",
+ "name_en": "Legacy Blessed Trucker Cap",
+ "name_es": "Gorra Trucker Legacy Blessed",
  "needs_review": false,
  "page": true,
  "price_usd": 27.99,

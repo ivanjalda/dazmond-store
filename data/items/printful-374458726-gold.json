@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-gold-front-67a4ad0d1bc8e.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-black-front-67a4ad0d1b28b.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-navy-front-67a4ad0d1b509.jpg?v=1746053172",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-black-front-67a4ad0d1a77f.jpg?v=1746053172",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-navy-front-67a4ad0d1b7d3.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-royal-heather-grey-front-67a4ad0d1b476.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-red-front-67a4ad0d1b3c1.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-royal-heather-grey-front-67a4ad0d1b84e.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-royal-heather-grey-front-67a4ad0d1b355.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-dark-heather-grey-red-front-67a4ad0d1b562.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-red-front-67a4ad0d1b8d0.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-dark-heather-grey-red-front-67a4ad0d1b9a8.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-dark-heather-grey-navy-front-67a4ad0d1ba4c.jpg?v=1738861386",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pom-pom-knit-cap-dark-heather-grey-black-front-67a4ad0d1bacf.jpg?v=1738861386"
+ ],
  "ai_cats": [
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
@@ -15,6 +31,7 @@
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
  ],
+ "cg": "printful-374458726",
  "color": "Gold",
  "created": "2026-11-22",
  "desc_en": "A bold silhouette defined by a vibrant gold tone. This knit pom pom beanie delivers sophisticated presence for cold weather days. Crafted on demand with meticulous attention to detail. Available with worldwide shipping. An essential piece to elevate any winter wardrobe with distinction.",
@@ -26,13 +43,14 @@
  ],
  "draft": false,
  "fam": "gorro-pompon",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-374458726-gold",
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Pom Pom Knit Beanie",

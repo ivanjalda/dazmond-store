@@ -1,13 +1,22 @@
 {
+ "ai_color": "Carbon Grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
+ "ai_type": "Quarter-Zip",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/camiseta"
  ],
+ "cg": "printful-345663286",
  "color": "Carbon Grey",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece in soft fleece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad en felpa suave se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece for transitional layering. The Zenith fleece redefines casual comfort with a refined silhouette and clean lines. Crafted from textured cotton, this model delivers effortless presence. Its quarter-zip collar provides versatility and a polished aesthetic. Each piece is crafted to order in our workshops. We offer worldwide shipping for your convenience.",
+ "desc_es": "Una prenda esencial para la transición entre estaciones. El forro polar Zenith redefine el confort informal con una silueta depurada y líneas limpias. Diseñado en algodón texturizado, este modelo ofrece una presencia imponente sin esfuerzo. Su cuello con media cremallera aporta versatilidad y una estética refinada. Cada pieza se elabora bajo demanda en nuestros talleres. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Cotton\n· Quarter-zip closure\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Algodón\n· Cierre de media cremallera\n· Pieza confeccionada bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e4b/e4b0a59bd22b3a7abf2c97fe886e5c03_preview.png"
  ],
@@ -15,15 +24,16 @@
  "fam": "zenith-fleece-quarter",
  "hidden": false,
  "id": "printful-345663286-carbon-grey",
+ "img_checked": "2026-11-22",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Riviera Piece · Grey",
- "name_es": "Pieza Riviera · Gris",
+ "name_en": "Zenith Quarter-Zip Fleece",
+ "name_es": "Forro Polar Zenith con Cremallera",
  "needs_review": true,
  "page": true,
  "price_usd": 46.99,

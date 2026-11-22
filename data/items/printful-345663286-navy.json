@@ -1,13 +1,22 @@
 {
+ "ai_color": "Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
+ "ai_type": "Quarter-Zip",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/camiseta"
  ],
+ "cg": "printful-345663286",
  "color": "Navy",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece in soft fleece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad en felpa suave se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The Zenith fleece redefines utilitarian elegance with its refined silhouette. Crafted from exceptional cotton, this quarter-zip design offers a structured yet fluid drape. Deep tones convey a sober and distinguished presence. Each piece is meticulously crafted to order in our ateliers. Available with worldwide shipping for the contemporary wardrobe.",
+ "desc_es": "El forro polar Zenith redefine la elegancia utilitaria con su diseño depurado. Confeccionado en algodón de tacto excepcional, este modelo con cremallera al cuarto ofrece una silueta estructurada y fluida. Los tonos profundos aportan una presencia sobria y distinguida. Cada pieza se elabora meticulosamente bajo pedido en nuestros talleres. Disponible con envío a todo el mundo para el guardarropa contemporáneo.",
+ "details_en": "· Cotton\n· Quarter-zip design\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Algodón\n· Diseño con cremallera al cuarto\n· Hecho a medida bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/d38/d387f4275eab4b10b9397bf0cce7b1a5_preview.png"
  ],
@@ -15,15 +24,16 @@
  "fam": "zenith-fleece-quarter",
  "hidden": false,
  "id": "printful-345663286-navy",
+ "img_checked": "2026-11-22",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Hudson Piece · Navy",
- "name_es": "Pieza Hudson · Azul Marino",
+ "name_en": "Zenith Quarter-Zip Fleece",
+ "name_es": "Forro Polar Zenith Con Cremallera Cuarto",
  "needs_review": true,
  "page": true,
  "price_usd": 46.99,

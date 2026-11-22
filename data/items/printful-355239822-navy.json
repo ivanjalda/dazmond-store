@@ -1,13 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "hoodie",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
  ],
+ "cg": "printful-355239822",
  "color": "Navy",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A streamlined silhouette defines this essential garment. The design prioritizes clean lines and a sober presence. Crafted with attention to detail, it offers a versatile aesthetic for everyday wear. The front zipper provides functionality without compromising the minimalist elegance of the piece. Available exclusively made to order. We offer worldwide shipping to ensure your acquisition reaches its destination directly.",
+ "desc_es": "Una silueta depurada define esta prenda esencial. El diseño prioriza la precisión de líneas y una presencia sobria. Confeccionada con atención al detalle, ofrece una estética versátil para el día a día. La cremallera frontal aporta funcionalidad sin comprometer la elegancia minimalista de la pieza. Disponible exclusivamente bajo demanda. Ofrecemos envíos a todo el mundo para garantizar que su adquisición llegue directamente a su destino.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/81b/81bdae1fc9da35e4fcfcccbcc298c932_preview.png"
  ],
@@ -16,15 +29,15 @@
  "hidden": false,
  "id": "printful-355239822-navy",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180"
  ],
  "material": "",
- "name_en": "Imperial Piece · Navy",
- "name_es": "Pieza Imperial · Azul Marino",
- "needs_review": true,
+ "name_en": "Meridian 270 Zip Hoodie",
+ "name_es": "Sudadera con Cremallera Meridian 270",
+ "needs_review": false,
  "page": true,
  "price_usd": 45.99,
  "rank": 228,

@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "bag",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
+ "cg": "printful-353286013",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A sophisticated silhouette that redefines modern elegance. This essential accessory merges flawless design with absolute versatility. Each piece is made to order to ensure ultimate exclusivity. Its refined aesthetic complements any wardrobe with a magnetic and subtle presence. Available with worldwide shipping.",
+ "desc_es": "Una silueta sofisticada que redefine la elegancia moderna. Este accesorio essential fusiona un diseño impecable con una versatilidad absoluta. Cada pieza se elabora bajo pedido para garantizar la máxima exclusividad. Su estética depurada complementa cualquier guardarropa con una presencia magnética y sutil. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b96/b96f8d9683cd699f4376aba9c8a2907c_preview.png"
  ],
@@ -21,11 +33,11 @@
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-346239758"
+  "printful-390187180"
  ],
  "material": "",
- "name_en": "Manhattan Bag · Black",
- "name_es": "Bolso Manhattan · Negro",
+ "name_en": "Daz Luxury Crossbody Bag",
+ "name_es": "Bolso Con Correa Daz Luxury",
  "needs_review": false,
  "page": true,
  "price_usd": 41.99,

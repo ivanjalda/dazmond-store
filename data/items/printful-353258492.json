@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-11_170359.png?v=1789139232",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-11_170624.png?v=1789139233",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-11_170415.png?v=1789139234",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-11_170554.png?v=1789139232",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-11_170540.png?v=1789139231",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-11_170430.png?v=1789139234",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-backpack-white-front-66a4dc3f9182f.jpg?v=1722080330",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-backpack-white-back-66a4dc3f932f3.jpg?v=1722080337"
+ ],
  "ai_cats": [
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
@@ -16,6 +26,7 @@
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
+ "cg": "printful-353258492",
  "color": "White",
  "created": "2026-11-22",
  "desc_en": "A global expression of gratitude. This backpack combines an all-over print of multilingual expressions of thanks with the distinctive house emblem. The design features clean lines and a versatile structure. Each piece is made to order. We offer worldwide shipping.",
@@ -27,6 +38,7 @@
  ],
  "draft": false,
  "fam": "mochila-thank-you",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-353258492",
  "img_checked": "2026-11-22",
@@ -34,7 +46,7 @@
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-346239758"
+  "printful-390187180"
  ],
  "material": "",
  "name_en": "DAZMOND Polyglot Backpack",

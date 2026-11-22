@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Crossbody Bag",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
+ "cg": "printful-353287797",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Contemporary elegance defines this crossbody bag. Clean lines merge with a structured design. This accessory complements any formal or informal outfit with sophistication. Each piece is crafted made to order. We offer worldwide shipping.",
+ "desc_es": "La elegancia contemporánea define este bolso cruzado. Las líneas limpias se combinan con un diseño estructurado. Este accesorio complementa cualquier atuendo formal o informal con sofisticación. Cada pieza se elabora bajo pedido. Ofrecemos envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/10b/10b135c9e7f7ca92b869c71113bc6452_preview.png"
  ],
@@ -21,11 +33,11 @@
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-346239758"
+  "printful-390187180"
  ],
  "material": "",
- "name_en": "Soho Bag · Black",
- "name_es": "Bolso Soho · Negro",
+ "name_en": "DAZ Crossbody Bag",
+ "name_es": "Bolso Cruzado DAZ",
  "needs_review": false,
  "page": true,
  "price_usd": 41.99,

@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-stone-front-6834a0cbad2ae.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-stone-front-6834a0cbad2ae.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-stone-front-6834a0cbad2ae.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-stone-front-6834a0cbad2ae.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-french-navy-front-6834a0cba9c0e.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-french-navy-back-6834a0cbaa914.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-french-navy-left-6834a0cbab256.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-heather-grey-front-6834a0cbab7c2.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-heather-grey-back-6834a0cbabe4a.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-heather-grey-left-6834a0cbacb17.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-stone-back-6834a0cbadb12.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-stone-left-6834a0cbaeaf6.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-white-front-6834a0cbaf3d6.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-white-back-6834a0cbafdaf.jpg?v=1748279515"
+ ],
  "ai_cats": [
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
@@ -16,6 +32,7 @@
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
+ "cg": "printful-383200891",
  "color": "Stone",
  "created": "2026-11-22",
  "desc_en": "A substantial silhouette defines this essential piece. The high neck introduces sober, contemporary architecture. The oversized cut creates an imposing, fluid presence. Each garment is made to order in our ateliers. The stone hue offers sophisticated neutrality. Worldwide shipping is available.",
@@ -27,16 +44,17 @@
  ],
  "draft": false,
  "fam": "camiseta-oversize-organica",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-383200891-stone",
  "img_checked": "2026-11-22",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
- "material": "",
+ "material": "Organic",
  "name_en": "DAZ High Neck Oversized T-Shirt",
  "name_es": "Camiseta Oversize Cuello Alto DAZ",
  "needs_review": false,

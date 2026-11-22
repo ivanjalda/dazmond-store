@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "One-Piece Swimsuit",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
   "mujer/trajes-bano"
  ],
+ "cg": "printful-351055401",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Refined silhouette for the sun. The Prism Blue model redefines coastal elegance. Clean lines and enveloping design. Subtle blurred tonalities. A summer canvas of modern sophistication. Made-to-order piece. Worldwide shipping available.",
+ "desc_es": "Silueta depurada para el sol. El modelo Prism Blue redefine la elegancia en la costa. Líneas limpias y diseño envolvente. Tonalidades difuminadas de gran sutileza. Un lienzo estival de sofisticación moderna. Pieza confeccionada bajo demanda. Envío disponible a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/41e/41e1ecb64b7924a0cce6d0571b0054b7_preview.png"
  ],
@@ -18,14 +28,14 @@
  "hidden": false,
  "id": "printful-351055401",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-379237645",
+  "printful-338164153"
  ],
  "material": "",
- "name_en": "Noir Swimwear · White",
- "name_es": "Bañador Noir · Blanco",
+ "name_en": "Prism Blue Swimsuit",
+ "name_es": "Bañador Prism Blue",
  "needs_review": false,
  "page": true,
  "price_usd": 49.99,

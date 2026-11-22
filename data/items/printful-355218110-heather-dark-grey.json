@@ -6,6 +6,7 @@
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
+ "cg": "printful-355218110",
  "color": "Heather Dark Grey",
  "created": "2026-11-22",
  "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
@@ -18,10 +19,10 @@
  "hidden": false,
  "id": "printful-355218110-heather-dark-grey",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Avenue Tee · Grey",
@@ -52,6 +53,7 @@
   "5697852_2033"
  ],
  "source_title": "The Dazmond Seamless 145",
+ "stripe_payment_link": "https://buy.stripe.com/6oU00kcnq26gduSeOW1gF22",
  "supplier": "Printful",
  "supplier_id": "355218110-heather-dark-grey",
  "visual_verified": true

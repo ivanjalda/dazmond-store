@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Cap",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
  ],
+ "cg": "printful-348121492",
  "color": "Red",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The silhouette redefines the concept of casual elegance. Clean lines accompany the natural movement of the day. A restrained presence in deep red. Each piece is crafted individually upon order confirmation. Worldwide shipping is available globally.",
+ "desc_es": "La silueta redefine el concepto de elegancia casual. Lineas depuradas que acompañan el movimiento natural del dia. Una presencia sobria en tono rojo profundo. Cada pieza se confecciona de manera individual tras la confirmación de la orden. El envio internacional esta disponible a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envio a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/db8/db8d5b0a6d8ab4120909a8d4bf2ca18f_preview.png"
  ],
@@ -20,12 +32,12 @@
  "look": [
   "printful-351492575-black",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Monogram Hat · Red",
- "name_es": "Gorro Monogram · Rojo",
+ "name_en": "Apex Performance Cap",
+ "name_es": "Gorra Apex Performance",
  "needs_review": false,
  "page": true,
  "price_usd": 43.99,

@@ -6,6 +6,7 @@
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
+ "cg": "printful-374546151",
  "color": "Lavender",
  "created": "2026-11-22",
  "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
@@ -18,10 +19,10 @@
  "hidden": false,
  "id": "printful-374546151-lavender",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Monogram Tee",
@@ -50,6 +51,7 @@
   "5576488_17426"
  ],
  "source_title": "Camiseta de algodón orgánico DAZ Luxury",
+ "stripe_payment_link": "https://buy.stripe.com/aFa6oIfzC9yIfD0ayG1gF0z",
  "supplier": "Printful",
  "supplier_id": "374546151-lavender",
  "visual_verified": true

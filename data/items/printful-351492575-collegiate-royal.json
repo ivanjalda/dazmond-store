@@ -1,13 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/polos",
+  "mujer/polo"
+ ],
+ "ai_color": "Collegiate Royal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "polo shirt",
+ "audited": "2026-11-22",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/polos",
+  "mujer/polo"
  ],
+ "cg": "printful-351492575",
  "color": "Collegiate Royal",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Essential silhouette designed for contemporary elegance. Deep blue tone evoking discrete sophistication. Clean lines defining an imposing presence. Made to order with worldwide shipping. A piece transcending ephemeral trends. The ultimate expression of exclusivity and refined character. Created for those demanding absolute distinction in every detail of their daily wardrobe.",
+ "desc_es": "Silueta esencial diseñada para la elegancia contemporánea. Tono azul profundo que evoca sofisticación discreta. Líneas limpias que definen una presencia imponente. Confección bajo pedido con distribución global. Una pieza que trasciende las tendencias efímeras. La máxima expresión de exclusividad y carácter refinado. Creado para quienes exigen distinción absoluta en cada detalle de su guardarropa diario.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/69c/69cde56bd526681458d9760dd94bcb79_preview.png"
  ],
@@ -19,13 +33,13 @@
  "look": [
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Monogram Piece · Gold",
- "name_es": "Pieza Monogram · Oro",
- "needs_review": true,
+ "name_en": "Gold Crest Polo",
+ "name_es": "Polo Gold Crest",
+ "needs_review": false,
  "page": true,
  "price_usd": 25.0,
  "rank": 3,

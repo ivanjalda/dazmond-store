@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_184451.png?v=1788886024",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_184438.png?v=1788886023",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_184506.png?v=1788886023",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_184609.png?v=1788886024",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_184521.png?v=1788886024",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-08_184623.png?v=1788886025",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-backpack-white-front-66a4dd3f36ee4.jpg?v=1722080585",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-backpack-white-back-66a4dd3f3806b.jpg?v=1722080599"
+ ],
  "ai_cats": [
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
@@ -16,6 +26,7 @@
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
+ "cg": "printful-353254680",
  "color": "White",
  "created": "2026-11-22",
  "desc_en": "A refined silhouette that redefines urban functionality. The Imperial Velvet backpack features an immaculate all-over print design, conceived for those who demand distinction in every journey. Its streamlined aesthetic merges with a versatile and resilient structure. Each piece is meticulously crafted to order in our ateliers. We offer worldwide shipping to meet the expectations of the most discerning clientele.",
@@ -27,6 +38,7 @@
  ],
  "draft": false,
  "fam": "mochila-art-imperial",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-353254680",
  "img_checked": "2026-11-22",
@@ -34,7 +46,7 @@
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-346239758"
+  "printful-390187180"
  ],
  "material": "",
  "name_en": "Imperial Velvet Backpack",

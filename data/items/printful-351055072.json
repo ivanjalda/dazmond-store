@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "Swimsuit",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
   "mujer/trajes-bano"
  ],
+ "cg": "printful-351055072",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Defined lines and absolute contrast. This one-piece swimsuit redefines summer sophistication with a geometric-inspired graphic print. The silhouette sculpts the figure with millimeter precision. Each piece is meticulously crafted to order in our facilities. Enjoy our worldwide shipping service. A garment designed to stand out on any aquatic horizon.",
+ "desc_es": "Líneas definidas y contraste absoluto. Este bañador de una pieza redefine la sofisticación estival con un estampado gráfico de inspiración geométrica. La silueta esculpe la figura con precisión milimétrica. Cada pieza se elabora meticulosamente bajo pedido en nuestras instalaciones. Disfrute de nuestra oferta de envío internacional. Una prenda diseñada para destacar en cualquier horizonte acuático.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/d77/d77431efc5c1b3cdc0bea5fab9010274_preview.png"
  ],
@@ -18,14 +28,14 @@
  "hidden": false,
  "id": "printful-351055072",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-379237645",
+  "printful-338164153"
  ],
  "material": "",
- "name_en": "Imperial Swimwear · White",
- "name_es": "Bañador Imperial · Blanco",
+ "name_en": "Geometric Prism Swimsuit",
+ "name_es": "Bañador Geométrico Prism",
  "needs_review": false,
  "page": true,
  "price_usd": 49.99,

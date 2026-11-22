@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Crossbody Bag",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
+ "cg": "printful-353285926",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The definitive silhouette for contemporary movement. This accessory embodies precision and effortless elegance. Each piece is crafted on order to ensure absolute exclusivity. The design integrates clean lines with a bold aesthetic. Functionality meets modern luxury in every detail. Available for worldwide shipping with the signature distinction of DAZMOND.",
+ "desc_es": "La silueta definitiva para el movimiento contemporáneo. Este accesorio encarna la precisión y la elegancia sin esfuerzo. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. El diseño integra líneas depuradas con una estética audaz. La funcionalidad se encuentra con el lujo moderno en cada detalle. Disponible para envío a todo el mundo con el sello característico de DAZMOND.",
+ "details_en": "· Made to order\n· Available for worldwide shipping",
+ "details_es": "· Confección bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/a3b/a3be33b76823febdc2e380d22a18ca43_preview.png"
  ],
@@ -21,11 +33,11 @@
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-346239758"
+  "printful-390187180"
  ],
  "material": "",
- "name_en": "Monogram Bag · Black",
- "name_es": "Bolso Monogram · Negro",
+ "name_en": "DAZ Luxury Crossbody Bag",
+ "name_es": "Bolso Cruzado DAZ Luxury",
  "needs_review": false,
  "page": true,
  "price_usd": 41.99,

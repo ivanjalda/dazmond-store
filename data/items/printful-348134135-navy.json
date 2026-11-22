@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/waffle-beanie-navy-front-2-66632befd0df5.jpg?v=1776784581",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/waffle-beanie-camel-front-66632befd1547.jpg?v=1776784581",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/waffle-beanie-rust-front-2-66632befd0c3a.jpg?v=1776784581",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/waffle-beanie-heather-charcoal-front-2-66632befd0d1a.jpg?v=1776784581",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/waffle-beanie-black-front-2-66632befd0ec6.jpg?v=1776784581",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/waffle-beanie-birch-product-details-66632befd0f8d.jpg?v=1776784581"
+ ],
  "ai_cats": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
@@ -15,6 +23,7 @@
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
  ],
+ "cg": "printful-348134135",
  "color": "Navy",
  "created": "2026-11-22",
  "desc_en": "A clean and structured silhouette. The waffle design brings texture to the contemporary wardrobe. An essential piece for cold days. Designed to offer versatility and understated presence. Each item is crafted exclusively on order. Worldwide shipping available.",
@@ -28,11 +37,12 @@
  "fam": "honeycomb-waffle-beanie",
  "hidden": false,
  "id": "printful-348134135-navy",
+ "img_checked": "2026-11-22",
  "look": [
   "printful-351492575-black",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Honeycomb Waffle Navy Beanie",

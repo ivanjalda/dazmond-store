@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-3xs-front-6723843c1f60d.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-3xs-back-6723843c1fe89.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-2xs-front-6723843c20016.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-2xs-back-6723843c2016a.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-xs-front-6723843c202eb.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-xs-back-6723843c2045f.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-s-front-6723843c205f5.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-s-back-6723843c20790.jpg?v=1730380884",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-m-front-6723843c2096e.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-m-back-6723843c20b5a.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-l-front-6723843c20eb3.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-l-back-6723843c210ae.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-xl-front-6723843c212cb.jpg?v=1730380885",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/classic-fit-knitted-crew-neck-sweater-custom-xl-back-6723843c214bc.jpg?v=1730380885"
+ ],
  "ai_cats": [
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
@@ -15,6 +31,7 @@
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
  ],
+ "cg": "printful-365295456",
  "color": "Custom",
  "created": "2026-11-22",
  "desc_en": "Casual elegance finds its highest expression in this knitted sweater. Designed with a crew neck silhouette, it offers a refined and sophisticated presence. The understated tones and front design bring effortless character. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
@@ -33,13 +50,14 @@
  ],
  "draft": false,
  "fam": "jersey-punto-cuello",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-365295456",
  "look": [
   "printful-351492575-black",
   "printful-361906822",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Classic Knit Sweater",

@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "Swimsuit",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
   "mujer/trajes-bano"
  ],
+ "cg": "printful-351058797",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Refined architecture for sunlit days. This one-piece swimsuit features an all-over graphic print that reinterprets the essential lines of summer elegance. A clean silhouette designed for water-side sophistication. Each piece is crafted to order in our ateliers. We offer worldwide shipping to accompany your most exclusive destinations.",
+ "desc_es": "Arquitectura depurada para los días de sol. Este bañador de una pieza presenta un estampado gráfico integral que reinterpreta las líneas esenciales de la elegancia estival. Una silueta limpia diseñada para la sofisticación junto al agua. Cada pieza se confecciona bajo demanda en nuestros talleres. Enviamos a todo el mundo para acompañar sus destinos más exclusivos.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/9ae/9ae8d803394331876cc07f3255817100_preview.png"
  ],
@@ -18,14 +28,14 @@
  "hidden": false,
  "id": "printful-351058797",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-379237645",
+  "printful-338164153"
  ],
  "material": "",
- "name_en": "Manhattan Swimwear · White",
- "name_es": "Bañador Manhattan · Blanco",
+ "name_en": "Golden Links Swimsuit",
+ "name_es": "Bañador Golden Links",
  "needs_review": false,
  "page": true,
  "price_usd": 49.99,

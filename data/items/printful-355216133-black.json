@@ -4,6 +4,7 @@
  "categories": [
   "hombre/camiseta"
  ],
+ "cg": "printful-355216133",
  "color": "Black",
  "created": "2026-11-22",
  "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
@@ -16,10 +17,10 @@
  "hidden": false,
  "id": "printful-355216133-black",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Manhattan Piece · Black",
@@ -52,6 +53,7 @@
   "3485726_16758"
  ],
  "source_title": "The Dazmond Piqué Heritage 175",
+ "stripe_payment_link": "https://buy.stripe.com/fZu4gA1IM3akduSeOW1gF2j",
  "supplier": "Printful",
  "supplier_id": "355216133-black",
  "visual_verified": true

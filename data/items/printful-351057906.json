@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "swimsuit",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
   "mujer/trajes-bano"
  ],
+ "cg": "printful-351057906",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined vision of resort design. This monochromatic swimsuit defines quiet elegance. Clean lines trace a polished silhouette. The tonal contrast creates a graphic presence. Exclusive made-to-order construction. Available for worldwide shipping.",
+ "desc_es": "Una visión depurada del diseño balneario. Este traje de baño monocromático define una elegancia discreta. Las líneas limpias trazan una silueta depurada. El contraste tonal aporta una presencia gráfica. Confección exclusiva bajo demanda. Disponible para envíos internacionales.",
+ "details_en": "· Made to order\n· Available for worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/299/299fe3515bcca493e0538da216267faf_preview.png"
  ],
@@ -18,14 +28,14 @@
  "hidden": false,
  "id": "printful-351057906",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-379237645",
+  "printful-338164153"
  ],
  "material": "",
- "name_en": "Riviera Swimwear · White",
- "name_es": "Bañador Riviera · Blanco",
+ "name_en": "Art Luxury Monochromatic Swimsuit",
+ "name_es": "Traje de baño monocromático Art Luxury",
  "needs_review": false,
  "page": true,
  "price_usd": 49.99,

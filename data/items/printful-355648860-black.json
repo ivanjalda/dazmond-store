@@ -1,13 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "t-shirt",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
+ "cg": "printful-355648860",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A pure expression of modern design and flawless silhouette. This piece defines contemporary elegance with its deep tone. Every detail has been conceived for the sophisticated wardrobe. The structure offers a distinguished and timeless presence. Crafted on demand to ensure maximum exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una expresion pura de diseño moderno y silueta impecable. Esta pieza define la elegancia contemporanea con su tono profundo. Cada detalle ha sido concebido para el guardarropa sofisticado. La estructura ofrece una presencia distinguida y atemporal. Confeccionada bajo demanda para garantizar la maxima exclusividad. Disponible con envios a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envio mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/89b/89b9167acdc9b036399fecb4c4ea4849_preview.png"
  ],
@@ -16,15 +29,15 @@
  "hidden": false,
  "id": "printful-355648860-black",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Riviera Piece · Black",
- "name_es": "Pieza Riviera · Negro",
- "needs_review": true,
+ "name_en": "Indigo 160 Husky T-Shirt",
+ "name_es": "Camiseta Indigo 160 Husky",
+ "needs_review": false,
  "page": true,
  "price_usd": 36.99,
  "rank": 317,

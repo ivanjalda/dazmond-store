@@ -1,15 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
  "ai_priority": true,
+ "ai_type": "Joggers",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
  ],
+ "cg": "printful-337647274",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece in soft fleece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad en felpa suave se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "We redefine leisure with an impeccable silhouette. Relaxed elegance finds its highest expression in this essential piece. Designed for absolute comfort without sacrificing sophistication. Clean lines and a magnetic presence that transcend time. Each piece is crafted exclusively to order in our ateliers. We offer worldwide shipping for your utmost convenience.",
+ "desc_es": "Redefinimos el descanso con una silueta impecable. La elegancia relajada encuentra su máxima expresión en esta prenda esencial. Diseñadas para un confort absoluto sin sacrificar la sofisticación. Líneas limpias y una presencia magnética que trascienden el tiempo. Cada pieza se elabora exclusivamente bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo para su total comodidad.",
+ "details_en": "· Cotton\n· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Algodón\n· Confección exclusiva bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/c30/c3012d46c33d305ffaa219d786e6e146_preview.png"
  ],
@@ -17,15 +30,16 @@
  "fam": "elite-lounge-fleece",
  "hidden": false,
  "id": "printful-337647274-black",
+ "img_checked": "2026-11-22",
  "look": [
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137"
+  "printful-390187180"
  ],
  "material": "",
- "name_en": "Manhattan Sweatshirt · Black",
- "name_es": "Sudadera Manhattan · Negro",
+ "name_en": "Elite Lounge Fleece Joggers",
+ "name_es": "Joggers de Ensueño Elite Lounge",
  "needs_review": false,
  "page": true,
  "price_usd": 52.99,

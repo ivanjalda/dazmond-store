@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "swimsuit",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
   "mujer/trajes-bano"
  ],
+ "cg": "printful-351057476",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Clean silhouettes define this swimwear piece. Shadow lines contrast against a luminous backdrop. The design embraces form with precision. A minimalist proposition for the modern shoreline. Each piece is made to order. Available for worldwide shipping.",
+ "desc_es": "Siluetas depuradas definen esta pieza de baño. Las líneas de sombra contrastan sobre un fondo luminoso. El diseño abraza la forma con precisión. Una propuesta minimalista para la costa moderna. Cada prenda se confecciona bajo pedido. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/4c1/4c1d16b70352347c9780ceab11184b05_preview.png"
  ],
@@ -18,14 +28,14 @@
  "hidden": false,
  "id": "printful-351057476",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-379237645",
+  "printful-338164153"
  ],
  "material": "",
- "name_en": "Avenue Swimwear · White",
- "name_es": "Bañador Avenue · Blanco",
+ "name_en": "Shadow Lines Swimsuit",
+ "name_es": "Bañador Shadow Lines",
  "needs_review": false,
  "page": true,
  "price_usd": 49.99,

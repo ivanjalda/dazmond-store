@@ -1,4 +1,18 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-midnight-navy-front-682c4eadb1238.jpg?v=1747734200",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-black-front-682c4eadb10c8.jpg?v=1747734576",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-black-right-front-682c4eadb114e.jpg?v=1747734576",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-black-back-682c4eadb0192.jpg?v=1747734576",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-black-left-front-682c4eadb11c2.jpg?v=1747734200",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-midnight-navy-back-682c4eadb1296.jpg?v=1747734200",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-midnight-navy-right-front-682c4eadb12f3.jpg?v=1747734200",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-midnight-navy-left-front-682c4eadb13a0.jpg?v=1747734200",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-castlerock-front-682c4eadb146d.jpg?v=1747734200",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-castlerock-back-682c4eadb1502.jpg?v=1747734200",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-castlerock-right-front-682c4eadb1567.jpg?v=1747734200",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/under-armour-backpack-castlerock-left-front-682c4eadb15d4.jpg?v=1747734200"
+ ],
  "ai_cats": [
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
@@ -15,6 +29,7 @@
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
+ "cg": "printful-382720873",
  "color": "Midnight Navy",
  "created": "2026-11-22",
  "desc_en": "Precision meets contemporary design in this essential piece. Created for constant movement. Its refined aesthetic reflects functional elegance. Every detail responds to a vision of modern sophistication. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping. An accessory designed to define the rhythm of your day with distinction.",
@@ -26,6 +41,7 @@
  ],
  "draft": false,
  "fam": "mochila-luxury-under",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382720873-midnight-navy",
  "img_checked": "2026-11-22",
@@ -33,7 +49,7 @@
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-346239758"
+  "printful-390187180"
  ],
  "material": "",
  "name_en": "DAZMON Midnight Navy Backpack",

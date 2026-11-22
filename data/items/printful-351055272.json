@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "swimsuit",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
   "mujer/trajes-bano"
  ],
+ "cg": "printful-351055272",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Define your presence by the water. This one-piece design embodies modern sophistication. Clean lines and a refined aesthetic shape the silhouette. Created for moments of exclusivity under the sun. Each piece is meticulously made to order. Available with worldwide shipping.",
+ "desc_es": "Defina su presencia junto al agua. Este diseño de una pieza encarna la sofisticación moderna. Líneas limpias y una estética depurada definen la silueta. Creado para momentos de exclusividad bajo el sol. Cada pieza se elabora meticulosamente bajo pedido. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/2e9/2e96b99e751131b948fccb7cd8258167_preview.png"
  ],
@@ -18,14 +28,14 @@
  "hidden": false,
  "id": "printful-351055272",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-379237645",
+  "printful-338164153"
  ],
  "material": "",
- "name_en": "Soho Swimwear · White",
- "name_es": "Bañador Soho · Blanco",
+ "name_en": "Abstract Luxury Swimsuit",
+ "name_es": "Bañador Abstract Luxury",
  "needs_review": false,
  "page": true,
  "price_usd": 49.99,

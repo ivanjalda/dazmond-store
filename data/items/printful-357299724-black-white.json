@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black / White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-shirt",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
+ "cg": "printful-357299724",
  "color": "Black / White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An expansive silhouette redefines the foundational piece. The tie-dye pattern evokes distant constellations. Each piece is crafted exclusively on demand. The fluid design offers an imposing presence. Minimalist aesthetics converse with contemporary volume. A statement of absolute style. Available for worldwide shipping. Modern elegance finds its definitive form.",
+ "desc_es": "Una silueta amplia redefine la prenda esencial. El estampado tie-dye evoca constelaciones lejanas. Cada pieza se confecciona exclusivamente bajo pedido. El diseño fluido ofrece una presencia imponente. La estética minimalista dialoga con el volumen contemporáneo. Una declaración de estilo absoluto. Disponible para envío a todo el mundo. La elegancia moderna encuentra su forma definitiva.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/baf/bafddf59111fc1792d68bf974a4ffe54_preview.png"
  ],
@@ -18,14 +30,14 @@
  "hidden": false,
  "id": "printful-357299724-black-white",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Hudson Tee · Black",
- "name_es": "Camiseta Hudson · Negro",
+ "name_en": "Cosmic Nebula Oversize Tee",
+ "name_es": "Camiseta Oversize Cosmic Nebula",
  "needs_review": false,
  "page": true,
  "price_usd": 38.99,

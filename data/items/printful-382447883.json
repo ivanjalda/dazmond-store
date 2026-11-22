@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/vintage-cap-black-front-68272401c7469.jpg?v=1747395642",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/vintage-cap-black-left-side-68272401c89d4.jpg?v=1747395642",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/vintage-cap-black-left-front-68272401c86c4.jpg?v=1747395642",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/vintage-cap-black-front-68271eb4807ac.jpg?v=1747395642",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/vintage-cap-black-left-68271eb4814cb.jpg?v=1747395642",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/vintage-cap-black-right-back-68271eb4816c3.jpg?v=1747395642",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/vintage-cap-black-back-68272401c807f.jpg?v=1747395642",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/vintage-cap-black-product-details-68272401c8c9c.jpg?v=1747395626",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/vintage-cap-black-right-side-68272401c83a4.jpg?v=1747395626"
+ ],
  "ai_cats": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
@@ -16,6 +27,7 @@
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
  ],
+ "cg": "printful-382447883",
  "color": "Black",
  "created": "2026-11-22",
  "desc_en": "Define your everyday style with this essential piece from DAZMOND & Co. Crafted from premium cotton twill, this classic silhouette features a distinctive vintage finish. Each piece is made to order to ensure ultimate exclusivity. The six-panel design delivers an impeccable structure and superior comfort. A subtle statement of modern sophistication. Available with worldwide shipping.",
@@ -27,15 +39,17 @@
  ],
  "draft": false,
  "fam": "gorra-luxury-vintage",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382447883",
+ "img_checked": "2026-11-22",
  "look": [
   "printful-351492575-black",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
- "material": "",
+ "material": "Cotton Twill",
  "name_en": "Vintage Cotton Twill Cap",
  "name_es": "Gorra Vintage de Sarga de Algodón",
  "needs_review": false,

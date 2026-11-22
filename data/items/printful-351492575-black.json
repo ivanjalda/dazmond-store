@@ -1,13 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/polos",
+  "mujer/polo"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "polo",
+ "audited": "2026-11-22",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/polos",
+  "mujer/polo"
  ],
+ "cg": "printful-351492575",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette that redefines contemporary elegance. Clean lines bring structure and quiet presence. The dark tone balances sophistication with absolute versatility. A design created to endure through time. Each piece is made to order in our facilities. We offer worldwide shipping to accompany your style without borders.",
+ "desc_es": "Una silueta depurada que redefine la elegancia contemporanea. Las lineas limpias aportan estructura y presencia silenciosa. El tono oscuro equilibra la sofisticacion con la versatilidad absoluta. Un diseño creado para perdurar en el tiempo. Cada pieza se confecciona bajo pedido en nuestras instalaciones. Ofrecemos envios internacionales para acompanar su estilo sin fronteras.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Confeccionado bajo pedido\n· Disponible con envio mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/da8/da89bed1d1e149fe99788cc0c4d9d7b2_preview.png"
  ],
@@ -19,13 +33,13 @@
  "look": [
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Hudson Piece · Black",
- "name_es": "Pieza Hudson · Negro",
- "needs_review": true,
+ "name_en": "Gold Crest Polo",
+ "name_es": "Polo Gold Crest",
+ "needs_review": false,
  "page": true,
  "price_usd": 25.0,
  "rank": 1,

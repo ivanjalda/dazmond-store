@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/columbia-pom-pom-beanie-chalk-front-66fc15052b7aa.jpg?v=1727796510",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/columbia-pom-pom-beanie-black-left-front-66fc15052b573.jpg?v=1727796503",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/columbia-pom-pom-beanie-black-front-66fc150527a29.jpg?v=1727796499",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/columbia-pom-pom-beanie-black-left-66fc15052b66c.jpg?v=1727796506",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/columbia-pom-pom-beanie-chalk-left-front-66fc15052b86a.jpg?v=1727796516",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/columbia-pom-pom-beanie-chalk-left-66fc15052b91c.jpg?v=1727796520"
+ ],
  "ai_cats": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
@@ -16,6 +24,7 @@
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
  ],
+ "cg": "printful-361906822",
  "color": "Chalk",
  "created": "2026-11-22",
  "desc_en": "Essential silhouette for cold weather. Contemporary design with ribbed texture. Features a top pom-pom that adds subtle movement. Versatile and sophisticated chalk tone. Each piece is crafted to order with worldwide shipping available. A discreet accessory that defines the season with elegance.",
@@ -27,14 +36,15 @@
  ],
  "draft": false,
  "fam": "gorro-pompon-columbia",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-361906822",
  "img_checked": "2026-11-22",
  "look": [
   "printful-351492575-black",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Chalk Pom-Pom Beanie",

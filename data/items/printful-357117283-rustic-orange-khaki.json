@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Rust Orange / Khaki",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Trucker Cap",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
  ],
+ "cg": "printful-357117283",
  "color": "Rustic Orange/ Khaki",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined design essential. The Legacy Blessed Trucker cap delivers a bold yet understated presence. Crafted with precision for everyday wear. Deep rust orange and khaki tones. Tailored for versatile, contemporary styling. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Un elemento esencial de diseño refinado. La gorra Legacy Blessed Trucker ofrece una presencia audaz pero sobria. Confeccionada con precisión para el día a día. Tonos profundos de óxido y caqui. Diseñada para un uso versátil y contemporáneo. Cada pieza se elabora bajo pedido. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/164/16445783a59db81ba629e09535c3891d_preview.png"
  ],
@@ -20,12 +32,12 @@
  "look": [
   "printful-351492575-black",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Avenue Hat",
- "name_es": "Gorro Avenue",
+ "name_en": "Legacy Blessed Trucker Cap",
+ "name_es": "Gorra Legacy Blessed Trucker",
  "needs_review": false,
  "page": true,
  "price_usd": 27.99,

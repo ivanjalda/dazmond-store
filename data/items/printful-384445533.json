@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/knitted-t-shirt-custom-3xs-front-6849a80f0b074.jpg?v=1749727709",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/knitted-t-shirt-custom-3xs-back-6849a80f0a4c1.jpg?v=1749727709"
+ ],
  "ai_cats": [
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
@@ -15,6 +19,7 @@
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
+ "cg": "printful-384445533",
  "color": "Custom",
  "created": "2026-11-22",
  "desc_en": "The silhouette redefines relaxed elegance with an imposing presence. Crafted with precision on demand to offer an unmatched texture. The clean black design contrasts with light tone finishes on the collar, cuffs, and bottom hem. A subtle embroidered graphic detail on the chest adds discrete distinction. Each piece is custom made to maintain the highest quality standards. Available with worldwide shipping.",
@@ -33,14 +38,15 @@
  ],
  "draft": false,
  "fam": "camiseta-punto-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-384445533",
  "img_checked": "2026-11-22",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "DAZ Luxury Knitted T-Shirt",

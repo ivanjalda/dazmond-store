@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_sn3glhsn3glhsn3g.png?v=1776099689",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_3jv1yc3jv1yc3jv1.png?v=1776099689",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_a841i6a841i6a841.png?v=1776099689",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_lxowpelxowpelxow.png?v=1776099689",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_ux33krux33krux33.png?v=1776099689"
+ ],
  "ai_cats": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
@@ -15,6 +22,7 @@
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
  ],
+ "cg": "printful-357190967",
  "color": "White",
  "created": "2026-11-22",
  "desc_en": "A bold expression of contemporary style. The Rouge Carré bandana redefines versatility with its all-over graphic design. Clean lines and a distinguished presence elevate any ensemble with absolute sophistication. Each piece is crafted to order to ensure absolute exclusivity. Available for worldwide shipping.",
@@ -28,14 +36,15 @@
  ],
  "draft": false,
  "fam": "rouge-carre-bandana",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-357190967",
  "img_checked": "2026-11-22",
  "look": [
   "printful-351492575-black",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Rouge Carré Bandana",

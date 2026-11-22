@@ -1,13 +1,21 @@
 {
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Suitcase",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/camiseta"
  ],
+ "cg": "printful-390187180",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your presence on every journey with the Daz Luxury rigid suitcase. Designed for the modern traveler who demands absolute distinction in every movement. Its flawless finish and structured lines redefine the concept of sophistication in transit. An essential piece for those who cross borders with absolute elegance. Available made to order with worldwide shipping.",
+ "desc_es": "Eleve su presencia en cada trayecto con la maleta rígida Daz Luxury. Diseñada para el viajero moderno que exige distinción absoluta en cada movimiento. Su acabado impecable y líneas estructuradas redefinen el concepto de sofisticación en tránsito. Una pieza indispensable para quienes cruzan fronteras con absoluta elegancia. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/ef3/ef35209f9fe61fe140a913b229e4b1c0_preview.png",
   "https://files.cdn.printful.com/files/7d7/7d7492ab4d3a462d4ef5645fd8a8f01d_preview.png",
@@ -19,14 +27,14 @@
  "id": "printful-390187180",
  "img_checked": "2026-11-22",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Soho Piece · Black",
- "name_es": "Pieza Soho · Negro",
+ "name_en": "Daz Luxury Rigid Suitcase",
+ "name_es": "Maleta Rígida Daz Luxury",
  "needs_review": true,
  "page": true,
  "price_usd": 274.99,

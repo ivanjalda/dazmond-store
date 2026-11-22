@@ -4,22 +4,30 @@
  "categories": [
   "hombre/camiseta"
  ],
+ "cg": "printful-345382575",
  "color": "White",
  "created": "2026-11-22",
  "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
  "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
  "display_images": [
-  "https://files.cdn.printful.com/files/ddd/dddb34bbc567b869c52cda961131a72f_preview.png"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/adidas-quarter-zip-pullover-white-zoomed-in-6654e9debe50b.jpg?v=1716841325",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/adidas-quarter-zip-pullover-black-front-6654e9debab84.jpg?v=1716841325",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/adidas-quarter-zip-pullover-black-product-details-6654e9fc468b2.jpg?v=1716841325",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/adidas-quarter-zip-pullover-black-zoomed-in-6654e9deba9c9.jpg?v=1716841325",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/adidas-quarter-zip-pullover-black-product-details-2-6654e9fc469d1.jpg?v=1716841325",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/adidas-quarter-zip-pullover-black-front-2-6654e9debae17.jpg?v=1716841325",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/adidas-quarter-zip-pullover-black-back-6654e9debace3.jpg?v=1716841325",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/adidas-quarter-zip-pullover-white-front-6654e7bcf241f.jpg?v=1716841325"
  ],
  "draft": false,
  "fam": "x-adidas-apex",
  "hidden": false,
  "id": "printful-345382575-white",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Riviera Piece · White",
@@ -52,6 +60,7 @@
   "2672341_13361"
  ],
  "source_title": "DAZMOND® x ADIDAS \"Apex Performance\" Quarter-Zip",
+ "stripe_payment_link": "https://buy.stripe.com/9B6dRadrubGQ1MafT01gE3n",
  "supplier": "Printful",
  "supplier_id": "345382575-white",
  "visual_verified": true

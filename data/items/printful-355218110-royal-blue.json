@@ -6,6 +6,7 @@
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
+ "cg": "printful-355218110",
  "color": "Royal Blue",
  "created": "2026-11-22",
  "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
@@ -18,10 +19,10 @@
  "hidden": false,
  "id": "printful-355218110-royal-blue",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Soho Tee · Blue",
@@ -52,6 +53,7 @@
   "5697852_2123"
  ],
  "source_title": "The Dazmond Seamless 145",
+ "stripe_payment_link": "https://buy.stripe.com/cNi4gAfzCdOYaiG22a1gF24",
  "supplier": "Printful",
  "supplier_id": "355218110-royal-blue",
  "visual_verified": true

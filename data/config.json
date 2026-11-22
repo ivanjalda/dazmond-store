@@ -173,14 +173,16 @@
     "high_demand_views_today": 40
   },
   "firebase": {
-    "apiKey": "",
-    "authDomain": "",
-    "projectId": "",
-    "appId": ""
+    "apiKey": "AIzaSyA80yeboy4C1aQKguqV57PFORsYEqAotzo",
+    "authDomain": "dazmond.firebaseapp.com",
+    "projectId": "dazmond",
+    "storageBucket": "dazmond.firebasestorage.app",
+    "messagingSenderId": "470410790245",
+    "appId": "1:470410790245:web:a56ca45d6cd36a25fdcd8c"
   },
   "newsletter": {
-    "brevo_form_url_es": "",
-    "brevo_form_url_en": "",
+    "brevo_form_url_es": "https://ab17eabe.sibforms.com/serve/MUIFADA39ZAEbfV1kXAXYLbAOVe2SYi1FsTG9EcuZ7WP1YszRVuUP16nzPEnudIBYppolIbumKH1TCarsgG1B3W65SRHp2EOc27ZMBy_gK6KpnIOIcAHuOYK973thoET6o55-U1AIXjKf6IIsn0XjGV7yBFqpS0sddyMsJ4oAhNvRJxcB0qioRTWA93QIekIY9suHxcV2iYEkN1X-A==",
+    "brevo_form_url_en": "https://ab17eabe.sibforms.com/serve/MUIFAFKyCJLi2z7IjDKAjGEgmkhGMdkOUE4ziM4lKuA92T0P0Il7Iz-w8T48I1BwYJYSy5dPlwXyl7yGLIsLxhILYx4V9nGb37HK4bz9mdy6ceIdr4V78b0JE-dUjnJUnauwVyRy-INvsllaxj8Fw8guHePqD406JNgpe6ZQQ5SW2KeMMjkO1XkFVQAryZDJ9gwvB_PwSUYKRYL89Q==",
     "brevo_list_id_es": 7,
     "brevo_list_id_en": 8,
     "sender_name": "DAZMOND & Co.",

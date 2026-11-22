@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Black/White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Trucker Cap",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
  ],
+ "cg": "printful-357117283",
  "color": "Black/ White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A piece of commanding presence. The chromatic contrast defines the structure of this modern silhouette. Clean lines that redefine the essential accessory. Rigorous construction for urban daily wear. Exclusivity in every detail. Each piece is crafted upon specific request. We offer worldwide shipping for your utmost convenience.",
+ "desc_es": "Una pieza de presencia contundente. El contraste cromatico define la estructura de esta silueta moderna. Lineas limpias que redefinen el accesorio esencial. Una construccion rigurosa para el dia a dia urbano. Exclusividad en cada detalle. Cada pieza se elabora bajo pedido especifico. Disponemos de envio a todo el mundo para su maxima comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Disponible con envio a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/0ab/0ab688b56b0073dda8b891bb48460bdb_preview.png"
  ],
@@ -20,12 +32,12 @@
  "look": [
   "printful-351492575-black",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Atelier Hat · Black",
- "name_es": "Gorro Atelier · Negro",
+ "name_en": "Legacy Blessed Trucker Cap",
+ "name_es": "Gorra Trucker Legacy Blessed",
  "needs_review": false,
  "page": true,
  "price_usd": 27.99,

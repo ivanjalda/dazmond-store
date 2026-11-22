@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Dusty Rose",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "Joggers",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
  ],
+ "cg": "printful-337647274",
  "color": "Dusty Rose",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order in soft fleece, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co. en felpa suave, diseñada para acompañarte del día a la noche.",
+ "desc_en": "Redefining absolute comfort. Relaxed silhouette conceived for contemporary downtime. Clean lines tracing effortless elegance. Made-to-order creation with worldwide shipping. An essential piece transcending seasons. Sublime touch and magnetic presence.",
+ "desc_es": "Redefinición del confort absoluto. Silueta relajada concebida para el descanso contemporáneo. Líneas limpias que trazan una elegancia sin esfuerzo. Confección bajo demanda con envíos a todo el mundo. Una prenda esencial que trasciende las estaciones. Tacto sublime y presencia magnética.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Disponible envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/d4a/d4a4dc3c5715c04326a1e1dce4e3d278_preview.png"
  ],
@@ -17,15 +27,16 @@
  "fam": "elite-lounge-fleece",
  "hidden": false,
  "id": "printful-337647274-dusty-rose",
+ "img_checked": "2026-11-22",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-379237645",
+  "printful-338164153"
  ],
  "material": "",
- "name_en": "Madison Sweatshirt",
- "name_es": "Sudadera Madison",
+ "name_en": "Elite Lounge Fleece Joggers",
+ "name_es": "Pantalón de Chándal Elite Lounge",
  "needs_review": false,
  "page": true,
  "price_usd": 52.99,

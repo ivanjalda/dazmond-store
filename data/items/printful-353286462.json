@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Crossbody Bag",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
+ "cg": "printful-353286462",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential accessory redefining urban elegance. Structured silhouette with a dynamic print. Sophisticated details for day and night. Crafted made to order with worldwide shipping available. Discreet luxury for the contemporary wardrobe.",
+ "desc_es": "Un accesorio esencial que redefine la elegancia urbana. Silueta estructurada con un estampado dinamico. Detalles sofisticados para el dia y la noche. Pieza confeccionada bajo demanda con envio global disponible. Lujo discreto para el guardarropa contemporaneo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Pieza bajo demanda\n· Envio mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/962/962e26e89ba274587ca42fcb5d5df225_preview.png"
  ],
@@ -21,11 +33,11 @@
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-346239758"
+  "printful-390187180"
  ],
  "material": "",
- "name_en": "Riviera Bag · Black",
- "name_es": "Bolso Riviera · Negro",
+ "name_en": "All-Over Print Crossbody Bag",
+ "name_es": "Bolso Cruzado All-Over Print",
  "needs_review": false,
  "page": true,
  "price_usd": 41.99,

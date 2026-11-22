@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "One-Piece Swimsuit",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
   "mujer/trajes-bano"
  ],
+ "cg": "printful-351057192",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Clean silhouette. Subtle and modern texture. This design redefines coastal elegance. Exclusive made-to-order creation to ensure the finest fit. Worldwide shipping available.",
+ "desc_es": "Silueta limpia. Textura sutil y moderna. Este diseño redefine la elegancia en la costa. Confección exclusiva bajo pedido para asegurar un ajuste perfecto. Envíos a todo el mundo disponibles.",
+ "details_en": "· Made to order.\n· Worldwide shipping.",
+ "details_es": "· Hecho bajo pedido.\n· Envíos a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/809/809909738202408f2854a8ccf07d0fcf_preview.png"
  ],
@@ -18,14 +28,14 @@
  "hidden": false,
  "id": "printful-351057192",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-379237645",
+  "printful-338164153"
  ],
  "material": "",
- "name_en": "Imperial Swimwear · White",
- "name_es": "Bañador Imperial · Blanco",
+ "name_en": "Zen Textured Swimsuit",
+ "name_es": "Bañador Zen Textured",
  "needs_review": false,
  "page": true,
  "price_usd": 49.99,

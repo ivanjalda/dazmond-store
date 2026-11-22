@@ -1,4 +1,17 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-6827197faf617.jpg?v=1747392910",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-6827197faf617.jpg?v=1747392910",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-6827197faf617.jpg?v=1747392910",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-6827197faf617.jpg?v=1747392910",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-6827197faf617.jpg?v=1747392910",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-6827197faf617.jpg?v=1747392910",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-back-6827197faf753.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-front-6827197fafacf.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-back-6827197fafd07.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-white-front-6827197faebb3.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-white-back-6827197fb03ea.jpg?v=1747392911"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -15,6 +28,7 @@
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
  ],
+ "cg": "printful-382447306",
  "color": "Black",
  "created": "2026-11-22",
  "desc_en": "A streamlined silhouette that redefines the concept of casual elegance. The crewneck design offers a sober and timeless presence. Crafted with precision for an impeccable fit. Each piece is crafted exclusively to order in our facilities. We offer worldwide shipping for your ultimate convenience. An essential garment that brings immediate distinction to any contemporary wardrobe.",
@@ -26,13 +40,14 @@
  ],
  "draft": false,
  "fam": "sudadera-premium-cuello",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382447306-black",
  "look": [
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137"
+  "printful-390187180"
  ],
  "material": "",
  "name_en": "DAZ Premium Crewneck Sweatshirt",

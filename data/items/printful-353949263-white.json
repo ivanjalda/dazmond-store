@@ -1,13 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "t-shirt",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
+ "cg": "printful-353949263",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential silhouette defined by clean lines. This piece offers a refined and versatile presence. Made to order to ensure exclusivity in every garment. Available for worldwide shipping. Minimalist design finds its ultimate expression. Quiet elegance defines this contemporary classic.",
+ "desc_es": "Una silueta esencial definida por líneas limpias. Esta prenda ofrece una presencia depurada y versátil. Confeccionada bajo pedido para garantizar la exclusividad en cada pieza. Disponible para envíos a todo el mundo. El diseño minimalista encuentra su expresión definitiva. La elegancia discreta define este clásico contemporáneo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/935/9358e4bd1c1069c88b12dfa61d6587dd_preview.png"
  ],
@@ -16,15 +29,15 @@
  "hidden": false,
  "id": "printful-353949263-white",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Riviera Piece · White",
- "name_es": "Pieza Riviera · Blanco",
- "needs_review": true,
+ "name_en": "Essence White T-Shirt",
+ "name_es": "Camiseta Essence Blanco",
+ "needs_review": false,
  "page": true,
  "price_usd": 37.99,
  "rank": 201,

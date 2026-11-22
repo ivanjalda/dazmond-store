@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_cdk6s0cdk6s0cdk6.png?v=1765819869",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_ttrzp4ttrzp4ttrz.png?v=1765819869",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_g8b7oxg8b7oxg8b7.png?v=1765819869",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-cotton-sweatshirt-white-front-6909df6ce208a.jpg?v=1765819869",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-cotton-sweatshirt-white-back-6909df6ce2d4a.jpg?v=1765819869"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -16,6 +23,7 @@
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
  ],
+ "cg": "printful-400735243",
  "color": "White",
  "created": "2026-11-22",
  "desc_en": "The silhouette redefines contemporary comfort with a clean and structured presence. Pure white is enriched with a graphic contrast of geometric precision. Each piece is crafted to order to ensure absolute exclusivity. The fluid design accompanies the natural movement of the body. Available with worldwide shipping for the modern wardrobe.",
@@ -27,15 +35,16 @@
  ],
  "draft": false,
  "fam": "sudadera-algodon",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-400735243",
  "look": [
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137"
+  "printful-390187180"
  ],
- "material": "",
+ "material": "algodón",
  "name_en": "DAZMond Cotton Sweatshirt",
  "name_es": "Sudadera de Algodón DAZMond",
  "needs_review": false,

@@ -1,13 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Denim Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "t-shirt",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
  ],
+ "cg": "printful-355648860",
  "color": "Denim Blue",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in denim, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en denim, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Dazmond Indigo redefines casual elegance with an imposing presence. Its clean silhouette offers a sophisticated aesthetic for everyday wear. Designed for those who appreciate discretion and effortless luxury. Each piece is made to order in our ateliers. Worldwide shipping ensures this exclusive garment reaches its destination directly. A subtle statement of refined style. The denim blue shade brings depth and versatility to any contemporary wardrobe. Masterful design reveals itself in every seam and magnetic presence.",
+ "desc_es": "The Dazmond Indigo redefine la elegancia casual con una presencia imponente. Su silueta depurada ofrece una estética sofisticada para el día a día. Diseñada para quienes aprecian la discreción y el lujo sin esfuerzo. Cada pieza se elabora bajo pedido en nuestros talleres. El envío mundial asegura que esta prenda exclusiva llegue directamente a su destino. Una declaración sutil de estilo refinado. El tono azul denim aporta profundidad y versatilidad a cualquier guardarropa contemporáneo. La maestría en el diseño se revela en cada costura y en su presencia magnética.",
+ "details_en": "· Made to order\n· Available for worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Disponible para envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/5e0/5e07b43757325f3f4aefeb55d7694f9d_preview.png"
  ],
@@ -16,15 +29,15 @@
  "hidden": false,
  "id": "printful-355648860-denim-blue",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Monogram Piece · Blue",
- "name_es": "Pieza Monogram · Azul",
- "needs_review": true,
+ "name_en": "The Dazmond Indigo T-Shirt",
+ "name_es": "Camiseta The Dazmond Indigo",
+ "needs_review": false,
  "page": true,
  "price_usd": 36.99,
  "rank": 319,

@@ -1,4 +1,19 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-682b497302ed6.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-682b497302ed6.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-682b497302ed6.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-682b497302ed6.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-682b497302ed6.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-682b497302ed6.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-white-front-682b49730166b.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-white-left-682b497306968.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-left-682b49730332f.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-front-682b49730379e.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-left-682b497304057.jpg?v=1747667327",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-sandshell-front-682b497304964.jpg?v=1747667326",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-sandshell-left-682b4973056a5.jpg?v=1747667327"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -15,6 +30,7 @@
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
  ],
+ "cg": "printful-382664306",
  "color": "Black",
  "created": "2026-11-22",
  "desc_en": "A refined silhouette in deep black. Defined by understated elegance and a magnetic presence. Crafted to order to ensure absolute exclusivity. The minimalist design offers seamless versatility. The dark hue absorbs light with subtlety. An essential basic that redefines modern luxury. Available with worldwide shipping.",
@@ -26,13 +42,14 @@
  ],
  "draft": false,
  "fam": "sudadera-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382664306-black",
  "look": [
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137"
+  "printful-390187180"
  ],
  "material": "",
  "name_en": "DAZ Premium Black Sweatshirt",

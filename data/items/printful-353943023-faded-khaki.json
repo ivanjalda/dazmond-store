@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/oversized-faded-t-shirt-faded-khaki-front-66a4d2d3e02dd.jpg?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/oversized-faded-t-shirt-faded-khaki-front-66a4d2d3e02dd.jpg?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/oversized-faded-t-shirt-faded-khaki-front-66a4d2d3e02dd.jpg?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/oversized-faded-t-shirt-faded-khaki-front-66a4d2d3e02dd.jpg?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/oversized-faded-t-shirt-faded-khaki-front-66a4d2d3e02dd.jpg?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/oversized-faded-t-shirt-faded-khaki-front-66a4d2d3e02dd.jpg?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_s7odjcs7odjcs7od.png?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_wu78jpwu78jpwu78.png?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_1oz0321oz0321oz0.png?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_3xp3q03xp3q03xp3.png?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_he77mnhe77mnhe77.png?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/oversized-faded-t-shirt-faded-black-front-66a4d2d3de69b.jpg?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/oversized-faded-t-shirt-faded-black-back-66a3b4cd23c78.jpg?v=1774291092",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/oversized-faded-t-shirt-faded-bone-front-66a3b4cd31938.jpg?v=1774291092"
+ ],
  "ai_cats": [
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
@@ -15,6 +31,7 @@
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
+ "cg": "printful-353943023",
  "color": "Faded Khaki",
  "created": "2026-11-22",
  "desc_en": "A bold and contemporary silhouette defined by generous volume. This piece redefines modern comfort with a relaxed yet sophisticated aesthetic. The faded khaki tone brings subtle depth and visual texture to the daily wardrobe. Each garment is crafted to order to ensure absolute exclusivity. Available with worldwide shipping from our American fashion house.",
@@ -26,13 +43,15 @@
  ],
  "draft": false,
  "fam": "heavy",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-353943023-faded-khaki",
+ "img_checked": "2026-11-22",
  "look": [
+  "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-353253137"
  ],
  "material": "",
  "name_en": "Dazmond Heavy Faded Oversized T-Shirt",

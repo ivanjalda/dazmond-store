@@ -1,4 +1,17 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-front-6827197fafacf.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-front-6827197fafacf.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-front-6827197fafacf.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-front-6827197fafacf.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-front-6827197fafacf.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-front-6827197fafacf.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-front-6827197faf617.jpg?v=1747392910",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-black-back-6827197faf753.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-heather-grey-back-6827197fafd07.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-white-front-6827197faebb3.jpg?v=1747392911",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-crew-neck-sweatshirt-white-back-6827197fb03ea.jpg?v=1747392911"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -15,6 +28,7 @@
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
  ],
+ "cg": "printful-382447306",
  "color": "Heather Grey",
  "created": "2026-11-22",
  "desc_en": "A statement of refined design. This crewneck sweatshirt combines an immaculate silhouette with a sophisticated presence. Crafted with precision to offer a clean and modern aesthetic. Its heather grey tone provides versatility and understated elegance. Each piece is crafted to order in our studio. Available for worldwide shipping.",
@@ -26,13 +40,14 @@
  ],
  "draft": false,
  "fam": "sudadera-premium-cuello",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382447306-heather-grey",
  "look": [
   "printful-351492575-black",
   "printful-361906822",
   "printful-365090873",
-  "printful-353253137"
+  "printful-390187180"
  ],
  "material": "",
  "name_en": "DAZ Premium Crewneck Sweatshirt",

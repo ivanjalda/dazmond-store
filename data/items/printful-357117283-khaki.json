@@ -1,15 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Khaki",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Trucker Cap",
  "available": true,
  "badge": "new",
  "categories": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
  ],
+ "cg": "printful-357117283",
  "color": "Khaki",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential silhouette elevated by house aesthetics. The Legacy Blessed cap reinterprets a utilitarian classic through a refined, contemporary lens. Designed to deliver impeccable presence in any daily environment. Each piece is crafted exclusively on demand to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una silueta esencial elevada por la estética de la casa. La gorra Legacy Blessed reinterpreta un clásico utilitario a través de una lente refinada y contemporánea. Diseñada para ofrecer una presencia impecable en cualquier entorno diario. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/2d1/2d1536c0739882c9395a9efc49fce34b_preview.png"
  ],
@@ -20,12 +32,12 @@
  "look": [
   "printful-351492575-black",
   "printful-365090873",
-  "printful-353253137",
-  "printful-346239758"
+  "printful-390187180",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Riviera Hat",
- "name_es": "Gorro Riviera",
+ "name_en": "Legacy Blessed Trucker Cap",
+ "name_es": "Gorra Trucker Legacy Blessed",
  "needs_review": false,
  "page": true,
  "price_usd": 27.99,
