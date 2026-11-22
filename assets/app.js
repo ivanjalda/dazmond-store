@@ -45,6 +45,9 @@
       empty: 'Muy pronto llegarán nuevas piezas a esta sección.', results: 'piezas',
       tr1: '✦ Confección bajo demanda', tr2: '✦ Envío internacional con seguimiento', tr3: '✦ Pago 100 % seguro con Stripe',
       account: 'Mi Cuenta', favs: 'Mis Favoritos', no_favs: 'Aún no has guardado favoritos. Pulsa ♡ en cualquier pieza.',
+      or_mail: 'o con tu correo', email: 'Correo electrónico', pass: 'Contraseña (mínimo 6)', enter: 'Entrar', create: 'Crear cuenta',
+      forgot: 'He olvidado mi contraseña', reset_ok: 'Te hemos enviado un correo para crear una contraseña nueva.', need_mail: 'Escribe tu correo primero.',
+      e_wrong: 'Correo o contraseña incorrectos.', e_used: 'Ese correo ya tiene cuenta: pulsa Entrar.', e_weak: 'La contraseña debe tener al menos 6 caracteres.', e_mail: 'Ese correo no es válido.',
       login: 'Iniciar sesión con Google', logout: 'Cerrar sesión', guest: 'Puedes comprar sin registrarte. Si inicias sesión, tus favoritos te acompañan en todos tus dispositivos.',
       local_favs: 'Tus favoritos se guardan en este dispositivo.', hello: 'Bienvenido/a',
       orders_note: 'Tras cada compra recibirás el recibo y el seguimiento en tu correo.',
@@ -89,6 +92,9 @@
       empty: 'New pieces are arriving in this section very soon.', results: 'pieces',
       tr1: '✦ Made to order', tr2: '✦ International tracked shipping', tr3: '✦ 100% secure checkout by Stripe',
       account: 'My Account', favs: 'My Favorites', no_favs: 'No favorites yet. Tap ♡ on any piece.',
+      or_mail: 'or with your email', email: 'Email', pass: 'Password (6+ characters)', enter: 'Sign in', create: 'Create account',
+      forgot: 'I forgot my password', reset_ok: 'We have sent you an email to set a new password.', need_mail: 'Type your email first.',
+      e_wrong: 'Wrong email or password.', e_used: 'That email already has an account: press Sign in.', e_weak: 'The password needs at least 6 characters.', e_mail: 'That email is not valid.',
       login: 'Sign in with Google', logout: 'Sign out', guest: 'You can shop without an account. Sign in to keep your favorites on all your devices.',
       local_favs: 'Your favorites are saved on this device.', hello: 'Welcome',
       orders_note: 'After each purchase you will receive your receipt and tracking by email.',
@@ -685,11 +691,33 @@
       <h1 style="font-size:clamp(32px,7vw,56px);font-weight:300;margin-bottom:26px;text-align:center">${t('account')}</h1>
       <div class="panel">
         ${S.user ? `<p>${t('hello')}, ${esc(S.user.displayName || S.user.email)}</p><p class="note" style="margin:8px 0 14px">${t('orders_note')}</p><button class="btn" id="logoutBtn">${t('logout')}</button>`
-        : `<p class="muted" style="margin-bottom:14px">${t('guest')}</p>${fb ? `<button class="btn btn-solid" id="loginBtn">${t('login')}</button>` : `<p class="note">${t('local_favs')}</p>`}`}
+        : `<p class="muted" style="margin-bottom:14px">${t('guest')}</p>${fb ? `<button class="btn btn-solid" id="loginBtn">${t('login')}</button>
+          <form id="mailForm" class="mail-login"><p class="note">${t('or_mail')}</p>
+            <input type="email" name="em" placeholder="${t('email')}" autocomplete="email" required>
+            <input type="password" name="pw" placeholder="${t('pass')}" autocomplete="current-password" minlength="6">
+            <div class="row"><button class="btn btn-solid" data-act="in">${t('enter')}</button><button class="btn" data-act="new">${t('create')}</button></div>
+            <button type="button" class="link-u forgot" id="forgotBtn">${t('forgot')}</button></form>` : `<p class="note">${t('local_favs')}</p>`}`}
       </div>
       <h2 style="margin:30px 0 16px">${t('favs')}</h2>
       <div class="grid">${favs.length ? favs.map(card).join('') : `<p class="empty">${t('no_favs')}</p>`}</div></section>`;
     if ($('#loginBtn')) $('#loginBtn').onclick = login;
+    if ($('#mailForm')) {
+      const fm = $('#mailForm');
+      let act = 'in';
+      $$('button[data-act]', fm).forEach(b => { b.onclick = () => { act = b.dataset.act; }; });
+      fm.onsubmit = e => {
+        e.preventDefault();
+        if (!window.firebase) return;
+        const em = fm.em.value.trim(), pw = fm.pw.value;
+        const a = firebase.auth();
+        (act === 'new' ? a.createUserWithEmailAndPassword(em, pw) : a.signInWithEmailAndPassword(em, pw)).catch(authError);
+      };
+      $('#forgotBtn').onclick = () => {
+        const em = fm.em.value.trim();
+        if (!em) { toast(t('need_mail')); return; }
+        if (window.firebase) firebase.auth().sendPasswordResetEmail(em).then(() => toast(t('reset_ok'))).catch(authError);
+      };
+    }
     if ($('#logoutBtn')) $('#logoutBtn').onclick = () => window.firebase && firebase.auth().signOut();    if (S.user) panelData().then(async P => {
       if (!(await isOwner(P)) || !location.hash.startsWith('#/cuenta')) return;
       const box = document.createElement('div'); box.className = 'owner-box'; box.innerHTML = panelHTML(P);
@@ -761,6 +789,11 @@
         if (location.hash.startsWith('#/cuenta')) accountView();
       });
     } catch (err) { console.log('Firebase no disponible', err); }
+  }
+  function authError(e) {
+    const c = (e && e.code) || '';
+    toast(/wrong-password|user-not-found|invalid-credential|invalid-login/.test(c) ? t('e_wrong') : /email-already/.test(c) ? t('e_used')
+      : /weak-password/.test(c) ? t('e_weak') : /invalid-email/.test(c) ? t('e_mail') : (e.message || c));
   }
   function login() { if (window.firebase) firebase.auth().signInWithPopup(new firebase.auth.GoogleAuthProvider()).catch(e => toast(e.message)); }
   function syncFavs() {
