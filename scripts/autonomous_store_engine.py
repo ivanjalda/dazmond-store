@@ -1073,12 +1073,13 @@ def write_panel(plist, stats):
                        sorted([p for p in real if stats.get(p["id"], {}).get(key)],
                               key=lambda p: -stats[p["id"]].get(key, 0))[:10]]
     qlog = _lj("quality_log.json", {"days": []}).get("days", [])[-7:]
-    key = _lj("panel_access.json", {}).get("sha256", "")
+    acc = _lj("panel_access.json", {})
+    key = acc.get("sha256", "")
     groups = {}
     for p in vis:
         groups.setdefault(p.get("cg") or p["id"], 0)
     panel = {
-        "key": key, "updated": NOW.strftime("%Y-%m-%d %H:%M UTC"),
+        "key": key, "owner": acc.get("owner_sha256", ""), "updated": NOW.strftime("%Y-%m-%d %H:%M UTC"),
         "totals": {"catalogo": len(real), "a_la_vista": len(vis), "disenos_a_la_vista": len(groups),
                    "ocultos": len(hid), "ia_revisados": sum(1 for p in real if p.get("ai_done")),
                    "ia_pendientes": sum(1 for p in real if not p.get("ai_done") and not p.get("archived")),

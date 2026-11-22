@@ -73,6 +73,7 @@ Para volver a ponerlo: VOLVER y el nombre o el código.
 
 5️⃣ Tu Panel del dueño (todo lo que pasa dentro de la tienda)
 Escribe: PANEL y una clave tuya (por ejemplo: PANEL Dazmond2026). Luego entra en tu web con #/panel al final.
+O escribe: DUEÑO y tu correo, y lo verás dentro de Mi cuenta al entrar con ese correo.
 
 3️⃣ TODOS tus productos de Shopify de golpe
 En Shopify: Productos → Exportar → Todos los productos → CSV. Mándame ese archivo aquí y los paso todos a la web (fotos, tallas, guías y precios)."""
@@ -182,13 +183,37 @@ def main():
             continue
         first = (caption or "").strip()
         cmd = slug(first.split()[0]).upper() if first else ""
+        if cmd == "FIREBASE":
+            got = {k: (re.search(k + r"""["']?\s*[:=]\s*["']([^"']+)["']""", caption) or [None, ""])[1]
+                   for k in ("apiKey", "authDomain", "projectId", "storageBucket", "messagingSenderId", "appId")}
+            if not (got["apiKey"] and got["projectId"] and got["appId"]):
+                reply("No encuentro los datos. Copia el bloque entero que empieza por const firebaseConfig = { y pégalo después de la palabra FIREBASE.")
+            else:
+                cfg = load_json("config.json", {})
+                cfg["firebase"] = {k: v for k, v in got.items() if v}
+                save_json("config.json", cfg)
+                reply("✓ Firebase conectado (proyecto " + got["projectId"] + "). En una hora las cuentas de clientes y el contador de visitas estarán activos.")
+            continue
+        if cmd in ("DUENO", "DUENA"):
+            mail = first.split(None, 1)[1].strip().lower() if len(first.split(None, 1)) > 1 else ""
+            if "@" not in mail or " " in mail:
+                reply("Escribe DUEÑO y tu correo. Ejemplo: DUEÑO tucorreo@gmail.com")
+            else:
+                import hashlib
+                acc = load_json("panel_access.json", {})
+                acc["owner_sha256"] = hashlib.sha256(mail.encode("utf-8")).hexdigest()
+                save_json("panel_access.json", acc)
+                reply("✓ Guardado. Cuando entres en Mi cuenta de tu web con ese correo, verás tu Panel del dueño dentro.")
+            continue
         if cmd == "PANEL":
             code = first.split(None, 1)[1].strip() if len(first.split(None, 1)) > 1 else ""
             if len(code) < 6:
                 reply("Escribe PANEL y una clave de al menos 6 letras o números. Ejemplo: PANEL Dazmond2026")
             else:
                 import hashlib
-                save_json("panel_access.json", {"sha256": hashlib.sha256(code.encode("utf-8")).hexdigest()})
+                acc = load_json("panel_access.json", {})
+                acc["sha256"] = hashlib.sha256(code.encode("utf-8")).hexdigest()
+                save_json("panel_access.json", acc)
                 for m in msgs:  # se borra tu mensaje para que la clave no quede a la vista en el chat
                     try:
                         telegram("deleteMessage", {"chat_id": me, "message_id": m.get("message_id")})
