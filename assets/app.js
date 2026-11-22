@@ -303,11 +303,18 @@
     document.title = 'DAZMOND & Co. — American Luxury House';
     const c = S.camp.active && S.camp[S.lang];
     const hero = S.cfg.hero_image ? `<img src="${esc(abs(S.cfg.hero_image))}" alt="">` : '';
-    const top = S.products.filter(p => p.available !== false);
+    /* en la portada mandan las piezas con mejor imagen (lo decide el director de arte de la IA) */
+    const top = S.products.filter(p => p.available !== false)
+      .map((p, i) => [p, i]).sort((a, b) => ((b[0].art_score || 5) - (a[0].art_score || 5)) || a[1] - b[1]).map(x => x[0]);
     const sel = varied(picks(S.camp.gifts && S.camp.gifts.length ? S.camp.gifts : S.camp.offers), 4);
-    const men = top.find(p => only(p, 'hombre') && imgs(p)[0]);
-    const women = top.find(p => only(p, 'mujer') && imgs(p)[0] && (!men || p.fam !== men.fam));
-    const shoe = top.find(p => (p.categories || []).some(x => x.startsWith('calzado-')) && imgs(p)[0]);
+    const used = new Set(sel.map(p => p.cg || p.id));  /* nada se repite en la portada */
+    const free = p => !used.has(p.cg || p.id) && imgs(p)[0];
+    const men = top.find(p => only(p, 'hombre') && free(p));
+    if (men) used.add(men.cg || men.id);
+    const women = top.find(p => only(p, 'mujer') && free(p) && (!men || p.fam !== men.fam));
+    if (women) used.add(women.cg || women.id);
+    const shoe = top.find(p => (p.categories || []).some(x => x.startsWith('calzado-')) && free(p));
+    if (shoe) used.add(shoe.cg || shoe.id);
     app.innerHTML = `
     <section class="hero">
       <div class="hero-bg">${hero}</div>
@@ -343,7 +350,7 @@
     </section>
     <section class="section">
       <div class="section-head"><h2>${t('featured')}</h2><div class="rule"></div></div>
-      <div class="runway">${grid(varied(top.filter(p => !sel.includes(p) && p !== men && p !== women), 10))}</div>
+      <div class="runway">${grid(varied(top.filter(p => !used.has(p.cg || p.id)), 10))}</div>
     </section>`;
   }
 
@@ -455,7 +462,8 @@
     const guideTable = sc && sc.rows && sc.rows.length ? `<div class="size-table"><table><thead><tr>${((S.lang === 'es' && sc.headers_es) || sc.headers || []).map(h => `<th>${esc(h)}</th>`).join('')}</tr></thead>
       <tbody>${sc.rows.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table>
       ${sc.unit ? `<p class="note">${esc(sc.unit)}</p>` : ''}${(S.lang === 'es' ? sc.notes_es : sc.notes_en) ? `<p class="note">${esc(S.lang === 'es' ? sc.notes_es : sc.notes_en)}</p>` : ''}</div>` : '';
-    const guideImgs = (p.size_guide || []).map(u => `<img src="${esc(abs(u))}" alt="${t('d_guide')}" loading="lazy" class="guide-img">`).join('');
+    /* la tabla propia, con el estilo de la casa; la imagen del proveedor solo si no se pudo leer */
+    const guideImgs = (sc && sc.rows && sc.rows.length ? [] : (p.size_guide || [])).map(u => `<img src="${esc(abs(u))}" alt="${t('d_guide')}" loading="lazy" class="guide-img">`).join('');
     const guide = guideTable || guideImgs ? `<details><summary>${t('d_guide')}</summary><div class="body" style="white-space:normal">${guideTable}${guideImgs}</div></details>` : '';
     app.innerHTML = `<section>
       <div class="pdp">
@@ -629,7 +637,7 @@
       <p class="muted">Última vez que trabajó la tienda: <b>${esc(P.updated)}</b>. Se actualiza sola cada hora.</p>
       <div class="kpis">${num(T0.a_la_vista, 'productos a la vista')}${num(T0.disenos_a_la_vista, 'diseños distintos (con sus colores)')}${num(T0.ocultos, 'ocultos')}${num(T0.catalogo, 'en el catálogo')}
         ${num(T0.ia_revisados, 'revisados por la IA')}${num(T0.ia_pendientes, 'esperando a la IA')}${num(T0.con_boton_de_pago, 'con botón de pago')}${num(T0.sin_boton_de_pago, 'aún sin botón de pago')}
-        ${num(T0.seccion_dudosa, 'con sección dudosa')}${num(T0.ventas_30_dias, 'ventas (30 días)')}${num(T0.visitas_30_dias, 'visitas a productos (30 días)')}</div>
+        ${num(T0.seccion_dudosa, 'con sección dudosa')}${num(T0.fotos_de_campana, 'fotos de campaña creadas por la IA')}${num(T0.ventas_30_dias, 'ventas (30 días)')}${num(T0.visitas_30_dias, 'visitas a productos (30 días)')}</div>
       <h2>Por qué hay productos ocultos</h2>
       <table class="ptable"><tbody>${Object.entries(P.reasons || {}).map(([k, v]) => `<tr><td>${esc(k)}</td><td><b>${v}</b></td></tr>`).join('')}</tbody></table>
       <h2>Proveedores</h2>
