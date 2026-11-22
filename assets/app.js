@@ -589,30 +589,36 @@
     const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(txt));
     return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
   }
+  async function panelData() { return getJSON(BASE + 'data/panel.json', null); }
+  async function isOwner(P) {
+    if (!S.user || !S.user.email || !P || !P.owner) return false;
+    return (await sha256(S.user.email.trim().toLowerCase())) === P.owner;
+  }
+  /* Entrada por #/panel: con tu cuenta de dueño (si ya entraste) o con tu clave */
   async function panelView() {
     document.title = 'Panel del dueño — DAZMOND & Co.';
     app.innerHTML = '<section class="section"><p class="empty">…</p></section>';
-    const P = await getJSON(BASE + 'data/panel.json', null);
-    if (!P) { app.innerHTML = '<section class="section panel"><h1>Panel del dueño</h1><p class="muted">El panel aparecerá cuando la tienda termine su próxima hora de trabajo.</p></section>'; return; }
-    if (!P.key) { app.innerHTML = '<section class="section panel"><h1>Panel del dueño</h1><p class="muted">Primero crea tu clave: escribe a tu bot de Telegram <b>PANEL</b> y tu clave (por ejemplo: PANEL Dazmond2026). En una hora podrás entrar.</p></section>'; return; }
-    let ok = false;
-    try { ok = sessionStorage.getItem('dz_panel') === P.key; } catch (e) { ok = false; }
-    if (!ok) {
-      app.innerHTML = `<section class="section panel"><h1>Panel del dueño</h1><form id="pf" class="panel-login">
-        <input type="password" name="k" placeholder="Tu clave" autocomplete="current-password"><button class="btn btn-solid">Entrar</button></form><p class="muted" id="pmsg"></p></section>`;
-      $('#pf').onsubmit = async e => {
-        e.preventDefault();
-        const h = await sha256(e.target.k.value.trim());
-        if (h === P.key) { try { sessionStorage.setItem('dz_panel', h); } catch (er) { /* sin almacenamiento */ } panelView(); }
-        else $('#pmsg').textContent = 'Clave incorrecta.';
-      };
-      return;
-    }
+    const P = await panelData();
+    if (!P) { app.innerHTML = '<section class="section opanel"><h1>Panel del dueño</h1><p class="muted">El panel aparecerá cuando la tienda termine su próxima hora de trabajo.</p></section>'; return; }
+    let ok = await isOwner(P);
+    try { ok = ok || (P.key && sessionStorage.getItem('dz_panel') === P.key); } catch (e) { /* nada */ }
+    if (ok) { app.innerHTML = `<section class="section">${panelHTML(P)}</section>`; bindPanel(P); return; }
+    if (!P.key) { app.innerHTML = '<section class="section opanel"><h1>Panel del dueño</h1><p class="muted">Entra en Mi cuenta con tu correo de dueño, o crea una clave escribiendo a tu bot de Telegram <b>PANEL</b> y tu clave.</p></section>'; return; }
+    app.innerHTML = `<section class="section opanel"><h1>Panel del dueño</h1><form id="pf" class="panel-login">
+      <input type="password" name="k" placeholder="Tu clave" autocomplete="current-password"><button class="btn btn-solid">Entrar</button></form><p class="muted" id="pmsg"></p></section>`;
+    $('#pf').onsubmit = async e => {
+      e.preventDefault();
+      const h = await sha256(e.target.k.value.trim());
+      if (h === P.key) { try { sessionStorage.setItem('dz_panel', h); } catch (er) { /* sin almacenamiento */ } panelView(); }
+      else $('#pmsg').textContent = 'Clave incorrecta.';
+    };
+  }
+  function panelHTML(P) {
     const T0 = P.totals || {};
     const num = (n, lbl) => `<div class="kpi"><b>${(n || 0).toLocaleString('es-ES')}</b><span>${lbl}</span></div>`;
-    const row = x => `<tr><td>${x.img ? `<img src="${esc(abs(x.img))}" alt="" loading="lazy">` : ''}</td><td><a href="${BASE}#/p/${esc(x.id)}">${esc(x.n)}</a><br><small>${esc(x.id)}</small></td><td>${esc(x.s)}</td><td>${esc(x.why || x.c || '')}${x.v != null ? ' · ' + x.v : ''}</td></tr>`;
-    const reasons = Object.keys(P.hidden.reduce((o, x) => { o[x.why.split(':')[0]] = 1; return o; }, {}));
-    app.innerHTML = `<section class="section panel">
+    const row = x => `<tr><td>${x.img ? `<img src="${esc(abs(x.img))}" alt="" loading="lazy">` : ''}</td><td>${S.byId[x.id] ? `<a href="${plink(S.byId[x.id])}">${esc(x.n)}</a>` : esc(x.n)}<br><small>${esc(x.id)}</small></td><td>${esc(x.s)}</td><td>${esc(x.why || x.c || '')}${x.v != null ? ' · ' + x.v : ''}</td></tr>`;
+    const reasons = Object.keys((P.hidden || []).reduce((o, x) => { o[x.why.split(':')[0]] = 1; return o; }, {}));
+    return `<div class="opanel">
       <p class="eyebrow">Solo para ti</p><h1>Panel del dueño</h1>
       <p class="muted">Última vez que trabajó la tienda: <b>${esc(P.updated)}</b>. Se actualiza sola cada hora.</p>
       <div class="kpis">${num(T0.a_la_vista, 'productos a la vista')}${num(T0.disenos_a_la_vista, 'diseños distintos (con sus colores)')}${num(T0.ocultos, 'ocultos')}${num(T0.catalogo, 'en el catálogo')}
@@ -627,17 +633,18 @@
       ${P.top_sales && P.top_sales.length ? `<h2>Lo más vendido (30 días)</h2><table class="ptable"><tbody>${P.top_sales.map(row).join('')}</tbody></table>` : ''}
       ${P.top_views && P.top_views.length ? `<h2>Lo más visto (30 días)</h2><table class="ptable"><tbody>${P.top_views.map(row).join('')}</tbody></table>` : ''}
       ${P.review && P.review.length ? `<h2>Sección dudosa (la IA los revisará)</h2><table class="ptable"><tbody>${P.review.map(row).join('')}</tbody></table>` : ''}
-      <h2>Productos ocultos (${P.hidden.length})</h2>
+      <h2>Productos ocultos (${(P.hidden || []).length})</h2>
       <p class="muted">Para volver a poner uno en la web, escribe a tu bot: VOLVER y su código.</p>
       <label class="muted">Ver: <select id="hf"><option value="">Todos</option>${reasons.map(r => `<option>${esc(r)}</option>`).join('')}</select></label>
       <table class="ptable"><tbody id="hrows"></tbody></table>
       <h2>Lo que hizo la tienda en su última hora</h2>
       <pre class="plog">${esc((P.log || []).join('\n'))}</pre>
-      <p style="margin-top:30px"><button class="btn" id="pout">Salir del panel</button></p>
-    </section>`;
-    const paintH = () => { const f = $('#hf').value; $('#hrows').innerHTML = P.hidden.filter(x => !f || x.why.startsWith(f)).slice(0, 400).map(row).join(''); };
+      <p style="margin-top:30px"><button class="btn" id="pout">Salir del panel</button></p></div>`;
+  }
+  function bindPanel(P) {
+    const paintH = () => { const f = $('#hf').value; $('#hrows').innerHTML = (P.hidden || []).filter(x => !f || x.why.startsWith(f)).slice(0, 400).map(x => `<tr><td>${x.img ? `<img src="${esc(abs(x.img))}" alt="" loading="lazy">` : ''}</td><td>${esc(x.n)}<br><small>${esc(x.id)}</small></td><td>${esc(x.s)}</td><td>${esc(x.why)}</td></tr>`).join(''); };
     $('#hf').onchange = paintH; paintH();
-    $('#pout').onclick = () => { try { sessionStorage.removeItem('dz_panel'); } catch (e) { /* nada */ } location.hash = '#/'; };
+    $('#pout').onclick = () => { try { sessionStorage.removeItem('dz_panel'); } catch (e) { /* nada */ } if (window.firebase && S.user) firebase.auth().signOut(); location.hash = '#/'; };
   }
 
   /* ---------- Identidad y campañas ---------- */
@@ -683,7 +690,11 @@
       <h2 style="margin:30px 0 16px">${t('favs')}</h2>
       <div class="grid">${favs.length ? favs.map(card).join('') : `<p class="empty">${t('no_favs')}</p>`}</div></section>`;
     if ($('#loginBtn')) $('#loginBtn').onclick = login;
-    if ($('#logoutBtn')) $('#logoutBtn').onclick = () => window.firebase && firebase.auth().signOut();
+    if ($('#logoutBtn')) $('#logoutBtn').onclick = () => window.firebase && firebase.auth().signOut();    if (S.user) panelData().then(async P => {
+      if (!(await isOwner(P)) || !location.hash.startsWith('#/cuenta')) return;
+      const box = document.createElement('div'); box.className = 'owner-box'; box.innerHTML = panelHTML(P);
+      app.querySelector('section').appendChild(box); bindPanel(P);
+    });
   }
 
   /* ---------- Gracias ---------- */
