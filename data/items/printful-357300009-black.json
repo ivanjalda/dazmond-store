@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "Muscle Tee",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and sharp model shot, but lacks high-end editorial styling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta",
-  "mujer/camisetas-blusas-tops"
+  "hombre/camiseta"
  ],
  "cg": "printful-357300009",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential piece that defines the silhouette with precision. This muscle tee delivers understated presence and impeccable comfort. The clean design enhances the natural form of the body with absolute minimalism. Crafted on demand to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una pieza esencial que define la silueta con precisión. Esta camiseta sin mangas ofrece una presencia sobria y una comodidad impecable. El diseño limpio realza la forma natural del cuerpo con un minimalismo absoluto. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible para envío mundial.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/ad5/ad5d1a5e466d827e26eb5dad88781288_preview.png"
  ],
@@ -26,9 +38,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Tee · Black",
- "name_es": "Camiseta Avenue · Negro",
+ "name_en": "Iconic Stealth Muscle Tee · Black",
+ "name_es": "Camiseta sin mangas Iconic Stealth · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 11,

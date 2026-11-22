@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Military Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "long sleeve shirt",
+ "ai_ver": 2,
+ "art_note": "The image features awkward studio lighting, a distracting casual pose, and generic marketplace styling that detracts from luxury positioning.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-374479157",
  "color": "Military Green",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential garment tailored to define the contemporary silhouette. Understated tones evoke discreet and versatile sophistication. Crafted to order to ensure absolute exclusivity in every piece. Available for worldwide shipping to any destination. Refined design that transcends temporary trends.",
+ "desc_es": "Una prenda esencial elaborada para definir la silueta contemporánea. Tonos sobrios que evocan una sofisticación discreta y versátil. Confeccionada bajo pedido para garantizar la exclusividad absoluta en cada pieza. Disponible para envíos internacionales a cualquier destino del mundo. Diseño refinado que trasciende las tendencias temporales.",
+ "details_en": "· Made-to-order piece.\n· Worldwide shipping available.",
+ "details_es": "· Confección bajo pedido.\n· Envío disponible a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/401/40114dc0cf99953f57c51ca05fa85c37_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Soho Tee · Military Green",
- "name_es": "Camiseta Soho · Military Green",
+ "name_en": "Athletic Heather Long Sleeve Shirt · Military Green",
+ "name_es": "Camiseta de Manga Larga Athletic Heather · Military Green",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 32,

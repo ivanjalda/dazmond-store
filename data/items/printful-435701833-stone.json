@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-1.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-2.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-3.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-4.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-5.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-6.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-7.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-8.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-9.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-10.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-11.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-12.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-13.webp",
+  "assets/products/shopify-camiseta-dazmond-co-oversize-organica-de-cuello-alto-unisex-de-14.webp"
+ ],
  "ai_cats": [
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
@@ -31,6 +47,7 @@
  ],
  "draft": false,
  "fam": "co-blaster-organic",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-435701833-stone",
  "look": [
@@ -39,14 +56,14 @@
   "printful-361906822",
   "printful-346239758"
  ],
- "material": "",
+ "material": "Organic",
  "name_en": "Blaster 2.0 Organic Oversized High-Neck Tee · Stone",
  "name_es": "Camiseta Blaster 2.0 Oversize de Cuello Alto · Stone",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
- "rank": 634,
+ "rank": 645,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",

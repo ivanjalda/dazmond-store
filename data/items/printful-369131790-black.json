@@ -1,4 +1,18 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-black-front-674da5842f152.jpg?v=1733141905",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-black-front-674da5842fa49.jpg?v=1733141906",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-black-left-side-674da5843048f.jpg?v=1733141906",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-navy-front-674da5843080a.jpg?v=1733141905",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-navy-left-side-674da58430a24.jpg?v=1733141906",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-charcoal-grey-front-674da58430ddc.jpg?v=1733141906",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-charcoal-grey-left-side-674da5843104e.jpg?v=1733141905",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-khaki-front-674da58431458.jpg?v=1733141906",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-khaki-left-side-674da5843175e.jpg?v=1733141906",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-navy-left-front-674da5842fbf9.jpg?v=1733141906",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-charcoal-grey-front-674da5842fe6a.jpg?v=1733141905",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/distressed-dad-hat-khaki-left-side-674da58430123.jpg?v=1733141906"
+ ],
  "ai_cats": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
@@ -30,6 +44,7 @@
  ],
  "draft": false,
  "fam": "gorra-desgastada-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-369131790-black",
  "look": [
@@ -45,7 +60,7 @@
  "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
- "rank": 671,
+ "rank": 682,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",

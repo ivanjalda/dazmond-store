@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "Muscle Tee",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and clear garment visibility, though standard e-commerce presentation limits high-end luxury feel.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta",
-  "mujer/camisetas-blusas-tops"
+  "hombre/camiseta"
  ],
  "cg": "printful-357300009",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The silhouette redefines the codes of contemporary elegance with a refined and essential design. This distinctive piece is crafted exclusively on demand to ensure absolute exclusivity in every detail. Its structured cut enhances the figure with natural sophistication. A versatile garment conceived for the modern wardrobe. Available with worldwide shipping.",
+ "desc_es": "La silueta redefine los códigos de la elegancia contemporánea con un diseño depurado y esencial. Esta pieza de carácter distintivo se elabora exclusivamente bajo demanda para garantizar una exclusividad absoluta en cada detalle. Su corte estructurado realza la figura con una sofisticación natural. Una prenda versátil concebida para el guardarropa moderno. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Elaborado bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/dca/dca7ea973bd75a86beca5edfd4c354ae_preview.png"
  ],
@@ -26,9 +38,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Tee · White",
- "name_es": "Camiseta Avenue · Blanco",
+ "name_en": "Iconic Stealth Muscle Tee · White",
+ "name_es": "Camiseta sin mangas Iconic Stealth · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 12,

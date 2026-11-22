@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-black-front-6746f7e603aff.jpg?v=1732704247",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-black-front-6746f7e603aff.jpg?v=1732704247",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-black-front-6746f7e603aff.jpg?v=1732704247",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-black-front-6746f7e603aff.jpg?v=1732704247",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-black-front-6746f7e603aff.jpg?v=1732704247",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-black-left-6746f7e6055b9.jpg?v=1732704246",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-black-back-6746f7e6056fc.jpg?v=1732704246",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-black-right-6746f7e60581e.jpg?v=1732704246",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-navy-front-6746f7e605b17.jpg?v=1732704246",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-navy-left-6746f7e605f44.jpg?v=1732704246",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-navy-back-6746f7e6062ac.jpg?v=1732704246",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-navy-right-6746f7e60656e.jpg?v=1732704245",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-mulled-berry-front-6746f7e606b6b.jpg?v=1732704247",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-champion-tie-dye-hoodie-mulled-berry-left-6746f7e607044.jpg?v=1732704245"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -30,6 +46,7 @@
  ],
  "draft": false,
  "fam": "sudadera-champion-tie",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-368696673-black",
  "look": [
@@ -45,7 +62,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 97.99,
- "rank": 617,
+ "rank": 628,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",

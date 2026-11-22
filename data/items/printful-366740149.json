@@ -1,4 +1,16 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-left-front-673270698553c.jpg?v=1731358848",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-front-67327069872a8.jpg?v=1744633344",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-right-back-6732706988666.jpg?v=1744633344",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-back-6732706987562.jpg?v=1731358847",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-front-67327069877d3.jpg?v=1731358848",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-product-details-6732706987a42.jpg?v=1731358848",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-back-6732706987cb1.jpg?v=1731358847",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-front-6732706987ee4.jpg?v=1731358848",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-right-front-6732706988186.jpg?v=1731358848",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-english-67327069883eb.jpg?v=1731358848"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -31,6 +43,7 @@
  ],
  "draft": false,
  "fam": "chaqueta-chandal-unisex",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-366740149",
  "look": [
@@ -39,14 +52,14 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "DAZ Printed Track Jacket",
  "name_es": "Chaqueta de chándal estampada DAZ",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 105.99,
- "rank": 614,
+ "rank": 625,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chaquetas",

@@ -1,4 +1,17 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-black-denim-front-6892290018078.jpg?v=1754409228",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-black-denim-front-68922900188bc.jpg?v=1754409227",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-black-denim-front-6892290018931.jpg?v=1754409227",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-light-denim-front-6892290018990.jpg?v=1754409228",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-black-denim-back-68922900189ea.jpg?v=1754409227",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-black-denim-right-front-6892290018a2c.jpg?v=1754409227",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-black-denim-left-front-6892290018a83.jpg?v=1754409228",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-light-denim-front-6892290018af5.jpg?v=1754409228",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-light-denim-back-6892290018b43.jpg?v=1754409228",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-light-denim-right-front-6892290018b82.jpg?v=1754409228",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/denim-bucket-hat-light-denim-left-front-6892290018bd6.jpg?v=1754409228"
+ ],
  "ai_cats": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
@@ -30,6 +43,7 @@
  ],
  "draft": false,
  "fam": "gorro-pescador-vaquero",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-388757073-black-denim",
  "look": [
@@ -45,7 +59,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 33.99,
- "rank": 681,
+ "rank": 692,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",

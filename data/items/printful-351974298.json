@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_190032.png?v=1788800472",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_190047.png?v=1788800472",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-basketball-jersey-white-front-66a4e05d9fa8c.jpg?v=1722081388",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-basketball-jersey-white-back-66a4e05da0a35.jpg?v=1722081392"
+ ],
  "ai_cats": [
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
@@ -31,6 +37,7 @@
  ],
  "draft": false,
  "fam": "monochrome-dynasty",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-351974298",
  "look": [
@@ -39,14 +46,14 @@
   "printful-357300009-black",
   "printful-346239758"
  ],
- "material": "",
+ "material": "recycled fabric",
  "name_en": "Monochrome Dynasty Basketball Jersey",
  "name_es": "Camiseta de baloncesto Monochrome Dynasty",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
- "rank": 603,
+ "rank": 614,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Camisetas sin mangas",

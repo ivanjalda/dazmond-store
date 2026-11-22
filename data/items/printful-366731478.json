@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-front-67326a9e6b7de.jpg?v=1744633550",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-right-front-67326a9e6b57f.jpg?v=1744633550",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-left-front-67326a9e6a4d2.jpg?v=1744633550",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-right-back-67326a9e6c188.jpg?v=1744633550",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-back-67326a9e6b0ed.jpg?v=1744633550",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-english-67326a9e6be63.jpg?v=1731357365"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -31,6 +39,7 @@
  ],
  "draft": false,
  "fam": "chaqueta-chandal-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-366731478",
  "look": [
@@ -39,14 +48,14 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "All-Over Print Track Jacket",
  "name_es": "Chaqueta de Chándal All-Over Print",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 105.99,
- "rank": 610,
+ "rank": 621,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chaquetas",

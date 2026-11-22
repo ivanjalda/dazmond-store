@@ -1,4 +1,16 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-front-6732636785b84.jpg?v=1744633790",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-front-67326367858e7.jpg?v=1744633790",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-left-front-6732636784ce5.jpg?v=1744633787",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-right-back-6732636786a27.jpg?v=1744633787",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-front-6732636785631.jpg?v=1744633787",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-front-6732636785dcb.jpg?v=1731355512",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-back-6732636785fee.jpg?v=1731355512",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-english-6732636786206.jpg?v=1731355512",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-back-67326367864aa.jpg?v=1731355513",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-track-jacket-white-back-673263678674c.jpg?v=1731355513"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -31,6 +43,7 @@
  ],
  "draft": false,
  "fam": "chaqueta-chandal-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-366725658",
  "look": [
@@ -39,14 +52,14 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "All-Over Print Track Jacket",
  "name_es": "Chaqueta de Chándal All-Over Print",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 105.99,
- "rank": 607,
+ "rank": 618,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",

@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-04_162013.png?v=1788531644",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-04_161959.png?v=1788531644",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-04_161941.png?v=1788531644",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-track-pants-black-front-66a4e2596b54f.jpg?v=1722081896",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-track-pants-black-back-66a4e2596c35c.jpg?v=1722081900"
+ ],
  "ai_cats": [
   "hombre/pantalones",
   "mujer/pantalones"
@@ -30,6 +37,7 @@
  ],
  "draft": false,
  "fam": "tactical-geometry-track",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-351736401",
  "look": [

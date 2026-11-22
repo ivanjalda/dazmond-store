@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_183114.png?v=1788798861",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_183100.png?v=1788798861",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_183126.png?v=1788798861"
+ ],
  "ai_cats": [
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
@@ -31,6 +36,7 @@
  ],
  "draft": false,
  "fam": "neon-velocity",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-351973802",
  "look": [
@@ -39,14 +45,14 @@
   "printful-357300009-black",
   "printful-346239758"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Neon Velocity Basketball Jersey",
  "name_es": "Camiseta de Baloncesto Neon Velocity",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
- "rank": 602,
+ "rank": 613,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",

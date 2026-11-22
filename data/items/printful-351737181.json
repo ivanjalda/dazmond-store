@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-track-pants-black-front-66a4e1e829ef3.jpg?v=1722081785",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-track-pants-black-zoomed-in-66a4e1e82b30e.jpg?v=1722081792"
+ ],
  "ai_cats": [
   "hombre/pantalones",
   "mujer/pantalones"
@@ -30,6 +34,7 @@
  ],
  "draft": false,
  "fam": "art-cyan-splash",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-351737181",
  "look": [

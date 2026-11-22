@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-front-66b0e94276f63.jpg?v=1722870107",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-back-66b0e9427a08f.jpg?v=1775493777",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-left-front-66b0e9427a2bb.jpg?v=1775493777",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-right-back-66b0e9427a4c9.jpg?v=1775493777",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-bomber-jacket-white-product-details-66b0e94279d6e.jpg?v=1775493777"
+ ],
  "ai_cats": [
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
@@ -30,6 +37,7 @@
  ],
  "draft": false,
  "fam": "gratitude-global",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-355650241",
  "look": [

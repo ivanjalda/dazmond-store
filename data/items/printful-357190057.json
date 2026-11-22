@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-wide-leg-joggers-white-back-66c4b76eec991.jpg?v=1724168062",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-unisex-wide-leg-joggers-white-front-66c4b76eedfea.jpg?v=1724168065"
+ ],
  "ai_cats": [
   "hombre/pantalones",
   "mujer/pantalones"
@@ -30,6 +34,7 @@
  ],
  "draft": false,
  "fam": "pantalon-wide-leg",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-357190057",
  "look": [
@@ -45,7 +50,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 76.99,
- "rank": 567,
+ "rank": 577,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Ropa cómoda > Pantalones de estar por casa",

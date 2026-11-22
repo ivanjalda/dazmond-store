@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-heather-grey-front-6834a0cbab7c2.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-heather-grey-front-6834a0cbab7c2.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-heather-grey-front-6834a0cbab7c2.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-heather-grey-front-6834a0cbab7c2.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-heather-grey-front-6834a0cbab7c2.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-french-navy-front-6834a0cba9c0e.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-french-navy-back-6834a0cbaa914.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-french-navy-left-6834a0cbab256.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-heather-grey-back-6834a0cbabe4a.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-heather-grey-left-6834a0cbacb17.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-stone-front-6834a0cbad2ae.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-stone-back-6834a0cbadb12.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-stone-left-6834a0cbaeaf6.jpg?v=1748279515",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-organic-oversized-high-neck-t-shirt-white-front-6834a0cbaf3d6.jpg?v=1748279515"
+ ],
  "ai_cats": [
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
@@ -30,6 +46,7 @@
  ],
  "draft": false,
  "fam": "camiseta-oversize-organica",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-383200891-heather-grey",
  "look": [
@@ -45,7 +62,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
- "rank": 631,
+ "rank": 642,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",

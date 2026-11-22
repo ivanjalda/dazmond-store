@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-forest-green-front-66a930f12ccaa.jpg?v=1722364225",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-forest-green-front-66a930f12ccaa.jpg?v=1722364225",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-forest-green-front-66a930f12ccaa.jpg?v=1722364225",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-forest-green-front-66a930f12ccaa.jpg?v=1722364225",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-forest-green-front-66a930f12ccaa.jpg?v=1722364225",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-forest-green-front-66a930f12ccaa.jpg?v=1722364225",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-white-front-66a930f0961af.jpg?v=1722364184",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-white-product-details-66a930f0c1e78.jpg?v=1722364188",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-black-front-66a930f0d8482.jpg?v=1722364193",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-black-back-66a930f0d9abd.jpg?v=1722364196",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-navy-blazer-front-66a930f0dd5fc.jpg?v=1722364199",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-navy-blazer-back-66a930f0e18ef.jpg?v=1722364202",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-maroon-front-66a930f0e5a75.jpg?v=1722364205",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-premium-hoodie-maroon-back-66a930f0ef125.jpg?v=1722364208"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -31,6 +47,7 @@
  ],
  "draft": false,
  "fam": "urban-prestige-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-345638355-forest-green",
  "look": [
@@ -39,14 +56,14 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "Cotton",
  "name_en": "Urban Prestige Heritage Hoodie · Forest Green",
  "name_es": "Sudadera Urban Prestige Heritage · Forest Green",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
- "rank": 642,
+ "rank": 653,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas con capucha",

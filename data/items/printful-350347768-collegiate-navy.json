@@ -1,4 +1,18 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_n53xwzn53xwzn53x.png?v=1776873968",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_hna41fhna41fhna4.png?v=1776873969",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_ri39uqri39uqri39.png?v=1776873970",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/columbia-booney-hat-collegiate-navy-front-667d7b8891a0c.jpg?v=1719499678",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/columbia-booney-hat-fossil-back-667d7b8892197.jpg?v=1719499721",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_g2g2r7g2g2r7g2g2.png?v=1776873968",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_x04cafx04cafx04c.png?v=1776873967",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_1g3ww11g3ww11g3w.png?v=1776873968",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_3mqz5m3mqz5m3mqz.png?v=1776873969",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_6680fq6680fq6680.png?v=1776873969",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_mk88evmk88evmk88.png?v=1776873970",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_qxc82qxc82qxc82q.png?v=1776873970"
+ ],
  "ai_cats": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
@@ -30,6 +44,7 @@
  ],
  "draft": false,
  "fam": "x-columbia-bora",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350347768-collegiate-navy",
  "look": [
@@ -45,7 +60,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
- "rank": 546,
+ "rank": 556,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",

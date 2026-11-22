@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Athletic Heather",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Long Sleeve Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait with a model, but lacks high-end luxury campaign lighting and styling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-374479157",
  "color": "Athletic Heather",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Refined and essential silhouette. This long sleeve shirt defines a modern and relaxed elegance. Crafted with precision for an impeccable drape. A versatile piece that transcends seasons. Available made to order. Worldwide shipping available.",
+ "desc_es": "Silueta depurada y esencial. Esta camiseta de manga larga define una elegancia moderna y relajada. Confeccionada con precisión para ofrecer una caída impecable. Una prenda versátil que trasciende las temporadas. Disponible bajo demanda. Envío mundial disponible.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/a21/a219d3ff793e0a30a7e45df76ed593b6_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Soho Tee · Athletic Heather",
- "name_es": "Camiseta Soho · Athletic Heather",
+ "name_en": "Athletic Heather Long Sleeve Shirt · Athletic Heather",
+ "name_es": "Camiseta de Manga Larga Athletic Heather · Athletic Heather",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 27,

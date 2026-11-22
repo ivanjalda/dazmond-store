@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Heather Deep Teal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "long sleeve shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio photography with a lifestyle pose, but lacks the polished sophistication of top-tier luxury campaigns.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-374479157",
  "color": "Heather Deep Teal",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined and essential silhouette. Crafted to offer an impeccable presence in the contemporary wardrobe. Each piece is crafted to order with exclusive dedication. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada y esencial. Confeccionada para ofrecer una presencia impecable en el armario contemporáneo. Cada pieza se elabora bajo pedido con dedicación exclusiva. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Elaborado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/63e/63eaff83559c50e379c8a8c23de7dc4d_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Soho Tee · Heather Deep Teal",
- "name_es": "Camiseta Soho · Heather Deep Teal",
+ "name_en": "Athletic Heather Long Sleeve Shirt · Heather Deep Teal",
+ "name_es": "Camiseta de Manga Larga Athletic Heather · Heather Deep Teal",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 30,
