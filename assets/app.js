@@ -45,7 +45,7 @@
       empty: 'Muy pronto llegarán nuevas piezas a esta sección.', results: 'piezas',
       tr1: '✦ Confección bajo demanda', tr2: '✦ Envío internacional con seguimiento', tr3: '✦ Pago 100 % seguro con Stripe',
       account: 'Mi Cuenta', favs: 'Mis Favoritos', no_favs: 'Aún no has guardado favoritos. Pulsa ♡ en cualquier pieza.',
-      or_mail: 'o con tu correo', email: 'Correo electrónico', pass: 'Contraseña (mínimo 6)', enter: 'Entrar', create: 'Crear cuenta',
+      or_mail: 'o con tu correo', optin: 'Quiero recibir novedades y ofertas exclusivas por correo (puedes darte de baja cuando quieras).', email: 'Correo electrónico', pass: 'Contraseña (mínimo 6)', enter: 'Entrar', create: 'Crear cuenta',
       forgot: 'He olvidado mi contraseña', reset_ok: 'Te hemos enviado un correo para crear una contraseña nueva.', need_mail: 'Escribe tu correo primero.',
       e_wrong: 'Correo o contraseña incorrectos.', e_used: 'Ese correo ya tiene cuenta: pulsa Entrar.', e_weak: 'La contraseña debe tener al menos 6 caracteres.', e_mail: 'Ese correo no es válido.',
       login: 'Iniciar sesión con Google', logout: 'Cerrar sesión', guest: 'Puedes comprar sin registrarte. Si inicias sesión, tus favoritos te acompañan en todos tus dispositivos.',
@@ -92,7 +92,7 @@
       empty: 'New pieces are arriving in this section very soon.', results: 'pieces',
       tr1: '✦ Made to order', tr2: '✦ International tracked shipping', tr3: '✦ 100% secure checkout by Stripe',
       account: 'My Account', favs: 'My Favorites', no_favs: 'No favorites yet. Tap ♡ on any piece.',
-      or_mail: 'or with your email', email: 'Email', pass: 'Password (6+ characters)', enter: 'Sign in', create: 'Create account',
+      or_mail: 'or with your email', optin: 'Send me news and exclusive offers by email (unsubscribe anytime).', email: 'Email', pass: 'Password (6+ characters)', enter: 'Sign in', create: 'Create account',
       forgot: 'I forgot my password', reset_ok: 'We have sent you an email to set a new password.', need_mail: 'Type your email first.',
       e_wrong: 'Wrong email or password.', e_used: 'That email already has an account: press Sign in.', e_weak: 'The password needs at least 6 characters.', e_mail: 'That email is not valid.',
       login: 'Sign in with Google', logout: 'Sign out', guest: 'You can shop without an account. Sign in to keep your favorites on all your devices.',
@@ -695,6 +695,7 @@
           <form id="mailForm" class="mail-login"><p class="note">${t('or_mail')}</p>
             <input type="email" name="em" placeholder="${t('email')}" autocomplete="email" required>
             <input type="password" name="pw" placeholder="${t('pass')}" autocomplete="current-password" minlength="6">
+            <label class="optin"><input type="checkbox" name="news"> ${t('optin')}</label>
             <div class="row"><button class="btn btn-solid" data-act="in">${t('enter')}</button><button class="btn" data-act="new">${t('create')}</button></div>
             <button type="button" class="link-u forgot" id="forgotBtn">${t('forgot')}</button></form>` : `<p class="note">${t('local_favs')}</p>`}`}
       </div>
@@ -710,6 +711,7 @@
         if (!window.firebase) return;
         const em = fm.em.value.trim(), pw = fm.pw.value;
         const a = firebase.auth();
+        if (act === 'new' && fm.news.checked) brevoSubscribe(em);
         (act === 'new' ? a.createUserWithEmailAndPassword(em, pw) : a.signInWithEmailAndPassword(em, pw)).catch(authError);
       };
       $('#forgotBtn').onclick = () => {
@@ -757,6 +759,17 @@
   }
 
   /* ---------- Suscripción (Brevo) ---------- */
+  /* Alta en la lista de correo de Brevo (solo con permiso del cliente) */
+  function brevoSubscribe(email) {
+    const url = (S.cfg.newsletter || {})['brevo_form_url_' + S.lang];
+    if (!url || !email) return false;
+    const f = document.createElement('form');
+    f.action = url; f.method = 'POST'; f.target = 'subFrame'; f.hidden = true;
+    f.innerHTML = '<input name="EMAIL"><input name="email_address_check" value=""><input name="locale" value="' + S.lang + '">';
+    f.EMAIL.value = email;
+    document.body.appendChild(f); f.submit(); setTimeout(() => f.remove(), 3000);
+    return true;
+  }
   function subscribe(e) {
     e.preventDefault();
     const form = e.target, url = (S.cfg.newsletter || {})['brevo_form_url_' + S.lang];
