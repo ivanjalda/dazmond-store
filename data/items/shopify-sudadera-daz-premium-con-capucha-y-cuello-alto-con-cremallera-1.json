@@ -14,7 +14,7 @@
  "categories": [
   "hombre/chandal-sudaderas"
  ],
- "color": "",
+ "color": "red",
  "created": "2026-11-19",
  "desc_en": "A refined silhouette redefining casual elegance. This piece combines a soft touch cotton, polyester and spandex blend. The design features a high collar with full zip and an adjustable drawstring hood. Tailored to provide versatility in every movement. Made-to-order pieces with worldwide shipping to ensure exclusivity and sustainability.",
  "desc_es": "Una silueta refinada que redefine la elegancia casual. Esta prenda combina una mezcla de algodón, poliéster y elastano de tacto suave. Su diseño presenta un cuello alto con cremallera completa y capucha con cordón ajustable. Pensada para ofrecer versatilidad en cada movimiento. Piezas elaboradas bajo demanda con envíos a todo el mundo para garantizar exclusividad y sostenibilidad.",
@@ -29,6 +29,7 @@
  ],
  "draft": false,
  "fam": "sudadera-premium-capucha",
+ "gender": "men",
  "hidden": false,
  "id": "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera-1",
  "img_checked": "2026-11-19",
@@ -38,7 +39,7 @@
   "printful-365090873",
   "printful-353253137"
  ],
- "material": "",
+ "material": "polyester, spandex, cotton",
  "name_en": "DAZ Premium Zip Hoodie",
  "name_es": "Sudadera con cremallera DAZ Premium",
  "needs_review": false,

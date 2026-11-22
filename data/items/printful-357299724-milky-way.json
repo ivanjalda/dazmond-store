@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Milky way",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Milky way",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Inspired by stellar infinity. The Cosmic Nebula oversize tee redefines casual luxury with a relaxed silhouette and a unique tie-dye pattern. Each piece is crafted to order to ensure absolute exclusivity. Its immersive aesthetic brings depth and sophistication to any contemporary wardrobe. Available with worldwide shipping.",
+ "desc_es": "Inspirada en el infinito estelar. La camiseta oversize Cosmic Nebula redefine el lujo casual con una silueta relajada y un patrón tie-dye único. Cada pieza se elabora bajo pedido para asegurar una exclusividad absoluta. Su estética envolvente aporta profundidad y sofisticación a cualquier guardarropa contemporáneo. Disponible con envío mundial.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/7ad/7ad9da92ea79b0a823541f13b41007a1_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Tee",
- "name_es": "Camiseta Manhattan",
+ "name_en": "Cosmic Nebula Oversize Tee",
+ "name_es": "Camiseta Oversize Cosmic Nebula",
  "needs_review": false,
+ "page": true,
  "price_usd": 38.99,
  "rank": 231,
  "shipping_usd": 7.0,

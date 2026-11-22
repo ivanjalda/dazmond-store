@@ -25,6 +25,7 @@
  "name_en": "Hudson Piece · White",
  "name_es": "Pieza Hudson · Blanco",
  "needs_review": true,
+ "page": true,
  "price_usd": 78.99,
  "rank": 489,
  "shipping_usd": 7.0,
@@ -51,6 +52,7 @@
   "5054712_15937"
  ],
  "source_title": "The Dazmond Aero-Shield 85",
+ "stripe_payment_link": "https://buy.stripe.com/7sYeVe5Z2cKUfD036e1gE2g",
  "supplier": "Printful",
  "supplier_id": "355648669-blush-white-zipper",
  "visual_verified": true

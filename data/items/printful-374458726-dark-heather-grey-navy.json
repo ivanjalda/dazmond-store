@@ -1,15 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Dark Heather Grey/Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Beanie",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "color": "Dark Heather Grey/ Navy",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Essential design for cold weather days. This pom pom knit cap blends subdued tones with a structured silhouette. Defined profile for flawless daily wear. Made-to-order piece by DAZMOND & Co. Worldwide shipping available.",
+ "desc_es": "Diseño esencial para los días de clima frío. Este gorro con pompón combina tonos sobrios con una silueta estructurada. Silueta definida para un uso diario impecable. Pieza confeccionada bajo demanda en DAZMOND & Co. Envío mundial disponible.",
+ "details_en": "· Made-to-order piece",
+ "details_es": "· Pieza confeccionada bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/1b6/1b660066ed7af3885cc3c0deaf9229b3_preview.png"
  ],
@@ -19,14 +30,15 @@
  "id": "printful-374458726-dark-heather-grey-navy",
  "look": [
   "printful-351492575-black",
-  "printful-361906822",
+  "printful-365090873",
   "printful-353253137",
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Madison Sweater · Navy",
- "name_es": "Suéter Madison · Azul Marino",
+ "name_en": "Pom Pom Knit Beanie",
+ "name_es": "Gorro De Punto Con Pompón",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
  "rank": 236,
  "shipping_usd": 7.0,

@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Emerald Cyber",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "backpack",
+ "audited": "2026-11-22",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An imposing presence in the urban landscape. The Emerald Cyber backpack defines a new aesthetic for daily movement. Precise lines merge with contemporary design. Functionality meets a vanguard vision. Each piece is made to order to ensure absolute exclusivity. We offer worldwide shipping. The definitive accessory for those who dictate the rules of style.",
+ "desc_es": "Una presencia imponente en el panorama urbano. La mochila Emerald Cyber define una nueva estética para el movimiento diario. Las líneas precisas se funden con un diseño contemporáneo. La funcionalidad se encuentra con una visión vanguardista. Cada pieza es creada bajo pedido para asegurar una exclusividad absoluta. Ofrecemos envíos a todo el mundo. El accesorio definitivo para quienes dictan las reglas del estilo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Disponible envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/223/223732f60d2c9558a9b7a6516d039d82_preview.png"
  ],
@@ -25,9 +37,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Riviera Bag · White",
- "name_es": "Bolso Riviera · Blanco",
+ "name_en": "Emerald Cyber Backpack",
+ "name_es": "Mochila Emerald Cyber",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 17,
  "shipping_usd": 7.0,

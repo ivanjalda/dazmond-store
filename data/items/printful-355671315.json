@@ -27,6 +27,7 @@
  "name_en": "Manhattan Shirt · White",
  "name_es": "Camisa Manhattan · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 375,
  "shipping_usd": 7.0,
@@ -61,6 +62,7 @@
   "3106825_17126"
  ],
  "source_title": "The Dazmond Emerald Aero-Luxe 100",
+ "stripe_payment_link": "https://buy.stripe.com/28EcN64UY9yI4YmeOW1gE0q",
  "supplier": "Printful",
  "supplier_id": "355671315",
  "visual_verified": true

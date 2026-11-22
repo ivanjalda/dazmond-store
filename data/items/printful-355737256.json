@@ -27,6 +27,7 @@
  "name_en": "Riviera Shirt · White",
  "name_es": "Camisa Riviera · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 389,
  "shipping_usd": 7.0,
@@ -61,6 +62,7 @@
   "5106772_17126"
  ],
  "source_title": "DAZMOND \"Aura Dusk\" Resort Shirt",
+ "stripe_payment_link": "https://buy.stripe.com/00w5kEdru3ak3Ui7mu1gE0E",
  "supplier": "Printful",
  "supplier_id": "355737256",
  "visual_verified": true

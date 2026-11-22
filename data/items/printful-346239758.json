@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "flip-flops",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "DAZMOND & Co. presents the Step Matrix flip-flops. A modern style statement for downtime. Impeccable craftsmanship and a refined design. Essential comfort for the warmer seasons. Each pair is made to order. Worldwide shipping is available.",
+ "desc_es": "DAZMOND & Co. presenta las sandalias Step Matrix. Una declaración de estilo moderno para los días de descanso. Confección impecable y diseño depurado. Comodidad esencial para la temporada estival. Cada par se elabora bajo pedido. Disponible envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Elaborado bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/ad7/ad782a8ec1f596878a54b7dc5c6ad330_preview.png"
  ],
@@ -25,9 +36,10 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Avenue Sandals · White",
- "name_es": "Sandalias Avenue · Blanco",
+ "name_en": "Step Matrix Flip-Flops",
+ "name_es": "Sandalias Step Matrix",
  "needs_review": false,
+ "page": true,
  "price_usd": 29.99,
  "rank": 30,
  "shipping_usd": 7.0,

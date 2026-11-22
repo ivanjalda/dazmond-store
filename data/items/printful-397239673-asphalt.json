@@ -22,6 +22,7 @@
  "name_en": "Avenue Art Print",
  "name_es": "Lámina Avenue",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 471,
  "shipping_usd": 7.0,
@@ -46,6 +47,7 @@
   "1996677_22956"
  ],
  "source_title": "Sudadera DAZMond Luxury con capucha gruesa oversize",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ5kE5Z2fX62QebCK1gE1Y",
  "supplier": "Printful",
  "supplier_id": "397239673-asphalt",
  "visual_verified": true

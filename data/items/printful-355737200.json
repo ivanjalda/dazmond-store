@@ -27,6 +27,7 @@
  "name_en": "Atelier Shirt · White",
  "name_es": "Camisa Atelier · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 388,
  "shipping_usd": 7.0,
@@ -61,6 +62,7 @@
   "4993235_17126"
  ],
  "source_title": "DAZMOND \"Soleil d'Or\" Resort Shirt",
+ "stripe_payment_link": "https://buy.stripe.com/dRm8wQ3QUaCM62qgX41gE0D",
  "supplier": "Printful",
  "supplier_id": "355737200",
  "visual_verified": true

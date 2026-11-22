@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Midnight Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "backpack",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Midnight Navy",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Precision meets contemporary design in this essential piece. Created for constant movement. Its refined aesthetic reflects functional elegance. Every detail responds to a vision of modern sophistication. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping. An accessory designed to define the rhythm of your day with distinction.",
+ "desc_es": "La precisión se une al diseño contemporáneo en esta pieza esencial. Creada para el movimiento constante. Su estética depurada refleja una elegancia funcional. Cada detalle responde a una visión de sofisticación moderna. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo. Un accesorio diseñado para definir el ritmo de su día con distinción.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/127/1271a006c3479760baf3e707b3a8af36_preview.png"
  ],
@@ -25,9 +36,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Bag · Navy",
- "name_es": "Bolso Manhattan · Azul Marino",
+ "name_en": "DAZMON Midnight Navy Backpack",
+ "name_es": "Mochila Midnight Navy DAZMON",
  "needs_review": false,
+ "page": true,
  "price_usd": 94.99,
  "rank": 34,
  "shipping_usd": 7.0,

@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Pom Pom Knit Cap",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Red",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Vibrant red redefines winter cold. This pom pom knit cap combines warmth with structured design. The clean silhouette offers a sophisticated profile for the season. Each piece is meticulously crafted to order in our workshops. Worldwide delivery ensures exclusive arrival. Elevate your wardrobe with this statement of modern elegance.",
+ "desc_es": "El rojo intenso redefine el frío invernal. Este gorro de punto con pom-pom combina calidez y diseño estructurado. La silueta depurada ofrece un perfil sofisticado para la temporada. Cada pieza se elabora meticulosamente bajo pedido en nuestros talleres. El envío mundial asegura una entrega exclusiva. Eleve su guardarropa con esta declaración de elegancia moderna.",
+ "details_en": "· Made to order\n· Available for worldwide shipping",
+ "details_es": "· Elaborado bajo pedido\n· Disponible para envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/6f1/6f181fa59ba9f194c4b7b20fc3cfd1ee_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Sweater · Red",
- "name_es": "Suéter Monogram · Rojo",
+ "name_en": "Red Pom Pom Knit Cap",
+ "name_es": "Gorro de Punto con Pom-Pom Rojo",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
  "rank": 241,
  "shipping_usd": 7.0,

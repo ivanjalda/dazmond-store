@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "algodón",
  "ai_priority": true,
+ "ai_type": "sweatshirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The silhouette redefines contemporary comfort with a clean and structured presence. Pure white is enriched with a graphic contrast of geometric precision. Each piece is crafted to order to ensure absolute exclusivity. The fluid design accompanies the natural movement of the body. Available with worldwide shipping for the modern wardrobe.",
+ "desc_es": "La silueta redefine el confort contemporáneo con una presencia limpia y estructurada. El blanco puro se enriquece con un contraste gráfico de precisión geométrica. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. El diseño fluido acompaña el movimiento natural del cuerpo. Disponible con envío a todo el mundo para el guardarropa moderno.",
+ "details_en": "· Composition: cotton\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Composición: algodón\n· Pieza confeccionada bajo demanda\n· Envío a todo el mundo disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/0ee/0ee9b01c5ca2c31a7eab3da2bb760f54_preview.png"
  ],
@@ -24,9 +36,10 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Atelier Sweatshirt · White",
- "name_es": "Sudadera Atelier · Blanco",
+ "name_en": "DAZMond Cotton Sweatshirt",
+ "name_es": "Sudadera de Algodón DAZMond",
  "needs_review": false,
+ "page": true,
  "price_usd": 65.99,
  "rank": 255,
  "shipping_usd": 7.0,
@@ -51,6 +64,7 @@
   "1748719_33969"
  ],
  "source_title": "Sudadera de algodón DAZMond",
+ "stripe_payment_link": "https://buy.stripe.com/aFa8wQ2MQfX6duS36e1gD2C",
  "supplier": "Printful",
  "supplier_id": "400735243",
  "visual_verified": true

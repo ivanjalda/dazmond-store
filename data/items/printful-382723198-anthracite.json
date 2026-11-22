@@ -25,6 +25,7 @@
  "name_en": "Noir Tee",
  "name_es": "Camiseta Noir",
  "needs_review": false,
+ "page": true,
  "price_usd": 31.99,
  "rank": 409,
  "shipping_usd": 7.0,
@@ -47,6 +48,7 @@
   "3086552_21321"
  ],
  "source_title": "Camiseta DAZ Luxury gruesa orgánica para hombre",
+ "stripe_payment_link": "https://buy.stripe.com/14AbJ287a6mw76udKS1gE0Y",
  "supplier": "Printful",
  "supplier_id": "382723198-anthracite",
  "visual_verified": true

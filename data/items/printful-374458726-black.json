@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Pom Pom Knit Cap",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Refined silhouette for cold days. This knit beanie combines functional elegance and sober design. An essential accessory that brings texture and presence. Crafted to order to ensure maximum exclusivity. Available for worldwide shipping.",
+ "desc_es": "Silueta depurada para los días de frío. Este gorro de punto combina elegancia funcional y diseño sobrio. Un accesorio esencial que aporta textura y presencia. Confeccionado bajo pedido para garantizar la máxima exclusividad. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/ff9/ff989149122a370145b4ee9b7d7f87eb_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Imperial Sweater · Black",
- "name_es": "Suéter Imperial · Negro",
+ "name_en": "Pom Pom Knit Beanie",
+ "name_es": "Gorro de Punto con Pompón",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
  "rank": 233,
  "shipping_usd": 7.0,

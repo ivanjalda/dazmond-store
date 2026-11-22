@@ -22,6 +22,7 @@
  "name_en": "Imperial Art Print",
  "name_es": "Lámina Imperial",
  "needs_review": false,
+ "page": true,
  "price_usd": 36.99,
  "rank": 406,
  "shipping_usd": 7.0,
@@ -46,6 +47,7 @@
   "3001670_9766"
  ],
  "source_title": "Camiseta de manga corta DAZ Luxury",
+ "stripe_payment_link": "https://buy.stripe.com/aFa3cw73612cfD07mu1gE0V",
  "supplier": "Printful",
  "supplier_id": "374546510-mauve-triblend",
  "visual_verified": true

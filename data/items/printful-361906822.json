@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Chalk",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "beanie",
+ "audited": "2026-11-22",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Chalk",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Essential silhouette for cold weather. Contemporary design with ribbed texture. Features a top pom-pom that adds subtle movement. Versatile and sophisticated chalk tone. Each piece is crafted to order with worldwide shipping available. A discreet accessory that defines the season with elegance.",
+ "desc_es": "Silueta esencial para climas frios. Diseno contemporaneo con textura acanalada. Presenta un pompon superior que aporta movimiento sutil. Tono cal tiza versatil y sofisticado. Cada pieza se elabora bajo pedido con disponibilidad de envios a todo el mundo. Un accesorio discreto que define la temporada con elegancia.",
+ "details_en": "· One size\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Talla unica\n· Elaborado bajo pedido\n· Envios a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/30c/30cc2d9ff5a8e1a75f4f9dcc11e1e3ee_preview.png"
  ],
@@ -25,9 +37,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Riviera Hat",
- "name_es": "Gorro Riviera",
+ "name_en": "Chalk Pom-Pom Beanie",
+ "name_es": "Gorro con pompon Chalk",
  "needs_review": false,
+ "page": true,
  "price_usd": 25.0,
  "rank": 6,
  "shop_verified": true,

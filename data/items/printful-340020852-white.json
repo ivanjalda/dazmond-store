@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Pure elegance in pristine white. This silhouette redefines everyday luxury with an impeccable presence. Clean lines and an enveloping feel. Each piece is crafted to order to ensure ultimate exclusivity. Worldwide shipping available.",
+ "desc_es": "Pura elegancia en blanco impoluto. Esta silueta redefine el lujo cotidiano con una presencia impecable. Lineas limpias y una sensacion envolvente. Cada pieza se confecciona bajo pedido para garantizar la maxima exclusividad. Envios disponibles a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/3ab/3ab2fbc0eaa86249c98d0f771d710570_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Avenue Sweatshirt · White",
- "name_es": "Sudadera Avenue · Blanco",
+ "name_en": "Freedom Wing Essential Hoodie",
+ "name_es": "Sudadera Freedom Wing Essential",
  "needs_review": false,
+ "page": true,
  "price_usd": 50.99,
  "rank": 218,
  "shipping_usd": 7.0,

@@ -34,6 +34,7 @@
  "name_en": "Hudson Sweater",
  "name_es": "Suéter Hudson",
  "needs_review": false,
+ "page": true,
  "price_usd": 84.99,
  "rank": 335,
  "shipping_usd": 7.0,
@@ -62,6 +63,7 @@
   "8211047_21037"
  ],
  "source_title": "Cárdigan de punto DAZ Luxury",
+ "stripe_payment_link": "https://buy.stripe.com/14A00kafi9yI62q9uC1gD3U",
  "supplier": "Printful",
  "supplier_id": "382669231",
  "visual_verified": true

@@ -27,6 +27,7 @@
  "name_en": "Avenue Shirt · White",
  "name_es": "Camisa Avenue · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 386,
  "shipping_usd": 7.0,
@@ -61,6 +62,7 @@
   "8181398_17126"
  ],
  "source_title": "DAZMOND Scarlet Ruby Edition",
+ "stripe_payment_link": "https://buy.stripe.com/9B6bJ2gDGbGQ62q22a1gE0B",
  "supplier": "Printful",
  "supplier_id": "355737078",
  "visual_verified": true

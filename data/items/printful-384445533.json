@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Custom",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The silhouette redefines relaxed elegance with an imposing presence. Crafted with precision on demand to offer an unmatched texture. The clean black design contrasts with light tone finishes on the collar, cuffs, and bottom hem. A subtle embroidered graphic detail on the chest adds discrete distinction. Each piece is custom made to maintain the highest quality standards. Available with worldwide shipping.",
+ "desc_es": "La silueta redefine la elegancia relajada con una presencia imponente. Confeccionada con precisión bajo demanda para ofrecer una textura inigualable. El diseño limpio en negro contrasta con los acabados en tono claro en el cuello, los puños y el dobladillo inferior. Un sutil detalle gráfico bordado en el pecho aporta distinción discreta. Cada pieza se confecciona individualmente para mantener los más altos estándares de calidad. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/5ca/5ca7c6e22a75c48f76c9ffa28438ea1b_preview.png",
   "https://files.cdn.printful.com/files/a62/a629ce24d3a48f3b4f56826bf32c9081_preview.png",
@@ -24,6 +35,7 @@
  "fam": "camiseta-punto-luxury",
  "hidden": false,
  "id": "printful-384445533",
+ "img_checked": "2026-11-22",
  "look": [
   "printful-361906822",
   "printful-365090873",
@@ -31,9 +43,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Madison Tee",
- "name_es": "Camiseta Madison",
+ "name_en": "DAZ Luxury Knitted T-Shirt",
+ "name_es": "Camiseta de Punto DAZ Luxury",
  "needs_review": false,
+ "page": true,
  "price_usd": 75.99,
  "rank": 104,
  "shipping_usd": 7.0,

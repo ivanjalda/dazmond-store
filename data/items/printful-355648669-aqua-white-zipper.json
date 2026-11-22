@@ -25,6 +25,7 @@
  "name_en": "Atelier Piece · White",
  "name_es": "Pieza Atelier · Blanco",
  "needs_review": true,
+ "page": true,
  "price_usd": 78.99,
  "rank": 487,
  "shipping_usd": 7.0,
@@ -51,6 +52,7 @@
   "5054712_15916"
  ],
  "source_title": "The Dazmond Aero-Shield 85",
+ "stripe_payment_link": "https://buy.stripe.com/eVq7sM87a6mwcqObCK1gE2e",
  "supplier": "Printful",
  "supplier_id": "355648669-aqua-white-zipper",
  "visual_verified": true

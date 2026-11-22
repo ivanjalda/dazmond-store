@@ -1,15 +1,24 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "shorts",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/pantalones-cortos",
   "mujer/pantalones-cortos"
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined expression of contemporary design. These short shorts feature an all-over print capturing the essence of modern sophistication. Crafted to order to ensure absolute exclusivity. Available with worldwide shipping. The silhouette embraces the form with meticulous precision. An essential summer wardrobe piece balancing boldness and refinement. Luxury in its purest state.",
+ "desc_es": "Una expresion depurada del diseño contemporáneo. Estos shorts cortos presentan un estampado integral que captura la esencia de la sofisticación moderna. Confeccionados bajo demanda para asegurar una exclusividad absoluta. Disponibles con envío internacional. La silueta abraza la forma con precisión milimétrica. Una pieza esencial para el armario estival que equilibra audacia y refinamiento. El lujo en su estado más puro.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/9e5/9e59a3c06243d273f63539eb23e5269c_preview.png"
  ],
@@ -17,16 +26,18 @@
  "fam": "short-luxury",
  "hidden": false,
  "id": "printful-379324926",
+ "img_checked": "2026-11-22",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-365090873",
-  "printful-353253137"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Soho Shorts · White",
- "name_es": "Bermuda Soho · Blanco",
+ "name_en": "Daz All-Over Print Shorts",
+ "name_es": "Shorts Cortos Estampados Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 35.99,
  "rank": 74,
  "shipping_usd": 7.0,

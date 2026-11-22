@@ -27,6 +27,7 @@
  "name_en": "Manhattan Swimwear · White",
  "name_es": "Bañador Manhattan · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 75.99,
  "rank": 416,
  "shipping_usd": 7.0,
@@ -61,6 +62,7 @@
   "2579688_14646"
  ],
  "source_title": "Bañador DAZ Luxury",
+ "stripe_payment_link": "https://buy.stripe.com/eVq6oIbjmaCMfD022a1gE15",
  "supplier": "Printful",
  "supplier_id": "383480440",
  "visual_verified": true

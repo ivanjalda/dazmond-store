@@ -14,7 +14,7 @@
  "categories": [
   "hombre/chandal-sudaderas"
  ],
- "color": "",
+ "color": "green",
  "created": "2026-11-19",
  "desc_en": "A refined silhouette that redefines relaxed elegance. This piece combines a soft touch with clean lines for versatile wear. The high-collar full-zip design brings structured presence and warmth. Crafted with attention to detail for a sophisticated wardrobe staple. Available exclusively made to order with worldwide shipping.",
  "desc_es": "Una silueta depurada que redefine la elegancia relajada. Esta prenda combina un tacto suave con líneas limpias para un uso versátil. El cuello alto con cremallera completa aporta una presencia estructurada y abrigo. Confeccionada con atención al detalle para un fondo de armario sofisticado. Disponible exclusivamente bajo pedido con envíos a todo el mundo.",
@@ -29,6 +29,7 @@
  ],
  "draft": false,
  "fam": "sudadera-premium-capucha",
+ "gender": "men",
  "hidden": false,
  "id": "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera-2",
  "img_checked": "2026-11-19",
@@ -38,7 +39,7 @@
   "printful-365090873",
   "printful-353253137"
  ],
- "material": "",
+ "material": "polyester, spandex, cotton",
  "name_en": "High-collar zip-up hoodie",
  "name_es": "Sudadera con cremallera y cuello alto",
  "needs_review": false,

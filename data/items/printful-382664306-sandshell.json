@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Sandshell",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "sweatshirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Sandshell",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined silhouette defines this sandshell sweatshirt. Crafted to order with a minimalist and striking aesthetic. The design incorporates the distinctive house graphic signature on the chest. An essential piece for the contemporary wardrobe. Available with worldwide shipping.",
+ "desc_es": "La silueta depurada define esta sudadera en tono sandshell. Confeccionada bajo demanda con una estética minimalista y contundente. El diseño incorpora la distintiva firma gráfica de la casa en el pecho. Una pieza esencial para el armario contemporáneo. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/fc6/fc6bc9e81c7c9f1af9a4f09e9304a794_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Noir Sweatshirt",
- "name_es": "Sudadera Noir",
+ "name_en": "DAZ Premium Sandshell Sweatshirt",
+ "name_es": "Sudadera DAZ Premium Sandshell",
  "needs_review": false,
+ "page": true,
  "price_usd": 44.99,
  "rank": 252,
  "shipping_usd": 7.0,
@@ -51,6 +63,7 @@
   "7529656_22484"
  ],
  "source_title": "Sudadera DAZ Premium",
+ "stripe_payment_link": "https://buy.stripe.com/cNi00kdrubGQ76ugX41gD2z",
  "supplier": "Printful",
  "supplier_id": "382664306-sandshell",
  "visual_verified": true

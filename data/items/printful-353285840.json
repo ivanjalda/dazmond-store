@@ -27,6 +27,7 @@
  "name_en": "Soho Bag · Black",
  "name_es": "Bolso Soho · Negro",
  "needs_review": false,
+ "page": true,
  "price_usd": 41.99,
  "rank": 305,
  "shipping_usd": 7.0,
@@ -41,6 +42,7 @@
   "8201976_16708"
  ],
  "source_title": "Bolso DAZ con correa",
+ "stripe_payment_link": "https://buy.stripe.com/8x25kEfzCcKU1MaayG1gD3q",
  "supplier": "Printful",
  "supplier_id": "353285840",
  "visual_verified": true

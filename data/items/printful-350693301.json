@@ -25,6 +25,7 @@
  "name_en": "Manhattan Piece",
  "name_es": "Pieza Manhattan",
  "needs_review": true,
+ "page": true,
  "price_usd": 23.99,
  "rank": 355,
  "shipping_usd": 7.0,
@@ -43,6 +44,7 @@
   "8328352_7292"
  ],
  "source_title": "DAZMOND® \"Chocolate Bar\" Art Socks",
+ "stripe_payment_link": "https://buy.stripe.com/cNi00kgDG7qA9eCgX41gE06",
  "supplier": "Printful",
  "supplier_id": "350693301",
  "visual_verified": true

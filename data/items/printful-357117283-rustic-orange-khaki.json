@@ -27,6 +27,7 @@
  "name_en": "Avenue Hat",
  "name_es": "Gorro Avenue",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
  "rank": 327,
  "shipping_usd": 7.0,
@@ -41,6 +42,7 @@
   "1986742_8756"
  ],
  "source_title": "DAZMOND \"Legacy Blessed\" Trucker Cap",
+ "stripe_payment_link": "https://buy.stripe.com/9B6fZi87ah1aduSfT01gD3M",
  "supplier": "Printful",
  "supplier_id": "357117283-rustic-orange-khaki",
  "visual_verified": true

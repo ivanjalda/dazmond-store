@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Stone",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Stone",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A substantial silhouette defines this essential piece. The high neck introduces sober, contemporary architecture. The oversized cut creates an imposing, fluid presence. Each garment is made to order in our ateliers. The stone hue offers sophisticated neutrality. Worldwide shipping is available.",
+ "desc_es": "Una silueta rotunda define esta pieza esencial. El cuello alto aporta una arquitectura sobria y contemporánea. El corte oversize crea una presencia imponente y fluida. Cada prenda se confecciona bajo pedido en nuestros talleres. El tono piedra ofrece una neutralidad sofisticada. Envío disponible a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/9fc/9fca03f4eb83acf0f87d9a8528fdf134_preview.png"
  ],
@@ -17,6 +29,7 @@
  "fam": "camiseta-oversize-organica",
  "hidden": false,
  "id": "printful-383200891-stone",
+ "img_checked": "2026-11-22",
  "look": [
   "printful-361906822",
   "printful-365090873",
@@ -24,9 +37,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Hudson Tee",
- "name_es": "Camiseta Hudson",
+ "name_en": "DAZ High Neck Oversized T-Shirt",
+ "name_es": "Camiseta Oversize Cuello Alto DAZ",
  "needs_review": false,
+ "page": true,
  "price_usd": 38.99,
  "rank": 103,
  "shipping_usd": 7.0,

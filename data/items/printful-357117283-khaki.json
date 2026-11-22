@@ -27,6 +27,7 @@
  "name_en": "Riviera Hat",
  "name_es": "Gorro Riviera",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
  "rank": 323,
  "shipping_usd": 7.0,
@@ -41,6 +42,7 @@
   "1986742_8752"
  ],
  "source_title": "DAZMOND \"Legacy Blessed\" Trucker Cap",
+ "stripe_payment_link": "https://buy.stripe.com/cNi6oI3QUbGQ4Ym36e1gD3I",
  "supplier": "Printful",
  "supplier_id": "357117283-khaki",
  "visual_verified": true

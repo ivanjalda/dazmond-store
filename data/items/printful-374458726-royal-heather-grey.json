@@ -1,15 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Royal/ Heather Grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "beanie",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "color": "Royal/ Heather Grey",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold expression of contemporary style. This pom pom beanie pairs a vibrant tone with a structured silhouette. Designed to offer presence and distinction in cold weather. Each piece is made to order. Available for worldwide shipping.",
+ "desc_es": "Una expresión audaz de estilo contemporáneo. Este gorro con pompón combina un tono vibrante con una silueta estructurada. Diseñado para ofrecer presencia y distinción en climas fríos. Cada pieza se elabora bajo pedido. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/ae2/ae2f4486ee67c00663f3c9202760bcb0_preview.png"
  ],
@@ -19,14 +30,15 @@
  "id": "printful-374458726-royal-heather-grey",
  "look": [
   "printful-351492575-black",
-  "printful-361906822",
+  "printful-365090873",
   "printful-353253137",
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Hudson Sweater · Grey",
- "name_es": "Suéter Hudson · Gris",
+ "name_en": "Royal and Grey Pom Pom Beanie",
+ "name_es": "Gorro con Pompón Royal y Gris",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
  "rank": 242,
  "shipping_usd": 7.0,

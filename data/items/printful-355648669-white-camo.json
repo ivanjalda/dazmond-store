@@ -25,6 +25,7 @@
  "name_en": "Hudson Piece · White",
  "name_es": "Pieza Hudson · Blanco",
  "needs_review": true,
+ "page": true,
  "price_usd": 78.99,
  "rank": 492,
  "shipping_usd": 7.0,
@@ -51,6 +52,7 @@
   "5054712_15993"
  ],
  "source_title": "The Dazmond Aero-Shield 85",
+ "stripe_payment_link": "https://buy.stripe.com/9B65kEevy8uEaiGfT01gE2j",
  "supplier": "Printful",
  "supplier_id": "355648669-white-camo",
  "visual_verified": true

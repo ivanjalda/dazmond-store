@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "backpack",
+ "audited": "2026-11-22",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of contemporary design. This piece redefines functionality with a sophisticated visual presence. Fluid lines and a subtle tone define its distinct character. Crafted on demand to ensure absolute exclusivity. Worldwide shipping available. An essential accessory for the modern everyday. Elegance meets practicality in every detail.",
+ "desc_es": "Una expresión depurada de diseño contemporáneo. Esta pieza redefine la funcionalidad con una presencia visual sofisticada. Las líneas fluidas y el tono sutil definen su carácter distintivo. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo. Un accesorio esencial para el día a día moderno. La elegancia se encuentra con la practicidad en cada detalle.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/ee4/ee41d255bc6bbe00aed8178302b7360c_preview.png"
  ],
@@ -25,9 +37,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Hudson Bag · White",
- "name_es": "Bolso Hudson · Blanco",
+ "name_en": "DAZMOND Art Pastel Wave Backpack",
+ "name_es": "Mochila Pastel Wave DAZMOND Art",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 15,
  "shipping_usd": 7.0,

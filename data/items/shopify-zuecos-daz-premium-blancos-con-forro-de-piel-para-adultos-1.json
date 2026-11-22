@@ -16,7 +16,7 @@
   "calzado-hombre/zuecos-hombre",
   "calzado-mujer/zuecos"
  ],
- "color": "",
+ "color": "white",
  "created": "2026-11-19",
  "desc_en": "Elevate your daily comfort with this essential house silhouette. Designed to offer insulation and lightness, they feature an EVA foam sole combined with an ultra-soft fleece interior lining. The functional design includes upper perforations for enhanced breathability and an adjustable heel strap allowing for dual wear. Each pair is made to order with worldwide shipping available.",
  "desc_es": "Eleve su confort cotidiano con esta silueta esencial de la casa. Diseñados para ofrecer aislamiento y ligereza, incorporan una suela de espuma EVA combinada con un interior de suave forro de vellón. El diseño funcional incluye perforaciones superiores para mayor transpirabilidad y una correa ajustable en el talón que permite una doble forma de uso. Cada par se elabora bajo pedido y cuenta con envío a todo el mundo.",
@@ -36,6 +36,7 @@
  ],
  "draft": false,
  "fam": "zuecos-premium-blancos",
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos-1",
  "img_checked": "2026-11-20",
@@ -45,7 +46,7 @@
   "printful-365090873",
   "printful-353253137"
  ],
- "material": "",
+ "material": "EVA sole, fleece lining",
  "name_en": "DAZ Premium Fur Clogs",
  "name_es": "Zuecos de Piel DAZ Premium",
  "needs_review": false,

@@ -25,6 +25,7 @@
  "name_en": "Monogram Piece · Blue",
  "name_es": "Pieza Monogram · Azul",
  "needs_review": true,
+ "page": true,
  "price_usd": 36.99,
  "rank": 319,
  "shipping_usd": 7.0,
@@ -47,6 +48,7 @@
   "9170034_11977"
  ],
  "source_title": "The Dazmond Indigo 160",
+ "stripe_payment_link": "https://buy.stripe.com/bJe5kEbjmbGQ2Qe4ai1gD3E",
  "supplier": "Printful",
  "supplier_id": "355648860-denim-blue",
  "visual_verified": true

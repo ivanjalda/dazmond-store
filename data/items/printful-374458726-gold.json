@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Pom Pom Knit Cap",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Gold",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold silhouette defined by a vibrant gold tone. This knit pom pom beanie delivers sophisticated presence for cold weather days. Crafted on demand with meticulous attention to detail. Available with worldwide shipping. An essential piece to elevate any winter wardrobe with distinction.",
+ "desc_es": "Una silueta audaz definida por un tono dorado vibrante. Este gorro de punto con pompón ofrece una presencia sofisticada para los días de clima frío. Confeccionado bajo pedido con atención meticulosa al detalle. Disponible con envíos a todo el mundo. Una pieza esencial para elevar cualquier guardarropa de invierno con distinción.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/19f/19f42a9c23c8350878d2e6b7f5c993a9_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Sweater · Gold",
- "name_es": "Suéter Manhattan · Oro",
+ "name_en": "Pom Pom Knit Beanie",
+ "name_es": "Gorro de Punto con Pompón",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
  "rank": 238,
  "shipping_usd": 7.0,

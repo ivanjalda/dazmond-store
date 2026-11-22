@@ -25,6 +25,7 @@
  "name_en": "Hudson Piece",
  "name_es": "Pieza Hudson",
  "needs_review": true,
+ "page": true,
  "price_usd": 78.99,
  "rank": 490,
  "shipping_usd": 7.0,
@@ -51,6 +52,7 @@
   "5054712_15965"
  ],
  "source_title": "The Dazmond Aero-Shield 85",
+ "stripe_payment_link": "https://buy.stripe.com/bJe3cw7368uE9eC9uC1gE2h",
  "supplier": "Printful",
  "supplier_id": "355648669-maroon",
  "visual_verified": true

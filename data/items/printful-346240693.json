@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Flip-Flops",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An expression of relaxed elegance. These flip-flops combine minimalist design with sophisticated graphic details. Crafted to accompany moments of leisure with absolute refinement. Each piece is made to order to ensure absolute exclusivity. Available with worldwide shipping. A subtle style statement for the contemporary wardrobe.",
+ "desc_es": "Una expresión de elegancia relajada. Estas sandalias combinan un diseño minimalista con detalles gráficos sofisticados. Creadas para acompañar los momentos de descanso con refinamiento absoluto. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Disponibles con envíos a todo el mundo. Una declaración de estilo sutil para el guardarropa contemporáneo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/79a/79abff308c8b0628dc8669453f4f2880_preview.png"
  ],
@@ -25,9 +36,10 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Atelier Sandals · White",
- "name_es": "Sandalias Atelier · Blanco",
+ "name_en": "Gratitude Edition Flip-Flops",
+ "name_es": "Sandalias Gratitude Edition",
  "needs_review": false,
+ "page": true,
  "price_usd": 29.99,
  "rank": 31,
  "shipping_usd": 7.0,

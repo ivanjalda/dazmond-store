@@ -16,7 +16,7 @@
   "calzado-hombre/zuecos-hombre",
   "calzado-mujer/zuecos"
  ],
- "color": "",
+ "color": "white",
  "created": "2026-11-19",
  "desc_en": "Elevate your daily comfort with these uniquely designed clogs. Crafted with a lightweight EVA sole and an interior lined with ultra-soft fleece fur, they deliver exceptional insulation and sublime cushioning for every step. The upper features strategic ventilation holes to ensure optimal breathability, while the adjustable heel strap allows for impeccable styling versatility. Ideal for both indoor relaxation and outdoor wear. Each pair is made to order with worldwide shipping available.",
  "desc_es": "Eleve su confort diario con estos zuecos de diseño exclusivo. Confeccionados con una suela de EVA ligera y un interior forrado de suave pelo de vellón, ofrecen un aislamiento excepcional y una amortiguación sublime para cada paso. La parte superior incorpora orificios estratégicos para garantizar una transpirabilidad óptima, mientras que la correa ajustable en el talón permite una versatilidad de uso impecable. Ideales tanto para momentos de descanso en el interior como para trayectos al aire libre. Cada par se elabora bajo pedido y cuenta con envío a todo el mundo.",
@@ -36,6 +36,7 @@
  ],
  "draft": false,
  "fam": "zuecos-premium-blancos",
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos",
  "img_checked": "2026-11-20",
@@ -45,7 +46,7 @@
   "printful-365090873",
   "printful-353253137"
  ],
- "material": "",
+ "material": "EVA and fleece",
  "name_en": "Printed Fleece Lined Clogs",
  "name_es": "Zuecos Forrados Estampados Gatos",
  "needs_review": false,

@@ -1,15 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "beanie",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "color": "Navy",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential cold weather piece designed with clean lines and a structured silhouette. This model combines functionality and urban refinement. The deep navy tone brings sobriety and versatility to any seasonal ensemble. Each piece is crafted made to order in our workshops. We offer worldwide shipping to ensure maximum exclusivity and care in every delivery.",
+ "desc_es": "Una pieza esencial para climas fríos diseñada con líneas limpias y una silueta estructurada. Este modelo combina funcionalidad y refinamiento urbano. El tono marino profundo aporta sobriedad y versatilidad a cualquier conjunto de temporada. Cada pieza se elabora bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo para garantizar la máxima exclusividad y cuidado en cada entrega.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Elaborado bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/3e4/3e4b6a0de79881d23c2d849f3b00b522_preview.png"
  ],
@@ -19,14 +30,15 @@
  "id": "printful-374458726-navy",
  "look": [
   "printful-351492575-black",
-  "printful-361906822",
+  "printful-365090873",
   "printful-353253137",
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Riviera Sweater · Navy",
- "name_es": "Suéter Riviera · Azul Marino",
+ "name_en": "Navy Pom Pom Beanie",
+ "name_es": "Gorro Pom Pom Marino",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
  "rank": 240,
  "shipping_usd": 7.0,

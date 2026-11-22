@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "cotton",
  "ai_priority": true,
+ "ai_type": "joggers",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece in soft fleece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad en felpa suave se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A streamlined silhouette redefines contemporary comfort. Impeccable crafting in cotton fleece. Refined, minimalist aesthetic. Essential for sophisticated moments of leisure. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Una silueta depurada redefine el confort contemporáneo. Confección impecable en tejido fleece de algodón. Estética depurada y minimalista. Esencial para momentos de descanso sofisticado. Cada prenda se elabora bajo pedido con envíos disponibles a todo el mundo.",
+ "details_en": "· Cotton\n· Made to order",
+ "details_es": "· Algodón\n· Made to order",
  "display_images": [
   "https://files.cdn.printful.com/files/d7f/d7ff8986b7e3b3a837776a6893c4e0a5_preview.png"
  ],
@@ -24,9 +36,10 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Atelier Sweatshirt · White",
- "name_es": "Sudadera Atelier · Blanco",
+ "name_en": "Elite Lounge Fleece Joggers",
+ "name_es": "Pantalón Jogger Elite Lounge",
  "needs_review": false,
+ "page": true,
  "price_usd": 52.99,
  "rank": 137,
  "shipping_usd": 7.0,

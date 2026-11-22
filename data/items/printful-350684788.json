@@ -25,6 +25,7 @@
  "name_en": "Hudson Piece",
  "name_es": "Pieza Hudson",
  "needs_review": true,
+ "page": true,
  "price_usd": 23.99,
  "rank": 349,
  "shipping_usd": 7.0,
@@ -43,6 +44,7 @@
   "1686196_7292"
  ],
  "source_title": "DAZMOND® \"Polka Emerald\" Art Socks",
+ "stripe_payment_link": "https://buy.stripe.com/8x200k1IMeT22QegX41gE00",
  "supplier": "Printful",
  "supplier_id": "350684788",
  "visual_verified": true

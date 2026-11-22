@@ -25,6 +25,7 @@
  "name_en": "Monogram Piece",
  "name_es": "Pieza Monogram",
  "needs_review": true,
+ "page": true,
  "price_usd": 23.99,
  "rank": 347,
  "shipping_usd": 7.0,
@@ -43,6 +44,7 @@
   "2141381_7292"
  ],
  "source_title": "DAZMOND® \"Step into Art\" Crew Socks",
+ "stripe_payment_link": "https://buy.stripe.com/7sYaEY9be5is9eC22a1gD46",
  "supplier": "Printful",
  "supplier_id": "350684556",
  "visual_verified": true

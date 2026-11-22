@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Faded Eucalyptus",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Faded Eucalyptus",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Relaxed silhouette defined by precise volumes. An essential garment conceived with generous proportions. The faded tone brings depth to the structure. Crafted on demand with worldwide shipping available. Elegance rests in the simplicity of form. A refined proposal for the contemporary wardrobe.",
+ "desc_es": "Silueta relajada definida por volúmenes precisos. Una prenda esencial concebida con proporciones amplias. El tono lavado aporta profundidad a la estructura. Fabricado bajo demanda con disponibilidad de envío internacional. La elegancia descansa en la simplicidad de la forma. Una propuesta depurada para el guardarropa contemporáneo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b0f/b0fd8aeb261a69796a478f87bae27266_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Atelier Tee",
- "name_es": "Camiseta Atelier",
+ "name_en": "Heavy Oversized Faded T-Shirt",
+ "name_es": "Camiseta Oversize Faded Heavy",
  "needs_review": false,
+ "page": true,
  "price_usd": 50.99,
  "rank": 142,
  "shipping_usd": 7.0,

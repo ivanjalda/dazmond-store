@@ -27,6 +27,7 @@
  "name_en": "Soho Shirt · White",
  "name_es": "Camisa Soho · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 383,
  "shipping_usd": 7.0,
@@ -61,6 +62,7 @@
   "1411830_17126"
  ],
  "source_title": "DAZMond Royal Amethyst",
+ "stripe_payment_link": "https://buy.stripe.com/eVqeVe87ah1a1Ma4ai1gE0y",
  "supplier": "Printful",
  "supplier_id": "355736711",
  "visual_verified": true

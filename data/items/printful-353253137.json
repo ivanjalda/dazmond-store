@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "backpack",
+ "audited": "2026-11-22",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An imposing presence that redefines urban transit. The Silver Nebula backpack fuses an abstract design in white and grey tones with a structured silhouette. Each piece is crafted to order in our workshops. The all-over pattern evokes movement and depth, offering a versatile accessory for daily life. Available with worldwide shipping. Masterful craftsmanship meets contemporary functionality in this exclusive creation.",
+ "desc_es": "Una presencia imponente que redefine el desplazamiento urbano. La mochila Silver Nebula fusiona un diseño abstracto en tonos blancos y grises con una silueta estructurada. Cada pieza se confecciona bajo pedido en nuestros talleres. El patrón integral evoca movimiento y profundidad, ofreciendo un accesorio versátil para el día a día. Disponible con envío a todo el mundo. La maestría artesanal se encuentra con la funcionalidad contemporánea en esta creación exclusiva.",
+ "details_en": "· All-over print design\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Diseño estampado integral\n· Confección bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b8b/b8b20cfbb5ebaefcc501fede706cce38_preview.png"
  ],
@@ -25,9 +37,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Madison Bag · White",
- "name_es": "Bolso Madison · Blanco",
+ "name_en": "Silver Nebula Backpack",
+ "name_es": "Mochila Silver Nebula",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 14,
  "shipping_usd": 7.0,

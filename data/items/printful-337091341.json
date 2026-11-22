@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Classic rainbow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Oversize Tee",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Classic rainbow",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Abstract Canyon oversize tee defines a bold presence through its vibrant color palette. Designed with generous volume, it offers an imposing and relaxed silhouette that prioritizes comfort without sacrificing sophistication. Each piece is crafted on demand to ensure absolute exclusivity. Available for worldwide shipping, this garment represents modernity at its finest.",
+ "desc_es": "La camiseta oversize Abstract Canyon define una presencia audaz a través de su vibrante paleta de colores. Diseñada con un volumen generoso, ofrece una silueta imponente y relajada que prioriza la comodidad sin sacrificar la sofisticación. Cada pieza se elabora bajo pedido para asegurar una exclusividad absoluta. Disponible para envío a todo el mundo, esta prenda representa la modernidad en su máxima expresión.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/639/63934ce95d4c11a51bfdb294c601427d_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Atelier Tee",
- "name_es": "Camiseta Atelier",
+ "name_en": "Abstract Canyon Oversize Tee",
+ "name_es": "Camiseta Oversize Abstract Canyon",
  "needs_review": false,
+ "page": true,
  "price_usd": 38.99,
  "rank": 216,
  "shipping_usd": 7.0,

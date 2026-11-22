@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Navy / White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Navy / White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A visual exploration of infinity. This oversized silhouette redefines relaxed luxury with an abstract tie-dye pattern in deep marine and crisp white tones. Its commanding presence brings depth and texture to any contemporary wardrobe. Each piece is crafted made to order in our workshops. We offer worldwide shipping to satisfy the demands of our clientele.",
+ "desc_es": "Una exploracion visual del infinito. Esta silueta oversize redefine el lujo relajado con un estampado tie-dye abstracto en tonos marinos y albos. Su presencia imponente aporta profundidad y textura a cualquier guardarropa contemporaneo. Cada pieza se elabora bajo demanda en nuestros talleres. Ofrecemos envios a todo el mundo para satisfacer las exigencias de nuestros clientes.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envios a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/696/696705f545f976f4ba47e1c7d9a85cee_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Hudson Tee · White",
- "name_es": "Camiseta Hudson · Blanco",
+ "name_en": "Cosmic Nebula Oversize Tee",
+ "name_es": "Camiseta Oversize Cosmic Nebula",
  "needs_review": false,
+ "page": true,
  "price_usd": 38.99,
  "rank": 232,
  "shipping_usd": 7.0,

@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Camel",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "beanie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Camel",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Clean silhouette. Refined presence. This beanie defines the season with discretion. Pure lines for urban cold. Made to order with worldwide shipping. Every detail responds to a purified vision of contemporary luxury. An essential piece to complete demanding outfits with absolute naturalness.",
+ "desc_es": "Silueta limpia. Presencia refinada. Este gorro define la temporada con discreción. Líneas puras para el frío urbano. Confección bajo demanda con envíos a todo el mundo. Cada detalle responde a una visión depurada del lujo contemporáneo. Una pieza esencial para completar conjuntos exigentes con absoluta naturalidad.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho a medida\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/a55/a55b96d00ea797f69f541ff4ffdf5cdb_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Soho Hat · Camel",
- "name_es": "Gorro Soho · Camel",
+ "name_en": "Camel Honeycomb Beanie",
+ "name_es": "Gorro Honeycomb Camel",
  "needs_review": false,
+ "page": true,
  "price_usd": 32.99,
  "rank": 138,
  "shipping_usd": 7.0,

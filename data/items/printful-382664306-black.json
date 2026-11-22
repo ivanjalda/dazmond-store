@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "sweatshirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette in deep black. Defined by understated elegance and a magnetic presence. Crafted to order to ensure absolute exclusivity. The minimalist design offers seamless versatility. The dark hue absorbs light with subtlety. An essential basic that redefines modern luxury. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada en negro profundo. Definida por una elegancia sobria y una presencia magnética. Confeccionada bajo demanda para asegurar una exclusividad absoluta. Su diseño minimalista ofrece una versatilidad impecable. El tono oscuro absorbe la luz con sutileza. Un básico esencial que redefine el lujo moderno. Disponible con envío a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Pieza confeccionada bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/934/9344933202a5296dd01bc827d7175213_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Madison Sweatshirt · Black",
- "name_es": "Sudadera Madison · Negro",
+ "name_en": "DAZ Premium Black Sweatshirt",
+ "name_es": "Sudadera DAZ Premium Negra",
  "needs_review": false,
+ "page": true,
  "price_usd": 44.99,
  "rank": 250,
  "shipping_usd": 7.0,

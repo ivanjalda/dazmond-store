@@ -1,15 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Dark Heather Grey/ Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "beanie",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "color": "Dark Heather Grey/ Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A statement of modern elegance for cold days. This pom pom beanie combines a structured design with a versatile silhouette. Designed for the contemporary wardrobe. Each piece is made to order in the United States. We offer worldwide shipping for your convenience. A sober silhouette that defines urban luxury with absolute discretion.",
+ "desc_es": "Una declaración de elegancia moderna para los días fríos. Este gorro con pompón combina un diseño estructurado con una silueta versátil. Pensado para el guardarropa contemporáneo. Cada pieza se elabora bajo pedido en Estados Unidos. Ofrecemos envíos a todo el mundo para su comodidad. Una silueta sobria que define el lujo urbano con total discreción.",
+ "details_en": "· Made to order in the United States\n· Available with worldwide shipping",
+ "details_es": "· Elaborado bajo pedido en Estados Unidos\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/2c8/2c84814b2d30fe29b34a2d097d1d6d27_preview.png"
  ],
@@ -19,14 +30,15 @@
  "id": "printful-374458726-dark-heather-grey-black",
  "look": [
   "printful-351492575-black",
-  "printful-361906822",
+  "printful-365090873",
   "printful-353253137",
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Sweater · Black",
- "name_es": "Suéter Manhattan · Negro",
+ "name_en": "Dark Heather Pom Pom Beanie",
+ "name_es": "Gorro con Pompón Dark Heather",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
  "rank": 235,
  "shipping_usd": 7.0,

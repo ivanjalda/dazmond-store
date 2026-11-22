@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "sweatshirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined silhouette redefining everyday luxury. Defined by essential lines and an impeccable presence. Crafted on demand to ensure absolute exclusivity. The white canvas absorbs light with purity. Tailored for the contemporary wardrobe demanding silent distinction. Available with worldwide shipping. A timeless piece transcending seasons. Simplicity elevated to its highest expression.",
+ "desc_es": "Una silueta depurada que redefine el lujo cotidiano. Definida por líneas esenciales y una presencia impecable. Creada bajo demanda para garantizar una exclusividad absoluta. El lienzo blanco absorbe la luz con pureza. Confeccionada para el guardarropa contemporáneo que exige distinción silenciosa. Disponible con envíos a todo el mundo. Una pieza atemporal que trasciende las temporadas. La simplicidad elevada a su máxima expresión.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/cb3/cb3a480879f00ddec3ee4803269edaaa_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Noir Sweatshirt · White",
- "name_es": "Sudadera Noir · Blanco",
+ "name_en": "DAZ Premium Crewneck Sweatshirt",
+ "name_es": "Sudadera DAZ Premium de Cuello Redondo",
  "needs_review": false,
+ "page": true,
  "price_usd": 44.99,
  "rank": 245,
  "shipping_usd": 7.0,

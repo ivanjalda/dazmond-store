@@ -27,6 +27,7 @@
  "name_en": "Avenue Shirt · White",
  "name_es": "Camisa Avenue · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 380,
  "shipping_usd": 7.0,
@@ -61,6 +62,7 @@
   "9681829_17126"
  ],
  "source_title": "The Dazmond Azure Aero-Luxe 100",
+ "stripe_payment_link": "https://buy.stripe.com/8x2aEYafi9yI3Ui9uC1gE0v",
  "supplier": "Printful",
  "supplier_id": "355672832",
  "visual_verified": true

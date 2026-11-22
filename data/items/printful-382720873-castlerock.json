@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Castlerock",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "backpack",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Castlerock",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A streamlined silhouette designed for daily movement. Crafted with precision to accompany the contemporary nomad. Each piece is made exclusively to order in our ateliers. Refined design meets uncompromising functionality. A statement of understated style and absolute versatility. Available for worldwide shipping.",
+ "desc_es": "Una silueta depurada diseñada para el movimiento diario. Confeccionada con precisión para acompañar al nómada contemporáneo. Cada pieza se elabora exclusivamente bajo pedido en nuestros talleres. El diseño refinado se une a la funcionalidad sin concesiones. Una declaración de estilo sobrio y versatilidad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made exclusively to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido exclusivamente\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/2d8/2d8e2b9184759e5196b4f2c4b0709129_preview.png"
  ],
@@ -25,9 +36,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Riviera Bag",
- "name_es": "Bolso Riviera",
+ "name_en": "Castlerock Structured Backpack",
+ "name_es": "Mochila Estructurada Castlerock",
  "needs_review": false,
+ "page": true,
  "price_usd": 94.99,
  "rank": 33,
  "shipping_usd": 7.0,

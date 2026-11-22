@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Faded Eucalyptus",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Faded Eucalyptus",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A statement of intent in modern simplicity. This oversized silhouette redefines volume with an impeccable drape and a commanding presence. Crafted with care for the everyday. Each piece is made to order ensuring absolute exclusivity. Available for worldwide shipping. The faded hue introduces a unique visual texture that evolves with wear. An essential garment for those who understand luxury as a natural extension of their identity.",
+ "desc_es": "Una declaración de intención en la simplicidad moderna. Esta silueta oversize redefine el volumen con una caída impecable y una presencia rotunda. Confeccionada con esmero para el día a día. Cada pieza se elabora bajo pedido garantizando una exclusividad absoluta. Disponible para envío a todo el mundo. El tono desgastado aporta una textura visual única que evoluciona con el uso. Una prenda esencial para quienes entienden el lujo como una extensión natural de su identidad.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/489/489b19a33a5cf79419cbe29419df0c95_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Noir Tee",
- "name_es": "Camiseta Noir",
+ "name_en": "Timeless Essence Oversize Tee",
+ "name_es": "Camiseta Oversize Timeless Essence",
  "needs_review": false,
+ "page": true,
  "price_usd": 50.99,
  "rank": 134,
  "shipping_usd": 7.0,

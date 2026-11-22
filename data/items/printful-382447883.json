@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton Twill",
  "ai_priority": true,
+ "ai_type": "cap",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Define your everyday style with this essential piece from DAZMOND & Co. Crafted from premium cotton twill, this classic silhouette features a distinctive vintage finish. Each piece is made to order to ensure ultimate exclusivity. The six-panel design delivers an impeccable structure and superior comfort. A subtle statement of modern sophistication. Available with worldwide shipping.",
+ "desc_es": "Defina su estilo cotidiano con esta pieza esencial de DAZMOND & Co. Confeccionada con sarga de algodón de alta calidad, esta silueta clásica presenta un acabado vintage distintivo. Cada pieza es elaborada bajo pedido para garantizar la máxima exclusividad. El diseño de seis paneles ofrece una estructura impecable y un confort superior. Una declaración sutil de sofisticación moderna. Disponible con envío a todo el mundo.",
+ "details_en": "· Cotton twill\n· 6 panel construction\n· Made to order",
+ "details_es": "· Sarga de algodón\n· Diseño de 6 paneles\n· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/535/535f44a57c6787eb653d1ea4ac7ac3a1_preview.png"
  ],
@@ -24,9 +36,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Noir Hat · Black",
- "name_es": "Gorro Noir · Negro",
+ "name_en": "Vintage Cotton Twill Cap",
+ "name_es": "Gorra Vintage de Sarga de Algodón",
  "needs_review": false,
+ "page": true,
  "price_usd": 32.99,
  "rank": 148,
  "shipping_usd": 7.0,

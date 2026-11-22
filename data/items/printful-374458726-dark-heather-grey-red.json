@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Dark Heather Grey/Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Pom Pom Knit Cap",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "Dark Heather Grey/ Red",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An expression of understated elegance and warmth. This knit beanie combines subdued tones with a structured design. Each piece is crafted exclusively to order in our ateliers. The silhouette offers a comfortable and refined fit for colder days. Available with worldwide shipping for the contemporary wardrobe.",
+ "desc_es": "Una expresión de elegancia discreta y calidez. Este gorro de punto combina tonos sobrios con un diseño estructurado. Cada pieza se confecciona exclusivamente bajo pedido en nuestros talleres. La silueta ofrece un ajuste cómodo y refinado para los días más fríos. Disponible con envío a todo el mundo para el guardarropa contemporáneo.",
+ "details_en": "· Made exclusively to order.\n· Worldwide shipping available.",
+ "details_es": "· Hecho a pedido exclusivamente.\n· Envío mundial disponible.",
  "display_images": [
   "https://files.cdn.printful.com/files/cbe/cbe0164a9e8d560bc849b40e2978e697_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Atelier Sweater · Grey",
- "name_es": "Suéter Atelier · Gris",
+ "name_en": "Pom Pom Knit Beanie",
+ "name_es": "Gorro de Punto con Pom",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
  "rank": 237,
  "shipping_usd": 7.0,

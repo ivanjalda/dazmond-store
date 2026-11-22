@@ -25,6 +25,7 @@
  "name_en": "Imperial Piece",
  "name_es": "Pieza Imperial",
  "needs_review": true,
+ "page": true,
  "price_usd": 23.99,
  "rank": 353,
  "shipping_usd": 7.0,
@@ -43,6 +44,7 @@
   "1096137_7292"
  ],
  "source_title": "DAZMOND® \"Zesty Lemon\" Art Premium Socks",
+ "stripe_payment_link": "https://buy.stripe.com/4gM7sM87aeT2aiGdKS1gE04",
  "supplier": "Printful",
  "supplier_id": "350685758",
  "visual_verified": true

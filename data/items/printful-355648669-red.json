@@ -25,6 +25,7 @@
  "name_en": "Avenue Piece · Red",
  "name_es": "Pieza Avenue · Rojo",
  "needs_review": true,
+ "page": true,
  "price_usd": 78.99,
  "rank": 491,
  "shipping_usd": 7.0,
@@ -51,6 +52,7 @@
   "5054712_15972"
  ],
  "source_title": "The Dazmond Aero-Shield 85",
+ "stripe_payment_link": "https://buy.stripe.com/3cIdRa9bebGQ1MagX41gE2i",
  "supplier": "Printful",
  "supplier_id": "355648669-red",
  "visual_verified": true

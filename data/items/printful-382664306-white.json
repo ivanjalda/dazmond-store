@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "sweatshirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette redefining casual elegance. Pure white meets minimalist design. Crafted with precision on demand. Designed for the contemporary wardrobe. Available with worldwide shipping. An essential piece defined by clean lines.",
+ "desc_es": "Una silueta depurada que redefine la elegancia casual. El blanco puro se une a un diseño minimalista. Confeccionada con precisión bajo demanda. Pensada para el guardarropa contemporáneo. Disponible con envío internacional. Una pieza esencial de líneas limpias.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/2e2/2e250a3314d9e5456237b0d3bc76e1a8_preview.png"
  ],
@@ -24,9 +35,10 @@
   "printful-353253137"
  ],
  "material": "",
- "name_en": "Soho Sweatshirt · White",
- "name_es": "Sudadera Soho · Blanco",
+ "name_en": "DAZ Premium White Sweatshirt",
+ "name_es": "Sudadera DAZ Premium Blanca",
  "needs_review": false,
+ "page": true,
  "price_usd": 44.99,
  "rank": 253,
  "shipping_usd": 7.0,
@@ -51,6 +63,7 @@
   "7529656_22485"
  ],
  "source_title": "Sudadera DAZ Premium",
+ "stripe_payment_link": "https://buy.stripe.com/fZu00k0EI12c1Ma7mu1gD2A",
  "supplier": "Printful",
  "supplier_id": "382664306-white",
  "visual_verified": true

@@ -25,6 +25,7 @@
  "name_en": "Monogram Piece · Red",
  "name_es": "Pieza Monogram · Rojo",
  "needs_review": true,
+ "page": true,
  "price_usd": 36.99,
  "rank": 320,
  "shipping_usd": 7.0,
@@ -47,6 +48,7 @@
   "9170034_11982"
  ],
  "source_title": "The Dazmond Indigo 160",
+ "stripe_payment_link": "https://buy.stripe.com/28EfZi5Z2dOYgH4cGO1gD3F",
  "supplier": "Printful",
  "supplier_id": "355648860-garnet-red",
  "visual_verified": true

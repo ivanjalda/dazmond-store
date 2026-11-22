@@ -22,6 +22,7 @@
  "name_en": "Soho Art Print",
  "name_es": "Lámina Soho",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 473,
  "shipping_usd": 7.0,
@@ -46,6 +47,7 @@
   "1996677_22986"
  ],
  "source_title": "Sudadera DAZMond Luxury con capucha gruesa oversize",
+ "stripe_payment_link": "https://buy.stripe.com/9B6aEY3QUcKU2Qe7mu1gE20",
  "supplier": "Printful",
  "supplier_id": "397239673-maroon",
  "visual_verified": true

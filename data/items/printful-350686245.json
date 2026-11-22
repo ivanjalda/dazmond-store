@@ -25,6 +25,7 @@
  "name_en": "Noir Piece",
  "name_es": "Pieza Noir",
  "needs_review": true,
+ "page": true,
  "price_usd": 23.99,
  "rank": 354,
  "shipping_usd": 7.0,
@@ -43,6 +44,7 @@
   "4641359_7292"
  ],
  "source_title": "DAZMOND® \"Emerald Lights\" Art Premium Socks",
+ "stripe_payment_link": "https://buy.stripe.com/9B6eVe3QU26g4YmfT01gE05",
  "supplier": "Printful",
  "supplier_id": "350686245",
  "visual_verified": true

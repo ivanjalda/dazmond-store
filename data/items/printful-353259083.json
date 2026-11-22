@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "backpack",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +17,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A bold presence for everyday wear. This backpack features an all-over print that commands the silhouette with character. Graphic lines define an urban and direct aesthetic. The design balances functionality with a strong visual identity. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Una presencia audaz para el día a día. Esta mochila presenta un estampado integral que domina la silueta con carácter. Las líneas gráficas definen una estética urbana y directa. El diseño equilibra la funcionalidad con una fuerte identidad visual. Cada pieza se confecciona bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/14d/14d8f3f088c2fe03a2685b9432e900c7_preview.png"
  ],
@@ -25,9 +36,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Bag · White",
- "name_es": "Bolso Avenue · Blanco",
+ "name_en": "Passion Script Love Backpack",
+ "name_es": "Mochila Passion Script Love",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 22,
  "shipping_usd": 7.0,

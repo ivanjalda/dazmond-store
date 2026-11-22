@@ -27,6 +27,7 @@
  "name_en": "Soho Shirt · White",
  "name_es": "Camisa Soho · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 373,
  "shipping_usd": 7.0,
@@ -61,6 +62,7 @@
   "6462795_17126"
  ],
  "source_title": "The Dazmond Aero-Luxe 100",
+ "stripe_payment_link": "https://buy.stripe.com/4gMeVedrucKU62q9uC1gE0o",
  "supplier": "Printful",
  "supplier_id": "355670856",
  "visual_verified": true

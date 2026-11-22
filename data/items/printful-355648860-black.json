@@ -25,6 +25,7 @@
  "name_en": "Riviera Piece · Black",
  "name_es": "Pieza Riviera · Negro",
  "needs_review": true,
+ "page": true,
  "price_usd": 36.99,
  "rank": 317,
  "shipping_usd": 7.0,
@@ -47,6 +48,7 @@
   "9170034_11967"
  ],
  "source_title": "The Dazmond Indigo 160",
+ "stripe_payment_link": "https://buy.stripe.com/6oU28sdru12cduS7mu1gD3C",
  "supplier": "Printful",
  "supplier_id": "355648860-black",
  "visual_verified": true

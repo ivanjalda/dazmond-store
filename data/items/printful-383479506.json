@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Knit",
  "ai_priority": true,
+ "ai_type": "Sweater",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Custom",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential knitted garment defined by its relaxed silhouette. The design features a classic crew neck with contrasting ribbed finishes on the collar, cuffs, and hem. Crafted with attention to detail, this sweater combines comfort and modern sophistication for the everyday wardrobe. Available made to order with worldwide shipping.",
+ "desc_es": "Una prenda de punto esencial definida por su silueta relajada. El diseño presenta un cuello redondo clásico con acabados acanalados contrastantes en el cuello, los puños y el dobladillo. Confeccionado con atención al detalle, este jersey combina comodidad y sofisticación moderna para el fondo de armario diario. Disponible bajo pedido con envío a todo el mundo.",
+ "details_en": "· Relaxed fit\n· Crew neck\n· Knitted fabric\n· Contrasting ribbed finishes\n· Made to order",
+ "details_es": "· Corte relajado\n· Cuello redondo\n· Tejido de punto\n· Acabados acanalados en contraste\n· Hecho a medida",
  "display_images": [
   "https://files.cdn.printful.com/files/6dc/6dc7f7df255aa44efa15598acb2925ef_preview.png",
   "https://files.cdn.printful.com/files/2c2/2c257269f5a2f7a5177289012b1c1dfb_preview.png",
@@ -31,9 +43,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Sweater · Red",
- "name_es": "Suéter Avenue · Rojo",
+ "name_en": "Relaxed Fit Knitted Sweater",
+ "name_es": "Jersey de Punto Relaxed Fit",
  "needs_review": false,
+ "page": true,
  "price_usd": 80.99,
  "rank": 254,
  "shipping_usd": 7.0,
@@ -64,6 +77,7 @@
   "1399222_22452"
  ],
  "source_title": "Jersey holgado de punto DAZ Luxury con cuello redondo",
+ "stripe_payment_link": "https://buy.stripe.com/eVqbJ23QUbGQaiGgX41gD2B",
  "supplier": "Printful",
  "supplier_id": "383479506",
  "visual_verified": true

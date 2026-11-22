@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Backpack",
+ "audited": "2026-11-22",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A bold silhouette for urban exploration. Defined by a white and grey camouflage pattern, this piece unites functionality and contemporary design. Precision-crafted for constant movement. Every element reflects a modern, refined aesthetic. Available made-to-order with worldwide shipping.",
+ "desc_es": "Una silueta audaz para la exploración urbana. Definida por un patrón de camuflaje en tonos blancos y grises, esta pieza combina funcionalidad y diseño contemporáneo. Creada con precisión para el movimiento constante. Cada elemento refleja una estética moderna y depurada. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e72/e7229b7919322ae93e0220533627a1dc_preview.png"
  ],
@@ -25,9 +37,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Hudson Bag · White",
- "name_es": "Bolso Hudson · Blanco",
+ "name_en": "Urban Camo Art Backpack",
+ "name_es": "Mochila Urban Camo Art",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 18,
  "shipping_usd": 7.0,

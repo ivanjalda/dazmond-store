@@ -25,6 +25,7 @@
  "name_en": "Monogram Piece",
  "name_es": "Pieza Monogram",
  "needs_review": true,
+ "page": true,
  "price_usd": 23.99,
  "rank": 351,
  "shipping_usd": 7.0,
@@ -43,6 +44,7 @@
   "7864611_7292"
  ],
  "source_title": "DAZMOND® \"Mosaic Masterpiece\" Art Premium",
+ "stripe_payment_link": "https://buy.stripe.com/6oUbJ2bjmh1afD09uC1gE02",
  "supplier": "Printful",
  "supplier_id": "350685519",
  "visual_verified": true

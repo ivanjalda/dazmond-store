@@ -25,6 +25,7 @@
  "name_en": "Madison Tee · White",
  "name_es": "Camiseta Madison · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 42.99,
  "rank": 486,
  "shipping_usd": 7.0,
@@ -49,6 +50,7 @@
   "1827469_8855"
  ],
  "source_title": "The Dazmond Azure Flux",
+ "stripe_payment_link": "https://buy.stripe.com/8x28wQevybGQ3Ui36e1gE2d",
  "supplier": "Printful",
  "supplier_id": "355274608",
  "visual_verified": true

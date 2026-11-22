@@ -25,6 +25,7 @@
  "name_en": "Riviera Piece",
  "name_es": "Pieza Riviera",
  "needs_review": true,
+ "page": true,
  "price_usd": 23.99,
  "rank": 350,
  "shipping_usd": 7.0,
@@ -43,6 +44,7 @@
   "8351412_7292"
  ],
  "source_title": "DAZMOND® \"Celestial Equine\" Premium Socks",
+ "stripe_payment_link": "https://buy.stripe.com/eVq8wQdru8uEeyWbCK1gE01",
  "supplier": "Printful",
  "supplier_id": "350685348",
  "visual_verified": true

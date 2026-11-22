@@ -27,6 +27,7 @@
  "name_en": "Riviera Swimwear · White",
  "name_es": "Bañador Riviera · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 49.99,
  "rank": 270,
  "shipping_usd": 7.0,
@@ -53,6 +54,7 @@
   "7246124_9020"
  ],
  "source_title": "DAZMOND® \"COPPER VORTEX\" – Avant-Garde Edition",
+ "stripe_payment_link": "https://buy.stripe.com/dRm7sMevydOYcqOfT01gD2R",
  "supplier": "Printful",
  "supplier_id": "351054571",
  "visual_verified": true

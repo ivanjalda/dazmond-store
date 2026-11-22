@@ -27,6 +27,7 @@
  "name_en": "Hudson Shirt · White",
  "name_es": "Camisa Hudson · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 64.99,
  "rank": 376,
  "shipping_usd": 7.0,
@@ -61,6 +62,7 @@
   "8992806_17126"
  ],
  "source_title": "The Dazmond Rose Aero-Luxe 100",
+ "stripe_payment_link": "https://buy.stripe.com/00w00kafifX676u0Y61gE0r",
  "supplier": "Printful",
  "supplier_id": "355671683",
  "visual_verified": true

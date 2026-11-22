@@ -34,6 +34,7 @@
  "name_en": "Soho Sweater",
  "name_es": "Suéter Soho",
  "needs_review": false,
+ "page": true,
  "price_usd": 84.99,
  "rank": 334,
  "shipping_usd": 7.0,
@@ -62,6 +63,7 @@
   "6287824_21037"
  ],
  "source_title": "Cárdigan de punto DAZ Luxury",
+ "stripe_payment_link": "https://buy.stripe.com/28E6oI736fX6duS0Y61gD3T",
  "supplier": "Printful",
  "supplier_id": "382667910",
  "visual_verified": true

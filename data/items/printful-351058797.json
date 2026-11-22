@@ -27,6 +27,7 @@
  "name_en": "Manhattan Swimwear · White",
  "name_es": "Bañador Manhattan · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 49.99,
  "rank": 282,
  "shipping_usd": 7.0,
@@ -53,6 +54,7 @@
   "2911383_9020"
  ],
  "source_title": "DAZMOND® \"Golden Links\" One-Piece Swimsuit",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ8wQ0EI26ggH47mu1gD33",
  "supplier": "Printful",
  "supplier_id": "351058797",
  "visual_verified": true

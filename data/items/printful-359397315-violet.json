@@ -17,14 +17,15 @@
  "id": "printful-359397315-violet",
  "look": [
   "printful-353393584",
+  "printful-379237645",
   "printful-338164153",
-  "printful-351973407",
-  "printful-350906743"
+  "printful-351973407"
  ],
  "material": "",
  "name_en": "Atelier Tee",
  "name_es": "Camiseta Atelier",
  "needs_review": false,
+ "page": true,
  "price_usd": 41.99,
  "rank": 404,
  "shipping_usd": 7.0,
@@ -49,6 +50,7 @@
   "6402851_19452"
  ],
  "source_title": "Camiseta gruesa DAZ Luxury teñida de manga larga para mujer",
+ "stripe_payment_link": "https://buy.stripe.com/14A28s5Z2dOY2Qe6iq1gE0T",
  "supplier": "Printful",
  "supplier_id": "359397315-violet",
  "visual_verified": true
