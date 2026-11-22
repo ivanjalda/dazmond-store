@@ -65,8 +65,12 @@ def save_json(name, obj):
         f.write("\n")
 
 
+RUNLOG = []  # lo que pasa en esta hora, para el Panel del dueño
+
+
 def log(msg):
     print(f"[motor] {msg}", flush=True)
+    RUNLOG.append(str(msg)[:400])
 
 
 def slug(text):
@@ -320,10 +324,11 @@ def printify_shipping(bp, pp):
     return SHIP_CACHE[key]
 
 
-def printful_shipping(variant_id, cache):
-    """Envío real de Printful (tarifa estándar) a EE. UU. y a España, guardado 7 días."""
+def printful_shipping(variant_id, cache, catalog_pid=None):
+    """Envío real de Printful (tarifa estándar) a EE. UU. y a España, guardado 7 días (uno por modelo de prenda)."""
     rates = cache.setdefault("printful_shipping", {})
-    hit = rates.get(str(variant_id))
+    key = f"p{catalog_pid}" if catalog_pid else str(variant_id)
+    hit = rates.get(key)
     if hit and hit.get("date", "") >= (NOW - timedelta(days=7)).strftime("%Y-%m-%d"):
         return hit["us"], hit["worst"]
     out = {}
@@ -338,7 +343,7 @@ def printful_shipping(variant_id, cache):
             out[cc] = None
     us = out.get("US") or 7.0
     worst = max(us, out.get("ES") or us)
-    rates[str(variant_id)] = {"us": us, "worst": worst, "date": TODAY}
+    rates[key] = {"us": us, "worst": worst, "date": TODAY}
     return us, worst
 
 
@@ -455,16 +460,21 @@ def read_printify():
 def read_printful():
     """Lee tu tienda de Printful. Vale para los dos tipos de tienda:
     - tienda "API / pedidos manuales" → /store/products
-    - tienda conectada a Shopify, Etsy... → /sync/products (es la tuya)"""
+    - tienda conectada a Shopify, Etsy... → /sync/products (es la tuya)
+    Para no tardar horas: cada producto se relee una vez al día, el coste se pide una vez por modelo de prenda
+    y cada hora trabaja como mucho unos minutos; lo que falte lo termina en la hora siguiente."""
     if not env("PRINTFUL_TOKEN"):
         return []
     cache = load_json("supplier_cache.json", {})
     costs = cache.setdefault("printful_costs", {})
-    rows = []
+    done = cache.setdefault("printful_rows", {})  # id de producto -> {"date", "rows"}
+    budget = time.time() + 60 * float(load_json("config.json", {}).get("printful", {}).get("minutes_per_run", 7))
+    rows, complete, pending, fresh = [], True, 0, 0
+    yesterday = (NOW - timedelta(days=1)).strftime("%Y-%m-%d")
     try:
-        offset = 0
+        offset, listed = 0, []
         base = cache.get("printful_endpoint") or "/store/products"
-        while offset < 2000:
+        while offset < 3000:
             try:
                 lst = printful(f"{base}?limit=100&offset={offset}")
             except Exception as e:
@@ -475,60 +485,111 @@ def read_printful():
                     raise
             cache["printful_endpoint"] = base
             items = lst.get("result", [])
-            for it in items:
-                det = printful(f"{base}/{it['id']}").get("result", {})
-                sp = det.get("sync_product", {})
-                vs = [v for v in det.get("sync_variants", []) if not v.get("is_ignored")
-                      and str(v.get("availability_status", "active")).lower() not in ("discontinued", "out_of_stock")]
-                for v in vs:  # en las tiendas conectadas el color y la talla vienen en el nombre: "Camiseta - Negro / M"
-                    if not v.get("color") and not v.get("size") and " / " in str(v.get("name", "")):
-                        tail = str(v["name"]).rsplit(" - ", 1)[-1]
-                        bits = [b.strip() for b in tail.split(" / ")]
-                        v["color"], v["size"] = (bits[0], bits[-1]) if len(bits) >= 2 else ("", bits[0])
-                groups = _split_by_color(vs, lambda v: v.get("color") or "", lambda v: v.get("size") or "")
-                for color, gv in groups.items():
-                    sizes, vmap, imgs, cost = [], {}, [], None
-                    for v in gv:
-                        s = v.get("size") or "unica"
-                        if s not in vmap:
-                            sizes.append(s)
-                            vmap[s] = v["id"]
-                        for fl in v.get("files", []):
-                            if fl.get("type") == "preview" and fl.get("preview_url") and fl["preview_url"] not in imgs:
-                                imgs.append(fl["preview_url"])
-                        cid = str(v.get("variant_id"))
-                        if cid not in costs:
-                            try:
-                                costs[cid] = float(printful(f"/products/variant/{cid}")["result"]["variant"]["price"])
-                                time.sleep(0.6)
-                            except Exception:
-                                costs[cid] = 0
-                        c = costs.get(cid) or 0
-                        cost = c if cost is None else max(cost, c)
-                    if not imgs and sp.get("thumbnail_url"):
-                        imgs.append(sp["thumbnail_url"])
-                    rows.append({
-                        "supplier": "Printful",
-                        "supplier_id": f"{sp.get('id')}-{slug(color)}" if color and len(groups) > 1 else str(sp.get("id")),
-                        "supplier_product_id": str(sp.get("id")),
-                        "title": sp.get("name", ""), "type": (gv[0].get("product") or {}).get("name", ""),
-                        "gender": "", "color": color, "material": "",
-                        "cost_usd": str(cost or 0),
-                        "shipping_usd": str(printful_shipping(gv[0].get("variant_id"), cache)[0]),
-                        "shipping_worst_usd": str(printful_shipping(gv[0].get("variant_id"), cache)[1]),
-                        "sizes": "|".join(sizes[:30]), "images": "|".join(imgs[:8]),
-                        "variant_map": vmap, "description": "", "skus": [v.get("sku", "") for v in gv if v.get("sku")],
-                    })
-                time.sleep(0.6)
+            listed += items
             if len(items) < 100:
                 break
             offset += 100
+        alive = {str(it["id"]) for it in listed}
+        for k in list(done):
+            if k not in alive:
+                done.pop(k)  # ya no está en Printful
+        # primero los que nunca se han leído, luego los más antiguos
+        listed.sort(key=lambda it: (done.get(str(it["id"]), {}).get("date", "")))
+        for it in listed:
+            key = str(it["id"])
+            old = done.get(key)
+            if old and old.get("date", "") >= yesterday:
+                rows += old["rows"]
+                continue
+            if time.time() > budget:
+                if old:
+                    rows += old["rows"]  # se usa lo de ayer hasta releerlo
+                else:
+                    complete, pending = False, pending + 1
+                continue
+            try:
+                got = _printful_product(base, it["id"], costs, cache)
+            except Exception as e:
+                if old:
+                    rows += old["rows"]
+                else:
+                    complete, pending = False, pending + 1
+                log(f"Printful: no pude leer el producto {key}: {str(e)[:120]}")
+                continue
+            done[key] = {"date": TODAY, "rows": got}
+            rows += got
+            fresh += 1
         save_json("supplier_cache.json", cache)
-        API_OK["Printful"] = True
-        log(f"Printful: {len(rows)} piezas leídas")
+        API_OK["Printful"] = complete  # solo con la lista completa se archiva lo que falte
+        log(f"Printful: {len(rows)} piezas ({fresh} actualizadas ahora"
+            + (f", {pending} productos pendientes para la próxima hora)" if pending else ")"))
     except Exception as e:
+        save_json("supplier_cache.json", cache)
         log(f"Printful no disponible hoy: {str(e)[:200]}")
     return rows
+
+
+def _printful_cost(cid, catalog_pid, costs):
+    """Coste de fábrica. Una sola llamada trae el precio de todas las tallas y colores de ese modelo."""
+    if cid in costs:
+        return costs[cid]
+    if catalog_pid and f"p{catalog_pid}" not in costs:
+        try:
+            res = printful(f"/products/{catalog_pid}").get("result", {})
+            for cv in res.get("variants", []):
+                costs[str(cv.get("id"))] = float(cv.get("price") or 0)
+        except Exception:
+            pass
+        costs[f"p{catalog_pid}"] = 1
+        time.sleep(0.5)
+    if cid not in costs:
+        try:
+            costs[cid] = float(printful(f"/products/variant/{cid}")["result"]["variant"]["price"])
+        except Exception:
+            costs[cid] = 0
+    return costs[cid]
+
+
+def _printful_product(base, pid, costs, cache):
+    det = printful(f"{base}/{pid}").get("result", {})
+    sp = det.get("sync_product", {})
+    vs = [v for v in det.get("sync_variants", []) if not v.get("is_ignored")
+          and str(v.get("availability_status", "active")).lower() not in ("discontinued", "out_of_stock")]
+    for v in vs:  # en las tiendas conectadas el color y la talla vienen en el nombre: "Camiseta - Negro / M"
+        if not v.get("color") and not v.get("size") and " / " in str(v.get("name", "")):
+            tail = str(v["name"]).rsplit(" - ", 1)[-1]
+            bits = [b.strip() for b in tail.split(" / ")]
+            v["color"], v["size"] = (bits[0], bits[-1]) if len(bits) >= 2 else ("", bits[0])
+    groups = _split_by_color(vs, lambda v: v.get("color") or "", lambda v: v.get("size") or "")
+    out = []
+    for color, gv in groups.items():
+        sizes, vmap, imgs, cost = [], {}, [], None
+        catalog_pid = (gv[0].get("product") or {}).get("product_id")
+        for v in gv:
+            s = v.get("size") or "unica"
+            if s not in vmap:
+                sizes.append(s)
+                vmap[s] = v["id"]
+            for fl in v.get("files", []):
+                if fl.get("type") == "preview" and fl.get("preview_url") and fl["preview_url"] not in imgs:
+                    imgs.append(fl["preview_url"])
+            c = _printful_cost(str(v.get("variant_id")), catalog_pid, costs) or 0
+            cost = c if cost is None else max(cost, c)
+        if not imgs and sp.get("thumbnail_url"):
+            imgs.append(sp["thumbnail_url"])
+        ship = printful_shipping(gv[0].get("variant_id"), cache, catalog_pid)
+        out.append({
+            "supplier": "Printful",
+            "supplier_id": f"{sp.get('id')}-{slug(color)}" if color and len(groups) > 1 else str(sp.get("id")),
+            "supplier_product_id": str(sp.get("id")),
+            "title": sp.get("name", ""), "type": (gv[0].get("product") or {}).get("name", ""),
+            "gender": "", "color": color, "material": "",
+            "cost_usd": str(cost or 0), "shipping_usd": str(ship[0]), "shipping_worst_usd": str(ship[1]),
+            "sizes": "|".join(sizes[:30]), "images": "|".join(imgs[:8]),
+            "variant_map": vmap, "description": "", "skus": [v.get("sku", "") for v in gv if v.get("sku")],
+        })
+    time.sleep(0.5)
+    return out
 
 
 # ---------------------------------------------- visitas reales (Firebase, opcional)
@@ -797,22 +858,27 @@ def quality_guard(plist, cfg):
                 except Exception:
                     pass
                 p["img_checked"] = TODAY
-        if not p.get("display_images") and not p.get("hidden"):
-            p["hidden"], p["available"] = True, False
-            fix(p, "oculto: no tiene ninguna foto")
-        # 4. repetidos
+        # 3b-5. motivos para ocultar: se guardan y solo se apuntan en el registro cuando cambian
+        before = p.pop("hide_reason", None)
+        reason = None
         main = (p.get("display_images") or [None])[0]
-        if main and not p.get("hidden"):
-            if main in seen_img and seen_img[main] != p["id"]:
-                p["hidden"], p["available"] = True, False
-                fix(p, f"oculto: repetido de {seen_img[main]}")
-            else:
-                seen_img[main] = p["id"]
-        # 5. precio por debajo del coste
         total = (p.get("cost_usd") or 0) + (p.get("shipping_usd") or 0)
-        if total and p.get("price_usd", 0) <= total and not p.get("hidden"):
+        if not p.get("hidden"):
+            if not main:
+                reason = "no tiene ninguna foto"
+            elif main in seen_img and seen_img[main] != p["id"]:
+                reason = f"repetido de {seen_img[main]}"
+            elif total and p.get("price_usd", 0) <= total:
+                reason = f"precio {p.get('price_usd')} $ por debajo del coste {total:.2f} $"
+            elif main:
+                seen_img[main] = p["id"]
+        if reason:
+            p["hide_reason"] = reason
             p["hidden"], p["available"] = True, False
-            fix(p, f"oculto: precio {p.get('price_usd')} $ por debajo del coste {total:.2f} $")
+            if reason != before:
+                fix(p, f"oculto: {reason}")
+        elif before and not p.get("hidden"):
+            fix(p, "vuelve a la web")
     # 6. inspección con IA de una muestra (lo ya revisado también se vigila)
     n = g.get("ai_audit_per_run", 10) if ai_vision.ready() else 0
     sample = [p for p in plist if p.get("ai_done") and not p.get("hidden") and not p.get("locked_category")
@@ -863,6 +929,23 @@ def family_of(p):
     words = [w for w in slug(p.get("source_title") or p.get("name_en", "")).split("-")
              if w and not w.isdigit() and w not in COLORS and w not in ("shopify", "design", "dazmond", "daz", "de", "para", "the", "and", "con", "y", "all", "over", "print")]
     return "-".join(words[:3])
+
+
+def color_group(p):
+    """El mismo producto en distintos colores: en las listas sale UNA vez y en la ficha se eligen los colores."""
+    sup, spid = p.get("supplier", ""), p.get("supplier_product_id")
+    if spid and sup in ("Printify", "Printful"):
+        return f"{sup.lower()}-{spid}"
+    words = [w for w in slug(p.get("source_title") or p.get("name_en", "")).split("-")
+             if w and not w.isdigit() and w not in COLORS and w not in COLOR_WORDS]
+    return "t-" + "-".join(words[:12])
+
+
+COLOR_WORDS = {"color", "colour", "negro", "negra", "blanco", "blanca", "rojo", "roja", "azul", "verde", "gris", "rosa",
+               "amarillo", "amarilla", "naranja", "morado", "morada", "marron", "beige", "crema", "dorado", "dorada",
+               "plateado", "plateada", "burdeos", "marino", "yellow", "orange", "khaki", "maroon", "teal", "charcoal",
+               "heather", "royal", "sand", "mint", "lavender", "coral", "wine", "tan", "multicolor", "light", "dark",
+               "claro", "oscuro", "obsidian", "quartz"}
 
 
 # ------------------------------------------------------- limpieza automática
@@ -918,7 +1001,7 @@ def cleanup(plist, cfg):
 
 # ------------------------------------------------ archivos rápidos para la web
 LITE = ("id", "name_es", "name_en", "price_usd", "offer", "badge", "categories", "available", "rank", "created",
-        "page", "supplier_id", "fam")
+        "page", "supplier_id", "fam", "cg", "color")
 ITEM_SKIP = ("cost_usd", "margin_pct", "markup_adjust", "price_history", "score", "source_text", "raw_images",
              "variant_map", "sku_map", "size_values", "stripe_product_id", "stripe_link_id", "stripe_offer_link_id",
              "stripe_price_cents", "stripe_offer_cents", "stripe_site", "images_model", "images_original",
@@ -954,6 +1037,66 @@ def write_web_files(plist):
             os.remove(os.path.join(items_dir, f))
 
 
+# ------------------------------------------------------------- Panel del dueño
+WHY = {"proveedor": "Ya no está en el proveedor", "sin ventas": "90 días sin ventas", "manual": "Lo quitaste tú (AGOTADO)",
+       "no-es-producto": "No es un producto (venía de Shopify)"}
+
+
+def why_hidden(p):
+    if p.get("archived"):
+        return WHY.get(p["archived"], "Archivado: " + str(p["archived"]))
+    if p.get("draft") and not p.get("ai_done"):
+        return "Borrador: esperando la revisión de la IA"
+    if p.get("hide_reason"):
+        return "Vigilante: " + p["hide_reason"]
+    return "Oculto"
+
+
+def write_panel(plist, stats):
+    """data/panel.json: todo lo que pasa dentro de la tienda, para verlo en tu web (#/panel).
+    No lleva ningún dato de clientes."""
+    real = [p for p in plist if not str(p.get("supplier_id", "")).upper().startswith("DEMO-")]
+    vis = [p for p in real if not p.get("hidden")]
+    hid = [p for p in real if p.get("hidden")]
+    reasons = {}
+    for p in hid:
+        r = why_hidden(p).split(":")[0]
+        reasons[r] = reasons.get(r, 0) + 1
+    sup = {}
+    for p in real:
+        d = sup.setdefault(p.get("supplier") or "Otro", {"visibles": 0, "ocultos": 0})
+        d["ocultos" if p.get("hidden") else "visibles"] += 1
+    mini = lambda p, extra=None: dict({"id": p["id"], "n": p.get("name_es") or p.get("source_title") or p["id"],
+                                       "s": p.get("supplier", ""), "img": (p.get("display_images") or [""])[0],
+                                       "c": (p.get("categories") or [""])[0], "pr": p.get("price_usd")}, **(extra or {}))
+    top = lambda key: [mini(S, {"v": stats[S["id"]].get(key, 0)}) for S in
+                       sorted([p for p in real if stats.get(p["id"], {}).get(key)],
+                              key=lambda p: -stats[p["id"]].get(key, 0))[:10]]
+    qlog = _lj("quality_log.json", {"days": []}).get("days", [])[-7:]
+    key = _lj("panel_access.json", {}).get("sha256", "")
+    groups = {}
+    for p in vis:
+        groups.setdefault(p.get("cg") or p["id"], 0)
+    panel = {
+        "key": key, "updated": NOW.strftime("%Y-%m-%d %H:%M UTC"),
+        "totals": {"catalogo": len(real), "a_la_vista": len(vis), "disenos_a_la_vista": len(groups),
+                   "ocultos": len(hid), "ia_revisados": sum(1 for p in real if p.get("ai_done")),
+                   "ia_pendientes": sum(1 for p in real if not p.get("ai_done") and not p.get("archived")),
+                   "con_boton_de_pago": sum(1 for p in vis if p.get("stripe_payment_link")),
+                   "sin_boton_de_pago": sum(1 for p in vis if not p.get("stripe_payment_link")),
+                   "seccion_dudosa": sum(1 for p in real if p.get("needs_review") and not p.get("hidden")),
+                   "ventas_30_dias": sum(v.get("sales_30d", 0) for v in stats.values()),
+                   "visitas_30_dias": sum(v.get("views", 0) for v in stats.values())},
+        "reasons": reasons, "suppliers": sup,
+        "guard": [{"date": d.get("date"), "n": len(d.get("fixes", [])), "fixes": d.get("fixes", [])[-60:]} for d in qlog],
+        "top_sales": top("sales_30d"), "top_views": top("views"),
+        "review": [mini(p) for p in real if p.get("needs_review") and not p.get("hidden")][:200],
+        "hidden": [mini(p, {"why": why_hidden(p)}) for p in hid],
+        "log": [l for l in RUNLOG if not l.startswith("Revisa la categoría")][-60:],
+    }
+    save_json("panel.json", panel)
+
+
 # ----------------------------------------- auto-edición de cada producto (IA)
 def ai_enrich(plist, cfg):
     """Revisión de cada producto con la IA (una vez por producto, unas decenas por hora):
@@ -964,9 +1107,14 @@ def ai_enrich(plist, cfg):
     limit = cfg.get("ai", {}).get("enrich_per_run", 40)
     todo = [p for p in plist if not p.get("ai_done") and not p.get("locked_copy") and not p.get("archived")
             and not str(p.get("supplier_id", "")).upper().startswith("DEMO-")]
-    todo.sort(key=lambda p: (not p.get("ai_priority"), bool(p.get("draft"))))  # primero lo dudoso y lo publicado
+    todo.sort(key=lambda p: (not (p.get("ai_priority") or p.get("needs_review")), bool(p.get("hidden")),
+                             bool(p.get("draft"))))  # primero lo dudoso, luego lo que ya se ve, los borradores al final
     done = 0
+    stop_at = time.time() + 60 * float(cfg.get("ai", {}).get("minutes_per_run", 15))
     for p in todo[:limit]:
+        if time.time() > stop_at:
+            log("IA: tiempo de esta hora agotado; sigo en la próxima.")
+            break
         raw = p.get("raw_images") or p.get("display_images") or []
         with tempfile.TemporaryDirectory() as tmp:
             local, kept_urls = [], []
@@ -1443,6 +1591,7 @@ def main():
     stage("vigilante")
     for p in plist:
         p["fam"] = family_of(p)
+        p["cg"] = color_group(p)
     complete_the_look(plist)
     cap = cfg.get("stripe", {}).get("links_per_run", 250)
     made = 0
@@ -1468,6 +1617,10 @@ def main():
     if review:
         log(f"Revisa la categoría de: {', '.join(review)}")
     log("Listo.")
+    try:
+        write_panel(plist, analytics.get("products", {}))
+    except Exception as e:
+        print(f"[motor] Panel no actualizado: {e}")
 
 
 if __name__ == "__main__":

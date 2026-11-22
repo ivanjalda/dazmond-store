@@ -139,7 +139,7 @@ def feed(lang, products, site, cat_names, rate):
         for s in sizes:
             iid = f"{p['id']}-{s}" if s else p["id"]
             parts = [
-                f"<g:id>{esc(iid[:50])}</g:id>", f"<g:item_group_id>{esc(p['id'][:50])}</g:item_group_id>",
+                f"<g:id>{esc(iid[:50])}</g:id>", f"<g:item_group_id>{esc((p.get('cg') or p['id'])[:50])}</g:item_group_id>",
                 f"<title>{esc(name[:150])}</title>", f"<description>{esc(desc[:4900])}</description>",
                 f"<link>{site}/p/{p['id']}/</link>", f"<g:image_link>{esc(imgs[0])}</g:image_link>",
                 *[f"<g:additional_image_link>{esc(u)}</g:additional_image_link>" for u in imgs[1:10]],
