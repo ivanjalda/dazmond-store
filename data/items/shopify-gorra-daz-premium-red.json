@@ -1,5 +1,11 @@
 {
+ "ai_color": "Red, Yellow, Light Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
  "ai_priority": true,
+ "ai_type": "visor",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +14,10 @@
  ],
  "color": "Red",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Engineered to balance athletic precision with understated refinement, this sun visor is crafted from soft, premium cotton. The lightweight architecture integrates an interior cotton sweatband and an adjustable velcro strap, securing an adaptable, comfortable contour. Its extended 15-centimeter curved brim provides generous protection against harmful UV exposure during tennis, golf, or open-air pursuits. Finished with distinctive front embroidery. Each piece is made to order and accompanied by worldwide shipping.",
+ "desc_es": "Diseñada para equilibrar funcionalidad atlética y sofisticación sobria, esta visera deportiva está confeccionada en algodón suave de primera calidad. Su estructura ligera incorpora una banda interior de algodón absorbente y un cierre posterior de velcro ajustable, garantizando un ajuste impecable para diversas circunferencias. La visera curvada de quince centímetros ofrece una protección eficaz contra los rayos ultravioleta durante jornadas de golf, tenis o actividades al aire libre. Confección exclusiva por encargo con envío internacional disponible.",
+ "details_en": "· Soft cotton construction\n· Interior cotton sweatband\n· 15 cm brim for enhanced UV protection\n· Adjustable velcro strap closure\n· Fits head circumferences from 55 to 60 cm\n· Hand wash cold recommended; air dry\n· Do not bleach\n· Made to order",
+ "details_es": "· Confección en algodón suave\n· Banda interior de algodón para el sudor\n· Visera curva de 15 cm de largo para protección solar\n· Cierre posterior ajustable con cinta de velcro\n· Circunferencia adaptable de 55 a 60 cm\n· Lavar a mano con agua fría; secar al aire libre\n· No usar lejía\n· Fabricado por encargo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-3-NObIjHOka1.jpg?v=1728389324",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-6-NObIjHOka1.jpg?v=1728389280",
@@ -17,14 +25,9 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-18-NObIjHOka1.jpg?v=1728389287",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-24-NObIjHOka1.jpg?v=1728389291",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-30-NObIjHOka1.jpg?v=1728389295",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-5-NObIjHOka1.jpg?v=1728389302",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-11-NObIjHOka1.jpg?v=1728389305",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-17-NObIjHOka1.jpg?v=1728389309",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-23-NObIjHOka1.jpg?v=1728389313",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-29-NObIjHOka1.jpg?v=1728389316",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-35-NObIjHOka1.jpg?v=1728389320",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-9-NObIjHOka1.jpg?v=1728389327"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-17-NObIjHOka1.jpg?v=1728389309"
  ],
  "draft": false,
  "fam": "gorra-premium",
@@ -38,8 +41,8 @@
   "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Monogram Hat · Red",
- "name_es": "Gorro Monogram · Rojo",
+ "name_en": "DAZ Cotton Sports Visor",
+ "name_es": "Visera Deportiva DAZ en Algodón",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
@@ -47,8 +50,28 @@
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Brim"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Visera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1 a 3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "55-60 cm (22.0\"-24\")",
+    "15 cm (5.9\")"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298"
+ ],
  "sizes": [
   "Red"
  ],

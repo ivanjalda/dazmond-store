@@ -1,5 +1,11 @@
 {
+ "ai_color": "yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "cotton",
  "ai_priority": true,
+ "ai_type": "visor",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,23 +14,20 @@
  ],
  "color": "Yellow",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined athletic essential engineered for effortless focus and modern leisure. Tailored from soft, high-grade cotton, this sun visor features an integrated cotton sweatband ensuring continuous comfort during tennis, golf, or open-air movement. The extended brim offers dependable protection against intense UV rays while framing the profile with sharp, confident lines. An adjustable rear closure delivers an exacting, personalized fit. Distinctive script embroidery on the crown completes this enduring staple of understated luxury.",
+ "desc_es": "Una silueta deportiva reinterpretada con precisión técnica y distinción arquitectónica. Confeccionada en algodón suave y transpirable, esta visera abierta incorpora una banda interior de felpa para un ajuste absorbente y refinado en cualquier temporada. Su visera frontal extendida protege el rostro frente a la exposición solar en actividades al aire libre o sobre la pista de tenis. El cierre trasero adaptable proporciona un calce impecable a la medida de la cabeza. Una pieza esencial de elegancia funcional.",
+ "details_en": "· Soft cotton construction with integrated cotton sweatband\n· Adjustable velcro rear fastening\n· Extended 15 cm protective sun brim\n· Hand wash cold recommended; air dry; do not bleach; iron on low if needed\n· Made to order with worldwide shipping",
+ "details_es": "· Algodón suave con banda de sudor interior en algodón\n· Cierre posterior regulable con velcro\n· Visera estructurada de 15 cm para protección solar\n· Lavar a mano con agua fría; secar al aire; no usar blanqueador; planchar a baja temperatura si es necesario\n· Fabricación bajo pedido con envíos a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-6-NObIjHOka1.jpg?v=1728389280",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-12-NObIjHOka1.jpg?v=1728389283",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-18-NObIjHOka1.jpg?v=1728389287",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-24-NObIjHOka1.jpg?v=1728389291",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-30-NObIjHOka1.jpg?v=1728389295",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-5-NObIjHOka1.jpg?v=1728389302",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-11-NObIjHOka1.jpg?v=1728389305",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-17-NObIjHOka1.jpg?v=1728389309",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-23-NObIjHOka1.jpg?v=1728389313",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-29-NObIjHOka1.jpg?v=1728389316",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-35-NObIjHOka1.jpg?v=1728389320",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-3-NObIjHOka1.jpg?v=1728389324",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-9-NObIjHOka1.jpg?v=1728389327"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-23-NObIjHOka1.jpg?v=1728389313"
  ],
  "draft": false,
  "fam": "gorra-premium",
@@ -38,8 +41,8 @@
   "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Soho Hat",
- "name_es": "Gorro Soho",
+ "name_en": "DAZ Embroidered Cotton Sun Visor",
+ "name_es": "Visera DAZ en Algodón Bordado",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
@@ -47,8 +50,28 @@
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Brim"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Visera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "55-60 cm (22.0-24 in)",
+    "15 cm (5.9 in)"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298"
+ ],
  "sizes": [
   "Yellow"
  ],

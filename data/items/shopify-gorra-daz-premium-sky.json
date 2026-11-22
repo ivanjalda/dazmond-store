@@ -1,5 +1,11 @@
 {
+ "ai_color": "Sky Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
  "ai_priority": true,
+ "ai_type": "visor",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +14,10 @@
  ],
  "color": "Sky",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An elevated athletic essential tailored for discerning outdoor pursuits. Crafted from premium soft cotton, this open-crown visor features bold DAZ cursive embroidery across the front panel. An extended brim delivers refined sun coverage, while the interior cotton sweatband provides continuous comfort. Finished with a clean Velcro closure for an effortless, personalized fit on the court, fairway, or coastal promenades. Discreet luxury engineered for modern sporting leisure.",
+ "desc_es": "Una silueta deportiva refinada concebida para la intemperie sofisticada. Confeccionada en suave algodón de textura impecable, esta visera abierta incorpora el distintivo bordado DAZ sobre un frontal estructurado. Su ala alargada ofrece una protección solar precisa sin comprometer la ligereza. La banda interior de algodón asegura una absorción impecable, complementada con un cierre posterior ajustable de velcro que garantiza una adaptación anatómica perfecta para tenis, golf o el descanso estival. Una pieza técnica que proyecta serenidad y aplomo contemporáneo.",
+ "details_en": "· Pure soft cotton construction\n· Integrated cotton interior sweatband\n· DAZ cursive script embroidery on front\n· Adjustable Velcro back fastening\n· Dimensions: 15 cm (5.9 in) brim; 55-60 cm (22-24 in) circumference\n· Hand wash cold recommended; do not bleach; line dry or iron\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Tejido principal en suave algodón\n· Banda interior de sudor en algodón\n· Bordado frontal DAZ\n· Cierre ajustable mediante velcro\n· Medidas: visera de 15 cm; circunferencia de 55 a 60 cm\n· Lavado a mano con agua fría; no usar blanqueador; secar al aire o planchar\n· Confección bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-5-NObIjHOka1.jpg?v=1728389302",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-6-NObIjHOka1.jpg?v=1728389280",
@@ -17,14 +25,9 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-18-NObIjHOka1.jpg?v=1728389287",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-24-NObIjHOka1.jpg?v=1728389291",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-30-NObIjHOka1.jpg?v=1728389295",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-11-NObIjHOka1.jpg?v=1728389305",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-17-NObIjHOka1.jpg?v=1728389309",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-23-NObIjHOka1.jpg?v=1728389313",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-29-NObIjHOka1.jpg?v=1728389316",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-35-NObIjHOka1.jpg?v=1728389320",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-3-NObIjHOka1.jpg?v=1728389324",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-9-NObIjHOka1.jpg?v=1728389327"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-23-NObIjHOka1.jpg?v=1728389313"
  ],
  "draft": false,
  "fam": "gorra-premium",
@@ -38,8 +41,8 @@
   "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Hudson Hat",
- "name_es": "Gorro Hudson",
+ "name_en": "DAZ Embroidered Sun Visor",
+ "name_es": "Visera Deportiva Dazmond DAZ",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
@@ -47,8 +50,28 @@
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Brim"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Visera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1 a 3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "55-60 cm (22.0-24 in)",
+    "15 cm (5.9 in)"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298"
+ ],
  "sizes": [
   "Sky"
  ],

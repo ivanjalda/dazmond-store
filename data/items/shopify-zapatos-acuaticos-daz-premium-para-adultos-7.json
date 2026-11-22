@@ -9,10 +9,10 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatos-elegantes",
-  "calzado-mujer/zapatillas"
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
  ],
- "color": "",
+ "color": "Multicolor",
  "created": "2026-11-19",
  "desc_en": "Engineered for coastal exploration and effortless transition between land and water. These water shoes feature a flexible scuba knit upper enriched with a striking graphic motif in vibrant gradient tones. The streamlined slip-on construction contours precisely to the foot, delivering a soft lining and an ultra-lightweight, packable design. Underfoot, a breathable, non-slip TPR sole paired with a thickened insole shields against hot sand, rough gravel, and sharp coastal surfaces. Pure modern functionality crafted for refined leisure. Made to order with worldwide shipping.",
  "desc_es": "Diseñadas para la libertad costera y un movimiento fluido. Estas zapatillas acuáticas combinan una parte superior de punto scuba elástico con un cautivador estampado gráfico en degradados vibrantes. Su silueta slip-on se ajusta con total precisión al pie, ofreciendo un forro suave y una ligereza plegable pensada para viajar con sobria practicidad. La suela de TPR antideslizante y transpirable, complementada con una plantilla de amortiguación gruesa, protege frente a rocas afiladas y arena caliente. Pieza confeccionada por encargo con envío a todo el mundo.",
@@ -32,6 +32,7 @@
  ],
  "draft": false,
  "fam": "zapatos-acuaticos-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-zapatos-acuaticos-daz-premium-para-adultos-7",
  "img_checked": "2026-11-19",
@@ -41,7 +42,7 @@
   "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
   "shopify-cinturon-daz-de-cuero-negro"
  ],
- "material": "",
+ "material": "Scuba knit upper, TPR rubber sole",
  "name_en": "Graphic Scuba Water Shoes",
  "name_es": "Zapatillas Acuáticas Scuba Graphic Pattern",
  "needs_review": false,

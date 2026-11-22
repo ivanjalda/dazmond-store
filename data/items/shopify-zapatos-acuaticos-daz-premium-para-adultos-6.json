@@ -9,10 +9,10 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatos-elegantes",
-  "calzado-mujer/zapatillas"
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
  ],
- "color": "",
+ "color": "green multicolor",
  "created": "2026-11-19",
  "desc_en": "Designed for seamless transition between shoreline and sea. These slip-on water shoes feature an intricate graphic motif rendered across flexible, quick-drying scuba knit. The lightweight construction contours naturally to the foot for effortless wear. Underneath, a durable TPR rubber outsole delivers breathable traction and essential protection against sharp stones and hot ground. A precise fusion of technical ease, aquatic performance, and confident visual distinction.",
  "desc_es": "Concebidos para una transición impecable entre la orilla y el agua. Estos escarpines acuáticos sin cordones presentan un complejo motivo gráfico sobre un tejido de punto scuba flexible y de secado rápido. Su silueta ligera se amolda con precisión anatómica para un confort continuo. En la base, una suela de goma TPR antideslizante y transpirable proporciona protección contra rocas y superficies cálidas. Una propuesta técnica que aúna funcionalidad depurada y carácter visual.",
@@ -32,6 +32,7 @@
  ],
  "draft": false,
  "fam": "zapatos-acuaticos-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-zapatos-acuaticos-daz-premium-para-adultos-6",
  "img_checked": "2026-11-19",
@@ -41,7 +42,7 @@
   "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
   "shopify-cinturon-daz-de-cuero-negro"
  ],
- "material": "",
+ "material": "scuba knit, TPR rubber",
  "name_en": "Tribal Motif Water Shoes",
  "name_es": "Escarpines Acuáticos Estampado Tribal",
  "needs_review": false,

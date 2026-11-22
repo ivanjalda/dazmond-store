@@ -1,5 +1,11 @@
 {
+ "ai_color": "Navy, Yellow, Light Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "cotton",
  "ai_priority": true,
+ "ai_type": "visor",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +14,10 @@
  ],
  "color": "Navy",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Engineered for sun protection and understated athletic sophistication. Crafted from soft cotton, this sport visor combines streamlined utility with timeless styling. It features an integrated cotton sweatband for moisture management and a wide brim for reliable coverage. Designed with an adjustable closure to provide an adaptable fit for tennis, golf, or casual outdoor pursuits. Each piece is made to order, accompanied by worldwide shipping.",
+ "desc_es": "Diseñada para la protección solar y la sofisticación activa. Esta visera deportiva presenta una confección estructurada en algodón suave con una silueta clásica de corte atlético. Equipada con una banda interior de algodón y un cierre ajustable para un calce óptimo en la cancha de tenis o en el green. Una pieza esencial de elegancia funcional adaptada al movimiento contemporáneo. Cada unidad se elabora bajo pedido y cuenta con envío internacional disponible.",
+ "details_en": "· Soft cotton construction\n· Integrated cotton interior sweatband\n· Adjustable Velcro closure\n· 15 cm (5.9 in) brim for UV shade\n· Circumference: 55–60 cm (22–24 in)\n· Hand wash cold recommended; do not bleach; air dry or iron\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Tejido suave de algodón\n· Banda interior de sudor en algodón\n· Cierre ajustable mediante velcro\n· Visera extendida de 15 cm\n· Circunferencia de 55 a 60 cm\n· Lavar a mano con agua fría; no usar blanqueador; secar al aire o planchar\n· Confección bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-4-NObIjHOka1.jpg?v=1728389346",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-6-NObIjHOka1.jpg?v=1728389280",
@@ -17,14 +25,9 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-18-NObIjHOka1.jpg?v=1728389287",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-24-NObIjHOka1.jpg?v=1728389291",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-30-NObIjHOka1.jpg?v=1728389295",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-5-NObIjHOka1.jpg?v=1728389302",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-11-NObIjHOka1.jpg?v=1728389305",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-17-NObIjHOka1.jpg?v=1728389309",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-23-NObIjHOka1.jpg?v=1728389313",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-29-NObIjHOka1.jpg?v=1728389316",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-35-NObIjHOka1.jpg?v=1728389320",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-3-NObIjHOka1.jpg?v=1728389324"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-17-NObIjHOka1.jpg?v=1728389309"
  ],
  "draft": false,
  "fam": "gorra-premium",
@@ -38,8 +41,8 @@
   "shopify-cinturon-daz-de-cuero-negro"
  ],
  "material": "",
- "name_en": "Madison Hat · Navy",
- "name_es": "Gorro Madison · Azul Marino",
+ "name_en": "DAZ Cotton Sport Visor",
+ "name_es": "Visera Deportiva DAZ de Algodón",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
@@ -47,8 +50,28 @@
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Brim"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Visera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "55-60 cm (22.0\"-24\")",
+    "15 cm (5.9\")"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298"
+ ],
  "sizes": [
   "Navy"
  ],
