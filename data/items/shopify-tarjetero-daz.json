@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
  ],
  "color": "Plata",
  "created": "2026-11-19",
@@ -20,18 +22,18 @@
  "id": "shopify-tarjetero-daz",
  "img_checked": "2026-11-21",
  "look": [
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro",
-  "shopify-gorra-daz-de-malla"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Madison Piece",
- "name_es": "Pieza Madison",
- "needs_review": true,
+ "name_en": "Madison Bag",
+ "name_es": "Bolso Madison",
+ "needs_review": false,
  "page": true,
  "price_usd": 31.99,
- "rank": 679,
+ "rank": 1409,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Marrón",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Paja y poliéster",
  "ai_priority": true,
+ "ai_type": "Bolso",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "color": "Brown",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This woven straw tote offers a structured silhouette for daily wear. The design combines refined texture with durable handles and a lined interior. Its capacity allows you to organize essentials with ease. A versatile piece that brings natural elegance to any ensemble. Available with worldwide shipping and made to order.",
+ "desc_es": "Este bolso de paja tejido ofrece una silueta estructurada para el uso diario. El diseño combina una textura refinada con asas duraderas y un interior forrado. Su capacidad permite organizar lo esencial con facilidad. Una pieza versátil que aporta elegancia natural a cualquier conjunto. Disponible con envío a todo el mundo y confeccionado bajo pedido.",
+ "details_en": "· Woven straw exterior composition\n· Polyester interior lining\n· Top handles with 14.5 cm drop\n· Dimensions: 30 x 21 cm\n· Clean interior with a damp cloth and air dry\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Composición exterior de paja tejida\n· Forro interior de poliéster\n· Asas superiores con caída de 14.5 cm\n· Dimensiones: 30 x 21 cm\n· Limpiar el interior con un paño húmedo y secar al aire\n· Pieza confeccionada bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-1-Deu6OcoR7f.jpg?v=1727883705",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-2-Deu6OcoR7f.jpg?v=1727883677",
@@ -17,14 +27,9 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-10-Deu6OcoR7f.jpg?v=1727883686",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-14-Deu6OcoR7f.jpg?v=1727883691",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-18-Deu6OcoR7f.jpg?v=1727883695",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-22-Deu6OcoR7f.jpg?v=1727883701",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-5-Deu6OcoR7f.jpg?v=1727883710",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-9-Deu6OcoR7f.jpg?v=1727883715",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-13-Deu6OcoR7f.jpg?v=1727883720",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-17-Deu6OcoR7f.jpg?v=1727883725",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-21-Deu6OcoR7f.jpg?v=1727883729",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-4-Deu6OcoR7f.jpg?v=1727883734",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-8-Deu6OcoR7f.jpg?v=1727883738"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-13-Deu6OcoR7f.jpg?v=1727883720"
  ],
  "draft": false,
  "fam": "bolso-bandolera",
@@ -32,23 +37,46 @@
  "id": "shopify-bolso-daz-con-bandolera-brown",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Riviera Case · Brown",
- "name_es": "Funda Riviera · Marrón",
+ "name_en": "Woven Straw Tote Bag",
+ "name_es": "Bolso de Paja Trenzado",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 280,
+ "rank": 1044,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Strap Drop"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Correa"
+  ],
+  "notes_en": "Measurements are approximate.",
+  "notes_es": "Las medidas son aproximadas.",
+  "rows": [
+   [
+    "30",
+    "21",
+    "14.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-22-Deu6OcoR7f.jpg?v=1727883701"
+ ],
  "sizes": [
   "Brown"
  ],

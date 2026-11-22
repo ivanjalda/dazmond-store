@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% elastano (Air layer, 200 g/m²)",
  "ai_priority": true,
+ "ai_type": "Bolero",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,36 +16,94 @@
  ],
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A presence that captures glances begins with defined silhouettes and details that speak for you. This bolero features a contrasting star print on a white background, a high neck with a single button, and a cropped short-sleeve cut. It is the precise enveloping piece to accompany dresses, evening gowns, and tank tops with distinction. Crafted to offer a soft, lightweight, and breathable texture that fluidly adapts to the body.",
+ "desc_es": "Una presencia que captura miradas comienza con siluetas definidas y detalles que hablan por ti. Este bolero presenta un estampado de estrellas en contraste sobre fondo blanco, cuello alto con un solo botón y un corte corto de manga corta. Es la pieza envolvente precisa para acompañar vestidos, vestidos de noche y camisetas de tirantes con distinción. Confeccionado para ofrecer una textura suave, ligera y transpirable que se adapta con fluidez al cuerpo.",
+ "details_en": "· Composition: 95% polyester, 5% elastane (air layer fabric, 200 g/m²).\n· Design: Star print, high neck with a single button, short sleeves, and back inscription.\n· Fit: Cropped cut, open front.\n· Care: Hand or machine wash with cold water at a maximum of 45°C. Do not soak for a prolonged time. Do not bleach. Do not tumble dry.\n· Made-to-order piece with worldwide shipping available.",
+ "details_es": "· Composición: 95% poliéster, 5% elastano (tejido capa de aire, 200 g/m²).\n· Diseño: Estampado de estrellas, cuello alto con un botón, manga corta y espalda con inscripción.\n· Ajuste: Corte corto y abierto al frente.\n· Cuidado: Lavar a mano o a máquina con agua fría a un máximo de 45°C. No dejar en remojo prolongado. No usar lejía. No secar en secadora.\n· Pieza hecha a pedido con envíos disponibles a todo el mundo.",
  "display_images": [
   "assets/products/interestprint-design-womens-cropped-bolero-jacket-1.webp",
   "assets/products/interestprint-design-womens-cropped-bolero-jacket-2.webp",
-  "assets/products/interestprint-design-womens-cropped-bolero-jacket-3.webp",
-  "assets/products/interestprint-design-womens-cropped-bolero-jacket-4.webp"
+  "assets/products/interestprint-design-womens-cropped-bolero-jacket-3.webp"
  ],
  "draft": false,
  "fam": "chaqueta-bolero-cosmic",
  "hidden": false,
  "id": "interestprint-design-womens-cropped-bolero-jacket",
  "look": [
-  "shopify-braguita-daz-de-mujer",
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Avenue Jacket · White",
- "name_es": "Chaqueta Avenue · Blanco",
+ "name_en": "Cosmic Glow Bolero",
+ "name_es": "Bolero Cosmic Glow",
  "needs_review": false,
  "page": true,
  "price_usd": 25.99,
- "rank": 130,
+ "rank": 896,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (cm/in)",
+   "Shoulder (cm/in)",
+   "Sleeve (cm/in)",
+   "Bust (cm/in)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (cm/in)",
+   "Hombro (cm/in)",
+   "Manga (cm/in)",
+   "Busto (cm/in)"
+  ],
+  "notes_en": "",
+  "notes_es": "",
+  "rows": [
+   [
+    "S",
+    "38/15",
+    "36/14.2",
+    "20/7.9",
+    "90/35.4"
+   ],
+   [
+    "M",
+    "39/15.3",
+    "37.5/14.8",
+    "20.5/8.1",
+    "94/37"
+   ],
+   [
+    "L",
+    "40/15.7",
+    "39/15.3",
+    "21/8.3",
+    "98/38.6"
+   ],
+   [
+    "XL",
+    "41/16.1",
+    "40.5/15.9",
+    "21.5/8.5",
+    "102/40.1"
+   ],
+   [
+    "2XL",
+    "42/16.5",
+    "42/16.5",
+    "22/8.7",
+    "106/41.7"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/interestprint-design-womens-cropped-bolero-jacket-4.webp"
+ ],
  "sizes": [
   "S",
   "M",

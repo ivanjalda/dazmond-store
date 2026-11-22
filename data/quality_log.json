@@ -918,16 +918,6 @@
     {
       "date": "2026-11-22",
       "fixes": [
-        "Zapatos Avenue · Blanco: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Soho · Negro: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Manhattan · Blanco: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Manhattan · Negro: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Soho · Blanco: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Gorro Riviera: sección corregida a hombre/gorro-bufanda, mujer/gorros-bufandas",
-        "Camisa Avenue: sección corregida a hombre/gorro-bufanda, mujer/gorros-bufandas",
-        "Gorro Soho: sección corregida a hombre/gorro-bufanda, mujer/gorros-bufandas",
-        "Gorro Atelier · Gris: sección corregida a hombre/gorro-bufanda, mujer/gorros-bufandas",
-        "Gorro Madison: sección corregida a hombre/gorro-bufanda, mujer/gorros-bufandas",
         "Gorro Monogram: sección corregida a hombre/gorro-bufanda, mujer/gorros-bufandas",
         "Gorro Atelier · Oro: sección corregida a hombre/gorro-bufanda, mujer/gorros-bufandas",
         "Gorro Avenue: sección corregida a hombre/gorro-bufanda, mujer/gorros-bufandas",
@@ -1217,7 +1207,17 @@
         "Botas Hudson: sección corregida a calzado-mujer/zapatillas",
         "Blazer Avenue · Blanco: sección corregida a hombre/abrigo-chaqueta-sueter",
         "Blazer Noir · Blanco: sección corregida a hombre/abrigo-chaqueta-sueter",
-        "Blazer Atelier · Blanco: sección corregida a hombre/abrigo-chaqueta-sueter"
+        "Blazer Atelier · Blanco: sección corregida a hombre/abrigo-chaqueta-sueter",
+        "Ropa Interior Atelier · Blanco: oculto: repetido de shopify-braguita-daz-de-mujer-1-black",
+        "Bañador Madison: oculto: repetido de shopify-design-swimsuit-set-front-side-printingmade-in-usa-azul-medio-profundo",
+        "Bañador Noir: oculto: repetido de shopify-design-swimsuit-set-front-side-printingmade-in-usa-azul-medio-profundo",
+        "Camiseta Imperial: inspección IA: era tank top (women) → mujer/camisetas-blusas-tops",
+        "Camiseta Madison: inspección IA: era tank top (women) → mujer/camisetas-blusas-tops",
+        "Mallas Madison: inspección IA: era cap (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas",
+        "Mallas Madison: inspección IA: era cap (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas",
+        "Gorra Trucker DAZ Graphic: inspección IA: era cap (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas",
+        "Mallas Riviera: inspección IA: era cap (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas",
+        "Mallas Imperial: inspección IA: era cap (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas"
       ]
     }
   ]

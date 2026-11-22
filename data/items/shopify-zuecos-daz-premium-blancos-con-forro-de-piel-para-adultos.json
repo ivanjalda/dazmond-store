@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zuecos-hombre",
+  "calzado-mujer/zuecos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "EVA and fleece",
  "ai_priority": true,
+ "ai_type": "clogs",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your daily comfort with these uniquely designed clogs. Crafted with a lightweight EVA sole and an interior lined with ultra-soft fleece fur, they deliver exceptional insulation and sublime cushioning for every step. The upper features strategic ventilation holes to ensure optimal breathability, while the adjustable heel strap allows for impeccable styling versatility. Ideal for both indoor relaxation and outdoor wear. Each pair is made to order with worldwide shipping available.",
+ "desc_es": "Eleve su confort diario con estos zuecos de diseño exclusivo. Confeccionados con una suela de EVA ligera y un interior forrado de suave pelo de vellón, ofrecen un aislamiento excepcional y una amortiguación sublime para cada paso. La parte superior incorpora orificios estratégicos para garantizar una transpirabilidad óptima, mientras que la correa ajustable en el talón permite una versatilidad de uso impecable. Ideales tanto para momentos de descanso en el interior como para trayectos al aire libre. Cada par se elabora bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· White EVA sole\n· Fleece fur lined interior\n· Adjustable heel strap\n· Breathable upper holes\n· Made to order with worldwide shipping",
+ "details_es": "· Suela de EVA blanca\n· Interior forrado de piel de vellón\n· Correa de talón ajustable\n· Orificios transpirables en la parte superior\n· Hecho a pedido y disponible con envío mundial",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920119-1-x1Nv4ew5Bw.jpg?v=1735920373",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920119-2-x1Nv4ew5Bw.jpg?v=1735920377",
@@ -20,9 +32,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920119-7-x1Nv4ew5Bw.jpg?v=1735920405",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920119-8-x1Nv4ew5Bw.jpg?v=1735920409",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920119-9-x1Nv4ew5Bw.jpg?v=1735920413",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920119-10-x1Nv4ew5Bw.jpg?v=1735920417",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920119-11-x1Nv4ew5Bw.jpg?v=1735920421",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20241219173301-C7bhv4tQF2.jpg?v=1735920426"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920119-10-x1Nv4ew5Bw.jpg?v=1735920417"
  ],
  "draft": false,
  "fam": "zuecos-premium-blancos",
@@ -30,18 +40,18 @@
  "id": "shopify-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos",
  "img_checked": "2026-11-20",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Noir Clogs",
- "name_es": "Zuecos Noir",
+ "name_en": "Printed Fleece Lined Clogs",
+ "name_es": "Zuecos Forrados Estampados Gatos",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 423,
+ "rank": 1185,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

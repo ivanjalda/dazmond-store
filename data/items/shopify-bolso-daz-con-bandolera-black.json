@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Paja tejida",
  "ai_priority": true,
+ "ai_type": "Bolso",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your accessory collection with this refined hand-woven straw tote. Designed with a structured silhouette, it features sturdy handles and a spacious lined interior for effortless daily wear. Subtle weaving details and contrasting materials bring a touch of natural elegance to the season. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Eleva tu colección de accesorios con este refinado bolso de paja tejido a mano. Diseñado con una silueta estructurada, presenta asas resistentes y un espacioso interior forrado para un uso diario sin esfuerzo. Los detalles sutiles de tejido y los materiales contrastantes aportan un toque de elegancia natural a la temporada. Cada pieza está hecha a pedido y disponible con envío a todo el mundo.",
+ "details_en": "· Woven straw exterior composition\n· Polyester lining\n· Made to order in the US\n· Worldwide shipping available",
+ "details_es": "· Composición exterior de paja tejida\n· Forro de poliéster\n· Hecho a pedido en EE. UU.\n· Envío mundial disponible",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-4-Deu6OcoR7f.jpg?v=1727883734",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-2-Deu6OcoR7f.jpg?v=1727883677",
@@ -17,14 +27,9 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-10-Deu6OcoR7f.jpg?v=1727883686",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-14-Deu6OcoR7f.jpg?v=1727883691",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-18-Deu6OcoR7f.jpg?v=1727883695",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-22-Deu6OcoR7f.jpg?v=1727883701",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-1-Deu6OcoR7f.jpg?v=1727883705",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-5-Deu6OcoR7f.jpg?v=1727883710",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-9-Deu6OcoR7f.jpg?v=1727883715",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-13-Deu6OcoR7f.jpg?v=1727883720",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-17-Deu6OcoR7f.jpg?v=1727883725",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-21-Deu6OcoR7f.jpg?v=1727883729",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-8-Deu6OcoR7f.jpg?v=1727883738"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-9-Deu6OcoR7f.jpg?v=1727883715"
  ],
  "draft": false,
  "fam": "bolso-bandolera",
@@ -32,23 +37,46 @@
  "id": "shopify-bolso-daz-con-bandolera-black",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Soho Case · Black",
- "name_es": "Funda Soho · Negro",
+ "name_en": "Daz Woven Straw Tote Bag",
+ "name_es": "Bolso de Paja Tejida Daz",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 279,
+ "rank": 1043,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Strap Drop"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Caída de correa"
+  ],
+  "notes_en": "Measurements are provided in centimeters. Worldwide shipping available.",
+  "notes_es": "Las medidas se indican en centímetros. Envío a todo el mundo disponible.",
+  "rows": [
+   [
+    "30",
+    "21",
+    "14.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-22-Deu6OcoR7f.jpg?v=1727883701"
+ ],
  "sizes": [
   "Black"
  ],

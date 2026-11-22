@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Assorted",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Acrylic",
  "ai_priority": true,
+ "ai_type": "Beanie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,23 +18,19 @@
  ],
  "color": "Blue",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your winter wardrobe with this knit beanie crafted from stretch acrylic fabric. Its urban gradient design brings a contemporary character to cold days. The foldable and lightweight structure offers versatility and superior comfort for daily wear or mountain getaways. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Eleva tu guardarropa de invierno con este gorro de punto confeccionado en tejido acrílico elástico. Su diseño urbano con efecto degradado aporta un carácter contemporáneo a los días fríos. La estructura plegable y ligera ofrece versatilidad y confort superior para el uso diario o escapadas a la nieve. Cada pieza se elabora bajo pedido y cuenta con envío mundial.",
+ "details_en": "· Stretch acrylic fabric\n· Delicate, lightweight, and breathable touch\n· Foldable design\n· Hand or machine wash cold, do not bleach, line dry\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Tejido acrílico elástico\n· Tacto delicado, ligero y transpirable\n· Diseño plegable\n· Lavar a mano o a máquina con agua fría, no usar blanqueador, secar al aire\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-3-gm0rG8Ak72.jpg?v=1731617652",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-2-gm0rG8Ak72.jpg?v=1731617635",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-7-gm0rG8Ak72.jpg?v=1731617639",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-12-gm0rG8Ak72.jpg?v=1731617643",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-17-gm0rG8Ak72.jpg?v=1731617648",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-8-gm0rG8Ak72.jpg?v=1731617656",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-13-gm0rG8Ak72.jpg?v=1731617660",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-18-gm0rG8Ak72.jpg?v=1731617664",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-4-gm0rG8Ak72.jpg?v=1731617668",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-9-gm0rG8Ak72.jpg?v=1731617673",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-14-gm0rG8Ak72.jpg?v=1731617677",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-19-gm0rG8Ak72.jpg?v=1731617681",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-5-gm0rG8Ak72.jpg?v=1731617685",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-10-gm0rG8Ak72.jpg?v=1731617689"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-9-gm0rG8Ak72.jpg?v=1731617673"
  ],
  "draft": false,
  "fam": "gorro-punto-premium",
@@ -32,23 +38,44 @@
  "id": "shopify-gorro-de-punto-daz-premium-blue",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-353253137",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Sweater · Blue",
- "name_es": "Suéter Monogram · Azul",
+ "name_en": "Tie-Dye Knit Beanie",
+ "name_es": "Gorro de Punto Tie-Dye",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 297,
+ "rank": 1061,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Height",
+   "Width"
+  ],
+  "headers_es": [
+   "Altura",
+   "Ancho"
+  ],
+  "notes_en": "Measurements are taken flat.",
+  "notes_es": "Las medidas se toman en plano.",
+  "rows": [
+   [
+    "24",
+    "20"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-17-gm0rG8Ak72.jpg?v=1731617648",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-18-gm0rG8Ak72.jpg?v=1731617664"
+ ],
  "sizes": [
   "Blue"
  ],

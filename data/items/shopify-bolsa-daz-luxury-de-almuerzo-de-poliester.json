@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -22,18 +24,18 @@
  "hidden": false,
  "id": "shopify-bolsa-daz-luxury-de-almuerzo-de-poliester",
  "look": [
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro",
-  "shopify-gorra-daz-de-malla"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Piece",
- "name_es": "Pieza Manhattan",
- "needs_review": true,
+ "name_en": "Manhattan Bag",
+ "name_es": "Bolso Manhattan",
+ "needs_review": false,
  "page": true,
  "price_usd": 45.99,
- "rank": 1230,
+ "rank": 1768,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

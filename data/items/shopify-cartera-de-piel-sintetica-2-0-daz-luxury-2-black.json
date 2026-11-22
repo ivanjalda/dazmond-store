@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Wallet",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This synthetic leather wallet merges modern sophistication with refined functionality. Crafted from premium materials, it features an elongated silhouette designed to easily accommodate your daily essentials, from cards to mobile devices. Its versatile aesthetic transitions effortlessly between formal and casual settings. Equipped with a practical carrying strap, it delivers effortless elegance for any occasion. Available with worldwide shipping and crafted exclusively made to order.",
+ "desc_es": "Esta billetera de cuero sintético combina sofisticación moderna y funcionalidad depurada. Confeccionada con materiales de primera calidad, presenta una silueta alargada diseñada para albergar con facilidad sus esenciales cotidianos, desde tarjetas hasta dispositivos móviles. Su estética versátil se adapta sin esfuerzo tanto a compromisos formales como informales. Equipada con una práctica correa de transporte, ofrece una elegancia funcional en cualquier ocasión. Disponible con envío a todo el mundo y confeccionada exclusivamente bajo pedido.",
+ "details_en": "· Made to order\n· Worldwide shipping\n· High-grade synthetic leather\n· Metal zip closure\n· Practical removable carrying strap\n· Spacious interior for phone, cash, and cards\n· Clean regularly with a dry cloth and air dry",
+ "details_es": "· Hecho a pedido\n· Envío mundial\n· Cuero sintético de alta calidad\n· Cierre de cremallera metálica\n· Práctica correa de transporte extraíble\n· Amplio espacio interior para teléfono, efectivo y tarjetas\n· Limpiar regularmente con un paño seco y secar al aire",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-1-zX7g5sX3co.jpg?v=1727992398",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-5-zX7g5sX3co.jpg?v=1727992406",
@@ -18,13 +30,8 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-9-zX7g5sX3co.jpg?v=1727992413",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-11-zX7g5sX3co.jpg?v=1727992416",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-13-zX7g5sX3co.jpg?v=1727992420",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-15-zX7g5sX3co.jpg?v=1727992424",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-17-zX7g5sX3co.jpg?v=1727992427",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-2-zX7g5sX3co.jpg?v=1727992430",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-4-zX7g5sX3co.jpg?v=1727992434",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-6-zX7g5sX3co.jpg?v=1727992438",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-8-zX7g5sX3co.jpg?v=1727992442",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-10-zX7g5sX3co.jpg?v=1727992445"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-2-zX7g5sX3co.jpg?v=1727992430"
  ],
  "draft": false,
  "fam": "cartera-piel-sintetica",
@@ -32,23 +39,46 @@
  "id": "shopify-cartera-de-piel-sintetica-2-0-daz-luxury-2-black",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Underwear · Black",
- "name_es": "Ropa Interior Manhattan · Negro",
+ "name_en": "Printed Synthetic Wallet",
+ "name_es": "Billetera Sintética Estampada",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 286,
+ "rank": 1050,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Thickness"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Grosor"
+  ],
+  "notes_en": "Made to order. Worldwide shipping.",
+  "notes_es": "Hecho a pedido. Envío mundial.",
+  "rows": [
+   [
+    "19.2",
+    "10.3",
+    "2.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992349-15-zX7g5sX3co.jpg?v=1727992424"
+ ],
  "sizes": [
   "Black"
  ],

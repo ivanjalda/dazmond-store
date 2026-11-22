@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Blanco / White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "13.86 oz high-end polyester",
  "ai_priority": true,
+ "ai_type": "sweatshirt hoodie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefine urban elegance with this haute couture piece. Conceived with a sophisticated asymmetric neckline exposing a single shoulder via a subtle technical strap. It merges with a dramatic fluid batwing sleeve. The white canvas displays an all-over graphic black star pattern. The signature handwritten monogram stands out in royal violet on the chest. A creation available made-to-order with worldwide shipping.",
+ "desc_es": "Redefina la elegancia urbana con esta pieza de alta costura. Concebida con un sofisticado escote asimétrico que deja al descubierto un solo hombro mediante un sutil tirante técnico. Se fusiona con una dramática manga murciélago de caída fluida. Su lienzo blanco exhibe un patrón integral de estrellas gráficas negras. El monograma manuscrito de la firma destaca en violeta real sobre el pecho. Una creación disponible bajo pedido con envío mundial.",
+ "details_en": "· Made to order\n· Worldwide shipping available\n· Composition: 13.86 oz high-end polyester\n· Asymmetric neckline with technical strap\n· All-over graphic star pattern\n· Embroidered chest monogram",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible\n· Composición: poliéster de alta gama de 13.86 oz\n· Escote asimétrico con tirante técnico\n· Patrón integral de estrellas gráficas\n· Monograma bordado en el pecho",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_y82vpoy82vpoy82v.png?v=1781701755",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_z0xmo0z0xmo0z0xm.png?v=1781701755",
@@ -24,18 +35,18 @@
  "id": "shopify-design-womens-cold-shoulder-sweatshirt-1",
  "img_checked": "2026-11-20",
  "look": [
-  "shopify-braguita-daz-de-mujer",
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Madison Sweatshirt",
- "name_es": "Sudadera Madison",
+ "name_en": "Stellar Silhouette Asymmetric Sweatshirt",
+ "name_es": "Sudadera Asimétrica Stellar Silhouette",
  "needs_review": false,
  "page": true,
  "price_usd": 25.99,
- "rank": 383,
+ "rank": 1145,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% cotton",
  "ai_priority": true,
+ "ai_type": "briefs",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in cotton, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad en algodón se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "True sophistication begins from the first layer. This exclusive piece combines a pure black background with a hypnotic pattern of faceted diamonds in neon tones. The ergonomic design gently embraces the feminine silhouette with a highly adaptable elastic waistband. Crafted entirely from premium cotton, it offers superior breathability and organic softness for all day wear. Made to order with worldwide shipping.",
+ "desc_es": "La verdadera sofisticación comienza desde la primera capa. Esta pieza exclusiva combina un fondo negro puro con un hipnótico patrón de diamantes facetados en tonos neón. El diseño ergonómico abraza suavemente la silueta femenina con una cintura elástica de alta adaptabilidad. Confeccionada íntegramente en algodón premium, ofrece una transpirabilidad superior y una suavidad orgánica para todo el día. Pieza hecha a pedido con envíos a todo el mundo.",
+ "details_en": "· 100% high-density cotton (190 g/m²)\n· Anatomical fit with mid-low rise\n· Highly adaptable elastic waistband\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% algodón de alta densidad (190 g/m²)\n· Ajuste anatómico y tiro medio-bajo\n· Pretina elástica de alta adaptabilidad\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_79mxls79mxls79mx.png?v=1780685833",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_fa73cyfa73cyfa73.png?v=1780685832",
@@ -24,18 +35,18 @@
  "id": "shopify-design-all-over-print-womens-cotton-underwear-6",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Manhattan Underwear",
- "name_es": "Ropa Interior Manhattan",
+ "name_en": "Neon Diamonds Cotton Briefs",
+ "name_es": "Bragas de Algodón Neon Diamonds",
  "needs_review": false,
  "page": true,
  "price_usd": 23.99,
- "rank": 219,
+ "rank": 983,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/mallas",
+  "mujer/leggings"
+ ],
+ "ai_color": "navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "polyester",
  "ai_priority": true,
+ "ai_type": "cap",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Navy",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Define your everyday style with the DAZ 144 premium cap. Crafted from high-quality polyester fabric, it combines structured front panels with a breathable mesh back for superior comfort. The embroidered design delivers a refined accent, while the adjustable closure ensures a seamless fit. An essential piece for daily wear, designed to offer versatility and functional elegance. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Defina su estilo cotidiano con la gorra premium DAZ 144. Confeccionada en tejido de poliéster de alta calidad, combina paneles frontales estructurados con un respaldo de malla transpirable para una comodidad superior. El diseño bordado aporta un acento refinado, mientras que el cierre ajustable garantiza un ajuste perfecto. Una pieza esencial para el día a día, diseñada para ofrecer versatilidad y elegancia funcional. Cada pieza se confecciona bajo demanda con envío mundial disponible.",
+ "details_en": "· High-quality polyester fabric with breathable mesh back\n· Front embroidered design\n· Adjustable closure at the back\n· Circumference 56-60 cm, crown height 11 cm, brim length 8 cm\n· Hand wash recommended with cold water, do not bleach, air dry\n· Made to order with worldwide shipping available",
+ "details_es": "· Tejido de poliéster de alta calidad con respaldo de malla transpirable\n· Diseño bordado frontal\n· Cierre ajustable en la parte posterior\n· Circunferencia de 56-60 cm, altura de 11 cm, ala de 8 cm\n· Lavado a mano recomendado con agua fría, no usar blanqueador, secar al aire\n· Confeccionado bajo demanda y disponible con envío mundial",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-1-i4fGGOF7G8.jpg?v=1728389895",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-4-i4fGGOF7G8.jpg?v=1728389873",
@@ -20,11 +32,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-24-i4fGGOF7G8.jpg?v=1728389892",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-5-i4fGGOF7G8.jpg?v=1728389899",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-9-i4fGGOF7G8.jpg?v=1728389902",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-13-i4fGGOF7G8.jpg?v=1728389905",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-17-i4fGGOF7G8.jpg?v=1728389909",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-21-i4fGGOF7G8.jpg?v=1728389912",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-3-i4fGGOF7G8.jpg?v=1728389916",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-7-i4fGGOF7G8.jpg?v=1728389920"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-13-i4fGGOF7G8.jpg?v=1728389905"
  ],
  "draft": false,
  "fam": "gorra-premium-malla",
@@ -32,18 +40,18 @@
  "id": "shopify-gorra-daz-premium-144-de-malla-navy",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Atelier Tights · Navy",
- "name_es": "Mallas Atelier · Azul Marino",
+ "name_en": "DAZ 144 Premium Cap",
+ "name_es": "Gorra Premium DAZ 144",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 142,
+ "rank": 906,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

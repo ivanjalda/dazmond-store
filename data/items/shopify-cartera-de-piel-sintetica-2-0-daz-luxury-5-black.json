@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Wallet",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This synthetic leather wallet is exquisitely crafted for modern sophistication. Impeccably designed with premium materials, it features ample space for your phone, cash, and cards. Complete with a practical carrying strap for everyday convenience. The modern aesthetic combines functionality with elegance, ensuring effortless style for any occasion. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Esta billetera de cuero sintético ha sido exquisitamente elaborada para la sofisticación moderna. Impecablemente diseñada con materiales de primera calidad, cuenta con un amplio espacio para su teléfono, efectivo y tarjetas. Disponible con una práctica correa de transporte para mayor comodidad. Su estética moderna combina funcionalidad con elegancia, asegurando un estilo sin esfuerzo para cualquier ocasión. Cada pieza es confeccionada bajo pedido y cuenta con envío mundial.",
+ "details_en": "· High quality synthetic leather\n· Ample storage for phone, cash, and cards\n· Includes carrying strap\n· Suitable for formal and casual occasions\n· Clean regularly with a dry cloth and air dry\n· Made-to-order piece",
+ "details_es": "· Cuero sintético de alta calidad\n· Espacio amplio para teléfono, efectivo y tarjetas\n· Incluye correa de transporte\n· Diseño adecuado para ocasiones formales e informales\n· Limpiar regularmente con un paño seco y secar al aire\n· Pieza confeccionada bajo pedido",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-1-5SBl0bPgMK.jpg?v=1727992818",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-13-5SBl0bPgMK.jpg?v=1727992846",
@@ -18,13 +30,8 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-7-5SBl0bPgMK.jpg?v=1727992832",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-9-5SBl0bPgMK.jpg?v=1727992836",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-11-5SBl0bPgMK.jpg?v=1727992841",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-15-5SBl0bPgMK.jpg?v=1727992849",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-17-5SBl0bPgMK.jpg?v=1727992854",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-2-5SBl0bPgMK.jpg?v=1727992859",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-4-5SBl0bPgMK.jpg?v=1727992863",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-6-5SBl0bPgMK.jpg?v=1727992867",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-8-5SBl0bPgMK.jpg?v=1727992871",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-10-5SBl0bPgMK.jpg?v=1727992875"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-2-5SBl0bPgMK.jpg?v=1727992859"
  ],
  "draft": false,
  "fam": "cartera-piel-sintetica",
@@ -32,23 +39,46 @@
  "id": "shopify-cartera-de-piel-sintetica-2-0-daz-luxury-5-black",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Underwear · Black",
- "name_es": "Ropa Interior Monogram · Negro",
+ "name_en": "Daz Printed Long Wallet",
+ "name_es": "Billetera Larga Estampada Daz",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 292,
+ "rank": 1056,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Thickness"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Grosor"
+  ],
+  "notes_en": "Dimensions are measured manually. Made-to-order pieces with worldwide shipping.",
+  "notes_es": "Las dimensiones se miden manualmente. Piezas confeccionadas bajo pedido con envío mundial.",
+  "rows": [
+   [
+    "19.2",
+    "10.3",
+    "2.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992765-15-5SBl0bPgMK.jpg?v=1727992849"
+ ],
  "sizes": [
   "Black"
  ],

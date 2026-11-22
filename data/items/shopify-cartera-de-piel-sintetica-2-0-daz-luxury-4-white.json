@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Wallet",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "White",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Exquisitely crafted for modern sophistication. Impeccably designed with premium synthetic leather, it features ample space for your phone, cash, and cards. The lightweight and comfortable silhouette combines utility with style, ensuring effortless elegance for any occasion. Made-to-order piece with worldwide shipping.",
+ "desc_es": "Exquisitamente elaborada para la sofisticación moderna. Impecablemente diseñada con cuero sintético de primera calidad, cuenta con un amplio espacio para su teléfono, efectivo y tarjetas. La silueta ligera y cómoda combina funcionalidad con estilo, asegurando una elegancia sin esfuerzo para cualquier ocasión. Pieza confeccionada bajo demanda con envíos a todo el mundo.",
+ "details_en": "· High-grade synthetic leather\n· Ample storage for phone, cash, and cards\n· Convenient carry strap\n· Zipper closure\n· Clean regularly with a dry cloth and air dry\n· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Cuero sintético de alta calidad\n· Espacio amplio para teléfono, efectivo y tarjetas\n· Correa de transporte práctica\n· Cierre de cremallera\n· Limpiar regularmente con un paño seco y secar al aire\n· Pieza confeccionada bajo demanda\n· Envíos a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-2-4wELwKIRIj.jpg?v=1727992696",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-13-4wELwKIRIj.jpg?v=1727992683",
@@ -19,12 +31,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-7-4wELwKIRIj.jpg?v=1727992671",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-9-4wELwKIRIj.jpg?v=1727992675",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-11-4wELwKIRIj.jpg?v=1727992679",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-15-4wELwKIRIj.jpg?v=1727992687",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-17-4wELwKIRIj.jpg?v=1727992691",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-4-4wELwKIRIj.jpg?v=1727992700",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-6-4wELwKIRIj.jpg?v=1727992705",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-8-4wELwKIRIj.jpg?v=1727992709",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-10-4wELwKIRIj.jpg?v=1727992713"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-17-4wELwKIRIj.jpg?v=1727992691"
  ],
  "draft": false,
  "fam": "cartera-piel-sintetica",
@@ -32,23 +39,46 @@
  "id": "shopify-cartera-de-piel-sintetica-2-0-daz-luxury-4-white",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Hudson Underwear · White",
- "name_es": "Ropa Interior Hudson · Blanco",
+ "name_en": "DAZ Luxury Briefcases Long Wallet",
+ "name_es": "Billetera Larga DAZ Luxury Briefcases",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 291,
+ "rank": 1055,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Thickness"
+  ],
+  "headers_es": [
+   "Longitud",
+   "Ancho",
+   "Grosor"
+  ],
+  "notes_en": "Dimensions are measured manually. Please allow slight variations.",
+  "notes_es": "Las dimensiones se miden manualmente. Permita ligeras variaciones.",
+  "rows": [
+   [
+    "19.2 cm / 7.6 in",
+    "10.3 cm / 4.1 in",
+    "2.5 cm / 1.0 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-15-4wELwKIRIj.jpg?v=1727992687"
+ ],
  "sizes": [
   "White"
  ],

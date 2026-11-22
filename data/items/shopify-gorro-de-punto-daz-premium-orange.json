@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Orange / Black / Blue / Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Acrylic",
  "ai_priority": true,
+ "ai_type": "Beanie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,23 +18,19 @@
  ],
  "color": "Orange",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This knit beanie combines urban design with essential comfort. Crafted from stretch fabric, it offers a soft and lightweight feel. The gradient pattern brings modernity to cold weather days. A versatile piece for the winter season.",
+ "desc_es": "Este gorro de punto combina diseño urbano y confort esencial. Confeccionado con tejido elástico, ofrece una textura suave y ligera. Su patrón degradado aporta modernidad a las jornadas de frío. Una pieza versátil para la temporada de invierno.",
+ "details_en": "· Made to order and available with worldwide shipping\n· Stretch acrylic fabric\n· Hand wash or machine wash cold, do not bleach, air dry recommended",
+ "details_es": "· Hecho bajo pedido y disponible con envío mundial\n· Tejido acrílico elástico\n· Se recomienda lavar a mano o a máquina con agua fría, no usar blanqueador y secar al aire",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-5-gm0rG8Ak72.jpg?v=1731617685",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-2-gm0rG8Ak72.jpg?v=1731617635",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-7-gm0rG8Ak72.jpg?v=1731617639",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-12-gm0rG8Ak72.jpg?v=1731617643",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-17-gm0rG8Ak72.jpg?v=1731617648",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-3-gm0rG8Ak72.jpg?v=1731617652",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-8-gm0rG8Ak72.jpg?v=1731617656",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-13-gm0rG8Ak72.jpg?v=1731617660",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-18-gm0rG8Ak72.jpg?v=1731617664",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-4-gm0rG8Ak72.jpg?v=1731617668",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-9-gm0rG8Ak72.jpg?v=1731617673",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-14-gm0rG8Ak72.jpg?v=1731617677",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-19-gm0rG8Ak72.jpg?v=1731617681",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-10-gm0rG8Ak72.jpg?v=1731617689"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-4-gm0rG8Ak72.jpg?v=1731617668"
  ],
  "draft": false,
  "fam": "gorro-punto-premium",
@@ -32,23 +38,44 @@
  "id": "shopify-gorro-de-punto-daz-premium-orange",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-353253137",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Sweater",
- "name_es": "Suéter Avenue",
+ "name_en": "Tie-Dye Knit Beanie",
+ "name_es": "Gorro de Punto Tie-Dye",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 299,
+ "rank": 1063,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "Measurements are taken flat.",
+  "notes_es": "Las medidas se toman en plano.",
+  "rows": [
+   [
+    "20",
+    "24"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-17-gm0rG8Ak72.jpg?v=1731617648",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-18-gm0rG8Ak72.jpg?v=1731617664"
+ ],
  "sizes": [
   "Orange"
  ],

@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester lining",
  "ai_priority": true,
+ "ai_type": "Tote Bag",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "color": "Green",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette redefining natural elegance for the season. This tote bag features a structured design with a finely woven body and durable carry handles. It offers generous capacity and functional interior zoning. Lightweight and portable, it brings a touch of understated sophistication to any daily ensemble. Made to order with worldwide shipping.",
+ "desc_es": "Una silueta refinada que redefine la elegancia natural para la temporada. Este bolso presenta un diseño estructurado con un cuerpo finamente tejido y asas duraderas. Ofrece una gran capacidad y una organización interior funcional. Ligero y portátil, aporta un toque de sofisticación discreta a cualquier conjunto diario. Confeccionado bajo pedido con envío a todo el mundo.",
+ "details_en": "· Polyester lining\n· Woven body structure\n· Dual top carry handles\n· Clean the interior with a damp cloth and air dry\n· Made to order with worldwide shipping",
+ "details_es": "· Forro de poliéster\n· Estructura tejida\n· Asas superiores dobles\n· Limpiar el interior con un paño húmedo y secar al aire\n· Hecho bajo pedido y disponible con envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-3-Deu6OcoR7f.jpg?v=1727883761",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-2-Deu6OcoR7f.jpg?v=1727883677",
@@ -17,14 +27,9 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-10-Deu6OcoR7f.jpg?v=1727883686",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-14-Deu6OcoR7f.jpg?v=1727883691",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-18-Deu6OcoR7f.jpg?v=1727883695",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-22-Deu6OcoR7f.jpg?v=1727883701",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-1-Deu6OcoR7f.jpg?v=1727883705",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-5-Deu6OcoR7f.jpg?v=1727883710",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-9-Deu6OcoR7f.jpg?v=1727883715",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-13-Deu6OcoR7f.jpg?v=1727883720",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-17-Deu6OcoR7f.jpg?v=1727883725",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-21-Deu6OcoR7f.jpg?v=1727883729",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-4-Deu6OcoR7f.jpg?v=1727883734"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-9-Deu6OcoR7f.jpg?v=1727883715"
  ],
  "draft": false,
  "fam": "bolso-bandolera",
@@ -32,23 +37,46 @@
  "id": "shopify-bolso-daz-con-bandolera-green",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Soho Case · Green",
- "name_es": "Funda Soho · Verde",
+ "name_en": "Woven Straw Tote Bag",
+ "name_es": "Bolso de Paja Tejido",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 281,
+ "rank": 1045,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Bag Height",
+   "Bag Width",
+   "Strap Drop"
+  ],
+  "headers_es": [
+   "Altura del bolso",
+   "Ancho del bolso",
+   "Caída de la correa"
+  ],
+  "notes_en": "Measurements are provided in centimeters. Worldwide shipping available.",
+  "notes_es": "Las medidas se indican en centímetros. Envío a todo el mundo disponible.",
+  "rows": [
+   [
+    "21",
+    "30",
+    "14.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-22-Deu6OcoR7f.jpg?v=1727883701"
+ ],
  "sizes": [
   "Green"
  ],

@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "White, Yellow, Light Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cotton",
  "ai_priority": true,
+ "ai_type": "Visor",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "White",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The DAZ visor redefines casual elegance for sunlit days. Crafted from soft cotton, this piece offers essential protection against solar rays while maintaining a refined silhouette. Its design includes an extra-large headband that ensures a comfortable fit for diverse circumferences. Ideal for outdoor pursuits or moments of leisure, this visor balances functionality with understated style. Each piece is made to order in the United States with worldwide shipping available.",
+ "desc_es": "La visera DAZ redefine la elegancia casual para los días soleados. Confeccionada con algodón suave, esta pieza ofrece una protección esencial contra los rayos solares mientras mantiene una silueta refinada. Su diseño incluye una diadema extra grande que asegura un ajuste cómodo para diversas circunferencias. Ideal para actividades al aire libre o momentos de descanso, esta visera combina funcionalidad y estilo depurado. Cada pieza es elaborada bajo pedido en Estados Unidos con envíos a todo el mundo.",
+ "details_en": "· Soft and high-quality cotton\n· Extra-large headband adaptable to most circumferences\n· Adjustable velcro closure\n· Cotton sweatband\n· UV-protective brim\n· Made to order with worldwide shipping\n· Hand wash cold, do not bleach, air dry",
+ "details_es": "· Algodón suave y de alta calidad\n· Diadema extra grande adaptable a la mayoría de circunferencias\n· Cierre ajustable de velcro\n· Banda absorbente de algodón\n· Visera protectora contra rayos UV\n· Hecho bajo pedido con envíos a todo el mundo\n· Lavado a mano con agua fría, no usar blanqueador, secar al aire",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-1-NObIjHOka1.jpg?v=1728389388",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-6-NObIjHOka1.jpg?v=1728389280",
@@ -17,14 +29,9 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-18-NObIjHOka1.jpg?v=1728389287",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-24-NObIjHOka1.jpg?v=1728389291",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-30-NObIjHOka1.jpg?v=1728389295",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-5-NObIjHOka1.jpg?v=1728389302",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-11-NObIjHOka1.jpg?v=1728389305",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-17-NObIjHOka1.jpg?v=1728389309",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-23-NObIjHOka1.jpg?v=1728389313",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-29-NObIjHOka1.jpg?v=1728389316",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-35-NObIjHOka1.jpg?v=1728389320",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-3-NObIjHOka1.jpg?v=1728389324"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-17-NObIjHOka1.jpg?v=1728389309"
  ],
  "draft": false,
  "fam": "gorra-premium",
@@ -32,23 +39,43 @@
  "id": "shopify-gorra-daz-premium-white",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-365090873",
+  "printful-353253137",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Riviera Hat · White",
- "name_es": "Gorro Riviera · Blanco",
+ "name_en": "DAZ Premium Visor",
+ "name_es": "Visera DAZ Premium",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 114,
+ "rank": 881,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Brim"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Visera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Por favor permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "55cm(22.0\")-60cm(24\")",
+    "15cm(5.9\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389098-36-NObIjHOka1.jpg?v=1728389298"
+ ],
  "sizes": [
   "White"
  ],

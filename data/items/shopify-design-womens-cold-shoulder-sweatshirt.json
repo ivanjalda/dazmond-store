@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Poliéster",
  "ai_priority": true,
+ "ai_type": "Hoodie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Blanco a manchas",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Redefine the rules of luxury streetwear with a high fashion piece conceived for the contemporary woman. This hoodie subverts the classic through a high-impact asymmetric silhouette featuring an exposed single shoulder supported by a subtle technical strap. The visual proposal presents a vibrant off-white canvas covered by a kaleidoscopic pattern of abstract splatters. The classic signature monogram stands out subtly on the chest in a minimalist stroke.",
+ "desc_es": "Redefina las reglas del streetwear de lujo con una pieza de alta costura concebida para la mujer contemporánea. Esta sudadera subvierte lo clásico mediante una silueta asimétrica de alto impacto que deja al descubierto un solo hombro, sostenido por un sutil tirante técnico. Su propuesta visual presenta un vibrante lienzo blanco roto cubierto por un patrón caleidoscópico de salpicaduras abstractas. El monograma clásico de la firma destaca sutilmente sobre el pecho en un trazo minimalista.",
+ "details_en": "· Crafted from high-end 13.86 oz polyester fibers\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Confeccionado con fibras de poliéster de alta gama de 13.86 oz\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_w6sp5yw6sp5yw6sp.png?v=1781707855",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_cwd611cwd611cwd6.png?v=1781707857",
@@ -26,18 +37,18 @@
  "id": "shopify-design-womens-cold-shoulder-sweatshirt",
  "img_checked": "2026-11-20",
  "look": [
-  "shopify-braguita-daz-de-mujer",
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Imperial Sweatshirt",
- "name_es": "Sudadera Imperial",
+ "name_en": "Chromatic Splash Cold Shoulder Hoodie",
+ "name_es": "Sudadera Chromatic Splash con Hombro Descubierto",
  "needs_review": false,
  "page": true,
  "price_usd": 25.99,
- "rank": 382,
+ "rank": 1144,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

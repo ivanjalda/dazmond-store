@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% elastano",
  "ai_priority": true,
+ "ai_type": "long sleeve top",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +16,15 @@
  ],
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Fluid elegance for everyday wear. Wrap yourself in a calm and distinguished presence with this essential piece. Its crossover V-neck design and front decorative buttons bring a subtle refinement that accompanies your every move with natural grace. Tailored to offer consistent softness and superior comfort against the skin. Made-to-order piece with worldwide shipping.",
+ "desc_es": "Elegancia fluida para el día a día. Envuélvete en una presencia calmada y distinguida con esta pieza esencial. Su diseño de cuello en V cruzado y los botones decorativos frontales aportan un refinamiento sutil que acompaña cada uno de tus movimientos con gracia natural. Confeccionado para ofrecer suavidad constante y un confort superior sobre la piel. Pieza confeccionada bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% elastane fabric with a cotton touch effect\n· Crossover V-neck and central decorative buttons\n· Long sleeves and streamlined silhouette\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Tejido 95% poliéster, 5% elastano con efecto tacto algodón\n· Cuello en V cruzado y botones decorativos centrales\n· Manga larga y silueta estilizada\n· Confección bajo demanda y envíos a todo el mundo",
  "display_images": [
   "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-1.webp",
   "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-2.webp",
   "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-3.webp",
   "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-4.webp",
-  "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-5.webp",
   "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-6.webp"
  ],
  "draft": false,
@@ -22,23 +32,101 @@
  "hidden": false,
  "id": "interestprint-design-womens-cross-v-neck-button-long-sleeve-top",
  "look": [
-  "shopify-braguita-daz-de-mujer",
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407",
+  "printful-350906743"
  ],
  "material": "",
- "name_en": "Hudson Tee · White",
- "name_es": "Camiseta Hudson · Blanco",
+ "name_en": "Aura Silvestre Long Sleeve Top",
+ "name_es": "Top Aura Silvestre de Manga Larga",
  "needs_review": false,
  "page": true,
  "price_usd": 25.99,
- "rank": 318,
+ "rank": 1082,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Length",
+   "Waist",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Pecho",
+   "Largo",
+   "Cintura",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "96cm / 37.8in",
+    "64cm / 25.2in",
+    "96cm / 37.8in",
+    "58cm / 22.83in"
+   ],
+   [
+    "M",
+    "102cm / 40.16in",
+    "65cm / 25.59in",
+    "102cm / 40.16in",
+    "59cm / 23.23in"
+   ],
+   [
+    "L",
+    "108cm / 42.52in",
+    "66cm / 25.98in",
+    "108cm / 42.52in",
+    "60cm / 23.62in"
+   ],
+   [
+    "XL",
+    "116cm / 45.67in",
+    "68cm / 26.77in",
+    "116cm / 45.67in",
+    "61.5cm / 24.21in"
+   ],
+   [
+    "2XL",
+    "124cm / 48.82in",
+    "70cm / 27.56in",
+    "124cm / 48.82in",
+    "63cm / 24.8in"
+   ],
+   [
+    "3XL",
+    "132cm / 51.97in",
+    "71cm / 27.95in",
+    "132cm / 51.97in",
+    "64cm / 25.2in"
+   ],
+   [
+    "4XL",
+    "140cm / 55.12in",
+    "72cm / 28.35in",
+    "140cm / 55.12in",
+    "65cm / 25.59in"
+   ],
+   [
+    "5XL",
+    "148cm / 58.27in",
+    "73cm / 28.74in",
+    "148cm / 58.27in",
+    "66cm / 25.98in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/interestprint-design-womens-cross-v-neck-button-long-sleeve-top-5.webp"
+ ],
  "sizes": [
   "S",
   "M",

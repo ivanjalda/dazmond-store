@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Wallet",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This refined wallet combines avant-garde design with impeccable functionality. Expertly crafted, it features generous interior space for your daily essentials while maintaining a sleek, lightweight silhouette. Refined details and a practical carrying strap ensure effortless versatility for any occasion. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Esta refinada billetera combina un diseño vanguardista con una funcionalidad impecable. Confeccionada con esmero, presenta un amplio espacio interior para sus esenciales cotidianos, manteniendo una silueta elegante y ligera. Los detalles depurados y la práctica correa de transporte aseguran una versatilidad sin esfuerzo para cualquier ocasión. Cada pieza se elabora bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Composition: Synthetic leather\n· Closure: Metal zipper\n· Includes removable hand strap\n· Regular cleaning with a dry cloth\n· Made to order",
+ "details_es": "· Composición: Cuero sintético\n· Cierre: Cremallera metálica\n· Incluye correa de mano extraíble\n· Limpieza regular con un paño seco\n· Hecho bajo pedido",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-1-tFwVI3QsEe.jpg?v=1727992266",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-13-tFwVI3QsEe.jpg?v=1727992289",
@@ -18,13 +30,8 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-7-tFwVI3QsEe.jpg?v=1727992278",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-9-tFwVI3QsEe.jpg?v=1727992282",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-11-tFwVI3QsEe.jpg?v=1727992286",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-15-tFwVI3QsEe.jpg?v=1727992293",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-17-tFwVI3QsEe.jpg?v=1727992297",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-2-tFwVI3QsEe.jpg?v=1727992301",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-4-tFwVI3QsEe.jpg?v=1727992305",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-6-tFwVI3QsEe.jpg?v=1727992309",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-8-tFwVI3QsEe.jpg?v=1727992313",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-10-tFwVI3QsEe.jpg?v=1727992317"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-2-tFwVI3QsEe.jpg?v=1727992301"
  ],
  "draft": false,
  "fam": "cartera-piel-sintetica",
@@ -32,23 +39,46 @@
  "id": "shopify-cartera-de-piel-sintetica-2-0-daz-luxury-1-black",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Underwear · Black",
- "name_es": "Ropa Interior Monogram · Negro",
+ "name_en": "DAZ Printed Strap Wallet",
+ "name_es": "Billetera Estampada con Correa DAZ",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 284,
+ "rank": 1048,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height",
+   "Depth"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto",
+   "Profundidad"
+  ],
+  "notes_en": "Measurements are provided in centimeters.",
+  "notes_es": "Las medidas se proporcionan en centímetros.",
+  "rows": [
+   [
+    "10.3",
+    "19.2",
+    "2.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992208-15-tFwVI3QsEe.jpg?v=1727992293"
+ ],
  "sizes": [
   "Black"
  ],

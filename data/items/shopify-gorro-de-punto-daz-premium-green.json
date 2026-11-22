@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Acrylic",
  "ai_priority": true,
+ "ai_type": "Beanie",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,23 +18,19 @@
  ],
  "color": "Green",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This knit beanie combines an urban design with a soft and stretchy texture. Designed for the cold season, it offers a delicate and lightweight feel that effortlessly complements any daily or outdoor outfit. Its packable silhouette brings versatility and ease of use at all times. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Este gorro de punto combina un diseño urbano con una textura suave y elástica. Pensado para la temporada de frío, ofrece un tacto delicado y ligero que acompaña con naturalidad cualquier atuendo diario o de exterior. Su silueta plegable aporta versatilidad y facilidad de uso en todo momento. Cada pieza se confecciona bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Stretchy acrylic fabric\n· Foldable and packable design\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Tejido acrílico elástico\n· Gorro plegable y empacable\n· Confeccionado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-4-gm0rG8Ak72.jpg?v=1731617668",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-2-gm0rG8Ak72.jpg?v=1731617635",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-7-gm0rG8Ak72.jpg?v=1731617639",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-12-gm0rG8Ak72.jpg?v=1731617643",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-17-gm0rG8Ak72.jpg?v=1731617648",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-3-gm0rG8Ak72.jpg?v=1731617652",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-8-gm0rG8Ak72.jpg?v=1731617656",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-13-gm0rG8Ak72.jpg?v=1731617660",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-18-gm0rG8Ak72.jpg?v=1731617664",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-9-gm0rG8Ak72.jpg?v=1731617673",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-14-gm0rG8Ak72.jpg?v=1731617677",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-19-gm0rG8Ak72.jpg?v=1731617681",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-5-gm0rG8Ak72.jpg?v=1731617685",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-10-gm0rG8Ak72.jpg?v=1731617689"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-9-gm0rG8Ak72.jpg?v=1731617673"
  ],
  "draft": false,
  "fam": "gorro-punto-premium",
@@ -32,23 +38,44 @@
  "id": "shopify-gorro-de-punto-daz-premium-green",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-353253137",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Sweater · Green",
- "name_es": "Suéter Manhattan · Verde",
+ "name_en": "Printed Knit Beanie",
+ "name_es": "Gorro de Punto Estampado",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 298,
+ "rank": 1062,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "Measurements are taken flat.",
+  "notes_es": "Las medidas se toman en plano.",
+  "rows": [
+   [
+    "20",
+    "24"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-17-gm0rG8Ak72.jpg?v=1731617648",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617101-18-gm0rG8Ak72.jpg?v=1731617664"
+ ],
  "sizes": [
   "Green"
  ],

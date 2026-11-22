@@ -1,4 +1,8 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
  "ai_color": "Black",
  "ai_copy": true,
  "ai_done": true,
@@ -7,11 +11,12 @@
  "ai_priority": true,
  "ai_sizes": "One Size",
  "ai_type": "cap",
+ "audited": "2026-11-22",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/mallas",
-  "mujer/leggings"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "color": "Black",
  "created": "2026-11-19",
@@ -36,10 +41,10 @@
  "id": "shopify-gorra-daz-de-malla-2",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-365090873",
+  "printful-353253137",
+  "printful-346239758"
  ],
  "material": "Polyester",
  "name_en": "DAZ Graphic Trucker Cap",
@@ -47,7 +52,7 @@
  "needs_review": false,
  "page": true,
  "price_usd": 22.99,
- "rank": 57,
+ "rank": 824,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Wallet",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This synthetic leather wallet is exquisitely crafted for modern sophistication. Impeccably designed with premium materials, it features ample space for your phone, cash, and cards. Available with elegant interiors and a practical carrying strap. Its lightweight design combines comfort with style, ensuring effortless elegance for any occasion.",
+ "desc_es": "Esta billetera de cuero sintético está exquisitamente elaborada para la sofisticación moderna. Impecablemente diseñada con materiales de primera calidad, cuenta con un amplio espacio para su teléfono, efectivo y tarjetas. Disponible con interiores elegantes y una práctica correa de transporte. Su diseño ligero combina comodidad con estilo, asegurando una elegancia sin esfuerzo para cualquier ocasión.",
+ "details_en": "· Made to order with worldwide shipping\n· Composition: High-quality synthetic leather\n· Elongated design with ample storage for phone, cash, and cards\n· Includes a removable carrying strap\n· Metal zipper closure\n· Clean regularly with a dry cloth and air dry",
+ "details_es": "· Hecho a pedido con envío mundial\n· Composición: Cuero sintético de alta calidad\n· Diseño alargado con amplio almacenamiento para teléfono, efectivo y tarjetas\n· Incluye correa de transporte extraíble\n· Cierre con cremallera metálica\n· Limpiar regularmente con un paño seco y secar al aire",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-1-WO99qMFRdY.jpg?v=1727991938",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-3-WO99qMFRdY.jpg?v=1727991942",
@@ -18,13 +30,8 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-9-WO99qMFRdY.jpg?v=1727991955",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-11-WO99qMFRdY.jpg?v=1727991959",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-13-WO99qMFRdY.jpg?v=1727991963",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-15-WO99qMFRdY.jpg?v=1727991967",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-17-WO99qMFRdY.jpg?v=1727991971",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-2-WO99qMFRdY.jpg?v=1727991975",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-4-WO99qMFRdY.jpg?v=1727991980",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-6-WO99qMFRdY.jpg?v=1727991984",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-8-WO99qMFRdY.jpg?v=1727991989",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-10-WO99qMFRdY.jpg?v=1727991993"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-2-WO99qMFRdY.jpg?v=1727991975"
  ],
  "draft": false,
  "fam": "cartera-piel-sintetica",
@@ -32,23 +39,46 @@
  "id": "shopify-cartera-de-piel-sintetica-2-0-daz-luxury-black",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Atelier Underwear · Black",
- "name_es": "Ropa Interior Atelier · Negro",
+ "name_en": "Floral Synthetic Leather Wallet",
+ "name_es": "Billetera Floral de Cuero Sintético",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 294,
+ "rank": 1058,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Thickness"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Grosor"
+  ],
+  "notes_en": "Dimensions are measured manually. Made-to-order worldwide shipping.",
+  "notes_es": "Las dimensiones se miden manualmente. Piezas bajo pedido con envío mundial.",
+  "rows": [
+   [
+    "19.2",
+    "10.3",
+    "2.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727991799-15-WO99qMFRdY.jpg?v=1727991967"
+ ],
  "sizes": [
   "Black"
  ],

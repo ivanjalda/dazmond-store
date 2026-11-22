@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "rojo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% algodón",
  "ai_priority": true,
+ "ai_type": "briefs",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Rojo",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order in cotton, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad en algodón se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "True sophistication begins from the first layer. This exclusive piece from the collection has been meticulously designed for the woman seeking uncompromising comfort and style. Set against a vibrant scarlet red background, an emblematic imperial crown sits atop a faceted diamond, flanked by detailed black-line wings. A bold concept elevating everyday lingerie to an art form. Crafted from high-density materials ensuring superior durability.",
+ "desc_es": "La verdadera sofisticación comienza desde la primera capa. Esta pieza exclusiva de la colección ha sido diseñada meticulosamente para la mujer que busca comodidad y estilo excepcional. Sobre un fondo rojo escarlata vibrante, se despliega una emblemática corona imperial asentada sobre un diamante tallado, flanqueada por alas detalladas en trazo negro. Un concepto audaz que eleva la lencería a una categoría de arte. Confeccionadas con materiales de alta densidad para asegurar una durabilidad superior.",
+ "details_en": "· 100% high-density cotton with 190 g/m2 weight\n· Highly adaptable elastic waistband\n· Classic mid-to-low rise cut\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100% algodón de alta densidad con gramaje de 190 g/m2\n· Cintura elástica de alta adaptabilidad\n· Corte clásico de tiro medio-bajo\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_yqigf8yqigf8yqig.png?v=1780690661",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_pn9nk7pn9nk7pn9n.png?v=1780690662",
@@ -24,18 +35,18 @@
  "id": "shopify-design-all-over-print-womens-cotton-underwear-2",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Monogram Underwear",
- "name_es": "Ropa Interior Monogram",
+ "name_en": "Imperial Wings & Diamonds Briefs",
+ "name_es": "Bragas Imperial Wings y Diamantes",
  "needs_review": false,
  "page": true,
  "price_usd": 23.99,
- "rank": 216,
+ "rank": 980,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

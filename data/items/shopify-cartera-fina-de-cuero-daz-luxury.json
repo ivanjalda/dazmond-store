@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "PU leather",
  "ai_priority": true,
+ "ai_type": "wallet",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
-  "mujer/bolsos-carteras"
+  "hombre/bolsos-carteras"
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This piece embodies the seamless fusion of functionality and refined design. Crafted from high-quality PU leather, it features a slim profile that slips effortlessly into any pocket. The interior is structured with precision to offer order and comfort for daily use. Subtle gold-toned details bring a distinctive character to this essential accessory. Each item is crafted specially for you on demand, ensuring exclusivity and worldwide shipping available for your convenience.",
+ "desc_es": "Esta pieza encarna la fusión perfecta entre funcionalidad y diseño depurado. Confeccionada en cuero PU de alta calidad, presenta un perfil delgado que se desliza con facilidad en cualquier bolsillo. Su interior está estructurado con precisión para ofrecer orden y comodidad en el uso diario. Los detalles sutiles en tono dorado aportan un carácter distintivo a este accesorio esencial. Cada pieza se elabora especialmente para usted bajo demanda, garantizando exclusividad y un envío mundial disponible para su comodidad.",
+ "details_en": "· Made to order exclusively for you\n· High quality and durable PU leather\n· Dimensions: 11.5 x 9.2 cm (4.5 x 3.6 inches)\n· 5 card slots and one ID window\n· Wipe with a clean, dry cloth",
+ "details_es": "· Hecho a pedido exclusivamente para usted\n· Cuero PU de alta calidad y duradero\n· Medidas: 11.5 x 9.2 cm (4.5 x 3.6 pulgadas)\n· 5 ranuras para tarjetas y una ventana para DNI\n· Limpiar con un paño limpio y seco",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1750333268-1-SzfxDJMdrm.jpg?v=1750333493",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1750333268-2-SzfxDJMdrm.jpg?v=1750333493",
@@ -24,18 +34,18 @@
  "id": "shopify-cartera-fina-de-cuero-daz-luxury",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Bag",
- "name_es": "Bolso Monogram",
+ "name_en": "DAZ Diamond Leather Wallet",
+ "name_es": "Billetera de cuero DAZ Diamond",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 129,
+ "rank": 895,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

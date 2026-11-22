@@ -2,7 +2,7 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "decor"
  ],
  "color": "Black Base",
  "created": "2026-11-19",
@@ -21,18 +21,15 @@
  "hidden": false,
  "id": "printify-667f166751b029587d086730",
  "look": [
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro",
-  "shopify-gorra-daz-de-malla"
+  "printful-382149130"
  ],
  "material": "",
- "name_en": "Hudson Piece · Black",
- "name_es": "Pieza Hudson · Negro",
- "needs_review": true,
+ "name_en": "Hudson Watch · Black",
+ "name_es": "Reloj Hudson · Negro",
+ "needs_review": false,
  "page": true,
  "price_usd": 64.99,
- "rank": 1900,
+ "rank": 1907,
  "shipping_usd": 9.39,
  "shipping_worst_usd": 22.19,
  "shop_verified": false,

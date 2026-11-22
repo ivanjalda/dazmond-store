@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zuecos-hombre",
+  "calzado-mujer/zuecos"
+ ],
+ "ai_color": "Multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "EVA / Fleece",
  "ai_priority": true,
+ "ai_type": "Clogs",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold silhouette defined by an intricate skull and rose print. These clogs fuse utilitarian comfort with a dark, romantic aesthetic. Constructed with a lightweight EVA sole and an ultra-soft fleece interior that envelops the foot in warmth. Upper ventilation holes ensure breathability, while the adjustable heel strap allows for superior wear versatility. A statement piece for everyday lounging, available made to order with worldwide shipping.",
+ "desc_es": "Una silueta audaz definida por un intrincado estampado de calaveras y rosas. Estos zuecos fusionan la comodidad utilitaria con una estética oscura y romántica. Confeccionados con una suela de EVA ligera y un interior de vellón ultrasuave que envuelve el pie en calidez. Los orificios de ventilación superiores garantizan la transpirabilidad, mientras que la correa ajustable en el talón permite una versatilidad de uso superior. Una pieza de declaración para el descanso diario, disponible bajo pedido con envío a todo el mundo.",
+ "details_en": "· Black EVA sole with cushioning and insulation\n· Ultra-soft fleece lined interior\n· Upper holes for ventilation\n· Adjustable heel strap\n· Made to order with worldwide shipping",
+ "details_es": "· Suela de EVA negra con amortiguación y aislamiento\n· Interior forrado de vellón ultrasuave\n· Orificios superiores para ventilación\n· Correa de talón ajustable\n· Producto bajo pedido con envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735831955-1-Zu3yVuKvpd.jpg?v=1735832242",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735831955-2-Zu3yVuKvpd.jpg?v=1735832246",
@@ -19,9 +31,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735831955-6-Zu3yVuKvpd.jpg?v=1735832260",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735831955-7-Zu3yVuKvpd.jpg?v=1735832268",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735831955-8-Zu3yVuKvpd.jpg?v=1735832272",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735831955-9-Zu3yVuKvpd.jpg?v=1735832276",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735831955-10-Zu3yVuKvpd.jpg?v=1735832280",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20241219173449-vcO6BQw5w7.jpg?v=1735832286"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735831955-9-Zu3yVuKvpd.jpg?v=1735832276"
  ],
  "draft": false,
  "fam": "zuecos-lujo-adultos",
@@ -29,18 +39,18 @@
  "id": "shopify-zuecos-daz-luxury-negros-calidos-con-forro-de-piel-para-adultos",
  "img_checked": "2026-11-20",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Madison House Slippers",
- "name_es": "Zapatillas de Casa Madison",
+ "name_en": "Printed Skull Lined Clogs",
+ "name_es": "Zuecos Forrados Estampados Calavera",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 422,
+ "rank": 1184,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

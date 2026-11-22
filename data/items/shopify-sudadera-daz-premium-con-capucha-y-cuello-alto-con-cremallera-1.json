@@ -1,23 +1,31 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "polyester, spandex, cotton",
  "ai_priority": true,
+ "ai_type": "hoodie",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/chandal-sudaderas",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/chandal-sudaderas"
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette redefining casual elegance. This piece combines a soft touch cotton, polyester and spandex blend. The design features a high collar with full zip and an adjustable drawstring hood. Tailored to provide versatility in every movement. Made-to-order pieces with worldwide shipping to ensure exclusivity and sustainability.",
+ "desc_es": "Una silueta refinada que redefine la elegancia casual. Esta prenda combina una mezcla de algodón, poliéster y elastano de tacto suave. Su diseño presenta un cuello alto con cremallera completa y capucha con cordón ajustable. Pensada para ofrecer versatilidad en cada movimiento. Piezas elaboradas bajo demanda con envíos a todo el mundo para garantizar exclusividad y sostenibilidad.",
+ "details_en": "· Polyester, spandex and cotton blend\n· High collar with full zipper\n· Hood with drawstring\n· Hand wash with cold water\n· Made to order with worldwide shipping",
+ "details_es": "· Mezcla de poliéster, elastano y algodón\n· Cuello alto con cremallera completa\n· Capucha con cordón\n· Lavar a mano con agua fría\n· Hecho bajo pedido con envíos a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732636813-1-XCGfpCBlyC.jpg?v=1732636868",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732636813-2-XCGfpCBlyC.jpg?v=1732636872",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732636813-3-XCGfpCBlyC.jpg?v=1732636875",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732636813-4-XCGfpCBlyC.jpg?v=1732636878",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732636813-5-XCGfpCBlyC.jpg?v=1732636882",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240105154826-dLZ1Od30mm_c6f2b642-3977-4d40-97ac-2865c0621b1f.jpg?v=1732636884",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240618105702-SzSdYzBsze_dd3408e5-aa2a-4ae8-b044-ef1dfd502a12.jpg?v=1732636886"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240105154826-dLZ1Od30mm_c6f2b642-3977-4d40-97ac-2865c0621b1f.jpg?v=1732636884"
  ],
  "draft": false,
  "fam": "sudadera-premium-capucha",
@@ -25,23 +33,91 @@
  "id": "shopify-sudadera-daz-premium-con-capucha-y-cuello-alto-con-cremallera-1",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Soho Sweatshirt",
- "name_es": "Sudadera Soho",
+ "name_en": "DAZ Premium Zip Hoodie",
+ "name_es": "Sudadera con cremallera DAZ Premium",
  "needs_review": false,
  "page": true,
  "price_usd": 25.99,
- "rank": 266,
+ "rank": 1030,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Sleeve Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud",
+   "Pecho",
+   "Longitud de Manga"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "72cm(28.3\")",
+    "108cm(42.5\")",
+    "61cm(24.0\")"
+   ],
+   [
+    "M",
+    "74cm(29.1\")",
+    "113cm(44.5\")",
+    "62cm(24.4\")"
+   ],
+   [
+    "L",
+    "76cm(29.9\")",
+    "118cm(46.5\")",
+    "63cm(24.8\")"
+   ],
+   [
+    "XL",
+    "78cm(30.7\")",
+    "123cm(48.4\")",
+    "64cm(25.2\")"
+   ],
+   [
+    "2XL",
+    "80cm(31.5\")",
+    "130cm(51.2\")",
+    "65cm(25.6\")"
+   ],
+   [
+    "3XL",
+    "82cm(32.3\")",
+    "137cm(53.9\")",
+    "66cm(26.0\")"
+   ],
+   [
+    "4XL",
+    "84cm(33.1\")",
+    "145cm(57.1\")",
+    "67cm(26.4\")"
+   ],
+   [
+    "5XL",
+    "86cm(33.9\")",
+    "153cm(60.2\")",
+    "68cm(26.8\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240618105702-SzSdYzBsze_dd3408e5-aa2a-4ae8-b044-ef1dfd502a12.jpg?v=1732636886"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T13:20:05Z",
+  "updated": "2026-11-22T17:40:47Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -22232,6 +22232,6927 @@
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printful-435701833-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-435701833-stone": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-435701833-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-400737993": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-400736605": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-400735243": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-400730106": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-397250241": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-397239673-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-397239673-maroon": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-397239673-asphalt": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-397239673-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-397235572-white-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-397235572-white-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-397235572-white-true-royal": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-397235572-white-baby-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-397235572-white-pink": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-390189490": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-390187180": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-389620568-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-389620568-vintage-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-389620568-vintage-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-389620058-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-389620058-vintage-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-389620058-vintage-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388854972": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388853545": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388766136": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388759613-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388759613-navy-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388759613-red-white-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388759613-navy-white-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388759613-kelly-white-kelly": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388759613-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388757073-black-denim": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388757073-light-denim": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388090129-washed-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388090129-washed-maroon": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388090129-khaki": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-388090129-vintage-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-387730756": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-387730570": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-387730385": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-387730180": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384506401": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384504359": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384503653": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384453697": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384449913": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384449711": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384449487": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384447583": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384447018": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384445533": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384445240": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384445016": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384444895": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384430477": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-384430422": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383480559": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383480440": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383480040": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383479826": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383479506": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383435466": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383320103": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383275082": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383274831": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383274677": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383253695-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383253695-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383253695-cool-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383253695-stone": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383253695-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383200891-french-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383200891-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383200891-stone": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383200891-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383200450-purple": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383200450-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383200450-military-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383200450-gold": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383192424-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383192424-hot-pink": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383192424-tahiti-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-383192424-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382734259": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382723410-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382723410-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382723410-forest-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382723198-french-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382723198-anthracite": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382723198-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382723144-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382723144-light-steel": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382720873-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382720873-midnight-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382720873-castlerock": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382669231": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382667910": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382664306-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382664306-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382664306-sandshell": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382664306-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382664039-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382664039-charcoal-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382664039-sandshell": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382664039-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382652539": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382652279-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382652279-orchid": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382652279-ivory": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382652279-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382447883": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382447715": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382447306-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382447306-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382447306-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-382149130": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-380925198": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-379325836": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-379325480": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-379324926": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-379237645": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-379236736": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-379234884": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-377268088-true-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-377268088-pepper": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-377268088-crimson": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-377268088-violet": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-377268088-seafoam": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-377268088-butter": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-377268088-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-375123306": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-375123007-vintage-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-375123007-purple-rush": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-375123007-heather-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-375122880": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374547366-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374547366-hazy-pink": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374547366-bubblegum": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374547366-orchid": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546782-solid-black-blend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546782-heather-mauve": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546782-solid-white-blend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546510-solid-black-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546510-berry-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546510-clay-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546510-purple-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546510-red-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546510-blue-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546510-olive-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546510-mauve-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546510-athletic-grey-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546510-mustard-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546151-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546151-burgundy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546151-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546151-desert-dust": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546151-fraiche-peche": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546151-lavender": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374546151-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479601-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479601-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479601-steel-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479601-cool-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479601-stone": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479601-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479157-black-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479157-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479157-maroon": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479157-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479157-dark-grey-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479157-heather-deep-teal": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479157-military-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479157-storm": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479157-athletic-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374479157-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374459449": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374458726-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374458726-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374458726-royal-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374458726-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374458726-dark-heather-grey-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374458726-dark-heather-grey-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374458726-dark-heather-grey-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374458726-dark-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374458726-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-374458726-gold": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-369131790-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-369131790-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-369131790-charcoal-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-369131790-khaki": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368904495-solid-black-blend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368904495-solid-navy-blend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368904495-athletic-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368904495-solid-baby-blue-blend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368904495-solid-pink-blend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368904495-solid-white-blend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368723955": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368722486": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368719493": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368718438": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368696860-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368696860-navy-blazer": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368696860-team-royal": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368696860-forest-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368696860-team-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368696860-carbon-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368696860-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368696673-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368696673-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368696673-mulled-berry": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368165235-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368165235-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368165235-scarlet": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368165235-royal-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368165235-graphite": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368165235-light-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368165235-gold": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368164600-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368164600-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368164279-charcoal-black-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368164279-heather-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368164279-grey-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-368164279-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-366928432": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-366921393": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-366740149": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-366735214": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-366733932": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-366732740": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-366731478": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-366730180": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-366728997": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-366725658": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-365295456": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-365100380": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-365100205": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-365099967": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-365098803": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-365090873": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-361906822": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359399071-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359399071-military-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359399071-storm": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359397315-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359397315-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359397315-blue-jean": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359397315-light-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359397315-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359397315-violet": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359397315-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359396971-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359396971-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359396971-blue-jean": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359396971-light-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359396971-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359396971-violet": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359396971-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359098124": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359098063": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359098026": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359097921": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359097614": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359097537": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359097459": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359097410": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359097373": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-359095524": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358798486": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358797822": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358797556": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358797146": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358796935": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358793792": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358793701": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358793621": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358793469": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358793289": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358793215": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358793153": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358793005": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358792886": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358776386": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358776306": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358776212": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358776018": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358775968": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358775632": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358775476": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358058041": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358056799": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358056692": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358056492": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358055382": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358055021": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358054864": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358054769": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358054481": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358048607-pigment-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358048607-pigment-alpine-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358048607-pigment-maroon": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358048607-pigment-slate-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358048607-pigment-pink": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-358048607-pigment-light-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357300210-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357300210-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357300009-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357300009-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357299724-milky-way": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357299724-navy-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357299724-black-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357201001": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357199592": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357190967": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357190057": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357117283-black-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357117283-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357117283-rustic-orange-khaki": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357117283-pink": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357117283-heather-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357117283-khaki": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357117283-moss-khaki": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-357117283-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355737541": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355737361": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355737256": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355737200": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355737146": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355737078": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355736860": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355736791": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355736711": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355736667": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355673037": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355672832": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355672608": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355672265": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355671999": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355671683": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355671315": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355671032": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355670856": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355658645": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355650241": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355649830-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355649830-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355649466": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355648860-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355648860-garnet-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355648860-dark-army-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355648860-denim-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355648669-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355648669-maroon": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355648669-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355648669-blush-white-zipper": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355648669-aqua-white-zipper": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355648669-white-camo": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355274608": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355273549": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355272517": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355247274-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355247274-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355247274-dark-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355247274-sport-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355247274-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355239822-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355239822-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355239822-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355222189-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355222189-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355222189-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355218110-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355218110-heather-dark-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355218110-royal-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355218110-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355218110-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355216133-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355216133-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355216133-sport-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355216133-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355213902-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355213902-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355213902-steel-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355213902-cool-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355213902-stone": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-355213902-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353949263-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353949263-midnight-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353949263-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353949263-royal-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353949263-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353946987-solid-black-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353946987-emerald-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353946987-true-royal-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353946987-mustard-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353946987-solid-white-triblend": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353943023-faded-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353943023-faded-khaki": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353943023-faded-eucalyptus": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353943023-faded-bone": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353939181-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353939181-charcoal": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353939181-natural": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353939181-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353935974-black-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353935974-toast": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353935974-heather-prism-ice-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353530362": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353530301": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353530272": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353530196": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353530163": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353530121": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353530062": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353529998-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353529998-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353529998-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353395230": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353394148": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353393894": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353393584": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353393118-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353393118-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353392940-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353392940-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353392150-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353392150-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353392098-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353392098-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353391864-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353391864-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353289556": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353289143": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353288950": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353287797": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353286462": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353286181": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353286013": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353285926": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353285840": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353285753": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353259083": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353258492": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353257640": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353256711": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353255832": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353255556": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353254680": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353253745": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-353253137": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-352001765": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-352000081": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351998454": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351997890": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351997422": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351995957": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351994757": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351994215": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351993507": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351993139": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351979578": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351977611": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351975513-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351975513-vintage-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351975513-pine": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351975513-latte": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351975513-red-sorbet": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351975513-artichoke": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351974298": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351973802": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351973407": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351972560": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351971469": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351969651": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351737181": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351736483": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351736401": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351736305": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351528219": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351517351": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351516955": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351516227": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351515362": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351514660": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351513767": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351513689": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351513587": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351513427": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351513341": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351513069": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351512876": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351512708": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351512378": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351512008": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351511771": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351493150-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351493150-sport-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351493150-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351492946": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351492660-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351492660-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351492575-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351492575-collegiate-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351492575-collegiate-royal": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351492575-grey-three": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351492575-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351335271": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351335038": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351334683": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351334579": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351334439": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351334398": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351334347": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351334297": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351334261": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351334169": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351333867": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351333681": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351240942": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351239571": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351239057": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351238617": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351238171": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351237348": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351236871": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351236137": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351235755": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351235260": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351233726": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351232858": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351228269": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351227996": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351227846": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351227753": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351227569": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351227475": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351227396": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351227258": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351227095": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351226999": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351226941": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351226891": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351226806": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351226679": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351077618": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351073439": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351071663": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351071058": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351069976": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351069243": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351068704": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351066933": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351066528": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351065912": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351065513": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351065170": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351058797": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351058417": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351057906": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351057476": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351057192": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351055925": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351055597": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351055469": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351055401": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351055272": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351055072": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351054819": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351054571": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-351054155": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350950976": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350941809": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350940188": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350939577": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350938936": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350938353": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350935783": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350935068": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350934118": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350925543": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350922835": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350921824": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350921166": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350914836": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350914126": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350913931": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350913646": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350912308": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350912162": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350912065": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350911993": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350911919": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350911800": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350906812": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350906743": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350905712-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350905712-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350903800-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350903800-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350701037": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350700978": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350700341": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350693301": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350686245": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350685758": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350685608": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350685519": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350685348": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350684788": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350684703": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350684556": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350476996-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350476996-fireside-brown": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350476996-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350468176-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350468176-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printful-350468176-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printful-350468176-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printful-350468176-turquoise": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printful-350468176-orange": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printful-350468176-silver": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printful-350468176-lime": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printful-350468176-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printful-350465229": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350464341": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350463068": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350460816": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350459260": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350451408": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350449566-black-melange": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350449566-collegiate-navy-melange": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350449566-grey-one-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350349792-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350349792-collegiate-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350347768-collegiate-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350347768-grill": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350347768-sage": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350347768-fossil": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350217428": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350211542": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350210408": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-350206066": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348135955-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348135955-brown": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348135955-royal": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348135955-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348135955-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348135955-gold": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348135955-baby-pink": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348135955-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348134135-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348134135-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348134135-heather-charcoal": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348134135-rust": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348134135-camel": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348134135-birch": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348121492-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348121492-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348121492-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348121492-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348121492-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348012249": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348007172-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-348007172-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346242058-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346242058-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346241861-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346241861-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346241204-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346241204-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346240693": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346239758": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346233020": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346231972": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346230976": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346070112": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346068864": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346067824": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346066674": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-346064924": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345763591": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345761844-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345761844-heather-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345761844-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345759651": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345663286-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345663286-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345663286-carbon-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345660622-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345660622-navy-blazer": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345660622-team-royal": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345660622-forest-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345660622-carbon-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345660622-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345652771-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345652771-burgundy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345652771-charcoal-melange": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345652771-bottle-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345652771-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345638355-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345638355-navy-blazer": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345638355-maroon": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345638355-team-royal": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345638355-forest-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345638355-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345586537-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345586537-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345578536-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345578536-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345578536-scarlet": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345578536-royal-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345578536-graphite": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345572003": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345571687": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345450415-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345450415-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345450415-sport-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345450415-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345440561-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345440561-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345440561-forest-green": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345440561-grey": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345440561-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345437603-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345437603-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345437603-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345437603-stone": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345437603-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345382575-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345382575-collegiate-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345382575-black-heather": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345382575-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345381301-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345381301-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345378939-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345378939-midnight-navy": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345378939-red": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345378939-royal-blue": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-345378939-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-344773746": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-344669970": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-344668439": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-344666567": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-340020852-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-340020852-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-339928791": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-338164409": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-338164153": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-338163690": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-338109422": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337652313": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337652183": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337647274-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337647274-dusty-rose": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337647274-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337634540": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337631453-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337631453-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337543998": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337439868-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337439868-white": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337184187-faded-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337184187-faded-eucalyptus": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337173980": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337156579": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337091341": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
+      "revenue_30d": 0.0
+    },
+    "printful-337085962": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": true,
       "revenue_30d": 0.0
     }
   }

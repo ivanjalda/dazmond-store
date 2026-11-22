@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Azul Zafiro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% Algodón",
  "ai_priority": true,
+ "ai_type": "briefs",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Azul",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in cotton, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co. en algodón, diseñada para acompañarte del día a la noche.",
+ "desc_en": "Sophistication begins at the first layer. This exclusive piece features a rich sapphire blue background with a central motif fusing a textured kiss with diamond geometry. Crafted from high-density cotton, they offer an impeccable anatomical fit that naturally contours the silhouette. A bold yet refined proposition that redefines essential lingerie with a distinctly contemporary character and absolute comfort.",
+ "desc_es": "La sofisticación comienza en la primera capa. Esta pieza exclusiva presenta un fondo azul zafiro intenso con un motivo central que fusiona un beso texturizado con la geometría de un diamante. Confeccionados en algodón de alta densidad, ofrecen un ajuste anatómico impecable que se adapta con naturalidad a la silueta. Una propuesta audaz y depurada que redefine la lencería esencial con un carácter marcadamente contemporáneo y una comodidad absoluta.",
+ "details_en": "· 100% Premium Cotton\n· Technical fabric weight of 190 g/m²\n· Classic mid-to-low rise cut\n· Highly adaptable elastic waistband\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% Algodón Premium\n· Gramaje técnico de 190 g/m²\n· Corte clásico de tiro medio-bajo\n· Cintura elástica de alta adaptabilidad\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_aps3e8aps3e8aps3.png?v=1780688198",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_jpr5zhjpr5zhjpr5.png?v=1780688198",
@@ -25,18 +36,18 @@
  "id": "shopify-design-all-over-print-womens-cotton-underwear-4",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Soho Underwear",
- "name_es": "Ropa Interior Soho",
+ "name_en": "Sapphire Kisses & Diamonds Briefs",
+ "name_es": "Briefs Sapphire Kisses & Diamonds",
  "needs_review": false,
  "page": true,
  "price_usd": 23.99,
- "rank": 217,
+ "rank": 981,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

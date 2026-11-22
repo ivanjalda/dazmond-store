@@ -1,22 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Gray, White, Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% cotton",
  "ai_priority": true,
+ "ai_type": "polo shirt",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "color": "Gray",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefine your casual wardrobe with this refined design essential. Crafted entirely from soft cotton to deliver superior comfort and breathability throughout the day. The silhouette features a classic polo collar and short sleeves, elevated by a unique partial print pattern that adds subtle sophistication. A versatile piece made to order with worldwide shipping available.",
+ "desc_es": "Redefine tu guardarropa informal con esta pieza esencial de diseño refinado. Confeccionada íntegramente en suave algodón para ofrecer comodidad superior y transpirabilidad durante toda la jornada. Su silueta presenta un clásico cuello de polo y mangas cortas, realzada por un exclusivo patrón de estampado parcial que añade sutil sofisticación. Una prenda versátil elaborada bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 100% cotton\n· Classic polo collar\n· Short sleeves\n· Partial print\n· Made to order\n· Worldwide shipping\n· Hand or machine wash cold, do not bleach, tumble dry low, do not iron, do not dry clean",
+ "details_es": "· 100% algodón\n· Clásico cuello de polo\n· Mangas cortas\n· Estampado parcial\n· Hecho bajo pedido\n· Envío a todo el mundo\n· Lavar a mano o a máquina con agua fría, no usar blanqueador, secar en secadora a baja temperatura, no planchar, no lavar en seco",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-4-oDnhF1Kysg.jpg?v=1726854150",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-4-oDnhF1Kysg.jpg?v=1726854150",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-4-oDnhF1Kysg.jpg?v=1726854150",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-4-oDnhF1Kysg.jpg?v=1726854150",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-4-oDnhF1Kysg.jpg?v=1726854150",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-4-oDnhF1Kysg.jpg?v=1726854150",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-4-oDnhF1Kysg.jpg?v=1726854150",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-1-oDnhF1Kysg.jpg?v=1726854076",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-6-oDnhF1Kysg.jpg?v=1726854080",
@@ -32,18 +36,18 @@
  "id": "shopify-polo-daz-premium-de-algodon-con-estampado-medio-gray",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Madison Polo · Grey",
- "name_es": "Polo Madison · Gris",
+ "name_en": "Poles Cotton Polo Shirt",
+ "name_es": "Polo de Algodón Estampado Poles",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 164,
+ "rank": 928,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

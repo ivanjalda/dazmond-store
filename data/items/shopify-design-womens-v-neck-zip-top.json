@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Poliéster y lino",
  "ai_priority": true,
+ "ai_type": "Tunic",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This tunic redefines contemporary sophistication with an architectural design approach. Its immaculate white canvas is decorated with a geometric pattern of dandelion seeds. The refined V-neckline is regulated by a subtle matte black metallic front zipper. The irregular cut hem sculpts movement with elegance. The signature handwritten monogram seals this timeless haute couture piece.",
+ "desc_es": "Esta túnica redefine la sofisticación contemporánea con una propuesta de diseño arquitectónico. Su inmaculado lienzo blanco está decorado con un patrón geométrico de semillas de diente de león. El refinado escote en V se regula mediante una discreta cremallera frontal metálica en color negro mate. El bajo de corte irregular esculpe el movimiento con elegancia. El monograma manuscrito de la firma sella esta pieza de alta costura atemporal.",
+ "details_en": "· Composition: polyester and linen blend\n· Fabric weight: 10.16 oz\n· V-neck with matte black metal front zipper\n· All-over geometric pattern\n· Irregular crossover hem\n· Handwritten monogram on right chest\n· Made to order pieces\n· Worldwide shipping",
+ "details_es": "· Composición: mezcla de poliéster y lino\n· Peso del tejido: 10.16 oz\n· Escote en V con cremallera frontal metálica en negro mate\n· Patrón geométrico integral\n· Bajo de corte irregular y cruzado\n· Monograma manuscrito en el pecho derecho\n· Made to order pieces\n· Worldwide shipping",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_fvaxn2fvaxn2fvax.png?v=1781792675",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_7we8li7we8li7we8.png?v=1781792678",
@@ -24,18 +35,18 @@
  "id": "shopify-design-womens-v-neck-zip-top",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-braguita-daz-de-mujer",
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407",
+  "printful-350906743"
  ],
  "material": "",
- "name_en": "Soho Tee",
- "name_es": "Camiseta Soho",
+ "name_en": "Asymmetric Dandelion Breeze Tunic",
+ "name_es": "Túnica Dandelion Breeze Asimétrica",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 131,
+ "rank": 897,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

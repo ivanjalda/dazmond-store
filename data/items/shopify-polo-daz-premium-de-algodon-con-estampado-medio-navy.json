@@ -1,22 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Navy, White, Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% cotton",
  "ai_priority": true,
+ "ai_type": "polo shirt",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "color": "Navy",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential garment crafted from pure cotton offering superior breathability for everyday wear. This polo features a classic collar design and short sleeves, elevated by a partial print pattern that introduces a distinctive nuance. The fabrication ensures a durable finish resilient to the passage of time. Each piece is made to order in our workshops. We offer worldwide shipping.",
+ "desc_es": "Una prenda esencial confeccionada en puro algodón que ofrece una transpirabilidad superior para el uso diario. Este polo presenta un diseño de cuello clásico y mangas cortas, realzado por un patrón de estampado parcial que aporta un matiz distintivo. Su confección garantiza un acabado duradero y resistente al paso del tiempo. Cada pieza es elaborada bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo.",
+ "details_en": "· 100% cotton\n· Classic polo collar\n· Short sleeves\n· Partial print pattern\n· Made to order\n· Available with worldwide shipping",
+ "details_es": "· 100 % algodón\n· Cuello de polo clásico\n· Mangas cortas\n· Patrón de estampado parcial\n· Hecho a medida\n· Disponible con envío a todo el mundo",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-3-oDnhF1Kysg.jpg?v=1726854112",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-3-oDnhF1Kysg.jpg?v=1726854112",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-3-oDnhF1Kysg.jpg?v=1726854112",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-3-oDnhF1Kysg.jpg?v=1726854112",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-3-oDnhF1Kysg.jpg?v=1726854112",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-3-oDnhF1Kysg.jpg?v=1726854112",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-3-oDnhF1Kysg.jpg?v=1726854112",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-1-oDnhF1Kysg.jpg?v=1726854076",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-6-oDnhF1Kysg.jpg?v=1726854080",
@@ -32,18 +36,18 @@
  "id": "shopify-polo-daz-premium-de-algodon-con-estampado-medio-navy",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Riviera Polo · Navy",
- "name_es": "Polo Riviera · Azul Marino",
+ "name_en": "Poles Cotton Print Polo",
+ "name_es": "Polo de Algodón Estampado Poles",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 165,
+ "rank": 929,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

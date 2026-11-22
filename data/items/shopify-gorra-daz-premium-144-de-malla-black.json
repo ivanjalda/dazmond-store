@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/mallas",
+  "mujer/leggings"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Tejido de poliéster",
  "ai_priority": true,
+ "ai_type": "Gorra",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your everyday style with this refined mesh cap. Crafted from high-quality polyester fabric with a breathable mesh back panel, it offers exceptional comfort for any occasion. Its structured silhouette features distinctive embroidered details on the front that add a subtle yet sophisticated character. The adjustable closure at the back ensures a flawless and versatile fit. An essential piece from our made-to-order collection, available with worldwide shipping.",
+ "desc_es": "Eleve su estilo diario con esta gorra de malla de diseño refinado. Confeccionada con un tejido de poliéster de alta calidad y un panel trasero de malla transpirable, ofrece una comodidad excepcional para cualquier ocasión. Su silueta estructurada presenta detalles bordados distintivos en la parte frontal que aportan un carácter sutil pero sofisticado. El cierre ajustable en la parte posterior garantiza un ajuste perfecto y versátil. Una pieza esencial de nuestra colección hecha bajo pedido, disponible con envíos a todo el mundo.",
+ "details_en": "· High-quality polyester fabric with breathable mesh back\n· Adjustable closure at the back\n· Embroidered athletic hat\n· Circumference 56-60 cm, height 11 cm, brim 8 cm\n· Recommended hand wash with cold water, do not bleach, air dry\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Tejido de poliéster de alta calidad con respaldo de malla transpirable\n· Cierre ajustable en la parte posterior\n· Sombrero deportivo bordado\n· Circunferencia de 56-60 cm, altura de 11 cm y ala de 8 cm\n· Lavado a mano recomendado con agua fría, no usar blanqueador, secar al aire\n· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-3-i4fGGOF7G8.jpg?v=1728389916",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-4-i4fGGOF7G8.jpg?v=1728389873",
@@ -20,11 +32,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-24-i4fGGOF7G8.jpg?v=1728389892",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-1-i4fGGOF7G8.jpg?v=1728389895",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-5-i4fGGOF7G8.jpg?v=1728389899",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-9-i4fGGOF7G8.jpg?v=1728389902",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-13-i4fGGOF7G8.jpg?v=1728389905",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-17-i4fGGOF7G8.jpg?v=1728389909",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-21-i4fGGOF7G8.jpg?v=1728389912",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-7-i4fGGOF7G8.jpg?v=1728389920"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-9-i4fGGOF7G8.jpg?v=1728389902"
  ],
  "draft": false,
  "fam": "gorra-premium-malla",
@@ -32,18 +40,18 @@
  "id": "shopify-gorra-daz-premium-144-de-malla-black",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Riviera Tights · Black",
- "name_es": "Mallas Riviera · Negro",
+ "name_en": "DAZ Premium Mesh Cap",
+ "name_es": "Gorra de Malla DAZ Premium",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 140,
+ "rank": 904,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

@@ -2,7 +2,7 @@
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "decor"
  ],
  "color": "",
  "created": "2026-11-19",
@@ -23,18 +23,15 @@
  "hidden": false,
  "id": "shopify-balon-de-futbol-daz-luxury",
  "look": [
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro",
-  "shopify-gorra-daz-de-malla"
+  "printful-382149130"
  ],
  "material": "",
- "name_en": "Noir Piece",
- "name_es": "Pieza Noir",
- "needs_review": true,
+ "name_en": "Noir Ball",
+ "name_es": "Balón Noir",
+ "needs_review": false,
  "page": true,
  "price_usd": 49.99,
- "rank": 1442,
+ "rank": 1800,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

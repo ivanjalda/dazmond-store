@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zuecos-hombre",
+  "calzado-mujer/zuecos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "EVA sole, fleece lining",
  "ai_priority": true,
+ "ai_type": "clogs",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your daily comfort with this essential house silhouette. Designed to offer insulation and lightness, they feature an EVA foam sole combined with an ultra-soft fleece interior lining. The functional design includes upper perforations for enhanced breathability and an adjustable heel strap allowing for dual wear. Each pair is made to order with worldwide shipping available.",
+ "desc_es": "Eleve su confort cotidiano con esta silueta esencial de la casa. Diseñados para ofrecer aislamiento y ligereza, incorporan una suela de espuma EVA combinada con un interior de suave forro de vellón. El diseño funcional incluye perforaciones superiores para mayor transpirabilidad y una correa ajustable en el talón que permite una doble forma de uso. Cada par se elabora bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Made to order with worldwide shipping\n· White EVA sole with basic support\n· Interior lined with ultra-soft fleece fur\n· Upper perforations for ventilation\n· Adjustable heel strap\n· Die-cast molded model with slip-resistant function",
+ "details_es": "· Elaborado bajo pedido con envío a todo el mundo\n· Suela de EVA blanca con soporte básico\n· Interior forrado con piel de vellón ultra suave\n· Perforaciones superiores para ventilación\n· Correa de talón ajustable\n· Modelo de fundición a presión con función antideslizante",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920559-1-fvSZNcibnb.jpg?v=1735920626",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920559-2-fvSZNcibnb.jpg?v=1735920630",
@@ -20,9 +32,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920559-7-fvSZNcibnb.jpg?v=1735920675",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920559-8-fvSZNcibnb.jpg?v=1735920686",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920559-9-fvSZNcibnb.jpg?v=1735920690",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920559-10-fvSZNcibnb.jpg?v=1735920694",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920559-11-fvSZNcibnb.jpg?v=1735920698",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20241219173301-C7bhv4tQF2_b423b38b-90b9-4da3-9dc4-27edc3adf87b.jpg?v=1735920700"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735920559-10-fvSZNcibnb.jpg?v=1735920694"
  ],
  "draft": false,
  "fam": "zuecos-premium-blancos",
@@ -30,18 +40,18 @@
  "id": "shopify-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos-1",
  "img_checked": "2026-11-20",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Manhattan Clogs",
- "name_es": "Zuecos Manhattan",
+ "name_en": "DAZ Premium Fur Clogs",
+ "name_es": "Zuecos de Piel DAZ Premium",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 424,
+ "rank": 1186,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

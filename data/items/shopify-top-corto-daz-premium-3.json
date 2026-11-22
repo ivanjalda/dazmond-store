@@ -1,10 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
  "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "tank top",
+ "audited": "2026-11-22",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
  "color": "",
@@ -27,10 +32,10 @@
  "id": "shopify-top-corto-daz-premium-3",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro",
-  "shopify-gorra-daz-de-malla"
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407",
+  "printful-350906743"
  ],
  "material": "",
  "name_en": "Madison Tee",
@@ -38,7 +43,7 @@
  "needs_review": false,
  "page": true,
  "price_usd": 22.99,
- "rank": 25,
+ "rank": 792,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Tejido de punto superior",
  "ai_priority": true,
+ "ai_type": "Cárdigan",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +16,15 @@
  ],
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential garment designed with fluid lines and a relaxed silhouette. This cardigan offers a refined and sophisticated presence. Crafted from a superior knit fabric delivering softness and breathability. Long sleeves and a drop shoulder design define a contemporary look. An effortless match for any daily ensemble. A versatile piece for the season. Made especially on demand to ensure exclusivity. Worldwide shipping available.",
+ "desc_es": "Una prenda esencial diseñada con líneas fluidas y una silueta relajada. Este cárdigan ofrece una presencia depurada y sofisticada. Confeccionado con un tejido de punto superior que aporta suavidad y transpirabilidad. Las mangas largas y el diseño de hombros caídos definen un estilo contemporáneo. Combinación perfecta para cualquier atuendo diario. Una pieza versátil para la temporada. Fabricado especialmente bajo demanda para garantizar exclusividad. Envío mundial disponible.",
+ "details_en": "· Soft and breathable superior knit fabric\n· Drop shoulder design with relaxed long sleeves\n· Care instructions: hand or machine washable, wash at ≤45 °C, avoid prolonged soaking, do not bleach\n· This product is made especially for you as soon as you place an order",
+ "details_es": "· Tejido de punto superior suave y transpirable\n· Diseño de hombros caídos con mangas largas y relajadas\n· Instrucciones de cuidado: lavable a mano o a máquina, lavar a una temperatura inferior o igual a 45 °C, evitar el remojo prolongado, no usar lejía\n· Este producto está hecho especialmente para usted tan pronto como realiza un pedido",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c10ee675ee4888663275ec7253c3240a.jpg?v=1757955389",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/41c1b6bb48cc9eb6ff6c3495f322b86f.jpg?v=1757955389",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/fa50b25625916a855e69309f108f2f27.jpg?v=1757952072",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2e7b68339ac7a39c7edd4a3fa6b2d67e.jpg?v=1757952072",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4ea2b13c5114a6d2a5e3710d720eac83_f7e76f52-9f97-4953-b674-bddcc317abef.jpg?v=1757952071",
-  "http://ipimg.interestprint.com/data/product/4662/info/image/20250904/D03278106229FCB3729EB745603B57A5.jpg"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2e7b68339ac7a39c7edd4a3fa6b2d67e.jpg?v=1757952072"
  ],
  "draft": false,
  "fam": "cardigan-hombros-caidos",
@@ -23,23 +32,88 @@
  "id": "shopify-design-womens-drop-shoulder-cardigan-1",
  "img_checked": "2026-11-20",
  "look": [
-  "shopify-braguita-daz-de-mujer",
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Manhattan Jacket",
- "name_es": "Chaqueta Manhattan",
+ "name_en": "Daz Drop Shoulder Cardigan",
+ "name_es": "Cárdigan de Hombros Caídos Daz",
  "needs_review": false,
  "page": true,
  "price_usd": 27.99,
- "rank": 317,
+ "rank": 1081,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "BUST",
+   "SHOULDER",
+   "SLEEVE",
+   "LENGTH"
+  ],
+  "headers_es": [
+   "TALLA",
+   "PECHO",
+   "HOMBRO",
+   "MANGA",
+   "LARGO"
+  ],
+  "notes_en": "Note: Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "Nota: La medición manual puede presentar una diferencia de 1-2 cm. ¡Compruebe y compare cuidadosamente la talla antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "114cm / 44.8in",
+    "59cm / 23.2in",
+    "50cm / 19.6in",
+    "66cm / 25.9in"
+   ],
+   [
+    "M",
+    "120cm / 47.2in",
+    "62cm / 24.4in",
+    "50cm / 19.6in",
+    "68cm / 26.7in"
+   ],
+   [
+    "L",
+    "126cm / 49.6in",
+    "65cm / 25.5in",
+    "50cm / 19.6in",
+    "70cm / 27.5in"
+   ],
+   [
+    "XL",
+    "134cm / 52.7in",
+    "69cm / 27.1in",
+    "50cm / 19.6in",
+    "72cm / 28.3in"
+   ],
+   [
+    "2XL",
+    "142cm / 55.9in",
+    "73cm / 28.7in",
+    "50cm / 19.6in",
+    "74cm / 29.1in"
+   ],
+   [
+    "3XL",
+    "150cm / 59in",
+    "77cm / 30.3in",
+    "50cm / 19.6in",
+    "76cm / 29.9in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4ea2b13c5114a6d2a5e3710d720eac83_f7e76f52-9f97-4953-b674-bddcc317abef.jpg?v=1757952071",
+  "http://ipimg.interestprint.com/data/product/4662/info/image/20250904/D03278106229FCB3729EB745603B57A5.jpg"
+ ],
  "sizes": [
   "S",
   "M",

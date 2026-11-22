@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Green / Black / White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Wallet",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "White",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Modern sophistication finds its ultimate form in this impeccably crafted piece. Rendered in premium synthetic leather, it provides ample space for your phone, cash, and essential cards. The elongated silhouette is complemented by a practical carrying strap for enhanced security. Styled with sophisticated black and white interiors, this wallet bridges everyday utility with refined design. Suited for any formal or informal occasion.",
+ "desc_es": "La sofisticación moderna encuentra su forma definitiva en esta pieza impecablemente diseñada. Elaborada con cuero sintético de alta calidad, ofrece un amplio espacio para su teléfono, efectivo y tarjetas esenciales. Su diseño alargado se complementa con una práctica correa de transporte para mayor seguridad. Equipada con interiores en blanco y negro, esta billetera combina funcionalidad y estilo refinado. Adecuada para cualquier ocasión formal o informal.",
+ "details_en": "· High-quality synthetic leather\n· Ample storage for phone, cash, and cards\n· Includes practical carrying strap\n· Black and white interior options\n· Clean regularly with a dry cloth and air dry\n· Made-to-order piece with worldwide shipping available",
+ "details_es": "· Cuero sintético de alta calidad\n· Espacio amplio para teléfono, efectivo y tarjetas\n· Incluye correa de transporte práctica\n· Opciones de interior en blanco y negro\n· Limpiar regularmente con un paño seco y secar al aire\n· Pieza hecha a pedido con envío mundial disponible",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-2-kVB8wRPJiq.jpg?v=1727992507",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-13-kVB8wRPJiq.jpg?v=1727992496",
@@ -19,12 +31,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-7-kVB8wRPJiq.jpg?v=1727992485",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-9-kVB8wRPJiq.jpg?v=1727992488",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-11-kVB8wRPJiq.jpg?v=1727992492",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-15-kVB8wRPJiq.jpg?v=1727992500",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-17-kVB8wRPJiq.jpg?v=1727992504",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-4-kVB8wRPJiq.jpg?v=1727992511",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-6-kVB8wRPJiq.jpg?v=1727992516",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-8-kVB8wRPJiq.jpg?v=1727992520",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-10-kVB8wRPJiq.jpg?v=1727992524"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-17-kVB8wRPJiq.jpg?v=1727992504"
  ],
  "draft": false,
  "fam": "cartera-piel-sintetica",
@@ -32,23 +39,46 @@
  "id": "shopify-cartera-de-piel-sintetica-2-0-daz-luxury-3-white",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Manhattan Underwear · White",
- "name_es": "Ropa Interior Manhattan · Blanco",
+ "name_en": "Daz Synthetic Leather Wallet",
+ "name_es": "Billetera de Cuero Sintético Daz",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 289,
+ "rank": 1053,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Thickness"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Grosor"
+  ],
+  "notes_en": "Dimensions are measured manually. Made-to-order pieces available with worldwide shipping.",
+  "notes_es": "Las dimensiones se miden manualmente. Piezas bajo demanda disponibles con envío mundial.",
+  "rows": [
+   [
+    "19.2",
+    "10.3",
+    "2.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-15-kVB8wRPJiq.jpg?v=1727992500"
+ ],
  "sizes": [
   "White"
  ],

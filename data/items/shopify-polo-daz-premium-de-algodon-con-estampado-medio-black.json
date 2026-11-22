@@ -1,22 +1,26 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% cotton",
  "ai_priority": true,
+ "ai_type": "polo shirt",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This cotton polo shirt redefines casual elegance with a refined and contemporary design. Crafted entirely from natural fiber, it offers a soft and breathable texture that moves effortlessly with absolute lightness. The graphic details add a subtle touch of distinction to the classic silhouette. Each piece is made to order to ensure an unmatched standard of exclusivity. We offer worldwide shipping.",
+ "desc_es": "Este polo de algodón redefine la elegancia informal con un diseño depurado y contemporáneo. Confeccionado íntegramente en fibra natural, ofrece una textura suave y transpirable que acompaña cada movimiento con absoluta ligereza. Los detalles gráficos aportan un matiz sutil de distinción a la silueta clásica. Cada pieza se confecciona bajo pedido para garantizar un estándar de exclusividad inigualable. Ofrecemos envíos a todo el mundo.",
+ "details_en": "· 100% cotton\n· Classic polo collar\n· Short sleeves\n· Partial print with high-quality finish\n· Made to order\n· Available with worldwide shipping",
+ "details_es": "· 100 % algodón\n· Cuello de polo clásico\n· Mangas cortas\n· Estampado parcial con acabado de alta calidad\n· Confección bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-2-oDnhF1Kysg.jpg?v=1726854095",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-2-oDnhF1Kysg.jpg?v=1726854095",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-2-oDnhF1Kysg.jpg?v=1726854095",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-2-oDnhF1Kysg.jpg?v=1726854095",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-2-oDnhF1Kysg.jpg?v=1726854095",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-2-oDnhF1Kysg.jpg?v=1726854095",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-2-oDnhF1Kysg.jpg?v=1726854095",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-1-oDnhF1Kysg.jpg?v=1726854076",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726853925-6-oDnhF1Kysg.jpg?v=1726854080",
@@ -32,18 +36,18 @@
  "id": "shopify-polo-daz-premium-de-algodon-con-estampado-medio-black",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Riviera Polo · Black",
- "name_es": "Polo Riviera · Negro",
+ "name_en": "Poles Printed Cotton Polo Shirt",
+ "name_es": "Polo de Algodón Estampado Poles",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 163,
+ "rank": 927,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

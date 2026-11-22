@@ -1,8 +1,10 @@
 {
+ "ai_priority": true,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
  ],
  "color": "Silver",
  "created": "2026-11-19",
@@ -21,18 +23,18 @@
  "hidden": false,
  "id": "printify-667ffdfb544445f895024903",
  "look": [
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro",
-  "shopify-gorra-daz-de-malla"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Avenue Piece · Silver",
- "name_es": "Pieza Avenue · Plata",
- "needs_review": true,
+ "name_en": "Avenue Bag · Silver",
+ "name_es": "Bolso Avenue · Plata",
+ "needs_review": false,
  "page": true,
  "price_usd": 34.99,
- "rank": 2022,
+ "rank": 2029,
  "shipping_usd": 12.39,
  "shipping_worst_usd": 12.39,
  "shop_verified": false,

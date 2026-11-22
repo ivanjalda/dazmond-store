@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/conjuntos"
+ ],
+ "ai_color": "grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% spandex",
  "ai_priority": true,
+ "ai_type": "sportswear set",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Gris",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A calculated fusion of athletic aesthetics and urban sophistication. This grey set redefines the modern silhouette with clean lines and an imposing character. Crafted for the woman who demands presence and distinction in every movement. Its structured design offers an impeccable drape, while subtle finishes elevate the piece into a dimension of contemporary luxury. Made to order with worldwide shipping.",
+ "desc_es": "Una fusión calculada de estética atlética y sofisticación urbana. Este conjunto en tono gris redefine la silueta moderna con líneas depuradas y un carácter imponente. Confeccionado para la mujer que exige presencia y distinción en cada movimiento. Su diseño estructurado ofrece una caída impecable, mientras los acabados sutiles elevan la prenda hacia una dimensión de lujo contemporáneo. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Crafted from 95% polyester and 5% spandex\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Confeccionado en 95% poliéster y 5% spandex\n· Hecho bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "assets/products/shopify-design-cheerleading-uniform-lyq62-4-1.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-4-2.webp",
@@ -22,18 +33,18 @@
  "hidden": false,
  "id": "shopify-design-cheerleading-uniform-lyq62-4",
  "look": [
-  "shopify-braguita-daz-de-mujer",
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Avenue Set",
- "name_es": "Conjunto Avenue",
+ "name_en": "Elite Rebel Set",
+ "name_es": "Conjunto Elite Rebel",
  "needs_review": false,
  "page": true,
  "price_usd": 27.99,
- "rank": 273,
+ "rank": 1037,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

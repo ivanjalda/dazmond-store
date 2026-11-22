@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% cotton",
  "ai_priority": true,
+ "ai_type": "briefs",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Rosa",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order in cotton, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad en algodón se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "True sophistication begins from the first layer. This exclusive piece is meticulously designed for the woman seeking discreet luxury. Against a powdery pink background, an absolute black heraldic emblem unfolds. Precision pattern making respects natural body shapes. Crafted entirely from high-density cotton with a technical weight of 190 g/m². Made-to-order pieces with worldwide shipping.",
+ "desc_es": "La verdadera sofisticación comienza desde la primera capa. Esta pieza exclusiva ha sido diseñada meticulosamente para la mujer que busca un lujo discreto. Sobre un fondo rosa empolvado se despliega un emblema de inspiración heráldica en negro absoluto. Un patronaje de precisión que respeta las formas naturales del cuerpo. Confeccionados íntegramente en algodón de alta densidad con gramaje técnico de 190 g/m². Piezas hechas bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 100% premium cotton\n· Technical weight of 190 g/m²\n· High adaptability elastic waistband\n· Classic mid-low rise cut\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% algodón premium\n· Gramaje técnico de 190 g/m²\n· Cintura elástica de alta adaptabilidad\n· Corte clásico de tiro medio-bajo\n· Hecho bajo demanda\n· Envíos a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_af8xpuaf8xpuaf8x.png?v=1780935254",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_1hl7im1hl7im1hl7_1.png?v=1780935256",
@@ -22,18 +33,18 @@
  "id": "shopify-design-all-over-print-womens-cotton-underwear",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Monogram Underwear",
- "name_es": "Ropa Interior Monogram",
+ "name_en": "Imperial Diamond Emblem Briefs",
+ "name_es": "Calzones Imperial Diamond Emblem",
  "needs_review": false,
  "page": true,
  "price_usd": 23.99,
- "rank": 214,
+ "rank": 978,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

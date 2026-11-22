@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Rojo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% Algodón",
  "ai_priority": true,
+ "ai_type": "Briefs",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Rojo",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in cotton, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co. en algodón, diseñada para acompañarte del día a la noche.",
+ "desc_en": "True sophistication begins from the first layer. This exclusive piece has been meticulously designed for the woman who values both comfort and design. Set against a deep, opulent crimson red, a powerful visual statement unfolds at the center: a sensual textured kiss in absolute black that merges with the linear geometry of an iconic diamond. A suggestive and magnetic design redefining luxury lingerie. Crafted with precision pattern-making that honors natural forms and provides absolute freedom of movement.",
+ "desc_es": "La verdadera sofisticación comienza desde la primera capa. Esta pieza exclusiva ha sido diseñada meticulosamente para la mujer que busca comodidad y diseño. Sobre un fondo rojo carmesí profundo, se despliega una potente declaración visual en el centro: un sensual beso texturizado en negro absoluto que se fusiona con la geometría lineal de un diamante icónico. Un diseño sugerente y magnético que redefine la lencería de lujo. Confeccionados con un patronaje de precisión que respeta las formas naturales y ofrece una libertad de movimiento absoluta.",
+ "details_en": "· 100% Premium cotton with a technical 190 g/m² weight\n· Highly adaptable elastic waistband with a clean profile\n· Classic mid-to-low rise cut\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% Algodón Premium con gramaje técnico de 190 g/m²\n· Cintura elástica de alta adaptabilidad y perfil limpio\n· Corte clásico de tiro medio-bajo\n· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_k5s3ogk5s3ogk5s3.png?v=1780678014",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_4j080g4j080g4j08.png?v=1780678015",
@@ -22,18 +33,18 @@
  "id": "shopify-design-all-over-print-womens-cotton-underwear-5",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Manhattan Underwear",
- "name_es": "Ropa Interior Manhattan",
+ "name_en": "Crimson Kisses Cotton Briefs",
+ "name_es": "Calzones de Algodón Crimson Kisses",
  "needs_review": false,
  "page": true,
  "price_usd": 23.99,
- "rank": 218,
+ "rank": 982,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

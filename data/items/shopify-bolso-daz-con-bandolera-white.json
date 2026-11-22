@@ -1,30 +1,35 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "White / Brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Straw and Polyester",
  "ai_priority": true,
+ "ai_type": "Tote Bag",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "color": "White",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your daily collection with this woven tote bag by DAZMOND & Co. Crafted with attention to detail, it features a structured body with a polyester interior lining and durable handles designed for comfortable carrying. Its refined silhouette offers ample capacity for daily essentials, combining practicality with a sophisticated aesthetic. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Eleva tu colección diaria con este bolso tote trenzado de DAZMOND & Co. Confeccionado con atención al detalle, presenta un cuerpo estructurado con forro interior de poliéster y asas duraderas diseñadas para un uso cómodo. Su silueta refinada ofrece una amplia capacidad para tus esenciales diarios, combinando practicidad con una estética sofisticada. Cada pieza se elabora bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Woven body with polyester lining\n· Top handles with 14.5 cm drop\n· Dimensions: 30 x 21 cm\n· Clean the interior with a damp cloth and air dry\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Cuerpo trenzado con forro de poliéster\n· Asas superiores con caída de 14.5 cm\n· Dimensiones: 30 x 21 cm\n· Limpiar el interior con un paño húmedo y secar al aire\n· Pieza bajo pedido con envío mundial",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-2-Deu6OcoR7f.jpg?v=1727883677",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-6-Deu6OcoR7f.jpg?v=1727883681",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-10-Deu6OcoR7f.jpg?v=1727883686",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-14-Deu6OcoR7f.jpg?v=1727883691",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-18-Deu6OcoR7f.jpg?v=1727883695",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-22-Deu6OcoR7f.jpg?v=1727883701",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-1-Deu6OcoR7f.jpg?v=1727883705",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-5-Deu6OcoR7f.jpg?v=1727883710",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-9-Deu6OcoR7f.jpg?v=1727883715",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-13-Deu6OcoR7f.jpg?v=1727883720",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-17-Deu6OcoR7f.jpg?v=1727883725",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-21-Deu6OcoR7f.jpg?v=1727883729",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-4-Deu6OcoR7f.jpg?v=1727883734",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-8-Deu6OcoR7f.jpg?v=1727883738"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-13-Deu6OcoR7f.jpg?v=1727883720"
  ],
  "draft": false,
  "fam": "bolso-bandolera",
@@ -32,23 +37,46 @@
  "id": "shopify-bolso-daz-con-bandolera-white",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Riviera Case · White",
- "name_es": "Funda Riviera · Blanco",
+ "name_en": "DAZ Woven Tote Bag",
+ "name_es": "Bolso Tote Trenzado DAZ",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 282,
+ "rank": 1046,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height",
+   "Strap Drop"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto",
+   "Caída de correa"
+  ],
+  "notes_en": "Measurements are provided in centimeters. Made to order with worldwide shipping available.",
+  "notes_es": "Las medidas se proporcionan en centímetros. Piezas bajo pedido con envío mundial disponible.",
+  "rows": [
+   [
+    "30",
+    "21",
+    "14.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727883395-22-Deu6OcoR7f.jpg?v=1727883701"
+ ],
  "sizes": [
   "White"
  ],

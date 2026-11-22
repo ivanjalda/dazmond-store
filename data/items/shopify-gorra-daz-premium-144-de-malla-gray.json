@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/mallas",
+  "mujer/leggings"
+ ],
+ "ai_color": "Gray",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_type": "Cap",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Gray",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Essential design for daily wear. This cap combines clean lines with a structured silhouette. Crafted from durable fabric with breathable mesh panels. The front features distinct embroidery with character. It incorporates an adjustable closure at the back for a customized fit. A versatile piece that brings presence to any urban ensemble. Available made to order with worldwide shipping.",
+ "desc_es": "Diseño esencial para el día a día. Esta gorra combina líneas limpias con una silueta estructurada. Confeccionada en tejido resistente con paneles de malla transpirable. El frente luce un bordado distintivo con carácter. Incorpora un cierre ajustable en la parte posterior para un ajuste personalizado. Una pieza versátil que aporta presencia a cualquier conjunto urbano. Disponible bajo demanda con envío internacional.",
+ "details_en": "· High quality polyester fabric\n· Breathable mesh back\n· Adjustable closure at the back\n· Embroidered sports hat\n· Circumference 56 to 60 cm\n· Height 11 cm\n· Brim 8 cm\n· Hand wash recommended with cold water\n· Made to order",
+ "details_es": "· Tejido de poliéster de alta calidad\n· Respaldo de malla transpirable\n· Cierre ajustable en la parte posterior\n· Sombrero deportivo bordado\n· Circunferencia de 56 a 60 cm\n· Altura de 11 cm\n· Ala de 8 cm\n· Se recomienda lavado a mano con agua fría\n· Hecho bajo pedido",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-4-i4fGGOF7G8.jpg?v=1728389873",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-8-i4fGGOF7G8.jpg?v=1728389877",
@@ -20,11 +32,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-1-i4fGGOF7G8.jpg?v=1728389895",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-5-i4fGGOF7G8.jpg?v=1728389899",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-9-i4fGGOF7G8.jpg?v=1728389902",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-13-i4fGGOF7G8.jpg?v=1728389905",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-17-i4fGGOF7G8.jpg?v=1728389909",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-21-i4fGGOF7G8.jpg?v=1728389912",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-3-i4fGGOF7G8.jpg?v=1728389916",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-7-i4fGGOF7G8.jpg?v=1728389920"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728389708-13-i4fGGOF7G8.jpg?v=1728389905"
  ],
  "draft": false,
  "fam": "gorra-premium-malla",
@@ -32,18 +40,18 @@
  "id": "shopify-gorra-daz-premium-144-de-malla-gray",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-353253137"
  ],
  "material": "",
- "name_en": "Riviera Tights · Grey",
- "name_es": "Mallas Riviera · Gris",
+ "name_en": "Daz 144 Premium Cap",
+ "name_es": "Gorra Premium Daz 144",
  "needs_review": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 141,
+ "rank": 905,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

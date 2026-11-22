@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% Algodón Premium",
  "ai_priority": true,
+ "ai_type": "briefs",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order in cotton, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en algodón, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "True sophistication begins from the first layer. Against an absolute black background, a magnetic artistic statement comes to life at the center front with two geometric diamonds in pastel pink and watercolor tones. This exclusive piece from the collection combines precision pattern-making with a highly adaptable elastic waistband. Crafted entirely from high-density cotton, they offer impeccable support and absolute freedom of movement. Each piece is made to order with worldwide shipping.",
+ "desc_es": "La verdadera sofisticación comienza desde la primera capa. Sobre un fondo negro absoluto, cobra vida una magnética declaración artística en el centro delantero con dos diamantes geométricos en tonos rosa pastel y acuarela. Esta exclusiva pieza de la colección combina un patronaje de precisión con una cintura elástica de alta adaptabilidad. Confeccionados íntegramente en algodón de alta densidad, ofrecen un soporte impecable y una libertad absoluta de movimiento. Cada prenda se elabora bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 100% Premium Cotton with 190 g/m2 technical weight\n· Highly adaptable elastic waistband\n· Classic mid-low rise cut\n· Made to order with worldwide shipping",
+ "details_es": "· 100% Algodón Premium con gramaje técnico de 190 g/m2\n· Cintura elástica de alta adaptabilidad\n· Corte clásico de tiro medio-bajo\n· Hecho a medida con envíos a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_kg7fdckg7fdckg7f.png?v=1780929016",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_en0suaen0suaen0s.png?v=1780929067",
@@ -24,18 +35,18 @@
  "id": "shopify-design-all-over-print-womens-cotton-underwear-1",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Noir Underwear · Pink",
- "name_es": "Ropa Interior Noir · Rosa",
+ "name_en": "Melting Pink Diamonds Briefs",
+ "name_es": "Calzones Melting Pink Diamonds",
  "needs_review": false,
  "page": true,
  "price_usd": 23.99,
- "rank": 215,
+ "rank": 979,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

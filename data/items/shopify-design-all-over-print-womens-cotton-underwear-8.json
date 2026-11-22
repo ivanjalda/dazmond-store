@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Crema",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% Algodón",
  "ai_priority": true,
+ "ai_type": "Briefs",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Amarillo",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece in cotton is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en algodón, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "True sophistication begins from the first layer. This exclusive piece from the All-Over Print collection has been meticulously designed for the woman who refuses to compromise comfort for style. Set against a sumptuous cream base, a high-definition interlocking geometric pattern unfolds based on the brand iconography, transforming an everyday essential into an authentic piece of intimate haute couture. Precision tailoring subtly sculpts and respects natural body shapes. Crafted entirely from premium cotton with a technical weight of 190 g/m2.",
+ "desc_es": "La verdadera sofisticación comienza desde la primera capa. Esta pieza exclusiva de la colección All-Over Print ha sido diseñada meticulosamente para la mujer que se niega a comprometer la comodidad por el estilo. Sobre una base de tono crema suntuoso, se despliega un patrón geométrico entrelazado de alta definición basado en la iconografía de la marca, transformando una prenda esencial cotidiana en una auténtica pieza de alta costura íntima. El patronaje de precisión esculpe con sutileza y respeta las formas naturales del cuerpo. Confeccionadas íntegramente en algodón premium con un gramaje técnico de 190 g/m2.",
+ "details_en": "· 100% Premium Cotton\n· Technical weight of 190 g/m2\n· Highly adaptable elastic waistband\n· Classic mid-to-low rise cut\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100% Algodón Premium\n· Gramaje técnico de 190 g/m2\n· Cintura elástica de alta adaptabilidad\n· Corte clásico de tiro medio-bajo\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_b9chsib9chsib9ch.png?v=1780679997",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_t57g0xt57g0xt57g.png?v=1780679996",
@@ -24,18 +35,18 @@
  "id": "shopify-design-all-over-print-womens-cotton-underwear-8",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
-  "shopify-zapatos-acuaticos-daz-premium-para-adultos"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Madison Underwear",
- "name_es": "Ropa Interior Madison",
+ "name_en": "Monogram Signature Cotton Briefs",
+ "name_es": "Bragas Monogram Signature de Algodón",
  "needs_review": false,
  "page": true,
  "price_usd": 23.99,
- "rank": 221,
+ "rank": 985,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

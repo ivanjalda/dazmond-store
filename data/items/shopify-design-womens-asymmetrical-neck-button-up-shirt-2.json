@@ -1,5 +1,14 @@
 {
+ "ai_cats": [
+  "mujer/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester and cotton blend (10.26 oz)",
  "ai_priority": true,
+ "ai_type": "Shirt",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +16,10 @@
  ],
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This piece redefines contemporary tailoring codes with an asymmetrical neckline and a lateral row of buttons. The ivory canvas contrasts with a graphic of fragmented deep black stars. Crafted from a technical polyester and cotton blend, it offers a fluid drape and an immaculate structure. A made-to-order garment reflecting house vanguard. Worldwide shipping available.",
+ "desc_es": "Esta pieza redefine los códigos de la sastrería contemporánea con un diseño de cuello asimétrico y una hilera lateral de botones. El lienzo en tono marfil contrasta con un gráfico de estrellas fragmentadas en negro profundo. Confeccionada con una mezcla técnica de poliéster y algodón, ofrece una caída fluida y una estructura impecable. Una prenda hecha a pedido que refleja la vanguardia de la casa. Envío mundial disponible.",
+ "details_en": "· Made to order\n· Technical polyester and cotton blend\n· Fabric weight: 10.26 oz\n· Asymmetrical neckline with button closure",
+ "details_es": "· Hecho a pedido\n· Mezcla técnica de poliéster y algodón\n· Peso del tejido: 10.26 oz\n· Cuello asimétrico con cierre de botones",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_v6i6kv6i6kv6i6kv.png?v=1781712626",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_oyiwqxoyiwqxoyiw.png?v=1781712627",
@@ -25,18 +36,18 @@
  "id": "shopify-design-womens-asymmetrical-neck-button-up-shirt-2",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-braguita-daz-de-mujer",
-  "shopify-braguita-daz-de-mujer-3",
-  "shopify-camiseta-corta-daz-premium",
-  "shopify-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-338164153",
+  "printful-351973407"
  ],
  "material": "",
- "name_en": "Atelier Sweatshirt",
- "name_es": "Sudadera Atelier",
+ "name_en": "Stellar Nexus Asymmetrical Shirt",
+ "name_es": "Camisa Asimétrica Stellar Nexus",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 278,
+ "rank": 1042,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

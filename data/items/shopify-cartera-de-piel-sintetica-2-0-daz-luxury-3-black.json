@@ -1,5 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Black and Turquoise",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Wallet",
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +18,10 @@
  ],
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined by effortless elegance, this synthetic leather wallet combines practicality with a modern design. The piece features ample interior space tailored to accommodate your phone, cash, and cards with absolute ease. Equipped with a practical carry strap, it offers versatility for both formal and casual occasions. Each piece is made-to-order with worldwide shipping available.",
+ "desc_es": "Definida por una elegancia sin esfuerzo, esta billetera de cuero sintético combina funcionalidad con un diseño moderno. La pieza presenta un amplio espacio interior diseñado para acomodar su teléfono, efectivo y tarjetas con absoluta facilidad. Equipada con una práctica correa de transporte, ofrece versatilidad para ocasiones formales e informales. Cada pieza está hecha a medida y disponible con envío a todo el mundo.",
+ "details_en": "· Crafted from high-grade synthetic leather\n· Ample interior storage for phone, cash, and cards\n· Practical removable carry strap\n· Secure metal zipper closure\n· Clean regularly with a dry cloth",
+ "details_es": "· Confeccionada en cuero sintético de alta calidad\n· Amplio almacenamiento interior para teléfono, efectivo y tarjetas\n· Práctica correa de transporte extraíble\n· Cierre de cremallera metálica segura\n· Limpiar regularmente con un paño seco",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-1-kVB8wRPJiq.jpg?v=1727992473",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-13-kVB8wRPJiq.jpg?v=1727992496",
@@ -18,13 +30,8 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-7-kVB8wRPJiq.jpg?v=1727992485",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-9-kVB8wRPJiq.jpg?v=1727992488",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-11-kVB8wRPJiq.jpg?v=1727992492",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-15-kVB8wRPJiq.jpg?v=1727992500",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-17-kVB8wRPJiq.jpg?v=1727992504",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-2-kVB8wRPJiq.jpg?v=1727992507",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-4-kVB8wRPJiq.jpg?v=1727992511",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-6-kVB8wRPJiq.jpg?v=1727992516",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-8-kVB8wRPJiq.jpg?v=1727992520",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-10-kVB8wRPJiq.jpg?v=1727992524"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-2-kVB8wRPJiq.jpg?v=1727992507"
  ],
  "draft": false,
  "fam": "cartera-piel-sintetica",
@@ -32,23 +39,46 @@
  "id": "shopify-cartera-de-piel-sintetica-2-0-daz-luxury-3-black",
  "img_checked": "2026-11-19",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-351492575-black",
+  "printful-361906822",
+  "printful-365090873",
+  "printful-346239758"
  ],
  "material": "",
- "name_en": "Soho Underwear · Black",
- "name_es": "Ropa Interior Soho · Negro",
+ "name_en": "Daz Luxury Printed Wallet",
+ "name_es": "Billetera Estampada Daz Luxury",
  "needs_review": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 288,
+ "rank": 1052,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Thickness"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Grosor"
+  ],
+  "notes_en": "Dimensions are measured manually. Made-to-order worldwide shipping.",
+  "notes_es": "Las dimensiones se miden manualmente. Piezas hechas a medida con envío a todo el mundo.",
+  "rows": [
+   [
+    "19.2",
+    "10.3",
+    "2.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992421-15-kVB8wRPJiq.jpg?v=1727992500"
+ ],
  "sizes": [
   "Black"
  ],

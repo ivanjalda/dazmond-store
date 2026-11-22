@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% elastano",
  "ai_priority": true,
+ "ai_type": "Jumpsuit",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/conjuntos",
   "mujer/vestidos-monos-petos"
  ],
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold statement of absolute contrast. This piece unveils a pure white canvas crossed by energetic brushstrokes and abstract strokes. Its relaxed silhouette offers a fluid drape, complemented by side pockets and elastic cuffs. The upper straps adjust through sophisticated shoulder knots. Crafted from a sumptuous fabric of high structural quality, it transforms everyday wear into an unmatched comfort experience.",
+ "desc_es": "Una audaz declaración de contraste absoluto. Esta pieza despliega un lienzo blanco puro atravesado por enérgicas pinceladas y trazos abstractos. Su silueta holgada ofrece una caída fluida, complementada con bolsillos laterales y puños elásticos. Los tirantes superiores se ajustan mediante sofisticados nudos sobre los hombros. Confeccionado en un tejido suntuoso de alta calidad estructural, transforma el vestuario cotidiano en una experiencia de confort inigualable.",
+ "details_en": "· 95% polyester, 5% spandex\n· Relaxed baggy fit\n· Adjustable bow knot straps\n· Side pockets\n· Elastic ankle cuffs\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· 95% poliéster, 5% elastano\n· Corte holgado estilo baggy\n· Tirantes con lazada ajustable\n· Bolsillos laterales\n· Puños elásticos en los tobillos\n· Pieza bajo pedido con envíos a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_htumtghtumtghtum.png?v=1779723650",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_5yszy15yszy15ysz.png?v=1779723651",
@@ -25,18 +35,18 @@
  "id": "shopify-design-baggy-suspender-jumpsuit-3",
  "img_checked": "2026-11-20",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-351973407",
+  "printful-350906743"
  ],
  "material": "",
- "name_en": "Atelier Jumpsuit",
- "name_es": "Mono Atelier",
+ "name_en": "Midnight Strokes Baggy Jumpsuit",
+ "name_es": "Mono Baggy Midnight Strokes",
  "needs_review": false,
  "page": true,
  "price_usd": 29.99,
- "rank": 391,
+ "rank": 1153,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,

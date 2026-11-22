@@ -1,15 +1,25 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
  "ai_priority": true,
+ "ai_type": "jumpsuit",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/conjuntos",
   "mujer/vestidos-monos-petos"
  ],
  "color": "Púrpura",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A magnificent visual statement inspired by northern lights. This design unfolds across a canvas with a holographic pastel gradient. Geometric structures provide visual mysticism filled with magnetism. The fluid silhouette features adjustable tie shoulder straps and a blouson finish with elastic leg openings. A relaxed structure conceived to offer impeccable style and maximum freedom of movement. Made-to-order piece with worldwide shipping.",
+ "desc_es": "Una magnifica declaracion visual inspirada en las luces del norte. Este diseño se despliega sobre un lienzo con un degradado holografico en tonos pastel. Las estructuras geometricas aportan un misticismo visual lleno de magnetismo. La silueta fluida presenta tirantes con lazo ajustable y un acabado bombacho con aberturas elasticas en las piernas. Una estructura holgada concebida para ofrecer estilo impecable y maxima libertad de movimiento. Pieza elaborada bajo pedido con envios a todo el mundo.",
+ "details_en": "· 95% high-density polyester, 5% elastane\n· 19,61 oz. technical fabric\n· Adjustable tie shoulder straps\n· Elastic leg openings\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 95% poliéster de alta densidad, 5% elastano\n· Tejido técnico de 19,61 oz.\n· Tirantes con lazo ajustable\n· Aberturas elásticas en las piernas\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_804ia5804ia5804i.png?v=1780502769",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_oizeexoizeexoize.png?v=1780502769",
@@ -26,18 +36,18 @@
  "id": "shopify-design-baggy-suspender-jumpsuit-1",
  "img_checked": "2026-11-20",
  "look": [
-  "shopify-es-package-protection",
-  "shopify-calcetines-de-tripulacion-daz-premium",
-  "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-  "shopify-cinturon-daz-de-cuero-negro"
+  "printful-383192424-black",
+  "printful-353393584",
+  "printful-351973407",
+  "printful-350906743"
  ],
  "material": "",
- "name_en": "Atelier Jumpsuit",
- "name_es": "Mono Atelier",
+ "name_en": "Aurora Diamond Oversized Jumpsuit",
+ "name_es": "Mono Oversized Aurora Diamond",
  "needs_review": false,
  "page": true,
  "price_usd": 29.99,
- "rank": 389,
+ "rank": 1151,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_verified": true,
