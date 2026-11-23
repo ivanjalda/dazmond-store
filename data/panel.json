@@ -1,19 +1,19 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-23 19:42 UTC",
+  "updated": "2026-11-23 20:33 UTC",
   "totals": {
     "catalogo": 2438,
     "a_la_vista": 1999,
     "disenos_a_la_vista": 821,
     "ocultos": 439,
-    "ia_revisados": 668,
-    "ia_pendientes": 1769,
+    "ia_revisados": 669,
+    "ia_pendientes": 1768,
     "con_boton_de_pago": 1999,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
-    "visitas_30_dias": 14,
+    "visitas_30_dias": 395,
     "fotos_de_campana": 0
   },
   "reasons": {
@@ -369,7 +369,7 @@
       "img": "https://files.cdn.printful.com/files/27c/27cf82d77530322eb7389306d9ffcb6f_preview.png",
       "c": "hombre/abrigo-chaqueta-sueter",
       "pr": 25.0,
-      "v": 3
+      "v": 4
     },
     {
       "id": "printful-357300009-black",
@@ -378,7 +378,7 @@
       "img": "https://files.cdn.printful.com/files/ad5/ad5d1a5e466d827e26eb5dad88781288_preview.png",
       "c": "hombre/camiseta",
       "pr": 34.99,
-      "v": 2
+      "v": 3
     },
     {
       "id": "printful-357300009-white",
@@ -387,25 +387,7 @@
       "img": "https://files.cdn.printful.com/files/dca/dca7ea973bd75a86beca5edfd4c354ae_preview.png",
       "c": "hombre/camiseta",
       "pr": 34.99,
-      "v": 2
-    },
-    {
-      "id": "printful-382149130",
-      "n": "Vela Vela Perfumada Daz · Blanco",
-      "s": "Printful",
-      "img": "https://files.cdn.printful.com/files/d2e/d2e12e000869e4515d84a32c538f6d00_preview.png",
-      "c": "decor",
-      "pr": 52.99,
-      "v": 1
-    },
-    {
-      "id": "printful-350459260",
-      "n": "Enfriador de Latas Art Soul Manifest · Blanco",
-      "s": "Printful",
-      "img": "https://files.cdn.printful.com/files/4d9/4d9af8078f89cb62c098bb43f6cc5edc_preview.png",
-      "c": "decor",
-      "pr": 14.99,
-      "v": 1
+      "v": 3
     },
     {
       "id": "printful-351973407",
@@ -414,42 +396,60 @@
       "img": "https://files.cdn.printful.com/files/035/03533450d2de45984d667307a9408f69_preview.png",
       "c": "mujer/camisetas-blusas-tops",
       "pr": 37.99,
-      "v": 1
+      "v": 2
     },
     {
-      "id": "interestprint-design-mens-all-over-print-jacket",
-      "n": "Chaqueta Golden Heritage · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/67b86f5e59b5bb200a76.jpg",
-      "c": "hombre/abrigo-chaqueta-sueter",
-      "pr": 35.99,
-      "v": 1
-    },
-    {
-      "id": "shopify-polo-de-algodon-daz-bordado-navy",
-      "n": "Polo Algodón Daz Bordado · Azul Marino",
-      "s": "Shopify",
-      "img": "assets/products/shop/7182bd51fdd16a6a32cb.jpg",
+      "id": "printful-351492575-black",
+      "n": "Polo Gold Crest · Negro",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/da8/da89bed1d1e149fe99788cc0c4d9d7b2_preview.png",
       "c": "hombre/polos",
-      "pr": 36.99,
+      "pr": 25.0,
       "v": 1
     },
     {
-      "id": "interestprint-design-mens-double-breasted-coat-2",
-      "n": "Chaqueta Abrigo Colección Privada · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/82ea9a8f9bf0c699dafb.jpg",
-      "c": "hombre/abrigo-chaqueta-sueter",
-      "pr": 49.99,
+      "id": "printful-351492575-collegiate-navy",
+      "n": "Polo Gold Crest · Collegiate Navy",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/51f/51ffc1a5a5ca56c87aba156a6dd92678_preview.png",
+      "c": "hombre/polos",
+      "pr": 25.0,
       "v": 1
     },
     {
-      "id": "shopify-botas-daz-luxury-de-piel-sintetica",
-      "n": "Botas Daz Piel Sintética",
-      "s": "Shopify",
-      "img": "assets/products/shop/5a3f418dcee7a65e4b41.jpg",
-      "c": "calzado-hombre/botas-botines-hombre",
-      "pr": 227.99,
+      "id": "printful-351492575-collegiate-royal",
+      "n": "Polo Gold Crest · Collegiate Royal",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/69c/69cde56bd526681458d9760dd94bcb79_preview.png",
+      "c": "hombre/polos",
+      "pr": 25.0,
+      "v": 1
+    },
+    {
+      "id": "printful-351492575-grey-three",
+      "n": "Polo Gold Crest · Grey Three",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/891/891bd13df88b8954a43aef36a6eae586_preview.png",
+      "c": "hombre/polos",
+      "pr": 25.0,
+      "v": 1
+    },
+    {
+      "id": "printful-351492575-white",
+      "n": "Polo Gold Crest · Blanco",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/ad6/ad6d6956a2e4ae7fef79541c99555ad7_preview.png",
+      "c": "hombre/polos",
+      "pr": 25.0,
+      "v": 1
+    },
+    {
+      "id": "printful-361906822",
+      "n": "Gorro con pompon Chalk",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/30c/30cc2d9ff5a8e1a75f4f9dcc11e1e3ee_preview.png",
+      "c": "hombre/gorro-bufanda",
+      "pr": 25.0,
       "v": 1
     }
   ],
@@ -4491,14 +4491,12 @@
     "Productos en catálogo: 2438 · a la vista: 2002 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
-    "Firebase: visitas leídas de 10 piezas",
-    "⏱ ventas, visitas y cupones: 4 s",
+    "Firebase: visitas leídas de 387 piezas",
+    "⏱ ventas, visitas y cupones: 3 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con interestprint-design-mens-all-over-print-jacket: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con shopify-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury-2-beige: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
-    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-lite-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details.)",
-    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1995",
-    "⏱ revisión con IA: 106 s",
+    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
+    "IA: 1 productos revisados (fotos, guía de tallas y textos) · quedan 1993",
+    "⏱ revisión con IA: 89 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",

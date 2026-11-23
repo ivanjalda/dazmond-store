@@ -1,16 +1,29 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Red and Beige",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PVC",
  "ai_priority": true,
+ "ai_type": "Boston Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but lifestyle and size guide images look digitally composited and lack high-end luxury execution.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury",
  "color": "Beige",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This compact Boston bag combines functional elegance with contemporary design. Crafted from durable and lightweight materials, it features an all-over print that brings distinction to any outfit. The interior features a main compartment and practical pockets to organize daily essentials. Equipped with top handles and an adjustable, removable shoulder strap, it offers versatility in transport. A sophisticated piece designed to accompany your daily routine with style.",
+ "desc_es": "Este bolso Boston compacto combina elegancia funcional y diseño contemporáneo. Confeccionado con materiales duraderos y ligeros, presenta un estampado integral que aporta distinción a cualquier conjunto. Su interior cuenta con un compartimento principal y prácticos bolsillos para organizar los imprescindibles diarios. Equipado con asas superiores y una correa de hombro ajustable y desmontable, ofrece versatilidad en el transporte. Una pieza sofisticada concebida para acompañar el ritmo diario con estilo.",
+ "details_en": "· Monogram PVC composition.\n· Main compartment and two interior pockets.\n· Removable and adjustable shoulder strap.\n· Water resistant.\n· Made-to-order piece with worldwide shipping available.",
+ "details_es": "· Composición de PVC con monograma.\n· Compartimento principal y dos bolsillos interiores.\n· Correa de hombro extraíble y ajustable.\n· Resistente al agua.\n· Pieza hecha a pedido con envío mundial disponible.",
  "display_images": [
   "assets/products/shop/ffcee768b6a073e3140e.jpg",
   "assets/products/shop/0395bab67553a9d0239b.jpg",
@@ -19,13 +32,7 @@
   "assets/products/shop/a996cca968584c5dffc3.jpg",
   "assets/products/shop/aecd98487a19e2354b59.jpg",
   "assets/products/shop/548a412c743b32a3e286.jpg",
-  "assets/products/shop/ae573c671c6888627084.jpg",
-  "assets/products/shop/04bd5045f64164cc467e.jpg",
-  "assets/products/shop/931f1fb5ec5ea6b385b8.jpg",
-  "assets/products/shop/45632ce5ddbc34215dcf.jpg",
-  "assets/products/shop/de0c272876671368f9d5.jpg",
-  "assets/products/shop/9f5930f9aa99f7b95276.jpg",
-  "assets/products/shop/10d7684c35d4423e4a59.jpg"
+  "assets/products/shop/931f1fb5ec5ea6b385b8.jpg"
  ],
  "draft": false,
  "fam": "bolso-bandolera-boston",
@@ -33,15 +40,16 @@
  "id": "shopify-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury-2-beige",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-357300009-black"
+  "printful-351973407",
+  "printful-351511771",
+  "printful-379237645",
+  "printful-359399071-black"
  ],
  "material": "",
  "name_en": "Small Printed Boston Bag · Beige",
  "name_es": "Bolso Boston Estampado Pequeño · Beige",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 1574,
@@ -49,8 +57,31 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsas de hombro",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Depth",
+   "Height"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Profundidad",
+   "Altura"
+  ],
+  "notes_en": "Measurements are provided for guidance.",
+  "notes_es": "Las medidas se proporcionan a modo de orientación.",
+  "rows": [
+   [
+    "21 cm / 8.3 in",
+    "12.5 cm / 4.9 in",
+    "16 cm / 6.3 in"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/04bd5045f64164cc467e.jpg"
+ ],
  "sizes": [
   "Beige"
  ],
