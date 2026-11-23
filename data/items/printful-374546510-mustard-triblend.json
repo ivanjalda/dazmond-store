@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Mustard Triblend",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "The image features an awkward crop cutting off the top of the head, and a flat-looking mockup style that detracts from luxury standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-374546510",
  "color": "Mustard Triblend",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of contemporary style. This short-sleeve garment combines essential lines with a distinctive mustard tone. Crafted on demand to ensure absolute exclusivity. Worldwide shipping available for international clients.",
+ "desc_es": "Una expresión depurada de estilo contemporáneo. Esta prenda de manga corta combina líneas esenciales con un tono mostaza distintivo. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Envío mundial disponible para clientes internacionales.",
+ "details_en": "· Made-to-order piece.\n· Available for worldwide shipping.",
+ "details_es": "· Pieza confeccionada bajo demanda.\n· Disponible para envío mundial.",
  "display_images": [
   "https://files.cdn.printful.com/files/ec6/ec6e1494297e32e7baba4ac0d2ca51a9_preview.png"
  ],
@@ -29,6 +43,7 @@
  "name_en": "Athletic Grey Triblend T-Shirt · Mustard Triblend",
  "name_es": "Camiseta Triblend Gris Athletic · Mustard Triblend",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 84,
@@ -57,7 +72,7 @@
   "3001670_16734"
  ],
  "source_title": "Camiseta de manga corta DAZ Luxury",
- "stripe_payment_link": "https://buy.stripe.com/28E7sMdru12c9eC22a1gD0u",
+ "stripe_payment_link": "https://buy.stripe.com/bJe14ogDG9yIduS5em1gK3w",
  "supplier": "Printful",
  "supplier_id": "374546510-mustard-triblend",
  "visual_verified": true

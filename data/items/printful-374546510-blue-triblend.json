@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Blue Triblend",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait on a model, but lacks high-end luxury mood lighting and staging.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-374546510",
  "color": "Blue Triblend",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential silhouette reimagined with a modern approach. This piece combines contemporary design with effortless everyday comfort. Meticulously made to order and available with worldwide shipping. A sophisticated basic that defines the relaxed elegance of the season.",
+ "desc_es": "Una silueta esencial reinterpretada con un enfoque moderno. Esta prenda combina un diseño contemporáneo con una comodidad impecable para el día a día. Confeccionada cuidadosamente bajo demanda y disponible para envío a todo el mundo. Un básico sofisticado que define la elegancia relajada de la temporada.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/31e/31ef0299893c8c92b15d125861afd32a_preview.png"
  ],
@@ -29,6 +43,7 @@
  "name_en": "Athletic Grey Triblend T-Shirt · Blue Triblend",
  "name_es": "Camiseta Triblend Gris Athletic · Blue Triblend",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 82,
@@ -57,7 +72,7 @@
   "3001670_6494"
  ],
  "source_title": "Camiseta de manga corta DAZ Luxury",
- "stripe_payment_link": "https://buy.stripe.com/eVq5kE3QU6mweyWayG1gD0s",
+ "stripe_payment_link": "https://buy.stripe.com/cNi4gA7367qAbmKgX41gK3u",
  "supplier": "Printful",
  "supplier_id": "374546510-blue-triblend",
  "visual_verified": true
