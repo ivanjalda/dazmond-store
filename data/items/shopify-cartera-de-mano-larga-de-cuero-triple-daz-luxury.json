@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic Leather",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Wallet",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with clear details, though presentation feels standard rather than high-end luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,16 +23,16 @@
  "cg": "t-cartera-de-mano-larga-de-cuero-triple-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A sophisticated silhouette designed for everyday organization. This trifold wallet combines clean lines with exceptional functionality. Crafted from high-grade materials, it offers a structured interior with multiple compartments for cards and cash. The folding closure secures a sleek profile while protecting daily essentials. Each piece is crafted to order to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta sofisticada diseñada para la organización diaria. Esta cartera tríptica combina líneas depuradas con una funcionalidad excepcional. Elaborada con materiales de alta calidad, ofrece un interior estructurado con múltiples compartimentos para tarjetas y efectivo. El cierre plegable asegura un perfil elegante mientras protege los esenciales cotidianos. Cada pieza se confecciona bajo demanda para garantizar exclusividad. Disponible con envíos a todo el mundo.",
+ "details_en": "· Premium synthetic leather\n· Trifold design with folding closure\n· Interior featuring over 10 card slots\n· 1 windowed slot\n· 4 cash slots\n· 1 interior zip pocket\n· Integrated RFID protection\n· Clean with a damp cloth\n· Avoid prolonged direct sunlight exposure\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Cuero sintético premium\n· Diseño tríptico con cierre plegable\n· Interior con más de 10 ranuras para tarjetas\n· 1 ranura con ventana\n· 4 ranuras para efectivo\n· 1 bolsillo interior con cremallera\n· Protección RFID integrada\n· Limpiar con un paño húmedo\n· Evitar la exposición prolongada a la luz solar directa\n· Fabricado bajo demanda\n· Envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/9564782775c3a6337004.jpg",
   "assets/products/shop/030fe1cf176df3b84df0.jpg",
   "assets/products/shop/89115f70f773648bc639.jpg",
   "assets/products/shop/d41c59f4fb4b7c8dd4f3.jpg",
   "assets/products/shop/dc844f22ab63fb679c8c.jpg",
-  "assets/products/shop/c4c2af7f9408a81ce748.jpg",
-  "assets/products/shop/7825139a389ecc98bded.jpg",
   "assets/products/shop/a135abaeb4bc88c4c4d8.jpg",
   "assets/products/shop/3054143b90bb381ed5c9.jpg",
   "assets/products/shop/17c0fb15117f2e2176e9.jpg"
@@ -35,9 +49,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "DAZ Synthetic Leather Wallet",
- "name_es": "Cartera de cuero sintético DAZ",
+ "name_en": "Long Trifold Wallet",
+ "name_es": "Cartera Tríptica Larga",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1558,
@@ -45,9 +60,35 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Billeteras y clips para billetes > Carteras",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Height",
+   "Depth"
+  ],
+  "headers_es": [
+   "Largo",
+   "Alto",
+   "Profundidad"
+  ],
+  "notes_en": "Measurements are taken flat. Made to order for exclusive delivery worldwide.",
+  "notes_es": "Las medidas se toman en plano. Fabricado bajo demanda para entrega exclusiva en todo el mundo.",
+  "rows": [
+   [
+    "20.4",
+    "10",
+    "3.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/c4c2af7f9408a81ce748.jpg",
+  "assets/products/shop/7825139a389ecc98bded.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Cartera de mano larga de cuero triple DAZ Luxury",
  "stripe_payment_link": "https://buy.stripe.com/5kQ14o4UYcKU3Ui7mu1gQ2w",
  "supplier": "Shopify",
