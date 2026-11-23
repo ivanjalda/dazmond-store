@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Maroon",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, standard presentation for e-commerce.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-397239673",
  "color": "Maroon",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A commanding and defined silhouette. This garment redefines volume with an impeccable drape. The oversized design projects an imposing presence. Tailored for those who demand distinction in every daily detail. Each piece is crafted exclusively to order. Available with worldwide shipping.",
+ "desc_es": "Una silueta rotunda y definida. Esta prenda redefine el volumen con una caída impecable. El diseño oversize ofrece una presencia imponente. Confeccionada para quienes exigen distinción en cada detalle diario. Cada pieza se confecciona exclusivamente bajo pedido. Disponible con envío internacional.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección exclusiva bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/ad8/ad856691ac3be71c90d75c11f2a69ced_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Capucha Gruesa Sweatshirt · Maroon",
- "name_es": "Sudadera Capucha Gruesa · Maroon",
+ "name_en": "DAZMond Heavyweight Oversize Hoodie · Maroon",
+ "name_es": "Sudadera Oversize Pesada DAZMond · Maroon",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 64.99,
  "rank": 430,

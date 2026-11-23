@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking luxury studio lighting or editorial context.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355658645",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A streamlined silhouette redefining modern comfort. The Dazmond Timber 310 hoodie presents an all-over design with precise finishes. Each piece is crafted on demand to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine el confort moderno. La sudadera Dazmond Timber 310 presenta un diseño integral con acabados precisos. Cada pieza se confecciona bajo demanda para garantizar exclusividad absoluta. Disponible para envíos a todo el mundo.",
+ "details_en": "· Made to order.\n· Worldwide shipping.",
+ "details_es": "· Confección bajo demanda.\n· Envíos a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/39b/39b8821c4a969ddedf41016a0165796d_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Timber Sweatshirt · White",
- "name_es": "Sudadera Timber · Blanco",
+ "name_en": "Dazmond Timber 310 Hoodie",
+ "name_es": "Sudadera Dazmond Timber 310",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 77.99,
  "rank": 757,

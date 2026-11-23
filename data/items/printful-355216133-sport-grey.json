@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Sport Grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "polo",
+ "ai_ver": 2,
+ "art_note": "Generic supplier mockup style, lacks true luxury editorial atmosphere.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "printful-355216133",
  "color": "Sport Grey",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential piece of casual tailoring designed for the contemporary wardrobe. Refined silhouette and clean lines defining modern elegance. Exclusive made-to-order craftsmanship with worldwide shipping available.",
+ "desc_es": "Una prenda esencial de sastrería casual diseñada para el guardarropa contemporáneo. Silueta depurada y líneas limpias que definen la elegancia moderna. Confección exclusiva bajo pedido con disponibilidad de envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Disponible envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/742/7421c5fa888452910ffbc3b6023df291_preview.png"
  ],
@@ -26,9 +38,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Piqué Heritage Polo · Sport Grey",
+ "name_en": "Heritage Piqué Polo · Sport Grey",
  "name_es": "Polo Piqué Heritage · Sport Grey",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 750,

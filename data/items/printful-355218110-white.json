@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean flat lay product shot on plain background, lacking luxury campaign atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355218110",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential piece defining relaxed elegance. Crafted with precision to offer an impeccable silhouette. Pure white brings luminosity and versatility to any sophisticated wardrobe. A minimalist design prioritizing clean lines and absolute comfort. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Una prenda esencial que define la elegancia relajada. Confeccionada con precisión para ofrecer una silueta impecable. El blanco puro aporta luminosidad y versatilidad a cualquier guardarropa sofisticado. Un diseño minimalista que prioriza la pureza de las líneas y la comodidad absoluta. Cada pieza es confeccionada bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/2d6/2d6b708dcfe02baf8aab7ea53febb1dc_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Seamless Tee · White",
- "name_es": "Camiseta Seamless · Blanco",
+ "name_en": "Anvil Lightweight T-Shirt · White",
+ "name_es": "Camiseta Anvil Ligera · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 731,

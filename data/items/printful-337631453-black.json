@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "visor",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait displaying the visor, though standard supplier mockup aesthetic limits luxury impact.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-337631453",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A defined and contemporary presence. This piece embodies modern simplicity with a streamlined silhouette and a versatile character. Designed to accompany the urban rhythm with absolute precision, it presents a lightweight structure balancing functionality and understated elegance. Each item is crafted exclusively to order in our United States facilities, ensuring a rigorous standard. We offer worldwide shipping to meet the demands of our global clientele.",
+ "desc_es": "Una presencia definida y contemporánea. Esta pieza encarna la simplicidad moderna con una silueta depurada y un carácter versátil. Diseñada para acompañar el ritmo urbano con absoluta precisión, presenta una estructura ligera que equilibra la funcionalidad y la elegancia sobria. Cada artículo se elabora exclusivamente bajo pedido en nuestras instalaciones de Estados Unidos, asegurando un estándar riguroso. Ofrecemos envíos a todo el mundo para satisfacer las exigencias de nuestro cliente global.",
+ "details_en": "· Made to order.\n· Worldwide shipping.",
+ "details_es": "· Hecho bajo pedido.\n· Envío a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/ed5/ed57def2521f04e383ba26fa4a5bcfed_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Apex Blessed Visor Hat · Black",
- "name_es": "Gorro Apex Blessed Visor · Negro",
+ "name_en": "Apex Blessed Black Visor · Black",
+ "name_es": "Visera Apex Blessed Negra · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 33.99,
  "rank": 740,

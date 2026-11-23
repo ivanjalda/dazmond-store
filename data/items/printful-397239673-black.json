@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, though presented in a standard e-commerce format rather than a high-end editorial campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-397239673",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A bold and defined silhouette for everyday wear. This hooded sweatshirt combines volume and structure in a deep black tone. The oversize design offers an impeccable drape and a commanding presence. Made to order with worldwide shipping available.",
+ "desc_es": "Una silueta rotunda y definida para el día a día. Esta sudadera con capucha combina volumen y estructura en un tono negro profundo. El diseño oversize ofrece una caída impecable y una presencia imponente. Confección bajo demanda y disponible con envíos a todo el mundo.",
+ "details_en": "· Oversize fit\n· Heavyweight hood\n· Made to order",
+ "details_es": "· Corte oversize\n· Capucha gruesa\n· Hecho bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/29b/29b1981bce1899622714abb3c3cbf44a_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Capucha Gruesa Sweatshirt · Black",
- "name_es": "Sudadera Capucha Gruesa · Negro",
+ "name_en": "DAZMond Heavyweight Oversize Hoodie · Black",
+ "name_es": "Sudadera Oversize Pesada DAZMond · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 64.99,
  "rank": 429,

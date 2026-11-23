@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Collegiate Navy Melange",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "Polo",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a ghost mannequin, but lacks atmospheric lighting and luxury editorial depth.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "printful-350449566",
  "color": "Collegiate Navy Melange",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette that redefines casual elegance. The design presents a sophisticated aesthetic with subtle tonal contrasts. Crafted with precision to offer an impeccable drape and absolute comfort. This essential piece blends modernity and functionality in every detail. Each piece is crafted to order in our ateliers. We offer worldwide shipping for your utmost convenience.",
+ "desc_es": "Una silueta depurada que redefine la elegancia casual. El diseño presenta una estética sofisticada con sutiles contrastes tonales. Confeccionado con precisión para ofrecer una caída impecable y una comodidad absoluta. Esta pieza esencial combina modernidad y funcionalidad en cada detalle. Cada prenda se elabora bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo para su máxima comodidad.",
+ "details_en": "· Each piece is crafted exclusively to order.\n· Worldwide shipping available.",
+ "details_es": "· Cada pieza se elabora exclusivamente bajo pedido.\n· Envío disponible a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/14d/14d2f880d33159ef3280417451c1556b_preview.png"
  ],
@@ -26,9 +38,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Adidas Nebula Performance Polo · Collegiate Navy Melange",
- "name_es": "Polo Adidas Nebula Performance · Collegiate Navy Melange",
+ "name_en": "Nebula Performance Polo · Collegiate Navy Melange",
+ "name_es": "Polo Nebula Performance · Collegiate Navy Melange",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 87.99,
  "rank": 712,

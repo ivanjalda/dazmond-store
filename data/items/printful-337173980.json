@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camisas",
+  "mujer/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled",
  "ai_priority": true,
+ "ai_type": "hockey jersey",
+ "ai_ver": 2,
+ "art_note": "The image features a flat-looking digital mockup rather than a refined luxury studio photograph.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-337173980",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The athletic silhouette is redefined through a prism of contemporary elegance. This design features an all-over graphic motif and a bold presence. Crafted for those who demand distinction in every detail. Each piece is made to order with worldwide shipping available. An impeccable fusion of urban attitude and timeless sophistication. Elevate your wardrobe with this exclusive piece from DAZMOND & Co.",
+ "desc_es": "La silueta deportiva se redefine a través de un prisma de elegancia contemporánea. Este diseño presenta un motivo gráfico integral y una presencia audaz. Confeccionado para quienes exigen distinción en cada detalle. Cada pieza se elabora bajo pedido con disponibilidad de envío internacional. Una fusión impecable de actitud urbana y sofisticación atemporal. Eleve su guardarropa con esta pieza exclusiva de DAZMOND & Co.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/98c/98c4f9088e390ab57a8991298e85cb23_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Soleil Heritage Hockey Jersey Shirt · White",
- "name_es": "Camisa Soleil Heritage Hockey · Blanco",
+ "name_en": "Soleil d'Or Hockey Jersey",
+ "name_es": "Jersey de Hockey Soleil d'Or",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 66.99,
  "rank": 696,

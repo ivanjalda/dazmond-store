@@ -1,16 +1,31 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled Mesh",
  "ai_priority": true,
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Clean product shot on a neutral background, but lacks high-end editorial lighting and styling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/pantalones",
-  "mujer/pantalones"
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
  ],
  "cg": "printful-353530272",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A contemporary expression of dynamism and refined design. These shorts combine absolute comfort with an immaculate silhouette. Each piece is crafted exclusively upon request in our ateliers. We offer worldwide shipping to accompany your lifestyle without borders.",
+ "desc_es": "Una expresion contemporanea de dinamismo y diseño refinado. Estas bermudas combinan comodidad absoluta con una silueta impecable. Cada pieza se confecciona exclusivamente bajo pedido en nuestros talleres. Ofrecemos envios internacionales para acompanar su estilo sin fronteras.",
+ "details_en": "· Made to order\n· Worldwide shipping available\n· Recycled mesh fabric",
+ "details_es": "· Hecho bajo pedido\n· Envio mundial disponible\n· Tejido de malla reciclada",
  "display_images": [
   "https://files.cdn.printful.com/files/c39/c39e46fc461f40a8ab6f30ad35a2a613_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Drift Trousers · White",
- "name_es": "Pantalón Drift · Blanco",
+ "name_en": "Short Drift Shorts",
+ "name_es": "Bermudas Short Drift",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 724,

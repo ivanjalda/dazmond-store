@@ -1,16 +1,31 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled Unisex Mesh",
  "ai_priority": true,
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Generic flat-rendered product mockup with an artificial look that fails to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/pantalones",
-  "mujer/pantalones"
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
  ],
  "cg": "printful-353530163",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined silhouette that redefines casual sophistication. These shorts present an immaculate shape designed for fluid movement. The all-over print introduces a subtle visual contrast across the recycled mesh fabric. Each piece is crafted to order. We provide worldwide shipping.",
+ "desc_es": "Una propuesta depurada que redefine la sofisticacion casual. Estas bermudas presentan una silueta impecable diseñada para el movimiento fluido. El estampado integral aporta un contraste visual sutil sobre el tejido de malla reciclada. Cada pieza se confecciona bajo pedido en nuestras instalaciones. Ofrecemos envios a todo el mundo para su mayor comodidad.",
+ "details_en": "· Crafted from recycled mesh\n· Made to order piece\n· Available with worldwide shipping",
+ "details_es": "· Confeccionado en malla reciclada\n· Hecho bajo pedido\n· Disponible con envio mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/520/520640860fc23c042012300e15ba243b_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Oceanus Trousers · White",
- "name_es": "Pantalón Oceanus · Blanco",
+ "name_en": "Oceanus All-Over Print Shorts",
+ "name_es": "Bermuda Oceanus Estampada",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 722,

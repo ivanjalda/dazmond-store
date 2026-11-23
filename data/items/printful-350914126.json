@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled Mesh",
  "ai_priority": true,
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "The image is a flat, floating 3D render typical of marketplace drop-shipping rather than high luxury e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-350914126",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A chromatic exploration in fluid tones. These shorts combine lightness with visual presence. Each piece is crafted upon request in the United States. The design features an all-over print evoking ethereal textures. Tailored for a relaxed yet structured silhouette. Available with worldwide shipping.",
+ "desc_es": "Una exploracion cromatica en tonos fluidos. Estas bermudas combinan ligereza y presencia visual. Cada pieza se elabora bajo pedido en Estados Unidos. El diseño presenta un estampado integral que evoca texturas etéreas. Diseñadas para una silueta relajada pero estructurada. Disponibles con envío mundial.",
+ "details_en": "· Made to order in the US\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido en EE. UU.\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/11d/11dd3cb8c4277e3163b4807a5bad8e3e_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Liquid Azure Mesh Shorts · White",
- "name_es": "Bermuda Liquid Azure Mesh · Blanco",
+ "name_en": "Liquid Azure Shorts",
+ "name_es": "Bermudas Liquid Azure",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 716,

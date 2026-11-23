@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Baby Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Beanie",
+ "ai_ver": 2,
+ "art_note": "The image has a generic supplier aesthetic with a digital mockup feel, lacking true luxury campaign lighting and depth.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-348135955",
  "color": "Baby Pink",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette designed for the colder season. This cuffed beanie combines clean lines with a sophisticated presence. The ribbed texture provides depth and a refined touch. An essential piece to complete any winter wardrobe with elegance and discretion. Each item is made to order to ensure absolute exclusivity. We offer worldwide shipping from our facilities.",
+ "desc_es": "Una silueta depurada diseñada para la temporada de frío. Este gorro cuffed combina líneas limpias con una presencia sofisticada. La textura acanalada aporta profundidad y un tacto refinado. Una pieza esencial para completar cualquier guardarropa de invierno con elegancia y discreción. Cada artículo se confecciona bajo demanda para garantizar una exclusividad absoluta. Ofrecemos envíos a todo el mundo desde nuestras instalaciones.",
+ "details_en": "· Made to order.\n· Worldwide shipping available.",
+ "details_es": "· Hecho bajo pedido.\n· Envío disponible a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/430/4304f0cd346897ba8270fa139353191f_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Urban Shield Cuffed Hat · Baby Pink",
- "name_es": "Gorro Urban Shield Cuffed · Baby Pink",
+ "name_en": "Urban Shield Cuffed Beanie · Baby Pink",
+ "name_es": "Gorro Cuffed Urban Shield · Baby Pink",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
  "rank": 703,

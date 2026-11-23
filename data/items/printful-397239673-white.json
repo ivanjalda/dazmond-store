@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, lacking the depth of a luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-397239673",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A substantial silhouette defines this oversize hoodie. Generous volume envelops the body with absolute presence. Clean lines and dense structure redefine relaxed luxury. Each piece is crafted to order. Available with worldwide shipping.",
+ "desc_es": "Una silueta rotunda define esta sudadera oversize. El volumen generoso envuelve el cuerpo con presencia absoluta. Las líneas limpias y la estructura densa redefinen el lujo relajado. Cada pieza se confecciona bajo demanda. Disponible con envío internacional.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/f9a/f9a455a926887176e4af3b6e509f984b_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Capucha Gruesa Sweatshirt · White",
- "name_es": "Sudadera Capucha Gruesa · Blanco",
+ "name_en": "DAZMond Heavyweight Oversize Hoodie · White",
+ "name_es": "Sudadera Oversize Pesada DAZMond · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 64.99,
  "rank": 431,

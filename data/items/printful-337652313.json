@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/pantalones",
+  "mujer/pantalones"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Palazzo Lounge Pants",
+ "ai_ver": 2,
+ "art_note": "Flat-lay style product rendering with a generic digital print layout lacking luxury mood and depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-337652313",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Palazzo lounge pants defined by a fluid, wide-leg silhouette. This design merges effortless comfort with a contemporary visual presence. Crafted exclusively made to order within a refined color palette. Available with worldwide shipping.",
+ "desc_es": "Pantalones palazzo de descanso definidos por una silueta amplia y fluida. Este diseño combina comodidad y presencia visual contemporánea. Confeccionados bajo pedido en una propuesta cromática depurada. Disponibles con envío mundial.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/b0a/b0a016ff82663ffe91eadc955049e50e_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Aura Rose Palazzo Trousers · White",
- "name_es": "Pantalón Aura Rose Palazzo · Blanco",
+ "name_en": "Aura Rose Palazzo Pants",
+ "name_es": "Pantalón Palazzo Aura Rose",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 66.99,
  "rank": 698,

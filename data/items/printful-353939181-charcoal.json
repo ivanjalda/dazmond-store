@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Charcoal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "T-shirt",
+ "ai_ver": 2,
+ "art_note": "Sophisticated studio lighting and moody composition reflect high-end editorial standards.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta",
-  "mujer/camisetas-blusas-tops"
+  "hombre/camiseta"
  ],
  "cg": "printful-353939181",
  "color": "Charcoal",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevated simplicity defines this season essential silhouette. Tailored with precision to deliver an impeccable presence. Its charcoal hue evokes understated, contemporary elegance. Designed for the modern wardrobe that values discretion and aesthetic rigor. Each piece is made to order in the United States. We offer worldwide shipping.",
+ "desc_es": "La simplicidad elevada define la silueta esencial de esta temporada. Confeccionada con precisión para ofrecer una presencia impecable. Su tono charcoal evoca una elegancia sobria y contemporánea. Diseñada para el guardarropa moderno que valora la discreción y el rigor estético. Cada pieza se elabora bajo demanda en Estados Unidos. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/682/682a5e3a4e4ae7c8aa7c5b39f5715025_preview.png"
  ],
@@ -26,9 +38,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Heritage Tee · Charcoal",
- "name_es": "Camiseta Heritage · Charcoal",
+ "name_en": "Heritage 28 T-Shirt · Charcoal",
+ "name_es": "Camiseta Heritage 28 · Charcoal",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 36.99,
  "rank": 526,

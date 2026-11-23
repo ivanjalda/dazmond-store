@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "Green / White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled Mesh",
  "ai_priority": true,
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot against a neutral background, but displays standard template presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-350913646",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Onyx Mesh shorts redefine relaxed luxury through a contemporary silhouette. Crafted for effortless movement, they balance a bold aesthetic with superior comfort. Each piece is made to order within our house. We offer worldwide shipping.",
+ "desc_es": "Las bermudas Onyx Mesh redefinen el lujo relajado con una silueta contemporánea. Diseñadas para un movimiento sin esfuerzo, combinan una estética audaz con un confort superior. Cada pieza se confecciona bajo demanda en nuestra casa. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/75e/75e5069ae5456aa1a9097fdae7e584f8_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Onyx Mesh Performance Shorts · White",
- "name_es": "Bermuda Onyx Mesh Performance · Blanco",
+ "name_en": "Onyx Mesh Shorts",
+ "name_es": "Bermudas Onyx Mesh",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 714,

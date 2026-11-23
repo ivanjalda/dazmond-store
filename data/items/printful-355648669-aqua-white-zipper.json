@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Aqua",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "windbreaker",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a neutral background, but lacks the dramatic lighting and styling of top luxury tier houses.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355648669",
  "color": "Aqua/White Zipper",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The Aero-Shield 85 windbreaker defines functional elegance for the season. Crafted with meticulous attention to detail, it presents a refined silhouette in an aqua hue complemented by a contrasting white zipper. This versatile design offers lightweight protection against the elements without sacrificing urban sophistication. Each piece is crafted exclusively to order. We offer worldwide shipping.",
+ "desc_es": "El cortavientos Aero-Shield 85 define la elegancia funcional para la temporada. Confeccionado con atención meticulosa a los detalles, presenta una silueta depurada en tono aqua complementada por una cremallera blanca contrastante. Este diseño versátil ofrece protección ligera contra los elementos sin sacrificar la sofisticación urbana. Cada pieza es elaborada exclusivamente bajo pedido en nuestras instalaciones. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Contrasting zipper closure\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Cierre de cremallera en contraste\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/6f8/6f85b77f7aa60dcb0f48652abf4dc7a2_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Aero Shield Jacket · Aqua/White Zipper",
- "name_es": "Chaqueta Aero Shield · Aqua/White Zipper",
+ "name_en": "Aero-Shield 85 Windbreaker · Aqua/White Zipper",
+ "name_es": "Cortavientos Aero-Shield 85 · Aqua/White Zipper",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 78.99,
  "rank": 453,

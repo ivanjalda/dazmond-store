@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Royal Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Flat lay mockup style typical of marketplace print-on-demand suppliers lacks high-end editorial atmosphere.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355218110",
  "color": "Royal Blue",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential silhouette designed for the season. Crafted with precision to offer an immaculate presence. The royal blue tone brings immediate depth and sophistication to any ensemble. Each piece is meticulously crafted to order in the United States. Available with worldwide shipping for discerning clients globally.",
+ "desc_es": "Una silueta esencial diseñada para la temporada. Confeccionada con precisión para ofrecer una presencia impecable. El tono azul real aporta profundidad y sofisticación inmediata a cualquier conjunto. Cada pieza se elabora meticulosamente bajo pedido en los Estados Unidos. Disponible con envío internacional para clientes exclusivos de todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/45e/45ec21ee1f0f20e526ec2791dd1a2689_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Seamless Tee · Royal Blue",
- "name_es": "Camiseta Seamless · Royal Blue",
+ "name_en": "Anvil Lightweight T-Shirt · Royal Blue",
+ "name_es": "Camiseta Anvil Ligera · Royal Blue",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 730,

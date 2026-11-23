@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic Leather",
  "ai_priority": true,
+ "ai_type": "Wallet",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots elevate the piece, though the composite lifestyle images detract from the luxury aesthetic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,23 +22,17 @@
  "cg": "t-cartera-de-piel-sintetica-daz-luxury",
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Exquisitely crafted for modern sophistication. This wallet blends practicality with impeccable design. It features ample interior space for a phone, cash, and cards. The exterior showcases a refined finish complemented by a practical carrying strap. Designed to offer effortless elegance for any occasion, from formal events to casual outings. Made to order with worldwide shipping.",
+ "desc_es": "Exquisitamente elaborada para la sofisticación moderna. Esta billetera combina practicidad con un diseño impecable. Cuenta con un amplio espacio interior para teléfono, efectivo y tarjetas. El exterior presenta un acabado refinado complementado con una práctica correa de transporte. Diseñada para ofrecer una elegancia sin esfuerzo en cualquier ocasión, desde eventos formales hasta salidas informales. Hecho a pedido con envío a todo el mundo.",
+ "details_en": "· Crafted with high-quality synthetic leather\n· Ample interior storage for phone, cash, and cards\n· Includes carrying strap\n· Clean regularly with a dry cloth and air dry\n· Made to order",
+ "details_es": "· Elaborada con cuero sintético de alta calidad\n· Amplio espacio interior para teléfono, efectivo y tarjetas\n· Incluye correa de transporte\n· Limpiar regularmente con un paño seco y secar al aire\n· Hecho a pedido",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-1-4wELwKIRIj.jpg?v=1727992658",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-13-4wELwKIRIj.jpg?v=1727992683",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-3-4wELwKIRIj.jpg?v=1727992662",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-5-4wELwKIRIj.jpg?v=1727992667",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-7-4wELwKIRIj.jpg?v=1727992671",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-9-4wELwKIRIj.jpg?v=1727992675",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-11-4wELwKIRIj.jpg?v=1727992679",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-15-4wELwKIRIj.jpg?v=1727992687",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-17-4wELwKIRIj.jpg?v=1727992691",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-2-4wELwKIRIj.jpg?v=1727992696",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-4-4wELwKIRIj.jpg?v=1727992700",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-6-4wELwKIRIj.jpg?v=1727992705",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-8-4wELwKIRIj.jpg?v=1727992709",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-10-4wELwKIRIj.jpg?v=1727992713"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-2-4wELwKIRIj.jpg?v=1727992696"
  ],
  "draft": false,
  "fam": "cartera-piel-sintetica",
@@ -42,6 +49,7 @@
  "name_en": "DAZ Printed Strap Wallet · Black",
  "name_es": "Billetera Estampada con Correa DAZ · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 853,
@@ -49,8 +57,36 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Maletas y bolsos de viaje > Maletines",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Height",
+   "Width"
+  ],
+  "headers_es": [
+   "Longitud",
+   "Altura",
+   "Ancho"
+  ],
+  "notes_en": "Made to order. Worldwide shipping available.",
+  "notes_es": "Hecho a pedido. Envío a todo el mundo disponible.",
+  "rows": [
+   [
+    "19.2",
+    "10.3",
+    "2.5"
+   ],
+   [
+    "7.6",
+    "4.1",
+    "1.0"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727992605-15-4wELwKIRIj.jpg?v=1727992687"
+ ],
  "sizes": [
   "Black"
  ],

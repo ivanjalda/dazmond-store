@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style with synthetic lighting, failing to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368719493",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A contemporary silhouette defined by an expressive all-over print. This piece combines avant-garde design with a versatile approach. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping. The ultimate expression of modern dressing.",
+ "desc_es": "Una silueta contemporánea definida por un estampado integral expresivo. Esta pieza combina un diseño vanguardista con un enfoque versátil. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible con envíos a todo el mundo. La expresión definitiva de la modernidad en el vestir.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/fa7/fa7c40b82d944e55a4c0ad62180de183_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Daz Sweatshirt · White",
- "name_es": "Sudadera Daz · Blanco",
+ "name_en": "All-Over Print Recycled Hoodie",
+ "name_es": "Sudadera All-Over Print Recycled",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 77.99,
  "rank": 759,

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "beanie",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait with clear garment visibility, though standard e-commerce lighting lacks a high-end editorial atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-348134135",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential expression of contemporary design. This beanie pairs a clean silhouette with a defined texture, creating a refined and grounded visual presence. Crafted for urban cold weather with a minimalist aesthetic. Each piece is custom-made to order to ensure uncompromising exclusivity. Worldwide shipping is available.",
+ "desc_es": "Una expresión esencial de diseño contemporáneo. Este gorro combina una silueta limpia con una textura definida, creando una presencia visual sobria y rotunda. Pensado para el frío urbano con una estética depurada. Cada pieza se elabora exclusivamente bajo pedido para garantizar la máxima exclusividad. Ofrecemos envío a todo el mundo para su comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/f56/f5666a495e5aac28287acef7309ece31_preview.png"
  ],
@@ -29,6 +43,7 @@
  "name_en": "Camel Honeycomb Beanie · Black",
  "name_es": "Gorro Honeycomb Camel · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 31.99,
  "rank": 700,

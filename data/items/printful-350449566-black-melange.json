@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Black Melange",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "Polo Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a neutral background, but lacks high-end editorial lighting and styling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "printful-350449566",
  "color": "Black Melange",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A streamlined silhouette designed for contemporary versatility. This polo combines a minimalist aesthetic with a deep tone. Tailored with precision, the piece offers an impeccable drape and an understated presence. Each item is crafted to order with worldwide shipping available. An essential fusion of sophistication and modern comfort.",
+ "desc_es": "Una silueta depurada diseñada para la versatilidad contemporánea. Este polo combina una estética minimalista con un tono profundo. Confeccionada con precisión, la pieza ofrece una caída impecable y una presencia discreta. Cada prenda se elabora bajo pedido con disponibilidad de envío internacional. Una fusión esencial de sofisticación y comodidad moderna.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/89c/89cb00c3e3acbdaf0491f6e0051393bd_preview.png"
  ],
@@ -26,9 +38,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Adidas Nebula Performance Polo · Black Melange",
- "name_es": "Polo Adidas Nebula Performance · Black Melange",
+ "name_en": "Nebula Performance Polo · Black Melange",
+ "name_es": "Polo Nebula Performance · Black Melange",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 87.99,
  "rank": 711,

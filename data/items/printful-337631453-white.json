@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "visor",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait, but generic supplier aesthetic prevents true luxury positioning.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-337631453",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Clean architecture and refined design. The Apex Blessed visor embodies functional elegance for sun-drenched days. An essential piece with pure lines that brings immediate distinction to any ensemble. Each creation is crafted exclusively on demand in our ateliers. We offer worldwide shipping to ensure your selection arrives with utmost exclusivity.",
+ "desc_es": "Arquitectura limpia y diseño depurado. La visera Apex Blessed encarna la elegancia funcional para los momentos de sol. Una pieza esencial de líneas puras que aporta distinción inmediata a cualquier atuendo. Cada creación se elabora exclusivamente bajo demanda en nuestros talleres. Ofrecemos envíos a todo el mundo para garantizar que su selección llegue con la máxima exclusividad.",
+ "details_en": "· Made to order exclusively\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido exclusivamente\n· Envío a todo el mundo disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/171/1717793c51133d47eede9877d40b543f_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Apex Blessed Visor Hat · White",
- "name_es": "Gorro Apex Blessed Visor · Blanco",
+ "name_en": "Apex Blessed Black Visor · White",
+ "name_es": "Visera Apex Blessed Negra · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 33.99,
  "rank": 741,

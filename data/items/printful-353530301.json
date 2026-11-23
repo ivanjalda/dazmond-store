@@ -1,16 +1,31 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled Mesh",
  "ai_priority": true,
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/pantalones",
-  "mujer/pantalones"
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
  ],
  "cg": "printful-353530301",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Engineered for a distinguished presence and absolute comfort. These shorts present a clean silhouette with an all-over print defining a modern aesthetic. Each piece is crafted to order to ensure the utmost exclusivity. Available for worldwide shipping.",
+ "desc_es": "Diseñadas para una presencia distinguida y una comodidad absoluta. Estas bermudas presentan una silueta limpia con un estampado integral que define una estética moderna. Cada prenda se confecciona bajo pedido para garantizar la máxima exclusividad. Disponibles para envío a todo el mundo.",
+ "details_en": "· Recycled mesh fabric\n· Made to order",
+ "details_es": "· Tejido de malla reciclada\n· Confección bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/343/343e76a41c9c8e8bd7596d5219ca3976_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Ascot Trousers · White",
- "name_es": "Pantalón Ascot · Blanco",
+ "name_en": "Ascot Printed Shorts",
+ "name_es": "Bermudas Ascot Estampadas",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 725,

@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and composition, but lacks the sophisticated atmosphere of high-end luxury e-commerce.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
  ],
  "cg": "printful-355247274",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Meridian hoodie redefines everyday luxury with an impeccable silhouette. Each piece is crafted exclusively on demand to ensure absolute exclusivity. The design combines a refined structure with subtle details that evoke effortless modern elegance. Available with worldwide shipping.",
+ "desc_es": "La sudadera Meridian redefine el lujo cotidiano con una silueta impecable. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. El diseño combina una estructura depurada con detalles sutiles que evocan una elegancia moderna y sin esfuerzo. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección exclusiva bajo demanda\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/504/5045ecf5191037a7dab14d16262934eb_preview.png"
  ],
@@ -20,15 +32,16 @@
  "id": "printful-355247274-white",
  "img_checked": "2026-11-23",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-357300009-black",
-  "printful-346239758"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-350906743"
  ],
  "material": "",
- "name_en": "Meridian Femme Jacket · White",
- "name_es": "Chaqueta Meridian Femme · Blanco",
+ "name_en": "Dazmond Meridian Zip Hoodie · White",
+ "name_es": "Sudadera Meridiano Dazmond · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 756,

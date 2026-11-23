@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled fabric",
  "ai_priority": true,
+ "ai_type": "Jersey",
+ "ai_ver": 2,
+ "art_note": "The image features a standard flat-mockup presentation on a model with generic studio lighting, lacking the high-end atmospheric curation expected of a luxury f",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-351969651",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Redefining the codes of luxury sportswear, this silhouette combines commanding presence with precise tailoring. Designed for those who demand distinction in every detail, it features dynamic lines and a contemporary structure that flows effortlessly with the body. Each piece is meticulously crafted to order in our ateliers, ensuring exclusivity and an absolute commitment to sartorial excellence. Available with worldwide shipping.",
+ "desc_es": "Redefiniendo los códigos de la ropa deportiva de lujo, esta silueta combina una presencia imponente con una confección precisa. Diseñado para quienes exigen distinción en cada detalle, presenta líneas dinámicas y una estructura contemporánea que se adapta con fluidez al cuerpo. Cada pieza se elabora meticulosamente bajo demanda en nuestros talleres, garantizando exclusividad y un compromiso absoluto con la excelencia sartorial. Disponible con servicio de envío internacional.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/86d/86db4e1d70dc121e9d594621082ddbd9_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Apex Vanguard Hockey Sweater · White",
- "name_es": "Suéter Apex Vanguard Hockey · Blanco",
+ "name_en": "Apex Vanguard Jersey",
+ "name_es": "Jersey Apex Vanguard",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 66.99,
  "rank": 719,

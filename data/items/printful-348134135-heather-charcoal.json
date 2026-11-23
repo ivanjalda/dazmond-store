@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Heather Charcoal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Beanie",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait on white background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-348134135",
  "color": "Heather Charcoal",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of contemporary design. This beanie combines a distinctive waffle texture with a versatile silhouette. Conceived for seasonal transitions, it offers a sober and sophisticated presence. Each piece is crafted exclusively on demand in the United States. Available with worldwide shipping.",
+ "desc_es": "Una expresion depurada del diseño contemporáneo. Este gorro combina una textura waffle distintiva con una silueta versátil. Pensado para la transición entre estaciones, ofrece una presencia sobria y sofisticada. Cada pieza se elabora exclusivamente bajo demanda en Estados Unidos. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/57a/57a6b435ce15c3b51160f030dcaf88e4_preview.png"
  ],
@@ -29,6 +43,7 @@
  "name_en": "Camel Honeycomb Beanie · Heather Charcoal",
  "name_es": "Gorro Honeycomb Camel · Heather Charcoal",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 31.99,
  "rank": 701,

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Algodón",
  "ai_priority": true,
+ "ai_type": "Gorra de béisbol",
+ "ai_ver": 2,
+ "art_note": "High-end urban lifestyle campaign with strong lighting and premium atmosphere.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-gorra-dazmond-luxury-beisbol",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Define your urban presence with this essential piece from DAZMOND & Co. Made to order in the United States, this cap combines a classic silhouette with durable materials that resist wrinkles and hold their shape. The front graphic brings a distinct and sophisticated accent. Designed to accompany you through any environment, it offers versatility and distinction in every detail. An exclusive creation reserved for a select community, with worldwide shipping available.",
+ "desc_es": "Defina su presencia urbana con esta pieza esencial de DAZMOND & Co. Fabricada bajo pedido en los Estados Unidos, esta gorra combina una silueta clásica con materiales duraderos que conservan su forma y resisten las arrugas. El diseño frontal aporta un acento distintivo y sofisticado. Pensada para acompañarle en cualquier entorno, ofrece versatilidad y distinción en cada detalle. Una creación exclusiva destinada a una comunidad selecta con envíos disponibles a todo el mundo.",
+ "details_en": "· Cotton\n· Adjustable strap-back closure\n· Hand wash recommended\n· Made in USA",
+ "details_es": "· Algodón\n· Cierre ajustable con correa a presión\n· Se recomienda lavar a mano\n· Hecho en EE. UU.",
  "display_images": [
   "assets/products/shop/a46ce4c8b9272bf89fb4.jpg",
   "assets/products/shop/f88b309298616afa91f9.jpg",
@@ -28,9 +43,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Gorra Béisbol Hat",
- "name_es": "Gorro Gorra Béisbol",
+ "name_en": "DAZMOND Baseball Cap",
+ "name_es": "Gorra de Béisbol DAZMOND",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 23.99,
  "rank": 961,

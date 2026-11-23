@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Blue, White, Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_type": "Bucket Hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with neutral backgrounds, though lacking lifestyle context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,23 +22,19 @@
  "cg": "t-sombrero-de-pescador-daz-premium-unisex-de-moda",
  "color": "Blue",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The DAZ bucket hat combines modern functionality with a refined aesthetic. Designed for versatility, it features a lightweight, packable silhouette that allows for effortless travel. Crafted from a soft and durable material, it incorporates breathable elements and ultraviolet protection. Each piece is crafted especially on demand to ensure exclusivity within our community. Available with worldwide shipping.",
+ "desc_es": "El sombrero de pescador DAZ combina funcionalidad moderna con una estética depurada. Diseñado para ofrecer versatilidad, presenta una silueta ligera y plegable que facilita su transporte. Confeccionado en un material suave y duradero, incorpora detalles transpirables y protección contra los rayos ultravioleta. Cada pieza se elabora especialmente bajo demanda para garantizar la exclusividad dentro de nuestra comunidad. Disponible con envío a todo el mundo.",
+ "details_en": "· Soft and durable polyester composition\n· Foldable and packable design\n· UV protection and breathable eyelets\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Composición de poliéster suave y duradero\n· Diseño plegable y empacable\n· Protección contra los rayos UV y agujeros transpirables\n· Hecho a medida bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-3-ZG2nnM1u7T.jpg?v=1731617869",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-1-ZG2nnM1u7T.jpg?v=1731617837",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-7-ZG2nnM1u7T.jpg?v=1731617841",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-13-ZG2nnM1u7T.jpg?v=1731617846",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-19-ZG2nnM1u7T.jpg?v=1731617849",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-2-ZG2nnM1u7T.jpg?v=1731617853",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-8-ZG2nnM1u7T.jpg?v=1731617857",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-14-ZG2nnM1u7T.jpg?v=1731617860",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-20-ZG2nnM1u7T.jpg?v=1731617864",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-9-ZG2nnM1u7T.jpg?v=1731617873",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-15-ZG2nnM1u7T.jpg?v=1731617877",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-21-ZG2nnM1u7T.jpg?v=1731617881",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-5-ZG2nnM1u7T.jpg?v=1731617884",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-11-ZG2nnM1u7T.jpg?v=1731617889"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-9-ZG2nnM1u7T.jpg?v=1731617873"
  ],
  "draft": false,
  "fam": "sombrero-pescador-premium",
@@ -39,9 +48,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Sombrero Pescador Daz Hat · Blue",
- "name_es": "Gorro Sombrero Pescador Daz · Azul",
+ "name_en": "DAZ Signature Bucket Hat · Blue",
+ "name_es": "Sombrero de Pescador DAZ Signature · Azul",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 865,
@@ -49,8 +59,35 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "High",
+   "Diameter",
+   "Weight"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Altura",
+   "Diámetro",
+   "Peso"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "55cm (22.0\") - 58cm (23\")",
+    "9cm (3.5\")",
+    "26.5cm (10.4\")",
+    "63g"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-19-ZG2nnM1u7T.jpg?v=1731617849",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-20-ZG2nnM1u7T.jpg?v=1731617864"
+ ],
  "sizes": [
   "Blue"
  ],

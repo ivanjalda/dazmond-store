@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "polo shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and minimalist background, but typical mock-up aesthetic lacks high-end editorial depth.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "printful-355216133",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reinterpretation of classic elegance. This silhouette offers clean lines and a distinguished presence for the modern wardrobe. Crafted with precision on demand, each piece reflects an unwavering commitment to quality and refined design. The minimalist aesthetic brings versatility and understated sophistication to any occasion. Available for worldwide shipping.",
+ "desc_es": "Una reinterpretación contemporánea de la elegancia clásica. Esta silueta ofrece líneas limpias y una presencia distinguida para el guardarropa moderno. Confeccionada con precisión bajo demanda, cada pieza refleja un compromiso inquebrantable con la calidad y el diseño depurado. La estética minimalista aporta versatilidad y sofisticación discreta a cualquier ocasión. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b0e/b0ed059ddafdc7901d8799a629d21634_preview.png"
  ],
@@ -26,9 +38,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Piqué Heritage Polo · White",
+ "name_en": "Heritage Piqué Polo · White",
  "name_es": "Polo Piqué Heritage · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 751,

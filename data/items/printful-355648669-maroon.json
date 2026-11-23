@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Maroon",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Flat supplier mockup against a plain background lacking luxury staging.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355648669",
  "color": "Maroon",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Refined architecture and clean silhouette. The Aero-Shield 85 jacket embodies modern sophistication through an essential and commanding design. Each piece is crafted exclusively upon request to ensure absolute exclusivity. A versatile garment designed to accompany you with elegance in any urban environment. Available with worldwide shipping.",
+ "desc_es": "Arquitectura depurada y silueta depurada. La cazadora Aero-Shield 85 encarna la sofisticacion moderna mediante un diseno esencial y contundente. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. Una prenda versatil disenada para acompanarle con elegancia en cualquier entorno urbano. Disponible con envio internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado bajo pedido\n· Disponible con envio mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/3d9/3d97efd3dfe5eb921f54fc53f2d91e5b_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Aero Shield Jacket · Maroon",
- "name_es": "Chaqueta Aero Shield · Maroon",
+ "name_en": "Aero-Shield 85 Windbreaker · Maroon",
+ "name_es": "Cortavientos Aero-Shield 85 · Maroon",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 78.99,
  "rank": 456,

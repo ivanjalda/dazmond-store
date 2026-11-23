@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Rust",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "beanie",
+ "ai_ver": 2,
+ "art_note": "The image has a flat, composited look typical of basic print-on-demand suppliers rather than high-end fashion campaigns.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-348134135",
  "color": "Rust",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A distinctive presence for colder weather days. This beanie pairs a textured honeycomb waffle knit with a deep rust tone, creating a modern and structured silhouette. Designed for versatility and understated sophistication, it integrates naturally into any refined wardrobe. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Una presencia distintiva para los días de clima frío. Este gorro combina una textura texturizada de tipo waffle con un tono óxido profundo, creando una silueta moderna y estructurada. Diseñado para ofrecer versatilidad y sofisticación discreta, se adapta con naturalidad a cualquier guardarropa refinado. Cada pieza se elabora bajo pedido y cuenta con envío mundial.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/537/537dddac1f37b9ab87cfec276dd5c122_preview.png"
  ],
@@ -29,6 +43,7 @@
  "name_en": "Camel Honeycomb Beanie · Rust",
  "name_es": "Gorro Honeycomb Camel · Rust",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 31.99,
  "rank": 702,

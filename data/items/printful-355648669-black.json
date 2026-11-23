@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "windbreaker",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a neutral background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355648669",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Define your urban presence with the Dazmond Aero-Shield windbreaker. This piece fuses clean silhouettes with flawless functionality. Designed for movement and effortless transition through the elements. The deep black tone projects silent authority. Each garment is meticulously crafted to order in our facilities. We offer worldwide shipping for your global convenience. A definitive statement of modern style.",
+ "desc_es": "Defina su presencia urbana con el cortavientos Aero-Shield Dazmond. Esta prenda fusiona siluetas limpias con una funcionalidad impecable. Diseñado para el movimiento y la transición sin esfuerzo entre elementos. El tono negro profundo proyecta una autoridad silenciosa. Cada pieza se elabora meticulosamente bajo demanda en nuestras instalaciones. Ofrecemos envíos a todo el mundo para su comodidad global. Una declaración de estilo moderno.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/d65/d655bb045c62e1bf94fc2ac236a9ab06_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Aero Shield Jacket · Black",
- "name_es": "Chaqueta Aero Shield · Negro",
+ "name_en": "Aero-Shield 85 Windbreaker · Black",
+ "name_es": "Cortavientos Aero-Shield 85 · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 78.99,
  "rank": 454,

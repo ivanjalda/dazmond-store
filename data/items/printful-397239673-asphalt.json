@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Asphalt",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "The image is a flat, generic supplier mockup lacking luxury atmosphere and professional studio lighting.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-397239673",
  "color": "Asphalt",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Modern architecture and unstructured volume. This piece redefines contemporary comfort with an expansive silhouette and an imposing presence. Crafted to order to ensure absolute exclusivity. Worldwide shipping available for select clients.",
+ "desc_es": "Arquitectura moderna y volumen desestructurado. Esta pieza redefine el confort contemporáneo con una silueta amplia y una presencia imponente. Confeccionada bajo pedido para garantizar exclusividad absoluta. Envío mundial disponible para clientes selectos.",
+ "details_en": "· Oversize fit\n· Made to order",
+ "details_es": "· Corte oversize\n· Hecho bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/223/223d81853f9d001b119d731aae48a6d7_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Capucha Gruesa Sweatshirt · Asphalt",
- "name_es": "Sudadera Capucha Gruesa · Asphalt",
+ "name_en": "DAZMond Heavyweight Oversize Hoodie · Asphalt",
+ "name_es": "Sudadera Oversize Pesada DAZMond · Asphalt",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 64.99,
  "rank": 428,

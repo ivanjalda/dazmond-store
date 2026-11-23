@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, functional but lacks high-end editorial lighting and atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355648669",
  "color": "Red",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The Dazmond Aero-Shield 85 jacket redefines functional elegance with a refined and contemporary silhouette. Designed to offer uncompromising protection, it features clean lines and an immaculate finish in a bold red tone. This piece embodies modern sophistication and architectural minimalism. Each garment is meticulously crafted to order in our workshops, ensuring exclusivity and a flawless fit. Available with worldwide shipping for the most discerning global wardrobe.",
+ "desc_es": "La chaqueta Dazmond Aero-Shield 85 redefine la elegancia funcional con una silueta depurada y contemporánea. Diseñada para ofrecer protección sin concesiones, presenta líneas limpias y un acabado impecable en un tono rojo rotundo. Esta pieza encarna la sofisticación moderna y el minimalismo arquitectónico. Cada prenda se elabora meticulosamente bajo pedido en nuestros talleres, garantizando exclusividad y un ajuste perfecto. Disponible con envíos a todo el mundo para el guardarropa global más exigente.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/70f/70fb6570990d0fa20e6742fc6e065213_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Aero Shield Jacket · Red",
- "name_es": "Chaqueta Aero Shield · Rojo",
+ "name_en": "Aero-Shield 85 Windbreaker · Red",
+ "name_es": "Cortavientos Aero-Shield 85 · Rojo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 78.99,
  "rank": 457,

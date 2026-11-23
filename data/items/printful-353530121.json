@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "recycled mesh",
  "ai_priority": true,
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Flat-lay product shot with generic supplier digital rendering.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-353530121",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reinterpretation of the classic athletic silhouette. Crafted from recycled mesh fabric, these shorts offer a fluid drape and exceptional lightness. The all-around print introduces a distinctive, avant-garde character. Each piece is crafted to order to ensure ultimate exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una reinterpretación contemporánea de la silueta deportiva clásica. Confeccionadas con tejido de malla reciclada, estas bermudas ofrecen una caída fluida y una ligereza excepcional. El estampado integral aporta un carácter distintivo y vanguardista. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Disponibles con envío a todo el mundo.",
+ "details_en": "· Recycled mesh fabric\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Tejido de malla reciclada\n· Confeccionado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/d5e/d5eae5acd4f5b1865c721039dfad52f0_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Odyssey Shorts · White",
- "name_es": "Bermuda Odyssey · Blanco",
+ "name_en": "Odyssey Mesh Shorts",
+ "name_es": "Bermudas Odyssey Mesh",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 721,

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_type": "Bucket Hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain background, maintaining a minimalist luxury e-commerce aesthetic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,23 +22,19 @@
  "cg": "t-sombrero-de-pescador-daz-premium-unisex-de-moda",
  "color": "Red",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your everyday style with this impeccably designed bucket hat. Crafted from soft, durable materials, it offers a lightweight and breathable silhouette tailored for daily wear or outdoor escapes. Ultraviolet protection meets modern functionality in a versatile piece that adapts effortlessly to your wardrobe. Each order is crafted especially for you on demand, ensuring exclusivity and a commitment to our community.",
+ "desc_es": "Elevue su estilo cotidiano con este sombrero de pescador de diseño impecable. Confeccionado con materiales suaves y duraderos, ofrece una silueta ligera y transpirable pensada para el uso diario o escapadas al aire libre. La protección contra los rayos ultravioleta se une a la funcionalidad moderna en una pieza versátil que se adapta sin esfuerzo a su guardarropa. Cada pedido se elabora especialmente para usted bajo demanda, garantizando exclusividad y un compromiso con nuestra comunidad.",
+ "details_en": "· Crafted from soft and durable polyester\n· Foldable and packable design\n· UV protection\n· Breathable sweat-absorbing eyelets\n· Circumference 55-58 cm, height 9 cm, diameter 26.5 cm\n· Care instructions: regular wash, line dry only, hand wash recommended with cold water, do not bleach, air dry or iron\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Confeccionado en poliéster suave y duradero\n· Diseño plegable y empacable\n· Protección contra los rayos UV\n· Agujeros transpirables para absorber el sudor\n· Circunferencia de 55-58 cm, altura de 9 cm, diámetro de 26,5 cm\n· Instrucciones de cuidado: lavado regular, secar solo para eliminar el olor, se recomienda lavar a mano con agua fría, no usar blanqueador, secar al aire o planchar\n· Producto fabricado bajo demanda con envíos a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-4-ZG2nnM1u7T.jpg?v=1731617902",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-1-ZG2nnM1u7T.jpg?v=1731617837",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-7-ZG2nnM1u7T.jpg?v=1731617841",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-13-ZG2nnM1u7T.jpg?v=1731617846",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-19-ZG2nnM1u7T.jpg?v=1731617849",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-2-ZG2nnM1u7T.jpg?v=1731617853",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-8-ZG2nnM1u7T.jpg?v=1731617857",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-14-ZG2nnM1u7T.jpg?v=1731617860",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-20-ZG2nnM1u7T.jpg?v=1731617864",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-3-ZG2nnM1u7T.jpg?v=1731617869",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-9-ZG2nnM1u7T.jpg?v=1731617873",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-15-ZG2nnM1u7T.jpg?v=1731617877",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-21-ZG2nnM1u7T.jpg?v=1731617881",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-5-ZG2nnM1u7T.jpg?v=1731617884"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-3-ZG2nnM1u7T.jpg?v=1731617869"
  ],
  "draft": false,
  "fam": "sombrero-pescador-premium",
@@ -39,9 +48,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Sombrero Pescador Daz Hat · Red",
- "name_es": "Gorro Sombrero Pescador Daz · Rojo",
+ "name_en": "DAZ Signature Bucket Hat · Red",
+ "name_es": "Sombrero de Pescador DAZ Signature · Rojo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 868,
@@ -49,8 +59,35 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "High",
+   "Diameter",
+   "Weight"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Alto",
+   "Diámetro",
+   "Peso"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "55-58",
+    "9",
+    "26.5",
+    "63g"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-19-ZG2nnM1u7T.jpg?v=1731617849",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1731617453-20-ZG2nnM1u7T.jpg?v=1731617864"
+ ],
  "sizes": [
   "Red"
  ],

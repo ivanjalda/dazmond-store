@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "algodón",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "The image presents a flat, composited product mockup on a plain background, lacking the depth, sophisticated lighting, and styling required for luxury e-commerc",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-400737993",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An imposing presence in pure white. This silhouette redefines casual luxury with a distinctive graphic design and an impeccable structure. Crafted from exceptional cotton, it offers absolute comfort without compromising contemporary elegance. Each piece is exclusively made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una presencia imponente en blanco puro. Esta silueta redefine el lujo casual con un diseño gráfico distintivo y una estructura impecable. Confeccionada con algodón de tacto excepcional, ofrece un confort absoluto sin comprometer la elegancia contemporánea. Cada pieza se elabora exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· Cotton construction\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección en algodón\n· Pieza elaborada bajo demanda\n· Envío a todo el mundo disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/179/1793d057075cb6a234426b16d07dce97_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Algodón Sweatshirt · White",
- "name_es": "Sudadera Algodón · Blanco",
+ "name_en": "DAZMOND All-Over Print Hoodie",
+ "name_es": "Sudadera All-Over Print DAZMOND",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 73.99,
  "rank": 694,

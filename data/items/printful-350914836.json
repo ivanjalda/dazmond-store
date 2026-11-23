@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Recycled Mesh",
  "ai_priority": true,
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "The image is a flat, floating ghost mannequin render with a pasted digital graphic, lacking luxury lighting and physical texture.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-350914836",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined by a contemporary aesthetic, these mesh shorts redefine casual luxury with a distinctive graphic approach. Crafted from recycled materials, they offer a lightweight and versatile silhouette designed for movement. Each piece is made to order with meticulous attention to detail and worldwide shipping available.",
+ "desc_es": "Definidas por una estética contemporánea, estas bermudas de malla redefinen el lujo casual con un enfoque gráfico distintivo. Confeccionadas con materiales reciclados, ofrecen una silueta ligera y versátil diseñada para el movimiento. Cada pieza se confecciona bajo demanda con atención al detalle y disponibilidad de envío a nivel mundial.",
+ "details_en": "· Crafted from recycled mesh fabric\n· Unisex design\n· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Confeccionado con tejido de malla reciclada\n· Diseño unisex\n· Hecho a medida\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/342/342095700be0e534ca2bb7ccf27650c3_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Postage Art Modern Shorts · White",
- "name_es": "Bermuda Postage Art Modern · Blanco",
+ "name_en": "Postage Art Mesh Shorts",
+ "name_es": "Bermudas de Malla Postage Art",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 717,

@@ -1,16 +1,31 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "recycled mesh",
  "ai_priority": true,
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "The image features a generic headless model crop with standard studio lighting typical of print-on-demand suppliers, lacking luxury atmosphere.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/pantalones",
-  "mujer/pantalones"
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
  ],
  "cg": "printful-353530196",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The Nebula shorts define a contemporary silhouette featuring an all-over cosmic-inspired print. Crafted from lightweight recycled mesh, they offer fluid movement and absolute comfort. Each piece is crafted to order in the United States with worldwide shipping available. A versatile garment that balances modern aesthetics with technical functionality.",
+ "desc_es": "Las bermudas Nebula definen una silueta contemporánea con un estampado integral de inspiración cósmica. Confeccionadas en malla reciclada ligera, ofrecen un movimiento fluido y una comodidad absoluta. Cada pieza se elabora bajo demanda en Estados Unidos con envíos internacionales disponibles. Una prenda versátil que equilibra la estética moderna con la funcionalidad técnica.",
+ "details_en": "· Crafted from recycled mesh\n· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Confeccionado en malla reciclada\n· Elaborado bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/2da/2da6e83c256cb404bd0c4548eb92e338_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Nebula Trousers · White",
- "name_es": "Pantalón Nebula · Blanco",
+ "name_en": "Nebula All-Over Print Shorts",
+ "name_es": "Bermudas Nebula All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 723,

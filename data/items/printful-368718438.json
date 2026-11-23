@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "The image features a flat, computer-generated mock-up style typical of generic suppliers, failing to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368718438",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold silhouette defined by a monochromatic all-over print and architectural contrasts. This piece encapsulates urban modernity with a magnetic visual presence. Crafted exclusively to order in the United States. Available for worldwide shipping.",
+ "desc_es": "Una silueta audaz definida por un estampado integral monocromático y contrastes arquitectónicos. Esta prenda encapsula la modernidad urbana con una presencia visual magnética. Confeccionada exclusivamente bajo pedido en Estados Unidos. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order exclusively.\n· Worldwide shipping available.",
+ "details_es": "· Hecho a pedido exclusivamente.\n· Envío a todo el mundo disponible.",
  "display_images": [
   "https://files.cdn.printful.com/files/a12/a1275c24e50a41e2519dc4fce44bc674_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Daz Sweatshirt · White",
- "name_es": "Sudadera Daz · Blanco",
+ "name_en": "Premium All-Over Print Hoodie",
+ "name_es": "Sudadera All-Over Print Premium",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 77.99,
  "rank": 758,

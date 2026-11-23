@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos",
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "recycled mesh",
  "ai_priority": true,
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, straightforward display of the all-over print.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-350913931",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reinterpretation of the classic athletic silhouette. These shorts blend a bold patriotic-inspired design with a lightweight recycled mesh fabric. Crafted for effortless movement, they deliver an unmistakable visual presence and absolute comfort. Each piece is crafted to order. Worldwide shipping is available.",
+ "desc_es": "Una reinterpretación contemporánea de la silueta deportiva clásica. Estas bermudas combinan un diseño audaz de inspiración patriótica con un tejido de malla reciclada de alta ligereza. Pensadas para el movimiento sin esfuerzo, ofrecen una presencia visual inconfundible y un confort absoluto. Cada pieza se confecciona bajo pedido en nuestras instalaciones. Disponible servicio de envío internacional.",
+ "details_en": "· Recycled mesh\n· Made to order",
+ "details_es": "· Malla reciclada\n· Confeccionado bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/ca4/ca41f958a38b5f711b5733d1cef38313_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Freedom Heritage Mesh Shorts · White",
- "name_es": "Bermuda Freedom Heritage Mesh · Blanco",
+ "name_en": "Freedom Heritage Mesh Shorts",
+ "name_es": "Bermudas Freedom Heritage de malla",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 715,

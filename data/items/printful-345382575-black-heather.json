@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "Black Heather",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "Quarter-Zip",
+ "ai_ver": 2,
+ "art_note": "The image is a standard mockup with the head awkwardly cropped, failing to meet luxury e-commerce standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/chandal-sudaderas",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/chandal-sudaderas"
  ],
  "cg": "printful-345382575",
  "color": "Black Heather",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette designed for the transition between dynamism and pause. Crafted with precise attention to detail, this piece embodies the house's functional elegance. The stand collar and quarter-zip design offer sophisticated versatility. Each garment is meticulously made to order. Available with worldwide shipping.",
+ "desc_es": "Silueta depurada diseñada para la transición entre el dinamismo y la pausa. Confeccionada con precisión milimétrica, esta pieza encarna la elegancia funcional de la casa. El diseño de cuello alto y cremallera corta ofrece una versatilidad sofisticada. Cada prenda se elabora meticulosamente bajo pedido. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/8dc/8dc00450c1740d3cdf25356aa8852ab6_preview.png"
  ],
@@ -26,9 +38,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Adidas Apex Performance Sweatshirt · Black Heather",
- "name_es": "Sudadera Adidas Apex Performance · Black Heather",
+ "name_en": "Apex Quarter-Zip Sweatshirt · Black Heather",
+ "name_es": "Sudadera Cuartos de Cierre Apex · Black Heather",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 100.99,
  "rank": 548,

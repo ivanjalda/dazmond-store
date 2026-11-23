@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "Graphite",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle photography with refined lighting and architectural framing.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/abrigo-chaqueta-sueter"
  ],
  "cg": "printful-345578536",
  "color": "Graphite",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The Vanguard packable jacket delivers an immaculate silhouette for unpredictable weather. Tailored for the contemporary man who values both functionality and quiet elegance. Its versatile design allows for effortless transition between urban environments and weekend escapes. Each piece is made to order in our ateliers, ensuring exclusivity and an absolute commitment to sartorial excellence. Available with worldwide shipping.",
+ "desc_es": "La chaqueta empacable Vanguard ofrece una silueta impecable para el clima impredecible. Confeccionada para el hombre contemporáneo que valora tanto la funcionalidad como la elegancia discreta. Su diseño versátil permite una transición sin esfuerzo entre entornos urbanos y escapadas de fin de semana. Cada pieza se confecciona bajo pedido en nuestros talleres, garantizando exclusividad y un compromiso absoluto con la excelencia sartorial. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/575/5750f9c6d10432f4e458f101915df0a1_preview.png"
  ],
@@ -29,6 +41,7 @@
  "name_en": "Vanguard Packable Jacket · Graphite",
  "name_es": "Chaqueta Empacable Vanguard · Graphite",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 69.99,
  "rank": 648,

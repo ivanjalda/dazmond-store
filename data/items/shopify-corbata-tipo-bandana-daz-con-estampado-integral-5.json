@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Necktie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with poor digital composites for model images.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,11 +23,11 @@
  "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This essential piece elevates modern tailoring with a refined presence. Crafted to complement structured shirts and formal suiting with an impeccable profile. A versatile silhouette designed to transition effortlessly between executive boardrooms and evening galas. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Esta pieza esencial eleva la sastrería moderna con una presencia refinada. Confeccionada para complementar camisas estructuradas y trajes formales con un perfil impecable. Una silueta versátil diseñada para transicionar sin esfuerzo entre reuniones ejecutivas y veladas nocturnas. Cada pieza se confecciona bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Polyester\n· Width: 1.5 inches at widest point\n· Length: 57 inches\n· Dry clean recommended\n· Made to order piece",
+ "details_es": "· Poliéster\n· Ancho: 1,5 pulgadas en la parte más ancha\n· Largo: 57 pulgadas\n· Limpieza en seco recomendada\n· Made to order piece",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726046619-1-L5xRQUm3Qx.jpg?v=1726046737",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726046619-2-L5xRQUm3Qx.jpg?v=1726046741",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726046619-3-L5xRQUm3Qx.jpg?v=1726046744",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726046619-4-L5xRQUm3Qx.jpg?v=1726046747",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726046619-5-L5xRQUm3Qx.jpg?v=1726046751"
@@ -30,9 +44,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Corbata Tipo Bandana Hat",
- "name_es": "Gorro Corbata Tipo Bandana",
+ "name_en": "Black Slim Necktie",
+ "name_es": "Corbata Estrecha Negra",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 19.99,
  "rank": 795,
@@ -42,7 +57,9 @@
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
- "sizes": [],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Corbata tipo bandana DAZ con estampado integral",
  "stripe_payment_link": "https://buy.stripe.com/4gM9AU9be12c0I6ayG1gN2B",
  "supplier": "Shopify",

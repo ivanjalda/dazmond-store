@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White Camo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, standard e-commerce aesthetic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355648669",
  "color": "White Camo",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Clean design and contemporary silhouette for the modern wardrobe. The Aero-Shield 85 jacket delivers an impeccable presence in any setting. Each piece is made to order to ensure absolute exclusivity. Worldwide shipping available.",
+ "desc_es": "Diseño depurado y silueta contemporánea para el guardarropa moderno. La chaqueta Aero-Shield 85 ofrece una presencia impecable en cualquier entorno. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Envío mundial disponible.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/4df/4df9bd34c9777167dc1402cda024fc03_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Aero Shield Jacket · White Camo",
- "name_es": "Chaqueta Aero Shield · White Camo",
+ "name_en": "Aero-Shield 85 Windbreaker · White Camo",
+ "name_es": "Cortavientos Aero-Shield 85 · White Camo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 78.99,
  "rank": 458,

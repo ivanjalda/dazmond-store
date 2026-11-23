@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/pantalones",
+  "mujer/pantalones"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "palazzo lounge pants",
+ "ai_ver": 2,
+ "art_note": "Flat-lay product mock-up lacks the elevated lighting and atmosphere required for luxury e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-337652183",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A fluid silhouette defined by an impactful graphic presence. This wide-leg design reinterprets relaxed luxury with clean lines and an unwavering attitude. Crafted exclusively made-to-order to ensure an impeccable finish. Available with worldwide shipping.",
+ "desc_es": "Una silueta fluida definida por una presencia gráfica impactante. Este diseño de pierna ancha reinterpreta el lujo relajado con líneas limpias y una actitud decidida. Confeccionado exclusivamente bajo pedido para asegurar un acabado impecable. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/d83/d832c0f2bde8a76df6b01cfb341ac329_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Soleil Palazzo Lounge Trousers · White",
- "name_es": "Pantalón Soleil Palazzo Lounge · Blanco",
+ "name_en": "Soleil d'Or Palazzo Pants",
+ "name_es": "Pantalón Palazzo Soleil d'Or",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 66.99,
  "rank": 697,

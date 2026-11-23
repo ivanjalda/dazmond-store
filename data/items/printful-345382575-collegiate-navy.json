@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Collegiate Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Quarter-Zip",
+ "ai_ver": 2,
+ "art_note": "The image features an awkward crop with the head cut off, revealing a flat-looking digital mockup composite that falls short of luxury standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-345382575",
  "color": "Collegiate Navy",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette engineered for movement. This quarter-zip design balances understated aesthetics with a commanding presence. The deep collegiate navy tone evokes timeless and restrained elegance. Each piece is crafted to order in our workshops. We offer worldwide shipping for your convenience.",
+ "desc_es": "Una silueta depurada diseñada para el movimiento. Este diseño de cuarto de cremallera combina una estética sobria con una presencia imponente. El tono azul marino profundo evoca una elegancia atemporal y discreta. Cada pieza se confecciona bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/881/8814257a105a8ed34e2239d15802d324_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Adidas Apex Performance Sweatshirt · Collegiate Navy",
- "name_es": "Sudadera Adidas Apex Performance · Collegiate Navy",
+ "name_en": "Apex Quarter-Zip Sweatshirt · Collegiate Navy",
+ "name_es": "Sudadera Cuartos de Cierre Apex · Collegiate Navy",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 100.99,
  "rank": 549,

@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "The image features a generic mockup aesthetic with a flat-looking print and artificial lighting, lacking true luxury campaign depth.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
  ],
  "cg": "printful-355247274",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential garment of impeccable design. Structured silhouette featuring a hood and front zip closure. Crafted to offer a sophisticated and timeless presence. Each piece is exclusively made to order with worldwide shipping available. Understated elegance defines this contemporary classic.",
+ "desc_es": "Una prenda esencial de diseño impecable. Silueta estructurada con capucha y cierre frontal. Confeccionada para ofrecer una presencia sofisticada y atemporal. Cada pieza es elaborada exclusivamente bajo pedido con disponibilidad de envío internacional. La elegancia discreta define este clásico contemporáneo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Disponible para envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/c22/c2287d28519e5ba1504c5d32700a90fe_preview.png"
  ],
@@ -20,15 +32,16 @@
  "id": "printful-355247274-black",
  "img_checked": "2026-11-23",
  "look": [
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-357300009-black",
-  "printful-346239758"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-350906743"
  ],
  "material": "",
- "name_en": "Meridian Femme Jacket · Black",
- "name_es": "Chaqueta Meridian Femme · Negro",
+ "name_en": "Dazmond Meridian Zip Hoodie · Black",
+ "name_es": "Sudadera Meridiano Dazmond · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 752,
