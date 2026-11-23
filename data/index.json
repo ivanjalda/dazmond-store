@@ -22699,7 +22699,7 @@
       "supplier_id": "mens-minimalist-pu-leather-wallet-paper-folded-wallet",
       "fam": "cartera-minimalista-cuero",
       "cg": "t-cartera-minimalista-de-cuero-sintetico-daz-para-hombre",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725902089-1-8ltcKnlV7Q.jpg?v=1725902301"
+      "img": "assets/products/shop/611f864e1cf64e252bbf.jpg"
     },
     {
       "id": "shopify-pantalones-cortos-casuales-daz-luxury-para-mujer",
@@ -28418,7 +28418,7 @@
       "fam": "stealth",
       "cg": "t-the-dazmond-stealth",
       "color": "Blanco",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3532570050185138816_2048.jpg?v=1722870764"
+      "img": "assets/products/shop/3fec53691949a52b7744.jpg"
     },
     {
       "id": "shopify-camiseta-daz-de-moda-ligera-para-hombre-humo",
@@ -28437,7 +28437,7 @@
       "fam": "stealth",
       "cg": "t-the-dazmond-stealth",
       "color": "Humo",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3532570050185138816_2048_7e13cbc8-f7a7-4b92-a4a7-0dadd16b7645.jpg?v=1775494100"
+      "img": "assets/products/shop/008c87b8a5113be31e1a.jpg"
     },
     {
       "id": "shopify-camiseta-daz-de-moda-ligera-para-hombre-negro",
@@ -28456,7 +28456,7 @@
       "fam": "stealth",
       "cg": "t-the-dazmond-stealth",
       "color": "Negro",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3532570050185138816_2048_58500591-e136-42cc-a5f7-048520fcecb7.jpg?v=1775494100"
+      "img": "assets/products/shop/46640562cceaa74fbbaa.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-dress-pants",
@@ -28597,7 +28597,7 @@
       "supplier_id": "ropa-interior-femenina-daz-art",
       "fam": "art-cosmic-nebula",
       "cg": "t-dazmond-art-cosmic-nebula",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-04_184044.png?v=1788540152"
+      "img": "assets/products/shop/99fba184c6adae437de2.jpg"
     },
     {
       "id": "shopify-ropa-interior-femenina-daz-art-color",
@@ -28635,7 +28635,7 @@
       "supplier_id": "tangas-de-mujer-daz-1",
       "fam": "cosmic-fox-tanga",
       "cg": "t-dazmond-cosmic-fox-tanga-de-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2155841020895861773_2048.jpg?v=1720795451"
+      "img": "assets/products/shop/a033ba30505859774117.jpg"
     },
     {
       "id": "shopify-tangas-de-mujer-daz-2",
@@ -28653,7 +28653,7 @@
       "supplier_id": "tangas-de-mujer-daz-2",
       "fam": "sweet-dreams-moon",
       "cg": "t-dazmond-sweet-dreams-moon-tanga-de-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/7320982647205299595_2048.jpg?v=1720795816"
+      "img": "assets/products/shop/69abb2fed763d73c9f5c.jpg"
     },
     {
       "id": "shopify-tangas-de-mujer-daz-america",
@@ -28671,7 +28671,7 @@
       "supplier_id": "tangas-de-mujer-daz-america",
       "fam": "america-tanga-mujer",
       "cg": "t-dazmond-america-tanga-de-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4787767747395527525_2048.jpg?v=1720795122"
+      "img": "assets/products/shop/2ab08f8954631dc91d92.jpg"
     },
     {
       "id": "shopify-tangas-de-mujer-daz-america-black",
@@ -28689,7 +28689,7 @@
       "supplier_id": "tangas-de-mujer-daz-america-black",
       "fam": "america-tanga-mujer",
       "cg": "t-dazmond-america-tanga-de-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3449247595696901633_2048.jpg?v=1773769710"
+      "img": "assets/products/shop/1dee11733dd7857205fc.jpg"
     },
     {
       "id": "shopify-taza-de-cafe-daz",
@@ -30013,6 +30013,7 @@
       "supplier_id": "bolsa-daz-luxury-de-almuerzo-de-poliester",
       "fam": "bolsa-almuerzo-luxury",
       "cg": "t-bolsa-de-almuerzo-dazmond-luxury-velvet",
+      "color": "Violeta Lavanda",
       "art_score": 9,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-11_183029.png?v=1789144265"
     },
@@ -30037,8 +30038,8 @@
     },
     {
       "id": "shopify-cartera-de-mano-larga-de-cuero-triple-daz-luxury-1",
-      "name_es": "Cartera de cuero sintético DAZ",
-      "name_en": "DAZ Synthetic Leather Wallet",
+      "name_es": "Cartera de cuero sintético DAZ · Gris",
+      "name_en": "DAZ Synthetic Leather Wallet · Grey",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -30052,13 +30053,14 @@
       "supplier_id": "cartera-de-mano-larga-de-cuero-triple-daz-luxury-1",
       "fam": "cartera-mano-larga",
       "cg": "t-cartera-de-mano-larga-de-cuero-triple-daz-luxury",
+      "color": "Grey",
       "art_score": 6,
       "img": "assets/products/shop/1102ed5a5beff24f1c1c.jpg"
     },
     {
       "id": "shopify-cartera-de-mano-larga-de-cuero-triple-daz-luxury-2",
-      "name_es": "Cartera de cuero sintético DAZ",
-      "name_en": "DAZ Synthetic Leather Wallet",
+      "name_es": "Cartera de cuero sintético DAZ · Marrón",
+      "name_en": "DAZ Synthetic Leather Wallet · Brown",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -30072,6 +30074,7 @@
       "supplier_id": "cartera-de-mano-larga-de-cuero-triple-daz-luxury-2",
       "fam": "cartera-mano-larga",
       "cg": "t-cartera-de-mano-larga-de-cuero-triple-daz-luxury",
+      "color": "Brown",
       "art_score": 5,
       "img": "assets/products/shop/252d1457c72ea33273c9.jpg"
     },
@@ -30115,8 +30118,8 @@
     },
     {
       "id": "shopify-bolso-daz-luxury-con-forma-de-libro",
-      "name_es": "Bolso Bandolera Literario",
-      "name_en": "Literary Crossbody Bag",
+      "name_es": "Bolso Bandolera Literario · Blanco",
+      "name_en": "Literary Crossbody Bag · White",
       "price_usd": 35.99,
       "badge": "new",
       "categories": [
@@ -30129,6 +30132,7 @@
       "supplier_id": "bolso-daz-luxury-con-forma-de-libro",
       "fam": "bolso-luxury-forma",
       "cg": "t-bolso-daz-luxury-con-forma-de-libro",
+      "color": "White",
       "art_score": 8,
       "img": "assets/products/shop/374c9c402bff379beb8a.jpg"
     },
@@ -30562,7 +30566,7 @@
       "fam": "camiseta-summit-hombre",
       "cg": "t-camiseta-dazmond-summit-para-hombre",
       "color": "Blanco",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/555397024498133837_2048.jpg?v=1721995174"
+      "img": "assets/products/shop/c8f8b48d3d4886b47350.jpg"
     },
     {
       "id": "shopify-camiseta-daz-tenida-en-prenda-para-hombre-gris",
@@ -30581,7 +30585,7 @@
       "fam": "camiseta-summit-hombre",
       "cg": "t-camiseta-dazmond-summit-para-hombre",
       "color": "Gris",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/12452761600726427383_2048.jpg?v=1721995176"
+      "img": "assets/products/shop/fcb507dcf197cb7b99bb.jpg"
     },
     {
       "id": "shopify-camiseta-daz-tenida-en-prenda-para-hombre-marfil",
@@ -30600,7 +30604,7 @@
       "fam": "camiseta-summit-hombre",
       "cg": "t-camiseta-dazmond-summit-para-hombre",
       "color": "Marfil",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/13398506231750712230_2048.jpg?v=1721995177"
+      "img": "assets/products/shop/8d91225f7b3ff1b4b6bd.jpg"
     },
     {
       "id": "shopify-camiseta-daz-tenida-en-prenda-para-hombre-musgo",
@@ -30619,7 +30623,7 @@
       "fam": "camiseta-summit-hombre",
       "cg": "t-camiseta-dazmond-summit-para-hombre",
       "color": "Musgo",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/160719223681102253_2048.jpg?v=1721995178"
+      "img": "assets/products/shop/b78162d94c8f02673f6c.jpg"
     },
     {
       "id": "shopify-camiseta-daz-tenida-en-prenda-para-hombre-orquidea",
@@ -30638,7 +30642,7 @@
       "fam": "camiseta-summit-hombre",
       "cg": "t-camiseta-dazmond-summit-para-hombre",
       "color": "Orquídea",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3298393301606193801_2048.jpg?v=1721995180"
+      "img": "assets/products/shop/176f267225b160273fe0.jpg"
     },
     {
       "id": "shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1",
@@ -32698,7 +32702,7 @@
       "supplier_id": "falda-daz-art-para-mujer",
       "fam": "luxury-midnight-floral",
       "cg": "t-dazmond-luxury-midnight-floral-bronze-skater-skirt",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_v00x11v00x11v00x.png?v=1786389886"
+      "img": "assets/products/shop/a0f52650562aae2754dd.jpg"
     },
     {
       "id": "shopify-falda-daz-premium-art-para-mujer",
@@ -32716,7 +32720,7 @@
       "supplier_id": "falda-daz-premium-art-para-mujer",
       "fam": "luxury-botanical-jade",
       "cg": "t-dazmond-luxury-botanical-jade-skater-skirt",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_7e5zkv7e5zkv7e5z.png?v=1786378995"
+      "img": "assets/products/shop/0eefae3f0ce442ec77c4.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64",
@@ -33436,7 +33440,7 @@
       "fam": "camiseta-pure-bolsillo",
       "cg": "t-camiseta-dazmond-pure-con-bolsillo-para-hombre",
       "color": "Blanco",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/7283945875657907942_2048.jpg?v=1721996716"
+      "img": "assets/products/shop/d3469848aa318f2b9d5b.jpg"
     },
     {
       "id": "shopify-camiseta-con-bolsillo-tenido-en-prenda-para-hombre-florecer",
@@ -33455,7 +33459,7 @@
       "fam": "camiseta-pure-bolsillo",
       "cg": "t-camiseta-dazmond-pure-con-bolsillo-para-hombre",
       "color": "Florecer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5098354600034726183_2048.jpg?v=1721996707"
+      "img": "assets/products/shop/57c769abef7a9cfcf971.jpg"
     },
     {
       "id": "shopify-camiseta-con-bolsillo-tenido-en-prenda-para-hombre-granito",
@@ -33474,7 +33478,7 @@
       "fam": "camiseta-pure-bolsillo",
       "cg": "t-camiseta-dazmond-pure-con-bolsillo-para-hombre",
       "color": "Granito",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/13924390363166121557_2048.jpg?v=1721996710"
+      "img": "assets/products/shop/646203761a575fac66ce.jpg"
     },
     {
       "id": "shopify-camiseta-con-bolsillo-tenido-en-prenda-para-hombre-marfil",
@@ -33493,7 +33497,7 @@
       "fam": "camiseta-pure-bolsillo",
       "cg": "t-camiseta-dazmond-pure-con-bolsillo-para-hombre",
       "color": "Marfil",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/11153711689271659731_2048.jpg?v=1721996713"
+      "img": "assets/products/shop/cd8427b45a86631f6ea1.jpg"
     },
     {
       "id": "shopify-camiseta-con-bolsillo-tenido-en-prenda-para-hombre-rojo",
@@ -33512,7 +33516,7 @@
       "fam": "camiseta-pure-bolsillo",
       "cg": "t-camiseta-dazmond-pure-con-bolsillo-para-hombre",
       "color": "Rojo",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/11076096248514593548_2048.jpg?v=1721996706"
+      "img": "assets/products/shop/290fbe68ab9781c14b1a.jpg"
     },
     {
       "id": "shopify-camiseta-con-bolsillo-tenido-en-prenda-para-hombre-royal-caribe",
@@ -33531,7 +33535,7 @@
       "fam": "camiseta-pure-bolsillo",
       "cg": "t-camiseta-dazmond-pure-con-bolsillo-para-hombre",
       "color": "Royal Caribe",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/11723999699579468730_2048.jpg?v=1721996716"
+      "img": "assets/products/shop/f63c6f582b2e82d89304.jpg"
     },
     {
       "id": "shopify-celebratory-background-with-bright-neon-stripes-of-light-for-christmas-design-713731378-jpg-mens-blazer-model-h64",
@@ -33943,7 +33947,7 @@
       "supplier_id": "ropa-interior-femenina-daz-1",
       "fam": "crimson-brushed-glow",
       "cg": "t-dazmond-crimson-brushed-glow-ropa-interior-femenina",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9522992017889677405_2048.jpg?v=1773769309"
+      "img": "assets/products/shop/39ab436d9c3120a9d6a3.jpg"
     },
     {
       "id": "shopify-ropa-interior-femenina-daz-2",
@@ -33961,7 +33965,7 @@
       "supplier_id": "ropa-interior-femenina-daz-2",
       "fam": "electric-orchid-ropa",
       "cg": "t-dazmond-electric-orchid-ropa-interior-femenina",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/14082231317027292781_2048.jpg?v=1773769366"
+      "img": "assets/products/shop/ebdb2065dd12cf080c76.jpg"
     },
     {
       "id": "shopify-ropa-interior-femenina-daz-3",
@@ -33979,7 +33983,7 @@
       "supplier_id": "ropa-interior-femenina-daz-3",
       "fam": "blush-soft-glow",
       "cg": "t-dazmond-blush-soft-glow-ropa-interior-femenina",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/7611468857616926482_2048.jpg?v=1720710391"
+      "img": "assets/products/shop/545f13ff5b04617128c4.jpg"
     },
     {
       "id": "shopify-ropa-interior-femenina-daz-4",
@@ -33997,7 +34001,7 @@
       "supplier_id": "ropa-interior-femenina-daz-4",
       "fam": "liquid-ropa-interior",
       "cg": "t-dazmond-liquid-ropa-interior-femenina",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8589118733259402504_2048.jpg?v=1720710708"
+      "img": "assets/products/shop/fae13213e20adb922ad4.jpg"
     },
     {
       "id": "shopify-seamless-pattern-black-silhouette-of-a-pirate-in-a-hat-and-with-a-sword-1089988487-jpg-mens-blazer-model-h64",
@@ -34123,7 +34127,7 @@
       "supplier_id": "tangas-de-mujer-daz-luxury",
       "fam": "luxury-golden-elegance",
       "cg": "t-dazmond-luxury-golden-elegance-tanga-de-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4155319936580789623_2048.jpg?v=1720711478"
+      "img": "assets/products/shop/7ac4dd2f781110b6b5ea.jpg"
     },
     {
       "id": "shopify-tangas-de-mujer-daz-luxury-1",
@@ -34141,7 +34145,7 @@
       "supplier_id": "tangas-de-mujer-daz-luxury-1",
       "fam": "luxury-crimson-glow",
       "cg": "t-dazmond-luxury-crimson-glow-tanga-de-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4501176568289753506_2048.jpg?v=1773769599"
+      "img": "assets/products/shop/608374a60b11db9537e4.jpg"
     },
     {
       "id": "shopify-tile-sailor-pattern-with-red-anchor-on-black-and-white-polka-dots-background-452709703-jpg-mens-blazer-model-h64",
