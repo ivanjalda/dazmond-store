@@ -37,14 +37,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: 0. Herramienta para comprimir fotos (FFmpeg)
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: 0. Herramientas para fotos (FFmpeg y Pillow)
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q pillow
 
       - name: 1. Leer lo que me mandaste al bot (productos, diseños y exportación de Shopify)
         run: python scripts/telegram_inbox.py
 
       - name: 1b. Mudanza desde Shopify (por tandas, con lectura de guías de tallas)
         run: python scripts/shopify_import.py
+
+      - name: 1c. Copiar a la web las fotos que siguen en Shopify (por tandas)
+        run: python scripts/mirror_shopify_images.py
 
       - name: 2. Convertir diseños nuevos en productos de Printify
         run: python scripts/design_factory.py
