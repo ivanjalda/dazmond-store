@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% polyester, 5% spandex",
  "ai_priority": true,
+ "ai_type": "Long Sleeve Shirt",
+ "ai_ver": 2,
+ "art_note": "The product photography relies heavily on flat, floating-template renders with pasted digital prints that diminish the luxury tactile feel, though the detail cl",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,11 @@
  "cg": "t-dazmond-de-diamante-camisa-de-manga-larga",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A garment conceived for those who understand that personal style communicates without words. It stands out with an all-over pattern and a flap chest pocket providing structured functionality. The definitive choice to project distinction at any time of day. Crafted from a soft, cotton-feel fabric prioritizing daily comfort and breathability. Its structure combines lightness and resistance.",
+ "desc_es": "Una prenda concebida para quienes entienden que el estilo personal comunica sin necesidad de palabras. Destaca por su patrón integral y un bolsillo de solapa en el pecho que aporta funcionalidad estructurada. La elección definitiva para proyectar distinción en cualquier momento del día. Elaborada con un tejido suave y de tacto algodonoso que prioriza el confort diario y la transpirabilidad. Su estructura combina ligereza y resistencia gracias a una densidad equilibrada.",
+ "details_en": "· Fabric composition: 95% polyester, 5% spandex\n· Long sleeve design with button closure\n· Chest flap pocket\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Composición del tejido: 95% poliéster, 5% spandex\n· Diseño de manga larga y cierre de botones\n· Bolsillo de solapa en el pecho\n· Confección bajo pedido y envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/d5b44208984d362c8257.jpg",
-  "assets/products/shop/1a9a4cd2829cdb72b652.jpg",
-  "assets/products/shop/4206c9a83fbd2eb01528.jpg",
-  "assets/products/shop/b6daa4fb195b57c57b94.jpg",
-  "assets/products/shop/7816fff0feebbf24ab48.jpg",
   "assets/products/shop/67d1e193841a5c39fe0f.jpg"
  ],
  "draft": false,
@@ -30,9 +39,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Diamante Camisa Manga Shirt · White",
- "name_es": "Camisa Diamante Camisa Manga · Blanco",
+ "name_en": "Gris de Diamante Shirt",
+ "name_es": "Camisa Gris de Diamante",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1220,
@@ -40,8 +50,94 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Por favor revise y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "108cm / 42.5in",
+    "52cm / 20.5in",
+    "61cm / 24in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "53.5cm / 21.1in",
+    "62cm / 24.4in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "120cm / 47.2in",
+    "55cm / 21.7in",
+    "63cm / 24.8in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "126cm / 49.6in",
+    "56.5cm / 22.2in",
+    "64cm / 25.2in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "132cm / 52in",
+    "58cm / 22.8in",
+    "65cm / 25.6in"
+   ],
+   [
+    "3XL",
+    "83cm / 32.7in",
+    "140cm / 55.1in",
+    "60cm / 23.6in",
+    "66cm / 26in"
+   ],
+   [
+    "4XL",
+    "84cm / 33.1in",
+    "148cm / 58.3in",
+    "62cm / ?",
+    "?",
+    "?"
+   ],
+   [
+    "5XL",
+    "85cm / 33.5in",
+    "156cm / 61.4in",
+    "64cm / 25.2in",
+    "68cm / 26.8in"
+   ],
+   [
+    "6XL",
+    "86cm / 33.9in",
+    "164cm / 64.5in",
+    "68cm / 26.8in",
+    "69cm / 27.2in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/7816fff0feebbf24ab48.jpg"
+ ],
  "sizes": [
   "S",
   "M",

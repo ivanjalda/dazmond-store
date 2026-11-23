@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_7nefvy7nefvy7nef.png?v=1762882822",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_s7tnkxs7tnkxs7tn.png?v=1762882822",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-hockey-fan-jersey-white-right-front-66aa8ce430814.jpg?v=1762882822",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-hockey-fan-jersey-white-left-back-66aa8ce433eeb.jpg?v=1762882822",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_2bohwo2bohwo2boh.png?v=1762882822",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-hockey-fan-jersey-white-product-details-2-66aa8ce433ac8.jpg?v=1762882822",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-hockey-fan-jersey-white-product-details-66aa8ce433cbd.jpg?v=1762882822"
+ ],
  "ai_cats": [
   "hombre/camisas",
   "mujer/camisas"
@@ -31,6 +40,7 @@
  ],
  "draft": false,
  "fam": "soleil-d-or",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-337173980",
  "img_checked": "2026-11-23",
@@ -40,7 +50,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Soleil d'Or Hockey Jersey",
  "name_es": "Jersey de Hockey Soleil d'Or",
  "needs_review": false,

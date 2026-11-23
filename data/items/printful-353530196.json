@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-front-66a4d68ab4b82.jpg?v=1722078869",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-back-66a4d68ab5f4c.jpg?v=1722078873"
+ ],
  "ai_cats": [
   "hombre/pantalones-cortos",
   "mujer/pantalones-cortos"
@@ -31,6 +35,7 @@
  ],
  "draft": false,
  "fam": "short-nebula",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-353530196",
  "img_checked": "2026-11-23",
@@ -40,7 +45,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "recycled mesh",
  "name_en": "Nebula All-Over Print Shorts",
  "name_es": "Bermudas Nebula All-Over Print",
  "needs_review": false,

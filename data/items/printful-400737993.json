@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/e4abccab22e6b61d7cf6.jpg",
+  "assets/products/shop/be3f2aa8d0d92ff236a5.jpg",
+  "assets/products/shop/989ae3956347b55db7c6.jpg",
+  "assets/products/shop/7a4d8b4a6fd313ac8cde.jpg",
+  "assets/products/shop/2c72fedeaa926f13aeee.jpg",
+  "assets/products/shop/0969e029d635c5dcf802.jpg",
+  "assets/products/shop/6ecc14922d1f938f2d75.jpg"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -31,6 +40,7 @@
  ],
  "draft": false,
  "fam": "sudadera-algodon",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-400737993",
  "img_checked": "2026-11-23",
@@ -40,7 +50,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "algodón",
  "name_en": "DAZMOND All-Over Print Hoodie",
  "name_es": "Sudadera All-Over Print DAZMOND",
  "needs_review": false,

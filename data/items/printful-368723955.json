@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/589178a2a29404011917.jpg",
+  "assets/products/shop/c9c80720ed00b9812afb.jpg",
+  "assets/products/shop/58e278fa1fdba22ce045.jpg",
+  "assets/products/shop/9ff7d7c06173a4018bea.jpg",
+  "assets/products/shop/9f62abbdb830945abb3a.jpg",
+  "assets/products/shop/42d35654552c359d6ed9.jpg"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -31,6 +39,7 @@
  ],
  "draft": false,
  "fam": "sudadera-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-368723955",
  "img_checked": "2026-11-23",
@@ -40,7 +49,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "recycled",
  "name_en": "Recycled All-Over Print Hoodie",
  "name_es": "Sudadera Estampada All-Over Reciclada",
  "needs_review": false,

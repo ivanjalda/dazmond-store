@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% poliéster, 5% elastano",
  "ai_priority": true,
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "The close-up detail shots showcase clean minimalist lighting and precise textures fitting a luxury standard, though the mock-up model shot lacks high-end campai",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,14 @@
  "cg": "t-camisa-dazmond-pure-rhythm-de-manga-larga",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A serene presence defines this essential piece of contemporary tailoring. Designed with clean lines and a fluid drape, it prioritizes comfort without compromising distinction. It features a flap chest pocket and a front button closure that structure its refined aesthetic. Crafted made-to-order to ensure exclusivity and delivered with worldwide shipping. This garment accompanies every space you inhabit with effortless poise.",
+ "desc_es": "Una presencia serena define esta pieza esencial de sastrería contemporánea. Diseñada con líneas limpias y una silueta relajada, ofrece una fluidez impecable que prioriza la comodidad sin renunciar al distinction. Incorpora un bolsillo de solapa en el pecho y un cierre frontal de botones que estructuran su diseño depurado. Confeccionada bajo demanda para garantizar exclusividad y entregada con envíos a todo el mundo. Esta prenda acompaña con naturalidad cada espacio que habitas.",
+ "details_en": "· Composition: 95% polyester, 5% elastane (200g/m²)\n· Design: V-neck, long sleeves, button closure, and left chest flap pocket\n· Made-to-order and worldwide shipping available",
+ "details_es": "· Tejido: 95% poliéster, 5% elastano (200g/m²)\n· Diseño: Cuello en V, manga larga, cierre de botones y bolsillo de solapa en el pecho izquierdo\n· Confección bajo demanda y envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/0353288def428706f69e.jpg",
   "assets/products/shop/c038755655004fd1ebf4.jpg",
   "assets/products/shop/777307c5551ace866788.jpg",
   "assets/products/shop/6cae97f6118ed4e40420.jpg",
-  "assets/products/shop/793957e704f44c3a3155.jpg",
   "assets/products/shop/8a67d7819565fca2292f.jpg"
  ],
  "draft": false,
@@ -30,9 +42,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Camisa Pure Rhythm Shirt · White",
- "name_es": "Camisa Camisa Pure Rhythm · Blanco",
+ "name_en": "Pure Rhythm Long Sleeve Shirt",
+ "name_es": "Camisa Pure Rhythm de Manga Larga",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1221,
@@ -40,8 +53,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Por favor verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "108cm / 42.5in",
+    "52cm / 20.5in",
+    "61cm / 24in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "53.5cm / 21.1in",
+    "62cm / 24.4in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "120cm / 47.2in",
+    "55cm / 21.7in",
+    "63cm / 24.8in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "126cm / 49.6in",
+    "56.5cm / 22.2in",
+    "64cm / 25.2in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "132cm / 52in",
+    "58cm / 22.8in",
+    "65cm / 25.6in"
+   ],
+   [
+    "3XL",
+    "83cm / 32.7in",
+    "140cm / 55.1in",
+    "60cm / 23.6in",
+    "66cm / 26in"
+   ],
+   [
+    "4XL",
+    "84cm / 33.1in",
+    "148cm / 58.3in",
+    "62cm / 24.4in",
+    "67cm / 26.4in"
+   ],
+   [
+    "5XL",
+    "85cm / 33.5in",
+    "156cm / 61.4in",
+    "64cm / 25.2in",
+    "68cm / 26.8in"
+   ],
+   [
+    "6XL",
+    "86cm / 33.9in",
+    "164cm / 64.5in",
+    "68cm / 26.8in",
+    "69cm / 27.2in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/793957e704f44c3a3155.jpg"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6825069317287824014_2048.jpg?v=1721840508",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9333587397091149998_2048.jpg?v=1721840524",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/7056144994788753801_2048.jpg?v=1721840527",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4926714718380394229_2048.jpg?v=1721840530"
+ ],
  "ai_cats": [
   "calzado-hombre/sandalias-chanclas-hombre",
   "calzado-mujer/sandalias-chanclas"
@@ -36,6 +42,7 @@
  ],
  "draft": false,
  "fam": "chancletas-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-669f91e867655a12810d4933",
  "img_checked": "2026-11-23",
@@ -45,7 +52,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "EVA, polyester, PVC",
  "name_en": "Daz Luxury Black Flip Flops",
  "name_es": "Chanclas Daz Luxury Black",
  "needs_review": false,

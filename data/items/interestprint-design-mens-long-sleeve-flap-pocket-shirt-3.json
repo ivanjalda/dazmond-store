@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% poliéster, 5% elastano (200g/m²)",
  "ai_priority": true,
+ "ai_type": "Camisa de manga larga",
+ "ai_ver": 2,
+ "art_note": "Clean studio detail shots elevate the presentation, though flat product renders lack high-end depth.",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,14 @@
  "cg": "t-camisa-dazmond-noble-horizon-de-manga-larga",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A garment conceived to project serenity and confidence in formal or relaxed settings. It stands out with a collar, front button closure, and a flap pocket on the left chest that adds subtle functional contrast. Designed to accompany your daily routines with an impeccable silhouette. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Una prenda concebida para proyectar serenidad y confianza en entornos formales o relajados. Destaca por su cuello, cierre frontal de botones y un bolsillo con solapa en el pecho izquierdo que añade un sutil contraste funcional. Diseñada para acompañar tus jornadas diarias con una silueta impecable. Cada pieza se confecciona bajo pedido en nuestros talleres y cuenta con envío a todo el mundo.",
+ "details_en": "· Fabric: 95% polyester, 5% elastane (200g/m²)\n· Long sleeve design\n· Front button closure\n· Chest flap pocket\n· Made to order with worldwide shipping",
+ "details_es": "· Tejido: 95% poliéster, 5% elastano (200g/m²)\n· Diseño de manga larga\n· Cierre frontal de botones\n· Bolsillo con solapa en el pecho\n· Hecho bajo pedido y con envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/740c49c24e0b57aae258.jpg",
   "assets/products/shop/0f32b080a92e98c9e138.jpg",
   "assets/products/shop/2b16c6f3e45dfc2424a5.jpg",
   "assets/products/shop/795430057df06904403f.jpg",
-  "assets/products/shop/948337b6c6546570df46.jpg",
   "assets/products/shop/b1c5ca889b883bf22b4e.jpg"
  ],
  "draft": false,
@@ -30,9 +42,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Camisa Noble Horizon Shirt · White",
- "name_es": "Camisa Camisa Noble Horizon · Blanco",
+ "name_en": "Noble Horizon Shirt",
+ "name_es": "Camisa Noble Horizon",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1223,
@@ -40,8 +53,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. ¡Revise y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "108cm / 42.5in",
+    "52cm / 20.5in",
+    "61cm / 24in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "53.5cm / 21.1in",
+    "62cm / 24.4in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "120cm / 47.2in",
+    "55cm / 21.7in",
+    "63cm / 24.8in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "126cm / 49.6in",
+    "56.5cm / 22.2in",
+    "64cm / 25.2in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "132cm / 52in",
+    "58cm / 22.8in",
+    "65cm / 25.6in"
+   ],
+   [
+    "3XL",
+    "83cm / 32.7in",
+    "140cm / 55.1in",
+    "60cm / 23.6in",
+    "66cm / 26in"
+   ],
+   [
+    "4XL",
+    "84cm / 33.1in",
+    "148cm / 58.3in",
+    "62cm / 24.4in",
+    "67cm / 26.4in"
+   ],
+   [
+    "5XL",
+    "85cm / 33.5in",
+    "156cm / 61.4in",
+    "64cm / 25.2in",
+    "68cm / 26.8in"
+   ],
+   [
+    "6XL",
+    "86cm / 33.9in",
+    "164cm / 64.5in",
+    "68cm / 26.8in",
+    "69cm / 27.2in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/948337b6c6546570df46.jpg"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,4 +1,18 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/89e4c560ab3bb06e7109.jpg",
+  "assets/products/shop/5bfecdd9d4e9f87060c0.jpg",
+  "assets/products/shop/a785e788055a1ad7a978.jpg",
+  "assets/products/shop/99befdb57bd946c120c8.jpg",
+  "assets/products/shop/73366e90c75b0a418737.jpg",
+  "assets/products/shop/781fb46994e0eff6ce41.jpg",
+  "assets/products/shop/39a441e27d8b437687bb.jpg",
+  "assets/products/shop/ed4fc7e5d3a5add05cf0.jpg",
+  "assets/products/shop/f825646a0949bdc62457.jpg",
+  "assets/products/shop/4dd6a5675b656f0758c0.jpg",
+  "assets/products/shop/84954b8053148c632b7c.jpg",
+  "assets/products/shop/452f38ed23d8f4c9e679.jpg"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -30,6 +44,7 @@
  ],
  "draft": false,
  "fam": "sudadera-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-368718438",
  "img_checked": "2026-11-23",

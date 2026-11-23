@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_5e0h0f5e0h0f5e0h.png?v=1778528199",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_vrpilivrpilivrpi.png?v=1778528197",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_mb5xvqmb5xvqmb5x.png?v=1778528199",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-front-66a7dfd9dc234.jpg?v=1722277868",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-product-details-2-66a7dfd9dd0f5.jpg?v=1722277873",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-product-details-66a7dfd9dd275.jpg?v=1722277879"
+ ],
  "ai_cats": [
   "hombre/pantalones-cortos",
   "mujer/pantalones-cortos"
@@ -31,6 +39,7 @@
  ],
  "draft": false,
  "fam": "onyx-mesh-performance",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350913646",
  "img_checked": "2026-11-23",
@@ -40,7 +49,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "Recycled Mesh",
  "name_en": "Onyx Mesh Shorts",
  "name_es": "Bermudas Onyx Mesh",
  "needs_review": false,

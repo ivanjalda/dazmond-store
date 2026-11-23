@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-left-front-66a4d86960da6.jpg?v=1722079354",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-right-back-66a4d869621a4.jpg?v=1722079357"
+ ],
  "ai_cats": [
   "hombre/mallas",
   "mujer/leggings"
@@ -31,6 +35,7 @@
  ],
  "draft": false,
  "fam": "shorts-metropolis-plaid",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-353530062",
  "img_checked": "2026-11-23",
@@ -40,7 +45,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "malla Recycled Mesh",
  "name_en": "Metropolis Plaid Shorts",
  "name_es": "Bermudas Metropolis Plaid",
  "needs_review": false,

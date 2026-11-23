@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% poliéster, 5% elastano",
  "ai_priority": true,
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "The macro detail shots achieve a high-end luxury feel, though the mockup and model imagery reduce overall editorial consistency.",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,14 @@
  "cg": "t-camisa-dazmond-silent-structure-de-manga-larga-con-bolsillo",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A serene presence defines this piece of clean lines and natural sophistication. Crafted with a refined silhouette, it incorporates a flap chest pocket and buttoned cuffs. Its sober design offers impeccable versatility to transition between the office, travel, and evening gatherings. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una presencia serena define esta pieza de líneas limpias y sofisticación natural. Confeccionada con una silueta depurada, incorpora un bolsillo de solapa en el pecho y puños abotonados. Su diseño sobrio ofrece una versatilidad impecable para transitar entre la oficina, los viajes y los encuentros vespertinos. Cada prenda se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% elastane (200 g/m²)\n· Button closure\n· Long sleeves with buttoned cuffs\n· Flap pocket on left chest\n· Made to order and available with worldwide shipping",
+ "details_es": "· 95% poliéster, 5% elastano (200 g/m²)\n· Cierre de botones\n· Manga larga con botones en puños\n· Bolsillo con solapa en el pecho izquierdo\n· Hecho a medida y disponible con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/c41381d5b90ce7cae6ab.jpg",
   "assets/products/shop/4733e6660fac36aa0430.jpg",
   "assets/products/shop/cb92e942b6fd9abe4d25.jpg",
   "assets/products/shop/374d1a49bd9f75a086c3.jpg",
-  "assets/products/shop/3d11f7c1826f96351fdf.jpg",
   "assets/products/shop/6226582eca0541b6e12b.jpg"
  ],
  "draft": false,
@@ -30,9 +42,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Camisa Silent Structure Shirt · White",
- "name_es": "Camisa Camisa Silent Structure · Blanco",
+ "name_en": "Silent Structure White Shirt",
+ "name_es": "Camisa Silent Structure Blanca",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1229,
@@ -40,8 +53,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74 cm / 29.1 in",
+    "108 cm / 42.5 in",
+    "52 cm / 20.5 in",
+    "61 cm / 24 in"
+   ],
+   [
+    "M",
+    "76 cm / 29.9 in",
+    "114 cm / 44.9 in",
+    "53.5 cm / 21.1 in",
+    "62 cm / 24.4 in"
+   ],
+   [
+    "L",
+    "78 cm / 30.7 in",
+    "120 cm / 47.2 in",
+    "55 cm / 21.7 in",
+    "63 cm / 24.8 in"
+   ],
+   [
+    "XL",
+    "80 cm / 31.5 in",
+    "126 cm / 49.6 in",
+    "56.5 cm / 22.2 in",
+    "64 cm / 25.2 in"
+   ],
+   [
+    "2XL",
+    "82 cm / 32.3 in",
+    "132 cm / 52 in",
+    "58 cm / 22.8 in",
+    "65 cm / 25.6 in"
+   ],
+   [
+    "3XL",
+    "83 cm / 32.7 in",
+    "140 cm / 55.1 in",
+    "60 cm / 23.6 in",
+    "66 cm / 26 in"
+   ],
+   [
+    "4XL",
+    "84 cm / 33.1 in",
+    "148 cm / 58.3 in",
+    "62 cm / 24.4 in",
+    "67 cm / 26.4 in"
+   ],
+   [
+    "5XL",
+    "85 cm / 33.5 in",
+    "156 cm / 61.4 in",
+    "64 cm / 25.2 in",
+    "68 cm / 26.8 in"
+   ],
+   [
+    "6XL",
+    "86 cm / 33.9 in",
+    "164 cm / 64.5 in",
+    "68 cm / 26.8 in",
+    "69 cm / 27.2 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/3d11f7c1826f96351fdf.jpg"
+ ],
  "sizes": [
   "S",
   "M",

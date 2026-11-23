@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-left-front-66a4d6bd2749c.jpg?v=1722078923",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-right-back-66a4d6bd287bd.jpg?v=1722078927"
+ ],
  "ai_cats": [
   "hombre/pantalones-cortos",
   "mujer/pantalones-cortos"
@@ -31,6 +35,7 @@
  ],
  "draft": false,
  "fam": "short-oceanus",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-353530163",
  "img_checked": "2026-11-23",
@@ -40,7 +45,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "Recycled Unisex Mesh",
  "name_en": "Oceanus All-Over Print Shorts",
  "name_es": "Bermuda Oceanus Estampada",
  "needs_review": false,

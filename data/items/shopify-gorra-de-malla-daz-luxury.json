@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Black and White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with accurate lighting, though model shots feel composited and lack high-end editorial refinement.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,18 +23,17 @@
  "cg": "t-gorra-de-malla-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This mesh cap combines functionality with a refined graphic design. Crafted from high-quality polyester fabric, it features a breathable mesh back for superior comfort. The design incorporates a seven-panel structure and a mid profile that offers a universal fit. It is completed with an adjustable plastic closure at the back. Each piece is made to order to ensure exclusivity. Worldwide shipping available.",
+ "desc_es": "Esta gorra de malla combina funcionalidad con un diseño gráfico refinado. Confeccionada en tejido de poliéster de alta calidad, incorpora una parte trasera de malla transpirable para una comodidad superior. El diseño incluye una estructura de siete paneles y un perfil medio que ofrece un ajuste universal. Se completa con un cierre ajustable de plástico en la parte posterior. Cada pieza se confecciona bajo demanda para garantizar la exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· High-quality polyester fabric\n· Breathable mesh back\n· Adjustable 7-panel construction and mid profile\n· Adjustable plastic closure\n· Circumference: 57-60 cm\n· Hat height: 13 cm\n· Brim: 7 cm\n· Normal wash, simply dry to remove odor\n· Hand wash with cold water recommended\n· Do not bleach, tumble dry or iron\n· Made to order. Worldwide shipping.",
+ "details_es": "· Tejido de poliéster de alta calidad\n· Parte trasera de malla transpirable\n· Construcción ajustable de 7 paneles y perfil medio\n· Cierre ajustable de plástico\n· Circunferencia: 57-60 cm\n· Altura de la gorra: 13 cm\n· Ala: 7 cm\n· Lavado normal, secar para eliminar el olor\n· Se recomienda lavar a mano con agua fría\n· No usar lejía, secar al aire ni planchar\n· Made to order. Worldwide shipping.",
  "display_images": [
   "assets/products/shop/81581f171c35c6728de4.jpg",
   "assets/products/shop/02ff97333760a6352ee7.jpg",
   "assets/products/shop/b2f9b1bb7f557f983d46.jpg",
   "assets/products/shop/b26be715159a8d666b0c.jpg",
-  "assets/products/shop/f5c35577e628d9c18809.jpg",
-  "assets/products/shop/e4e8921d55844632c8e9.jpg",
   "assets/products/shop/b773a400ba24fea68273.jpg",
-  "assets/products/shop/e16175a1bd53317933a5.jpg",
-  "assets/products/shop/cfa53b42a36bb55db734.jpg"
+  "assets/products/shop/e16175a1bd53317933a5.jpg"
  ],
  "draft": false,
  "fam": "gorra-malla-luxury",
@@ -34,9 +47,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Gorra Malla Daz Hat",
- "name_es": "Gorro Gorra Malla Daz",
+ "name_en": "Diamond Sketch Mesh Cap",
+ "name_es": "Gorra de malla Diamond Sketch",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
  "rank": 1338,
@@ -44,9 +58,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Complementos > Sombreros",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Brim",
+   "Crown",
+   "Hat Width"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Ala",
+   "Altura de la gorra",
+   "Ancho de la gorra"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "57-60 cm (22.4-23.6\")",
+    "7 cm (2.8\")",
+    "13 cm (5\")",
+    "18 cm (7\")"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/cfa53b42a36bb55db734.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Gorra de malla DAZ Luxury",
  "stripe_payment_link": "https://buy.stripe.com/aFa6oIdrueT2aiG7mu1gP36",
  "supplier": "Shopify",

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zuecos-hombre",
+  "calzado-mujer/zuecos"
+ ],
+ "ai_color": "Multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "EVA and fleece",
  "ai_priority": true,
+ "ai_type": "Clogs",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce product renders lacking high-end editorial lighting or styling.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-zuecos-de-lujo-daz-para-adultos-con-forro-de-piel-calida",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Designed for effortless comfort, these clogs combine practicality with a distinctive aesthetic. Crafted with a lightweight sole and a soft-touch interior, they deliver cushioned warmth for colder days. The design features an adjustable heel strap for a versatile and secure fit, while perforated upper details ensure optimal breathability. A modern silhouette that redefines everyday footwear with a refined and contemporary approach.",
+ "desc_es": "Diseñados para un confort sin esfuerzo, estos zuecos combinan funcionalidad con una estética distintiva. Confeccionados con una suela ligera y un interior de tacto suave, ofrecen una pisada amortiguada y cálida para los días más fríos. El diseño incorpora una correa de talón ajustable para un ajuste versátil y seguro, mientras que los detalles perforados en la parte superior aseguran una óptima transpirabilidad. Una silueta moderna que redefine el calzado cotidiano con un enfoque depurado y contemporáneo.",
+ "details_en": "· Black EVA sole with basic support and cushioning\n· Ultra-soft fleece fur lined interior\n· Upper perforations for ventilation\n· Adjustable heel strap\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Suela de EVA negra con soporte básico y amortiguación\n· Interior forrado de piel de vellón ultra suave\n· Perforaciones superiores para ventilación\n· Correa de talón ajustable\n· Fabricado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/7394e93b203119d679ec.jpg",
   "assets/products/shop/806ca87ba20f46cdb30b.jpg",
@@ -19,10 +34,7 @@
   "assets/products/shop/38c9ed16ee42a3b8c007.jpg",
   "assets/products/shop/8373138da28a7c09562d.jpg",
   "assets/products/shop/9fae4af8c87876db22f4.jpg",
-  "assets/products/shop/0cb1ebc38da762558a2a.jpg",
-  "assets/products/shop/329e3081e41cfb31f66d.jpg",
-  "assets/products/shop/87c450c18dd7e687914c.jpg",
-  "assets/products/shop/39c9534b973bde0f565d.jpg"
+  "assets/products/shop/0cb1ebc38da762558a2a.jpg"
  ],
  "draft": false,
  "fam": "zuecos-lujo-adultos",
@@ -39,6 +51,7 @@
  "name_en": "Printed Skull Lined Clogs",
  "name_es": "Zuecos Forrados Estampados Calavera",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 23.99,
  "rank": 1213,

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-hoodie-white-front-66b107ba2b9c9.jpg?v=1722877902",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-hoodie-white-left-front-66b107ba2ceb8.jpg?v=1722877912",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-hoodie-white-back-66b107ba2d114.jpg?v=1722877916",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-hoodie-white-right-back-66b107ba2d3d3.jpg?v=1722877920"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -30,6 +36,7 @@
  ],
  "draft": false,
  "fam": "timber",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-355658645",
  "img_checked": "2026-11-23",

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% poliéster, 5% elastano",
  "ai_priority": true,
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "The imagery relies heavily on flat mockups and digital composites, detracting from the desired high-end luxury feel.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,11 @@
  "cg": "t-camisa-dazmond-urban-reserve-de-manga-larga-con-bolsillo",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Subtle elegance for an impeccable bearing. Project a polished and confident presence. This long sleeve shirt combines a structured collar with a front flap pocket that brings a contemporary nuance. A clean-lined silhouette designed to accompany your day with distinction. Made-to-order piece with worldwide shipping.",
+ "desc_es": "Elegancia sobria para un porte impecable. Proyecte una presencia pulida y segura. Esta camisa de manga larga combina un cuello estructurado con un bolsillo frontal de solapa que aporta un matiz contemporáneo. Una silueta de líneas limpias diseñada para acompañar su jornada con distinción. Pieza confeccionada bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Fabric: 95% polyester, 5% elastane (200 g/m²)\n· Design and style: Long sleeves, button closure, and chest flap pocket\n· Fit: Structured cut\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Tejido: 95% poliéster, 5% elastano (200 g/m²)\n· Diseño y estilo: Manga larga, cierre de botones y bolsillo con solapa en el pecho\n· Ajuste: Corte estructurado\n· Pieza hecha a medida con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/4480339acbe71d264703.jpg",
-  "assets/products/shop/b73fc962dfa78d7ac9d4.jpg",
-  "assets/products/shop/7263067c40e59a1c9624.jpg",
-  "assets/products/shop/822ba15146031293eb9c.jpg",
-  "assets/products/shop/733cbb025d2ceb7da0bb.jpg",
   "assets/products/shop/c9961dfea40df9c1a0ac.jpg"
  ],
  "draft": false,
@@ -30,9 +39,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Camisa Urban Reserve Shirt · White",
- "name_es": "Camisa Camisa Urban Reserve · Blanco",
+ "name_en": "Urban Reserve Long Sleeve Shirt",
+ "name_es": "Camisa de Manga Larga Urban Reserve",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1224,
@@ -40,8 +50,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Por favor revise y compare cuidadosamente la talla antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74 cm / 29.1 in",
+    "108 cm / 42.5 in",
+    "52 cm / 20.5 in",
+    "61 cm / 24 in"
+   ],
+   [
+    "M",
+    "76 cm / 29.9 in",
+    "114 cm / 44.9 in",
+    "53.5 cm / 21.1 in",
+    "62 cm / 24.4 in"
+   ],
+   [
+    "L",
+    "78 cm / 30.7 in",
+    "120 cm / 47.2 in",
+    "55 cm / 21.7 in",
+    "63 cm / 24.8 in"
+   ],
+   [
+    "XL",
+    "80 cm / 31.5 in",
+    "126 cm / 49.6 in",
+    "56.5 cm / 22.2 in",
+    "64 cm / 25.2 in"
+   ],
+   [
+    "2XL",
+    "82 cm / 32.3 in",
+    "132 cm / 52 in",
+    "58 cm / 22.8 in",
+    "65 cm / 25.6 in"
+   ],
+   [
+    "3XL",
+    "83 cm / 32.7 in",
+    "140 cm / 55.1 in",
+    "60 cm / 23.6 in",
+    "66 cm / 26 in"
+   ],
+   [
+    "4XL",
+    "84 cm / 33.1 in",
+    "148 cm / 58.3 in",
+    "62 cm / 24.4 in",
+    "67 cm / 26.4 in"
+   ],
+   [
+    "5XL",
+    "85 cm / 33.5 in",
+    "156 cm / 61.4 in",
+    "64 cm / 25.2 in",
+    "68 cm / 26.8 in"
+   ],
+   [
+    "6XL",
+    "86 cm / 33.9 in",
+    "164 cm / 64.5 in",
+    "68 cm / 26.8 in",
+    "69 cm / 27.2 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/733cbb025d2ceb7da0bb.jpg"
+ ],
  "sizes": [
   "S",
   "M",

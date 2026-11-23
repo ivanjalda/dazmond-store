@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-front-66a4d6620dc52.jpg?v=1722078829",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-back-66a4d66211d71.jpg?v=1722078833"
+ ],
  "ai_cats": [
   "hombre/pantalones-cortos",
   "mujer/pantalones-cortos"
@@ -31,6 +35,7 @@
  ],
  "draft": false,
  "fam": "short-drift",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-353530272",
  "img_checked": "2026-11-23",
@@ -40,7 +45,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "Recycled Mesh",
  "name_en": "Short Drift Shorts",
  "name_es": "Bermudas Short Drift",
  "needs_review": false,

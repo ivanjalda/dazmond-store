@@ -1,24 +1,35 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Black and White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Technical fabric",
  "ai_priority": true,
+ "ai_type": "Jumpsuit",
+ "ai_ver": 2,
+ "art_note": "High-end lifestyle and studio campaign shots with sophisticated lighting and polished aesthetic.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/conjuntos",
   "mujer/vestidos-monos-petos"
  ],
  "cg": "t-dazmond-luxury-golden-hearts-stripe-cami-jumpsuit",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold and romantic interpretation of timeless elegance. This design features a sophisticated vertical stripe pattern in absolute black and white contrast, meticulously arranged to optically elongate the silhouette. Breaking the linearity with poetic grace, a delicate shower of golden hearts is dispersed throughout the garment. The chest showcases the house monogram finely traced in calligraphy. The piece highlights a suggestive deep V-neckline and fine adjustable straps, evolving into a loose-fitting leg with fluid movement.",
+ "desc_es": "Una audaz y romántica interpretación de la elegancia atemporal. Este diseño presenta un sofisticado patrón de rayas verticales en contraste blanco y negro absoluto, meticulosamente dispuestas para estilizar ópticamente la silueta. Rompiendo la linealidad con gracia poética, una delicada lluvia de corazones dorados se dispersa por la prenda. El pecho luce el monograma de la casa finamente trazado en caligrafía. La pieza destaca por un sugerente escote en V profundo y finos tirantes ajustables, evolucionando hacia una pierna holgada de movimiento fluido.",
+ "details_en": "· Crafted from high-end technical material\n· Selected density of 15.45 oz\n· Deep V-neckline with adjustable straps\n· Loose-fitting leg silhouette with fluid drape\n· Embroidered monogram on the chest\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Confeccionado en material técnico de alta gama\n· Gramaje seleccionado de 15.45 oz\n· Escote en V profundo con tirantes ajustables\n· Silueta de pierna holgada y caída fluida\n· Monograma bordado en el pecho\n· Made to order\n· Worldwide shipping",
  "display_images": [
   "assets/products/shop/c6e008d08283dfe572fb.jpg",
   "assets/products/shop/bdcd4b6043051708bb21.jpg",
   "assets/products/shop/5b5911f53887dcd62e64.jpg",
   "assets/products/shop/ae85476cc2464a3f053d.jpg",
-  "assets/products/shop/c29695b27823363d3721.jpg",
-  "assets/products/shop/b172284f91c22a7d09e0.jpg",
-  "assets/products/shop/c002cc0ac31d8e824ad3.jpg"
+  "assets/products/shop/c29695b27823363d3721.jpg"
  ],
  "draft": false,
  "fam": "luxury-golden-hearts",
@@ -26,15 +37,16 @@
  "id": "shopify-design-suspender-jumpsuit-1",
  "img_checked": "2026-11-20",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-357300009-black"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-337647274-dusty-rose",
+  "printful-350906743"
  ],
  "material": "",
- "name_en": "Golden Hearts Stripe Jumpsuit · Gold",
- "name_es": "Mono Golden Hearts Stripe · Oro",
+ "name_en": "Golden Hearts Stripe Cami Jumpsuit",
+ "name_es": "Mono Cami Rayas Corazones Dorados",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1253,

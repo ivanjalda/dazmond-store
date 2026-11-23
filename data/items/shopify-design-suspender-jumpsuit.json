@@ -1,22 +1,30 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Red and Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
  "ai_priority": true,
+ "ai_type": "Cami Jumpsuit",
+ "ai_ver": 2,
+ "art_note": "The lifestyle and model shots look heavily composited with AI, reducing luxury credibility. Clean product shots are acceptable.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/conjuntos",
   "mujer/vestidos-monos-petos"
  ],
  "cg": "t-dazmond-luxury-crimson-nebula-cami-jumpsuit",
  "color": "Rojo",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A statement of intent for the woman who values mystery and visual opulence. Set against an abyssal black background, this design projects a hypnotic all-over print in crimson and vibrant scarlet tones. The silhouette features a deep V-neckline and adjustable fine straps. Relaxed legs provide ethereal movement and unmatched comfort. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una declaración de intenciones para la mujer que valora el misterio y la opulencia visual. Sobre un abismal fondo negro, este diseño proyecta un estampado integral hipnótico en tonos rojo carmesí y escarlata vibrante. La silueta presenta un escote en V profundo y tirantes finos ajustables. Las piernas holgadas aportan un movimiento etéreo y una comodidad inigualable. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Blend of 95% polyester and 5% elastane\n· Technical weight of 15.45 oz\n· Deep V-neckline\n· Adjustable fine straps\n· Relaxed wide legs\n· Made to order with worldwide shipping available",
+ "details_es": "· Mezcla de 95% poliéster y 5% elastano\n· Peso técnico de 15.45 oz\n· Escote en V profundo\n· Tirantes finos ajustables\n· Piernas holgadas\n· Hecho bajo pedido y disponible con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/25bda5211ddb8e8dfdd7.jpg",
-  "assets/products/shop/63ad2224fc291ff87764.jpg",
-  "assets/products/shop/e4ca483e9ca9a96a4c56.jpg",
-  "assets/products/shop/4549b5280c98e840c04e.jpg",
-  "assets/products/shop/f6101478be2500138978.jpg",
   "assets/products/shop/7ba6c8a4b03148926f88.jpg",
   "assets/products/shop/ecc8fb6c5977b5b11112.jpg"
  ],
@@ -26,15 +34,16 @@
  "id": "shopify-design-suspender-jumpsuit",
  "img_checked": "2026-11-20",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-357300009-black"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-337647274-dusty-rose",
+  "printful-350906743"
  ],
  "material": "",
  "name_en": "Crimson Nebula Cami Jumpsuit",
- "name_es": "Mono Crimson Nebula Cami",
+ "name_es": "Mono Cami Crimson Nebula",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1252,

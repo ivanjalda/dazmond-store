@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% Polyester, 5% Spandex",
  "ai_priority": true,
+ "ai_type": "Long Sleeve Shirt",
+ "ai_ver": 2,
+ "art_note": "Flat lay product renders and composited model shots lower the overall luxury perception.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,14 @@
  "cg": "t-camisa-dazmond-terra-nova-de-manga-larga",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elegance begins against the skin with a softness that transmits absolute confidence. Detailed with a flap chest pocket and a front button closure, this garment accompanies every movement with fluidity. Designed for urban environments, travel, and quiet moments, it offers a serene presence for everyday wear. Crafted from a soft, smooth, and highly breathable fabric that delivers a cotton-like feel. Each piece is made to order with worldwide shipping.",
+ "desc_es": "La elegancia comienza en la piel con una suavidad que transmite absoluta seguridad. Detallada con un bolsillo de solapa en el pecho y cierre frontal de botones, esta prenda acompaña cada movimiento con fluidez. Diseñada para entornos urbanos, viajes y momentos de calma, ofrece una presencia serena para el día a día. Elaborada con un tejido suave, liso y altamente transpirable que proporciona una sensación similar al algodón. Cada pieza se confecciona bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 95% Polyester and 5% Spandex (200g/m²)\n· Front button closure\n· Flap pocket on the chest\n· Long sleeves\n· Made to order and worldwide shipping",
+ "details_es": "· 95% Poliéster y 5% Spandex (200g/m²)\n· Cierre frontal de botones\n· Bolsillo de solapa en el pecho\n· Manga larga\n· Confección bajo demanda y envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/507588ae813cbb295058.jpg",
   "assets/products/shop/901a17acd2e0980cce08.jpg",
   "assets/products/shop/b8b1a4604cdbb4522897.jpg",
   "assets/products/shop/154c41dbb8b570147ef2.jpg",
-  "assets/products/shop/2143e6f1b35226c217a6.jpg",
   "assets/products/shop/d45b5063a57e3d34a3c8.jpg"
  ],
  "draft": false,
@@ -30,9 +42,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Camisa Terra Nova Shirt · White",
- "name_es": "Camisa Camisa Terra Nova · Blanco",
+ "name_en": "Terra Nova Long Sleeve Shirt",
+ "name_es": "Camisa Terra Nova de Manga Larga",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1228,
@@ -40,8 +53,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. ¡Por favor revise y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "108cm / 42.5in",
+    "52cm / 20.5in",
+    "61cm / 24in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "53.5cm / 21.1in",
+    "62cm / 24.4in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "120cm / 47.2in",
+    "55cm / 21.7in",
+    "63cm / 24.8in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "126cm / 49.6in",
+    "56.5cm / 22.2in",
+    "64cm / 25.2in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "132cm / 52in",
+    "58cm / 22.8in",
+    "65cm / 25.6in"
+   ],
+   [
+    "3XL",
+    "83cm / 32.7in",
+    "140cm / 55.1in",
+    "60cm / 23.6in",
+    "66cm / 26in"
+   ],
+   [
+    "4XL",
+    "84cm / 33.1in",
+    "148cm / 58.3in",
+    "62cm / 24.4in",
+    "67cm / 26.4in"
+   ],
+   [
+    "5XL",
+    "85cm / 33.5in",
+    "156cm / 61.4in",
+    "64cm / 25.2in",
+    "68cm / 26.8in"
+   ],
+   [
+    "6XL",
+    "86cm / 33.9in",
+    "164cm / 64.5in",
+    "68cm / 26.8in",
+    "69cm / 27.2in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/2143e6f1b35226c217a6.jpg"
+ ],
  "sizes": [
   "S",
   "M",

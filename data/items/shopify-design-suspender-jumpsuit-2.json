@@ -1,24 +1,32 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White and Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester and elastane blend",
  "ai_priority": true,
+ "ai_type": "Jumpsuit",
+ "ai_ver": 2,
+ "art_note": "High-end luxury campaign styling with sophisticated architectural backdrops.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/conjuntos",
   "mujer/vestidos-monos-petos"
  ],
  "cg": "t-dazmond-luxury-stardust-cami-jumpsuit",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Stardust Cami jumpsuit redefines relaxed elegance with a minimalist monochromatic aesthetic. Against a pure white backdrop, a constellation of black stars cascades asymmetrically down the silhouette. Adjustable fine straps suspend a pronounced V-neckline that frames the shoulders with delicacy. The loose cut and wide legs provide fluid and ethereal movement. Crafted to offer superior comfort, this piece maintains a sophisticated presence throughout the day. Each item is made to order with worldwide shipping available.",
+ "desc_es": "El mono Stardust Cami redefine la elegancia relajada con una estética monocromática minimalista. Sobre un fondo blanco puro, una constelación de estrellas negras desciende de forma asimétrica por la silueta. Los tirantes finos ajustables sostienen un pronunciado escote en V que enmarca los hombros con delicadeza. El corte holgado y las perneras anchas aportan un movimiento fluido y etéreo. Confeccionado para ofrecer un confort superior, esta pieza mantiene una presencia sofisticada durante todo el día. Cada prenda se elabora bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Premium polyester and elastane blend\n· Fluid-drop cami silhouette\n· Pronounced V-neckline\n· Adjustable fine straps\n· Wide relaxed legs\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Mezcla de poliéster y elastano de alta calidad\n· Silueta cami de caída fluida\n· Escote en V pronunciado\n· Tirantes finos ajustables\n· Perneras anchas y relajadas\n· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/bc9d2660a5dea06fbe9f.jpg",
-  "assets/products/shop/750feafe70084462a575.jpg",
-  "assets/products/shop/e1238fb80568aee938e8.jpg",
   "assets/products/shop/ee9dbfb43fabd9f1684c.jpg",
-  "assets/products/shop/3187572700249d33e904.jpg",
-  "assets/products/shop/5e555765c69d82bbe975.jpg",
-  "assets/products/shop/c0cc28d861af7f811a40.jpg"
+  "assets/products/shop/3187572700249d33e904.jpg"
  ],
  "draft": false,
  "fam": "luxury-stardust-cami",
@@ -26,15 +34,16 @@
  "id": "shopify-design-suspender-jumpsuit-2",
  "img_checked": "2026-11-20",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-357300009-black"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-337647274-dusty-rose",
+  "printful-350906743"
  ],
  "material": "",
- "name_en": "Stardust Cami Jumpsuit Jumpsuit",
- "name_es": "Mono Stardust Cami Jumpsuit",
+ "name_en": "Stardust Cami Jumpsuit",
+ "name_es": "Mono Cami Stardust",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1254,

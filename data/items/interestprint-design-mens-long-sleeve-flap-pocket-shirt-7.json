@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% Poliéster, 5% Elastano (200 g/m²)",
  "ai_priority": true,
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "The product and detail shots look refined, but the model composite shot detracts from the luxury positioning.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,14 @@
  "cg": "t-camisa-dazmond-monogram-line-de-manga-larga-con-bolsillo",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A silhouette of impeccable presence designed for the fluid transition between formal environments and weekend escapes. This long-sleeve white shirt presents clean lines and a refined structure that projects sophistication. It incorporates a flap pocket at the chest that introduces a subtle architectural accent. Crafted with attention to detail, it offers a pleasant touch and a natural drape that ensures comfort throughout the day. Available made-to-order with worldwide shipping.",
+ "desc_es": "Una pieza de presencia impecable concebida para la transición fluida entre entornos formales y escapadas de fin de semana. Esta camisa blanca de manga larga presenta líneas puras y una estructura depurada que proyecta sofisticación. Incorpora un bolsillo de solapa en el pecho que aporta un sutil acento arquitectónico. Confeccionada con atención al detalle, ofrece un tacto agradable y una caída natural que asegura comodidad durante todo el día. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 95% polyester and 5% elastane fabric (200 g/m²)\n· Long sleeves with buttoned cuffs\n· Front button closure\n· Flap pocket on the chest\n· Made-to-order and worldwide shipping",
+ "details_es": "· Tejido de 95% poliéster y 5% elastano (200 g/m²)\n· Manga larga con botones en puños\n· Cierre frontal de botones\n· Bolsillo de solapa en el pecho\n· Hecho a medida y envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/ff54bee2fcaf34adc7e6.jpg",
   "assets/products/shop/e574c2099fad1c37a82c.jpg",
   "assets/products/shop/84e4c81b61f5eb90127e.jpg",
   "assets/products/shop/1c57ab134540845d1281.jpg",
-  "assets/products/shop/9a8ed02bb441aeb4cf38.jpg",
   "assets/products/shop/0bb1c2446eb78c16026b.jpg"
  ],
  "draft": false,
@@ -30,9 +42,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Camisa Monogram Line Shirt · White",
- "name_es": "Camisa Camisa Monogram Line · Blanco",
+ "name_en": "Monogram Line White Shirt",
+ "name_es": "Camisa Monogram Line Blanca",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1227,
@@ -40,8 +53,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. ¡Por favor revise y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "74 cm / 29.1 in",
+    "108 cm / 42.5 in",
+    "52 cm / 20.5 in",
+    "61 cm / 24 in"
+   ],
+   [
+    "M",
+    "76 cm / 29.9 in",
+    "114 cm / 44.9 in",
+    "53.5 cm / 21.1 in",
+    "62 cm / 24.4 in"
+   ],
+   [
+    "L",
+    "78 cm / 30.7 in",
+    "120 cm / 47.2 in",
+    "55 cm / 21.7 in",
+    "63 cm / 24.8 in"
+   ],
+   [
+    "XL",
+    "80 cm / 31.5 in",
+    "126 cm / 49.6 in",
+    "56.5 cm / 22.2 in",
+    "64 cm / 25.2 in"
+   ],
+   [
+    "2XL",
+    "82 cm / 32.3 in",
+    "132 cm / 52 in",
+    "58 cm / 22.8 in",
+    "65 cm / 25.6 in"
+   ],
+   [
+    "3XL",
+    "83 cm / 32.7 in",
+    "140 cm / 55.1 in",
+    "60 cm / 23.6 in",
+    "66 cm / 26 in"
+   ],
+   [
+    "4XL",
+    "84 cm / 33.1 in",
+    "148 cm / 58.3 in",
+    "62 cm / 24.4 in",
+    "67 cm / 26.4 in"
+   ],
+   [
+    "5XL",
+    "85 cm / 33.5 in",
+    "156 cm / 61.4 in",
+    "64 cm / 25.2 in",
+    "68 cm / 26.8 in"
+   ],
+   [
+    "6XL",
+    "86 cm / 33.9 in",
+    "164 cm / 64.5 in",
+    "68 cm / 26.8 in",
+    "69 cm / 27.2 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/9a8ed02bb441aeb4cf38.jpg"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "PU leather",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Backpack",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate color representation, though presentation remains standard e-commerce style.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +23,10 @@
  "cg": "t-mochila-daz-art-de-pu-para-viajes",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This backpack redefines urban functionality with a refined design. Crafted from durable PU leather, it features an all-over print that adds distinctive character. The structure prioritizes security with a discreet rear zippered compartment. Equipped with multiple interior and exterior pockets, it offers seamless organization for daily journeys. Adjustable straps ensure comfort throughout transit. An essential piece of contemporary design, crafted to order with worldwide shipping.",
+ "desc_es": "Esta mochila redefine la funcionalidad urbana con un diseño refinado. Confeccionada en duradero cuero de PU, presenta un estampado integral que aporta carácter. Su estructura prioriza la seguridad con un compartimento trasero con cremallera. Equipada con múltiples bolsillos interiores y exteriores, ofrece una organización impecable para el día a día. Las correas ajustables garantizan comodidad en cada trayecto. Una pieza esencial de diseño contemporáneo, disponible bajo pedido con envío mundial.",
+ "details_en": "· Durable PU leather\n· Anti-theft rear zippered closure\n· Interior and exterior organizational pockets\n· Adjustable double shoulder straps\n· Top carry handle\n· Made to order with worldwide shipping available",
+ "details_es": "· Cuero de PU duradero\n· Cierre trasero con cremallera antirrobo\n· Bolsillos interiores y exteriores organizadores\n· Correas de hombro dobles ajustables\n· Asa superior de transporte\n· Hecho a pedido y disponible con envío mundial",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959778-1-ZJjpyitW3y.jpg?v=1727959835",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959778-2-ZJjpyitW3y.jpg?v=1727959840",
@@ -18,10 +34,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959778-4-ZJjpyitW3y.jpg?v=1727959847",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959778-5-ZJjpyitW3y.jpg?v=1727959852",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959778-6-ZJjpyitW3y.jpg?v=1727959855",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959778-7-ZJjpyitW3y.jpg?v=1727959859",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959778-8-ZJjpyitW3y.jpg?v=1727959862",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240326104023-Cec0RgXko8_55e6142d-fe7d-46ec-a0ca-2f5718698fa4.jpg?v=1727959865",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240326104028-3EzRkBKcaY_6decbd11-e02a-4687-8972-e216bdfed218.jpg?v=1727959869"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240326104023-Cec0RgXko8_55e6142d-fe7d-46ec-a0ca-2f5718698fa4.jpg?v=1727959865"
  ],
  "draft": false,
  "fam": "mochila-art-pu",
@@ -35,9 +48,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Mochila Daz Art Bag",
- "name_es": "Bolso Mochila Daz Art",
+ "name_en": "PU Leather Printed Backpack",
+ "name_es": "Mochila Estampada de Piel PU",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1352,
@@ -45,9 +59,34 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Cámaras y ópticas > Accesorios ópticos y de cámara > Accesorios para lentes ópticas > Maletines y bolsos para lentes ópticas > Fundas para accesorios",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Height",
+   "Width",
+   "Depth"
+  ],
+  "headers_es": [
+   "Altura",
+   "Ancho",
+   "Profundidad"
+  ],
+  "notes_en": "Dimensions are measured manually. A minor variance may occur.",
+  "notes_es": "Las dimensiones se miden manualmente. Puede haber una ligera variación.",
+  "rows": [
+   [
+    "39",
+    "35",
+    "16"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959778-8-ZJjpyitW3y.jpg?v=1727959862"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Mochila DAZ Art de PU para viajes",
  "stripe_payment_link": "https://buy.stripe.com/14AfZi3QU5is3Ui0Y61gP3k",
  "supplier": "Shopify",

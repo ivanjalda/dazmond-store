@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/e0d27b0b63bc0144c3c2.jpg",
+  "assets/products/shop/4d4c4e6b840c0f78c18e.jpg",
+  "assets/products/shop/8a9ee9ced89564236fa1.jpg",
+  "assets/products/shop/19330f089f065d83ee6e.jpg"
+ ],
  "ai_cats": [
   "hombre/gorro-bufanda",
   "mujer/gorros-bufandas"
@@ -30,6 +36,7 @@
  ],
  "draft": false,
  "fam": "gorra-clasica-cuerda",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382447715",
  "img_checked": "2026-11-23",

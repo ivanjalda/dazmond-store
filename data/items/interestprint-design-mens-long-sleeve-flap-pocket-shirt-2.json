@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% polyester, 5% spandex",
  "ai_priority": true,
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "The close-up detail shot exhibits clean luxury lighting and texture, while the mockups lower the overall campaign feel.",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,11 @@
  "cg": "t-camisa-dazmond-coleccion-privada-de-manga-larga",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A garment conceived to project serenity and confidence in formal or everyday environments. It features a V-neck design, front button closure, and a practical flap pocket on the left chest. Enjoy a versatile silhouette that accompanies your days with absolute comfort. Each piece is made to order to ensure an exclusive standard. We offer worldwide shipping for your ultimate convenience.",
+ "desc_es": "Una prenda concebida para proyectar serenidad y confianza en entornos formales o cotidianos. Presenta un diseño de cuello en V, cierre frontal de botones y un práctico bolsillo con solapa en el pecho izquierdo. Disfruta de una silueta versátil que acompaña tus jornadas con absoluta comodidad. Cada pieza se confecciona bajo pedido para garantizar un estándar exclusivo. Ofrecemos envíos a todo el mundo para su máxima comodidad.",
+ "details_en": "· 95% polyester, 5% spandex (200g/m²)\n· V-neck, long sleeves with buttoned cuffs\n· Chest flap pocket and front button closure\n· Cut designed to adapt to various silhouette types\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 95% poliéster, 5% spandex (200g/m²)\n· Cuello en V, manga larga con botones en los puños\n· Bolsillo con solapa en el pecho y cierre frontal de botones\n· Corte diseñado para adaptarse a diversos tipos de silueta\n· Confección bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/f29f3ba623e8f44b1f9a.jpg",
-  "assets/products/shop/ea03a9e44a6075256d01.jpg",
-  "assets/products/shop/08aafe7b5fd9631529e4.jpg",
-  "assets/products/shop/42e0f84780ca4dd7c237.jpg",
-  "assets/products/shop/402d8dd4e19e36b5641f.jpg",
   "assets/products/shop/78edb88eab9330336a0c.jpg"
  ],
  "draft": false,
@@ -30,9 +39,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Camisa Colección Privada Shirt · White",
- "name_es": "Camisa Camisa Colección Privada · Blanco",
+ "name_en": "White Private Collection Shirt",
+ "name_es": "Camisa Colección Privada Blanca",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1222,
@@ -40,8 +50,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2cm. ¡Compruebe y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "108cm / 42.5in",
+    "52cm / 20.5in",
+    "61cm / 24in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "53.5cm / 21.1in",
+    "62cm / 24.4in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "120cm / 47.2in",
+    "55cm / 21.7in",
+    "63cm / 24.8in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "126cm / 49.6in",
+    "56.5cm / 22.2in",
+    "64cm / 25.2in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "132cm / 52in",
+    "58cm / 22.8in",
+    "65cm / 25.6in"
+   ],
+   [
+    "3XL",
+    "83cm / 32.7in",
+    "140cm / 55.1in",
+    "60cm / 23.6in",
+    "66cm / 26in"
+   ],
+   [
+    "4XL",
+    "84cm / 33.1in",
+    "148cm / 58.3in",
+    "62cm / 24.4in",
+    "67cm / 26.4in"
+   ],
+   [
+    "5XL",
+    "85cm / 33.5in",
+    "156cm / 61.4in",
+    "64cm / 25.2in",
+    "68cm / 26.8in"
+   ],
+   [
+    "6XL",
+    "86cm / 33.9in",
+    "164cm / 64.5in",
+    "68cm / 26.8in",
+    "69cm / 27.2in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/402d8dd4e19e36b5641f.jpg"
+ ],
  "sizes": [
   "S",
   "M",

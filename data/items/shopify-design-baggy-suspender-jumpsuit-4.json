@@ -1,16 +1,29 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Dorado",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% elastano",
  "ai_priority": true,
+ "ai_type": "Jumpsuit",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle and studio imagery with strong curation and high-end lighting.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/conjuntos",
   "mujer/vestidos-monos-petos"
  ],
  "cg": "t-dazmond-abstract-canvas-jumpsuit",
  "color": "Dorado",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in canvas, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en lona, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A signature piece that transforms the silhouette into a canvas of sophisticated expression. This jumpsuit features an all-over abstract print on a sand gold background. Crafted from a high-density technical fabric, it offers a fluid drape and superior softness. The design incorporates adjustable tie shoulder straps and elasticated leg openings for a modern silhouette. Two side pockets complete the functionality of this clean-lined garment. Made to order. Worldwide shipping.",
+ "desc_es": "Una pieza de autor que transforma la silueta en un lienzo de expresión sofisticada. Este mono presenta un estampado integral de trazos abstractos sobre un fondo dorado arena. Confeccionado en un tejido técnico de alta densidad, ofrece una caída fluida y una suavidad superior. El diseño incorpora tirantes ajustables con lazo y aberturas elásticas en las piernas para una silueta moderna. Dos bolsillos laterales completan la funcionalidad de esta prenda de líneas depuradas. Made to order. Worldwide shipping.",
+ "details_en": "· 95% polyester, 5% elastane\n· Adjustable tie shoulder straps\n· Elasticated leg openings\n· Integrated side pockets\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 95% poliéster, 5% elastano\n· Tirantes con lazo ajustable\n· Abertura elástica en las piernas\n· Bolsillos laterales integrados\n· Fabricado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/5ad22d102df0091311e2.jpg",
   "assets/products/shop/fbc4addcefc58a448a9b.jpg",
@@ -25,15 +38,16 @@
  "id": "shopify-design-baggy-suspender-jumpsuit-4",
  "img_checked": "2026-11-20",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-357300009-black"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-337647274-dusty-rose",
+  "printful-350906743"
  ],
  "material": "",
- "name_en": "Abstract Jumpsuit Jumpsuit",
- "name_es": "Mono Abstract Jumpsuit",
+ "name_en": "Abstract Canvas Jumpsuit",
+ "name_es": "Mono Estampado Canvas Abstracto",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 25.99,
  "rank": 1336,

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% poliéster, 5% elastano",
  "ai_priority": true,
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "Clean product studio shots and detail crops meet luxury standards, though the digital mockup style on the model lowers the overall campaign impact.",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,14 @@
  "cg": "t-camisa-dazmond-monogram-prive-de-manga-larga",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Genuine confidence dresses without effort. This design features an all-over continuous pattern, a left chest flap patch button pocket, and a classic front button closure with buttoned cuffs. Enjoy an impeccable presence in urban environments and business meetings. Crafted to offer a soft, smooth, and highly breathable surface. Available made to order with worldwide shipping.",
+ "desc_es": "La confianza genuina se viste sin esfuerzo. Este diseño presenta un patrón integral continuo, un bolsillo de parche con solapa en el pecho izquierdo y un cierre clásico de botonadura frontal con botones en los puños. Disfruta de una presencia impecable en entornos urbanos y reuniones de trabajo. Confeccionada para ofrecer una superficie suave, lisa y de alta transpirabilidad. Disponible mediante pedido anticipado con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% elastane (200g/m²)\n· Adaptable design for multiple silhouettes\n· Front button closure and buttoned cuffs\n· Left chest flap patch pocket\n· All-over print pattern\n· Made to order with worldwide shipping",
+ "details_es": "· 95% poliéster, 5% elastano (200g/m²)\n· Diseño adaptable a múltiples siluetas\n· Cierre frontal de botones y botones en los puños\n· Bolsillo de parche con solapa en el pecho izquierdo\n· Estampado integral\n· Hecho a medida con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/5b0bf3fdc2f9c4f1b718.jpg",
   "assets/products/shop/78a96dcfcc8593ca0de8.jpg",
   "assets/products/shop/2d1c6a612f2d40bd8b88.jpg",
   "assets/products/shop/af0395264cd126b92d03.jpg",
-  "assets/products/shop/1478a07b49db0fb45e58.jpg",
   "assets/products/shop/148509741d4793ce099c.jpg"
  ],
  "draft": false,
@@ -30,9 +42,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Camisa Monogram Privé Shirt · White",
- "name_es": "Camisa Camisa Monogram Privé · Blanco",
+ "name_en": "Monogram Privé Long Sleeve Shirt",
+ "name_es": "Camisa Monogram Privé de Manga Larga",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1219,
@@ -40,8 +53,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "BUST",
+   "SHOULDER",
+   "SLEEVE"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "PECHO",
+   "HOMBRO",
+   "MANGA"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Por favor revise y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "108cm / 42.5in",
+    "52cm / 20.5in",
+    "61cm / 24in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "53.5cm / 21.1in",
+    "62cm / 24.4in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "120cm / 47.2in",
+    "55cm / 21.7in",
+    "63cm / 24.8in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "126cm / 49.6in",
+    "56.5cm / 22.2in",
+    "64cm / 25.2in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "132cm / 52in",
+    "58cm / 22.8in",
+    "65cm / 25.6in"
+   ],
+   [
+    "3XL",
+    "83cm / 32.7in",
+    "140cm / 55.1in",
+    "60cm / 23.6in",
+    "66cm / 26in"
+   ],
+   [
+    "4XL",
+    "84cm / 33.1in",
+    "148cm / 58.3in",
+    "62cm / 24.4in",
+    "67cm / 26.4in"
+   ],
+   [
+    "5XL",
+    "85cm / 33.5in",
+    "156cm / 61.4in",
+    "64cm / 25.2in",
+    "68cm / 26.8in"
+   ],
+   [
+    "6XL",
+    "86cm / 33.9in",
+    "164cm / 64.5in",
+    "68cm / 26.8in",
+    "69cm / 27.2in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/1478a07b49db0fb45e58.jpg"
+ ],
  "sizes": [
   "S",
   "M",

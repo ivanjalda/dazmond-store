@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_8f771z8f771z8f77.png?v=1778595035",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-left-front-66a7df84844d8.jpg?v=1722277779",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-product-details-2-66a7df8489b12.jpg?v=1722277783",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-product-details-66a7df8489ce9.jpg?v=1722277787",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_cc420dcc420dcc42.png?v=1778595035",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_wrt7siwrt7siwrt7.png?v=1778595036",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_z7mf41z7mf41z7mf.png?v=1778595035"
+ ],
  "ai_cats": [
   "hombre/pantalones-cortos",
   "mujer/pantalones-cortos"
@@ -31,6 +40,7 @@
  ],
  "draft": false,
  "fam": "liquid-azure-mesh",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350914126",
  "img_checked": "2026-11-23",
@@ -40,7 +50,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "Recycled Mesh",
  "name_en": "Liquid Azure Shorts",
  "name_es": "Bermudas Liquid Azure",
  "needs_review": false,

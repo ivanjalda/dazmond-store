@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/10798709453018431886_2048.jpg?v=1721840810",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/14447831589750298068_2048.jpg?v=1721840823",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8186134237915604291_2048.jpg?v=1721840828",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4038735462084955780_2048.jpg?v=1721840832"
+ ],
  "ai_cats": [
   "calzado-hombre/sandalias-chanclas-hombre",
   "calzado-mujer/sandalias-chanclas"
@@ -36,6 +42,7 @@
  ],
  "draft": false,
  "fam": "chancletas",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-669f83a05ae27e8ca40cccd2",
  "img_checked": "2026-11-23",
@@ -45,7 +52,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "EVA, poliéster, PVC",
  "name_en": "Daz Printed Flip Flops",
  "name_es": "Chanclas Estampadas Daz",
  "needs_review": false,

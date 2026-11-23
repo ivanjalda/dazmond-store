@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/25763c74e1c03fd1ae98.jpg",
+  "assets/products/shop/4f830f5815821f80530a.jpg",
+  "assets/products/shop/0c88b17a3075940685e4.jpg",
+  "assets/products/shop/4a24b1b9db965d51961c.jpg",
+  "assets/products/shop/e17a10953b5c167a2626.jpg",
+  "assets/products/shop/022dad41ca08f6fd8cd7.jpg"
+ ],
  "ai_cats": [
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
@@ -30,6 +38,7 @@
  ],
  "draft": false,
  "fam": "camiseta-futbol-americano",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-397250241",
  "img_checked": "2026-11-23",

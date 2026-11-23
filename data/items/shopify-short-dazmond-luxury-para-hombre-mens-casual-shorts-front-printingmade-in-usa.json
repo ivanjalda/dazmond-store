@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Poliéster",
  "ai_priority": true,
+ "ai_type": "Pantalones cortos deportivos",
+ "ai_ver": 2,
+ "art_note": "The first image achieves a high-end luxury campaign feel with dramatic lighting in a gym setting, while the remaining shots look like generic marketplace mockup",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,13 +20,12 @@
  "cg": "t-pantalon-corto-dazmond-coleccion-privada-lux",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Redefine your presence in every movement. When personal demand meets refined design, rest and performance cease to accept concessions. This short combines an elastic waistband with a drawstring and functional side pockets. A piece conceived for those who demand absolute distinction in their daily lives. Created individually only when requested, guaranteeing an unrepeatable piece within a select community. Available with worldwide shipping.",
+ "desc_es": "Redefine tu presencia en cada movimiento. Cuando la exigencia personal se encuentra con el diseño depurado, el descanso y el rendimiento dejan de entender de concesiones. Este pantalón corto combina una cintura elástica con cordón y bolsillos laterales funcionales. Una pieza concebida para quienes exigen distinción absoluta en su día a día. Creado de manera individual solo cuando usted lo solicita, garantizando una pieza irrepetible dentro de una comunidad selecta. Disponible con envío a todo el mundo.",
+ "details_en": "· Fabric: Polyester\n· Design and style: Elastic waistband with drawstring and two side pockets\n· Fit: Secure fit with drawstring\n· Occasions: Gym, exercise, fitness, training, and daily wear\n· Garment care: Machine or hand wash, quick drying and easy to care for\n· Made to order",
+ "details_es": "· Tejido: Poliéster\n· Diseño y estilo: Cintura elástica con cordón y dos bolsillos laterales\n· Ajuste: Ajuste seguro con cordón\n· Ocasiones: Gimnasio, ejercicio, fitness, entrenamiento y uso diario\n· Cuidado de la prenda: Lavado a máquina o a mano, secado rápido y fácil de cuidar\n· Confeccionado bajo pedido",
  "display_images": [
-  "assets/products/shop/9774e7cd66aa51f8f2c4.jpg",
-  "assets/products/shop/3c67d3ef1dbd60ffaf9a.jpg",
-  "assets/products/shop/62c69ceaba6724a6049e.jpg",
-  "assets/products/shop/acdb937743a78e9693a4.jpg"
+  "assets/products/shop/9774e7cd66aa51f8f2c4.jpg"
  ],
  "draft": false,
  "fam": "pantalon-corto-coleccion",
@@ -28,9 +39,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Pantalón Corto Colección Shorts",
- "name_es": "Bermuda Pantalón Corto Colección",
+ "name_en": "Private Collection Lux Shorts",
+ "name_es": "Pantalón Corto Colección Privada",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
  "rank": 1316,
@@ -38,7 +50,55 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Pantalones cortos",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "WAIST(B)",
+   "HIPS(C)",
+   "INSEAM(D)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "CINTURA(B)",
+   "CADERA(C)",
+   "TIRO(D)"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se proporcionan en pulgadas.",
+  "rows": [
+   [
+    "M",
+    "19.29",
+    "26.77",
+    "44.09",
+    "8.11"
+   ],
+   [
+    "L",
+    "19.69",
+    "28.35",
+    "45.67",
+    "8.27"
+   ],
+   [
+    "XL",
+    "20.08",
+    "30.31",
+    "47.64",
+    "8.43"
+   ],
+   [
+    "2XL",
+    "20.47",
+    "32.28",
+    "49.61",
+    "8.46"
+   ]
+  ],
+  "unit": "Inches"
+ },
  "size_guide": [],
  "sizes": [
   "M",

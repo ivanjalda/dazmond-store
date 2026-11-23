@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_163306.png?v=1788791703",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_163320.png?v=1788791704",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_163347.png?v=1788791704",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_163400.png?v=1788791703",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-07_163425.png?v=1788791704"
+ ],
  "ai_cats": [
   "hombre/abrigo-chaqueta-sueter",
   "mujer/chaqueta-sudadera-sueter"
@@ -31,6 +38,7 @@
  ],
  "draft": false,
  "fam": "apex-vanguard-hockey",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-351969651",
  "img_checked": "2026-11-23",
@@ -40,7 +48,7 @@
   "printful-357300009-black",
   "printful-346239758"
  ],
- "material": "",
+ "material": "Recycled fabric",
  "name_en": "Apex Vanguard Jersey",
  "name_es": "Jersey Apex Vanguard",
  "needs_review": false,

@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_fvessnfvessnfves.png?v=1778594059",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-front-66a7dfb0ad700.jpg?v=1722277824",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-product-details-2-66a7dfb0ae936.jpg?v=1722277829",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/all-over-print-recycled-unisex-mesh-shorts-white-product-details-66a7dfb0aeac7.jpg?v=1722277832",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_7jgz5t7jgz5t7jgz.png?v=1778594059",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_f61k47f61k47f61k.png?v=1778594059",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_jxsfxzjxsfxzjxsf.png?v=1778594059",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_kh5opqkh5opqkh5o.png?v=1778594059"
+ ],
  "ai_cats": [
   "hombre/pantalones-cortos",
   "mujer/pantalones-cortos"
@@ -31,6 +41,7 @@
  ],
  "draft": false,
  "fam": "freedom-heritage-mesh",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350913931",
  "img_checked": "2026-11-23",
@@ -40,7 +51,7 @@
   "printful-361906822",
   "printful-357300009-black"
  ],
- "material": "",
+ "material": "recycled mesh",
  "name_en": "Freedom Heritage Mesh Shorts",
  "name_es": "Bermudas Freedom Heritage de malla",
  "needs_review": false,

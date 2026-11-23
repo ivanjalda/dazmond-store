@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% poliéster, 5% elastano",
  "ai_priority": true,
+ "ai_type": "Shirt",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce flat lay and studio presentation, lacks high-end editorial lighting and luxury staging.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,14 @@
  "cg": "t-camisa-dazmond-silueta-urbana-con-bolsillo-de-solapa",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Serene elegance for the contemporary man. Projects an effortless, impeccable presence. Its polished structure features a front button placket, adjustable cuffs, and a distinguished flap pocket on the left chest. Ideal for transitioning with ease from business meetings to weekend urban escapes. Made-to-order piece with worldwide shipping.",
+ "desc_es": "Elegancia serena para el hombre contemporáneo. Proyecta una presencia impecable sin esfuerzo. Su estructura pulida destaca por un diseño frontal con botones a tono, puños ajustables y un distinguido bolsillo de solapa en el pecho izquierdo. Ideal para transitar con serenidad desde reuniones de trabajo hasta escapadas urbanas de fin de semana. Pieza confeccionada bajo demanda con envío mundial.",
+ "details_en": "· 95% polyester, 5% elastane fabric (200 g/m²)\n· Button closure design, chest flap pocket, and buttoned cuffs\n· Tailored fit adaptable to diverse anatomies\n· Suitable for daily wear, office, travel, and outdoor activities\n· Made-to-order with worldwide shipping",
+ "details_es": "· Tejido de 95% poliéster y 5% elastano (200 g/m²)\n· Diseño con cierre de botones, bolsillo con solapa en el pecho y puños botonados\n· Ajuste adaptado para diversas anatomías\n· Uso diario, oficina, viajes y actividades al aire libre\n· Confección bajo demanda con envío mundial",
  "display_images": [
-  "assets/products/shop/c656cc844d7c5a27baa1.jpg",
   "assets/products/shop/9b21c46a040b520e1e4f.jpg",
   "assets/products/shop/91cc078afc136dfb8513.jpg",
   "assets/products/shop/93290d9ba8270b00699c.jpg",
-  "assets/products/shop/bce31dc60cca37b1ec64.jpg",
   "assets/products/shop/25d6da117cc5e5fb9e02.jpg"
  ],
  "draft": false,
@@ -30,9 +42,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Camisa Silueta Urbana Shirt · White",
- "name_es": "Camisa Camisa Silueta Urbana · Blanco",
+ "name_en": "Urban Silhouette Shirt",
+ "name_es": "Camisa Silueta Urbana",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1225,
@@ -40,8 +53,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "108cm / 42.5in",
+    "52cm / 20.5in",
+    "61cm / 24in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "53.5cm / 21.1in",
+    "62cm / 24.4in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "120cm / 47.2in",
+    "55cm / 21.7in",
+    "63cm / 24.8in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "126cm / 49.6in",
+    "56.5cm / 22.2in",
+    "64cm / 25.2in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "132cm / 52in",
+    "58cm / 22.8in",
+    "65cm / 25.6in"
+   ],
+   [
+    "3XL",
+    "83cm / 32.7in",
+    "140cm / 55.1in",
+    "60cm / 23.6in",
+    "66cm / 26in"
+   ],
+   [
+    "4XL",
+    "84cm / 33.1in",
+    "148cm / 58.3in",
+    "62cm / 24.4in",
+    "67cm / 26.4in"
+   ],
+   [
+    "5XL",
+    "85cm / 33.5in",
+    "156cm / 61.4in",
+    "64cm / 25.2in",
+    "68cm / 26.8in"
+   ],
+   [
+    "6XL",
+    "86cm / 33.9in",
+    "164cm / 64.5in",
+    "68cm / 26.8in",
+    "69cm / 27.2in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/bce31dc60cca37b1ec64.jpg"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1570,7 +1570,6 @@
       "price_usd": 39.99,
       "badge": "new",
       "categories": [
-        "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
@@ -1633,7 +1632,6 @@
       "price_usd": 39.99,
       "badge": "new",
       "categories": [
-        "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
@@ -1696,7 +1694,6 @@
       "price_usd": 39.99,
       "badge": "new",
       "categories": [
-        "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
@@ -13954,6 +13951,7 @@
       "fam": "urban-shield-cuffed",
       "cg": "printful-348135955",
       "color": "Royal",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/f31/f3169affd66e832bc0ba25591f64823d_preview.png"
     },
     {
@@ -15319,8 +15317,8 @@
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Negro",
+      "name_en": "Black Slim Necktie · Black",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15334,13 +15332,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Black",
       "art_score": 8,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986153-3-YbEBxMHCm1.jpg?v=1725986360"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-1",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Black And White",
+      "name_en": "Black Slim Necktie · Black And White",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15354,13 +15353,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-1",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Black and White",
       "art_score": 7,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986614-3-Nq8tpuTHrs.jpg?v=1725986741"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-10",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Orange",
+      "name_en": "Black Slim Necktie · Orange",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15374,13 +15374,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-10",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Orange",
       "art_score": 6,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047298-3-S3rNKgdYtS.jpg?v=1726047384"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-11",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Rojo",
+      "name_en": "Black Slim Necktie · Rojo",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15394,13 +15395,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-11",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Rojo",
       "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047414-3-75xQIsfIRS.jpg?v=1726047495"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-12",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Verde",
+      "name_en": "Black Slim Necktie · Green",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15414,13 +15416,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-12",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Green",
       "art_score": 4,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047514-3-vZmGb8PQPJ.jpg?v=1726047602"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-13",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Verde",
+      "name_en": "Black Slim Necktie · Green",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15434,13 +15437,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-13",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Green",
       "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047611-3-aB7TWAzvmJ.jpg?v=1726047701"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-14",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Blanco",
+      "name_en": "Black Slim Necktie · White",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15454,13 +15458,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-14",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "White",
       "art_score": 7,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726048097-3-FMDbkRuVQZ.jpg?v=1726048204"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-15",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Gris",
+      "name_en": "Black Slim Necktie · Grey",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15474,13 +15479,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-15",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Grey",
       "art_score": 4,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726048213-3-aVLdRr4JKw.jpg?v=1726048311"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-16",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Gris",
+      "name_en": "Black Slim Necktie · Grey",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15494,13 +15500,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-16",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "grey",
       "art_score": 4,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726048327-3-ZA2ohQsjn2.jpg?v=1726048412"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-17",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Negro Y Blanco",
+      "name_en": "Black Slim Necktie · Negro Y Blanco",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15514,13 +15521,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-17",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Negro y blanco",
       "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726048693-3-hg0rON45Ko.jpg?v=1726048827"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-18",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Multicolor",
+      "name_en": "Black Slim Necktie · Multicolor",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15534,13 +15542,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-18",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Multicolor",
       "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726048942-3-Y9QTBqouXY.jpg?v=1726049068"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-19",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Multicolor",
+      "name_en": "Black Slim Necktie · Multicolor",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15554,13 +15563,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-19",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Multicolor",
       "art_score": 3,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726049143-1-vyGjAXfS72.jpg?v=1726049215"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-2",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Blanco",
+      "name_en": "Black Slim Necktie · White",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15574,13 +15584,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-2",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "White",
       "art_score": 8,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726045538-3-ACkLTbabQ3.jpg?v=1726045698"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-20",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Multicolor",
+      "name_en": "Black Slim Necktie · Multicolor",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15594,13 +15605,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-20",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Multicolor",
       "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726049406-3-eVleL7nOrn.jpg?v=1726049491"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-21",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · White / Red / Green",
+      "name_en": "Black Slim Necktie · White / Red / Green",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15614,13 +15626,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-21",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "White / Red / Green",
       "art_score": 4,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726049623-3-2RHctoc2T7.jpg?v=1726049709"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-3",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Blue / White",
+      "name_en": "Black Slim Necktie · Blue / White",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15634,13 +15647,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-3",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Blue / White",
       "art_score": 7,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726045963-3-MylgBlPF9S.jpg?v=1726046076"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-4",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Oro",
+      "name_en": "Black Slim Necktie · Gold",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15654,13 +15668,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-4",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "gold",
       "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726046760-3-Hbbpsg8Mn2.jpg?v=1726051317"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-5",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Rosa",
+      "name_en": "Black Slim Necktie · Pink",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15674,13 +15689,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-5",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Pink",
       "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726046619-3-L5xRQUm3Qx.jpg?v=1726046744"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-6",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Light Blue",
+      "name_en": "Black Slim Necktie · Light Blue",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15694,13 +15710,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-6",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "light blue",
       "art_score": 7,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726046836-3-uUyRzAjjJy.jpg?v=1726046948"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-7",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Azul",
+      "name_en": "Black Slim Necktie · Blue",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15714,13 +15731,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-7",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Blue",
       "art_score": 4,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726046964-3-zN2tYSN54l.jpg?v=1726047052"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-8",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Turquesa",
+      "name_en": "Black Slim Necktie · Turquesa",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15734,13 +15752,14 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-8",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Turquesa",
       "art_score": 7,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047081-3-ANEmeNIvT0.jpg?v=1726047174"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-9",
-      "name_es": "Corbata Estrecha Negra",
-      "name_en": "Black Slim Necktie",
+      "name_es": "Corbata Estrecha Negra · Rojo",
+      "name_en": "Black Slim Necktie · Red",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -15754,6 +15773,7 @@
       "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-9",
       "fam": "corbata-tipo-bandana",
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Red",
       "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047193-3-4DvANnqKE4.jpg?v=1726047281"
     },
@@ -15893,8 +15913,8 @@
     },
     {
       "id": "shopify-calcetines-de-tripulacion-daz-premium",
-      "name_es": "Calcetines Crew Estampados DAZ Premium",
-      "name_en": "DAZ Premium Printed Crew Socks",
+      "name_es": "Calcetines Crew Estampados DAZ Premium · Multicolor",
+      "name_en": "DAZ Premium Printed Crew Socks · Multicolor",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -15908,13 +15928,14 @@
       "supplier_id": "calcetines-de-tripulacion-daz-premium",
       "fam": "calcetines-tripulacion-premium",
       "cg": "t-calcetines-de-tripulacion-daz-premium",
+      "color": "multicolor",
       "art_score": 6,
       "img": "assets/products/shop/7d2c231322943c9c267d.jpg"
     },
     {
       "id": "shopify-calcetines-de-tripulacion-daz-premium-1",
-      "name_es": "Calcetines Crew Estampados DAZ Premium",
-      "name_en": "DAZ Premium Printed Crew Socks",
+      "name_es": "Calcetines Crew Estampados DAZ Premium · Multi",
+      "name_en": "DAZ Premium Printed Crew Socks · Multi",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -15928,13 +15949,14 @@
       "supplier_id": "calcetines-de-tripulacion-daz-premium-1",
       "fam": "calcetines-tripulacion-premium",
       "cg": "t-calcetines-de-tripulacion-daz-premium",
+      "color": "Multi",
       "art_score": 6,
       "img": "assets/products/shop/4e9186b94d8d3d6972ae.jpg"
     },
     {
       "id": "shopify-calcetines-de-tripulacion-daz-premium-2",
-      "name_es": "Calcetines Crew Estampados DAZ Premium",
-      "name_en": "DAZ Premium Printed Crew Socks",
+      "name_es": "Calcetines Crew Estampados DAZ Premium · Multicolor",
+      "name_en": "DAZ Premium Printed Crew Socks · Multicolor",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -15948,13 +15970,14 @@
       "supplier_id": "calcetines-de-tripulacion-daz-premium-2",
       "fam": "calcetines-tripulacion-premium",
       "cg": "t-calcetines-de-tripulacion-daz-premium",
+      "color": "Multicolor",
       "art_score": 3,
       "img": "assets/products/shop/26795e831337706cd087.jpg"
     },
     {
       "id": "shopify-calcetines-de-tripulacion-daz-premium-3",
-      "name_es": "Calcetines Crew Estampados DAZ Premium",
-      "name_en": "DAZ Premium Printed Crew Socks",
+      "name_es": "Calcetines Crew Estampados DAZ Premium · Blue / Gold",
+      "name_en": "DAZ Premium Printed Crew Socks · Blue / Gold",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -15968,13 +15991,14 @@
       "supplier_id": "calcetines-de-tripulacion-daz-premium-3",
       "fam": "calcetines-tripulacion-premium",
       "cg": "t-calcetines-de-tripulacion-daz-premium",
+      "color": "Blue / Gold",
       "art_score": 6,
       "img": "assets/products/shop/703e5f60f9f507693f27.jpg"
     },
     {
       "id": "shopify-calcetines-de-tripulacion-daz-premium-4",
-      "name_es": "Calcetines Crew Estampados DAZ Premium",
-      "name_en": "DAZ Premium Printed Crew Socks",
+      "name_es": "Calcetines Crew Estampados DAZ Premium · Multicolor",
+      "name_en": "DAZ Premium Printed Crew Socks · Multicolor",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -15988,13 +16012,14 @@
       "supplier_id": "calcetines-de-tripulacion-daz-premium-4",
       "fam": "calcetines-tripulacion-premium",
       "cg": "t-calcetines-de-tripulacion-daz-premium",
+      "color": "Multicolor",
       "art_score": 6,
       "img": "assets/products/shop/b664fe9dfb6f1a7663d2.jpg"
     },
     {
       "id": "shopify-calcetines-de-tripulacion-daz-premium-5",
-      "name_es": "Calcetines Crew Estampados DAZ Premium",
-      "name_en": "DAZ Premium Printed Crew Socks",
+      "name_es": "Calcetines Crew Estampados DAZ Premium · Multicolor",
+      "name_en": "DAZ Premium Printed Crew Socks · Multicolor",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -16008,13 +16033,14 @@
       "supplier_id": "calcetines-de-tripulacion-daz-premium-5",
       "fam": "calcetines-tripulacion-premium",
       "cg": "t-calcetines-de-tripulacion-daz-premium",
+      "color": "Multicolor",
       "art_score": 6,
       "img": "assets/products/shop/6fb4f716d3b96daf1a82.jpg"
     },
     {
       "id": "shopify-calcetines-de-tripulacion-daz-premium-6",
-      "name_es": "Calcetines Crew Estampados DAZ Premium",
-      "name_en": "DAZ Premium Printed Crew Socks",
+      "name_es": "Calcetines Crew Estampados DAZ Premium · Blanco Y Negro",
+      "name_en": "DAZ Premium Printed Crew Socks · Blanco Y Negro",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -16028,6 +16054,7 @@
       "supplier_id": "calcetines-de-tripulacion-daz-premium-6",
       "fam": "calcetines-tripulacion-premium",
       "cg": "t-calcetines-de-tripulacion-daz-premium",
+      "color": "Blanco y negro",
       "art_score": 7,
       "img": "assets/products/shop/05a71920ffabd93c2bfc.jpg"
     },
@@ -18781,6 +18808,7 @@
       "supplier_id": "gorra-dazmond-luxury-baseball-cap-made-in-usa",
       "fam": "gorra-luxury-beisbol",
       "cg": "t-gorra-dazmond-luxury-beisbol",
+      "color": "Negro",
       "art_score": 9,
       "img": "assets/products/shop/a46ce4c8b9272bf89fb4.jpg"
     },
@@ -23279,8 +23307,8 @@
     },
     {
       "id": "shopify-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos-2",
-      "name_es": "Zuecos Forrados Estampados Gatos",
-      "name_en": "Printed Fleece Lined Clogs",
+      "name_es": "Zuecos Forrados Estampados Gatos · Blanco",
+      "name_en": "Printed Fleece Lined Clogs · Blanco",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -23294,13 +23322,14 @@
       "supplier_id": "zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos-2",
       "fam": "zuecos-premium-blancos",
       "cg": "t-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos",
+      "color": "Blanco",
       "art_score": 3,
       "img": "assets/products/shop/083afa43d496029c1800.jpg"
     },
     {
       "id": "shopify-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos-3",
-      "name_es": "Zuecos Forrados Estampados Gatos",
-      "name_en": "Printed Fleece Lined Clogs",
+      "name_es": "Zuecos Forrados Estampados Gatos · White / Navy",
+      "name_en": "Printed Fleece Lined Clogs · White / Navy",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -23314,13 +23343,14 @@
       "supplier_id": "zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos-3",
       "fam": "zuecos-premium-blancos",
       "cg": "t-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos",
+      "color": "White / Navy",
       "art_score": 5,
       "img": "assets/products/shop/2b87512556ef803fdc2c.jpg"
     },
     {
       "id": "shopify-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos-4",
-      "name_es": "Zuecos Forrados Estampados Gatos",
-      "name_en": "Printed Fleece Lined Clogs",
+      "name_es": "Zuecos Forrados Estampados Gatos · Blanco",
+      "name_en": "Printed Fleece Lined Clogs · White",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -23334,13 +23364,14 @@
       "supplier_id": "zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos-4",
       "fam": "zuecos-premium-blancos",
       "cg": "t-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos",
+      "color": "White",
       "art_score": 5,
       "img": "assets/products/shop/d7ab37585b2eb557cb84.jpg"
     },
     {
       "id": "shopify-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos-5",
-      "name_es": "Zuecos Forrados Estampados Gatos",
-      "name_en": "Printed Fleece Lined Clogs",
+      "name_es": "Zuecos Forrados Estampados Gatos · Blanco",
+      "name_en": "Printed Fleece Lined Clogs · White",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -23354,6 +23385,7 @@
       "supplier_id": "zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos-5",
       "fam": "zuecos-premium-blancos",
       "cg": "t-zuecos-daz-premium-blancos-con-forro-de-piel-para-adultos",
+      "color": "White",
       "art_score": 5,
       "img": "assets/products/shop/cd0f92e48c2f19d2bd43.jpg"
     },
@@ -23374,6 +23406,7 @@
       "supplier_id": "zuecos-de-lujo-daz-para-adultos-con-forro-de-piel-negra-calida",
       "fam": "zuecos-lujo-adultos",
       "cg": "t-zuecos-de-lujo-daz-para-adultos-con-forro-de-piel-calida",
+      "art_score": 4,
       "img": "assets/products/shop/7394e93b203119d679ec.jpg"
     },
     {
@@ -23393,6 +23426,7 @@
       "supplier_id": "zuecos-de-lujo-daz-para-adultos-con-forro-de-piel-negra-calida-1",
       "fam": "zuecos-lujo-adultos",
       "cg": "t-zuecos-de-lujo-daz-para-adultos-con-forro-de-piel-calida",
+      "art_score": 6,
       "img": "assets/products/shop/ee54c5aed88a55c673f6.jpg"
     },
     {
@@ -23431,6 +23465,7 @@
       "supplier_id": "zuecos-de-lujo-daz-para-adultos-con-forro-de-piel-negra-calida-3",
       "fam": "zuecos-lujo-adultos",
       "cg": "t-zuecos-de-lujo-daz-para-adultos-con-forro-de-piel-calida",
+      "art_score": 5,
       "img": "assets/products/shop/24615965270ffeca1450.jpg"
     },
     {
@@ -23450,6 +23485,7 @@
       "supplier_id": "zuecos-de-lujo-daz-para-adultos-con-forro-de-piel-negra-calida-4",
       "fam": "zuecos-lujo-adultos",
       "cg": "t-zuecos-de-lujo-daz-para-adultos-con-forro-de-piel-calida",
+      "art_score": 5,
       "img": "assets/products/shop/a9cb8b8f16fac34e7ff3.jpg"
     },
     {
@@ -23473,8 +23509,8 @@
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt",
-      "name_es": "Camisa Camisa Monogram Privé · Blanco",
-      "name_en": "Camisa Monogram Privé Shirt · White",
+      "name_es": "Camisa Monogram Privé de Manga Larga",
+      "name_en": "Monogram Privé Long Sleeve Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23488,12 +23524,13 @@
       "fam": "camisa-monogram-prive",
       "cg": "t-camisa-dazmond-monogram-prive-de-manga-larga",
       "color": "white",
-      "img": "assets/products/shop/5b0bf3fdc2f9c4f1b718.jpg"
+      "art_score": 7,
+      "img": "assets/products/shop/78a96dcfcc8593ca0de8.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-1",
-      "name_es": "Camisa Diamante Camisa Manga · Blanco",
-      "name_en": "Diamante Camisa Manga Shirt · White",
+      "name_es": "Camisa Gris de Diamante",
+      "name_en": "Gris de Diamante Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23507,12 +23544,13 @@
       "fam": "gris-diamante-camisa",
       "cg": "t-dazmond-de-diamante-camisa-de-manga-larga",
       "color": "white",
-      "img": "assets/products/shop/d5b44208984d362c8257.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/67d1e193841a5c39fe0f.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-10",
-      "name_es": "Camisa Camisa Pure Rhythm · Blanco",
-      "name_en": "Camisa Pure Rhythm Shirt · White",
+      "name_es": "Camisa Pure Rhythm de Manga Larga",
+      "name_en": "Pure Rhythm Long Sleeve Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23526,12 +23564,13 @@
       "fam": "camisa-pure-rhythm",
       "cg": "t-camisa-dazmond-pure-rhythm-de-manga-larga",
       "color": "white",
-      "img": "assets/products/shop/0353288def428706f69e.jpg"
+      "art_score": 8,
+      "img": "assets/products/shop/c038755655004fd1ebf4.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-2",
-      "name_es": "Camisa Camisa Colección Privada · Blanco",
-      "name_en": "Camisa Colección Privada Shirt · White",
+      "name_es": "Camisa Colección Privada Blanca",
+      "name_en": "White Private Collection Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23545,12 +23584,13 @@
       "fam": "camisa-coleccion-privada",
       "cg": "t-camisa-dazmond-coleccion-privada-de-manga-larga",
       "color": "white",
-      "img": "assets/products/shop/f29f3ba623e8f44b1f9a.jpg"
+      "art_score": 7,
+      "img": "assets/products/shop/78edb88eab9330336a0c.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-3",
-      "name_es": "Camisa Camisa Noble Horizon · Blanco",
-      "name_en": "Camisa Noble Horizon Shirt · White",
+      "name_es": "Camisa Noble Horizon",
+      "name_en": "Noble Horizon Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23564,12 +23604,13 @@
       "fam": "camisa-noble-horizon",
       "cg": "t-camisa-dazmond-noble-horizon-de-manga-larga",
       "color": "white",
-      "img": "assets/products/shop/740c49c24e0b57aae258.jpg"
+      "art_score": 7,
+      "img": "assets/products/shop/0f32b080a92e98c9e138.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-4",
-      "name_es": "Camisa Camisa Urban Reserve · Blanco",
-      "name_en": "Camisa Urban Reserve Shirt · White",
+      "name_es": "Camisa de Manga Larga Urban Reserve",
+      "name_en": "Urban Reserve Long Sleeve Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23583,12 +23624,13 @@
       "fam": "camisa-urban-reserve",
       "cg": "t-camisa-dazmond-urban-reserve-de-manga-larga-con-bolsillo",
       "color": "white",
-      "img": "assets/products/shop/4480339acbe71d264703.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/c9961dfea40df9c1a0ac.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-5",
-      "name_es": "Camisa Camisa Silueta Urbana · Blanco",
-      "name_en": "Camisa Silueta Urbana Shirt · White",
+      "name_es": "Camisa Silueta Urbana",
+      "name_en": "Urban Silhouette Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23602,12 +23644,13 @@
       "fam": "camisa-silueta-urbana",
       "cg": "t-camisa-dazmond-silueta-urbana-con-bolsillo-de-solapa",
       "color": "white",
-      "img": "assets/products/shop/c656cc844d7c5a27baa1.jpg"
+      "art_score": 5,
+      "img": "assets/products/shop/9b21c46a040b520e1e4f.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-6",
-      "name_es": "Camisa Camisa Noble Horizon · Blanco",
-      "name_en": "Camisa Noble Horizon Shirt · White",
+      "name_es": "Camisa Noble Horizon",
+      "name_en": "Noble Horizon Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23621,12 +23664,13 @@
       "fam": "camisa-noble-horizon",
       "cg": "t-camisa-dazmond-noble-horizon-de-manga-larga-rt",
       "color": "white",
-      "img": "assets/products/shop/e3f340d4c5a0b152d16a.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/e07acac10f821dcf91be.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-7",
-      "name_es": "Camisa Camisa Monogram Line · Blanco",
-      "name_en": "Camisa Monogram Line Shirt · White",
+      "name_es": "Camisa Monogram Line Blanca",
+      "name_en": "Monogram Line White Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23640,12 +23684,13 @@
       "fam": "camisa-monogram-line",
       "cg": "t-camisa-dazmond-monogram-line-de-manga-larga-con-bolsillo",
       "color": "white",
-      "img": "assets/products/shop/ff54bee2fcaf34adc7e6.jpg"
+      "art_score": 6,
+      "img": "assets/products/shop/e574c2099fad1c37a82c.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-8",
-      "name_es": "Camisa Camisa Terra Nova · Blanco",
-      "name_en": "Camisa Terra Nova Shirt · White",
+      "name_es": "Camisa Terra Nova de Manga Larga",
+      "name_en": "Terra Nova Long Sleeve Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23659,12 +23704,13 @@
       "fam": "camisa-terra-nova",
       "cg": "t-camisa-dazmond-terra-nova-de-manga-larga",
       "color": "white",
-      "img": "assets/products/shop/507588ae813cbb295058.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/901a17acd2e0980cce08.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-9",
-      "name_es": "Camisa Camisa Silent Structure · Blanco",
-      "name_en": "Camisa Silent Structure Shirt · White",
+      "name_es": "Camisa Silent Structure Blanca",
+      "name_en": "Silent Structure White Shirt",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23678,7 +23724,8 @@
       "fam": "camisa-silent-structure",
       "cg": "t-camisa-dazmond-silent-structure-de-manga-larga-con-bolsillo",
       "color": "white",
-      "img": "assets/products/shop/c41381d5b90ce7cae6ab.jpg"
+      "art_score": 7,
+      "img": "assets/products/shop/4733e6660fac36aa0430.jpg"
     },
     {
       "id": "shopify-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
@@ -24078,12 +24125,11 @@
     },
     {
       "id": "shopify-design-suspender-jumpsuit",
-      "name_es": "Mono Crimson Nebula Cami",
+      "name_es": "Mono Cami Crimson Nebula",
       "name_en": "Crimson Nebula Cami Jumpsuit",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
-        "hombre/conjuntos",
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
@@ -24094,16 +24140,16 @@
       "fam": "luxury-crimson-nebula",
       "cg": "t-dazmond-luxury-crimson-nebula-cami-jumpsuit",
       "color": "Rojo",
-      "img": "assets/products/shop/25bda5211ddb8e8dfdd7.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/7ba6c8a4b03148926f88.jpg"
     },
     {
       "id": "shopify-design-suspender-jumpsuit-1",
-      "name_es": "Mono Golden Hearts Stripe · Oro",
-      "name_en": "Golden Hearts Stripe Jumpsuit · Gold",
+      "name_es": "Mono Cami Rayas Corazones Dorados",
+      "name_en": "Golden Hearts Stripe Cami Jumpsuit",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
-        "hombre/conjuntos",
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
@@ -24114,16 +24160,16 @@
       "fam": "luxury-golden-hearts",
       "cg": "t-dazmond-luxury-golden-hearts-stripe-cami-jumpsuit",
       "color": "Blanco",
+      "art_score": 8,
       "img": "assets/products/shop/c6e008d08283dfe572fb.jpg"
     },
     {
       "id": "shopify-design-suspender-jumpsuit-2",
-      "name_es": "Mono Stardust Cami Jumpsuit",
-      "name_en": "Stardust Cami Jumpsuit Jumpsuit",
+      "name_es": "Mono Cami Stardust",
+      "name_en": "Stardust Cami Jumpsuit",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
-        "hombre/conjuntos",
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
@@ -24134,7 +24180,8 @@
       "fam": "luxury-stardust-cami",
       "cg": "t-dazmond-luxury-stardust-cami-jumpsuit",
       "color": "Blanco",
-      "img": "assets/products/shop/bc9d2660a5dea06fbe9f.jpg"
+      "art_score": 8,
+      "img": "assets/products/shop/ee9dbfb43fabd9f1684c.jpg"
     },
     {
       "id": "shopify-top-casual-daz-premium-con-cuello-babydoll-para-mujer",
@@ -25164,8 +25211,8 @@
     },
     {
       "id": "shopify-polo-daz-de-algodon-unisex-bordado-black",
-      "name_es": "Polo Daz Algodón Bordado · Negro",
-      "name_en": "Daz Algodón Bordado Polo · Black",
+      "name_es": "Polo Bordado DAZ · Negro",
+      "name_en": "DAZ Embroidered Polo · Black",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25180,12 +25227,13 @@
       "fam": "polo-algodon-unisex",
       "cg": "t-polo-daz-de-algodon-unisex-bordado",
       "color": "Black",
+      "art_score": 4,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726591060-2-S0zUB3k0lI.jpg?v=1726591196"
     },
     {
       "id": "shopify-polo-daz-de-algodon-unisex-bordado-blue",
-      "name_es": "Polo Daz Algodón Bordado · Azul",
-      "name_en": "Daz Algodón Bordado Polo · Blue",
+      "name_es": "Polo Bordado DAZ · Azul",
+      "name_en": "DAZ Embroidered Polo · Blue",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25200,12 +25248,13 @@
       "fam": "polo-algodon-unisex",
       "cg": "t-polo-daz-de-algodon-unisex-bordado",
       "color": "Blue",
+      "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726591060-3-S0zUB3k0lI.jpg?v=1726591205"
     },
     {
       "id": "shopify-polo-daz-de-algodon-unisex-bordado-gray",
-      "name_es": "Polo Daz Algodón Bordado · Gris",
-      "name_en": "Daz Algodón Bordado Polo · Grey",
+      "name_es": "Polo Bordado DAZ · Gris",
+      "name_en": "DAZ Embroidered Polo · Grey",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25220,12 +25269,13 @@
       "fam": "polo-algodon-unisex",
       "cg": "t-polo-daz-de-algodon-unisex-bordado",
       "color": "Gray",
+      "art_score": 4,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726591060-4-S0zUB3k0lI.jpg?v=1726591222"
     },
     {
       "id": "shopify-polo-daz-de-algodon-unisex-bordado-navy",
-      "name_es": "Polo Daz Algodón Bordado · Azul Marino",
-      "name_en": "Daz Algodón Bordado Polo · Navy",
+      "name_es": "Polo Bordado DAZ · Azul Marino",
+      "name_en": "DAZ Embroidered Polo · Navy",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25240,12 +25290,13 @@
       "fam": "polo-algodon-unisex",
       "cg": "t-polo-daz-de-algodon-unisex-bordado",
       "color": "Navy",
+      "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726591060-5-S0zUB3k0lI.jpg?v=1726591231"
     },
     {
       "id": "shopify-polo-daz-de-algodon-unisex-bordado-white",
-      "name_es": "Polo Daz Algodón Bordado · Blanco",
-      "name_en": "Daz Algodón Bordado Polo · White",
+      "name_es": "Polo Bordado DAZ · Blanco",
+      "name_en": "DAZ Embroidered Polo · White",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25260,12 +25311,13 @@
       "fam": "polo-algodon-unisex",
       "cg": "t-polo-daz-de-algodon-unisex-bordado",
       "color": "White",
+      "art_score": 4,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726591060-1-S0zUB3k0lI.jpg?v=1726591214"
     },
     {
       "id": "shopify-short-dazmond-luxury-para-hombre-mens-casual-shorts-front-printingmade-in-usa",
-      "name_es": "Bermuda Pantalón Corto Colección",
-      "name_en": "Pantalón Corto Colección Shorts",
+      "name_es": "Pantalón Corto Colección Privada",
+      "name_en": "Private Collection Lux Shorts",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25278,12 +25330,13 @@
       "supplier_id": "short-dazmond-luxury-para-hombre-mens-casual-shorts-front-printingmade-in-usa",
       "fam": "pantalon-corto-coleccion",
       "cg": "t-pantalon-corto-dazmond-coleccion-privada-lux",
+      "art_score": 7,
       "img": "assets/products/shop/9774e7cd66aa51f8f2c4.jpg"
     },
     {
       "id": "shopify-tarjetero-daz",
-      "name_es": "Bolso Professional Identity Card",
-      "name_en": "Professional Identity Card Bag",
+      "name_es": "Tarjetero Professional Identity",
+      "name_en": "Professional Identity Card Holder",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25298,7 +25351,8 @@
       "fam": "professional-identity-card",
       "cg": "t-dazmond-professional-identity-card-holder",
       "color": "Plata",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_uvdpq5uvdpq5uvdp.png?v=1777318673"
+      "art_score": 9,
+      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_6s9uv56s9uv56s9u.png?v=1777318673"
     },
     {
       "id": "shopify-bolso-bandolera-daz-luxury-con-cadena-de-pu-para-mujer",
@@ -25630,12 +25684,11 @@
     },
     {
       "id": "shopify-design-baggy-suspender-jumpsuit-4",
-      "name_es": "Mono Abstract Jumpsuit",
-      "name_en": "Abstract Jumpsuit Jumpsuit",
+      "name_es": "Mono Estampado Canvas Abstracto",
+      "name_en": "Abstract Canvas Jumpsuit",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
-        "hombre/conjuntos",
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
@@ -25646,12 +25699,13 @@
       "fam": "abstract-canvas-jumpsuit",
       "cg": "t-dazmond-abstract-canvas-jumpsuit",
       "color": "Dorado",
+      "art_score": 9,
       "img": "assets/products/shop/5ad22d102df0091311e2.jpg"
     },
     {
       "id": "shopify-gorra-de-hip-hop-daz-luxury",
-      "name_es": "Gorro Gorra Hip Hop",
-      "name_en": "Gorra Hip Hop Hat",
+      "name_es": "Gorra de Lujo Daz Luxury",
+      "name_en": "Daz Luxury Hip-Hop Cap",
       "price_usd": 29.99,
       "badge": "new",
       "categories": [
@@ -25665,12 +25719,13 @@
       "supplier_id": "gorra-de-hip-hop-daz-luxury",
       "fam": "gorra-hip-hop",
       "cg": "t-gorra-de-hip-hop-daz-luxury",
+      "art_score": 6,
       "img": "assets/products/shop/bb1a7ea07daebffcbf0e.jpg"
     },
     {
       "id": "shopify-gorra-de-malla-daz-luxury",
-      "name_es": "Gorro Gorra Malla Daz",
-      "name_en": "Gorra Malla Daz Hat",
+      "name_es": "Gorra de malla Diamond Sketch",
+      "name_en": "Diamond Sketch Mesh Cap",
       "price_usd": 29.99,
       "badge": "new",
       "categories": [
@@ -25684,12 +25739,13 @@
       "supplier_id": "gorra-de-malla-daz-luxury",
       "fam": "gorra-malla-luxury",
       "cg": "t-gorra-de-malla-daz-luxury",
+      "art_score": 6,
       "img": "assets/products/shop/81581f171c35c6728de4.jpg"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25703,12 +25759,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 6,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727957926-1-k2kYxY9nEu.jpg?v=1727958084"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-1",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25726,8 +25783,8 @@
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-10",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25741,12 +25798,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-10",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 6,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727964690-1-fJC8pUvKET.jpg?v=1727964762"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-11",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25760,12 +25818,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-11",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727964923-1-mgQeWcfFxZ.jpg?v=1727964988"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-12",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25779,12 +25838,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-12",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727965235-1-VCcEKQK8ck.jpg?v=1727965323"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-13",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25798,12 +25858,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-13",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 6,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727965420-1-7aObZvYNEU.jpg?v=1727965476"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-2",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25817,12 +25878,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-2",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 6,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958366-1-lCWd0glUS3.jpg?v=1727958432"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-3",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25840,8 +25902,8 @@
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-4",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25855,12 +25917,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-4",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 6,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958683-1-z6wNtxqsWr.jpg?v=1727958751"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-5",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25874,12 +25937,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-5",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958803-1-4K3nn7p3TB.jpg?v=1727958869"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-6",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25893,12 +25957,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-6",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 6,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959106-1-PrGuYJGboL.jpg?v=1727959164"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-7",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25912,12 +25977,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-7",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 6,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959319-1-2NUfJsDNVg.jpg?v=1727959374"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-8",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25931,12 +25997,13 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-8",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 5,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959483-1-pLY8O1e6E3.jpg?v=1727959540"
     },
     {
       "id": "shopify-mochila-daz-art-de-pu-para-viajes-9",
-      "name_es": "Bolso Mochila Daz Art",
-      "name_en": "Mochila Daz Art Bag",
+      "name_es": "Mochila Estampada de Piel PU",
+      "name_en": "PU Leather Printed Backpack",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -25950,6 +26017,7 @@
       "supplier_id": "mochila-daz-art-de-pu-para-viajes-9",
       "fam": "mochila-art-pu",
       "cg": "t-mochila-daz-art-de-pu-para-viajes",
+      "art_score": 6,
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727959778-1-ZJjpyitW3y.jpg?v=1727959835"
     },
     {
@@ -25968,7 +26036,7 @@
       "supplier_id": "polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre",
       "fam": "polo-luxury-golf",
       "cg": "t-polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732634832-1-N4SBMYItXK.jpg?v=1732635059"
+      "img": "assets/products/shop/539f2de8a61202d8ddb0.jpg"
     },
     {
       "id": "shopify-polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre-1",
@@ -25986,7 +26054,7 @@
       "supplier_id": "polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre-1",
       "fam": "polo-luxury-golf",
       "cg": "t-polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732635382-1-JKadhrdPNB.jpg?v=1732635442"
+      "img": "assets/products/shop/ab0751b972a95181da27.jpg"
     },
     {
       "id": "shopify-polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre-2",
@@ -26004,7 +26072,7 @@
       "supplier_id": "polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre-2",
       "fam": "polo-luxury-golf",
       "cg": "t-polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732635168-1-FqyBg6nK7a.jpg?v=1732635231"
+      "img": "assets/products/shop/cad512bf86ef506f7db5.jpg"
     },
     {
       "id": "shopify-polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre-3",
@@ -26022,12 +26090,12 @@
       "supplier_id": "polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre-3",
       "fam": "polo-luxury-golf",
       "cg": "t-polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732635244-1-ONcm5vuOmD.jpg?v=1732635306"
+      "img": "assets/products/shop/42ca894256c1a8516f8c.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-1-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26042,12 +26110,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299346-2-UFWOfjRybD.jpg?v=1732299489"
+      "art_score": 6,
+      "img": "assets/products/shop/79269dfa81e0bc18c837.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-1-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26062,12 +26131,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299346-1-UFWOfjRybD.jpg?v=1732299450"
+      "art_score": 3,
+      "img": "assets/products/shop/a18b39de8cac697eb458.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-10-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26082,12 +26152,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732301268-2-xiHK3sOV0p.jpg?v=1732301383"
+      "art_score": 5,
+      "img": "assets/products/shop/4f6d3ff36481a9fa73a7.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-10-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26102,12 +26173,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732301268-1-xiHK3sOV0p.jpg?v=1732301348"
+      "art_score": 4,
+      "img": "assets/products/shop/b7a48704bc984923cea3.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-11-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26122,12 +26194,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732301424-2-a2pUDFtid7.jpg?v=1732301536"
+      "art_score": 4,
+      "img": "assets/products/shop/fe8d8ff60319e16b95b6.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-11-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26142,12 +26215,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732301424-1-a2pUDFtid7.jpg?v=1732301505"
+      "art_score": 6,
+      "img": "assets/products/shop/8936e18957ff7149abfe.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-12-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26162,12 +26236,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732302118-2-GmSujantPK.jpg?v=1732302261"
+      "art_score": 4,
+      "img": "assets/products/shop/e3a6fe70407952a0ab53.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-12-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26182,12 +26257,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732302118-1-GmSujantPK.jpg?v=1732302227"
+      "art_score": 6,
+      "img": "assets/products/shop/5079c02a5190b6a6b053.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-13-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26202,12 +26278,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732302347-2-Gph8Tb9ryZ.jpg?v=1732302469"
+      "art_score": 3,
+      "img": "assets/products/shop/ebb854ebbe0055a35f86.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-13-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26222,12 +26299,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732302347-1-Gph8Tb9ryZ.jpg?v=1732302435"
+      "art_score": 6,
+      "img": "assets/products/shop/9efb2de479e380cb1068.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-14-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26242,12 +26320,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732302495-2-H6w3wvz6O5.jpg?v=1732302653"
+      "art_score": 6,
+      "img": "assets/products/shop/8628b9dffb50afec4d33.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-14-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26262,12 +26341,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732302495-1-H6w3wvz6O5.jpg?v=1732302620"
+      "art_score": 4,
+      "img": "assets/products/shop/9fc9989452ec038afe23.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-15-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26282,12 +26362,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732302714-2-FWq30iy4iK.jpg?v=1732302930"
+      "art_score": 3,
+      "img": "assets/products/shop/e562c1d804ffcae9bfbc.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-15-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26302,12 +26383,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732302714-1-FWq30iy4iK.jpg?v=1732302878"
+      "art_score": 3,
+      "img": "assets/products/shop/ba648e0bb301b1ceede9.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-16-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26322,12 +26404,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732303027-2-jQ0wf8PpMf.jpg?v=1732303275"
+      "art_score": 4,
+      "img": "assets/products/shop/58b1991566d2d2f5f7f5.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-16-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26342,12 +26425,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732303027-1-jQ0wf8PpMf.jpg?v=1732303204"
+      "art_score": 3,
+      "img": "assets/products/shop/fe5a3fea3b7f403dfe57.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-17-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26362,12 +26446,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732303351-2-NcPV8Cf74n.jpg?v=1732303500"
+      "art_score": 5,
+      "img": "assets/products/shop/b17887359e0346483ef5.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-17-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26382,12 +26467,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732303351-1-NcPV8Cf74n.jpg?v=1732303465"
+      "art_score": 6,
+      "img": "assets/products/shop/054529f4b9a4dea1b610.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-18-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26402,12 +26488,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732303707-2-f2nUkyQKAu.jpg?v=1732303902"
+      "art_score": 3,
+      "img": "assets/products/shop/2bc46c71a637ea2e91a4.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-18-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26422,12 +26509,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732303707-1-f2nUkyQKAu.jpg?v=1732303839"
+      "art_score": 5,
+      "img": "assets/products/shop/1d903501d4e4326e074e.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-19-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26442,12 +26530,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732304312-2-9HgpOZREo2.jpg?v=1732304449"
+      "art_score": 6,
+      "img": "assets/products/shop/4dca025eabf2b8741452.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-19-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26462,12 +26551,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732304312-1-9HgpOZREo2.jpg?v=1732304410"
+      "art_score": 6,
+      "img": "assets/products/shop/47b5d4dc077c51ebd3b8.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-2-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26482,12 +26572,13 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299611-2-fgtrK2uYNT.jpg?v=1732299829"
+      "art_score": 5,
+      "img": "assets/products/shop/098050475be1235ef9e8.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-2-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26502,12 +26593,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299611-1-fgtrK2uYNT.jpg?v=1732299788"
+      "img": "assets/products/shop/5a0952c0299f503a713b.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-3-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26522,12 +26613,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299852-2-xwHOUPKyS5.jpg?v=1732299995"
+      "img": "assets/products/shop/12e5086c852b8bcb2ced.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-3-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26542,12 +26633,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299852-1-xwHOUPKyS5.jpg?v=1732299949"
+      "img": "assets/products/shop/19f627fafd8586002eae.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-4-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26562,12 +26653,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299973-2-3MSO7EhUQx.jpg?v=1732300146"
+      "img": "assets/products/shop/d55984549bfd4a3d3fe4.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-4-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26582,12 +26673,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299973-1-3MSO7EhUQx.jpg?v=1732300108"
+      "img": "assets/products/shop/94bf83c6c49207d0a539.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-5-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26602,12 +26693,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732300212-2-Rnl1sSI6Vt.jpg?v=1732300412"
+      "img": "assets/products/shop/c6d4cad6f268ec583cdd.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-5-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26622,12 +26713,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732300212-1-Rnl1sSI6Vt.jpg?v=1732300378"
+      "img": "assets/products/shop/e2a956c985acf3ee163b.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-6-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26642,12 +26733,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732300423-2-OZ6cmHd2JH.jpg?v=1732300602"
+      "img": "assets/products/shop/f561ab9d442236c26a04.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-6-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26662,12 +26753,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732300423-1-OZ6cmHd2JH.jpg?v=1732300546"
+      "img": "assets/products/shop/bca3621070c31fe60acb.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-7-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26682,12 +26773,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732300682-2-cu1sBkK22m.jpg?v=1732300927"
+      "img": "assets/products/shop/012b8ebb8dc973765334.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-7-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26702,12 +26793,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732300682-1-cu1sBkK22m.jpg?v=1732300892"
+      "img": "assets/products/shop/f0906d93284a79b27402.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-8-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26722,12 +26813,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732300920-2-pQRXOEcLrq.jpg?v=1732301044"
+      "img": "assets/products/shop/055ec744f5199254127a.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-8-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26742,12 +26833,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732300920-1-pQRXOEcLrq.jpg?v=1732301003"
+      "img": "assets/products/shop/dfaf8a0745f61c63c555.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-9-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26762,12 +26853,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732301061-2-HOVvJhJYbk.jpg?v=1732301290"
+      "img": "assets/products/shop/801671d6c69d0681f3d3.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-9-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26782,12 +26873,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732301061-1-HOVvJhJYbk.jpg?v=1732301243"
+      "img": "assets/products/shop/b85fc2fa5b08107a0cb3.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-black",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Negro",
-      "name_en": "Zapatillas Deporte Daz Sneakers · Black",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Negro",
+      "name_en": "DAZ Premium Sneakers · Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26802,12 +26893,12 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299065-2-lawabbiRv8.jpg?v=1732299318"
+      "img": "assets/products/shop/01b3f5a51ed86b95b4d9.jpg"
     },
     {
       "id": "shopify-zapatillas-de-deporte-daz-premium-white",
-      "name_es": "Zapatillas Zapatillas Deporte Daz · Blanco",
-      "name_en": "Zapatillas Deporte Daz Sneakers · White",
+      "name_es": "Zapatillas de Deporte DAZ Premium · Blanco",
+      "name_en": "DAZ Premium Sneakers · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -26822,7 +26913,7 @@
       "fam": "zapatillas-deporte-premium",
       "cg": "t-zapatillas-de-deporte-daz-premium",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732299065-1-lawabbiRv8.jpg?v=1732299284"
+      "img": "assets/products/shop/4dce333cabfaeb7ee279.jpg"
     },
     {
       "id": "shopify-copa-de-vino-12-oz",
@@ -27621,7 +27712,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732808886-1-NQ7bFLMBZQ.jpg?v=1732809024"
+      "img": "assets/products/shop/0947d865a9922296603f.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-1-white",
@@ -27640,7 +27731,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732808886-2-NQ7bFLMBZQ.jpg?v=1732809060"
+      "img": "assets/products/shop/ed17ae43615f17440157.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-2-black",
@@ -27659,7 +27750,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732809293-1-W7AsOI2IMb.jpg?v=1732809388"
+      "img": "assets/products/shop/7c398ef9f0481257b4c3.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-2-white",
@@ -27678,7 +27769,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732809293-2-W7AsOI2IMb.jpg?v=1732809445"
+      "img": "assets/products/shop/5ef8e75bd166c651f76d.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-3-black",
@@ -27697,7 +27788,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732809484-1-1o8Czg9hYp.jpg?v=1732809605"
+      "img": "assets/products/shop/80426f1a8419b9a1232f.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-3-white",
@@ -27716,7 +27807,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732809484-2-1o8Czg9hYp.jpg?v=1732809641"
+      "img": "assets/products/shop/49d27cf96b4125e43ddb.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-4-black",
@@ -27735,7 +27826,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732809827-1-zA2t3NcsXo.jpg?v=1732809969"
+      "img": "assets/products/shop/ab49c93873015e8386e7.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-4-white",
@@ -27754,7 +27845,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732809827-2-zA2t3NcsXo.jpg?v=1732810019"
+      "img": "assets/products/shop/c110ff2a981a76b39c3c.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-5-black",
@@ -27773,7 +27864,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732878670-1-SOL3UFE0UV.jpg?v=1732878872"
+      "img": "assets/products/shop/6e69143abe12370dacc2.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-5-white",
@@ -27792,7 +27883,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732878670-2-SOL3UFE0UV.jpg?v=1732878904"
+      "img": "assets/products/shop/477275a30f943e32908e.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-6-black",
@@ -27811,7 +27902,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732879151-1-oLqs7rZwYg.jpg?v=1732879305"
+      "img": "assets/products/shop/91a98190757195803b41.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-6-white",
@@ -27830,7 +27921,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732879151-2-oLqs7rZwYg.jpg?v=1732879338"
+      "img": "assets/products/shop/eb1ffb4065b7cbd2f7bb.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-7-black",
@@ -27849,7 +27940,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732879489-1-NPcgSrlodo.jpg?v=1732879607"
+      "img": "assets/products/shop/6f75ea4df03c65e7521c.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-7-white",
@@ -27868,7 +27959,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732879489-2-NPcgSrlodo.jpg?v=1732879641"
+      "img": "assets/products/shop/97ce3e55b999ea410a2e.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-black",
@@ -27887,7 +27978,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732808398-1-p8Aa7lON6p.jpg?v=1732808763"
+      "img": "assets/products/shop/b3ba88570a0fc9247a3d.jpg"
     },
     {
       "id": "shopify-zapatos-daz-premium-de-goma-sin-cordones-para-hombre-white",
@@ -27906,7 +27997,7 @@
       "fam": "zapatos-premium-goma",
       "cg": "t-zapatos-daz-premium-de-goma-sin-cordones-para-hombre",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732808398-2-p8Aa7lON6p.jpg?v=1732808806"
+      "img": "assets/products/shop/bd3be50e9a461b26d7ae.jpg"
     },
     {
       "id": "shopify-conjunto-de-pijama-daz-luxury-de-manga-larga-para-hombre-1-black",
@@ -29889,7 +29980,7 @@
       "fam": "zapatillas-baloncesto-cuero",
       "cg": "t-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735042040-2-qVO5sRxtEa.jpg?v=1735042310"
+      "img": "assets/products/shop/846f437ec14b4b9b58ef.jpg"
     },
     {
       "id": "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-white",
@@ -29908,7 +29999,7 @@
       "fam": "zapatillas-baloncesto-cuero",
       "cg": "t-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735042040-1-qVO5sRxtEa.jpg?v=1735042277"
+      "img": "assets/products/shop/ecd0d256533a98a23cab.jpg"
     },
     {
       "id": "shopify-bolso-daz-luxury-con-forma-de-libro",
@@ -30638,7 +30729,7 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735242360-1-w3ZddL4WgL.jpg?v=1735243328"
+      "img": "assets/products/shop/63dc2cf269cda989aa47.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-para-mujer-white",
@@ -30657,7 +30748,7 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735242360-2-w3ZddL4WgL.jpg?v=1735243393"
+      "img": "assets/products/shop/1d1000cb7a514060b2be.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-1-black",
@@ -30676,7 +30767,7 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735243013-1-r2ikcECD9h.jpg?v=1735244785"
+      "img": "assets/products/shop/0f9f4d643c5680a444b3.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-1-white",
@@ -30695,7 +30786,7 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735243013-2-r2ikcECD9h.jpg?v=1735244862"
+      "img": "assets/products/shop/baeb972d2c9ec4d516dc.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-2-black",
@@ -30714,7 +30805,7 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735243252-1-1JkWaN84QJ.jpg?v=1735246152"
+      "img": "assets/products/shop/149738ef33cf7ffa4d05.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-2-white",
@@ -30733,7 +30824,7 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735243252-2-1JkWaN84QJ.jpg?v=1735246205"
+      "img": "assets/products/shop/414c60e6682ae8549caa.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-3-black",
@@ -30866,7 +30957,7 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735242845-1-NRDVMSgmbm.jpg?v=1735244504"
+      "img": "assets/products/shop/3c6692cc9d077a10d4de.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-white",
@@ -30885,7 +30976,7 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1735242845-2-NRDVMSgmbm.jpg?v=1735244554"
+      "img": "assets/products/shop/5d28309bb85ae2f8a3dc.jpg"
     },
     {
       "id": "shopify-zapatillas-de-skate-ligeras-daz-premium-1-black",
@@ -31542,7 +31633,7 @@
       "supplier_id": "zapatillas-altas-daz-premium-de-piel-para-mujer",
       "fam": "zapatillas-altas-premium",
       "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732897331-1-ke1LRdbqsv.jpg?v=1732897560"
+      "img": "assets/products/shop/3a055a209b9050479ace.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-premium-de-piel-para-mujer-1",
@@ -31560,7 +31651,7 @@
       "supplier_id": "zapatillas-altas-daz-premium-de-piel-para-mujer-1",
       "fam": "zapatillas-altas-premium",
       "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732897603-1-qRgiK6OEfY.jpg?v=1732897688"
+      "img": "assets/products/shop/6965e72e42aeb7ddebc5.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-premium-de-piel-para-mujer-2",
@@ -31578,7 +31669,7 @@
       "supplier_id": "zapatillas-altas-daz-premium-de-piel-para-mujer-2",
       "fam": "zapatillas-altas-premium",
       "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732897972-1-JOzIw3Fu8e.jpg?v=1732898069"
+      "img": "assets/products/shop/f37efd900644e4736cee.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-premium-de-piel-para-mujer-3",
@@ -31596,7 +31687,7 @@
       "supplier_id": "zapatillas-altas-daz-premium-de-piel-para-mujer-3",
       "fam": "zapatillas-altas-premium",
       "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732898287-1-jpYiZzgrHo.jpg?v=1732902692"
+      "img": "assets/products/shop/54cde9b3486e56df0134.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-premium-de-piel-para-mujer-4",
@@ -31614,7 +31705,7 @@
       "supplier_id": "zapatillas-altas-daz-premium-de-piel-para-mujer-4",
       "fam": "zapatillas-altas-premium",
       "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732902477-1-ue27ynuQEx.jpg?v=1732902756"
+      "img": "assets/products/shop/b95c1673c41f1533425e.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-premium-de-deporte-de-cuero-para-hombre",
@@ -31632,7 +31723,7 @@
       "supplier_id": "zapatillas-daz-premium-de-deporte-de-cuero-para-hombre",
       "fam": "zapatillas-premium-deporte",
       "cg": "t-zapatillas-daz-premium-de-deporte-de-cuero-para-hombre",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1733139981-1-uFLc2XRh5W.jpg?v=1733140729"
+      "img": "assets/products/shop/283657997184486e229a.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-premium-de-deporte-de-cuero-para-hombre-1",
@@ -31650,7 +31741,7 @@
       "supplier_id": "zapatillas-daz-premium-de-deporte-de-cuero-para-hombre-1",
       "fam": "zapatillas-premium-deporte",
       "cg": "t-zapatillas-daz-premium-de-deporte-de-cuero-para-hombre",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1733141232-1-vSoqEj4xsB.jpg?v=1733141392"
+      "img": "assets/products/shop/f9c96b70f8e1230c7242.jpg"
     },
     {
       "id": "shopify-chaleco-acolchado-ligero-daz-luxury",
@@ -34408,7 +34499,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732297797-2-UeHcbcNmAV.jpg?v=1732297980"
+      "img": "assets/products/shop/21f5943c9b5aa87889f1.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-1-white",
@@ -34428,7 +34519,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732297797-1-UeHcbcNmAV.jpg?v=1732297948"
+      "img": "assets/products/shop/4deea0140c29f11ea7fb.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-2-black",
@@ -34448,7 +34539,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732298020-2-q432eF2tHm.jpg?v=1732298173"
+      "img": "assets/products/shop/94af7d7bfeadc9ef6723.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-2-white",
@@ -34468,7 +34559,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732298020-1-q432eF2tHm.jpg?v=1732298124"
+      "img": "assets/products/shop/4ee17c0723daa3168220.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-3-black",
@@ -34488,7 +34579,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732298191-2-HAJhXCYzLj.jpg?v=1732298316"
+      "img": "assets/products/shop/31d5a195b0f8a9d222d6.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-3-white",
@@ -34508,7 +34599,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732298191-1-HAJhXCYzLj.jpg?v=1732298285"
+      "img": "assets/products/shop/073e38ef6e2589b3de08.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-4-black",
@@ -34528,7 +34619,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732298323-2-wr4oDlHJzh.jpg?v=1732298466"
+      "img": "assets/products/shop/21ffc287a45e677c31a3.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-4-white",
@@ -34548,7 +34639,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732298323-1-wr4oDlHJzh.jpg?v=1732298428"
+      "img": "assets/products/shop/d04d5559eaa53c15efab.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-5-black",
@@ -34568,7 +34659,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732298447-2-FV8LWbSVDx.jpg?v=1732298731"
+      "img": "assets/products/shop/4c300c2c72e40ccfd625.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-5-white",
@@ -34588,7 +34679,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732298447-1-FV8LWbSVDx.jpg?v=1732298696"
+      "img": "assets/products/shop/8f4f946b7e82a7a4f6bd.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-black",
@@ -34608,7 +34699,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732296238-2-crCu6Oiuh2.jpg?v=1732297246"
+      "img": "assets/products/shop/fa272d2b078d5e7ae0ae.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-white",
@@ -34628,7 +34719,7 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732296238-1-crCu6Oiuh2.jpg?v=1732297215"
+      "img": "assets/products/shop/edcdae80404aaa077a8f.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-1-black",
@@ -34848,7 +34939,7 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732101150-2-5CXBVH3nDV.jpg?v=1732101240"
+      "img": "assets/products/shop/6a5633a4efff8dfca080.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-6-white",
@@ -34868,7 +34959,7 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732101150-1-5CXBVH3nDV.jpg?v=1732101273"
+      "img": "assets/products/shop/642e59023b8e44c5cf5b.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-7-black",
@@ -34888,7 +34979,7 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732101336-2-8vA9YhDsvs.jpg?v=1732101425"
+      "img": "assets/products/shop/6abe1c17c016f9dcd8aa.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-7-white",
@@ -34908,7 +34999,7 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732101336-1-8vA9YhDsvs.jpg?v=1732101455"
+      "img": "assets/products/shop/846fb9341008bb4d5594.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-8-black",
@@ -34928,7 +35019,7 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732109025-1-8EnaNNhW7S.jpg?v=1732109584"
+      "img": "assets/products/shop/05fb6ffcc76791162490.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-8-white",
@@ -34948,7 +35039,7 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732109025-2-8EnaNNhW7S.jpg?v=1732109616"
+      "img": "assets/products/shop/c8c90564741426fbb7f0.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-9-black",
@@ -34968,7 +35059,7 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732110075-2-jqLbYstGfJ.jpg?v=1732110221"
+      "img": "assets/products/shop/bf738cb7747f387935a0.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-9-white",
@@ -34988,7 +35079,7 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1732110075-1-jqLbYstGfJ.jpg?v=1732110279"
+      "img": "assets/products/shop/490dcc3b6dcc603d371a.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-black",
@@ -35742,7 +35833,7 @@
       "supplier_id": "botas-daz-luxury-de-piel-sintetica",
       "fam": "botas-luxury-piel",
       "cg": "t-botas-daz-luxury-de-piel-sintetica",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/VlznBsGYshFbyoPoHvhfbfsDRXUYanei.jpg?v=1734977924"
+      "img": "assets/products/shop/5a3f418dcee7a65e4b41.jpg"
     },
     {
       "id": "printify-667eda9f755ceaeb6f0cbb56",
@@ -35779,7 +35870,7 @@
       "supplier_id": "botas-daz-luxury-de-piel-sintetica-1",
       "fam": "botas-luxury-piel",
       "cg": "t-botas-daz-luxury-de-piel-sintetica",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/NAeXbiPDLxrFpyZkkkAycPxtZtgqfZuB.jpg?v=1734980688"
+      "img": "assets/products/shop/4217ae5eee5c4bc8b176.jpg"
     },
     {
       "id": "shopify-botas-de-cuero-sintetico-daz-luxury",
@@ -36046,7 +36137,7 @@
       "supplier_id": "mocasines-daz-de-lona-sin-cordones",
       "fam": "mocasines-lona-sin",
       "cg": "t-mocasines-daz-de-lona-sin-cordones",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/sMAETTIcTyTznEHVmNtRtvXevhfZGMwQ.jpg?v=1734519593"
+      "img": "assets/products/shop/09768d5b0239720fd8b9.jpg"
     },
     {
       "id": "shopify-mocasines-daz-de-lona-sin-cordones-1",
@@ -36065,7 +36156,7 @@
       "supplier_id": "mocasines-daz-de-lona-sin-cordones-1",
       "fam": "mocasines-lona-sin",
       "cg": "t-mocasines-daz-de-lona-sin-cordones",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/YErZVuEpGvSmmFSHiSRFrjVgaRMgKxCl.jpg?v=1734520820"
+      "img": "assets/products/shop/f9d9736d361c4a473ee8.jpg"
     },
     {
       "id": "shopify-mocasines-daz-de-lona-sin-cordones-2",
@@ -36084,7 +36175,7 @@
       "supplier_id": "mocasines-daz-de-lona-sin-cordones-2",
       "fam": "mocasines-lona-sin",
       "cg": "t-mocasines-daz-de-lona-sin-cordones",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/kuTRPvxzWRtIKBvcjCbuSqnqnTWtgwjh.jpg?v=1734522965"
+      "img": "assets/products/shop/189b09601e2538acde5e.jpg"
     },
     {
       "id": "shopify-mocasines-daz-de-lona-sin-cordones-3",
@@ -36103,7 +36194,7 @@
       "supplier_id": "mocasines-daz-de-lona-sin-cordones-3",
       "fam": "mocasines-lona-sin",
       "cg": "t-mocasines-daz-de-lona-sin-cordones",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/AWmmsmLygQzPdEMBRVOrwxkvaOnCQNkI.jpg?v=1734524105"
+      "img": "assets/products/shop/db444ec3eef0d4bd19b1.jpg"
     },
     {
       "id": "shopify-mocasines-daz-de-lona-white",
@@ -36143,7 +36234,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/HFIZiahNockzdsHsKlQaFxEKaXScwfTO.jpg?v=1735229852"
+      "img": "assets/products/shop/1525e0df648235e82137.jpg"
     },
     {
       "id": "shopify-mocasines-daz-luxury-de-lona-1-white",
@@ -36163,7 +36254,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/KXVmbRYCXHXCDjEbkcArRbXldGKqnoTs.jpg?v=1735229859"
+      "img": "assets/products/shop/153e00e5b97c3a3a47ce.jpg"
     },
     {
       "id": "shopify-mocasines-daz-luxury-de-lona-2-black",
@@ -36183,7 +36274,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/kDptvDsFjAOcArGdHgFEhDWGzFuUjBHz.jpg?v=1735231645"
+      "img": "assets/products/shop/6b932b8f885640ecbd5d.jpg"
     },
     {
       "id": "shopify-mocasines-daz-luxury-de-lona-2-white",
@@ -36203,7 +36294,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/nVUtzCzCMqzMyWBWjvsCfOWOppPvarRE.jpg?v=1735231651"
+      "img": "assets/products/shop/7294537bcc1ea32a0805.jpg"
     },
     {
       "id": "shopify-mocasines-daz-luxury-de-lona-black",
@@ -36223,7 +36314,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/YkSZaipPfMoMBwsQEenoZxEROxTkhuoP.jpg?v=1735229409"
+      "img": "assets/products/shop/8bd50ec7434040212505.jpg"
     },
     {
       "id": "shopify-mocasines-daz-luxury-de-lona-white",
@@ -36243,7 +36334,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "White",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/cLlENreEATxKhqfqLLxIjjPASKmCBOma.jpg?v=1735229416"
+      "img": "assets/products/shop/67081b4dcf9e2b275504.jpg"
     },
     {
       "id": "shopify-pijama-de-verano-daz-luxury",
@@ -36582,7 +36673,7 @@
       "supplier_id": "zapatillas-daz-luxury-con-amortiguacion-atmosferica-para-mujer",
       "fam": "zapatillas-luxury-amortiguacion",
       "cg": "t-zapatillas-daz-luxury-con-amortiguacion-atmosferica-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/teJzergoNykYRMTeLFatfFibXCXmKHBk.jpg?v=1734435553"
+      "img": "assets/products/shop/235e8f60bf130af48fd4.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-con-amortiguacion-atmosferica-para-mujer-1",
@@ -36600,7 +36691,7 @@
       "supplier_id": "zapatillas-daz-luxury-con-amortiguacion-atmosferica-para-mujer-1",
       "fam": "zapatillas-luxury-amortiguacion",
       "cg": "t-zapatillas-daz-luxury-con-amortiguacion-atmosferica-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/btSyeToqshwCtLbaVIEsPnfDtxZNYVZr.jpg?v=1734441182"
+      "img": "assets/products/shop/39555df79cc8ef0dd1de.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-baloncesto",
@@ -36619,7 +36710,7 @@
       "supplier_id": "zapatillas-daz-luxury-de-baloncesto",
       "fam": "zapatillas-luxury-baloncesto",
       "cg": "t-zapatillas-daz-luxury-de-baloncesto",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/cLJFxsaEuumCZAwdlXjMIErNcBXEyBLS.jpg?v=1734349992"
+      "img": "assets/products/shop/efdf2955a804708d574f.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-running",
@@ -36638,7 +36729,7 @@
       "supplier_id": "zapatillas-daz-luxury-de-running",
       "fam": "zapatillas-luxury-running",
       "cg": "t-zapatillas-daz-luxury-de-running",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/XImaVZyzVMlHwNRrAZBzjrsImOTtHOzf.jpg?v=1734352311"
+      "img": "assets/products/shop/d0780dfecc68524152dc.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-running-con-cordones-para-mujer",
@@ -36656,7 +36747,7 @@
       "supplier_id": "zapatillas-daz-luxury-de-running-con-cordones-para-mujer",
       "fam": "zapatillas-luxury-running",
       "cg": "t-zapatillas-daz-luxury-de-running-con-cordones-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/SZyzOqCPovlIcvWijFYAFvmJLHNUoPND.jpg?v=1734352227"
+      "img": "assets/products/shop/ee988b9e44e2c3d642ec.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-premium-con-amortiguacion-atmosferica-rainbow-para-mujer",
@@ -36772,7 +36863,7 @@
       "supplier_id": "zapatillas-de-running-daz-luxury-con-cordones-para-mujer",
       "fam": "zapatillas-running-luxury",
       "cg": "t-zapatillas-de-running-daz-luxury-con-cordones-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/VYcDBVmuuchnBSBIzxnvqkgNqvwHFBBX.jpg?v=1734429401"
+      "img": "assets/products/shop/0ae36b3e69adeb5df2f5.jpg"
     },
     {
       "id": "shopify-zapatillas-deportivas-elasticas-daz-luxury",
@@ -36791,7 +36882,7 @@
       "supplier_id": "zapatillas-deportivas-elasticas-daz-luxury",
       "fam": "zapatillas-deportivas-elasticas",
       "cg": "t-zapatillas-deportivas-elasticas-daz-luxury",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/pFHImIpYERUInZLiXwspDFafLVKOyIWh.jpg?v=1734094146"
+      "img": "assets/products/shop/358cc1c0e7603fcbf9f5.jpg"
     },
     {
       "id": "shopify-zapatillas-deportivas-elasticas-daz-luxury-1",
@@ -36810,7 +36901,7 @@
       "supplier_id": "zapatillas-deportivas-elasticas-daz-luxury-1",
       "fam": "zapatillas-deportivas-elasticas",
       "cg": "t-zapatillas-deportivas-elasticas-daz-luxury",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/AnkERYEuYttEFuHGGrTnAYEoIKwNfRox.jpg?v=1734094356"
+      "img": "assets/products/shop/c6ce109ec5028b918476.jpg"
     },
     {
       "id": "shopify-zapatillas-ligeras-daz-luxury-de-punto-de-malla",
@@ -36829,7 +36920,7 @@
       "supplier_id": "zapatillas-ligeras-daz-luxury-de-punto-de-malla",
       "fam": "zapatillas-ligeras-luxury",
       "cg": "t-zapatillas-ligeras-daz-luxury-de-punto-de-malla",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/XZjRjzGPIUPPlIHmGDThDAxOTWkVQJHr.jpg?v=1734429613"
+      "img": "assets/products/shop/284c2fae04e151fce419.jpg"
     },
     {
       "id": "shopify-zapato-plano-daz-luxury",

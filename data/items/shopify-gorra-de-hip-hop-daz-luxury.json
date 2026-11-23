@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Black and White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Poliéster",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Cap",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with good sharpness, though lifestyle images and size guides feel generic and marketplace-driven.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,18 +23,17 @@
  "cg": "t-gorra-de-hip-hop-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Modern and versatile cap featuring an exclusive print. Crafted from high-quality polyester material. Designed with a medium profile and seven adjustable panels for a universal fit. Each piece is crafted especially for you upon order, ensuring brand exclusivity and limited units. Available with worldwide shipping.",
+ "desc_es": "Gorra de diseño moderno y versátil con estampado exclusivo. Confeccionada en material de poliéster de alta calidad. Ofrece un perfil medio y 7 paneles ajustables para un ajuste universal. Cada pieza está hecha especialmente para usted bajo demanda, garantizando exclusividad y unidades limitadas. Disponible con envío mundial.",
+ "details_en": "· Crafted from high-quality polyester material\n· Medium profile with 7 adjustable panels\n· Circumference 57-60 cm, crown height 11.5 cm, brim 7 cm\n· Care instructions: normal wash, hand wash recommended in cold water, do not bleach, line dry or iron\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Confeccionada en material de poliéster de alta calidad\n· Perfil medio con 7 paneles ajustables\n· Circunferencia de 57-60 cm, altura de 11.5 cm y ala de 7 cm\n· Instrucciones de cuidado: lavado normal, se recomienda lavado a mano con agua fría, no usar lejía, secar al aire libre ni planchar\n· Producto hecho bajo demanda con envío mundial",
  "display_images": [
   "assets/products/shop/bb1a7ea07daebffcbf0e.jpg",
   "assets/products/shop/c869da09dd5dc523167c.jpg",
   "assets/products/shop/74c69879f19675ca8355.jpg",
   "assets/products/shop/192c2884daf6738180b6.jpg",
-  "assets/products/shop/5e37095ced71eec4abed.jpg",
-  "assets/products/shop/8ff70d68de2946bbf266.jpg",
   "assets/products/shop/8099eac88058531000c3.jpg",
-  "assets/products/shop/041b05e325b3fb17b4c4.jpg",
-  "assets/products/shop/512e3a89651e8e5f6e05.jpg"
+  "assets/products/shop/041b05e325b3fb17b4c4.jpg"
  ],
  "draft": false,
  "fam": "gorra-hip-hop",
@@ -34,9 +47,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Gorra Hip Hop Hat",
- "name_es": "Gorro Gorra Hip Hop",
+ "name_en": "Daz Luxury Hip-Hop Cap",
+ "name_es": "Gorra de Lujo Daz Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
  "rank": 1337,
@@ -44,9 +58,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Complementos > Sombreros > Gorras de béisbol",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Brim",
+   "Crown",
+   "Hat Width"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Ala",
+   "Altura",
+   "Ancho de la gorra"
+  ],
+  "notes_en": "Please allow 1cm measurement error and slight color difference between the photographic image and the actual product.",
+  "notes_es": "Permita un error de medición de 1 cm y una ligera diferencia de color entre la imagen fotográfica y el producto real.",
+  "rows": [
+   [
+    "57-60",
+    "7",
+    "11.5",
+    "18"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/512e3a89651e8e5f6e05.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Gorra de hip-hop DAZ Luxury",
  "stripe_payment_link": "https://buy.stripe.com/bJe7sMgDG8uEgH4eOW1gP35",
  "supplier": "Shopify",

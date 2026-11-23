@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Silver and Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polished metal",
  "ai_priority": true,
+ "ai_type": "Card Holder",
+ "ai_ver": 2,
+ "art_note": "Sophisticated high-altitude lifestyle shot capturing modern luxury aesthetics with exceptional lighting and detail clarity.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,10 +22,11 @@
  "cg": "t-dazmond-professional-identity-card-holder",
  "color": "Plata",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Designed for those seeking functionality without sacrificing style. Its polished metal structure offers rigid protection against daily wear. Inside, a velvet-like storage base ensures cards remain pristine and free from scratches or bends. Capable of holding up to twenty standard business cards, this accessory maintains an ultra-slim and lightweight profile, ideal for carrying in a blazer pocket or handbag. The friction snap closure system provides tactile security and quick access.",
+ "desc_es": "Diseñado para quienes buscan funcionalidad sin sacrificar el estilo. Su estructura de metal pulido ofrece una protección rígida contra el desgaste diario. En su interior, cuenta con una base de almacenamiento tipo terciopelo que asegura que tus tarjetas se mantengan impecables. Con capacidad para albergar hasta veinte tarjetas de visita estándar, este accesorio mantiene un perfil ultra delgado y ligero, ideal para llevar en el bolsillo de un blazer o en una cartera de mano. Su sistema de cierre a presión por fricción proporciona seguridad táctil y acceso rápido.",
+ "details_en": "· Made to order in the United States with worldwide shipping\n· High-quality polished metal material with a glossy finish\n· Luxury velvet-style interior lining\n· Capacity for up to 20 standard 3.5\" x 2.0\" cards\n· Friction snap closure mechanism",
+ "details_es": "· Hecho a pedido en los Estados Unidos con envío a todo el mundo\n· Material de metal pulido de alta calidad con acabado brillante\n· Revestimiento interior de lujo tipo terciopelo\n· Capacidad para hasta 20 tarjetas estándar de 3,5\" x 2,0\"\n· Mecanismo de cierre a presión por fricción",
  "display_images": [
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_uvdpq5uvdpq5uvdp.png?v=1777318673",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_6s9uv56s9uv56s9u.png?v=1777318673",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_lxytmklxytmklxyt.png?v=1777318673",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6164043743471225402_2048.jpg?v=1773686074"
@@ -29,9 +43,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Professional Identity Card Bag",
- "name_es": "Bolso Professional Identity Card",
+ "name_en": "Professional Identity Card Holder",
+ "name_es": "Tarjetero Professional Identity",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 28.99,
  "rank": 1317,
