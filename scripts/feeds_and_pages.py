@@ -109,9 +109,9 @@ def product_page(p, site, cat_names):
 <p class="sub-msg" id="subMsg" role="status"></p><iframe name="subFrame" id="subFrame" hidden title="subscribe"></iframe></section>
 <footer class="footer"><div class="footer-logo">Dazmond <span>&amp;</span> Co.</div><nav class="social" id="social"></nav>
 <div class="footer-cols"><div><h4 data-i18n="f_house"></h4><a href="../../#/identidad" data-i18n="f_identity"></a><a href="../../#/c/decor" data-i18n="f_decor"></a></div>
-<div><h4 data-i18n="f_help"></h4><a href="../../#/legal/envios" data-i18n="l_envios"></a><a href="../../#/legal/devoluciones" data-i18n="l_devoluciones"></a></div>
-<div><h4 data-i18n="f_legal"></h4><a href="../../#/legal/aviso" data-i18n="l_aviso"></a><a href="../../#/legal/privacidad" data-i18n="l_privacidad"></a><a href="../../#/legal/terminos" data-i18n="l_terminos"></a></div></div>
-<p class="secure" data-i18n="secure"></p><div class="payments"><span>Stripe</span><span>Visa</span><span>Mastercard</span><span>Amex</span><span>PayPal</span><span>Apple Pay</span><span>Google Pay</span></div><p class="copyright" id="copyright"></p></footer>
+<div><h4 data-i18n="f_help"></h4><a href="../../policies/shipping/" data-i18n="l_envios"></a><a href="../../policies/returns/" data-i18n="l_devoluciones"></a><a href="../../contact/">Contact · Contacto</a></div>
+<div><h4 data-i18n="f_legal"></h4><a href="../../#/legal/aviso" data-i18n="l_aviso"></a><a href="../../policies/privacy/" data-i18n="l_privacidad"></a><a href="../../policies/terms/" data-i18n="l_terminos"></a></div></div>
+<p class="secure" data-i18n="secure"></p><div class="payments"><span title="Visa" aria-label="Visa"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><text x="25" y="21" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" font-style="italic" fill="#1A1F71">VISA</text></svg></span><span title="Mastercard" aria-label="Mastercard"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><circle cx="20" cy="16" r="9" fill="#EB001B"/><circle cx="30" cy="16" r="9" fill="#F79E1B"/><path d="M25 8.5a9 9 0 010 15 9 9 0 010-15z" fill="#FF5F00"/></svg></span><span title="American Express" aria-label="American Express"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#2E77BC"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#fff">AMEX</text></svg></span><span title="Apple Pay" aria-label="Apple Pay"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="700" fill="#000">Apple Pay</text></svg></span><span title="Google Pay" aria-label="Google Pay"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700"><tspan fill="#4285F4">G</tspan><tspan fill="#5F6368"> Pay</tspan></text></svg></span><span title="Amazon Pay" aria-label="Amazon Pay"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><text x="25" y="17" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="700" fill="#232F3E">amazon</text><path d="M14 21q11 5 22 0" stroke="#FF9900" stroke-width="1.8" fill="none"/><text x="25" y="29" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="6" fill="#232F3E">pay</text></svg></span><span title="Klarna" aria-label="Klarna"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#FFB3C7"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#17120F">Klarna.</text></svg></span><span title="Affirm" aria-label="Affirm"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#4A4AF4">affirm</text></svg></span><span title="Stripe" aria-label="Stripe"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#635BFF"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#fff">stripe</text></svg></span></div><p class="copyright" id="copyright"></p></footer>
 <div class="overlay" id="searchOverlay" hidden><div class="overlay-inner"><div class="search-row"><input type="search" id="searchInput" data-i18n-ph="search_ph" autocomplete="off"><button class="icon-btn" data-close="searchOverlay">✕</button></div><div class="grid" id="searchResults"></div></div></div>
 <aside class="drawer" id="cartDrawer" hidden><div class="drawer-head"><h3 data-i18n="cart"></h3><button class="icon-btn" data-close="cartDrawer">✕</button></div><div id="cartItems" class="drawer-body"></div><div class="drawer-foot" id="cartFoot"></div></aside>
 <div class="backdrop" id="backdrop" hidden></div>
@@ -141,7 +141,7 @@ def feed(lang, products, site, cat_names, rate):
             parts = [
                 f"<g:id>{esc(iid[:50])}</g:id>", f"<g:item_group_id>{esc((p.get('cg') or p['id'])[:50])}</g:item_group_id>",
                 f"<title>{esc(name[:150])}</title>", f"<description>{esc(desc[:4900])}</description>",
-                f"<link>{site}/p/{p['id']}/</link>", f"<g:image_link>{esc(imgs[0])}</g:image_link>",
+                f"<link>{site}/p/{p['id']}/?lang={lang}&amp;cur=USD</link>", f"<g:image_link>{esc(imgs[0])}</g:image_link>",
                 *[f"<g:additional_image_link>{esc(u)}</g:additional_image_link>" for u in imgs[1:10]],
                 "<g:availability>in_stock</g:availability>", "<g:condition>new</g:condition>",
                 f"<g:price>{p['price_usd']:.2f} USD</g:price>",
@@ -165,6 +165,102 @@ def feed(lang, products, site, cat_names, rate):
     return ('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">'
             f"<channel><title>{esc(title)}</title><link>{site}</link><description>DAZMOND &amp; Co. — {lang}</description>"
             + "\n".join(items) + "</channel></rss>\n")
+
+
+# ------------------------------------------------- políticas en páginas fijas (Google las exige)
+def policy_pages(cfg, site):
+    """Páginas reales (fuera de la app) que Google Merchant Center revisa:
+    envíos, devoluciones, privacidad, condiciones y contacto. Inglés + español."""
+    co = esc(cfg.get("company") or "Community16 LLC")
+    addr = esc(cfg.get("company_address") or "500 4th St NW, Suite 102 #1327, Albuquerque, NM 87102, USA")
+    mail = esc(cfg.get("contact_email") or "info@dazmond.com")
+    m = f'<a href="mailto:{mail}">{mail}</a>'
+    pages = {
+        "policies/shipping": ("Shipping Policy · Política de envíos", f"""
+<h2>Shipping Policy</h2>
+<p><b>Free shipping on every order.</b> The price you see is the final price of the piece; shipping is included.</p>
+<p><b>Production time:</b> every piece is made to order, which takes 2 to 7 business days after payment.</p>
+<p><b>Delivery time:</b> tracked international shipping, usually 5 to 15 business days depending on the destination.</p>
+<p><b>Tracking:</b> you will receive a tracking number by email as soon as your order ships.</p>
+<p><b>Countries:</b> we ship to the United States, Canada, the United Kingdom, the European Union and most other countries. Import taxes or duties outside the United States, if any, are paid by the buyer.</p>
+<p>Questions: {m}</p>
+<h2>Política de envíos</h2>
+<p><b>Envío gratis en todos los pedidos.</b> El precio que ves es el precio final; el envío está incluido.</p>
+<p><b>Confección:</b> cada pieza se fabrica bajo pedido, entre 2 y 7 días laborables después del pago.</p>
+<p><b>Entrega:</b> envío internacional con seguimiento, normalmente entre 5 y 15 días laborables según el destino.</p>
+<p><b>Seguimiento:</b> recibirás el número de seguimiento por correo cuando salga tu pedido.</p>
+<p>Los impuestos o aranceles de importación fuera de EE. UU., si los hubiera, corren a cargo del comprador. Dudas: {m}</p>"""),
+        "policies/returns": ("Return &amp; Refund Policy · Devoluciones", f"""
+<h2>Return &amp; Refund Policy</h2>
+<p>Every piece is made to order just for you, so we cannot accept returns for change of mind or wrong size. Please check the size guide on each product page before ordering.</p>
+<p><b>Damaged, defective or wrong item:</b> email {m} within <b>30 days</b> of delivery with your order number and a photo. We will send you a free replacement or a <b>full refund</b>, whichever you prefer. You do not need to send the item back and there is no cost to you.</p>
+<p><b>Refunds</b> are issued to the original payment method within 5 to 10 business days after approval.</p>
+<p><b>European Union customers:</b> you keep your legal 14-day right of withdrawal from delivery, except for items personalised at your request.</p>
+<h2>Devoluciones y reembolsos</h2>
+<p>Cada pieza se fabrica bajo pedido, por eso no aceptamos devoluciones por cambio de opinión o de talla. Revisa la guía de tallas antes de comprar.</p>
+<p><b>Pieza dañada, defectuosa o equivocada:</b> escríbenos a {m} en los <b>30 días</b> siguientes a la entrega con tu número de pedido y una foto. Te enviamos otra gratis o te devolvemos <b>todo el dinero</b>, como prefieras. No tienes que devolver la pieza ni pagar nada.</p>
+<p>Los reembolsos se hacen al mismo medio de pago en 5 a 10 días laborables.</p>
+<p>Si resides en la Unión Europea, conservas tu derecho de desistimiento de 14 días desde la entrega, salvo en productos personalizados a petición tuya.</p>"""),
+        "policies/privacy": ("Privacy Policy · Privacidad", f"""
+<h2>Privacy Policy</h2>
+<p>Data controller: {co}, {addr}. Contact: {m}.</p>
+<ul><li>Payments are processed by Stripe. We never see or store your card details.</li>
+<li>Account and favorites: if you sign in, they are stored in Google Firebase (United States).</li>
+<li>Newsletter: your email is stored in Brevo only if you subscribe; you can unsubscribe in every email.</li>
+<li>Shipping: we share your name and address only with the workshop that makes and ships your order.</li>
+<li>We do not sell your personal data.</li></ul>
+<p>You can request access, correction or deletion of your data by writing to {m}.</p>
+<h2>Privacidad</h2>
+<p>Responsable: {co}, {addr}. Los pagos los procesa Stripe; tu cuenta se guarda en Google Firebase (EE. UU.); el boletín en Brevo solo si te suscribes; tu dirección solo se comparte con el taller que fabrica y envía tu pedido. No vendemos tus datos. Para acceder, corregir o borrar tus datos escribe a {m}.</p>"""),
+        "policies/terms": ("Terms of Service · Condiciones", f"""
+<h2>Terms of Service</h2>
+<p>This store, dazmond.com, and the DAZMOND &amp; Co. brand are operated by {co}, {addr}.</p>
+<p>Prices are shown in US dollars and include shipping. Payment is processed securely by Stripe. Each piece is made to order once payment is confirmed.</p>
+<p>By purchasing you accept these terms and our <a href="../shipping/">Shipping</a> and <a href="../returns/">Return</a> policies. Governing law: State of New Mexico, USA, without prejudice to the rights granted by the law of your country of residence.</p>
+<h2>Condiciones</h2>
+<p>Esta tienda y la marca DAZMOND &amp; Co. pertenecen a {co}, {addr}. Los precios se muestran en dólares e incluyen el envío. El pago lo procesa Stripe de forma segura. Cada pieza se fabrica tras confirmarse el pago. Ley aplicable: Nuevo México (EE. UU.), sin perjuicio de los derechos que te reconozca la ley de tu país.</p>"""),
+        "contact": ("Contact &amp; About Us · Contacto", f"""
+<h2>About DAZMOND &amp; Co.</h2>
+<p>DAZMOND &amp; Co. is an American fashion house with original designs, made to order and shipped worldwide.</p>
+<h2>Contact us</h2>
+<p><b>Email:</b> {m} — we answer within 24 to 48 hours, Monday to Friday.</p>
+<p><b>Company:</b> {co}</p>
+<p><b>Address:</b> {addr}</p>
+<h2>Contacto</h2>
+<p>Escríbenos a {m}; respondemos en 24 a 48 horas, de lunes a viernes. Empresa: {co}. Dirección: {addr}.</p>"""),
+    }
+    for path, (title, body) in pages.items():
+        up = "../" * (path.count("/") + 1)
+        nav = (f'<a href="{up}policies/shipping/">Shipping</a> · <a href="{up}policies/returns/">Returns</a> · '
+               f'<a href="{up}policies/privacy/">Privacy</a> · <a href="{up}policies/terms/">Terms</a> · <a href="{up}contact/">Contact</a>')
+        page = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{title} — DAZMOND &amp; Co.</title>
+<link rel="canonical" href="{site}/{path}/">
+<meta name="theme-color" content="#000000">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{up}assets/style.css">
+</head>
+<body>
+<header class="header" style="justify-content:center"><a href="{up}" class="logo">Dazmond <span>&amp;</span> Co.</a></header>
+<main><section class="section"><div class="editorial legal">
+<h1 style="font-size:clamp(30px,6vw,50px);font-weight:300;margin-bottom:26px;text-align:center">{title}</h1>
+{body}
+</div></section></main>
+<footer class="footer"><div class="footer-logo">Dazmond <span>&amp;</span> Co.</div>
+<p class="muted" style="text-align:center">{nav}</p>
+<p class="copyright">© {NOW.year} DAZMOND &amp; Co. · {co} · {addr} · {mail}</p></footer>
+</body>
+</html>
+"""
+        d = os.path.join(ROOT, path)
+        os.makedirs(d, exist_ok=True)
+        with open(os.path.join(d, "index.html"), "w", encoding="utf-8") as f:
+            f.write(page)
+    return [f"{site}/{p}/" for p in pages]
 
 
 def main():
@@ -202,7 +298,7 @@ def main():
         with open(os.path.join(ROOT, "feeds", f"catalogo-{lang}.xml"), "w", encoding="utf-8") as f:
             f.write(feed(lang, show, site, cat_names, rate))
 
-    urls = [f"{site}/"] + [f"{site}/p/{p['id']}/" for p in show]
+    urls = [f"{site}/"] + policy_pages(cfg, site) + [f"{site}/p/{p['id']}/" for p in show]
     with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                 + "\n".join(f"<url><loc>{u}</loc><lastmod>{TODAY}</lastmod></url>" for u in urls) + "\n</urlset>\n")
