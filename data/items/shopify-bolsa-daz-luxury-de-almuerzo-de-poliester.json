@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Violeta Lavanda",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% Poliéster",
  "ai_priority": true,
+ "ai_type": "Lunch Bag",
+ "ai_ver": 2,
+ "art_note": "Striking high-fashion editorial imagery with theatrical lighting, rich textures, and sophisticated dark luxury aesthetics.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-bolsa-de-almuerzo-dazmond-luxury-velvet",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece in velvet is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en terciopelo, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This thermal lunch bag from the DAZMOND Luxury line redefines dining away from home with a proposal of pure sophistication. It features a refined lavender violet hue that highlights the distinguished monogram stamped in brilliant gold with a central diamond. Its structured silhouette, of classical inspiration and clean edges, offers a modern profile that complements a high-level lifestyle. A functional piece of exclusive run designed for those who never compromise on style at any time of the day. Made on demand in the USA.",
+ "desc_es": "Esta bolsa de almuerzo térmica de la línea DAZMOND Luxury redefine la experiencia de comer fuera de casa con una propuesta de sofisticación pura. Presenta una refinada tonalidad violeta lavanda que resalta el distinguido monograma estampado en oro brillante con un diamante central. Su silueta estructurada, de inspiración clásica y bordes limpios, ofrece un perfil moderno que complementa un estilo de vida de alto nivel. Una pieza funcional de tirada exclusiva pensada para quienes no comprometen el estilo en ningún momento del día. Confeccionada bajo demanda en EE. UU.",
+ "details_en": "· Exterior in 100% water-repellent polyester\n· Insulating interior lining of 52% aluminum foil and 48% polyester\n· Top magnetic closure\n· Dimensions: 29.8 cm height by 18.4 cm length by 12.1 cm width\n· Made-to-order construction\n· Worldwide shipping available",
+ "details_es": "· Exterior en 100% poliéster hidrófugo\n· Revestimiento interior aislante de 52% papel de aluminio y 48% poliéster\n· Cierre magnético superior\n· Dimensiones: 29,8 cm de alto por 18,4 cm de longitud por 12,1 cm de ancho\n· Confección bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-11_183029.png?v=1789144265",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-11_182856.png?v=1789144264",
@@ -32,9 +47,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Bolsa Almuerzo Velvet Bag",
- "name_es": "Bolso Bolsa Almuerzo Velvet",
+ "name_en": "Royal Velvet Lunch Bag",
+ "name_es": "Bolsa de Almuerzo Royal Velvet",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 42.99,
  "rank": 1557,
