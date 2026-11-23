@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "Emerald Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Technical polyester",
  "ai_priority": true,
+ "ai_type": "Baseball Jersey",
+ "ai_ver": 2,
+ "art_note": "High-end lifestyle photography with sophisticated lighting and luxurious backdrops.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-dazmond-emerald-classic-short-sleeve-baseball-jersey",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An ode to subtle and enduring elegance. This short sleeve baseball jersey is rendered in a deep matte emerald green tone. The design features the signature caligraphic monogram alongside lettering on the chest. It is defined by a front placket of premium white buttons providing sharp contrast and an impeccable drape. Crafted from high-grade technical polyester, it offers exceptional lightness and optimal breathability for contemporary urban living.",
+ "desc_es": "Una oda a la elegancia sutil y perenne. Este jersey de béisbol de manga corta se presenta en un profundo tono verde esmeralda mate. El diseño destaca por el monograma caligráfico de la firma junto a la inscripción en el pecho. Cuenta con una hilera frontal de botones blancos premium que aportan contraste y una caída impecable. Elaborado en poliéster técnico de alta calidad, ofrece una ligereza excepcional y una transpirabilidad óptima para la vida urbana contemporánea.",
+ "details_en": "· High-grade technical polyester\n· Front closure with premium white buttons\n· Short sleeves\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Poliéster técnico de alta calidad\n· Cierre frontal con botones blancos premium\n· Manga corta\n· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-1.webp",
   "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-3-2.webp",
@@ -30,12 +44,13 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Emerald Baseball Jersey Shirt",
- "name_es": "Camisa Emerald Baseball",
+ "name_en": "Emerald Classic Baseball Jersey",
+ "name_es": "Jersey de Béisbol Emerald Classic",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
- "rank": 1586,
+ "rank": 1588,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "Platinum Gray",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_type": "Baseball Jersey",
+ "ai_ver": 2,
+ "art_note": "Lifestyle imagery attempts a luxury narrative, but digital composition lacks true editorial depth.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,17 +20,17 @@
  "cg": "t-dazmond-platinum-classic-short-sleeve-baseball-jersey",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An ode to subtle and enduring elegance. The garment is rendered entirely in a clean platinum gray tone, delivering superb and versatile tonal sophistication. The left chest proudly showcases the distinguished calligraphy monogram of the house alongside the signature inscription in a classic gold tone. The silhouette reimagines the traditional short-sleeve baseball design with a front placket of premium white buttons, offering a clean closure and an impeccable drape.",
+ "desc_es": "Una oda a la elegancia sutil y perenne. La prenda se viste por completo en un limpio tono gris platino, aportando una sofisticación tonal soberbia y versátil. El pecho izquierdo luce el distinguido monograma caligráfico de la firma junto con la inscripción de la casa en un tono dorado clásico. La silueta reimagina el diseño clásico de béisbol de manga corta con una hilera frontal de botones blancos premium que ofrecen un cierre limpio y una caída impecable.",
+ "details_en": "· Crafted from high-quality polyester\n· Short sleeve V-neck design\n· Front white button placket\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado en poliéster de alta calidad\n· Diseño de manga corta y cuello en V\n· Hilera frontal de botones blancos\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-1.webp",
   "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-2.webp",
   "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-3.webp",
   "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-4.webp",
   "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-5.webp",
-  "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-6.webp",
-  "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-7.webp",
-  "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-8.webp"
+  "assets/products/shopify-camiseta-de-beisbol-dazmond-de-manga-corta-para-hombre-1-6.webp"
  ],
  "draft": false,
  "fam": "platinum-classic-short",
@@ -31,12 +43,13 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Platinum Baseball Jersey Shirt",
- "name_es": "Camisa Platinum Baseball",
+ "name_en": "Platinum Classic Baseball Jersey",
+ "name_es": "Jersey de Béisbol Platinum Classic",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
- "rank": 1584,
+ "rank": 1586,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",

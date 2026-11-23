@@ -1,16 +1,29 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PVC",
  "ai_priority": true,
+ "ai_type": "Boston Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate lighting, though lifestyle and composite images appear generic and diminish the luxury positioning.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury",
  "color": "Beige",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The DAZMOND & Co. Boston bag merges a classic silhouette with a modern aesthetic. Crafted from PVC with an all-over printed finish, this compact accessory offers exceptional everyday functionality. It features a spacious main compartment and additional interior pockets to keep your essentials organized. Complete with top handles and a removable, adjustable shoulder strap, it adapts effortlessly to any occasion. Made to order. Worldwide shipping.",
+ "desc_es": "El bolso Boston de DAZMOND & Co. combina una silueta clásica con una estética moderna. Confeccionado en PVC con un elegante estampado integral, este accesorio compacto ofrece una funcionalidad excepcional para el día a día. Cuenta con un compartimento principal espacioso y bolsillos interiores adicionales para mantener tus esenciales organizados. Equipado con asas superiores y una correa de hombro desmontable y ajustable, se adapta perfectamente a cualquier ocasión. Made to order. Worldwide shipping.",
+ "details_en": "· Monogram PVC\n· Main compartment with zip closure\n· Two interior pockets\n· Removable and adjustable shoulder strap\n· Water-resistant finish\n· Dimensions: 21 cm x 12.5 cm x 16 cm\n· Strap length: 125 cm\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· PVC monograma\n· Compartimento principal con cierre de cremallera\n· Dos bolsillos interiores\n· Correa de hombro extraíble y ajustable\n· Resistente al agua\n· Dimensiones: 21 cm x 12,5 cm x 16 cm\n· Longitud de la correa: 125 cm\n· Pieza hecha a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/8a3ccbe61f144498e6d7.jpg",
   "assets/products/shop/b4d6edf4b04b17640f4b.jpg",
@@ -18,14 +31,7 @@
   "assets/products/shop/3d46c3bf5e6590e5ab2c.jpg",
   "assets/products/shop/41c9deec8bf09e62987e.jpg",
   "assets/products/shop/4d2426e19859be478899.jpg",
-  "assets/products/shop/054feff5648ad8cbf68b.jpg",
-  "assets/products/shop/9d59085536ca0fe79d2d.jpg",
-  "assets/products/shop/aa0277cfc82c33e9bc47.jpg",
-  "assets/products/shop/1c7a38a2cc2dc1713637.jpg",
-  "assets/products/shop/01c1c9fc6e07aa8cafe9.jpg",
-  "assets/products/shop/9489e537312130e255ba.jpg",
-  "assets/products/shop/13f59ece75f30a1d0a98.jpg",
-  "assets/products/shop/66513a692f3b3efce45b.jpg"
+  "assets/products/shop/054feff5648ad8cbf68b.jpg"
  ],
  "draft": false,
  "fam": "bolso-bandolera-boston",
@@ -33,24 +39,53 @@
  "id": "shopify-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury-beige",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-345759651"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
  "name_en": "Small Printed Boston Bag · Beige",
  "name_es": "Bolso Boston Estampado Pequeño · Beige",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
- "rank": 1568,
+ "rank": 1571,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsas de hombro",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Dimension",
+   "Size"
+  ],
+  "headers_es": [
+   "Dimensión",
+   "Talla"
+  ],
+  "notes_en": "Measurements are approximate.",
+  "notes_es": "Las medidas son aproximadas.",
+  "rows": [
+   [
+    "Width / Ancho",
+    "21 cm / 8.3 in"
+   ],
+   [
+    "Depth / Profundidad",
+    "12.5 cm / 4.9 in"
+   ],
+   [
+    "Height / Altura",
+    "16 cm / 6.3 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/aa0277cfc82c33e9bc47.jpg"
+ ],
  "sizes": [
   "Beige"
  ],
