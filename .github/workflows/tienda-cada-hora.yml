@@ -62,7 +62,7 @@ jobs:
         run: |
           git config user.name "dazmond-bot"
           git config user.email "dazmond-bot@users.noreply.github.com"
-          git add -A data assets disenos p feeds sitemap.xml robots.txt
+          git add -A data assets disenos p feeds policies contact sitemap.xml robots.txt
           git diff --cached --quiet && exit 0
           git commit -m "Tienda: actualización automática"
           git pull --rebase -q || true
