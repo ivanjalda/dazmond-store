@@ -219,7 +219,7 @@ h1,h2,h3,h4{font-family:var(--serif);font-weight:400;color:var(--gold);letter-sp
 .footer-cols a{display:block;color:var(--pearl);font-size:13px;padding:4px 0}
 .footer-cols a:hover{color:var(--gold)}
 .payments{display:flex;flex-wrap:wrap;justify-content:center;gap:6px;margin-bottom:24px}
-.payments span{border:1px solid var(--line);color:var(--pearl);font-size:9px;letter-spacing:.14em;padding:6px 10px;text-transform:uppercase}
+.payments{gap:8px}.payments span{display:inline-flex;line-height:0}.payments svg{width:46px;height:30px;border-radius:4px;box-shadow:0 0 0 1px rgba(255,255,255,.12)}
 .secure{font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--pearl);margin-bottom:14px}
 .copyright{font-size:10.5px;color:#5f5f5f;letter-spacing:.06em}
 

@@ -157,6 +157,11 @@
     S.products = (prod.products || []).slice().sort((a, b) => (a.rank || 999) - (b.rank || 999));
     S.byCg = {};
     S.products.forEach(p => { S.byId[p.id] = p; const k = p.cg || p.id; (S.byCg[k] = S.byCg[k] || []).push(p); });
+    try {  // enlaces de Google Shopping: ?lang=en&cur=USD (solo para esa visita, no se guarda)
+      const q = new URLSearchParams(location.search);
+      if (['es', 'en'].includes(q.get('lang'))) S.lang = q.get('lang');
+      if (['USD', 'EUR'].includes(q.get('cur'))) S.cur = q.get('cur');
+    } catch (e) {}
     if (!S.lang) S.lang = (navigator.language || 'es').toLowerCase().startsWith('es') ? 'es' : (cfg.default_lang || 'en');
     if (!S.cur) S.cur = S.lang === 'es' && /^es|^fr|^de|^it|^pt|^nl/.test((navigator.language || '').toLowerCase()) ? 'EUR' : (cfg.default_currency || 'USD');
     bindUI(); applyStatic(); renderNav(); route(); updateCounts(); initFirebase(); initAnalytics();
