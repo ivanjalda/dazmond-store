@@ -1,7 +1,7 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-23 20:33 UTC",
+  "updated": "2026-11-23 20:41 UTC",
   "totals": {
     "catalogo": 2438,
     "a_la_vista": 1999,
@@ -13,7 +13,7 @@
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
-    "visitas_30_dias": 395,
+    "visitas_30_dias": 483,
     "fotos_de_campana": 0
   },
   "reasons": {
@@ -390,6 +390,15 @@
       "v": 3
     },
     {
+      "id": "printful-382149130",
+      "n": "Vela Vela Perfumada Daz · Blanco",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/d2e/d2e12e000869e4515d84a32c538f6d00_preview.png",
+      "c": "decor",
+      "pr": 52.99,
+      "v": 2
+    },
+    {
       "id": "printful-351973407",
       "n": "Camiseta Botanical Eucalyptus · Blanco",
       "s": "Printful",
@@ -440,15 +449,6 @@
       "s": "Printful",
       "img": "https://files.cdn.printful.com/files/ad6/ad6d6956a2e4ae7fef79541c99555ad7_preview.png",
       "c": "hombre/polos",
-      "pr": 25.0,
-      "v": 1
-    },
-    {
-      "id": "printful-361906822",
-      "n": "Gorro con pompon Chalk",
-      "s": "Printful",
-      "img": "https://files.cdn.printful.com/files/30c/30cc2d9ff5a8e1a75f4f9dcc11e1e3ee_preview.png",
-      "c": "hombre/gorro-bufanda",
       "pr": 25.0,
       "v": 1
     }
@@ -4487,16 +4487,19 @@
     "CSV leído: telegram.csv",
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 12 s",
+    "⏱ lectura de proveedores: 9 s",
     "Productos en catálogo: 2438 · a la vista: 2002 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
-    "Firebase: visitas leídas de 387 piezas",
-    "⏱ ventas, visitas y cupones: 3 s",
+    "Firebase: visitas leídas de 474 piezas",
+    "⏱ ventas, visitas y cupones: 2 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
+    "IA: fallo con shopify-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury-2-black: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con shopify-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury-beige: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con shopify-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury-black: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 1 productos revisados (fotos, guía de tallas y textos) · quedan 1993",
-    "⏱ revisión con IA: 89 s",
+    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1993",
+    "⏱ revisión con IA: 378 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
