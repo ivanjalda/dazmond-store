@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "Muscle Tee",
+ "ai_ver": 2,
+ "art_note": "The image features a standard supplier mockup look with an awkwardly cropped head and basic lighting, lacking high-end luxury editorial direction.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
  "cg": "printful-357300210",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in silk, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en seda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential piece that defines the silhouette with understated elegance. Designed with clean lines and a minimalist approach that prioritizes comfort and contemporary style. Its refined aesthetic responds to a modern vision of everyday luxury. Each garment is meticulously crafted to order in our workshops. We offer worldwide shipping to meet the demands of our international clientele.",
+ "desc_es": "Una pieza esencial que define la silueta con elegancia discreta. Diseñada con líneas limpias y un enfoque minimalista que prioriza la comodidad y el estilo contemporáneo. Su estética depurada responde a una visión moderna del lujo cotidiano. Cada prenda se elabora meticulosamente bajo demanda en nuestros talleres. Ofrecemos envíos a todo el mundo para satisfacer las exigencias de nuestros clientes internacionales.",
+ "details_en": "· Exclusive made-to-order production\n· Worldwide shipping available",
+ "details_es": "· Confección exclusiva bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e5c/e5c142a3d5f61710caca1a9773f9ab48_preview.png"
  ],
@@ -20,15 +32,16 @@
  "id": "printful-357300210-white",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-346239758"
+  "printful-379237645",
+  "printful-338164153",
+  "printful-351973407",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Noir Tee · White",
- "name_es": "Camiseta Noir · Blanco",
+ "name_en": "Aura Silk-Touch Muscle Tee · White",
+ "name_es": "Camiseta Aura Silk-Touch · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 79,

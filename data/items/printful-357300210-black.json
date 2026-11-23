@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
  "ai_priority": true,
+ "ai_type": "Muscle Tee",
+ "ai_ver": 2,
+ "art_note": "Generic mockup style with cropped head and flat lighting, failing to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
  ],
  "cg": "printful-357300210",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in silk, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en seda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A streamlined, contemporary silhouette designed to define shape with understated elegance. An essential piece bringing modern refinement to the everyday wardrobe. Each garment is crafted exclusively to order with worldwide shipping available.",
+ "desc_es": "Silueta depurada y contemporánea diseñada para definir la forma con una elegancia discreta. Una prenda esencial que aporta modernidad al guardarropa diario. Cada pieza se confecciona exclusivamente bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/098/09894ee51ffe47af6fe54ba00be93229_preview.png"
  ],
@@ -20,15 +32,16 @@
  "id": "printful-357300210-black",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-346239758"
+  "printful-379237645",
+  "printful-338164153",
+  "printful-351973407",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Noir Tee · Black",
- "name_es": "Camiseta Noir · Negro",
+ "name_en": "Aura Silk-Touch Muscle Tee · Black",
+ "name_es": "Camiseta Aura Silk-Touch · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 78,

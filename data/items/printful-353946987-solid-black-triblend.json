@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Solid Black Triblend",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a neutral background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-353946987",
  "color": "Solid Black Triblend",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential silhouette defined by visual purity. This piece reflects modern sophistication with a minimalist and relaxed approach. Crafted with attention to detail to deliver an impeccable presence on any occasion. Each garment is crafted to order exclusively for you. Available with worldwide shipping.",
+ "desc_es": "Una silueta esencial definida por su pureza visual. Esta pieza refleja la sofisticacion moderna con un enfoque minimalista y relajado. Confeccionada con atencion al detalle para ofrecer una presencia impecable en cualquier ocasion. Cada prenda se elabora bajo pedido exclusivamente para usted. Disponible con envio internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Elaborado bajo pedido\n· Envio disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/1ed/1eddf2e4718d51fe5b77045f3fe734cc_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Tee · Solid Black Triblend",
- "name_es": "Camiseta Monogram · Solid Black Triblend",
+ "name_en": "Aeris 115 Emerald Triblend T-Shirt · Solid Black Triblend",
+ "name_es": "Camiseta Aeris 115 Emerald Triblend · Solid Black Triblend",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 75,

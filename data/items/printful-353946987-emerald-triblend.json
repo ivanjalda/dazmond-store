@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Emerald Triblend",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Triblend",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "The image features a standard flat-lay or ghost mannequin mockup with a pasted-on digital graphic, lacking the sophisticated lighting and atmospheric depth expe",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-353946987",
  "color": "Emerald Triblend",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential garment defining contemporary sophistication. Tailored with precision to deliver an impeccable silhouette and an authoritative presence. Each piece is crafted to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una prenda esencial que define la sofisticación contemporánea. Confeccionada con precisión para ofrecer una silueta impecable y una presencia imponente. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/0ac/0ac6e7bc3fbbcef7a0d052451da678e7_preview.png"
  ],
@@ -26,9 +41,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Monogram Tee · Emerald Triblend",
- "name_es": "Camiseta Monogram · Emerald Triblend",
+ "name_en": "Aeris 115 Emerald Triblend T-Shirt · Emerald Triblend",
+ "name_es": "Camiseta Aeris 115 Emerald Triblend · Emerald Triblend",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 73,
