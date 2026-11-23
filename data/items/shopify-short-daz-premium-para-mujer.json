@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "Electric Lime",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% Polyester, 5% Spandex",
  "ai_priority": true,
+ "ai_type": "Shorts",
+ "ai_ver": 2,
+ "art_note": "High-end luxury lifestyle imagery with sophisticated lighting and upscale architectural settings.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-dazmond-premium-electric-lime-fitted-shorts",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A bold and vibrant statement piece designed to stand out. These fitted shorts feature a striking neon electric lime hue that radiates dynamism. Crafted with a brushed faux suede finish offering an ultra-soft touch, they balance high fashion sportswear with a precise anatomical fit. The signature monogram adorns the side, completing a piece designed for exclusivity.",
+ "desc_es": "Una declaración de estilo audaz y vibrante diseñada para destacar. Estos shorts ceñidos se presentan en un tono verde lima neón que irradia dinamismo. Confeccionados con un acabado de ante sintético cepillado de textura ultrasuave al tacto, equilibran la alta moda deportiva con un ajuste anatómico preciso. El monograma distintivo adorna el lateral, completando una pieza concebida para la exclusividad.",
+ "details_en": "· Exclusive made-to-order manufacturing in the US\n· 95% moisture-wicking polyester, 5% spandex\n· Brushed faux suede finish\n· Fitted silhouette with a comfortable rise\n· Available with worldwide shipping",
+ "details_es": "· Confección exclusiva bajo demanda en EE. UU.\n· 95% poliéster con absorción de humedad y 5% spandex\n· Acabado de ante sintético cepillado\n· Ajuste ceñido de tiro cómodo\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-02_181431.png?v=1788365751",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-02_181501.png?v=1788365751",
@@ -29,8 +43,9 @@
  ],
  "material": "",
  "name_en": "Electric Lime Fitted Shorts",
- "name_es": "Bermuda Electric Lime Fitted",
+ "name_es": "Shorts Ceñidos Electric Lime",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 35.99,
  "rank": 1515,

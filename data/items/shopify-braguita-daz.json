@@ -1,15 +1,29 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "97% polyester, 3% spandex",
  "ai_priority": true,
+ "ai_type": "briefs",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle and studio presentation capturing high luxury codes.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/ropa-interior"
+  "mujer/ropa-interior"
  ],
  "cg": "t-dazmond-emerald-grace-art-briefs",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Crafted from a precise blend of polyester and spandex, this piece offers a four-way stretch fabric that fluidly adapts to every movement. The design prioritizes comfort and breathability through an advanced antimicrobial textile. The regular fit silhouette is finished with a soft elastic waistband ensuring gentle support without indentation. Produced made to order with meticulous attention to detail.",
+ "desc_es": "Confeccionada con una mezcla precisa de poliéster y spandex, esta prenda ofrece un tejido elástico en cuatro direcciones que se adapta con fluidez a cada movimiento. Su diseño prioriza la comodidad y la transpirabilidad gracias a un tejido antimicrobiano avanzado. La silueta de ajuste regular se completa con una suave cinturilla elástica que asegura un soporte delicado sin marcas. Fabricada bajo demanda con atención meticulosa a los detalles.",
+ "details_en": "· Composition: 97% polyester, 3% spandex\n· Four-way stretch fabric\n· Antimicrobial and breathable textile\n· Plush elastic waistband\n· Regular fit\n· Made to order with worldwide shipping",
+ "details_es": "· Composición: 97% poliéster, 3% spandex\n· Tejido elástico en 4 direcciones\n· Tejido antimicrobiano y transpirable\n· Cinturilla elástica de felpa\n· Ajuste regular\n· Fabricado bajo demanda con envíos a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_ylki87ylki87ylki.png?v=1778510545",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_y5v0fvy5v0fvy5v0.png?v=1778510545",
@@ -23,15 +37,16 @@
  "id": "shopify-braguita-daz",
  "img_checked": "2026-11-21",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-357300009-black"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Emerald Grace Art Underwear",
- "name_es": "Ropa Interior Emerald Grace Art",
+ "name_en": "Emerald Grace Briefs",
+ "name_es": "Braguita Emerald Grace",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 29.99,
  "rank": 1406,

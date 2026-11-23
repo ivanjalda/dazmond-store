@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Negro y blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Poliéster",
  "ai_priority": true,
+ "ai_sizes": "Universal",
+ "ai_type": "Gorra de béisbol",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and high-end lifestyle portraits elevate the presentation despite the standard e-commerce size chart graphic.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +23,10 @@
  "cg": "t-gorra-de-beisbol-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This baseball cap combines a structured high-profile design with an exclusive graphic print. Crafted from high-quality polyester, it features a pre-curved visor designed to provide protection against glare. Each piece is made to order to ensure the exclusivity of the DAZMOND & Co. community. Available with worldwide shipping.",
+ "desc_es": "Esta gorra de béisbol combina un diseño estructurado de perfil alto con un estampado gráfico exclusivo. Confeccionada en poliéster de alta calidad, incorpora una visera precurvada diseñada para ofrecer protección contra el deslumbramiento. Cada pieza se elabora bajo demanda para garantizar la exclusividad de la comunidad DAZMOND & Co. Disponible con envío mundial.",
+ "details_en": "· Composition: High-quality polyester\n· 7-panel high-profile structure\n· Pre-curved brim\n· Universal adjustable size\n· Made to order. Worldwide shipping available.",
+ "details_es": "· Composición: Poliéster de alta calidad\n· Estructura de 7 paneles de perfil alto\n· Visera precurvada\n· Talla universal ajustable\n· Hecho a medida. Envío mundial disponible.",
  "display_images": [
   "assets/products/shop/917d5997a287d53deffb.jpg",
   "assets/products/shop/a39ce33ea2ac18b06f78.jpg",
@@ -19,8 +35,7 @@
   "assets/products/shop/20ced7249252a42dbe3c.jpg",
   "assets/products/shop/e801dc6289926075f414.jpg",
   "assets/products/shop/15a5efa2eeeca281c678.jpg",
-  "assets/products/shop/116a6d8e1d0e0ecbd77a.jpg",
-  "assets/products/shop/1fad574489b2e0823839.jpg"
+  "assets/products/shop/116a6d8e1d0e0ecbd77a.jpg"
  ],
  "draft": false,
  "fam": "gorra-beisbol-luxury",
@@ -34,9 +49,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Gorra Béisbol Daz Hat",
- "name_es": "Gorro Gorra Béisbol Daz",
+ "name_en": "DAZ Diamond Art Cap",
+ "name_es": "Gorra DAZ Diamond Art",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 27.99,
  "rank": 1478,
@@ -44,9 +60,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Brim",
+   "Crown",
+   "Hat Width"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Ala",
+   "Corona",
+   "Ancho de gorra"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "57-60cm (22.4\"-23.6\")",
+    "7cm (2.8\")",
+    "13cm (5\")",
+    "18cm (7\")"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/1fad574489b2e0823839.jpg"
+ ],
+ "sizes": [
+  "Universal"
+ ],
  "source_title": "Gorra de béisbol DAZ Luxury",
  "stripe_payment_link": "https://buy.stripe.com/14AcN6evy8uEduS6iq1gQ1e",
  "supplier": "Shopify",

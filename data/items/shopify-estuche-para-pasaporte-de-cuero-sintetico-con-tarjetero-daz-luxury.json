@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Faux leather",
  "ai_priority": true,
+ "ai_sizes": "Unique",
+ "ai_type": "Passport Holder",
+ "ai_ver": 2,
+ "art_note": "Clean studio and lifestyle compositions, though slightly standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,16 +23,17 @@
  "cg": "t-estuche-para-pasaporte-de-cuero-sintetico-con-tarjetero-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate every journey with this refined passport holder. Crafted from durable faux leather twill, this essential accessory combines a compact silhouette with flawless functionality. The black interior offers dedicated slots for cards and identification documents. Designed to keep your travel essentials secure and accessible at all times. Each piece is made to order to ensure absolute exclusivity. Experience seamless transit to every destination with worldwide shipping.",
+ "desc_es": "Eleve cada viaje con este estuche para pasaporte de diseño depurado. Confeccionado en sarga de piel sintética resistente, este accesorio esencial combina una silueta compacta con una funcionalidad impecable. El interior negro contrasta con sutileza, ofreciendo ranuras dedicadas para tarjetas y documentos de identidad. Diseñado para mantener sus esenciales seguros y accesibles en todo momento. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disfrute de un transporte impecable en cada destino con envío a todo el mundo.",
+ "details_en": "· Durable faux leather twill\n· Structured black interior with card slots\n· Compact foldable design\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Sarga de piel sintética resistente\n· Interior negro estructurado con ranuras para tarjetas\n· Diseño plegable compacto\n· Fabricado bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/f70c9db5930c31bc681c.jpg",
   "assets/products/shop/c5c0cc06064c58e4dca0.jpg",
   "assets/products/shop/c3170968dbb85c2de948.jpg",
   "assets/products/shop/3df86e224829881766d6.jpg",
   "assets/products/shop/b188e9118a0a60401680.jpg",
-  "assets/products/shop/55aab7bfc51e8f1b0da1.jpg",
-  "assets/products/shop/aa24c64d0ef342f339b0.jpg"
+  "assets/products/shop/55aab7bfc51e8f1b0da1.jpg"
  ],
  "draft": false,
  "fam": "estuche-pasaporte-cuero",
@@ -32,9 +47,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Estuche Pasaporte Cuero Bag",
- "name_es": "Bolso Estuche Pasaporte Cuero",
+ "name_en": "Diamond Passport Holder",
+ "name_es": "Estuche para Pasaporte Diamond",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1476,
@@ -42,9 +58,39 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Billeteras y clips para billetes > Carteras",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "State",
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Estado",
+   "Ancho",
+   "Altura"
+  ],
+  "notes_en": "Measurements are taken flat. Made to order for exclusive worldwide shipping.",
+  "notes_es": "Las medidas se toman en plano. Pieza confeccionada bajo demanda con envío mundial.",
+  "rows": [
+   [
+    "Folded / Plegado",
+    "10.7 / 4.2",
+    "14.2 / 5.6"
+   ],
+   [
+    "Unfolded / Desplegado",
+    "21.5 / 8.5",
+    "14.2 / 5.6"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/aa24c64d0ef342f339b0.jpg"
+ ],
+ "sizes": [
+  "Unique"
+ ],
  "source_title": "Estuche para pasaporte de cuero sintético con tarjetero DAZ Luxury",
  "stripe_payment_link": "https://buy.stripe.com/aFaaEYevyh1abmK36e1gQ1c",
  "supplier": "Shopify",

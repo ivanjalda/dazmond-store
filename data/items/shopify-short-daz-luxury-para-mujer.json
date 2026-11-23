@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "Azul Imperial",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% Poliéster, 5% Spandex",
  "ai_priority": true,
+ "ai_type": "Shorts",
+ "ai_ver": 2,
+ "art_note": "The imagery features elegant lifestyle settings, but the garment texture and branding appear artificially applied, lacking high-end luxury authenticity.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-dazmond-luxury-sapphire-fitted-shorts",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An expression of vibrant elegance designed to elevate any outfit. These fitted shorts showcase an intense sapphire blue tone that projects sophistication. The soft texture embraces the silhouette firmly, creating an anatomical and flawless figure. The design incorporates exclusive house details on the side. Produced exclusively on demand, ensuring limited units for our global community.",
+ "desc_es": "Una expresión de elegancia vibrante diseñada para elevar cualquier atuendo. Estos shorts ceñidos presentan un tono azul zafiro de gran intensidad que proyecta sofisticación. Su textura suave abraza la silueta con firmeza, creando una figura anatómica e impecable. El diseño incorpora detalles exclusivos de la casa en el lateral. Producidos exclusivamente bajo demanda, aseguran unidades limitadas para nuestra comunidad global.",
+ "details_en": "· Made-to-order production with worldwide shipping\n· Composition: 95% moisture-wicking polyester, 5% spandex\n· Ultrasoft brushed synthetic suede textile finish\n· Fitted cut with anatomical rise and high elasticity",
+ "details_es": "· Confección exclusiva bajo demanda con envíos a todo el mundo\n· Composición: 95% poliéster con absorción de humedad, 5% spandex\n· Acabado textil de ante sintético cepillado ultrasuave\n· Ajuste ceñido de tiro anatómico y alta elasticidad",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-02_184734.png?v=1788367787",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-02_184822.png?v=1788367787",
@@ -28,9 +42,10 @@
   "printful-350906743"
  ],
  "material": "",
- "name_en": "Sapphire Fitted Shorts",
- "name_es": "Bermuda Sapphire Fitted",
+ "name_en": "Royal Sapphire Fitted Shorts",
+ "name_es": "Shorts Ceñidos Royal Sapphire",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 1512,

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% polyester",
  "ai_priority": true,
+ "ai_type": "Jumpsuit",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery with high-end editorial direction and consistent brand tone.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-dazmond-prism-triangle-wide-leg-dungarees",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A bold design proposal balancing geometric minimalism with chromatic dynamism. Set against an absolute black canvas, an all-over pattern of symmetrically arranged small triangles unfolds with a subtle gradient transitioning from magnetic yellows and oranges to deep fuchsia and violet tones. The chest is crowned by the iconic house monogram. This wide-leg camisole silhouette delivers fluid movement and impeccable tailoring volume with every step.",
+ "desc_es": "Una propuesta de diseño audaz que equilibra el minimalismo geométrico con un dinamismo cromático electrizante. Sobre un lienzo negro absoluto, se despliega un patrón integral de pequeños triángulos dispuestos simétricamente, con un sutil degradado que transiciona desde tonos amarillos y anaranjados hasta profundos tonos fucsia y violeta. En el pecho, la pieza es coronada por el icónico monograma de la firma. Esta silueta camisola de pierna ancha aporta un movimiento fluido y un volumen sastrero impecable al caminar.",
+ "details_en": "· 100% premium polyester, 17.85 oz\n· Wide-leg camisole silhouette\n· Wide straps with two metal button closures\n· Lightweight fabric with subtle stretch and natural wrinkle resistance\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· 100% poliéster premium de 17,85 oz\n· Silueta camisola de pierna ancha\n· Tirantes anchos con cierre de dos botones metálicos\n· Tejido ligero con ligera elasticidad y resistencia natural a las arrugas\n· Pieza hecha a pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/af632e254639c7615c1d.jpg",
   "assets/products/shop/230a4f1f1781d4fb7cca.jpg",
@@ -32,9 +46,10 @@
   "printful-350906743"
  ],
  "material": "",
- "name_en": "Prism Triangle Wide Jumpsuit",
- "name_es": "Mono Prism Triangle Wide",
+ "name_en": "Prism Triangle Wide Leg Jumpsuit",
+ "name_es": "Mono Ancho Prism Triangle",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 27.99,
  "rank": 1430,

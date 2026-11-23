@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zuecos-hombre",
+  "calzado-mujer/zuecos"
+ ],
+ "ai_color": "Multi-Color Psychedelic",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% EVA",
  "ai_priority": true,
+ "ai_type": "Clogs",
+ "ai_ver": 2,
+ "art_note": "The lifestyle images capture a sophisticated, high-end aesthetic reminiscent of luxury fashion house campaigns.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-dazmond-cloud-bliss-foam-clogs",
  "color": "\"Cloud Bliss\" — Multi-Color Psychedelic (Diseño íntegramente estampado)",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefine everyday comfort with this artisanal silhouette. Crafted entirely from high-density EVA foam, these clogs offer a cushioned step and exceptional arch support. The design features a high-definition all-over print that brings a distinct visual accent. Each pair is completed with a set of exclusive charms for subtle personalization. Made to order in the United States with worldwide shipping available.",
+ "desc_es": "Redefina el confort cotidiano con esta silueta artesanal. Elaborados íntegramente en espuma EVA de alta densidad, estos zuecos ofrecen una pisada amortiguada y un soporte excepcional para el arco. El diseño presenta una impresión integral de alta definición que aporta un acento visual distintivo. Cada par se completa con un conjunto de dijes exclusivos para una personalización sutil. Fabricados bajo pedido en los Estados Unidos.",
+ "details_en": "· 100% high-density EVA\n· High-definition all-over print\n· Includes interchangeable charm set\n· Made to order in the United States\n· Worldwide shipping available",
+ "details_es": "· 100% EVA de alta densidad\n· Impresión integral de alta definición\n· Incluye set de dijes intercambiables\n· Hecho a pedido en los Estados Unidos\n· Envío a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_avse7aavse7aavse.png?v=1776875870",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_g6i360g6i360g6i3.png?v=1776875871",
@@ -30,9 +45,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Cloud Bliss Foam Clogs",
- "name_es": "Zuecos Cloud Bliss Foam",
+ "name_en": "Cloud Bliss Psychedelic Clogs",
+ "name_es": "Zuecos Cloud Bliss Psychedelic",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 29.99,
  "rank": 1424,

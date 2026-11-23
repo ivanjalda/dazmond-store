@@ -21,7 +21,7 @@
   "mujer/gorros-bufandas"
  ],
  "cg": "t-gorra-de-malla-daz-luxury",
- "color": "",
+ "color": "Black and White",
  "created": "2026-11-19",
  "desc_en": "This mesh cap combines functionality with a refined graphic design. Crafted from high-quality polyester fabric, it features a breathable mesh back for superior comfort. The design incorporates a seven-panel structure and a mid profile that offers a universal fit. It is completed with an adjustable plastic closure at the back. Each piece is made to order to ensure exclusivity. Worldwide shipping available.",
  "desc_es": "Esta gorra de malla combina funcionalidad con un diseño gráfico refinado. Confeccionada en tejido de poliéster de alta calidad, incorpora una parte trasera de malla transpirable para una comodidad superior. El diseño incluye una estructura de siete paneles y un perfil medio que ofrece un ajuste universal. Se completa con un cierre ajustable de plástico en la parte posterior. Cada pieza se confecciona bajo demanda para garantizar la exclusividad. Disponible con envío a todo el mundo.",
@@ -37,6 +37,7 @@
  ],
  "draft": false,
  "fam": "gorra-malla-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-gorra-de-malla-daz-luxury",
  "img_checked": "2026-11-21",
@@ -46,7 +47,7 @@
   "printful-357300009-black",
   "printful-346239758"
  ],
- "material": "",
+ "material": "Polyester",
  "name_en": "Diamond Sketch Mesh Cap",
  "name_es": "Gorra de malla Diamond Sketch",
  "needs_review": false,

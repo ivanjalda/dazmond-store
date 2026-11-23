@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/pantalones"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "95% polyester, 5% elastane (260 g/m²)",
  "ai_priority": true,
+ "ai_type": "pants",
+ "ai_ver": 2,
+ "art_note": "The catalog relies on flat lay product renders and composited model shots that detract from high-end positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,11 @@
  "cg": "t-pantalon-de-vestir-dazmond-noble-line",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Precision and presence in every detail. These trousers feature a structured pleated front and a clean tailored silhouette that transitions effortlessly from professional demands to exclusive social gatherings. Designed to offer a fluid drape and an immaculate presence throughout the day. Each piece is made-to-order with worldwide shipping.",
+ "desc_es": "Precisión y presencia en cada detalle. Este pantalón presenta un frente plisado estructurado y una silueta entallada limpia que transita con naturalidad entre la exigencia profesional y las reuniones sociales más exclusivas. Diseñado para ofrecer una caída fluida y una presencia impecable durante toda la jornada. Cada pieza se elabora bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% elastane (260 g/m²)\n· Pleated front and clean tailored silhouette\n· Zip fly with contrast button closure\n· Belt loops\n· Two front pockets and two button-closure back pockets\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· 95% poliéster, 5% elastano (260 g/m²)\n· Frente plisado y silueta entallada limpia\n· Bragueta con cremallera y botón en contraste\n· Trabillas para cinturón\n· Dos bolsillos delanteros y dos bolsillos traseros con cierre de botón\n· Made-to-order piece with worldwide shipping",
  "display_images": [
-  "assets/products/interestprint-design-all-over-print-mens-dress-pants-1.webp",
-  "assets/products/interestprint-design-all-over-print-mens-dress-pants-2.webp",
-  "assets/products/interestprint-design-all-over-print-mens-dress-pants-3.webp",
-  "assets/products/interestprint-design-all-over-print-mens-dress-pants-4.webp",
-  "assets/products/interestprint-design-all-over-print-mens-dress-pants-5.webp",
   "assets/products/interestprint-design-all-over-print-mens-dress-pants-6.webp"
  ],
  "draft": false,
@@ -29,9 +38,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Pantalón Vestir Noble Trousers · White",
- "name_es": "Pantalón Pantalón Vestir Noble · Blanco",
+ "name_en": "Noble Line Dress Pants",
+ "name_es": "Pantalón de Vestir Noble Line",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
  "rank": 1474,
@@ -39,8 +49,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Hip"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Cadera"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "2XS",
+    "101cm / 39.8in",
+    "72cm / 28.3in",
+    "98cm / 38.6in"
+   ],
+   [
+    "XS",
+    "103cm / 40.6in",
+    "76cm / 29.9in",
+    "102cm / 40.2in"
+   ],
+   [
+    "S",
+    "105cm / 41.3in",
+    "80cm / 31.5in",
+    "106cm / 41.7in"
+   ],
+   [
+    "M",
+    "107cm / 42.1in",
+    "84cm / 33.1in",
+    "110cm / 43.3in"
+   ],
+   [
+    "L",
+    "109cm / 42.9in",
+    "89cm / 35in",
+    "115cm / 45.3in"
+   ],
+   [
+    "XL",
+    "111cm / 43.7in",
+    "94cm / 37in",
+    "120cm / 47.2in"
+   ],
+   [
+    "2XL",
+    "113cm / 44.5in",
+    "100cm / 39.4in",
+    "126cm / 49.6in"
+   ],
+   [
+    "3XL",
+    "115cm / 45.3in",
+    "106cm / 41.7in",
+    "132cm / 52in"
+   ],
+   [
+    "4XL",
+    "117cm / 46.1in",
+    "112cm / 44.1in",
+    "138cm / 54.3in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/interestprint-design-all-over-print-mens-dress-pants-5.webp"
+ ],
  "sizes": [
   "2XS",
   "XS",

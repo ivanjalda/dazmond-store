@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "Crimson red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% Polyester, 5% Spandex",
  "ai_priority": true,
+ "ai_type": "Shorts",
+ "ai_ver": 2,
+ "art_note": "Sophisticated high-end lifestyle photography with exceptional lighting and luxury setting.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-dazmond-art-crimson-passion-fitted-shorts",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A bold silhouette sculpted to project striking dynamism and confident strength. The intense crimson hue communicates a magnetic, resolute presence. Crafted with an ultra-soft handfeel and high elasticity, the piece adapts to the form with absolute fluidity. Subtle house signatures define the garment with unmistakable exclusivity. Available made-to-order with worldwide shipping.",
+ "desc_es": "Una pieza audaz diseñada con una silueta esculpida que aporta dinamismo y fuerza. El tono rojo carmesí transmite una presencia magnética y decidida. Confeccionados con un tacto ultrasuave y una alta elasticidad, se adaptan a la figura con absoluta fluidez. Los detalles sutiles de la casa definen esta prenda con una exclusividad inconfundible. Disponible bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Composition: 95% moisture-wicking polyester, 5% spandex\n· Brushed synthetic suede finish\n· Fitted silhouette with anatomical rise\n· Exclusively made-to-order in the USA",
+ "details_es": "· Composición: 95% poliéster con absorción de humedad, 5% spandex\n· Acabado en ante sintético cepillado\n· Ajuste ceñido de tiro anatómico\n· Confeccionado exclusivamente bajo demanda en EE. UU.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-02_200216.png?v=1788372245",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-02_200231.png?v=1788372244",
@@ -29,9 +43,10 @@
   "printful-350906743"
  ],
  "material": "",
- "name_en": "Art Crimson Passion Shorts",
- "name_es": "Bermuda Art Crimson Passion",
+ "name_en": "Crimson Passion Fitted Shorts",
+ "name_es": "Shorts Ceñidos Crimson Passion",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 35.99,
  "rank": 1514,

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Morado",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% poliéster",
  "ai_priority": true,
+ "ai_type": "Jumpsuit",
+ "ai_ver": 2,
+ "art_note": "Clean studio and flat lay shots are decent, but model images look heavily composited and lack high-end luxury authenticity.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,16 +20,11 @@
  "cg": "t-dazmond-neon-cybergrid-wide-leg-dungarees",
  "color": "Morado",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An avant-garde design proposition inspired by technological futurism and cyberpunk aesthetics. Against a deep black background, a hypnotic geometric all-over pattern of crossed light lines in neon tones is projected. It features a refined sleeveless camisole-style upper design, held by wide straps with classic front metal buttons. The lower part is structured into a wide-leg style trouser that provides fluid, elegant movement. Made to order. Worldwide shipping available.",
+ "desc_es": "Una propuesta de diseño vanguardista que se inspira en el futurismo tecnológico y las corrientes estéticas del cyberpunk. Sobre un fondo negro profundo, se proyecta un hipnótico patrón geométrico e integral de líneas de luz cruzadas en tonos neón. Cuenta con un refinado diseño superior estilo camisola sin mangas, sostenido mediante tirantes anchos con botones metálicos frontales. La parte inferior se estructura en un pantalón de estilo pierna ancha que brinda un movimiento fluido y elegante. Hecho a medida. Envío mundial disponible.",
+ "details_en": "· 100% polyester\n· Wide-leg design\n· Straps with metal buttons\n· Made to order with worldwide shipping available",
+ "details_es": "· 100% poliéster\n· Diseño de pierna ancha\n· Tirantes con botones metálicos\n· Hecho a medida y disponible con envío mundial",
  "display_images": [
-  "assets/products/shop/0a55f53ef3122232c835.jpg",
-  "assets/products/shop/f0bf99a353efdd0c9d7a.jpg",
-  "assets/products/shop/ccc72fdab51ce30b3d4d.jpg",
-  "assets/products/shop/2a33f963abd93289d1b1.jpg",
-  "assets/products/shop/2e0137cc844833754a53.jpg",
-  "assets/products/shop/3c264a33ce4230776c17.jpg",
-  "assets/products/shop/3040e0cb500195dca6d5.jpg",
   "assets/products/shop/f90b7bb03edc92a8f89c.jpg",
   "assets/products/shop/ca2e811991cbcdc2d885.jpg"
  ],
@@ -33,9 +40,10 @@
   "printful-350906743"
  ],
  "material": "",
- "name_en": "Neon Cybergrid Wide Jumpsuit",
- "name_es": "Mono Neon Cybergrid Wide",
+ "name_en": "Neon Cybergrid Wide-Leg Jumpsuit",
+ "name_es": "Mono Ancho Neon Cybergrid",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1426,

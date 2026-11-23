@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% Polyester",
  "ai_priority": true,
+ "ai_type": "Jumpsuit",
+ "ai_ver": 2,
+ "art_note": "High-end campaign imagery with exceptional lighting and curation, though flat product mockups detract slightly.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-dazmond-velvet-kiss-wide-leg-jumpsuit",
  "color": "Verde",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece in velvet is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad en terciopelo se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold proposal balancing organic sobriety with avant-garde provocation. This design highlights high-impact minimalism in a sumptuous olive green hue. The chest features textured black lips graphic art intertwined with a diamond silhouette. It presents a refined sleeveless camisole neckline, wide straps with two metal front button closures, and a wide-leg silhouette that delivers fluidity and effortless movement.",
+ "desc_es": "Una audaz propuesta que equilibra la sobriedad orgánica con la provocación vanguardista. Este diseño destaca por su minimalismo de alto impacto en un suntuoso color verde oliva. El pecho incorpora un arte gráfico de labios negros texturizados entrelazados con la silueta de un diamante. Presenta un refinado escote camisola sin mangas, tirantes anchos con cierre de dos botones frontales metálicos y una silueta de pierna ancha que aporta fluidez y movimiento libre.",
+ "details_en": "· 100% selected polyester\n· Sleeveless camisole neckline\n· Two metal front button closures\n· Wide-leg silhouette\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% poliéster seleccionado\n· Escote camisola sin mangas\n· Cierre de dos botones frontales metálicos\n· Silueta de pierna ancha\n· Made to order\n· Worldwide shipping",
  "display_images": [
   "assets/products/shop/9f87137c2db994a17639.jpg",
   "assets/products/shop/98a852cd107842f8eaf3.jpg",
@@ -18,9 +32,7 @@
   "assets/products/shop/0068115682d75f2ffec0.jpg",
   "assets/products/shop/286c3fc18ca8ed7f809a.jpg",
   "assets/products/shop/430b13f4868c7312c3c3.jpg",
-  "assets/products/shop/8e7b2a6df21bb1bf2e63.jpg",
-  "assets/products/shop/00dd8c4b3898a9e34612.jpg",
-  "assets/products/shop/3abb2aea3f03516aa237.jpg"
+  "assets/products/shop/8e7b2a6df21bb1bf2e63.jpg"
  ],
  "draft": false,
  "fam": "velvet-kiss-wide",
@@ -34,9 +46,10 @@
   "printful-350906743"
  ],
  "material": "",
- "name_en": "Velvet Kiss Wide Jumpsuit · Olive",
- "name_es": "Mono Velvet Kiss Wide · Oliva",
+ "name_en": "Olive Velvet Kiss Wide-Leg Jumpsuit",
+ "name_es": "Mono Ancho Olive Velvet Kiss",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1425,

@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "PU leather",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Backpack",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shots with sharp printing clarity, though presentation leans slightly generic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +23,10 @@
  "cg": "t-mochila-daz-art-de-pu-para-viajes",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A fusion of modern utility and sophisticated design. Crafted from durable PU leather, this backpack showcases an all-over print inspired by palatial architecture beneath a starry night sky. Equipped with high-capacity interior and exterior compartments, alongside a secure anti-theft zippered back panel design. Structured top handles and adjustable shoulder straps ensure seamless comfort on every journey. Available exclusively made to order with worldwide shipping.",
+ "desc_es": "Una fusión de utilidad moderna y diseño sofisticado. Confeccionada en duradero cuero sintético de poliuretano, esta mochila presenta un estampado integral inspirado en la arquitectura palaciega bajo un cielo nocturno estrellado. Equipada con compartimentos interiores y exteriores de gran capacidad, así como un diseño antirrobo en el panel posterior con cremallera. Las asas superiores estructuradas y las correas ajustables para los hombros aseguran una comodidad impecable en cada trayecto. Disponible exclusivamente bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Crafted from PU leather\n· Anti-theft design with zippered back pocket\n· Multiple interior and exterior compartments\n· Adjustable double shoulder straps and top carry handle\n· Regular cleaning with a dry cloth recommended",
+ "details_es": "· Confeccionada en cuero sintético de poliuretano\n· Diseño antirrobo con bolsillo trasero con cremallera\n· Múltiples compartimentos interiores y exteriores\n· Correas de hombro dobles ajustables y asa superior\n· Se recomienda limpiar regularmente con un paño seco",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958143-1-Dwy44dB4HK.jpg?v=1727958279",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958143-2-Dwy44dB4HK.jpg?v=1727958283",
@@ -18,10 +34,7 @@
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958143-4-Dwy44dB4HK.jpg?v=1727958289",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958143-5-Dwy44dB4HK.jpg?v=1727958293",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958143-6-Dwy44dB4HK.jpg?v=1727958297",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958143-7-Dwy44dB4HK.jpg?v=1727958302",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958143-8-Dwy44dB4HK.jpg?v=1727958305",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240326104023-Cec0RgXko8_24c9f9ee-eb01-49a3-82d8-06ffd5d1c575.jpg?v=1727958308",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240326104028-3EzRkBKcaY_d6713955-41da-4d00-a858-2474daf76b9d.jpg?v=1727958311"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240326104023-Cec0RgXko8_24c9f9ee-eb01-49a3-82d8-06ffd5d1c575.jpg?v=1727958308"
  ],
  "draft": false,
  "fam": "mochila-art-pu",
@@ -38,6 +51,7 @@
  "name_en": "PU Leather Printed Backpack",
  "name_es": "Mochila Estampada de Piel PU",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1340,
@@ -45,9 +59,39 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Height",
+   "Width",
+   "Thickness"
+  ],
+  "headers_es": [
+   "Altura",
+   "Ancho",
+   "Grosor"
+  ],
+  "notes_en": "Made to order piece with worldwide shipping.",
+  "notes_es": "Pieza confeccionada bajo demanda con envío a todo el mundo.",
+  "rows": [
+   [
+    "39 cm",
+    "35 cm",
+    "16 cm"
+   ],
+   [
+    "15.4 in",
+    "13.8 in",
+    "6.3 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727958143-8-Dwy44dB4HK.jpg?v=1727958305"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Mochila DAZ Art de PU para viajes",
  "stripe_payment_link": "https://buy.stripe.com/dRmeVe9beh1aaiG8qy1gP38",
  "supplier": "Shopify",

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% poliéster",
  "ai_priority": true,
+ "ai_type": "jacket",
+ "ai_ver": 2,
+ "art_note": "The close-up details shot achieves a clean, high-end studio aesthetic, while the mockup-based model shots feel flat and detract from the luxury positioning.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,15 +20,14 @@
  "cg": "t-chaqueta-cortavientos-dazmond-monogram-heritage-con-capucha",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An outerwear piece balancing visual presence and technical practicality. The all-over monogram print in gold tones against a cream background brings a refined identity, while the contrast of the black zipper defines its structure. Designed to protect against the wind with a serene aesthetic during travel, urban walks, or transitional days.",
+ "desc_es": "Una prenda exterior que equilibra presencia visual y practicidad técnica. Su estampado monograma integral en tonos dorados sobre fondo crema aporta una identidad refinada, mientras que el contraste de su cremallera negra define su estructura. Diseñada para proteger del viento con una estética serena en viajes, paseos urbanos o días de entretiempo.",
+ "details_en": "· 100% polyester, 88 g/m² with a soft cotton-like feel\n· Scuba-style high collar and hood with adjustable black drawstring\n· Full front black zipper closure\n· Two functional side pockets\n· Elastic cuffs and hem\n· Made to order and available with worldwide shipping",
+ "details_es": "· 100% poliéster, 88 g/m² con tacto suave tipo algodón\n· Cuello elevado tipo scuba y capucha con cordón ajustable negro\n· Cremallera frontal completa en negro\n· Dos bolsillos laterales funcionales\n· Puños y bajo elásticos\n· Hecho a medida y disponible con envío mundial",
  "display_images": [
-  "assets/products/shop/90b07d450522e72e0c7d.jpg",
   "assets/products/shop/4afc84572cedca024cad.jpg",
   "assets/products/shop/5104398d7e2cf5c4a7e3.jpg",
   "assets/products/shop/8e139335adde6afba8ff.jpg",
-  "assets/products/shop/15ccdc1eeb3ba4cac1ea.jpg",
-  "assets/products/shop/b1ae7e286e2643aa1827.jpg",
   "assets/products/shop/3da227443d98766b350f.jpg"
  ],
  "draft": false,
@@ -31,9 +42,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Cortavientos Monogram Jacket · White",
- "name_es": "Chaqueta Cortavientos Monogram · Blanco",
+ "name_en": "Monogram Heritage Windbreaker Jacket",
+ "name_es": "Chaqueta Cortavientos Monogram Heritage",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 33.99,
  "rank": 1516,
@@ -41,8 +53,124 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve",
+   "Cuff",
+   "Hem"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Hombro",
+   "Manga",
+   "Puño",
+   "Dobladillo"
+  ],
+  "notes_en": "Manual measurement may vary by 2-3 cm.",
+  "notes_es": "Las medidas manuales pueden variar de 2 a 3 cm.",
+  "rows": [
+   [
+    "XS",
+    "62.00 / 24.41",
+    "85.00 / 33.46",
+    "37.50 / 14.76",
+    "61.00 / 24.02",
+    "20.00 / 7.87",
+    "74.00 / 29.13"
+   ],
+   [
+    "S",
+    "64.00 / 25.20",
+    "90.00 / 35.43",
+    "39.00 / 15.35",
+    "62.50 / 24.61",
+    "21.50 / 8.46",
+    "78.00 / 30.71"
+   ],
+   [
+    "M",
+    "66.00 / 25.98",
+    "95.50 / 37.60",
+    "41.00 / 16.14",
+    "64.00 / 25.20",
+    "23.00 / 9.06",
+    "83.00 / 32.68"
+   ],
+   [
+    "L",
+    "68.00 / 26.77",
+    "103.00 / 40.55",
+    "43.50 / 17.13",
+    "65.50 / 25.79",
+    "24.50 / 9.65",
+    "89.00 / 35.04"
+   ],
+   [
+    "XL",
+    "70.00 / 27.56",
+    "110.50 / 43.50",
+    "46.00 / 18.11",
+    "67.00 / 26.38",
+    "26.00 / 10.24",
+    "95.00 / 37.40"
+   ],
+   [
+    "2XL",
+    "72.00 / 28.35",
+    "117.00 / 46.06",
+    "48.00 / 18.90",
+    "68.50 / 26.97",
+    "27.50 / 10.83",
+    "101.00 / 39.76"
+   ],
+   [
+    "3XL",
+    "74.00 / 29.13",
+    "124.00 / 48.82",
+    "50.00 / 19.69",
+    "70.00 / 27.56",
+    "29.00 / 11.42",
+    "107.00 / 42.13"
+   ],
+   [
+    "4XL",
+    "76.00 / 29.92",
+    "131.00 / 51.57",
+    "52.00 / 20.47",
+    "71.50 / 28.15",
+    "30.50 / 12.01",
+    "113.00 / 44.49"
+   ],
+   [
+    "5XL",
+    "78.00 / 30.71",
+    "138.00 / 54.33",
+    "54.00 / 21.26",
+    "73.00 / 28.74",
+    "31.50 / 12.40",
+    "119.00 / 46.85"
+   ],
+   [
+    "6XL",
+    "80.00 / 31.50",
+    "145.00 / 57.09",
+    "56.00 / 22.05",
+    "74.50 / 29.33",
+    "32.50 / 12.80",
+    "125.00 / 49.21"
+   ]
+  ],
+  "unit": "cm / inch"
+ },
+ "size_guide": [
+  "assets/products/shop/b1ae7e286e2643aa1827.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

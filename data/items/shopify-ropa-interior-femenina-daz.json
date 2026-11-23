@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Beige",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "97% Polyester, 3% Spandex",
  "ai_priority": true,
+ "ai_type": "Underwear",
+ "ai_ver": 2,
+ "art_note": "The editorial campaign imagery successfully elevates the intimates into a luxury lifestyle narrative, contrasting with the basic flat ghost mannequin shots.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,16 +20,16 @@
  "cg": "t-dazmond-sleepy-cats-meow",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An intimate piece designed to offer maximum comfort without compromising playful and authentic style. Crafted from a medium-weight fabric with four-way stretch, this garment adapts flexibly to the silhouette. It features a soft black plush elastic waistband that provides support throughout the day. The design is completed by an all-over print on a warm beige background and the house monogram at the front. Made to order with worldwide shipping.",
+ "desc_es": "Una pieza íntima pensada para brindar máxima comodidad sin perder el estilo divertido y auténtico. Elaborada en un tejido de peso medio con elasticidad en cuatro direcciones, esta prenda se adapta con total flexibilidad a la silueta. Cuenta con una suave cinturilla elástica de felpa en tono negro que ofrece soporte durante toda la jornada. El diseño se completa con un estampado integral sobre fondo beige y el monograma de la casa en el frontal. Fabricado bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Composition: 97% polyester, 3% spandex\n· Fabric weight: 180 g/m² (5.3 oz/yd²)\n· Technical properties: 4-way stretch, breathable and antimicrobial fabric\n· Fit: regular fit with soft plush elastic waistband\n· Details: all-over print and front monogram\n· Made to order in the USA",
+ "details_es": "· Composición: 97% poliéster, 3% spandex\n· Peso de la tela: 180 g/m² (5,3 oz/yd²)\n· Propiedades técnicas: elasticidad en 4 direcciones, tejido transpirable e antimicrobiano\n· Corte: ajuste regular con cinturilla elástica de felpa suave\n· Detalles: estampado integral y monograma frontal\n· Fabricado bajo demanda en EE. UU.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-04_175713.png?v=1788537489",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-04_175554.png?v=1788537489",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-04_175626.png?v=1788537489",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-04_175502.png?v=1788537489",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-04_175518.png?v=1788537489",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/14014153827819106159_2048.jpg?v=1720640589",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/521532537296172230_2048.jpg?v=1720640596"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Captura_de_pantalla_2026-09-04_175518.png?v=1788537489"
  ],
  "draft": false,
  "fam": "sleepy-cats-meow",
@@ -31,9 +43,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Sleepy Cats Meow Underwear",
- "name_es": "Ropa Interior Sleepy Cats Meow",
+ "name_en": "Sleepy Cats Meow Briefs",
+ "name_es": "Braguita Sleepy Cats Meow",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
  "rank": 1479,

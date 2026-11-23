@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Blanco y azul",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Poliéster",
  "ai_priority": true,
+ "ai_type": "Chaleco acolchado",
+ "ai_ver": 2,
+ "art_note": "Flat-rendered graphics on studio mockups lack the tactile depth and atmosphere expected in a luxury fashion campaign.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,15 +22,16 @@
  "cg": "t-chaleco-acolchado-unisex-ligero-con-cuello-alto-y-estampado-integral-con-cremallera",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined interpretation of essential outerwear. This quilted puffer vest features a sleeveless silhouette with an all-over rose print and a structured stand collar. Tailored from polyester fabric with warm insulation for colder months. Complete with a full front zip closure and functional front pockets. A versatile garment designed for the winter season, available with worldwide shipping and made-to-order craftsmanship.",
+ "desc_es": "Una interpretación refinada de la ropa de abrigo esencial. Este chaleco acolchado presenta un diseño sin mangas con un estampado integral de rosas y un cuello alto estructurado. Confeccionado con tejido de poliéster y relleno aislante para los meses más fríos. Incorpora cierre frontal de cremallera completa y bolsillos delanteros funcionales. Una prenda versátil diseñada para la temporada de invierno con envíos a todo el mundo y confección bajo pedido.",
+ "details_en": "· Composition: Polyester fabric and warm filling\n· Design: Sleeveless with stand collar and all-over print\n· Closure: Full front zip fastening\n· Pockets: Two front pockets\n· Care: Machine washable in cold water (maximum 40 ℃ or 104 ℉); do not tumble dry; do not expose to sun or bleach\n· Made to order and worldwide shipping",
+ "details_es": "· Composición: Tejido de poliéster y relleno cálido\n· Diseño: Sin mangas con cuello alto y estampado integral\n· Cierre: Cremallera completa frontal\n· Bolsillos: Dos bolsillos delanteros\n· Cuidado: Lavable a máquina con agua fría (máximo 40 ℃ o 104 ℉); no secar en secadora; no exponer al sol ni usar lejía\n· Confección bajo pedido y envíos a todo el mundo",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727889812-1-78CJ6zB1av.jpg?v=1727889869",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727889812-2-78CJ6zB1av.jpg?v=1727889873",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727889812-3-78CJ6zB1av.jpg?v=1727889876",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1727889812-4-78CJ6zB1av.jpg?v=1727889879",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20231205171705-N3kkS3hfdE_a0b6f420-d9b9-4f65-aa59-0e98723613f1.jpg?v=1727889882",
-  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240805151559-gsKN3ZfYuu_755c2a87-9076-464e-965a-59f6dffd952e.jpg?v=1727889885"
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20231205171705-N3kkS3hfdE_a0b6f420-d9b9-4f65-aa59-0e98723613f1.jpg?v=1727889882"
  ],
  "draft": false,
  "fam": "chaleco-acolchado-unisex",
@@ -31,9 +45,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Chaleco Acolchado Ligero Vest",
- "name_es": "Chaleco Chaleco Acolchado Ligero",
+ "name_en": "Stand collar puffer vest",
+ "name_es": "Chaleco acolchado de cuello alto",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1412,
@@ -41,8 +56,86 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Chalecos y chaquetas deportivas > Chalecos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest",
+   "Shoulder",
+   "Hem Width"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud",
+   "Pecho",
+   "Hondo",
+   "Ancho del dobladillo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "M",
+    "62.5cm(24.6\")",
+    "104cm(40.9\")",
+    "42.2cm(16.6\")",
+    "100cm(39.4\")"
+   ],
+   [
+    "L",
+    "64.5cm(25.4\")",
+    "108cm(42.5\")",
+    "43.4cm(17.0\")",
+    "104cm(40.9\")"
+   ],
+   [
+    "XL",
+    "66.5cm(26.2\")",
+    "112cm(44.1\")",
+    "44.6cm(17.5\")",
+    "108cm(42.5\")"
+   ],
+   [
+    "2XL",
+    "68.5cm(27.0\")",
+    "116cm(45.7\")",
+    "45.8cm(18.0\")",
+    "112cm(44.1\")"
+   ],
+   [
+    "3XL",
+    "70.5cm(27.8\")",
+    "120cm(47.2\")",
+    "47.0cm(18.5\")",
+    "116cm(44.7\")"
+   ],
+   [
+    "4XL",
+    "72.5cm(28.5\")",
+    "124cm(48.8\")",
+    "48.2cm(19.0\")",
+    "120cm(47.2\")"
+   ],
+   [
+    "5XL",
+    "74.5cm(29.3\")",
+    "128cm(50.4\")",
+    "49.4cm(19.4\")",
+    "124cm(48.8\")"
+   ],
+   [
+    "6XL",
+    "76.5cm(30.1\")",
+    "132cm(52.0\")",
+    "50.6cm(19.9\")",
+    "128cm(50.4\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20240805151559-gsKN3ZfYuu_755c2a87-9076-464e-965a-59f6dffd952e.jpg?v=1727889885"
+ ],
  "sizes": [
   "M",
   "L",

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% polyester",
  "ai_priority": true,
+ "ai_type": "jumpsuit",
+ "ai_ver": 2,
+ "art_note": "High-end editorial lifestyle imagery that elevates the minimalist design with sophisticated lighting and location styling.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-dazmond-stardust-monochrome-wide-leg-dungarees",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A design evoking the magic of the nocturnal firmament through a purist and minimalist lens. Against an immaculate optical white canvas, an all-over deep black star print unfolds with subtle artistic variations. The chest features the iconic house monogram rendered in fluid black calligraphy. Tailored sophistication merges with urban freedom in a wide-leg silhouette that grants theatrical, fluid movement with every step. Made to order. Worldwide shipping.",
+ "desc_es": "Una propuesta que evoca la magia del firmamento nocturno bajo una óptica purista y minimalista. Sobre un lienzo blanco óptico inmaculado, se despliega un estampado integral de estrellas en negro profundo con sutiles variaciones artísticas. El pecho luce el icónico monograma de la casa plasmado en una fluida tipografía caligráfica negra. La sofisticación sastrera se fusiona con la libertad urbana en una silueta de pernera ancha que otorga un movimiento teatral y fluido en cada paso. Made to order. Worldwide shipping.",
+ "details_en": "· 100% polyester\n· Wide straps with double front button closure\n· Cami-style neckline\n· Wide-leg trousers\n· Made to order pieces\n· Worldwide shipping",
+ "details_es": "· 100% poliéster\n· Tirantes anchos con cierre doble de botones frontales\n· Escote estilo camisola\n· Pantalón de pernera ancha\n· Made to order pieces\n· Worldwide shipping",
  "display_images": [
   "assets/products/shop/99b66368fb447f3c6412.jpg",
   "assets/products/shop/e7b3be70763cb9167add.jpg",
@@ -32,9 +46,10 @@
   "printful-350906743"
  ],
  "material": "",
- "name_en": "Stardust Monochrome Wide Jumpsuit",
- "name_es": "Mono Stardust Monochrome Wide",
+ "name_en": "Stardust Monochrome Jumpsuit",
+ "name_es": "Mono Stardust Monochrome",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 27.99,
  "rank": 1427,

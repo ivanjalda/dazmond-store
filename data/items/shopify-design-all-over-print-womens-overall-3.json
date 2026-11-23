@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% Polyester",
  "ai_priority": true,
+ "ai_type": "Jumpsuit",
+ "ai_ver": 2,
+ "art_note": "Editorial lifestyle imagery captures high fashion sensibility, though flat mockups lack the same polish.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,16 +20,16 @@
  "cg": "t-dazmond-urban-collage-wide-leg-dungarees",
  "color": "Marrón",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A bold expression of contemporary aesthetics. This wide-leg jumpsuit features an abstract print inspired by urban art. Warm tones and vibrant accents intertwine fluidly within a sophisticated silhouette. Wide straps and a camisole neckline define a modern structure. Made to order. Worldwide shipping.",
+ "desc_es": "Una expresion audaz de la estetica contemporanea. Este mono de pierna ancha presenta un estampado abstracto inspirado en el arte urbano. Tonos calidos y acentos vibrantes se entrelazan con fluidez en una silueta sofisticada. Los tirantes anchos y el escote camisola definen una estructura moderna. Made to order. Worldwide shipping.",
+ "details_en": "· 100% selected polyester\n· Wide-leg silhouette\n· Camisole neckline with wide straps\n· Front closure with two metal buttons\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% poliéster seleccionado\n· Silueta de pierna ancha\n· Escote camisola con tirantes anchos\n· Cierre frontal de dos botones metálicos\n· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/128f17146a7d2dbfb397.jpg",
   "assets/products/shop/7fc46355fa54453f8195.jpg",
   "assets/products/shop/6724559eb257ae52d021.jpg",
   "assets/products/shop/25619832faed36d48434.jpg",
-  "assets/products/shop/ad713224ab63e2a2859f.jpg",
-  "assets/products/shop/f723bcbf0efe30df6c02.jpg",
-  "assets/products/shop/eca4f4b942033fe4eb9f.jpg"
+  "assets/products/shop/ad713224ab63e2a2859f.jpg"
  ],
  "draft": false,
  "fam": "urban-collage-wide",
@@ -31,9 +43,10 @@
   "printful-350906743"
  ],
  "material": "",
- "name_en": "Urban Collage Wide Jumpsuit",
- "name_es": "Mono Urban Collage Wide",
+ "name_en": "Urban Collage Wide-Leg Jumpsuit",
+ "name_es": "Mono Amplio Estampado Urban Collage",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1428,

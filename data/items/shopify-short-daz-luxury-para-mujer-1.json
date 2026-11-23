@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "Amarillo neón",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% Poliéster con absorción de humedad, 5% Spandex",
  "ai_priority": true,
+ "ai_type": "Pantalones cortos",
+ "ai_ver": 2,
+ "art_note": "High-end luxury lifestyle imagery with excellent lighting, framing, and sophisticated ambience.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-dazmond-luxury-solar-flare-fitted-shorts",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A fusion of intense luminosity and sophistication. These fitted shorts stand out in a vibrant tone designed to captivate. The ultrasoft texture wraps firmly around the silhouette, sculpting natural lines with elegance. The design is completed with a refined golden detail at the hip.",
+ "desc_es": "Una fusión de luminosidad intensa y sofisticación. Estos shorts ceñidos destacan por un tono vibrante diseñado para cautivar miradas. La textura ultrasuave envuelve la silueta con firmeza, esculpiendo las líneas naturales con elegancia. El diseño se completa con un refinado detalle dorado en la cadera.",
+ "details_en": "· Composition: 95% moisture-wicking polyester, 5% spandex\n· Brushed synthetic suede textile finish\n· Fitted cut with ergonomic rise\n· Exclusive made-to-order manufacturing in the USA",
+ "details_es": "· Composición: 95% poliéster con absorción de humedad, 5% spandex\n· Acabado textil de ante sintético cepillado\n· Corte ceñido de tiro ergonómico\n· Confección exclusiva bajo demanda en EE. UU.",
  "display_images": [
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Capturadepantalla2026-09-02195109.png?v=1788371501",
   "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Capturadepantalla2026-09-02195052.png?v=1788371500",
@@ -28,8 +42,9 @@
  ],
  "material": "",
  "name_en": "Solar Flare Fitted Shorts",
- "name_es": "Bermuda Solar Flare Fitted",
+ "name_es": "Shorts Ceñidos Solar Flare",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 35.99,
  "rank": 1513,
