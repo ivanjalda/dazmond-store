@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Washed Maroon",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on flat background, standard e-commerce aesthetic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-388090129",
  "color": "Washed Maroon",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A contemporary reinterpretation of the casual silhouette. This oversized t-shirt features a subtle garment-dyed finish in washed maroon. Designed with a structured volume that delivers fluidity and modernity. Crafted to provide an immaculate presence for daily wear. Each piece is made to order. Worldwide shipping is available.",
+ "desc_es": "Una reinterpretación contemporánea de la silueta casual. Esta camiseta oversize destaca por su sutil acabado garment-dyed en tono washed maroon. Con un volumen estudiado que aporta fluidez y modernidad. Diseñada para ofrecer una presencia impecable en el uso diario. Cada pieza se confecciona bajo pedido en nuestras instalaciones. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/775/775b5db716262c532461b8e74c64e072_preview.png"
  ],
@@ -29,6 +43,7 @@
  "name_en": "DAZ Oversized Garment-Dyed T-Shirt · Washed Maroon",
  "name_es": "Camiseta Oversize Garment-Dyed DAZ · Washed Maroon",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 92,

@@ -1772,6 +1772,7 @@
       "fam": "camiseta-oversize-luxury",
       "cg": "printful-388090129",
       "color": "Vintage White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/5b3/5b31893a6fd110cc42caaceca279ed29_preview.png"
     },
     {
@@ -1792,6 +1793,7 @@
       "fam": "camiseta-oversize-luxury",
       "cg": "printful-388090129",
       "color": "Washed Black",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/f68/f68784604f5cf0c519af990e4a2cdb94_preview.png"
     },
     {
@@ -1812,6 +1814,7 @@
       "fam": "camiseta-oversize-luxury",
       "cg": "printful-388090129",
       "color": "Washed Maroon",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/775/775b5db716262c532461b8e74c64e072_preview.png"
     },
     {
@@ -2054,8 +2057,8 @@
     },
     {
       "id": "printful-368164279-charcoal-black-triblend",
-      "name_es": "Camiseta Daz Manga Larga · Charcoal-Black Triblend",
-      "name_en": "Daz Manga Larga Tee · Charcoal-Black Triblend",
+      "name_es": "Sudadera Ligera de Manga Larga · Charcoal-Black Triblend",
+      "name_en": "Lightweight Long Sleeve Hoodie · Charcoal-Black Triblend",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -2070,12 +2073,13 @@
       "fam": "camiseta-luxury-manga",
       "cg": "printful-368164279",
       "color": "Charcoal-Black Triblend",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/8d3/8d330196278edc0d8d855cf089637060_preview.png"
     },
     {
       "id": "printful-368164279-grey-triblend",
-      "name_es": "Camiseta Daz Manga Larga · Grey Triblend",
-      "name_en": "Daz Manga Larga Tee · Grey Triblend",
+      "name_es": "Sudadera Ligera de Manga Larga · Grey Triblend",
+      "name_en": "Lightweight Long Sleeve Hoodie · Grey Triblend",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -2094,8 +2098,8 @@
     },
     {
       "id": "printful-368164279-heather-navy",
-      "name_es": "Camiseta Daz Manga Larga · Heather Navy",
-      "name_en": "Daz Manga Larga Tee · Heather Navy",
+      "name_es": "Sudadera Ligera de Manga Larga · Heather Navy",
+      "name_en": "Lightweight Long Sleeve Hoodie · Heather Navy",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -2114,8 +2118,8 @@
     },
     {
       "id": "printful-368164279-white",
-      "name_es": "Camiseta Daz Manga Larga · Blanco",
-      "name_en": "Daz Manga Larga Tee · White",
+      "name_es": "Sudadera Ligera de Manga Larga · Blanco",
+      "name_en": "Lightweight Long Sleeve Hoodie · White",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [

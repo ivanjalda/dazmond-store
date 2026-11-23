@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Charcoal-Black Triblend",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Hooded Long Sleeve Tee",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait with natural lighting, though commercial styling leans casual rather than high luxury.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368164279",
  "color": "Charcoal-Black Triblend",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reinterpretation of essential lines. This piece fuses lightness with a sober presence. Designed for fluid, versatile wear. Crafted to order. Worldwide shipping available.",
+ "desc_es": "Una reinterpretación contemporánea de las líneas esenciales. Esta prenda fusiona la ligereza con una presencia sobria. Diseñada para un uso versátil y fluido. Confeccionada bajo demanda. Envío mundial disponible.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/8d3/8d330196278edc0d8d855cf089637060_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Daz Manga Larga Tee · Charcoal-Black Triblend",
- "name_es": "Camiseta Daz Manga Larga · Charcoal-Black Triblend",
+ "name_en": "Lightweight Long Sleeve Hoodie · Charcoal-Black Triblend",
+ "name_es": "Sudadera Ligera de Manga Larga · Charcoal-Black Triblend",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 105,
