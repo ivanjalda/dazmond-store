@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T16:41:53Z",
+  "updated": "2026-11-23T17:41:55Z",
   "products": [
     {
       "id": "printful-365090873",
@@ -201239,7 +201239,6 @@
       "supplier_id": "bolso-daz-luxury-con-forma-de-libro-2",
       "source_title": "Bolso DAZ Luxury con forma de libro",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "cost_usd": 18.29,
@@ -201274,8 +201273,8 @@
       "source_text": "Bolso DAZ Luxury con forma de libro Bags Maletas y bolsos de viaje > Bandoleras grandes Bolso con temática de libros para amantes de la literatura - Regalo ideal para lectores y amantes de la lectura - ¡Bolso de mano y bandolera! Con un amplio interior y un monedero, mantiene tus objetos esenciales organizados. Disponible en dos tamaños y adornado con detalles metálicos dorados, es el accesorio perfecto para proteger tus libros con un toque de moda. Cuenta con una correa de hombro ajustable para llevarlo cómodamente en un solo hombro. \n * Dos tamaños: Largo x Alto x Ancho: P / G (P: 8.3 x 6 x 1.58 pulgadas / Largo: 9.8 x 7.5 x 2 pulgadas) \n * Cuero sintético de primera calidad: Esta funda de cuero sintético ofrece una durabilidad y un estilo excepcionales, garantizando una protección duradera para tus preciados libros. \n * Opciones de almacenamiento versátiles: Equipada con un amplio espacio y un monedero interior, ofrece un práctico espacio para guardar notas, marcapáginas y otros artículos esenciales. \n * Diseño moderno: El ribete metálico dorado en las esquinas inferiores izquierda y derecha le da un toque elegante y moderno. \n * Correa de hombro ajustable: Cuenta con una correa de hombro ajustable y extraíble para llevarlo cómodamente en un solo hombro, lo que facilita su portabilidad. \n * Cierre seguro: El cierre de hebilla garantiza que tu libro permanezca protegido y sea fácilmente accesible. \n REGALO IDEAL PARA BIBLIOFILOS: Perfecto para Navidad, cumpleaños y otras celebraciones. Muestra tu pasión por los regalos y accesorios inspirados en libros. Una ex",
       "name_es": "Bolso Bandolera Literario",
       "name_en": "Literary Crossbody Bag",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "desc_es": "Una silueta estructurada inspirada en la encuadernación editorial. Confeccionado en piel sintética con un acabado caleidoscópico y herrajes metálicos dorados en las esquinas, este bolso fusiona literatura y diseño contemporáneo. Su interior organizado cuenta con un compartimento monedero para resguardar lo esencial. Se completa con una correa de hombro ajustable y extraíble que permite llevarlo cruzado o como bolso de mano.",
+      "desc_en": "A structured silhouette inspired by archival bookbinding. Crafted in smooth synthetic leather with an iridescent, prismatic motif and polished gold-tone metal corner hardware. The interior is partitioned with an integrated coin purse to secure personal essentials. Finished with a detachable and adjustable shoulder strap, transitioning effortlessly from a crossbody to an architectural clutch.",
       "price_usd": 35.99,
       "margin_pct": 21.6,
       "images_original": [
@@ -201315,10 +201314,10 @@
       "rank": 1565,
       "badge": "new",
       "look": [
-        "printful-365090873",
-        "printful-351492575-black",
-        "printful-361906822",
-        "printful-357300009-black"
+        "printful-383192424-black",
+        "printful-379237645",
+        "printful-338164153",
+        "printful-337647274-dusty-rose"
       ],
       "page": true,
       "shipping_usd": 8.0,
@@ -201337,7 +201336,72 @@
       "img_checked": "2026-11-22",
       "cg": "t-bolso-daz-luxury-con-forma-de-libro",
       "shop_category": "Maletas y bolsos de viaje > Bandoleras grandes",
-      "ai_fail": 2
+      "ai_fail": 2,
+      "art_score": 6,
+      "art_note": "Clean e-commerce product renders on white, but rendered aesthetic lacks high-fashion studio lighting and editorial depth.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/3cf20b3e018e279ab437.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/7d453ae19f554365cf54.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/d4672a6c7445adeb3a55.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/a89b0f28ccc4924ea993.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/8774d76020c818a708b1.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/8671e366c2a2fb01df84.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/cc35547aeab83cdf9c44.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/49f8617cdf25e1325225.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/f9d3645bd9435300a4a2.jpg",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "crossbody_bag",
+      "ai_gender": "women",
+      "ai_color": "multicolor",
+      "ai_material": "cuero sintético",
+      "ai_cats": [
+        "mujer/bolsos-carteras"
+      ],
+      "details_es": "· Confección en piel sintética\n· Detalles metálicos en acabado dorado en las esquinas\n· Cierre de hebilla\n· Interior espacioso con monedero integrado\n· Correa de hombro ajustable y extraíble\n· Confección bajo pedido\n· Envío a todo el mundo",
+      "details_en": "· Synthetic leather construction\n· Gold-tone metal corner hardware\n· Buckle closure\n· Spacious interior with integrated coin purse\n· Adjustable and detachable shoulder strap\n· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-bolso-daz-luxury-con-forma-de-libro-3",
@@ -201354,8 +201418,8 @@
       ],
       "needs_review": false,
       "created": "2026-11-19",
-      "material": "",
-      "color": "",
+      "material": "Synthetic Leather",
+      "color": "Purple",
       "raw_images": [
         "assets/products/shop/64951cd3d2d13068e22c.jpg",
         "assets/products/shop/9127303f4d9250222808.jpg",
@@ -201406,9 +201470,9 @@
         "L": "NKQDXD8N-2"
       },
       "details_src": "Bolso con temática de libros para amantes de la literatura - Regalo ideal para lectores y amantes de la lectura - ¡Bolso de mano y bandolera! Con un amplio interior y un monedero, mantiene tus objetos esenciales organizados. Disponible en dos tamaños y adornado con detalles metálicos dorados, es el accesorio perfecto para proteger tus libros con un toque de moda. Cuenta con una correa de hombro ajustable para llevarlo cómodamente en un solo hombro. \n * Dos tamaños: Largo x Alto x Ancho: P / G (P: 8.3 x 6 x 1.58 pulgadas / Largo: 9.8 x 7.5 x 2 pulgadas) \n * Cuero sintético de primera calidad: Esta funda de cuero sintético ofrece una durabilidad y un estilo excepcionales, garantizando una protección duradera para tus preciados libros. \n * Opciones de almacenamiento versátiles: Equipada con un amplio espacio y un monedero interior, ofrece un práctico espacio para guardar notas, marcapáginas y otros artículos esenciales. \n * Diseño moderno: El ribete metálico dorado en las esquinas inferiores izquierda y derecha le da un toque elegante y moderno. \n * Correa de hombro ajustable: Cuenta con una correa de hombro ajustable y extraíble para llevarlo cómodamente en un solo hombro, lo que facilita su portabilidad. \n * Cierre seguro: El cierre de hebilla garantiza que tu libro permanezca protegido y sea fácilmente accesible. \n REGALO IDEAL PARA BIBLIOFILOS: Perfecto para Navidad, cumpleaños y otras celebraciones. Muestra tu pasión por los regalos y accesorios inspirados en libros. Una ex",
-      "source_text": "Bolso DAZ Luxury con forma de libro Bags Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos Bolso con temática de libros para amantes de la literatura - Regalo ideal para lectores y amantes de la lectura - ¡Bolso de mano y bandolera! Con un amplio interior y un monedero, mantiene tus objetos esenciales organizados. Disponible en dos tamaños y adornado con detalles metálicos dorados, es el accesorio perfecto para proteger tus libros con un toque de moda. Cuenta con una correa de hombro ajustable para llevarlo cómodamente en un solo hombro. \n * Dos tamaños: Largo x Alto x Ancho: P / G (P: 8.3 x 6 x 1.58 pulgadas / Largo: 9.8 x 7.5 x 2 pulgadas) \n * Cuero sintético de primera calidad: Esta funda de cuero sintético ofrece una durabilidad y un estilo excepcionales, garantizando una protección duradera para tus preciados libros. \n * Opciones de almacenamiento versátiles: Equipada con un amplio espacio y un monedero interior, ofrece un práctico espacio para guardar notas, marcapáginas y otros artículos esenciales. \n * Diseño moderno: El ribete metálico dorado en las esquinas inferiores izquierda y derecha le da un toque elegante y moderno. \n * Correa de hombro ajustable: Cuenta con una correa de hombro ajustable y extraíble para llevarlo cómodamente en un solo hombro, lo que facilita su portabilidad. \n * Cierre seguro: El cierre de hebilla garantiza que tu libro permanezca protegido y sea fácilmente accesible. \n REGALO IDEAL PARA BIBLIOFILOS: Perfecto para Navidad, cumpleaños y otras celebraciones. Muestra tu pasión por los regalos y accesorios inspirados en libros. Una ex",
-      "name_es": "Bolso Bandolera Literario",
-      "name_en": "Literary Crossbody Bag",
+      "source_text": "Bolso DAZ Luxury con forma de libro Bags Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos Crossbody Bag Purple Synthetic Leather Bolso con temática de libros para amantes de la literatura - Regalo ideal para lectores y amantes de la lectura - ¡Bolso de mano y bandolera! Con un amplio interior y un monedero, mantiene tus objetos esenciales organizados. Disponible en dos tamaños y adornado con detalles metálicos dorados, es el accesorio perfecto para proteger tus libros con un toque de moda. Cuenta con una correa de hombro ajustable para llevarlo cómodamente en un solo hombro. \n * Dos tamaños: Largo x Alto x Ancho: P / G (P: 8.3 x 6 x 1.58 pulgadas / Largo: 9.8 x 7.5 x 2 pulgadas) \n * Cuero sintético de primera calidad: Esta funda de cuero sintético ofrece una durabilidad y un estilo excepcionales, garantizando una protección duradera para tus preciados libros. \n * Opciones de almacenamiento versátiles: Equipada con un amplio espacio y un monedero interior, ofrece un práctico espacio para guardar notas, marcapáginas y otros artículos esenciales. \n * Diseño moderno: El ribete metálico dorado en las esquinas inferiores izquierda y derecha le da un toque elegante y moderno. \n * Correa de hombro ajustable: Cuenta con una correa de hombro ajustable y extraíble para llevarlo cómodamente en un solo hombro, lo que facilita su portabilidad. \n * Cierre seguro: El cierre de hebilla garantiza que tu libro permanezca protegido y sea fácilmente accesible. \n REGALO IDEAL PARA BIBLIOFILOS: Perfecto para Navidad, cumpleaños y otras celebraciones. Muestra tu pasión por los regalos y accesorios inspirados en libros. Una ex",
+      "name_es": "Bolso Bandolera Literario · Púrpura",
+      "name_en": "Literary Crossbody Bag · Purple",
       "desc_es": "Una silueta estructurada inspirada en la forma de los libros clásicos. Este accesorio combina funcionalidad y diseño refinado para el día a día. Confeccionado en cuero sintético de primera calidad, presenta sutiles detalles metálicos dorados en las esquinas. El interior amplio incluye un monedero y espacio organizado para esenciales. La correa de hombro ajustable y extraíble permite una versatilidad absoluta. Disponible en dos tamaños para adaptarse a cada necesidad.",
       "desc_en": "A structured silhouette inspired by the shape of classic books. This accessory merges functionality with refined everyday design. Crafted from premium synthetic leather, it features subtle gold-tone metal details at the corners. The spacious interior includes a coin purse and organized space for essentials. The adjustable and removable shoulder strap allows for absolute versatility. Available in two sizes to suit every requirement.",
       "price_usd": 35.99,
@@ -201537,7 +201601,8 @@
       "details_es": "· Cuero sintético de primera calidad\n· Ribete metálico dorado en las esquinas\n· Correa de hombro ajustable y extraíble\n· Cierre seguro de hebilla\n· Disponible en dos tamaños: P y G\n· Hecho bajo pedido y envío mundial",
       "details_en": "· Premium synthetic leather\n· Gold-tone metal corner hardware\n· Adjustable and removable shoulder strap\n· Secure buckle closure\n· Available in two sizes: P and G\n· Made to order and worldwide shipping",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "women"
     },
     {
       "id": "interestprint-un-diamante-rojo-sobre-un-fondo-negro-arte-lujo-simbolo-dibujo-logo-alma-unico-4-removebg-p-womens-mary-jane-shoes",
@@ -201648,7 +201713,8 @@
       "img_checked": "2026-11-21",
       "cg": "t-coleccion-privada-zapatos-mary-jane-dazmond-rubi-nocturno",
       "shop_category": "",
-      "ai_fail": 2
+      "ai_fail": 3,
+      "ai_done": true
     },
     {
       "id": "shopify-design-womens-seamless-bramade-in-usa",
@@ -202148,7 +202214,8 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-22",
       "cg": "t-chaqueta-dazmond-golden-heritage",
-      "shop_category": ""
+      "shop_category": "",
+      "ai_fail": 1
     },
     {
       "id": "shopify-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury-1",
