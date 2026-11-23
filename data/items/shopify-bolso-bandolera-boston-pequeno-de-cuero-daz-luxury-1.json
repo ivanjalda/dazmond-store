@@ -1,16 +1,30 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PVC",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Handbag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate details, but lifestyle and size guide images look composited and lack high-end luxury editorial standards.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The DAZMOND & Co. small Boston bag combines refined functionality and contemporary design. Crafted from durable PVC with an all-over print, this accessory offers a structured silhouette ideal for daily wear. It features a spacious main compartment and organized interior pockets. Versatility is enhanced by top handles and a detachable, adjustable shoulder strap. An essential piece of timeless design available for worldwide shipping.",
+ "desc_es": "El bolso Boston pequeño de DAZMOND & Co. combina funcionalidad refinada y diseño contemporáneo. Confeccionado en PVC resistente con un estampado integral, este accesorio ofrece una silueta estructurada ideal para el día a día. Cuenta con un compartimento principal espacioso y bolsillos interiores organizados. Su versatilidad se amplía con asas superiores y una correa de hombro desmontable y ajustable. Una pieza esencial de diseño atemporal disponible para envíos en todo el mundo.",
+ "details_en": "· Monogram PVC with all-over print\n· Main compartment and two interior pockets\n· Removable and adjustable 125 cm shoulder strap\n· Water-resistant and lightweight design\n· Made-to-order and available for worldwide shipping",
+ "details_es": "· PVC (monograma) con estampado integral\n· Compartimento principal y dos bolsillos interiores\n· Correa de hombro extraíble y ajustable de 125 cm\n· Resistente al agua y diseño ligero\n· Hecho a medida y disponible para envíos en todo el mundo",
  "display_images": [
   "assets/products/shop/b74a5672aa8dba958821.jpg",
   "assets/products/shop/cfcc70e4f0a00ae4eb0a.jpg",
@@ -18,9 +32,7 @@
   "assets/products/shop/70a2f9eaf52d461ebf98.jpg",
   "assets/products/shop/abe31eb8cebb23b8ec4b.jpg",
   "assets/products/shop/ad75270b22ebcb0e2d5b.jpg",
-  "assets/products/shop/5a53f6fd460d1cbb9a9b.jpg",
-  "assets/products/shop/05aa7fd8b34b063ea7e8.jpg",
-  "assets/products/shop/fc46cda3a8ff21e6c8ac.jpg"
+  "assets/products/shop/5a53f6fd460d1cbb9a9b.jpg"
  ],
  "draft": false,
  "fam": "bolso-bandolera-boston",
@@ -28,15 +40,16 @@
  "id": "shopify-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury-1",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-357300009-black"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Bolso Bandolera Boston Bag",
- "name_es": "Bolso Bolso Bandolera Boston",
+ "name_en": "Small Printed Boston Bag",
+ "name_es": "Bolso Boston Estampado Pequeño",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 1573,
@@ -44,9 +57,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsas de hombro",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Height",
+   "Strap Length"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Alto",
+   "Longitud de correa"
+  ],
+  "notes_en": "Dimensions are approximate. Made-to-order pieces may vary slightly.",
+  "notes_es": "Las dimensiones son aproximadas. Las piezas hechas a medida pueden variar ligeramente.",
+  "rows": [
+   [
+    "20.5",
+    "12.5",
+    "16",
+    "125"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/fc46cda3a8ff21e6c8ac.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolso bandolera Boston pequeño de cuero DAZ Luxury",
  "stripe_payment_link": "https://buy.stripe.com/cNi8wQ5Z212c2QefT01gQ2K",
  "supplier": "Shopify",
