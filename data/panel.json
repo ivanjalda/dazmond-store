@@ -1,19 +1,19 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-23 02:41 UTC",
+  "updated": "2026-11-23 03:41 UTC",
   "totals": {
     "catalogo": 2438,
     "a_la_vista": 1999,
     "disenos_a_la_vista": 821,
     "ocultos": 439,
-    "ia_revisados": 392,
-    "ia_pendientes": 2045,
+    "ia_revisados": 396,
+    "ia_pendientes": 2041,
     "con_boton_de_pago": 1999,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
-    "visitas_30_dias": 7,
+    "visitas_30_dias": 8,
     "fotos_de_campana": 0
   },
   "reasons": {
@@ -342,7 +342,7 @@
     },
     {
       "id": "printful-382149130",
-      "n": "Vela Manhattan · Blanco",
+      "n": "Vela Vela Perfumada Daz · Blanco",
       "s": "Printful",
       "img": "https://files.cdn.printful.com/files/d2e/d2e12e000869e4515d84a32c538f6d00_preview.png",
       "c": "decor",
@@ -351,11 +351,20 @@
     },
     {
       "id": "printful-350459260",
-      "n": "Enfriador de Latas Manhattan · Blanco",
+      "n": "Enfriador de Latas Art Soul Manifest · Blanco",
       "s": "Printful",
       "img": "https://files.cdn.printful.com/files/4d9/4d9af8078f89cb62c098bb43f6cc5edc_preview.png",
       "c": "decor",
       "pr": 14.99,
+      "v": 1
+    },
+    {
+      "id": "printful-351973407",
+      "n": "Camiseta Botanical Eucalyptus · Blanco",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/035/03533450d2de45984d667307a9408f69_preview.png",
+      "c": "mujer/camisetas-blusas-tops",
+      "pr": 37.99,
       "v": 1
     }
   ],
@@ -436,7 +445,7 @@
   "hidden": [
     {
       "id": "shopify-braguita-daz-de-mujer-1-white",
-      "n": "Ropa Interior Imperial · Blanco",
+      "n": "Ropa Interior Braguita Daz · Blanco",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1736337308-1-YjzJ3mWb1D.jpg?v=1736337396",
       "c": "mujer/ropa-interior",
@@ -445,7 +454,7 @@
     },
     {
       "id": "shopify-design-swimsuit-set-front-side-printingmade-in-usa-negro",
-      "n": "Bañador Hudson · Negro",
+      "n": "Bañador Traje Baño Diseño · Negro",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9a6e7e29bc8268a0755547e14ceb968d.jpg?v=1767643036",
       "c": "hombre/banador",
@@ -454,7 +463,7 @@
     },
     {
       "id": "shopify-design-swimsuit-set-front-side-printingmade-in-usa-verde-medio-intenso",
-      "n": "Bañador Hudson · Verde Medio Intenso",
+      "n": "Bañador Traje Baño Diseño · Verde Medio Intenso",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9a6e7e29bc8268a0755547e14ceb968d.jpg?v=1767643036",
       "c": "hombre/banador",
@@ -463,7 +472,7 @@
     },
     {
       "id": "shopify-es-package-protection",
-      "n": "Pieza Atelier",
+      "n": "Pieza Package Protection",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/asset_3462_transformation_8872.png?v=1717847659",
       "c": "hombre/camiseta",
@@ -472,7 +481,7 @@
     },
     {
       "id": "interestprint-design-womens-all-over-print-raglan-t-shirt",
-      "n": "Camiseta Imperial · Blanco",
+      "n": "Camiseta Raglan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/60e88ebd7aa751e508781525ed348302.jpg?v=1772129577",
       "c": "mujer/camisetas-blusas-tops",
@@ -481,7 +490,7 @@
     },
     {
       "id": "interestprint-design-womens-all-over-print-raglan-t-shirt-1",
-      "n": "Camiseta Imperial · Blanco",
+      "n": "Camiseta Raglan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/013a6139546fc854873d32cac1493d4d.jpg?v=1772129593",
       "c": "mujer/camisetas-blusas-tops",
@@ -490,7 +499,7 @@
     },
     {
       "id": "interestprint-design-womens-all-over-print-raglan-t-shirt-2",
-      "n": "Camiseta Imperial · Blanco",
+      "n": "Camiseta Raglan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/da6f128248a5dea40683d14fadea16eb.jpg?v=1772129607",
       "c": "mujer/camisetas-blusas-tops",
@@ -499,7 +508,7 @@
     },
     {
       "id": "interestprint-design-long-sleeve-mesh-top",
-      "n": "Camiseta Monogram · Blanco",
+      "n": "Camiseta Mesh · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e8a711aaaf688824d01286749ce322fd.jpg?v=1771522173",
       "c": "hombre/camiseta",
@@ -508,7 +517,7 @@
     },
     {
       "id": "interestprint-design-long-sleeve-mesh-top-1",
-      "n": "Camiseta Monogram · Blanco",
+      "n": "Camiseta Mesh · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f0236f7ad97ba38c8c134edf0defca2f.jpg?v=1771522181",
       "c": "hombre/camiseta",
@@ -517,7 +526,7 @@
     },
     {
       "id": "interestprint-design-long-sleeve-mesh-top-2",
-      "n": "Camiseta Monogram · Blanco",
+      "n": "Camiseta Mesh · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d22bb8a625dbb1e88eaa2a23b56b07c9.jpg?v=1771522219",
       "c": "hombre/camiseta",
@@ -526,7 +535,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-thong",
-      "n": "Ropa Interior Monogram · Blanco",
+      "n": "Ropa Interior Lace Trim Thong · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b2d459440baebba921579056da3ac72e.jpg?v=1773173001",
       "c": "hombre/ropa-interior",
@@ -535,7 +544,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-thong-1",
-      "n": "Ropa Interior Monogram · Blanco",
+      "n": "Ropa Interior Lace Trim Thong · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4cf3ab1dbd66916c4bdf7679280c267e.jpg?v=1773173034",
       "c": "hombre/ropa-interior",
@@ -544,7 +553,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-thong-2",
-      "n": "Ropa Interior Monogram · Blanco",
+      "n": "Ropa Interior Lace Trim Thong · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9fcaa694e21ebe80e47f6891d109fb25.jpg?v=1773173043",
       "c": "hombre/ropa-interior",
@@ -553,7 +562,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-thong-3",
-      "n": "Ropa Interior Monogram · Blanco",
+      "n": "Ropa Interior Lace Trim Thong · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/30818592d733ebb2fce046afc24e6d0e.jpg?v=1773173100",
       "c": "hombre/ropa-interior",
@@ -562,7 +571,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-thong-4",
-      "n": "Ropa Interior Monogram · Blanco",
+      "n": "Ropa Interior Lace Trim Thong · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8eb71673fd833894629ef5f0516c9761.jpg?v=1773173108",
       "c": "hombre/ropa-interior",
@@ -571,7 +580,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-thong-5",
-      "n": "Ropa Interior Monogram · Blanco",
+      "n": "Ropa Interior Lace Trim Thong · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6ef8da2bfc04f0245b43046c79898b0f.jpg?v=1773173115",
       "c": "hombre/ropa-interior",
@@ -580,7 +589,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-thong-6",
-      "n": "Ropa Interior Monogram · Blanco",
+      "n": "Ropa Interior Lace Trim Thong · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6c332a69bfce8e80c85e957e0c442dbd.jpg?v=1773173140",
       "c": "hombre/ropa-interior",
@@ -589,7 +598,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-thong-7",
-      "n": "Ropa Interior Monogram · Blanco",
+      "n": "Ropa Interior Lace Trim Thong · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6d8202c595a0aa687ff1a0964bb4bdef.jpg?v=1773173148",
       "c": "hombre/ropa-interior",
@@ -598,7 +607,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-thong-8",
-      "n": "Ropa Interior Monogram · Blanco",
+      "n": "Ropa Interior Lace Trim Thong · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9825b00b364e0d9d22d844ce019edee8.jpg?v=1773173156",
       "c": "hombre/ropa-interior",
@@ -607,7 +616,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-thong-9",
-      "n": "Ropa Interior Monogram · Blanco",
+      "n": "Ropa Interior Lace Trim Thong · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/252e8cf0852afae39a3d931867ee5e54.jpg?v=1773173195",
       "c": "hombre/ropa-interior",
@@ -616,7 +625,7 @@
     },
     {
       "id": "interestprint-design-washed-drop-shoulder-t-shirt",
-      "n": "Camiseta Noir · Negro",
+      "n": "Camiseta Washed Drop · Negro",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b0f3a7e32d28b09daf8dd33bfbc6066a.jpg?v=1771013805",
       "c": "hombre/camiseta",
@@ -625,7 +634,7 @@
     },
     {
       "id": "interestprint-design-women-s-square-neck-sleeveless-top",
-      "n": "Camiseta Atelier · Blanco",
+      "n": "Camiseta Square Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d4d3603226114a8ad7d95c9a77d2629f.jpg?v=1771518607",
       "c": "mujer/camisetas-blusas-tops",
@@ -634,7 +643,7 @@
     },
     {
       "id": "interestprint-design-women-s-square-neck-sleeveless-top-1",
-      "n": "Camiseta Atelier · Blanco",
+      "n": "Camiseta Square Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d47931217c6a00b80034e4a2b99705cd.jpg?v=1771518615",
       "c": "mujer/camisetas-blusas-tops",
@@ -643,7 +652,7 @@
     },
     {
       "id": "interestprint-design-new-sleeveless-polo-tank-top",
-      "n": "Polo Madison · Blanco",
+      "n": "Polo Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/173607d751712f28ecf1c16c07bf370b.jpg?v=1771518512",
       "c": "hombre/polos",
@@ -652,7 +661,7 @@
     },
     {
       "id": "interestprint-design-new-sleeveless-polo-tank-top-1",
-      "n": "Polo Madison · Blanco",
+      "n": "Polo Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/988a5b583a94831c859baeea07d5ae43.jpg?v=1771518522",
       "c": "hombre/polos",
@@ -661,7 +670,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-camisole-nightgown",
-      "n": "Pijama Soho · Blanco",
+      "n": "Pijama Lace Trim Camisole · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/493817f9bdb2b4ab86909ee75acdcf9c.jpg?v=1772132549",
       "c": "hombre/albornoz-pijama",
@@ -670,7 +679,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-camisole-nightgown-1",
-      "n": "Pijama Soho · Blanco",
+      "n": "Pijama Lace Trim Camisole · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/93851f8fce9e1c79f93b8a9e3f4afbef.jpg?v=1772132596",
       "c": "hombre/albornoz-pijama",
@@ -679,7 +688,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-camisole-nightgown-2",
-      "n": "Pijama Soho · Blanco",
+      "n": "Pijama Lace Trim Camisole · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5c49852859b59ac0d877cbd817ca816d.jpg?v=1772132604",
       "c": "hombre/albornoz-pijama",
@@ -688,7 +697,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-camisole-nightgown-3",
-      "n": "Pijama Soho · Blanco",
+      "n": "Pijama Lace Trim Camisole · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/530d9d97acb93cfbfa33cfb818b677ff.jpg?v=1772132614",
       "c": "hombre/albornoz-pijama",
@@ -697,7 +706,7 @@
     },
     {
       "id": "interestprint-design-lace-trim-camisole-nightgown-4",
-      "n": "Pijama Soho · Blanco",
+      "n": "Pijama Lace Trim Camisole · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/986c1ec7cb3970afd113a8ad2cb3f4b6.jpg?v=1772132698",
       "c": "hombre/albornoz-pijama",
@@ -706,7 +715,7 @@
     },
     {
       "id": "interestprint-design-women-s-flare-sleeve-top",
-      "n": "Camiseta Monogram · Blanco",
+      "n": "Camiseta Flare · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/29d3811150eafefb76148a175bf88747.jpg?v=1771520984",
       "c": "mujer/camisetas-blusas-tops",
@@ -715,7 +724,7 @@
     },
     {
       "id": "interestprint-design-women-s-flare-sleeve-top-1",
-      "n": "Camiseta Monogram · Blanco",
+      "n": "Camiseta Flare · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/998e6bb8a89fe58f1da079ccae218a44.jpg?v=1771520992",
       "c": "mujer/camisetas-blusas-tops",
@@ -724,7 +733,7 @@
     },
     {
       "id": "interestprint-design-women-s-flare-sleeve-top-2",
-      "n": "Camiseta Monogram · Blanco",
+      "n": "Camiseta Flare · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d47a39f757e39d612e5ca1afeacf827a.jpg?v=1771521001",
       "c": "mujer/camisetas-blusas-tops",
@@ -733,7 +742,7 @@
     },
     {
       "id": "interestprint-design-women-s-flare-sleeve-top-3",
-      "n": "Camiseta Monogram · Blanco",
+      "n": "Camiseta Flare · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6f3b401f599e37eafcccb8f60d01ec3e.jpg?v=1771521124",
       "c": "mujer/camisetas-blusas-tops",
@@ -742,7 +751,7 @@
     },
     {
       "id": "interestprint-design-women-s-v-neck-lace-trim-camisole",
-      "n": "Camiseta Manhattan · Blanco",
+      "n": "Camiseta Lace Trim Camisole · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/cecfb6694a2afe4a9c0fce5391c19518.jpg?v=1771518501",
       "c": "mujer/camisetas-blusas-tops",
@@ -751,7 +760,7 @@
     },
     {
       "id": "interestprint-design-women-s-v-neck-lace-trim-camisole-1",
-      "n": "Camiseta Manhattan · Blanco",
+      "n": "Camiseta Lace Trim Camisole · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/585e1cbd22130a3b941d435fe93bf76c.jpg?v=1771518551",
       "c": "mujer/camisetas-blusas-tops",
@@ -760,7 +769,7 @@
     },
     {
       "id": "interestprint-design-women-s-v-neck-lace-trim-camisole-2",
-      "n": "Camiseta Manhattan · Blanco",
+      "n": "Camiseta Lace Trim Camisole · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/23bbae57daa8acbd5179e46ed055c80f.jpg?v=1771518560",
       "c": "mujer/camisetas-blusas-tops",
@@ -769,7 +778,7 @@
     },
     {
       "id": "interestprint-design-women-s-v-neck-lace-trim-camisole-3",
-      "n": "Camiseta Manhattan · Blanco",
+      "n": "Camiseta Lace Trim Camisole · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/122559955ca60f88361a066d6fc3d34d.jpg?v=1771518571",
       "c": "mujer/camisetas-blusas-tops",
@@ -778,7 +787,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-cropped-shirt",
-      "n": "Camiseta Atelier · Blanco",
+      "n": "Camiseta Cropped · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8e984310c8995b5e610dc82fcf2ddb5c.jpg?v=1772129450",
       "c": "hombre/camiseta",
@@ -787,7 +796,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-cropped-shirt-1",
-      "n": "Camiseta Atelier · Blanco",
+      "n": "Camiseta Cropped · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/63a9c6525fc61ad445b0690ef366f33c.jpg?v=1772129508",
       "c": "hombre/camiseta",
@@ -796,7 +805,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-cropped-shirt-2",
-      "n": "Camiseta Atelier · Blanco",
+      "n": "Camiseta Cropped · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5d6aceabbf84de118e9fabf6e0e2c0b0.jpg?v=1772129517",
       "c": "hombre/camiseta",
@@ -805,7 +814,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-cropped-shirt-3",
-      "n": "Camiseta Atelier · Blanco",
+      "n": "Camiseta Cropped · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/50748682c3933d67e566cc19a55513c2.jpg?v=1772129526",
       "c": "hombre/camiseta",
@@ -814,7 +823,7 @@
     },
     {
       "id": "interestprint-design-womens-crop-tank-top",
-      "n": "Camiseta Soho · Blanco",
+      "n": "Camiseta Crop · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/342dfafdc7374180c2e4a49534acd0b8.jpg?v=1771522316",
       "c": "mujer/camisetas-blusas-tops",
@@ -823,7 +832,7 @@
     },
     {
       "id": "interestprint-design-womens-crop-tank-top-1",
-      "n": "Camiseta Soho · Blanco",
+      "n": "Camiseta Crop · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b73e02b4a4c86cc5cc920b240144b734.jpg?v=1771522326",
       "c": "mujer/camisetas-blusas-tops",
@@ -832,7 +841,7 @@
     },
     {
       "id": "interestprint-design-womens-crop-tank-top-2",
-      "n": "Camiseta Soho · Blanco",
+      "n": "Camiseta Crop · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/10d1dac242c9bdc550874f18140d5954.jpg?v=1771522334",
       "c": "mujer/camisetas-blusas-tops",
@@ -841,7 +850,7 @@
     },
     {
       "id": "interestprint-design-womens-crop-tank-top-3",
-      "n": "Camiseta Soho · Blanco",
+      "n": "Camiseta Crop · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/35054b13eae56c736664f9fde54f941e.jpg?v=1771522369",
       "c": "mujer/camisetas-blusas-tops",
@@ -850,7 +859,7 @@
     },
     {
       "id": "interestprint-design-womens-crop-tank-top-4",
-      "n": "Camiseta Soho · Blanco",
+      "n": "Camiseta Crop · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ec87d7450a271e5e498d58fbb179acfc.jpg?v=1771522377",
       "c": "mujer/camisetas-blusas-tops",
@@ -859,7 +868,7 @@
     },
     {
       "id": "interestprint-design-womens-crop-tank-top-5",
-      "n": "Camiseta Soho · Blanco",
+      "n": "Camiseta Crop · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/84f069117195b4916b28c1e26b43de95.jpg?v=1771522385",
       "c": "mujer/camisetas-blusas-tops",
@@ -868,7 +877,7 @@
     },
     {
       "id": "interestprint-design-womens-crop-tank-top-6",
-      "n": "Camiseta Soho · Blanco",
+      "n": "Camiseta Crop · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3d726d59e800785a8c770612c6bc0c27.jpg?v=1771522468",
       "c": "mujer/camisetas-blusas-tops",
@@ -877,7 +886,7 @@
     },
     {
       "id": "interestprint-design-women-s-lightweight-ruffle-shoulder-sweatshirt",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/682c12d2b499ce0c8d6b58f7cf332917.jpg?v=1771853759",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -886,7 +895,7 @@
     },
     {
       "id": "interestprint-design-women-s-lightweight-ruffle-shoulder-sweatshirt-1",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8ba63ba246a949a04b0c46cbe8be7e05.jpg?v=1771853872",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -895,7 +904,7 @@
     },
     {
       "id": "interestprint-design-women-s-lightweight-ruffle-shoulder-sweatshirt-2",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9bc474773c77ef4afc2d17c518c6ec5e.jpg?v=1771853888",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -904,7 +913,7 @@
     },
     {
       "id": "interestprint-design-yoga-pants",
-      "n": "Pantalón Riviera · Blanco",
+      "n": "Pantalón Yoga · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ffe5382d4ccc9bef5dc44261550b8a84.jpg?v=1771853851",
       "c": "hombre/pantalones",
@@ -913,7 +922,7 @@
     },
     {
       "id": "interestprint-design-yoga-pants-1",
-      "n": "Pantalón Riviera · Blanco",
+      "n": "Pantalón Yoga · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9741914afff95b6b1fade72ca995e752.jpg?v=1771854473",
       "c": "hombre/pantalones",
@@ -922,7 +931,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-tank-top-bkrev1",
-      "n": "Camiseta Madison · Blanco",
+      "n": "Camiseta Bkrev · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9d5b14560bd032614e4af944036d2b11.jpg?v=1771013833",
       "c": "hombre/camiseta",
@@ -931,7 +940,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-tank-top-bkrev1-1",
-      "n": "Camiseta Madison · Blanco",
+      "n": "Camiseta Bkrev · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9927d9b02d85a10334fd86ecabce5a64.jpg?v=1771013841",
       "c": "hombre/camiseta",
@@ -940,7 +949,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-tank-top-bkrev1-2",
-      "n": "Camiseta Madison · Blanco",
+      "n": "Camiseta Bkrev · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/96c27054089068e26979421987d839df.jpg?v=1771013849",
       "c": "hombre/camiseta",
@@ -949,7 +958,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-tank-top-bkrev1-3",
-      "n": "Camiseta Madison · Blanco",
+      "n": "Camiseta Bkrev · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ea7a00f235cb3f6d2eb7332baf5d8600.jpg?v=1771013878",
       "c": "hombre/camiseta",
@@ -958,7 +967,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-tank-top-bkrev1-4",
-      "n": "Camiseta Madison · Blanco",
+      "n": "Camiseta Bkrev · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1fdd403c61c3a8edf44e7cfc1673a71b.jpg?v=1771013885",
       "c": "hombre/camiseta",
@@ -967,7 +976,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-sleeve-dress",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4d03d75bfcb0b50834b960cbb8d35c58.jpg?v=1771518597",
       "c": "mujer/vestidos-monos-petos",
@@ -976,7 +985,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-sleeve-dress-1",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/803345ccc812d2b8e84ac3bce78c0654.jpg?v=1771518655",
       "c": "mujer/vestidos-monos-petos",
@@ -985,7 +994,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-sleeve-dress-2",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8593095589f2abdc9a4c686cb5f181ad.jpg?v=1771518666",
       "c": "mujer/vestidos-monos-petos",
@@ -1030,7 +1039,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-bell-sleeve-top",
-      "n": "Camiseta Atelier · Blanco",
+      "n": "Camiseta Ruffle Bell · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/35bfae8293a6e34223d057c2cc4f49d2.jpg?v=1771522477",
       "c": "mujer/camisetas-blusas-tops",
@@ -1039,7 +1048,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-bell-sleeve-top-1",
-      "n": "Camiseta Atelier · Blanco",
+      "n": "Camiseta Ruffle Bell · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/29b01bd0b3bc75f1d44546c3319a610d.jpg?v=1771522486",
       "c": "mujer/camisetas-blusas-tops",
@@ -1048,7 +1057,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-bell-sleeve-top-2",
-      "n": "Camiseta Atelier · Blanco",
+      "n": "Camiseta Ruffle Bell · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b8f6e5e23f6ff5d9dc280286082fad66.jpg?v=1771522530",
       "c": "mujer/camisetas-blusas-tops",
@@ -1129,7 +1138,7 @@
     },
     {
       "id": "interestprint-design-short-sleeve-ruffle-hem-dress",
-      "n": "Vestido Madison · Blanco",
+      "n": "Vestido Ruffle Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9066692882411f9667d6e48eb2aa4b53.jpg?v=1772130597",
       "c": "mujer/vestidos-monos-petos",
@@ -1138,7 +1147,7 @@
     },
     {
       "id": "interestprint-design-short-sleeve-ruffle-hem-dress-1",
-      "n": "Vestido Madison · Blanco",
+      "n": "Vestido Ruffle Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c7b923fe73ac5771bba4e17c2d9fa531.jpg?v=1772130654",
       "c": "mujer/vestidos-monos-petos",
@@ -1147,7 +1156,7 @@
     },
     {
       "id": "interestprint-design-short-sleeve-ruffle-hem-dress-2",
-      "n": "Vestido Madison · Blanco",
+      "n": "Vestido Ruffle Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2746df40fbcf52dad00743747c742d72.jpg?v=1772130663",
       "c": "mujer/vestidos-monos-petos",
@@ -1156,7 +1165,7 @@
     },
     {
       "id": "interestprint-design-short-sleeve-ruffle-hem-dress-3",
-      "n": "Vestido Madison · Blanco",
+      "n": "Vestido Ruffle Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/446df1b52ee049c422e4a5f9847ad772.jpg?v=1772130673",
       "c": "mujer/vestidos-monos-petos",
@@ -1165,7 +1174,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-hem-t-shirt",
-      "n": "Camisa Riviera · Blanco",
+      "n": "Camisa Ruffle Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/85e9527a980e53c4705ae8b369a043e9.jpg?v=1771522082",
       "c": "mujer/camisas",
@@ -1174,7 +1183,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-hem-t-shirt-1",
-      "n": "Camisa Riviera · Blanco",
+      "n": "Camisa Ruffle Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/fba9a3de6a3983474a90db287e36dda6.jpg?v=1771522092",
       "c": "mujer/camisas",
@@ -1183,7 +1192,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-hem-t-shirt-2",
-      "n": "Camisa Riviera · Blanco",
+      "n": "Camisa Ruffle Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/411f531fac5d48f7a2ba0deee94a48a3.jpg?v=1771522101",
       "c": "mujer/camisas",
@@ -1192,7 +1201,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-hem-t-shirt-3",
-      "n": "Camisa Riviera · Blanco",
+      "n": "Camisa Ruffle Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d3369b86fbcffdd2e25d6ed2ee1ffdb5.jpg?v=1771522162",
       "c": "mujer/camisas",
@@ -1228,7 +1237,7 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/63491e45aa0cb0f00898af83c013b54b.jpg?v=1771519118",
       "c": "hombre/camiseta",
@@ -1237,7 +1246,7 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-1",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/89eff30b2b1ab91f3fa73e7fbb729528.jpg?v=1771519126",
       "c": "hombre/camiseta",
@@ -1246,7 +1255,7 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-2",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/70dd1b6823a6c702f2084a20513741a6.jpg?v=1771519136",
       "c": "hombre/camiseta",
@@ -1255,7 +1264,7 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-3",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8bd34a46d0b0f8dce2095f3615047517.jpg?v=1771519152",
       "c": "hombre/camiseta",
@@ -1264,7 +1273,7 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-4",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2de03a3b00cbbcc20349ffbb4782f60a.jpg?v=1771519171",
       "c": "hombre/camiseta",
@@ -1273,7 +1282,7 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-5",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/98204e9404f2d9615780b8c783ed0d86.jpg?v=1771519189",
       "c": "hombre/camiseta",
@@ -1282,7 +1291,7 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-6",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8bd34a46d0b0f8dce2095f3615047517_1b1e9a38-0e34-4ce5-8b58-4cbb8b5c58b6.jpg?v=1771519202",
       "c": "hombre/camiseta",
@@ -1291,7 +1300,7 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-7",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2de03a3b00cbbcc20349ffbb4782f60a_e7734287-8b00-4980-91fd-cc6f645a9ce9.jpg?v=1771519208",
       "c": "hombre/camiseta",
@@ -1300,7 +1309,7 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-8",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/98204e9404f2d9615780b8c783ed0d86_13d4d317-8b2f-41ef-a061-72c7f3cf351c.jpg?v=1771519215",
       "c": "hombre/camiseta",
@@ -1309,7 +1318,7 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-9",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0d335c11a0ea4a5f80cdae7c6e54d0c3.jpg?v=1771519237",
       "c": "hombre/camiseta",
@@ -1318,7 +1327,7 @@
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt",
-      "n": "Camiseta Riviera · Blanco",
+      "n": "Camiseta Loose · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b0e9330e826109e916b27f0c2d2017e2.jpg?v=1773172483",
       "c": "mujer/camisetas-blusas-tops",
@@ -1327,7 +1336,7 @@
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt-1",
-      "n": "Camiseta Riviera · Blanco",
+      "n": "Camiseta Loose · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d7f0e09a021e05135d876132a8a3d7f5.jpg?v=1773172493",
       "c": "mujer/camisetas-blusas-tops",
@@ -1336,7 +1345,7 @@
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt-2",
-      "n": "Camiseta Riviera · Blanco",
+      "n": "Camiseta Loose · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/88ced3ed857896730464916b910bfe33.jpg?v=1773172501",
       "c": "mujer/camisetas-blusas-tops",
@@ -1345,7 +1354,7 @@
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt-3",
-      "n": "Camiseta Riviera · Blanco",
+      "n": "Camiseta Loose · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f67afa0a3bae695548c204dc4dd5b028.jpg?v=1773172621",
       "c": "mujer/camisetas-blusas-tops",
@@ -1354,7 +1363,7 @@
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt-4",
-      "n": "Camiseta Riviera · Blanco",
+      "n": "Camiseta Loose · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/fcdc5f2a48f9fdcad9ef53e6873bd4d0.jpg?v=1773172663",
       "c": "mujer/camisetas-blusas-tops",
@@ -1363,7 +1372,7 @@
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt-5",
-      "n": "Camiseta Riviera · Blanco",
+      "n": "Camiseta Loose · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/91d4590458103a217c9f61f58782995d.jpg?v=1773172696",
       "c": "mujer/camisetas-blusas-tops",
@@ -1372,7 +1381,7 @@
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt-6",
-      "n": "Camiseta Riviera · Blanco",
+      "n": "Camiseta Loose · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f2ff38a4afa2dc083627079681e4082a.jpg?v=1773172727",
       "c": "mujer/camisetas-blusas-tops",
@@ -1381,7 +1390,7 @@
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt-7",
-      "n": "Camiseta Riviera · Blanco",
+      "n": "Camiseta Loose · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d65863f5b9e116b513321e23625f40d9.jpg?v=1773172736",
       "c": "mujer/camisetas-blusas-tops",
@@ -1390,7 +1399,7 @@
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt-8",
-      "n": "Camiseta Riviera · Blanco",
+      "n": "Camiseta Loose · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c910c4ced7e36fd36c27309d2c291466.jpg?v=1773172745",
       "c": "mujer/camisetas-blusas-tops",
@@ -1399,7 +1408,7 @@
     },
     {
       "id": "interestprint-design-womens-3-4-sleeve-pleated-tunic-top",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Pleated Tunic · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a3404c63fc944c30676f4808091d9852.jpg?v=1773172775",
       "c": "mujer/camisetas-blusas-tops",
@@ -1408,7 +1417,7 @@
     },
     {
       "id": "interestprint-design-womens-3-4-sleeve-pleated-tunic-top-1",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Pleated Tunic · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/80fb97a39c42a8f56c64c2a4ecd5ef62.jpg?v=1773172785",
       "c": "mujer/camisetas-blusas-tops",
@@ -1417,7 +1426,7 @@
     },
     {
       "id": "interestprint-design-womens-3-4-sleeve-pleated-tunic-top-2",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Pleated Tunic · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a5aa2a485e9f29b9fd6cc2d4a5d6001e.jpg?v=1773172793",
       "c": "mujer/camisetas-blusas-tops",
@@ -1426,7 +1435,7 @@
     },
     {
       "id": "interestprint-design-womens-3-4-sleeve-pleated-tunic-top-3",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Pleated Tunic · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/396d1e17b91783fdef0dce8b489c452f.jpg?v=1773172836",
       "c": "mujer/camisetas-blusas-tops",
@@ -1435,7 +1444,7 @@
     },
     {
       "id": "interestprint-design-womens-3-4-sleeve-pleated-tunic-top-4",
-      "n": "Camiseta Hudson · Blanco",
+      "n": "Camiseta Pleated Tunic · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9963f43ac616b0bbf2a4be11a2cb449d.jpg?v=1773172844",
       "c": "mujer/camisetas-blusas-tops",
@@ -1444,7 +1453,7 @@
     },
     {
       "id": "interestprint-design-womens-zipper-jacket",
-      "n": "Chaqueta Madison · Blanco",
+      "n": "Chaqueta Zipper · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5d9ffe61c4d2aeab90e8b395f85e8115.jpg?v=1771854451",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1453,7 +1462,7 @@
     },
     {
       "id": "interestprint-design-womens-zipper-jacket-1",
-      "n": "Chaqueta Madison · Blanco",
+      "n": "Chaqueta Zipper · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/31823eee768d8a8568c90388ac4e0746.jpg?v=1771854465",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1462,7 +1471,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruched-one-piece-swimsuit",
-      "n": "Bañador Monogram · Blanco",
+      "n": "Bañador Ruched · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/51e684530e30fa0a66989769336cd10e.jpg?v=1771517731",
       "c": "mujer/trajes-bano",
@@ -1471,7 +1480,7 @@
     },
     {
       "id": "interestprint-design-women-s-lightweight-cardigan",
-      "n": "Suéter Manhattan · Blanco",
+      "n": "Suéter Cardigan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6353dd096a2505e578f3b42515d79d30.jpg?v=1771521950",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1480,7 +1489,7 @@
     },
     {
       "id": "interestprint-design-women-s-lightweight-cardigan-1",
-      "n": "Suéter Manhattan · Blanco",
+      "n": "Suéter Cardigan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c55e3847cae2f283c0b4c6d1b642dd9a.jpg?v=1771521966",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1489,7 +1498,7 @@
     },
     {
       "id": "interestprint-design-women-s-lightweight-cardigan-2",
-      "n": "Suéter Manhattan · Blanco",
+      "n": "Suéter Cardigan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6c3238c600bf94ba23e2c50e250e5a06.jpg?v=1771521974",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1498,7 +1507,7 @@
     },
     {
       "id": "interestprint-design-women-s-lightweight-cardigan-3",
-      "n": "Suéter Manhattan · Blanco",
+      "n": "Suéter Cardigan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3618fea5bdf8c9829cbb47e15a99dd42.jpg?v=1771522030",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1507,7 +1516,7 @@
     },
     {
       "id": "interestprint-design-women-s-lightweight-cardigan-4",
-      "n": "Suéter Manhattan · Blanco",
+      "n": "Suéter Cardigan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/599341a594b1a06b66651bd6d2727b25.jpg?v=1771522040",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1516,7 +1525,7 @@
     },
     {
       "id": "interestprint-design-women-s-lightweight-cardigan-5",
-      "n": "Suéter Manhattan · Blanco",
+      "n": "Suéter Cardigan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ac7729f553f416503d3e6a679b7fc6b2.jpg?v=1771522049",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1525,7 +1534,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2d807417d9a1a36205251f4902f212ce.jpg?v=1771519975",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1534,7 +1543,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-1",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/257fbc938cc3cff17145b9d50d2370d0.jpg?v=1771519987",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1543,7 +1552,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-10",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5344680c2e751c8bac8b9fa8c6b5d08d.jpg?v=1771520475",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1552,7 +1561,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-11",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e61d5902b5b59fd56ce40b10ab96a7fb.jpg?v=1771520488",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1561,7 +1570,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-12",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/59b8c2bc89c604b96a2c364b5451856c.jpg?v=1771520627",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1570,7 +1579,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-13",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2eb10eb2c7a5636175c74c89a232d157.jpg?v=1771520638",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1579,7 +1588,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-14",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0e7f7692455b7565e7c48aad968773af.jpg?v=1771520650",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1588,7 +1597,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-15",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9dda422087f1da075394892c968c4937.jpg?v=1771520731",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1597,7 +1606,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-16",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2041eff939b759c5bc94f656c0b89e48.jpg?v=1771520739",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1606,7 +1615,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-17",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/213c58f6e221054bfd7d616adfddeb72.jpg?v=1771520860",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1615,7 +1624,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-18",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/95760eb97e5ffc8c42e4512d3cfe27d9.jpg?v=1771520869",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1624,7 +1633,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-19",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b5d6e99173725f1ae13faa99480583c3.jpg?v=1771520878",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1633,7 +1642,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-2",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/aa1f35eb52637b95c87c4ad9fb256b6f.jpg?v=1771519997",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1642,7 +1651,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-20",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/607ed6cbd4fb5017516d0203c75fc2d3.jpg?v=1771520943",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1651,7 +1660,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-21",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5db979dd32e4e5c6f9c1b399241f2537.jpg?v=1771520952",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1660,7 +1669,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-22",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3bb0778a446e44eae58aa7927b9b8c44.jpg?v=1771520961",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1669,7 +1678,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-3",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a468656300f2657f89acd1e03433de47.jpg?v=1771520074",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1678,7 +1687,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-4",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/060a092ff1f59dfcb2bde0ebf28b2619.jpg?v=1771520089",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1687,7 +1696,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-5",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ea72ecbb2967771036ae33a52480a3c4.jpg?v=1771520105",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1696,7 +1705,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-6",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/568d9ab8fdf4ca85efda034d0ceb9aa2.jpg?v=1771520191",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1705,7 +1714,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-7",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2d6be938fdf5c00cf5ad605cbf08949d.jpg?v=1771520202",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1714,7 +1723,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-8",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0a95bb9e0db7fcf5f62f3e49276124ef.jpg?v=1771520212",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1723,7 +1732,7 @@
     },
     {
       "id": "interestprint-design-women-s-double-breasted-blazer-9",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Double Breasted Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e03a0363b8850a581aa2e2a78b4c3556.jpg?v=1771520466",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -1732,7 +1741,7 @@
     },
     {
       "id": "interestprint-custom-placemat-18x12inch-6-pack-ships-from-usa",
-      "n": "Mantel Individual Riviera",
+      "n": "Mantel Individual Placemat Inch Pack",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9f912bbb25a92b268bfd5e433553da6c.jpg?v=1771869506",
       "c": "decor",
@@ -1741,7 +1750,7 @@
     },
     {
       "id": "interestprint-custom-placemat-18x12inch-6-pack-ships-from-usa-1",
-      "n": "Mantel Individual Riviera",
+      "n": "Mantel Individual Placemat Inch Pack",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1830ebacebde486484eaaf562894b249.jpg?v=1771869535",
       "c": "decor",
@@ -1750,7 +1759,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-v-neck-midi-dress",
-      "n": "Vestido Imperial · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c7e081b1d626c4fbd74d8c4881ad8baa.jpg?v=1771519245",
       "c": "mujer/vestidos-monos-petos",
@@ -1759,7 +1768,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-v-neck-midi-dress-1",
-      "n": "Vestido Imperial · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4fd04305bedbb57bc423b103ac93ea20.jpg?v=1771519257",
       "c": "mujer/vestidos-monos-petos",
@@ -1768,7 +1777,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-v-neck-midi-dress-2",
-      "n": "Vestido Imperial · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/91065d377eff17d754f5a20d8127d08a.jpg?v=1771519292",
       "c": "mujer/vestidos-monos-petos",
@@ -1777,7 +1786,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-v-neck-midi-dress-3",
-      "n": "Vestido Imperial · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9b9e9a649dae20ec0afeed582fca80eb.jpg?v=1771519300",
       "c": "mujer/vestidos-monos-petos",
@@ -1786,7 +1795,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-v-neck-midi-dress-4",
-      "n": "Vestido Imperial · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/72d43ca3753e48e9624b826d08e27c6c.jpg?v=1771519310",
       "c": "mujer/vestidos-monos-petos",
@@ -1795,7 +1804,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-v-neck-midi-dress-5",
-      "n": "Vestido Imperial · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/83bf5006809482ac864e528a3f65142e.jpg?v=1771519409",
       "c": "mujer/vestidos-monos-petos",
@@ -1804,7 +1813,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-v-neck-midi-dress-6",
-      "n": "Vestido Imperial · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9e9ceb9ea1de2196f1516844b88acbe9.jpg?v=1771519417",
       "c": "mujer/vestidos-monos-petos",
@@ -1813,7 +1822,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-v-neck-midi-dress-7",
-      "n": "Vestido Imperial · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/237cdccbc9567e15474aae1330cb0950.jpg?v=1771519427",
       "c": "mujer/vestidos-monos-petos",
@@ -1822,7 +1831,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-v-neck-midi-dress-8",
-      "n": "Vestido Imperial · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0eb7619297e8ffea0884af88e74e2a6f.jpg?v=1771519462",
       "c": "mujer/vestidos-monos-petos",
@@ -1831,7 +1840,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-v-neck-midi-dress-9",
-      "n": "Vestido Imperial · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/71ca2c06b7538403d6f26351bb73390a.jpg?v=1771519472",
       "c": "mujer/vestidos-monos-petos",
@@ -1840,7 +1849,7 @@
     },
     {
       "id": "interestprint-design-women-s-lace-trim-pajama-shorts",
-      "n": "Pijama Avenue · Blanco",
+      "n": "Pijama Lace Trim Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/daf50ce3905cc94affe254c37e8439f1.jpg?v=1771521266",
       "c": "mujer/batas-pijamas",
@@ -1849,7 +1858,7 @@
     },
     {
       "id": "interestprint-design-women-s-lace-trim-pajama-shorts-1",
-      "n": "Pijama Avenue · Blanco",
+      "n": "Pijama Lace Trim Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5d3da7413aca825d814e377db153b9a8.jpg?v=1771521847",
       "c": "mujer/batas-pijamas",
@@ -1858,7 +1867,7 @@
     },
     {
       "id": "interestprint-design-women-s-lace-trim-pajama-shorts-2",
-      "n": "Pijama Avenue · Blanco",
+      "n": "Pijama Lace Trim Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/60a6439d081424ff41ec65f47da0c792.jpg?v=1771521855",
       "c": "mujer/batas-pijamas",
@@ -1867,7 +1876,7 @@
     },
     {
       "id": "interestprint-design-women-s-lace-trim-pajama-shorts-3",
-      "n": "Pijama Avenue · Blanco",
+      "n": "Pijama Lace Trim Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4baf9ffa7502bf4c4fbfa6a5eba0380b.jpg?v=1771521864",
       "c": "mujer/batas-pijamas",
@@ -1903,7 +1912,7 @@
     },
     {
       "id": "interestprint-design-women-s-one-shoulder-mesh-swimsuit",
-      "n": "Bañador Atelier · Blanco",
+      "n": "Bañador Mesh · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/317ead05e225c0cc8690970b6ea9bde0.jpg?v=1771518647",
       "c": "mujer/trajes-bano",
@@ -1912,7 +1921,7 @@
     },
     {
       "id": "interestprint-design-women-s-one-shoulder-mesh-swimsuit-1",
-      "n": "Bañador Atelier · Blanco",
+      "n": "Bañador Mesh · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6976a1ed8b9e2fc31d2e13fc4923ec38.jpg?v=1771518792",
       "c": "mujer/trajes-bano",
@@ -1921,7 +1930,7 @@
     },
     {
       "id": "interestprint-design-women-s-one-shoulder-mesh-swimsuit-2",
-      "n": "Bañador Atelier · Blanco",
+      "n": "Bañador Mesh · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/47c0714cf46ebc6db785685707f51eb3.jpg?v=1771518800",
       "c": "mujer/trajes-bano",
@@ -1930,7 +1939,7 @@
     },
     {
       "id": "interestprint-design-womens-asymmetric-hem-long-sleeve-top",
-      "n": "Camiseta Avenue · Blanco",
+      "n": "Camiseta Asymmetric Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a3dcde6f68827c1d590c8186f67277be.jpg?v=1773172828",
       "c": "mujer/camisetas-blusas-tops",
@@ -1939,7 +1948,7 @@
     },
     {
       "id": "interestprint-design-womens-asymmetric-hem-long-sleeve-top-1",
-      "n": "Camiseta Avenue · Blanco",
+      "n": "Camiseta Asymmetric Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f001c51a4e661fc6eeba2f33a26c04e2.jpg?v=1773172872",
       "c": "mujer/camisetas-blusas-tops",
@@ -1948,7 +1957,7 @@
     },
     {
       "id": "interestprint-design-womens-asymmetric-hem-long-sleeve-top-2",
-      "n": "Camiseta Avenue · Blanco",
+      "n": "Camiseta Asymmetric Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/adc58a546583bd0763699f0d0b8c7459.jpg?v=1773172880",
       "c": "mujer/camisetas-blusas-tops",
@@ -1957,7 +1966,7 @@
     },
     {
       "id": "interestprint-design-womens-asymmetric-hem-long-sleeve-top-3",
-      "n": "Camiseta Avenue · Blanco",
+      "n": "Camiseta Asymmetric Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b84c38aa825e766c307b24ed2b078038.jpg?v=1773172889",
       "c": "mujer/camisetas-blusas-tops",
@@ -1966,7 +1975,7 @@
     },
     {
       "id": "interestprint-design-womens-asymmetric-hem-long-sleeve-top-4",
-      "n": "Camiseta Avenue · Blanco",
+      "n": "Camiseta Asymmetric Hem · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4020b7c8b6952317ec02c6e44e7f37b5.jpg?v=1773172934",
       "c": "mujer/camisetas-blusas-tops",
@@ -2002,7 +2011,7 @@
     },
     {
       "id": "interestprint-design-ruffled-plunge-one-piece-swimwear",
-      "n": "Bañador Soho · Blanco",
+      "n": "Bañador Ruffled Plunge · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/22d0acedd172a14f444a5188786cbed6.jpg?v=1771518439",
       "c": "hombre/banador",
@@ -2011,7 +2020,7 @@
     },
     {
       "id": "interestprint-design-ruffled-plunge-one-piece-swimwear-1",
-      "n": "Bañador Soho · Blanco",
+      "n": "Bañador Ruffled Plunge · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ca787ed3588263784cf809cd816486b0.jpg?v=1771518447",
       "c": "hombre/banador",
@@ -2020,7 +2029,7 @@
     },
     {
       "id": "interestprint-design-ruffled-plunge-one-piece-swimwear-2",
-      "n": "Bañador Soho · Blanco",
+      "n": "Bañador Ruffled Plunge · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/67b619cb4c4aa124c4c1c56d085f9c6c.jpg?v=1771518460",
       "c": "hombre/banador",
@@ -2029,7 +2038,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-mini-dress",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0a02f7c72fdb611656e6962d57d1e21d.jpg?v=1771519483",
       "c": "mujer/vestidos-monos-petos",
@@ -2038,7 +2047,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-mini-dress-1",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b16da979f8f491c54e2d0b955d92a072.jpg?v=1771519614",
       "c": "mujer/vestidos-monos-petos",
@@ -2047,7 +2056,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-mini-dress-2",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/fa43d156955a4f6ea1679cf2b313059f.jpg?v=1771519622",
       "c": "mujer/vestidos-monos-petos",
@@ -2056,7 +2065,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-mini-dress-3",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8b99907385e6f947ac3a34a8a6515cf7.jpg?v=1771519632",
       "c": "mujer/vestidos-monos-petos",
@@ -2065,7 +2074,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-mini-dress-4",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f4a45aa1e11de5a28c222ce98309359b.jpg?v=1771519755",
       "c": "mujer/vestidos-monos-petos",
@@ -2074,7 +2083,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-mini-dress-5",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/7a7e8083aa45f35f2cbb7960d58a0982.jpg?v=1771519764",
       "c": "mujer/vestidos-monos-petos",
@@ -2083,7 +2092,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-mini-dress-6",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4d80f68aed6ff43c324ea79ed8e63e15.jpg?v=1771519773",
       "c": "mujer/vestidos-monos-petos",
@@ -2092,7 +2101,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-mini-dress-7",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/30d4734b056b8477e57073486e30280d.jpg?v=1771519840",
       "c": "mujer/vestidos-monos-petos",
@@ -2101,7 +2110,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-mini-dress-8",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0666e746b2672cfe5d6adbbb307afdc7.jpg?v=1771519851",
       "c": "mujer/vestidos-monos-petos",
@@ -2110,7 +2119,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-mini-dress-9",
-      "n": "Vestido Noir · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2493dfb3669179755dc11b1c1dff8502.jpg?v=1771519859",
       "c": "mujer/vestidos-monos-petos",
@@ -2119,7 +2128,7 @@
     },
     {
       "id": "interestprint-design-crew-neck-sleeveless-dress",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f8618f71100cc1f2628891a9e42d237e.jpg?v=1772129681",
       "c": "mujer/vestidos-monos-petos",
@@ -2128,7 +2137,7 @@
     },
     {
       "id": "interestprint-design-crew-neck-sleeveless-dress-1",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/688580ce1cf8d552cc73bb3e369ba895.jpg?v=1772129690",
       "c": "mujer/vestidos-monos-petos",
@@ -2137,7 +2146,7 @@
     },
     {
       "id": "interestprint-design-crew-neck-sleeveless-dress-2",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/498eeb1eb8c03a76916b2143cd47ce19.jpg?v=1772129701",
       "c": "mujer/vestidos-monos-petos",
@@ -2146,7 +2155,7 @@
     },
     {
       "id": "interestprint-design-crew-neck-sleeveless-dress-3",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c72d98c5d4d62718e332d8fbba97989b.jpg?v=1772129762",
       "c": "mujer/vestidos-monos-petos",
@@ -2155,7 +2164,7 @@
     },
     {
       "id": "interestprint-design-criss-cross-back-one-piece-swimsuit",
-      "n": "Bañador Imperial · Blanco",
+      "n": "Bañador Criss Cross Back · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/625c97b279a43cd25b6a2bcfceea7ef5.jpg?v=1771518783",
       "c": "hombre/banador",
@@ -2164,7 +2173,7 @@
     },
     {
       "id": "interestprint-design-criss-cross-back-one-piece-swimsuit-1",
-      "n": "Bañador Imperial · Blanco",
+      "n": "Bañador Criss Cross Back · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/329d4f427b973c7d1c9212dbed738882.jpg?v=1771518963",
       "c": "hombre/banador",
@@ -2173,7 +2182,7 @@
     },
     {
       "id": "interestprint-design-criss-cross-back-one-piece-swimsuit-2",
-      "n": "Bañador Imperial · Blanco",
+      "n": "Bañador Criss Cross Back · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0517e4b58b100426001d99e82531cc79.jpg?v=1771518977",
       "c": "hombre/banador",
@@ -2182,7 +2191,7 @@
     },
     {
       "id": "interestprint-design-criss-cross-back-one-piece-swimsuit-3",
-      "n": "Bañador Imperial · Blanco",
+      "n": "Bañador Criss Cross Back · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/529ed3a3e16a0f82cce24cfbbe172946.jpg?v=1771518987",
       "c": "hombre/banador",
@@ -2191,7 +2200,7 @@
     },
     {
       "id": "interestprint-design-criss-cross-back-one-piece-swimsuit-4",
-      "n": "Bañador Imperial · Blanco",
+      "n": "Bañador Criss Cross Back · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b4c03fd6c4bc2978f49bcf214b3a6e98.jpg?v=1771519031",
       "c": "hombre/banador",
@@ -2200,7 +2209,7 @@
     },
     {
       "id": "interestprint-design-women-s-off-shoulder-ruffle-one-piece-swimsuit",
-      "n": "Bañador Manhattan · Blanco",
+      "n": "Bañador Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e9f55fa634897d7a03d20ba8fd156bad.jpg?v=1771517655",
       "c": "mujer/trajes-bano",
@@ -2209,7 +2218,7 @@
     },
     {
       "id": "interestprint-design-women-s-off-shoulder-ruffle-one-piece-swimsuit-1",
-      "n": "Bañador Manhattan · Blanco",
+      "n": "Bañador Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a699ca40cf3cd59c2e61b790c8a65bee.jpg?v=1771517744",
       "c": "mujer/trajes-bano",
@@ -2218,7 +2227,7 @@
     },
     {
       "id": "interestprint-design-women-s-off-shoulder-ruffle-one-piece-swimsuit-2",
-      "n": "Bañador Manhattan · Blanco",
+      "n": "Bañador Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1c814035d35766c4da1059228be60c03.jpg?v=1771517752",
       "c": "mujer/trajes-bano",
@@ -2227,7 +2236,7 @@
     },
     {
       "id": "interestprint-design-womens-sleeveless-midi-dress",
-      "n": "Vestido Riviera · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/04666a9cd8aeef95ace97ed467a0265f.jpg?v=1771853789",
       "c": "mujer/vestidos-monos-petos",
@@ -2236,7 +2245,7 @@
     },
     {
       "id": "interestprint-design-womens-sleeveless-midi-dress-1",
-      "n": "Vestido Riviera · Blanco",
+      "n": "Vestido Sleeveless · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3c5ab18c6aa27e70ef11cd305a44344b.jpg?v=1771853816",
       "c": "mujer/vestidos-monos-petos",
@@ -2272,7 +2281,7 @@
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-11",
-      "n": "Camisa Imperial · Blanco",
+      "n": "Camisa Flap Pocket · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/18da2ca76da43107d04a0c3935088093.jpg?v=1771006193",
       "c": "hombre/camisas",
@@ -2281,7 +2290,7 @@
     },
     {
       "id": "interestprint-design-mens-stand-collar-sweatshirt",
-      "n": "Sudadera Atelier · Blanco",
+      "n": "Sudadera Stand Collar · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0402cf2248bddb01f200e764f0421dff.jpg?v=1771006270",
       "c": "hombre/chandal-sudaderas",
@@ -2290,7 +2299,7 @@
     },
     {
       "id": "interestprint-design-mens-stand-collar-sweatshirt-1",
-      "n": "Sudadera Atelier · Blanco",
+      "n": "Sudadera Stand Collar · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/504c4d0cf431aa428991e66430fd932b.jpg?v=1771006499",
       "c": "hombre/chandal-sudaderas",
@@ -2299,7 +2308,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-pajama-pants",
-      "n": "Pijama Madison · Blanco",
+      "n": "Pijama Ruffle Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/eaf601ccd5ef9f37a1fedfb11244cab9.jpg?v=1771521132",
       "c": "mujer/batas-pijamas",
@@ -2308,7 +2317,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-pajama-pants-1",
-      "n": "Pijama Madison · Blanco",
+      "n": "Pijama Ruffle Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b28425683b5802650b6f677fc450a79d.jpg?v=1771521143",
       "c": "mujer/batas-pijamas",
@@ -2317,7 +2326,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-pajama-pants-2",
-      "n": "Pijama Madison · Blanco",
+      "n": "Pijama Ruffle Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/46afc6666a77e952a42ecc4924df035e.jpg?v=1771521248",
       "c": "mujer/batas-pijamas",
@@ -2326,7 +2335,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-pajama-pants-3",
-      "n": "Pijama Madison · Blanco",
+      "n": "Pijama Ruffle Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/fbe01351f623916a1e5e65767828ade6.jpg?v=1771521256",
       "c": "mujer/batas-pijamas",
@@ -2335,7 +2344,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-baseball-jersey",
-      "n": "Camisa Noir · Blanco",
+      "n": "Camisa Baseball · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5a60aad33fe0e37667230bd24d1dba1d.jpg?v=1772129413",
       "c": "mujer/camisas",
@@ -2344,7 +2353,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-baseball-jersey-1",
-      "n": "Camisa Noir · Blanco",
+      "n": "Camisa Baseball · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/49ba107d208d615f9c1c4ba5daccc9e2.jpg?v=1772129460",
       "c": "mujer/camisas",
@@ -2353,7 +2362,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-baseball-jersey-2",
-      "n": "Camisa Noir · Blanco",
+      "n": "Camisa Baseball · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ad002361de04f34c740b1d208937675f.jpg?v=1772129470",
       "c": "mujer/camisas",
@@ -2362,7 +2371,7 @@
     },
     {
       "id": "interestprint-10oz-whiskey-glass-ships-from-usa",
-      "n": "Vaso Riviera",
+      "n": "Vaso Whiskey Glass Ships",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ba084247d6657faee5ac92240d06d872.jpg?v=1771869468",
       "c": "decor",
@@ -2371,7 +2380,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/db39e5b8228e70b39b203565f8da1104.jpg?v=1772133437",
       "c": "hombre/conjuntos",
@@ -2380,7 +2389,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-1",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/056935f24770083c5f0d58f50a3b3407.jpg?v=1772133447",
       "c": "hombre/conjuntos",
@@ -2389,7 +2398,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-10",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e25467c53cc494801679b13ff2e84be9.jpg?v=1772133668",
       "c": "hombre/conjuntos",
@@ -2398,7 +2407,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-11",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/7d4bde00537dee584bc3039f0de01857.jpg?v=1772133721",
       "c": "hombre/conjuntos",
@@ -2407,7 +2416,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-2",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/359587ff7de24bf4270ae07f0dd8a5e9.jpg?v=1772133504",
       "c": "hombre/conjuntos",
@@ -2416,7 +2425,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-3",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5ba5b452d58ee0b22b9ae401fdf96cab.jpg?v=1772133517",
       "c": "hombre/conjuntos",
@@ -2425,7 +2434,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-4",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/41d9ced403d9e3e2266c2a0615a2cb81.jpg?v=1772133525",
       "c": "hombre/conjuntos",
@@ -2434,7 +2443,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-5",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3188651186e80f5c9c02fbf1d1e442da.jpg?v=1772133566",
       "c": "hombre/conjuntos",
@@ -2443,7 +2452,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-6",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4fe921f5fea1aca6be3c92084010db95.jpg?v=1772133576",
       "c": "hombre/conjuntos",
@@ -2452,7 +2461,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-7",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5719d8b9df809afec76b3992abf6fc02.jpg?v=1772133585",
       "c": "hombre/conjuntos",
@@ -2461,7 +2470,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-8",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a7c60b388f09f2d7de3450a5d68be87e.jpg?v=1772133650",
       "c": "hombre/conjuntos",
@@ -2470,7 +2479,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-9",
-      "n": "Mono Avenue · Blanco",
+      "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/72ba27f15346473c1a4d15a979d095de.jpg?v=1772133659",
       "c": "hombre/conjuntos",
@@ -2632,7 +2641,7 @@
     },
     {
       "id": "interestprint-design-women-s-casual-spaghetti-strap-midi-dress",
-      "n": "Vestido Manhattan · Blanco",
+      "n": "Vestido Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/7b4adb7345888c0adfa8d89515f20e08.jpg?v=1771519055",
       "c": "mujer/vestidos-monos-petos",
@@ -2641,7 +2650,7 @@
     },
     {
       "id": "interestprint-design-women-s-casual-spaghetti-strap-midi-dress-1",
-      "n": "Vestido Manhattan · Blanco",
+      "n": "Vestido Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ca4fdbea287fd429635ad71973579198.jpg?v=1771519068",
       "c": "mujer/vestidos-monos-petos",
@@ -2650,7 +2659,7 @@
     },
     {
       "id": "interestprint-design-women-s-casual-spaghetti-strap-midi-dress-2",
-      "n": "Vestido Manhattan · Blanco",
+      "n": "Vestido Spaghetti Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/641b0a54018376ce1ce163893f49f0ca.jpg?v=1771519081",
       "c": "mujer/vestidos-monos-petos",
@@ -2659,7 +2668,7 @@
     },
     {
       "id": "interestprint-design-womens-v-neck-long-sleeve-pajama-set",
-      "n": "Pijama Avenue · Blanco",
+      "n": "Pijama Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/179a537e39f1c8193f63ff7b933c107f.jpg?v=1772129308",
       "c": "mujer/batas-pijamas",
@@ -2668,7 +2677,7 @@
     },
     {
       "id": "interestprint-design-womens-v-neck-long-sleeve-pajama-set-1",
-      "n": "Pijama Avenue · Blanco",
+      "n": "Pijama Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5b40f21dbc1c631db2d3bd5d192d22b6.jpg?v=1772129320",
       "c": "mujer/batas-pijamas",
@@ -2677,7 +2686,7 @@
     },
     {
       "id": "interestprint-design-yoga-zipper-vest",
-      "n": "Chaleco Avenue · Blanco",
+      "n": "Chaleco Yoga Zipper Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/960cf202e939805b712cd979de709d3a.jpg?v=1771522228",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -2686,7 +2695,7 @@
     },
     {
       "id": "interestprint-design-yoga-zipper-vest-1",
-      "n": "Chaleco Avenue · Blanco",
+      "n": "Chaleco Yoga Zipper Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/47408d6cfd71e29e9f6ddefa1735588d.jpg?v=1771522237",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -2695,7 +2704,7 @@
     },
     {
       "id": "interestprint-design-yoga-zipper-vest-2",
-      "n": "Chaleco Avenue · Blanco",
+      "n": "Chaleco Yoga Zipper Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/928c8a82b3e61dfb326945059c605ae5.jpg?v=1771522266",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -2704,7 +2713,7 @@
     },
     {
       "id": "interestprint-design-yoga-zipper-vest-3",
-      "n": "Chaleco Avenue · Blanco",
+      "n": "Chaleco Yoga Zipper Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/170c220b7c4c53d6ba0f2e6f979b3919.jpg?v=1771522276",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -2713,7 +2722,7 @@
     },
     {
       "id": "interestprint-design-yoga-zipper-vest-4",
-      "n": "Chaleco Avenue · Blanco",
+      "n": "Chaleco Yoga Zipper Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3c5216da455509d303b32882a4f47643.jpg?v=1771522286",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -2722,7 +2731,7 @@
     },
     {
       "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress",
-      "n": "Vestido Madison · Blanco",
+      "n": "Vestido Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b52d10907c977fa8eb7065579a550c86.jpg?v=1773173893",
       "c": "mujer/vestidos-monos-petos",
@@ -2731,7 +2740,7 @@
     },
     {
       "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-1",
-      "n": "Vestido Madison · Blanco",
+      "n": "Vestido Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/46d2bf2da8ca7bba5b60c4ae410f1bbc.jpg?v=1773173901",
       "c": "mujer/vestidos-monos-petos",
@@ -2740,7 +2749,7 @@
     },
     {
       "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-2",
-      "n": "Vestido Madison · Blanco",
+      "n": "Vestido Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/704d478aa7c5ee1bfb9c143f1396b554.jpg?v=1773173908",
       "c": "mujer/vestidos-monos-petos",
@@ -2749,7 +2758,7 @@
     },
     {
       "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-3",
-      "n": "Vestido Madison · Blanco",
+      "n": "Vestido Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0d3773e446f9f4181070438d23c58ba8.jpg?v=1773173977",
       "c": "mujer/vestidos-monos-petos",
@@ -2758,7 +2767,7 @@
     },
     {
       "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-4",
-      "n": "Vestido Madison · Blanco",
+      "n": "Vestido Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6630e45e6ee1a8c6e4c258a70e2bf70f.jpg?v=1773173987",
       "c": "mujer/vestidos-monos-petos",
@@ -2767,7 +2776,7 @@
     },
     {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-10",
-      "n": "Falda Noir",
+      "n": "Falda Conjunto Dos Piezas",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726761661-1-hMa66OBC5o.jpg?v=1726761719",
       "c": "mujer/falda",
@@ -2776,7 +2785,7 @@
     },
     {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-4",
-      "n": "Falda Noir",
+      "n": "Falda Conjunto Dos Piezas",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726761099-1-98do01cVrk.jpg?v=1726761161",
       "c": "mujer/falda",
@@ -2785,7 +2794,7 @@
     },
     {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-6",
-      "n": "Falda Noir",
+      "n": "Falda Conjunto Dos Piezas",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726761316-1-EmIGVpu47J.jpg?v=1726761372",
       "c": "mujer/falda",
@@ -2794,7 +2803,7 @@
     },
     {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-7",
-      "n": "Falda Noir",
+      "n": "Falda Conjunto Dos Piezas",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726761381-1-p3bZBmYFRN.jpg?v=1726761435",
       "c": "mujer/falda",
@@ -2803,7 +2812,7 @@
     },
     {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-8",
-      "n": "Falda Noir",
+      "n": "Falda Conjunto Dos Piezas",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726761450-1-Ih4LGoSd1z.jpg?v=1726761505",
       "c": "mujer/falda",
@@ -2812,7 +2821,7 @@
     },
     {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-9",
-      "n": "Falda Noir",
+      "n": "Falda Conjunto Dos Piezas",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726761535-7-BTQFarx5Wi.jpg?v=1773437364",
       "c": "mujer/falda",
@@ -2902,7 +2911,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/fcf1adafbc8a844273f73ea3a14069a2.jpg?v=1771868953",
       "c": "mujer/camisetas-blusas-tops",
@@ -2911,7 +2920,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-1",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9423260e4cc93abe6e2502d2aaf794f5.jpg?v=1771868965",
       "c": "mujer/camisetas-blusas-tops",
@@ -2920,7 +2929,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-10",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0191d322943ada2d7d08fa43b80a0594.jpg?v=1771869158",
       "c": "mujer/camisetas-blusas-tops",
@@ -2929,7 +2938,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-11",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5821c2661432ba8aeed8f37f2970ad0f.jpg?v=1771869185",
       "c": "mujer/camisetas-blusas-tops",
@@ -2938,7 +2947,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-12",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/136bfecf001c0f627e50f590d4bd039e.jpg?v=1771869192",
       "c": "mujer/camisetas-blusas-tops",
@@ -2947,7 +2956,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-13",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f00637539fd46ba174747cf1119334a6.jpg?v=1771869201",
       "c": "mujer/camisetas-blusas-tops",
@@ -2956,7 +2965,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-2",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8d87ade952a514206cda86fb5378fc52.jpg?v=1771868989",
       "c": "mujer/camisetas-blusas-tops",
@@ -2965,7 +2974,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-3",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/896a06d93703d1ac4fdb4b8599dbb1df.jpg?v=1771868997",
       "c": "mujer/camisetas-blusas-tops",
@@ -2974,7 +2983,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-4",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/81e472f2a52f36b8e7357f49206524c6.jpg?v=1771869005",
       "c": "mujer/camisetas-blusas-tops",
@@ -2983,7 +2992,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-5",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/356e238c5ffb99715b05381dc2cf67de.jpg?v=1771869074",
       "c": "mujer/camisetas-blusas-tops",
@@ -2992,7 +3001,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-6",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1471b5f0232e645a2f691c55440fde82.jpg?v=1771869083",
       "c": "mujer/camisetas-blusas-tops",
@@ -3001,7 +3010,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-7",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3d1a58f71771704fb4007661b46f63d8.jpg?v=1771869091",
       "c": "mujer/camisetas-blusas-tops",
@@ -3010,7 +3019,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-8",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b672e118bb932c9b328b5842fb9651a8.jpg?v=1771869140",
       "c": "mujer/camisetas-blusas-tops",
@@ -3019,7 +3028,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-9",
-      "n": "Blusa Avenue · Blanco",
+      "n": "Blusa Blouse · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3ccbb2e8a195dda1ac77af8e7b87d8d0.jpg?v=1771869149",
       "c": "mujer/camisetas-blusas-tops",
@@ -3136,7 +3145,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-strap-dress",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Ruffled Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9d916746460408876c987569767568f4.jpg?v=1772129968",
       "c": "mujer/vestidos-monos-petos",
@@ -3145,7 +3154,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-strap-dress-1",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Ruffled Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/93554492a3e563f9a9e445d19a59818c.jpg?v=1772130069",
       "c": "mujer/vestidos-monos-petos",
@@ -3154,7 +3163,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-strap-dress-2",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Ruffled Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c1e9423bf6665697ad33cbc9457cd7b1.jpg?v=1772130077",
       "c": "mujer/vestidos-monos-petos",
@@ -3163,7 +3172,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-strap-dress-3",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Ruffled Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2bccedc75f016bd0c051eacbc1365fee.jpg?v=1772130087",
       "c": "mujer/vestidos-monos-petos",
@@ -3172,7 +3181,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-strap-dress-4",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Ruffled Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/aa48febdb307b40004cef6c7311326bf.jpg?v=1772130607",
       "c": "mujer/vestidos-monos-petos",
@@ -3181,7 +3190,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-strap-dress-5",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Ruffled Strap · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/aaaec064d4d0d178c9890c6541c6d3fd.jpg?v=1772130619",
       "c": "mujer/vestidos-monos-petos",
@@ -3190,7 +3199,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-sleeve-tiered-midi-dress",
-      "n": "Vestido Atelier · Blanco",
+      "n": "Vestido Ruffle Tiered · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9d68647d1df42be148c0cd72eeb24229.jpg?v=1771519009",
       "c": "mujer/vestidos-monos-petos",
@@ -3199,7 +3208,7 @@
     },
     {
       "id": "interestprint-design-women-s-ruffle-sleeve-tiered-midi-dress-1",
-      "n": "Vestido Atelier · Blanco",
+      "n": "Vestido Ruffle Tiered · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1187e51ef056d85d01b88a0fccea56aa.jpg?v=1771519022",
       "c": "mujer/vestidos-monos-petos",
@@ -3208,7 +3217,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-short-sleeve-pajama-set",
-      "n": "Pijama Avenue · Blanco",
+      "n": "Pijama Ruffled Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/39da4ce17e6089891d55023d3675eab5.jpg?v=1771869222",
       "c": "mujer/batas-pijamas",
@@ -3217,7 +3226,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-short-sleeve-pajama-set-1",
-      "n": "Pijama Avenue · Blanco",
+      "n": "Pijama Ruffled Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c8c65f09a543cd7f0c134ee7d151a898.jpg?v=1771869231",
       "c": "mujer/batas-pijamas",
@@ -3226,7 +3235,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-short-sleeve-pajama-set-2",
-      "n": "Pijama Avenue · Blanco",
+      "n": "Pijama Ruffled Pajama · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/eb06e1eedc084c5d304e81c55ea74ba1.jpg?v=1771869239",
       "c": "mujer/batas-pijamas",
@@ -3235,7 +3244,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/69a678d46ffb0153c8c416ce37a6bbc8.jpg?v=1772132690",
       "c": "mujer/vestidos-monos-petos",
@@ -3244,7 +3253,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-1",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e0656b389c1da9bcd0b95ac98a15614b.jpg?v=1772132753",
       "c": "mujer/vestidos-monos-petos",
@@ -3253,7 +3262,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-10",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4304b069f11d45b6eddc22f2a3b018f1.jpg?v=1772133181",
       "c": "mujer/vestidos-monos-petos",
@@ -3262,7 +3271,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-11",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/13a0d08d7d00262f0383f1a6c68d23f6.jpg?v=1772133189",
       "c": "mujer/vestidos-monos-petos",
@@ -3271,7 +3280,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-12",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/fada6da4abb7849aaf95f54d1f49763b.jpg?v=1772133207",
       "c": "mujer/vestidos-monos-petos",
@@ -3280,7 +3289,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-13",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f549ec2154ecf1fb12312f4d33f7e3f3.jpg?v=1772133247",
       "c": "mujer/vestidos-monos-petos",
@@ -3289,7 +3298,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-14",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/825f5a99885122f7c8630bc48b2f35fd.jpg?v=1772133255",
       "c": "mujer/vestidos-monos-petos",
@@ -3298,7 +3307,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-15",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/aad645b1501c47c753d51d57d46881e8.jpg?v=1772133265",
       "c": "mujer/vestidos-monos-petos",
@@ -3307,7 +3316,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-16",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1fbbe98deb7321efbacfce6855890c4f.jpg?v=1772133350",
       "c": "mujer/vestidos-monos-petos",
@@ -3316,7 +3325,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-17",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ac615192768014b42a792904b9b46291.jpg?v=1772133403",
       "c": "mujer/vestidos-monos-petos",
@@ -3325,7 +3334,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-18",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/58a4bcec9bb92c1b4576b6244af07aba.jpg?v=1772133413",
       "c": "mujer/vestidos-monos-petos",
@@ -3334,7 +3343,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-19",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0e1534de3641dc920751606535206cb5.jpg?v=1772133458",
       "c": "mujer/vestidos-monos-petos",
@@ -3343,7 +3352,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-2",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5045b9e49eea96ded188173bf21c7426.jpg?v=1772132762",
       "c": "mujer/vestidos-monos-petos",
@@ -3352,7 +3361,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-3",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/615e983453e6cce7446f5ef372cde76c.jpg?v=1772132772",
       "c": "mujer/vestidos-monos-petos",
@@ -3361,7 +3370,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-4",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/389182a66006c1f1fb7be360c6077c5f.jpg?v=1772132814",
       "c": "mujer/vestidos-monos-petos",
@@ -3370,7 +3379,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-5",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0df59640d262c7c896f62b45bb4a50ba.jpg?v=1772132823",
       "c": "mujer/vestidos-monos-petos",
@@ -3379,7 +3388,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-6",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3987e6a5198d6fae58c90d7212b00e94.jpg?v=1772132832",
       "c": "mujer/vestidos-monos-petos",
@@ -3388,7 +3397,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-7",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8206f0c12bebd8622d23481d0c542817.jpg?v=1772133121",
       "c": "mujer/vestidos-monos-petos",
@@ -3397,7 +3406,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-8",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3809405fcc88d54ee86b2fb6afc302c4.jpg?v=1772133130",
       "c": "mujer/vestidos-monos-petos",
@@ -3406,7 +3415,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-9",
-      "n": "Mono Monogram · Blanco",
+      "n": "Mono Suspender Jumpsuit · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5698428073d5b5744ce6c0afb7eb79cd.jpg?v=1772133139",
       "c": "mujer/vestidos-monos-petos",
@@ -3415,7 +3424,7 @@
     },
     {
       "id": "interestprint-design-fleece-hooded-cape-for-adults",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Cape Adults · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5e5b5cc285391230a599d23b2417a887.jpg?v=1773173400",
       "c": "hombre/chandal-sudaderas",
@@ -3424,7 +3433,7 @@
     },
     {
       "id": "interestprint-design-fleece-hooded-cape-for-adults-1",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Cape Adults · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/dd80d7eca8f25b9179553ee35eabe66a.jpg?v=1773173447",
       "c": "hombre/chandal-sudaderas",
@@ -3433,7 +3442,7 @@
     },
     {
       "id": "interestprint-design-fleece-hooded-cape-for-adults-2",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Cape Adults · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e028c5df69d4deeb036cea4dfd5fdc8e.jpg?v=1773173453",
       "c": "hombre/chandal-sudaderas",
@@ -3442,7 +3451,7 @@
     },
     {
       "id": "interestprint-design-womens-kaftan-midi-dress",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Kaftan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8b7f405cedb69a7a1d7ed135662b9042.jpg?v=1773173832",
       "c": "mujer/vestidos-monos-petos",
@@ -3451,7 +3460,7 @@
     },
     {
       "id": "interestprint-design-womens-kaftan-midi-dress-1",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Kaftan · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5eb663fadacb687f1dc512c320aeb452.jpg?v=1773173841",
       "c": "mujer/vestidos-monos-petos",
@@ -3460,7 +3469,7 @@
     },
     {
       "id": "shopify-design-womens-kaftan-midi-dress-2",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Kaftan · Blanco",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/86be380576fc1645f2bb2cbd3d81ebb0.jpg?v=1773173848",
       "c": "mujer/vestidos-monos-petos",
@@ -3469,7 +3478,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3184e9a9741c9f4d5b0b4208a187fca8.jpg?v=1771604067",
       "c": "mujer/vestidos-monos-petos",
@@ -3478,7 +3487,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-1",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/26db8f6abd25dcf9461888b0e17d4f5d.jpg?v=1771604090",
       "c": "mujer/vestidos-monos-petos",
@@ -3487,7 +3496,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-10",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/23213abb4111de64d14a1ba4441d17ff.jpg?v=1771604243",
       "c": "mujer/vestidos-monos-petos",
@@ -3496,7 +3505,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-11",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2486b7f192c2f277b6028a675930869a.jpg?v=1771604255",
       "c": "mujer/vestidos-monos-petos",
@@ -3505,7 +3514,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-12",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/502fcc333210f5106199a47bdfb8f891.jpg?v=1771604270",
       "c": "mujer/vestidos-monos-petos",
@@ -3514,7 +3523,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-13",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/87fb829ba0b2f5c1f9979494b8c58ab1.jpg?v=1771604278",
       "c": "mujer/vestidos-monos-petos",
@@ -3523,7 +3532,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-14",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6886527572f9e2bf5ed6e6c826cdd4a3.jpg?v=1771604286",
       "c": "mujer/vestidos-monos-petos",
@@ -3532,7 +3541,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-2",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/967bd53a31a1bbbb0255600d1a99acf0.jpg?v=1771604110",
       "c": "mujer/vestidos-monos-petos",
@@ -3541,7 +3550,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-3",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8a1e3947f0e38bdc38d121760e51d78f.jpg?v=1771604140",
       "c": "mujer/vestidos-monos-petos",
@@ -3550,7 +3559,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-4",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/336de519698fec0fe5053246616f4705.jpg?v=1771604157",
       "c": "mujer/vestidos-monos-petos",
@@ -3559,7 +3568,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-5",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2724b423471ee1579ea3812118ddbc2e.jpg?v=1771604168",
       "c": "mujer/vestidos-monos-petos",
@@ -3568,7 +3577,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-6",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/96d80258524b1fbba2e3dea8b27efa06.jpg?v=1771604198",
       "c": "mujer/vestidos-monos-petos",
@@ -3577,7 +3586,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-7",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8b186f98b6255dcb629407b6c2393e0d.jpg?v=1771604219",
       "c": "mujer/vestidos-monos-petos",
@@ -3586,7 +3595,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-8",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1537928c347860e17347587eeb437f41.jpg?v=1771604214",
       "c": "mujer/vestidos-monos-petos",
@@ -3595,7 +3604,7 @@
     },
     {
       "id": "interestprint-design-sleeveless-high-low-hem-dress-9",
-      "n": "Vestido Avenue · Blanco",
+      "n": "Vestido Sleeveless High Low · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a6ec16c55310c01422725e23baa8a412.jpg?v=1771604234",
       "c": "mujer/vestidos-monos-petos",
@@ -3604,7 +3613,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-1-4-zip-quick-dry-shirt",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Quick Dry · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6a2f4f2e059e1b2f00bf44712c20b316.jpg?v=1773172917",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3613,7 +3622,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-1-4-zip-quick-dry-shirt-1",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Quick Dry · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/30099901cc9b2427bbeca3750115f6ec.jpg?v=1773172925",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3622,7 +3631,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-1-4-zip-quick-dry-shirt-2",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Quick Dry · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d5f2155463a039b627f23b981e2e7610.jpg?v=1773172960",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3631,7 +3640,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-1-4-zip-quick-dry-shirt-3",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Quick Dry · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5012ed0deced24431c18521792083b3a.jpg?v=1773172968",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3640,7 +3649,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-1-4-zip-quick-dry-shirt-4",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Quick Dry · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6941b6f7c2c8b93e6f002b3ef482f35c.jpg?v=1773172976",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3649,7 +3658,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-1-4-zip-quick-dry-shirt-5",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Quick Dry · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/38636a1abe3b0270cd8b42d498b9fde0.jpg?v=1773173008",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3658,7 +3667,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-1-4-zip-quick-dry-shirt-6",
-      "n": "Sudadera Madison · Blanco",
+      "n": "Sudadera Quick Dry · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/731d474eb0f097687646b89802d8de05.jpg?v=1773173017",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3667,7 +3676,7 @@
     },
     {
       "id": "interestprint-design-mens-sleeveless-suit-vest",
-      "n": "Chaleco Madison · Blanco",
+      "n": "Chaleco Sleeveless Suit Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ad8f0442abc4254d7c9df74a80db8447.jpg?v=1771006980",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -3676,7 +3685,7 @@
     },
     {
       "id": "interestprint-design-mens-sleeveless-suit-vest-1",
-      "n": "Chaleco Madison · Blanco",
+      "n": "Chaleco Sleeveless Suit Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/db9d02a327a76cb0b67ee0d8b10c17e4.jpg?v=1771006489",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -3685,7 +3694,7 @@
     },
     {
       "id": "interestprint-design-mens-sleeveless-suit-vest-2",
-      "n": "Chaleco Madison · Blanco",
+      "n": "Chaleco Sleeveless Suit Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/17fce608749cfa5a2ec1556dfdb926c6.jpg?v=1771006989",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -3694,7 +3703,7 @@
     },
     {
       "id": "interestprint-design-mens-sleeveless-suit-vest-3",
-      "n": "Chaleco Madison · Blanco",
+      "n": "Chaleco Sleeveless Suit Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e5b1a217e0a884118c6c6f93a9ecd684.jpg?v=1771007010",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -3703,7 +3712,7 @@
     },
     {
       "id": "interestprint-design-mens-sleeveless-suit-vest-4",
-      "n": "Chaleco Madison · Blanco",
+      "n": "Chaleco Sleeveless Suit Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8ff328776609cd34f8d8823c94a7983b.jpg?v=1771007018",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -3712,7 +3721,7 @@
     },
     {
       "id": "interestprint-design-mens-sleeveless-suit-vest-5",
-      "n": "Chaleco Madison · Blanco",
+      "n": "Chaleco Sleeveless Suit Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/eaabb791d98db72285f307eb48a8ed2b.jpg?v=1771007026",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -3721,7 +3730,7 @@
     },
     {
       "id": "interestprint-design-mens-sleeveless-suit-vest-6",
-      "n": "Chaleco Madison · Blanco",
+      "n": "Chaleco Sleeveless Suit Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/56b088c072e8f7dfadb01c890d967bb9.jpg?v=1771006794",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -3730,7 +3739,7 @@
     },
     {
       "id": "interestprint-design-mens-sleeveless-suit-vest-7",
-      "n": "Chaleco Madison · Blanco",
+      "n": "Chaleco Sleeveless Suit Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b140226a2344b5a0df3269a27b2ce33a.jpg?v=1771007117",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -3739,7 +3748,7 @@
     },
     {
       "id": "interestprint-design-mens-sleeveless-suit-vest-8",
-      "n": "Chaleco Madison · Blanco",
+      "n": "Chaleco Sleeveless Suit Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/48d1b3a7c3241bf7951681a6034aa2e9.jpg?v=1771007124",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -3748,7 +3757,7 @@
     },
     {
       "id": "interestprint-design-mens-sleeveless-suit-vest-9",
-      "n": "Chaleco Madison · Blanco",
+      "n": "Chaleco Sleeveless Suit Vest · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3e5c8d9b0fb06942c697ca9ec1d3cdb5.jpg?v=1771007132",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -3757,7 +3766,7 @@
     },
     {
       "id": "interestprint-design-womens-casual-mid-sleeve-ruffle-dress",
-      "n": "Vestido Monogram · Blanco",
+      "n": "Vestido Mid Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/66f0bf0f7e7ee2420b0f559bef7b64c2.jpg?v=1773172414",
       "c": "mujer/vestidos-monos-petos",
@@ -3766,7 +3775,7 @@
     },
     {
       "id": "interestprint-design-womens-casual-mid-sleeve-ruffle-dress-1",
-      "n": "Vestido Monogram · Blanco",
+      "n": "Vestido Mid Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/91e22a30557f2b8fe83791b43a6c0484.jpg?v=1773172439",
       "c": "mujer/vestidos-monos-petos",
@@ -3775,7 +3784,7 @@
     },
     {
       "id": "interestprint-design-womens-casual-mid-sleeve-ruffle-dress-2",
-      "n": "Vestido Monogram · Blanco",
+      "n": "Vestido Mid Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c2da46cfc35e65a260ee713f2133c823.jpg?v=1773172448",
       "c": "mujer/vestidos-monos-petos",
@@ -3784,7 +3793,7 @@
     },
     {
       "id": "interestprint-design-womens-casual-mid-sleeve-ruffle-dress-3",
-      "n": "Vestido Monogram · Blanco",
+      "n": "Vestido Mid Ruffle · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8e65f6e3b4b8baf5cfe0b0ba6fba6a2b.jpg?v=1773172457",
       "c": "mujer/vestidos-monos-petos",
@@ -3793,7 +3802,7 @@
     },
     {
       "id": "interestprint-design-womens-cropped-fleece-jacket",
-      "n": "Sudadera Atelier · Blanco",
+      "n": "Sudadera Cropped · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3d791350c851521ba7eed77669b7f5cc.jpg?v=1773173730",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3802,7 +3811,7 @@
     },
     {
       "id": "interestprint-design-womens-cropped-fleece-jacket-1",
-      "n": "Sudadera Atelier · Blanco",
+      "n": "Sudadera Cropped · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/bca7b95be8480c5b71aa910d7b990f1f.jpg?v=1773173774",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3811,7 +3820,7 @@
     },
     {
       "id": "interestprint-design-womens-sleeveless-v-neck-belted-dress",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless Belted · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ccff276bfaad7d1670469b3542ab2130.jpg?v=1772129743",
       "c": "mujer/vestidos-monos-petos",
@@ -3820,7 +3829,7 @@
     },
     {
       "id": "interestprint-design-womens-sleeveless-v-neck-belted-dress-1",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless Belted · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/7c972bf9a652f46e59f549d902d00e4e.jpg?v=1772129752",
       "c": "mujer/vestidos-monos-petos",
@@ -3829,7 +3838,7 @@
     },
     {
       "id": "interestprint-design-womens-sleeveless-v-neck-belted-dress-2",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless Belted · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/35721f28fbba562af7c04e5b9b1824f0.jpg?v=1772129864",
       "c": "mujer/vestidos-monos-petos",
@@ -3838,7 +3847,7 @@
     },
     {
       "id": "interestprint-design-womens-sleeveless-v-neck-belted-dress-3",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless Belted · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0cce7233a94ed805e95139ccdf9be89a.jpg?v=1772129873",
       "c": "mujer/vestidos-monos-petos",
@@ -3847,7 +3856,7 @@
     },
     {
       "id": "interestprint-design-womens-sleeveless-v-neck-belted-dress-4",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless Belted · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/fe86b11f4d6c4cf49789737cea100b8b.jpg?v=1772129887",
       "c": "mujer/vestidos-monos-petos",
@@ -3856,7 +3865,7 @@
     },
     {
       "id": "interestprint-design-womens-sleeveless-v-neck-belted-dress-5",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless Belted · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c3ebda685023ab63168c1a02b12b6ebd.jpg?v=1772129977",
       "c": "mujer/vestidos-monos-petos",
@@ -3865,7 +3874,7 @@
     },
     {
       "id": "interestprint-design-womens-sleeveless-v-neck-belted-dress-6",
-      "n": "Vestido Soho · Blanco",
+      "n": "Vestido Sleeveless Belted · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6237cfed07355437456ec041488bf46c.jpg?v=1772129986",
       "c": "mujer/vestidos-monos-petos",
@@ -3874,7 +3883,7 @@
     },
     {
       "id": "interestprint-womens-vest-shorts-pajama-set-model-sets-33-ships-from-usa",
-      "n": "Pijama Soho",
+      "n": "Pijama Vest Pajama Model",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8269a4d0e291d8e2791f5ae04fe483cc.jpg?v=1771869593",
       "c": "mujer/batas-pijamas",
@@ -3883,7 +3892,7 @@
     },
     {
       "id": "interestprint-womens-vest-shorts-pajama-set-model-sets-33-ships-from-usa-1",
-      "n": "Pijama Soho",
+      "n": "Pijama Vest Pajama Model",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/349501246bb879e9889a9e50dde66fd3.jpg?v=1771869633",
       "c": "mujer/batas-pijamas",
@@ -3892,7 +3901,7 @@
     },
     {
       "id": "interestprint-womens-vest-shorts-pajama-set-model-sets-33-ships-from-usa-2",
-      "n": "Pijama Soho",
+      "n": "Pijama Vest Pajama Model",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/fe7d9cb45e92ac8f2be2c01132b23142.jpg?v=1771869665",
       "c": "mujer/batas-pijamas",
@@ -3901,7 +3910,7 @@
     },
     {
       "id": "interestprint-mens-long-sleeve-pajama-set-model-sets-02",
-      "n": "Pijama Hudson",
+      "n": "Pijama Pajama Model Sets",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/83d6ec31cc207d8df3d7cf4f4a84575a.jpg?v=1771256018",
       "c": "hombre/albornoz-pijama",
@@ -3910,7 +3919,7 @@
     },
     {
       "id": "interestprint-un-diamante-rojo-sobre-un-fondo-negro-arte-lujo-simbolo-dibujo-logo-alma-unico-4-removebg-p-womens-mary-jane-shoes-1",
-      "n": "Zapatillas Manhattan",
+      "n": "Zapatillas Diamante Sobre Fondo",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/62c3e08c0576e68c3890b6a45f2b39fc.jpg?v=1770924988",
       "c": "calzado-mujer/zapatillas",
@@ -3919,7 +3928,7 @@
     },
     {
       "id": "interestprint-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-removebg-preview-mens-cotton-padded-shoes-model-19291",
-      "n": "Zapatillas Atelier",
+      "n": "Zapatillas Logo Diamante Lujo",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/90bb1013c0f3dca4ff2842882cdb8e69.jpg?v=1770924993",
       "c": "calzado-hombre/zapatillas-hombre",
@@ -3928,7 +3937,7 @@
     },
     {
       "id": "interestprint-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-removebg-preview-mens-cotton-padded-shoes-model-19292",
-      "n": "Zapatillas Atelier",
+      "n": "Zapatillas Logo Diamante Lujo",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/43f9b675fd3558d93ffdf0e944f71296.jpg?v=1770925000",
       "c": "calzado-hombre/zapatillas-hombre",
@@ -3937,7 +3946,7 @@
     },
     {
       "id": "interestprint-design-womens-hooded-puffer-coat",
-      "n": "Chaqueta Soho · Blanco",
+      "n": "Chaqueta Puffer Coat · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/eef0bc8191bd9ab134d364d7253cd237.jpg?v=1773173298",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3946,7 +3955,7 @@
     },
     {
       "id": "interestprint-design-womens-hooded-puffer-coat-1",
-      "n": "Chaqueta Soho · Blanco",
+      "n": "Chaqueta Puffer Coat · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/fc44e7ec8e7df6a669dbf9c9db2c176a.jpg?v=1773173355",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3955,7 +3964,7 @@
     },
     {
       "id": "interestprint-design-womens-hooded-puffer-coat-2",
-      "n": "Chaqueta Soho · Blanco",
+      "n": "Chaqueta Puffer Coat · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ab09908a0b1dbc87fd0218f9e23fbe61.jpg?v=1773173364",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3964,7 +3973,7 @@
     },
     {
       "id": "interestprint-design-womens-hooded-puffer-coat-3",
-      "n": "Chaqueta Soho · Blanco",
+      "n": "Chaqueta Puffer Coat · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b667228cb6a942382def3c981708bdd9.jpg?v=1773173372",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3973,7 +3982,7 @@
     },
     {
       "id": "interestprint-design-womens-hooded-puffer-coat-4",
-      "n": "Chaqueta Soho · Blanco",
+      "n": "Chaqueta Puffer Coat · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/459f17460b940f5d4bdc9c7f83678476.jpg?v=1773173408",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3982,7 +3991,7 @@
     },
     {
       "id": "interestprint-design-womens-hooded-puffer-coat-5",
-      "n": "Chaqueta Soho · Blanco",
+      "n": "Chaqueta Puffer Coat · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6869b4048ca6d6c716a7eb1320e3928d.jpg?v=1773173416",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -3991,7 +4000,7 @@
     },
     {
       "id": "interestprint-design-womens-pullover-windbreaker",
-      "n": "Chaqueta Atelier · Blanco",
+      "n": "Chaqueta Windbreaker · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f413ad4cc07dda4b672499099f6046e2.jpg?v=1773173179",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4000,7 +4009,7 @@
     },
     {
       "id": "interestprint-design-womens-pullover-windbreaker-1",
-      "n": "Chaqueta Atelier · Blanco",
+      "n": "Chaqueta Windbreaker · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/345a8a4d37199fdc56e2766e7269ea95.jpg?v=1773173186",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4009,7 +4018,7 @@
     },
     {
       "id": "interestprint-design-womens-pullover-windbreaker-2",
-      "n": "Chaqueta Atelier · Blanco",
+      "n": "Chaqueta Windbreaker · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4969a0c7bfb63d64ee38d8a0135cfd69.jpg?v=1773173217",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4018,7 +4027,7 @@
     },
     {
       "id": "interestprint-design-womens-pullover-windbreaker-3",
-      "n": "Chaqueta Atelier · Blanco",
+      "n": "Chaqueta Windbreaker · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/83f463794e03a646bc244f502dee71db.jpg?v=1773173225",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4027,7 +4036,7 @@
     },
     {
       "id": "interestprint-design-womens-pullover-windbreaker-4",
-      "n": "Chaqueta Atelier · Blanco",
+      "n": "Chaqueta Windbreaker · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a2ef2db33ae86d0c5a60f3c46b8b102e.jpg?v=1773173235",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4036,7 +4045,7 @@
     },
     {
       "id": "interestprint-un-diamante-con-fondo-blanco-y-lineas-negras-arte-4-removebg-preview-womens-jeans-front-printing-ships-from-usa",
-      "n": "Pantalón Madison",
+      "n": "Pantalón Diamante Fondo Líneas",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d1eb839591b41a1a21049ada2f6c9915.jpg?v=1771869682",
       "c": "mujer/pantalones",
@@ -4045,7 +4054,7 @@
     },
     {
       "id": "interestprint-un-diamante-rojo-sobre-un-fondo-negro-arte-lujo-simbolo-dibujo-logo-alma-unico-4-removebg-p-womens-jeans-front-printing-ships-from-usa",
-      "n": "Zapatillas Manhattan",
+      "n": "Zapatillas Diamante Sobre Fondo",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/caf3bac3db88274b1466711cee0fc60a.jpg?v=1771869687",
       "c": "mujer/pantalones",
@@ -4054,7 +4063,7 @@
     },
     {
       "id": "interestprint-womens-jeans-back-printing-ships-from-usa",
-      "n": "Pantalón Hudson",
+      "n": "Pantalón Jeans Back Printing",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0613eac03e85acbbaa00ef8c5dd1f0bc.jpg?v=1771869796",
       "c": "mujer/pantalones",
@@ -4063,7 +4072,7 @@
     },
     {
       "id": "interestprint-womens-jeans-back-printing-ships-from-usa-1",
-      "n": "Pantalón Hudson",
+      "n": "Pantalón Jeans Back Printing",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f2b92040fc4f3bfd4d6d1eb038720890.jpg?v=1771869845",
       "c": "mujer/pantalones",
@@ -4072,7 +4081,7 @@
     },
     {
       "id": "interestprint-womens-jeans-front-printing-ships-from-usa",
-      "n": "Pantalón Soho",
+      "n": "Pantalón Jeans Front Printing",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b41e196f946732cabb47aae81ec7765b.jpg?v=1771869742",
       "c": "mujer/pantalones",
@@ -4081,7 +4090,7 @@
     },
     {
       "id": "interestprint-design-men-s-long-sleeve-rash-guard-ships-from-usa-black",
-      "n": "Bañador Hudson · Negro",
+      "n": "Bañador Rash Guard Ships · Negro",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/7268b5a61ea5132dc8c39799d5af13f7.jpg?v=1771869697",
       "c": "hombre/banador",
@@ -4090,7 +4099,7 @@
     },
     {
       "id": "interestprint-design-men-s-long-sleeve-rash-guard-ships-from-usa-flower-grey",
-      "n": "Bañador Hudson · Flower Grey",
+      "n": "Bañador Rash Guard Ships · Flower Grey",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a862ed1d1951d502f754cb46f4bc84bb.jpg?v=1771869698",
       "c": "hombre/banador",
@@ -4099,7 +4108,7 @@
     },
     {
       "id": "interestprint-design-men-s-long-sleeve-rash-guard-ships-from-usa-sapphire-blue",
-      "n": "Bañador Hudson · Sapphire Blue",
+      "n": "Bañador Rash Guard Ships · Sapphire Blue",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/547ac1d9c96a2766cbf6a4028236f247.jpg?v=1771869698",
       "c": "hombre/banador",
@@ -4108,7 +4117,7 @@
     },
     {
       "id": "interestprint-un-diamante-con-fondo-blanco-y-lineas-negras-arte-3-removebg-preview-womens-cotton-padded-shoes-model-19291",
-      "n": "Pantalón Madison",
+      "n": "Pantalón Diamante Fondo Líneas",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d488cf3f2a0c415e3c8da37432179d75.jpg?v=1770925051",
       "c": "calzado-mujer/zapatillas",
@@ -4117,7 +4126,7 @@
     },
     {
       "id": "interestprint-un-diamante-con-fondo-blanco-y-lineas-negras-arte-4-removebg-preview-womens-cotton-padded-shoes-model-19291",
-      "n": "Pantalón Madison",
+      "n": "Pantalón Diamante Fondo Líneas",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/87b018ae31eea661368b8916091d8193.jpg?v=1770925043",
       "c": "calzado-mujer/zapatillas",
@@ -4126,7 +4135,7 @@
     },
     {
       "id": "interestprint-design-womens-patch-pocket-fleece-jacket",
-      "n": "Sudadera Soho · Blanco",
+      "n": "Sudadera Patch Pocket · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/7b56701f0abdc76bff20ddbf672fd622.jpg?v=1773173441",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4135,7 +4144,7 @@
     },
     {
       "id": "interestprint-design-womens-patch-pocket-fleece-jacket-1",
-      "n": "Sudadera Soho · Blanco",
+      "n": "Sudadera Patch Pocket · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2eeb884d3ae4c51ddceb90a476ad648f.jpg?v=1773173567",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4144,7 +4153,7 @@
     },
     {
       "id": "interestprint-design-womens-patch-pocket-fleece-jacket-2",
-      "n": "Sudadera Soho · Blanco",
+      "n": "Sudadera Patch Pocket · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/cd4ada7baa8405035f84b0a5058fac8c.jpg?v=1773173577",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4153,7 +4162,7 @@
     },
     {
       "id": "interestprint-design-womens-patch-pocket-fleece-jacket-3",
-      "n": "Sudadera Soho · Blanco",
+      "n": "Sudadera Patch Pocket · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4587deea6d672be85ca8bcb25b4575d9.jpg?v=1773173586",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4162,7 +4171,7 @@
     },
     {
       "id": "interestprint-design-womens-stand-collar-fleece-jacket",
-      "n": "Sudadera Riviera · Blanco",
+      "n": "Sudadera Stand Collar · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d4030ce70d4ad2ee4cf1d51d7076ecba.jpg?v=1773173259",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4171,7 +4180,7 @@
     },
     {
       "id": "interestprint-design-womens-stand-collar-fleece-jacket-1",
-      "n": "Sudadera Riviera · Blanco",
+      "n": "Sudadera Stand Collar · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e0585551e1b16b7e4aefdaa528e36d77.jpg?v=1773173266",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4180,7 +4189,7 @@
     },
     {
       "id": "interestprint-design-womens-stand-collar-fleece-jacket-2",
-      "n": "Sudadera Riviera · Blanco",
+      "n": "Sudadera Stand Collar · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/393282631eb378d6a6b913aabbfd1be2.jpg?v=1773173275",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4189,7 +4198,7 @@
     },
     {
       "id": "interestprint-design-womens-stand-collar-fleece-jacket-3",
-      "n": "Sudadera Riviera · Blanco",
+      "n": "Sudadera Stand Collar · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e568288c5d9013ee94e536991b9656f9.jpg?v=1773173307",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4198,7 +4207,7 @@
     },
     {
       "id": "interestprint-design-womens-stand-collar-fleece-jacket-4",
-      "n": "Sudadera Riviera · Blanco",
+      "n": "Sudadera Stand Collar · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d9c6924477a29ef2e1b87ff24768ccbc.jpg?v=1773173313",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4207,7 +4216,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-11",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/52024a5b24be8d02c8ef96810e50a73e.jpg?v=1771006188",
       "c": "hombre/americana-blazer",
@@ -4216,7 +4225,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-12",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/eb5b5735a8273b3cb90e041b67ea854a.jpg?v=1771006234",
       "c": "hombre/americana-blazer",
@@ -4225,7 +4234,7 @@
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-13",
-      "n": "Blazer Madison · Blanco",
+      "n": "Blazer Blazer · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/201759df6f07d26b54e68c9696e40c19.jpg?v=1771006243",
       "c": "hombre/americana-blazer",
@@ -4234,7 +4243,7 @@
     },
     {
       "id": "shopify-collar-de-corazon",
-      "n": "Joya Atelier",
+      "n": "Joya Collar Corazón Daz",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/asset_4481_transformation_13747.jpg?v=1714820753",
       "c": "decor",
@@ -4243,7 +4252,7 @@
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-5",
-      "n": "Chaqueta Soho · Blanco",
+      "n": "Chaqueta Double Breasted Coat · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a1cf244df4331344222bafd54ffde59d.jpg?v=1770924675",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -4252,7 +4261,7 @@
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-6",
-      "n": "Chaqueta Soho · Blanco",
+      "n": "Chaqueta Double Breasted Coat · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2cfdbcf96d921afa741143cdce738b2d_be4f425e-68a3-4e4a-8c13-577e3df87841.jpg?v=1770924972",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -4261,7 +4270,7 @@
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-7",
-      "n": "Chaqueta Soho · Blanco",
+      "n": "Chaqueta Double Breasted Coat · Blanco",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a1cf244df4331344222bafd54ffde59d_02c20282-3ed0-4f4d-a050-188b43ecf41e.jpg?v=1770924978",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -4270,7 +4279,7 @@
     },
     {
       "id": "interestprint-mens-belted-sleep-robe-model-sets-30",
-      "n": "Pijama Monogram",
+      "n": "Pijama Belted Sleep Robe",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b9a6decf02fae0eb6cf571e4b6e85bd7.jpg?v=1771256045",
       "c": "hombre/albornoz-pijama",
@@ -4279,7 +4288,7 @@
     },
     {
       "id": "interestprint-mens-belted-sleep-robe-model-sets-31",
-      "n": "Pijama Monogram",
+      "n": "Pijama Belted Sleep Robe",
       "s": "InterestPrint",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ea5065e4dd401a4bf19d7d84561f2adb.jpg?v=1771256073",
       "c": "hombre/albornoz-pijama",
@@ -4288,7 +4297,7 @@
     },
     {
       "id": "shopify-reloj-calado-daz-luxury-para-hombre",
-      "n": "Reloj Madison",
+      "n": "Reloj Reloj Calado Daz",
       "s": "Shopify",
       "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/asset_4321_transformation_11933.jpg?v=1717847681",
       "c": "decor",
@@ -4297,7 +4306,7 @@
     },
     {
       "id": "printify-6682f7eaabc218c5680b99db",
-      "n": "Pieza Imperial",
+      "n": "Pieza Calcetines Daz Longitud",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
       "c": "hombre/camiseta",
@@ -4306,7 +4315,7 @@
     },
     {
       "id": "printify-669f857d202b3fb01407bf9c",
-      "n": "Pieza Avenue · Negro",
+      "n": "Pieza Chancletas Daz · Negro",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/669f857d202b3fb01407bf9c/72175/15337/chancletas-daz.jpg?camera_label=front",
       "c": "hombre/camiseta",
@@ -4315,7 +4324,7 @@
     },
     {
       "id": "printify-669f87936b62c2d4940ddfd7",
-      "n": "Pieza Avenue · Negro",
+      "n": "Pieza Chancletas Daz · Negro",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/669f87936b62c2d4940ddfd7/72175/15337/chancletas-daz.jpg?camera_label=front",
       "c": "hombre/camiseta",
@@ -4324,7 +4333,7 @@
     },
     {
       "id": "printify-669f89290086155073058730",
-      "n": "Pieza Riviera · Negro",
+      "n": "Pieza Chancletas Daz · Negro",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/669f89290086155073058730/72175/15337/chancletas-daz.jpg?camera_label=front",
       "c": "hombre/camiseta",
@@ -4333,7 +4342,7 @@
     },
     {
       "id": "printify-668eaa0ce8327b730b0bcac2",
-      "n": "Pieza Imperial",
+      "n": "Pieza Daz",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/668eaa0ce8327b730b0bcac2/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
       "c": "mujer/camisetas-blusas-tops",
@@ -4342,7 +4351,7 @@
     },
     {
       "id": "printify-668eaac5f88774f5bd03c22e",
-      "n": "Pieza Monogram",
+      "n": "Pieza Daz",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/668eaac5f88774f5bd03c22e/86201/55196/short-daz-premium-para-mujer.jpg?camera_label=front",
       "c": "mujer/camisetas-blusas-tops",
@@ -4351,7 +4360,7 @@
     },
     {
       "id": "printify-668eab5af72a45d14c0529a4",
-      "n": "Pieza Monogram",
+      "n": "Pieza Daz",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
       "c": "mujer/camisetas-blusas-tops",
@@ -4360,7 +4369,7 @@
     },
     {
       "id": "printify-668eac084542f0d6d6052014",
-      "n": "Pieza Soho",
+      "n": "Pieza Daz",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
       "c": "mujer/camisetas-blusas-tops",
@@ -4369,7 +4378,7 @@
     },
     {
       "id": "printify-668eb21afc9e2d84f00ecdc1",
-      "n": "Pieza Madison",
+      "n": "Pieza Daz",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/668eb21afc9e2d84f00ecdc1/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
       "c": "mujer/camisetas-blusas-tops",
@@ -4378,7 +4387,7 @@
     },
     {
       "id": "printify-667ff286278e297032061cca",
-      "n": "Pieza Soho · Rojo",
+      "n": "Pieza Edredón Daz · Rojo",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/667ff286278e297032061cca/61418/2645/edredon-daz.jpg?camera_label=front",
       "c": "hombre/camiseta",
@@ -4387,64 +4396,64 @@
     }
   ],
   "log": [
-    "Stripe: enlace normal listo para printful-374458726-dark-heather-grey",
-    "Stripe: enlace normal listo para printful-374458726-dark-heather-grey-black",
-    "Stripe: enlace normal listo para printful-374458726-dark-heather-grey-navy",
-    "Stripe: enlace normal listo para printful-374458726-dark-heather-grey-red",
-    "Stripe: enlace normal listo para printful-374458726-gold",
-    "Stripe: enlace normal listo para printful-374458726-heather-grey",
-    "Stripe: enlace normal listo para printful-374458726-navy",
-    "Stripe: enlace normal listo para printful-374458726-red",
-    "Stripe: enlace normal listo para printful-374458726-royal-heather-grey",
-    "Stripe: enlace normal listo para printful-382447306-black",
-    "Stripe: enlace normal listo para printful-382447306-heather-grey",
-    "Stripe: enlace normal listo para printful-382447306-white",
-    "Stripe: enlace normal listo para printful-382652279-black",
-    "Stripe: enlace normal listo para printful-382652279-ivory",
-    "Stripe: enlace normal listo para printful-382652279-orchid",
-    "Stripe: enlace normal listo para printful-382652279-white",
-    "Stripe: enlace normal listo para printful-382664306-black",
-    "Stripe: enlace normal listo para printful-382664306-heather-grey",
-    "Stripe: enlace normal listo para printful-382664306-sandshell",
-    "Stripe: enlace normal listo para printful-382664306-white",
-    "Stripe: enlace normal listo para printful-400735243",
-    "Stripe: enlace normal listo para printful-338109422",
-    "Stripe: enlace normal listo para printful-344666567",
-    "Stripe: enlace normal listo para printful-345759651",
-    "Stripe: enlace normal listo para printful-345761844-black",
-    "Stripe: enlace normal listo para printful-345761844-heather-grey",
-    "Stripe: enlace normal listo para printful-345761844-white",
-    "Stripe: enlace normal listo para printful-346231972",
-    "Stripe: enlace normal listo para printful-348121492-black",
-    "Stripe: enlace normal listo para printful-348121492-grey",
-    "Stripe: enlace normal listo para printful-348121492-navy",
-    "Stripe: enlace normal listo para printful-348121492-red",
-    "Stripe: enlace normal listo para printful-348121492-white",
-    "Stripe: enlace normal listo para printful-350463068",
-    "Stripe: enlace normal listo para printful-351054155",
-    "Stripe: enlace normal listo para printful-351054571",
-    "Stripe: enlace normal listo para printful-351054819",
-    "Stripe: enlace normal listo para printful-351055072",
-    "Stripe: enlace normal listo para printful-351055272",
-    "Stripe: enlace normal listo para printful-351055401",
-    "Stripe: enlace normal listo para printful-351055469",
-    "Stripe: enlace normal listo para printful-351055597",
-    "Stripe: enlace normal listo para printful-351055925",
-    "Stripe: enlace normal listo para printful-351057192",
-    "Stripe: enlace normal listo para printful-351057476",
-    "Stripe: enlace normal listo para printful-351057906",
-    "Stripe: enlace normal listo para printful-351058417",
-    "Stripe: enlace normal listo para printful-351058797",
-    "Stripe: enlace normal listo para printful-351065170",
-    "Stripe: enlace normal listo para printful-351065513",
-    "Stripe: enlace normal listo para printful-351065912",
-    "Stripe: enlace normal listo para printful-351066528",
-    "Stripe: enlace normal listo para printful-351066933",
-    "Stripe: enlace normal listo para printful-351068704",
-    "Stripe: enlace normal listo para printful-351069243",
-    "Stripe: enlace normal listo para printful-351069976",
+    "Stripe: enlace normal listo para printful-353255832",
+    "Stripe: enlace normal listo para printful-353256711",
+    "Stripe: enlace normal listo para printful-353257640",
+    "Stripe: enlace normal listo para printful-353258492",
+    "Stripe: enlace normal listo para printful-353259083",
+    "Stripe: enlace normal listo para printful-355272517",
+    "Stripe: enlace normal listo para printful-355273549",
+    "Stripe: enlace normal listo para printful-355274608",
+    "Stripe: enlace normal listo para printful-355648669-aqua-white-zipper",
+    "Stripe: enlace normal listo para printful-355648669-black",
+    "Stripe: enlace normal listo para printful-355648669-blush-white-zipper",
+    "Stripe: enlace normal listo para printful-355648669-maroon",
+    "Stripe: enlace normal listo para printful-355648669-red",
+    "Stripe: enlace normal listo para printful-355648669-white-camo",
+    "Stripe: enlace normal listo para printful-355649466",
+    "Stripe: enlace normal listo para printful-358048607-pigment-alpine-green",
+    "Stripe: enlace normal listo para printful-358048607-pigment-black",
+    "Stripe: enlace normal listo para printful-358048607-pigment-light-blue",
+    "Stripe: enlace normal listo para printful-358048607-pigment-maroon",
+    "Stripe: enlace normal listo para printful-358048607-pigment-pink",
+    "Stripe: enlace normal listo para printful-358048607-pigment-slate-blue",
+    "Stripe: enlace normal listo para printful-358793005",
+    "Stripe: enlace normal listo para printful-358796935",
+    "Stripe: enlace normal listo para printful-358797146",
+    "Stripe: enlace normal listo para printful-358797556",
+    "Stripe: enlace normal listo para printful-358797822",
+    "Stripe: enlace normal listo para printful-358798486",
+    "Stripe: enlace normal listo para printful-359095524",
+    "Stripe: enlace normal listo para printful-359097373",
+    "Stripe: enlace normal listo para printful-359097410",
+    "Stripe: enlace normal listo para printful-359097459",
+    "Stripe: enlace normal listo para printful-359097537",
+    "Stripe: enlace normal listo para printful-359097614",
+    "Stripe: enlace normal listo para printful-359097921",
+    "Stripe: enlace normal listo para printful-359098026",
+    "Stripe: enlace normal listo para printful-359098063",
+    "Stripe: enlace normal listo para printful-359098124",
+    "Stripe: enlace normal listo para printful-368904495-athletic-heather",
+    "Stripe: enlace normal listo para printful-368904495-solid-baby-blue-blend",
+    "Stripe: enlace normal listo para printful-368904495-solid-black-blend",
+    "Stripe: enlace normal listo para printful-368904495-solid-navy-blend",
+    "Stripe: enlace normal listo para printful-368904495-solid-pink-blend",
+    "Stripe: enlace normal listo para printful-368904495-solid-white-blend",
+    "Stripe: enlace normal listo para printful-375122880",
+    "Stripe: enlace normal listo para printful-377268088-butter",
+    "Stripe: enlace normal listo para printful-377268088-crimson",
+    "Stripe: enlace normal listo para printful-377268088-pepper",
+    "Stripe: enlace normal listo para printful-377268088-seafoam",
+    "Stripe: enlace normal listo para printful-377268088-true-navy",
+    "Stripe: enlace normal listo para printful-377268088-violet",
+    "Stripe: enlace normal listo para printful-377268088-white",
+    "Stripe: enlace normal listo para printful-383479826",
+    "Stripe: enlace normal listo para printful-383480040",
+    "Stripe: enlace normal listo para printful-384453697",
+    "Stripe: enlace normal listo para printful-384503653",
+    "Stripe: enlace normal listo para printful-384504359",
     "Stripe: 250 productos con enlace de pago nuevo en esta hora",
-    "⏱ enlaces de pago: 171 s",
+    "⏱ enlaces de pago: 200 s",
     "Cambio actualizado: 1 USD = 0.9099 EUR",
     "Listo."
   ]

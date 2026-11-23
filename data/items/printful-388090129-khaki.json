@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Khaki",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, standard e-commerce presentation lacking high-end mood lighting.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-388090129",
  "color": "Khaki",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential expression of contemporary design. This oversized silhouette offers a relaxed and sophisticated presence. The garment-dyed treatment delivers chromatic depth and a subtly lived-in hand. Each piece is crafted exclusively on demand in the United States. Available with worldwide shipping.",
+ "desc_es": "Una expresión esencial de diseño contemporáneo. Esta silueta oversize ofrece una presencia relajada y sofisticada. El tratamiento garment-dyed aporta profundidad cromática y un tacto sutilmente vivido. Cada pieza se confecciona exclusivamente bajo demanda en Estados Unidos. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/21d/21d5b9799290a81d14406c61f9a78406_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Noir Tee · Khaki",
- "name_es": "Camiseta Noir · Khaki",
+ "name_en": "DAZ Oversized Garment-Dyed T-Shirt · Khaki",
+ "name_es": "Camiseta Oversize Garment-Dyed DAZ · Khaki",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 89,

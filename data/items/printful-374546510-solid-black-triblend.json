@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Solid Black Triblend",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "The image features a generic mockup composition with a cropped head, lowering the luxury standard.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-374546510",
  "color": "Solid Black Triblend",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential silhouette designed for modern sophistication. Crafted with precision to offer a clean and versatile aesthetic. Each piece is meticulously crafted to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una silueta esencial diseñada para la sofisticación moderna. Confeccionada con precisión para ofrecer una estética limpia y versátil. Cada pieza se elabora meticulosamente bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/7f0/7f0decbf30c52c5c7166413188a971b4_preview.png"
  ],
@@ -29,6 +43,7 @@
  "name_en": "Athletic Grey Triblend T-Shirt · Solid Black Triblend",
  "name_es": "Camiseta Triblend Gris Athletic · Solid Black Triblend",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 88,
