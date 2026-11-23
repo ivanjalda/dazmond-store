@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "morado",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% poliéster",
  "ai_priority": true,
+ "ai_type": "jumpsuit",
+ "ai_ver": 2,
+ "art_note": "AI-generated imagery lacks the refined texture and authentic luxury feel required for the brand standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-dazmond-midnight-stripe-wide-leg-dungarees",
  "color": "Morado",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold statement piece fusing nocturnal mystery with optical dynamism. This symmetrical vertical stripe jumpsuit elongates the silhouette with immediate magnetism. The chest is crowned by the signature monogram in a gold tone. Featuring a sleeveless camisole neckline structured with wide straps and a two-button metallic front closure. The lower section unfolds into wide-leg trousers providing fluid movement and an impeccable drape. Crafted to order with worldwide shipping available.",
+ "desc_es": "Una audaz declaración de intenciones que fusiona el misterio nocturno con el dinamismo óptico. Este mono de rayas verticales simétricas estiliza y alarga la silueta con un magnetismo inmediato. El pecho está coronado por el icónico monograma de la firma en un tono dorado. Presenta un escote camisola sin mangas estructurado con tirantes anchos y cierre de dos botones frontales metálicos. La parte inferior se despliega en un pantalón de pierna ancha que aporta un movimiento fluido y una caída impecable. Confeccionado bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 100% selected high-quality polyester (17.85 oz)\n· Wide-leg camisole silhouette\n· Two metallic button front closure\n· Made-to-order piece\n· Available with worldwide shipping",
+ "details_es": "· 100% poliéster seleccionado de alta calidad (17,85 oz)\n· Silueta camisola de pierna ancha\n· Cierre frontal de dos botones metálicos\n· Pieza confeccionada bajo demanda\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/ee75baf195431f2f059d.jpg",
   "assets/products/shop/8996d28f04d838d2dc06.jpg",
@@ -31,9 +45,10 @@
   "printful-350906743"
  ],
  "material": "",
- "name_en": "Midnight Stripe Wide Jumpsuit",
- "name_es": "Mono Midnight Stripe Wide",
+ "name_en": "Midnight Stripe Wide-Leg Jumpsuit",
+ "name_es": "Mono Ancho Rayas Medianoche",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1429,

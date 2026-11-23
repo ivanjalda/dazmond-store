@@ -18,7 +18,7 @@
   "mujer/ropa-interior"
  ],
  "cg": "t-dazmond-emerald-grace-art-briefs",
- "color": "",
+ "color": "green",
  "created": "2026-11-19",
  "desc_en": "Crafted from a precise blend of polyester and spandex, this piece offers a four-way stretch fabric that fluidly adapts to every movement. The design prioritizes comfort and breathability through an advanced antimicrobial textile. The regular fit silhouette is finished with a soft elastic waistband ensuring gentle support without indentation. Produced made to order with meticulous attention to detail.",
  "desc_es": "Confeccionada con una mezcla precisa de poliéster y spandex, esta prenda ofrece un tejido elástico en cuatro direcciones que se adapta con fluidez a cada movimiento. Su diseño prioriza la comodidad y la transpirabilidad gracias a un tejido antimicrobiano avanzado. La silueta de ajuste regular se completa con una suave cinturilla elástica que asegura un soporte delicado sin marcas. Fabricada bajo demanda con atención meticulosa a los detalles.",
@@ -33,6 +33,7 @@
  ],
  "draft": false,
  "fam": "emerald-grace-art",
+ "gender": "women",
  "hidden": false,
  "id": "shopify-braguita-daz",
  "img_checked": "2026-11-21",
@@ -42,7 +43,7 @@
   "printful-338164153",
   "printful-337647274-dusty-rose"
  ],
- "material": "",
+ "material": "97% polyester, 3% spandex",
  "name_en": "Emerald Grace Briefs",
  "name_es": "Braguita Emerald Grace",
  "needs_review": false,
