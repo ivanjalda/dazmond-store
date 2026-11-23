@@ -101,13 +101,13 @@ def http_json(url, headers=None, data=None, method=None, timeout=30):
 
 # ------------------------------------------------- reglas de clasificación
 # (palabras clave, subcategoría hombre, subcategoría mujer, nombre ES, nombre EN)
-FOOTWEAR = [
-    (r"slipper|house shoe|pantufla|zapatilla de casa|zapatillas de casa", "zapatillas-hogar", "zapatillas-casa", "Zapatillas de Casa", "House Slippers"),
-    (r"boot|bota|botin|botín|chelsea", "botas-botines-hombre", "botas-botines", "Botas", "Boots"),
-    (r"clog|zueco", "zuecos-hombre", "zuecos", "Zuecos", "Clogs"),
-    (r"sandal|flip ?-?flop|slide|chancla|sandalia", "sandalias-chanclas-hombre", "sandalias-chanclas", "Sandalias", "Sandals"),
-    (r"oxford|loafer|derby|brogue|dress shoe|mocasin|mocasín|zapato", "zapatos-elegantes", "zapatillas", "Zapatos", "Dress Shoes"),
-    (r"sneaker|trainer|high ?top|low ?top|running shoe|shoe|zapatilla", "zapatillas-hombre", "zapatillas", "Zapatillas", "Sneakers"),
+FOOTWEAR = [  # palabras completas: "botanical" NO es "bota", "shoulder" NO es "shoe"
+    (r"\bslippers?\b|house shoes?|\bpantuflas?\b|zapatillas? de casa", "zapatillas-hogar", "zapatillas-casa", "Zapatillas de Casa", "House Slippers"),
+    (r"\bboots?\b|\bbotas?\b|\bbot[ií]n(es)?\b|\bbooties\b", "botas-botines-hombre", "botas-botines", "Botas", "Boots"),
+    (r"\bclogs?\b|\bzuecos?\b", "zuecos-hombre", "zuecos", "Zuecos", "Clogs"),
+    (r"\bsandals?\b|\bflip ?-?flops?\b|\bslides\b|\bchanclas?\b|\bsandalias?\b", "sandalias-chanclas-hombre", "sandalias-chanclas", "Sandalias", "Sandals"),
+    (r"\boxford shoes?\b|\bloafers?\b|\bderby shoes?\b|\bbrogues?\b|\bdress shoes?\b|\bmocas[ií]n(es)?\b|\bzapatos?\b", "zapatos-elegantes", "zapatillas", "Zapatos", "Dress Shoes"),
+    (r"\bsneakers?\b|\btrainers?\b|\bhigh[ -]?tops?\b(?! (tee|shirt|tank))|\blow[ -]?tops?\b|\brunning shoes?\b|\bshoes?\b|\bzapatillas?\b", "zapatillas-hombre", "zapatillas", "Zapatillas", "Sneakers"),
 ]
 
 DECOR = r"pillow|cushion|cojin|cojín|\bmugs?\b|\btazas?\b|poster|canvas print|stretched canvas|framed canvas|\bcanvas\b(?! ?(tote|bag|shoe|sneaker))|lienzo|blanket|\bmanta\b|candle|\bvelas?\b|\brugs?\b|alfombra|tapestry|wall art|\bcuadro\b|puzzle|coaster|posavasos|phone case|funda|towel|toalla|throw pillow|throw blanket|home decor|wall decor"
@@ -357,11 +357,43 @@ def printful_shipping(variant_id, cache, catalog_pid=None):
 
 
 # ------------------------------------------------------------- textos de lujo
+
+NAME_NOISE = {
+    "men", "mens", "women", "womens", "woman", "man", "unisex", "ladies", "lady", "girls", "boys", "kids",
+    "hombre", "mujer", "unisexo", "premium", "luxury", "classic", "oversized", "oversize", "regular", "fit",
+    "slim", "relaxed", "heavyweight", "lightweight", "all", "over", "print", "printed", "aop", "3d", "with",
+    "and", "the", "for", "of", "in", "a", "de", "la", "el", "y", "con", "para", "bella", "canvas", "gildan",
+    "comfort", "colors", "next", "level", "cotton", "organic", "short", "long", "sleeve", "sleeves", "style",
+    "new", "edition", "collection", "design", "custom", "personalized", "gift", "size", "sizes", "plus",
+    "tee", "tees", "t", "shirt", "shirts", "tshirt", "camiseta", "dress", "vestido", "boots", "boot", "botas",
+    "hoodie", "sudadera", "sweatshirt", "jacket", "chaqueta", "pants", "skirt", "falda", "shorts", "top",
+    "tops", "tank", "polo", "swimsuit", "swimwear", "bikini", "leggings", "sneakers", "shoes", "hat", "cap",
+    "bag", "tote", "mug", "pillow", "blanket", "poster", "case", "zip", "up", "pullover", "crewneck", "crew",
+    "neck", "v", "hooded", "jersey", "set", "piece", "one", "two", "mini", "midi", "maxi", "casual", "sexy",
+    "summer", "winter", "spring", "fall", "autumn", "fashion", "trendy", "cute", "dazmond", "co",
+    "heavy", "soft", "blend", "off", "shoulder", "leather", "fleece", "basic", "everyday", "essential", "quality",
+}
+
+
+def design_name(title):
+    """Nombre propio de cada diseño, sacado de su título original (p. ej. "Botanical Eucalyptus"),
+    en vez de repetir siempre los mismos nombres inventados."""
+    words = re.findall(r"[a-záéíóúñü]+", (title or "").lower())
+    keep = [w for w in words if len(w) > 2 and w not in NAME_NOISE and w not in COLORS and w not in COLOR_WORDS]
+    out = []
+    for w in keep:
+        if w not in out:
+            out.append(w)
+        if len(out) == 3:
+            break
+    name = " ".join(w.capitalize() for w in out)
+    return name if 3 <= len(name) <= 28 else (" ".join(w.capitalize() for w in out[:2]) if out[:2] else "")
+
 def luxury_copy(pid, n_es, n_en, row):
     text = (row.get("title", "") + " " + row.get("color", "") + " " + row.get("material", "")).lower()
     color = next((v for k, v in COLORS.items() if k in text), None)
     material = next((v for k, v in MATERIALS.items() if k in text), None)
-    line = pick(pid + "line", LINES)
+    line = design_name(row.get("title", "")) or pick(pid + "line", LINES)
 
     name_es = f"{n_es} {line}" + (f" · {color[0]}" if color else "")
     name_en = f"{line} {n_en}" + (f" · {color[1]}" if color else "")
@@ -1498,6 +1530,10 @@ def main():
     detect_site(cfg)
     old_list = load_json("products.json", {"products": []}).get("products", [])
     old = {p["id"]: p for p in old_list}
+    if not cfg.get("migr_cls3"):  # reglas de calzado corregidas: se recalculan las correcciones automáticas
+        for p in old.values():
+            p.pop("fixed_cats", None)
+        cfg["migr_cls3"] = True
     if not cfg.get("migr_cls2"):  # reglas nuevas: las correcciones automáticas antiguas se recalculan una vez
         for p in old.values():
             p.pop("fixed_cats", None)
