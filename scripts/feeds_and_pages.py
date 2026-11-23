@@ -86,6 +86,10 @@ def product_page(p, site, cat_names):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../../assets/style.css">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="192x192" href="/assets/brand/icon-192.png">
+<link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
+
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 <script>window.DZ_BASE = "../../"; window.DZ_PRODUCT = "{esc(p['id'])}";</script>
 </head>
@@ -226,6 +230,7 @@ def policy_pages(cfg, site):
 <p><b>Email:</b> {m} — we answer within 24 to 48 hours, Monday to Friday.</p>
 <p><b>Company:</b> {co}</p>
 <p><b>Address:</b> {addr}</p>
+<p><b>Trademark:</b> DAZMOND &amp; Co.&reg; is a registered trademark of {co} in the United States (U.S. Reg. No. 8,505,796).</p>
 <h2>Contacto</h2>
 <p>Escríbenos a {m}; respondemos en 24 a 48 horas, de lunes a viernes. Empresa: {co}. Dirección: {addr}.</p>"""),
     }
@@ -243,6 +248,10 @@ def policy_pages(cfg, site):
 <meta name="theme-color" content="#000000">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{up}assets/style.css">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="192x192" href="/assets/brand/icon-192.png">
+<link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
+
 </head>
 <body>
 <header class="header" style="justify-content:center"><a href="{up}" class="logo">Dazmond <span>&amp;</span> Co.</a></header>
@@ -252,7 +261,7 @@ def policy_pages(cfg, site):
 </div></section></main>
 <footer class="footer"><div class="footer-logo">Dazmond <span>&amp;</span> Co.</div>
 <p class="muted" style="text-align:center">{nav}</p>
-<p class="copyright">© {NOW.year} DAZMOND &amp; Co. · {co} · {addr} · {mail}</p></footer>
+<p class="copyright">© {NOW.year} DAZMOND &amp; Co.&reg; · {co} · {addr} · {mail}</p></footer>
 </body>
 </html>
 """
