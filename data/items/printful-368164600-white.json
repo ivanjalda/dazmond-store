@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "Flat mannequin template rendering lacks the dimension and sophistication required for luxury e-commerce.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368164600",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevated simplicity defines this impeccably tailored essential. Designed with a clean silhouette and a refined V-neckline, it offers a subtle yet commanding presence. Each piece is crafted exclusively to order within the house ateliers, ensuring an uncompromising standard of exclusivity. Available with worldwide shipping.",
+ "desc_es": "La simplicidad elevada define esta pieza esencial de corte impecable. Diseñada con una silueta depurada y un refinado cuello de pico, ofrece una presencia sutil pero contundente. Cada prenda se confecciona exclusivamente bajo pedido en los talleres de la casa, asegurando un estándar de exclusividad sin concesiones. Disponible con envío internacional.",
+ "details_en": "· Made to order exclusively.\n· Worldwide shipping available.",
+ "details_es": "· Confección exclusiva bajo pedido.\n· Envío mundial disponible.",
  "display_images": [
   "https://files.cdn.printful.com/files/e4d/e4d7cb1d51581c7326a32f03f32b36cd_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Daz Manga Corta Tee · White",
- "name_es": "Camiseta Daz Manga Corta · Blanco",
+ "name_en": "V-neck jersey t-shirt · White",
+ "name_es": "Camiseta de cuello de pico · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 170,

@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_vcg0zuvcg0zuvcg0.png?v=1764177821",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_9jsq789jsq789jsq.png?v=1764177851",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_e5x3vte5x3vte5x3.png?v=1776267654",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_e91ptle91ptle91p_b35c6c1d-555a-449c-be04-b775d0191eed.png?v=1776267654",
+  "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/unisex-v-neck-tee-black-front-66a937966d70c.jpg?v=1776267654"
+ ],
  "ai_cats": [
   "hombre/camiseta",
   "mujer/camisetas-blusas-tops"
@@ -30,6 +37,7 @@
  ],
  "draft": false,
  "fam": "signature-v-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-344773746",
  "img_checked": "2026-11-22",

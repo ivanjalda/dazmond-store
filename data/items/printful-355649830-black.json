@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "V-Neck Jersey Tee",
+ "ai_ver": 2,
+ "art_note": "Clean flat-lay product shot on a neutral background, adequate lighting but lacks dynamic editorial presence.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-355649830",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential piece redefining everyday luxury. Crafted with precision to offer an immaculate silhouette. The V-neck design introduces an air of subtle sophistication. Each garment is made to order in our ateliers. Available with worldwide shipping for the discerning client.",
+ "desc_es": "Una pieza esencial que redefine el lujo cotidiano. Confeccionada con precisión para ofrecer una silueta impecable. El diseño de cuello en V aporta un aire de sofisticación sutil. Cada prenda se elabora bajo demanda en nuestros talleres. Disponible con envío a todo el mundo para el cliente exigente.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/46b/46b7498c28a370e1147b4ebf9d6ccfdc_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Contour Tee · Black",
- "name_es": "Camiseta Contour · Negro",
+ "name_en": "V-Contour Black Tee · Black",
+ "name_es": "Camiseta V-Contour Negra · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 164,

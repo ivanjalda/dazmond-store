@@ -3198,8 +3198,8 @@
     },
     {
       "id": "printful-355649830-black",
-      "name_es": "Camiseta Contour · Negro",
-      "name_en": "Contour Tee · Black",
+      "name_es": "Camiseta V-Contour Negra · Negro",
+      "name_en": "V-Contour Black Tee · Black",
       "price_usd": 35.99,
       "badge": "new",
       "categories": [
@@ -3214,12 +3214,13 @@
       "fam": "v-contour",
       "cg": "printful-355649830",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/46b/46b7498c28a370e1147b4ebf9d6ccfdc_preview.png"
     },
     {
       "id": "printful-355649830-white",
-      "name_es": "Camiseta Contour · Blanco",
-      "name_en": "Contour Tee · White",
+      "name_es": "Camiseta V-Contour Negra · Blanco",
+      "name_en": "V-Contour Black Tee · White",
       "price_usd": 35.99,
       "badge": "new",
       "categories": [
@@ -3234,6 +3235,7 @@
       "fam": "v-contour",
       "cg": "printful-355649830",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/9e7/9e7738f326baf1cb34a551c747a8743e_preview.png"
     },
     {
@@ -3295,8 +3297,8 @@
     },
     {
       "id": "printful-368164600-black",
-      "name_es": "Camiseta Daz Manga Corta · Negro",
-      "name_en": "Daz Manga Corta Tee · Black",
+      "name_es": "Camiseta de cuello de pico · Negro",
+      "name_en": "V-neck jersey t-shirt · Black",
       "price_usd": 35.99,
       "badge": "new",
       "categories": [
@@ -3311,12 +3313,13 @@
       "fam": "camiseta-premium-manga",
       "cg": "printful-368164600",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/d10/d107e1baf14d884a98ec0b9708822e57_preview.png"
     },
     {
       "id": "printful-368164600-white",
-      "name_es": "Camiseta Daz Manga Corta · Blanco",
-      "name_en": "Daz Manga Corta Tee · White",
+      "name_es": "Camiseta de cuello de pico · Blanco",
+      "name_en": "V-neck jersey t-shirt · White",
       "price_usd": 35.99,
       "badge": "new",
       "categories": [
@@ -3331,6 +3334,7 @@
       "fam": "camiseta-premium-manga",
       "cg": "printful-368164600",
       "color": "White",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/e4d/e4d7cb1d51581c7326a32f03f32b36cd_preview.png"
     },
     {
@@ -15955,7 +15959,7 @@
       "fam": "camiseta-hombre-coleccion",
       "cg": "t-camiseta-para-hombre-coleccion-privada-urban-shadow",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/514f484af577b1ea531e4b2230279184.jpg?v=1770924430"
+      "img": "assets/products/shop/a4a6c36d6aba01da4055.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer",
@@ -22101,7 +22105,7 @@
       "supplier_id": "un_diamante_con_fondo_blanco_y_lineas_negras__arte__4_-removebg-preview-womens-tank-top-front-printingmade-in-usa",
       "fam": "camiseta-sin-mangas",
       "cg": "t-camiseta-sin-mangas-dazmond-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_m1p7wjm1p7wjm1p7.png?v=1767643990"
+      "img": "assets/products/shop/9d9fe108bd947b021fae.jpg"
     },
     {
       "id": "shopify-vaso-de-chupito-daz-1-5-oz",
@@ -23364,7 +23368,7 @@
       "fam": "polo-hombre-coleccion",
       "cg": "t-polo-para-hombre-dazmond-coleccion-privada",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0ec80fc462ad4402679bf00bf4d2ec2c.jpg?v=1770924388"
+      "img": "assets/products/shop/953e19c94194aced4cde.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt",
@@ -23383,7 +23387,7 @@
       "fam": "camisa-monogram-prive",
       "cg": "t-camisa-dazmond-monogram-prive-de-manga-larga",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ca56fbc7a1f0e69867e75ea9fc985a3a.jpg?v=1770924422"
+      "img": "assets/products/shop/5b0bf3fdc2f9c4f1b718.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-1",
@@ -23402,7 +23406,7 @@
       "fam": "gris-diamante-camisa",
       "cg": "t-dazmond-de-diamante-camisa-de-manga-larga",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/355e5edaf0c8c0f0b534b14ce7a13336.jpg?v=1770924438"
+      "img": "assets/products/shop/d5b44208984d362c8257.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-10",
@@ -23421,7 +23425,7 @@
       "fam": "camisa-pure-rhythm",
       "cg": "t-camisa-dazmond-pure-rhythm-de-manga-larga",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/bcf20d79d329b942888b808a6bf8f0e7_4aff0316-2da2-4f42-84a7-391b4aaec05a.jpg?v=1770924585"
+      "img": "assets/products/shop/0353288def428706f69e.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-2",
@@ -23440,7 +23444,7 @@
       "fam": "camisa-coleccion-privada",
       "cg": "t-camisa-dazmond-coleccion-privada-de-manga-larga",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1dc753502c126ac2e420aa0a998160c7.jpg?v=1770924493"
+      "img": "assets/products/shop/f29f3ba623e8f44b1f9a.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-3",
@@ -23459,7 +23463,7 @@
       "fam": "camisa-noble-horizon",
       "cg": "t-camisa-dazmond-noble-horizon-de-manga-larga",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5032ae3fb0a49ecaff2cdb2a7b8bb595.jpg?v=1770924501"
+      "img": "assets/products/shop/740c49c24e0b57aae258.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-4",
@@ -23478,7 +23482,7 @@
       "fam": "camisa-urban-reserve",
       "cg": "t-camisa-dazmond-urban-reserve-de-manga-larga-con-bolsillo",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/c9a5c375410acdca6c643645ae778e6c.jpg?v=1770924510"
+      "img": "assets/products/shop/4480339acbe71d264703.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-5",
@@ -23497,7 +23501,7 @@
       "fam": "camisa-silueta-urbana",
       "cg": "t-camisa-dazmond-silueta-urbana-con-bolsillo-de-solapa",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5c468bbf00ef3f14fe63da1a496101d9.jpg?v=1770924532"
+      "img": "assets/products/shop/c656cc844d7c5a27baa1.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-6",
@@ -23516,7 +23520,7 @@
       "fam": "camisa-noble-horizon",
       "cg": "t-camisa-dazmond-noble-horizon-de-manga-larga-rt",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6d9438554aaae2c3da0f4ddbda8edcc2.jpg?v=1770924540"
+      "img": "assets/products/shop/e3f340d4c5a0b152d16a.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-7",
@@ -23535,7 +23539,7 @@
       "fam": "camisa-monogram-line",
       "cg": "t-camisa-dazmond-monogram-line-de-manga-larga-con-bolsillo",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/bcf20d79d329b942888b808a6bf8f0e7.jpg?v=1770924548"
+      "img": "assets/products/shop/ff54bee2fcaf34adc7e6.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-8",
@@ -23554,7 +23558,7 @@
       "fam": "camisa-terra-nova",
       "cg": "t-camisa-dazmond-terra-nova-de-manga-larga",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/5c468bbf00ef3f14fe63da1a496101d9_cf4d5e86-1112-4534-8cee-ffdbd93560da.jpg?v=1770924571"
+      "img": "assets/products/shop/507588ae813cbb295058.jpg"
     },
     {
       "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-9",
@@ -23573,7 +23577,7 @@
       "fam": "camisa-silent-structure",
       "cg": "t-camisa-dazmond-silent-structure-de-manga-larga-con-bolsillo",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/6d9438554aaae2c3da0f4ddbda8edcc2_49c407d0-f471-49a7-b28f-d0a114dbbee7.jpg?v=1770924578"
+      "img": "assets/products/shop/c41381d5b90ce7cae6ab.jpg"
     },
     {
       "id": "shopify-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
@@ -28957,7 +28961,7 @@
       "fam": "chaqueta-cortavientos-monogram",
       "cg": "t-chaqueta-cortavientos-dazmond-monogram-heritage-con-capucha",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/0d798a643efec56c6541a855aeac1aad.jpg?v=1770924349"
+      "img": "assets/products/shop/90b07d450522e72e0c7d.jpg"
     },
     {
       "id": "shopify-sudadera-daz-bordado-unisex-black",
@@ -29184,7 +29188,7 @@
       "fam": "camiseta-cuello-redondo",
       "cg": "t-camiseta-dazmond-de-cuello-redondo-para-mujer",
       "color": "Blanco",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1762347019-18-jpyXxyhJko.jpg?v=1767639834"
+      "img": "assets/products/shop/53c1441efdc37e2bb4e3.jpg"
     },
     {
       "id": "shopify-camisetas-dazmond-de-cuello-redondo-para-mujer-blanco",
@@ -29203,7 +29207,7 @@
       "fam": "camisetas-cuello-redondo",
       "cg": "t-camisetas-dazmond-de-cuello-redondo-para-mujer",
       "color": "Blanco",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1762346762-18-RXaQdate4n.jpg?v=1767640099"
+      "img": "assets/products/shop/5fc962f30d0a4cbe7837.jpg"
     },
     {
       "id": "shopify-chaqueta-un-diamante-con-fondo-blanco-y-lineas-negras-arte-4-removebg-preview-custom-womens-cardigan-model-h73",
@@ -29257,7 +29261,7 @@
       "supplier_id": "chaqueta-un_diamante_con_fondo_blanco_y_lineas_negras__arte__4_-removebg-preview-custom-womens-cardigan-model-h73-2",
       "fam": "cardigan-luxury-mujer",
       "cg": "t-cardigan-dazmond-luxury-para-mujer",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_eu9guyeu9guyeu9g_89ce3e62-e8b9-49bb-826b-3f934dd920a5.png?v=1767644298"
+      "img": "assets/products/shop/22af6461435c90610f8e.jpg"
     },
     {
       "id": "shopify-christmas-seamless-pattern-with-candy-sticks-for-holiday-design-167655107-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -29897,7 +29901,7 @@
       "supplier_id": "un_diamante_rojo_sobre_un_fondo_negro__arte__lujo__simbolo__dibujo__logo__alma__unico__4_-removebg-p-womens-mary-jane-shoes",
       "fam": "coleccion-privada-zapatos",
       "cg": "t-coleccion-privada-zapatos-mary-jane-dazmond-rubi-nocturno",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/69ec26f3e5b9eda06931df1142cac6b0.jpg?v=1770924683"
+      "img": "assets/products/shop/ec20f7b836378c719c9e.jpg"
     },
     {
       "id": "shopify-design-womens-seamless-bramade-in-usa",
@@ -31770,7 +31774,7 @@
       "fam": "chaqueta-golden-heritage",
       "cg": "t-chaqueta-dazmond-golden-heritage",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/a686e0ea9c702f83a0a97429ad000309.jpg?v=1770924397"
+      "img": "assets/products/shop/67b86f5e59b5bb200a76.jpg"
     },
     {
       "id": "printify-66d98379266c81aff6086146",
@@ -31827,7 +31831,7 @@
       "fam": "camiseta-cuello-redondo",
       "cg": "t-camiseta-dazmond-de-cuello-redondo-para-mujer",
       "color": "Gris",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1762347019-20-jpyXxyhJko.jpg?v=1767639834"
+      "img": "assets/products/shop/5455c8f0200d9b096fa1.jpg"
     },
     {
       "id": "shopify-camiseta-dazmond-de-cuello-redondo-para-mujer-rosa-claro",
@@ -31846,7 +31850,7 @@
       "fam": "camiseta-cuello-redondo",
       "cg": "t-camiseta-dazmond-de-cuello-redondo-para-mujer",
       "color": "Rosa claro",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1762347019-17-jpyXxyhJko.jpg?v=1767639834"
+      "img": "assets/products/shop/4805f3f764511c03c32e.jpg"
     },
     {
       "id": "shopify-camiseta-dazmond-de-cuello-redondo-para-mujer-turquesa",
@@ -31865,7 +31869,7 @@
       "fam": "camiseta-cuello-redondo",
       "cg": "t-camiseta-dazmond-de-cuello-redondo-para-mujer",
       "color": "Turquesa",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1762347019-19-jpyXxyhJko.jpg?v=1767639834"
+      "img": "assets/products/shop/06d6cfd5c8ad67531713.jpg"
     },
     {
       "id": "shopify-camisetas-dazmond-de-cuello-redondo-para-mujer-gris",
@@ -31884,7 +31888,7 @@
       "fam": "camisetas-cuello-redondo",
       "cg": "t-camisetas-dazmond-de-cuello-redondo-para-mujer",
       "color": "Gris",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1762346762-20-RXaQdate4n.jpg?v=1767640099"
+      "img": "assets/products/shop/492da23214acafa40f42.jpg"
     },
     {
       "id": "shopify-camisetas-dazmond-de-cuello-redondo-para-mujer-rosa-claro",
@@ -31903,7 +31907,7 @@
       "fam": "camisetas-cuello-redondo",
       "cg": "t-camisetas-dazmond-de-cuello-redondo-para-mujer",
       "color": "Rosa claro",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1762346762-17-RXaQdate4n.jpg?v=1767640099"
+      "img": "assets/products/shop/6a8cfffe1a8e358ff335.jpg"
     },
     {
       "id": "shopify-camisetas-dazmond-de-cuello-redondo-para-mujer-turquesa",
@@ -31922,7 +31926,7 @@
       "fam": "camisetas-cuello-redondo",
       "cg": "t-camisetas-dazmond-de-cuello-redondo-para-mujer",
       "color": "Turquesa",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1762346762-19-RXaQdate4n.jpg?v=1767640099"
+      "img": "assets/products/shop/d9a93d1ca9dbb8abcd40.jpg"
     },
     {
       "id": "shopify-design-womens-short-sleeve-dress-made-in-usa",
@@ -32125,7 +32129,7 @@
       "fam": "blazer-hombre-coleccion",
       "cg": "t-blazer-para-hombre-dazmond-coleccion-privada",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/e5b9441ae2ce87ad00ead60a3e6f1c78.jpg?v=1770924188"
+      "img": "assets/products/shop/eca280ab6fa40b7e8a52.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-1",
@@ -32144,7 +32148,7 @@
       "fam": "blazer-masculino-aura",
       "cg": "t-blazer-masculino-dazmond-aura-structure",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/06aad82bd5779b214a16eb20197aec9e.jpg?v=1770924201"
+      "img": "assets/products/shop/18cb3803a28a9130f819.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-10",
@@ -32163,7 +32167,7 @@
       "fam": "blazer-hombre-coleccion",
       "cg": "t-blazer-para-hombre-dazmond-coleccion-privada-r",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/8bb555e10889cc50a85b3b514f19e9ba.jpg?v=1770924341"
+      "img": "assets/products/shop/6c90a05a578f88c240bc.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-2",
@@ -32182,7 +32186,7 @@
       "fam": "americana-hombre-noble",
       "cg": "t-americana-hombre-dazmond-noble-aura",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/be0a0daa76be88e11fecc478ef05840f.jpg?v=1770924214"
+      "img": "assets/products/shop/e7b6bb7f5c2dc7ca5d6e.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-3",
@@ -32201,7 +32205,7 @@
       "fam": "americana-hombre-sovereign",
       "cg": "t-americana-hombre-dazmond-sovereign-silhouette",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/4ff25efd1a6ca8b2b46421fff5017023.jpg?v=1770924226"
+      "img": "assets/products/shop/f3aa4def2142211132b0.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-4",
@@ -32220,7 +32224,7 @@
       "fam": "americana-monochrome-aura",
       "cg": "t-americana-dazmond-monochrome-aura",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/386588b317171414d1f10deb6ac38a75.jpg?v=1770924239"
+      "img": "assets/products/shop/64303e9299296594fc34.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-5",
@@ -32239,7 +32243,7 @@
       "fam": "blazer-masculino-midnight",
       "cg": "t-blazer-masculino-dazmond-midnight-contrast-con-solapa-a-contraste",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/b05cff3b27e999556d2ef7b684b89074.jpg?v=1770924255"
+      "img": "assets/products/shop/e42fb68982a8b1ca3f72.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-6",
@@ -32258,7 +32262,7 @@
       "fam": "americana-hombre-coleccion",
       "cg": "t-americana-de-hombre-coleccion-privada-dazmond-midnight-tailor",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ae64ac56d0430c41cc01cf931d32f581.jpg?v=1770924275"
+      "img": "assets/products/shop/10e3468727faf92eccb7.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-7",
@@ -32277,7 +32281,7 @@
       "fam": "blazer-pure-distinction",
       "cg": "t-blazer-dazmond-pure-distinction-de-botonadura-sencilla",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/39a556b48238410cdcea2a3b56444885.jpg?v=1770924291"
+      "img": "assets/products/shop/8f74f4a9e2d74f98913e.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-8",
@@ -32296,7 +32300,7 @@
       "fam": "americana-coleccion-privada",
       "cg": "t-americana-dazmond-coleccion-privada-de-sastreria",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/ab6faf3a903189dcf1f76216bdcaea25.jpg?v=1770924299"
+      "img": "assets/products/shop/5984ca4dab16c2d2cf47.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-9",
@@ -32315,7 +32319,7 @@
       "fam": "americana-prism-diamond",
       "cg": "t-americana-dazmond-prism-diamond-con-solapa-de-muesca",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/d1ed754a61cbbf1c2ae322829b903a8e.jpg?v=1770924333"
+      "img": "assets/products/shop/751206e33ee2a29cf39e.jpg"
     },
     {
       "id": "printify-6750352c74c95aa2af003f06-black-sole",
@@ -35351,7 +35355,7 @@
       "fam": "abrigo-cruzado-coleccion",
       "cg": "t-abrigo-cruzado-dazmond-coleccion-privada",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/08984bec21938122efb69a47d52e24f5.jpg?v=1770924380"
+      "img": "assets/products/shop/b1530975ac15d72c3692.jpg"
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-1",
@@ -35370,7 +35374,7 @@
       "fam": "abrigo-royal-crest",
       "cg": "t-abrigo-dazmond-crest-de-doble-botadura",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/3fd6672313cd5e63895f32e0cc906db1.jpg?v=1770924624"
+      "img": "assets/products/shop/ba90e92eee50fa175670.jpg"
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-2",
@@ -35389,7 +35393,7 @@
       "fam": "abrigo-coleccion-privada",
       "cg": "t-abrigo-coleccion-privada-dazmond-winter-sovereign",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/74ae9e840a1024d7883a1ce1a6589573.jpg?v=1770924632"
+      "img": "assets/products/shop/82ea9a8f9bf0c699dafb.jpg"
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-3",
@@ -35408,7 +35412,7 @@
       "fam": "abrigo-cruzado-sovereign",
       "cg": "t-abrigo-cruzado-dazmond-sovereign-heritage-con-forro-sherpa",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/f600f2868cde81b433094f9852b74320.jpg?v=1770924640"
+      "img": "assets/products/shop/d43b543c48dade674851.jpg"
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-4",
@@ -35427,7 +35431,7 @@
       "fam": "abrigo-cruzado-monarch",
       "cg": "t-abrigo-cruzado-dazmond-monarch-frost-para-hombre",
       "color": "white",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/2cfdbcf96d921afa741143cdce738b2d.jpg?v=1770924667"
+      "img": "assets/products/shop/5f5ed93d375a63e553d1.jpg"
     },
     {
       "id": "shopify-camisetas-de-manga-larga-y-cuello-redondo-dazmond",
@@ -35446,7 +35450,7 @@
       "supplier_id": "camisetas-de-manga-larga-y-cuello-redondo-dazmond",
       "fam": "camisetas-manga-larga",
       "cg": "t-camisetas-de-manga-larga-y-cuello-redondo-dazmond",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_9exdo49exdo49exd_7b5cf1ab-9c80-4db9-9545-0f1b6556e1df.png?v=1767642626"
+      "img": "assets/products/shop/fe1cf52865230a5214c1.jpg"
     },
     {
       "id": "shopify-daz-under-armor-mens-command-quarter-zip-2-0-jacket-black-white",
@@ -35521,7 +35525,7 @@
       "supplier_id": "polo-negro-de-hombre-dazmond-luxury-con-estampado",
       "fam": "polo-negro-hombre",
       "cg": "t-polo-de-hombre-dazmond-luxury-con-estampado",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/Gemini_Generated_Image_o3ruh6o3ruh6o3ru_260945a9-f5b3-43be-9a5b-64e1a38d5854.png?v=1767642751"
+      "img": "assets/products/shop/08cac2885e26d4b36ca2.jpg"
     },
     {
       "id": "printify-66c77521952a7b43690bcfdd-black",
@@ -35600,7 +35604,7 @@
       "fam": "traje-bano-diseno",
       "cg": "t-traje-de-bano-de-diseno-dazmond-luxury",
       "color": "Azul medio profundo",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/9a6e7e29bc8268a0755547e14ceb968d.jpg?v=1767643036"
+      "img": "assets/products/shop/10947be8042e5485788b.jpg"
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-removebg-preview-blanket-hoodie-for-men-model-h67",
@@ -36589,7 +36593,7 @@
       "fam": "zapatillas-cana-alta",
       "cg": "t-zapatillas-de-cana-alta-dazmond-art",
       "color": "Blanco",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/TVEFRNeOPfHzdfdseSOBYXXYRyQTCtwM.jpg?v=1767639592"
+      "img": "assets/products/shop/6f96bdcda0055ff0b145.jpg"
     },
     {
       "id": "shopify-zapatillas-de-cana-alta-dazmond-art-negro",
@@ -36609,7 +36613,7 @@
       "fam": "zapatillas-cana-alta",
       "cg": "t-zapatillas-de-cana-alta-dazmond-art",
       "color": "Negro",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/qsBLhfoTxSdGJHNHjSztHmMZGlDJysEA.jpg?v=1762349361"
+      "img": "assets/products/shop/052a718c5075560c800a.jpg"
     },
     {
       "id": "shopify-zapatillas-de-cana-alta-dazmond-luxury-art-blanco",
@@ -36629,7 +36633,7 @@
       "fam": "zapatillas-cana-alta",
       "cg": "t-zapatillas-de-cana-alta-dazmond-luxury-art",
       "color": "Blanco",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/xjoZXfLOUSHwvACfCoumwodATWUpjdjj.jpg?v=1767639438"
+      "img": "assets/products/shop/9856192786f675b251c2.jpg"
     },
     {
       "id": "shopify-zapatillas-de-cana-alta-dazmond-luxury-art-negro",
@@ -36649,7 +36653,7 @@
       "fam": "zapatillas-cana-alta",
       "cg": "t-zapatillas-de-cana-alta-dazmond-luxury-art",
       "color": "Negro",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/KpGOiJyeIIOcuckGbWpNWGLkwelfYUjX.jpg?v=1762429358"
+      "img": "assets/products/shop/9c8ede7fadcb7c3b1977.jpg"
     },
     {
       "id": "shopify-zapatillas-de-running-daz-luxury-con-cordones-para-mujer",

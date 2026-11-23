@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "Flat mockup image on plain background, lacking luxury lighting and editorial styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368164600",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential silhouette redefined for the contemporary wardrobe. This V-neck jersey t-shirt delivers a clean and versatile presence. Tailored with precision and attention to detail. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Una silueta esencial redefinida para el guardarropa contemporáneo. Esta camiseta de cuello de pico ofrece una presencia limpia y versátil. Confeccionada con precisión y atención al detalle. Cada pieza se elabora bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/d10/d107e1baf14d884a98ec0b9708822e57_preview.png"
  ],
@@ -26,9 +40,10 @@
   "printful-346239758"
  ],
  "material": "",
- "name_en": "Daz Manga Corta Tee · Black",
- "name_es": "Camiseta Daz Manga Corta · Negro",
+ "name_en": "V-neck jersey t-shirt · Black",
+ "name_es": "Camiseta de cuello de pico · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 169,
