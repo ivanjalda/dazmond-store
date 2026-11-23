@@ -711,17 +711,11 @@ SITE = "https://dazmond.com"
 
 
 def detect_site(cfg):
-    """Usa dazmond.com en cuanto el dominio apunte a esta tienda; mientras tanto, la dirección de GitHub."""
+    """La tienda vive en su dominio propio (dazmond.com). Google exige que todos los enlaces
+    usen el mismo dominio verificado, así que ya no se usa la dirección de GitHub."""
     global SITE
-    domain = cfg.get("domain", "dazmond.com")
-    try:
-        data = request(f"https://{domain}/data/catalog.json", timeout=15, retries=0)
-        if isinstance(data, dict) and data.get("menus"):
-            SITE = f"https://{domain}"
-        else:
-            raise ValueError
-    except Exception:
-        SITE = cfg.get("pages_url", "https://ivanjalda.github.io/dazmond-store")
+    domain = (cfg.get("domain") or "dazmond.com").strip().replace("https://", "").strip("/")
+    SITE = f"https://{domain}"
     cfg["site_url"] = SITE
     log(f"Dirección de la tienda: {SITE}")
 

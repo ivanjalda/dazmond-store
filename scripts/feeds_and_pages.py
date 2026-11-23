@@ -265,7 +265,7 @@ def policy_pages(cfg, site):
 
 def main():
     cfg = load_json("config.json", {})
-    site = cfg.get("site_url") or cfg.get("pages_url") or "https://dazmond.com"
+    site = "https://" + (cfg.get("domain") or "dazmond.com").replace("https://", "").strip("/")
     products = load_json("products.json", {"products": []}).get("products", [])
     cat_names = names(load_json("catalog.json", {"menus": []}))
     show = visible(products)
