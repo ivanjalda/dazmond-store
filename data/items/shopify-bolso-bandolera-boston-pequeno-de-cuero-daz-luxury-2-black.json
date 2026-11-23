@@ -1,16 +1,29 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Red / Beige",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PVC",
  "ai_priority": true,
+ "ai_type": "Handbag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate lighting, though lifestyle and detail framing lean slightly toward standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury",
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your everyday style with this compact Boston bag. Crafted with attention to detail, it features a structured design with a spacious main compartment and additional interior pockets to keep your essential belongings organized. The top handles and detachable, adjustable shoulder strap offer versatile carrying options for any occasion. A refined accessory designed for contemporary functionality.",
+ "desc_es": "Eleve su estilo diario con este bolso Boston de proporciones compactas. Confeccionado con atención al detalle, presenta un diseño estructurado con un compartimento principal espacioso y bolsillos interiores adicionales para mantener sus pertenencias esenciales organizadas. Las asas superiores y la correa de hombro desmontable y ajustable ofrecen opciones de transporte versátiles para cualquier ocasión. Un accesorio refinado diseñado para la funcionalidad contemporánea.",
+ "details_en": "· Composition: PVC\n· Main compartment with interior pockets\n· Removable and adjustable shoulder strap\n· Made-to-order piece with worldwide shipping available",
+ "details_es": "· Composición: PVC\n· Compartimento principal con bolsillos interiores\n· Correa de hombro extraíble y ajustable\n· Hecho bajo pedido y disponible con envío mundial",
  "display_images": [
   "assets/products/shop/931f1fb5ec5ea6b385b8.jpg",
   "assets/products/shop/ffcee768b6a073e3140e.jpg",
@@ -19,13 +32,7 @@
   "assets/products/shop/e5e2b70d86d0247fc57c.jpg",
   "assets/products/shop/a996cca968584c5dffc3.jpg",
   "assets/products/shop/aecd98487a19e2354b59.jpg",
-  "assets/products/shop/548a412c743b32a3e286.jpg",
-  "assets/products/shop/ae573c671c6888627084.jpg",
-  "assets/products/shop/04bd5045f64164cc467e.jpg",
-  "assets/products/shop/45632ce5ddbc34215dcf.jpg",
-  "assets/products/shop/de0c272876671368f9d5.jpg",
-  "assets/products/shop/9f5930f9aa99f7b95276.jpg",
-  "assets/products/shop/10d7684c35d4423e4a59.jpg"
+  "assets/products/shop/548a412c743b32a3e286.jpg"
  ],
  "draft": false,
  "fam": "bolso-bandolera-boston",
@@ -33,24 +40,54 @@
  "id": "shopify-bolso-bandolera-boston-pequeno-de-cuero-daz-luxury-2-black",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-357300009-black"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-351511771",
+  "printful-350906743"
  ],
  "material": "",
  "name_en": "Small Printed Boston Bag · Black",
  "name_es": "Bolso Boston Estampado Pequeño · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
- "rank": 1575,
+ "rank": 1567,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsas de hombro",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Width",
+   "Height",
+   "Shoulder Strap"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Ancho",
+   "Alto",
+   "Correa de hombro"
+  ],
+  "notes_en": "Measurements are provided by the supplier. Made to order with worldwide shipping.",
+  "notes_es": "Medidas proporcionadas por el proveedor. Fabricado bajo pedido con envío a todo el mundo.",
+  "rows": [
+   [
+    "One Size",
+    "20.5",
+    "12.5",
+    "16",
+    "125"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/04bd5045f64164cc467e.jpg"
+ ],
  "sizes": [
   "Black"
  ],
