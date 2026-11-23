@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T15:57:08Z",
+  "updated": "2026-11-23T16:41:53Z",
   "products": [
     {
       "id": "printful-365090873",
@@ -201337,7 +201337,7 @@
       "img_checked": "2026-11-22",
       "cg": "t-bolso-daz-luxury-con-forma-de-libro",
       "shop_category": "Maletas y bolsos de viaje > Bandoleras grandes",
-      "ai_fail": 1
+      "ai_fail": 2
     },
     {
       "id": "shopify-bolso-daz-luxury-con-forma-de-libro-3",
@@ -201345,7 +201345,6 @@
       "supplier_id": "bolso-daz-luxury-con-forma-de-libro-3",
       "source_title": "Bolso DAZ Luxury con forma de libro",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "cost_usd": 18.29,
@@ -201371,7 +201370,37 @@
       "draft": false,
       "shop_verified": true,
       "size_guide": [],
-      "size_chart": null,
+      "size_chart": {
+        "unit": "inches",
+        "headers": [
+          "Size",
+          "Length",
+          "Height",
+          "Width"
+        ],
+        "headers_es": [
+          "Talla",
+          "Largo",
+          "Alto",
+          "Ancho"
+        ],
+        "rows": [
+          [
+            "P",
+            "8.3",
+            "6",
+            "1.58"
+          ],
+          [
+            "G",
+            "9.8",
+            "7.5",
+            "2"
+          ]
+        ],
+        "notes_en": "Measurements are provided in inches.",
+        "notes_es": "Las medidas se indican en pulgadas."
+      },
       "sku_map": {
         "S": "NKQDXD8N-1",
         "L": "NKQDXD8N-2"
@@ -201380,8 +201409,8 @@
       "source_text": "Bolso DAZ Luxury con forma de libro Bags Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos Bolso con temática de libros para amantes de la literatura - Regalo ideal para lectores y amantes de la lectura - ¡Bolso de mano y bandolera! Con un amplio interior y un monedero, mantiene tus objetos esenciales organizados. Disponible en dos tamaños y adornado con detalles metálicos dorados, es el accesorio perfecto para proteger tus libros con un toque de moda. Cuenta con una correa de hombro ajustable para llevarlo cómodamente en un solo hombro. \n * Dos tamaños: Largo x Alto x Ancho: P / G (P: 8.3 x 6 x 1.58 pulgadas / Largo: 9.8 x 7.5 x 2 pulgadas) \n * Cuero sintético de primera calidad: Esta funda de cuero sintético ofrece una durabilidad y un estilo excepcionales, garantizando una protección duradera para tus preciados libros. \n * Opciones de almacenamiento versátiles: Equipada con un amplio espacio y un monedero interior, ofrece un práctico espacio para guardar notas, marcapáginas y otros artículos esenciales. \n * Diseño moderno: El ribete metálico dorado en las esquinas inferiores izquierda y derecha le da un toque elegante y moderno. \n * Correa de hombro ajustable: Cuenta con una correa de hombro ajustable y extraíble para llevarlo cómodamente en un solo hombro, lo que facilita su portabilidad. \n * Cierre seguro: El cierre de hebilla garantiza que tu libro permanezca protegido y sea fácilmente accesible. \n REGALO IDEAL PARA BIBLIOFILOS: Perfecto para Navidad, cumpleaños y otras celebraciones. Muestra tu pasión por los regalos y accesorios inspirados en libros. Una ex",
       "name_es": "Bolso Bandolera Literario",
       "name_en": "Literary Crossbody Bag",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "desc_es": "Una silueta estructurada inspirada en la forma de los libros clásicos. Este accesorio combina funcionalidad y diseño refinado para el día a día. Confeccionado en cuero sintético de primera calidad, presenta sutiles detalles metálicos dorados en las esquinas. El interior amplio incluye un monedero y espacio organizado para esenciales. La correa de hombro ajustable y extraíble permite una versatilidad absoluta. Disponible en dos tamaños para adaptarse a cada necesidad.",
+      "desc_en": "A structured silhouette inspired by the shape of classic books. This accessory merges functionality with refined everyday design. Crafted from premium synthetic leather, it features subtle gold-tone metal details at the corners. The spacious interior includes a coin purse and organized space for essentials. The adjustable and removable shoulder strap allows for absolute versatility. Available in two sizes to suit every requirement.",
       "price_usd": 35.99,
       "margin_pct": 21.6,
       "images_original": [
@@ -201421,10 +201450,10 @@
       "rank": 1566,
       "badge": "new",
       "look": [
-        "printful-365090873",
-        "printful-351492575-black",
-        "printful-361906822",
-        "printful-357300009-black"
+        "printful-383192424-black",
+        "printful-379237645",
+        "printful-338164153",
+        "printful-337647274-dusty-rose"
       ],
       "page": true,
       "shipping_usd": 8.0,
@@ -201443,7 +201472,72 @@
       "img_checked": "2026-11-22",
       "cg": "t-bolso-daz-luxury-con-forma-de-libro",
       "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos",
-      "ai_fail": 1
+      "ai_fail": 1,
+      "art_score": 6,
+      "art_note": "Clean studio isolation shots with consistent lighting, though backgrounds are plain e-commerce renders.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/64951cd3d2d13068e22c.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/9127303f4d9250222808.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/d955fe72e0d46d4a2685.jpg",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/5036e9148672d0bebade.jpg",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/803013583da00247a904.jpg",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/51c0324763f5cf25e70e.jpg",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/baae01d3ab8997917608.jpg",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/f84a43c6f94d0e574699.jpg",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/10f10019109e6f8f1bc0.jpg",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "Crossbody Bag",
+      "ai_gender": "women",
+      "ai_color": "Purple",
+      "ai_material": "Synthetic Leather",
+      "ai_cats": [
+        "mujer/bolsos-carteras"
+      ],
+      "details_es": "· Cuero sintético de primera calidad\n· Ribete metálico dorado en las esquinas\n· Correa de hombro ajustable y extraíble\n· Cierre seguro de hebilla\n· Disponible en dos tamaños: P y G\n· Hecho bajo pedido y envío mundial",
+      "details_en": "· Premium synthetic leather\n· Gold-tone metal corner hardware\n· Adjustable and removable shoulder strap\n· Secure buckle closure\n· Available in two sizes: P and G\n· Made to order and worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "interestprint-un-diamante-rojo-sobre-un-fondo-negro-arte-lujo-simbolo-dibujo-logo-alma-unico-4-removebg-p-womens-mary-jane-shoes",
@@ -201554,7 +201648,7 @@
       "img_checked": "2026-11-21",
       "cg": "t-coleccion-privada-zapatos-mary-jane-dazmond-rubi-nocturno",
       "shop_category": "",
-      "ai_fail": 1
+      "ai_fail": 2
     },
     {
       "id": "shopify-design-womens-seamless-bramade-in-usa",
@@ -297875,7 +297969,8 @@
       "stripe_price_cents": 3299,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-pullover-windbreaker",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-un-diamante-con-fondo-blanco-y-lineas-negras-arte-4-removebg-preview-womens-jeans-front-printing-ships-from-usa",
@@ -297980,7 +298075,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazmond.com",
       "cg": "t-un-diamante-con-fondo-y-lineas-negras-arte-removebg-preview-women-s",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-un-diamante-rojo-sobre-un-fondo-negro-arte-lujo-simbolo-dibujo-logo-alma-unico-4-removebg-p-womens-jeans-front-printing-ships-from-usa",
@@ -298085,7 +298181,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazmond.com",
       "cg": "t-un-diamante-sobre-un-fondo-arte-lujo-simbolo-dibujo-logo-alma-unico",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-womens-jeans-back-printing-ships-from-usa",
@@ -298190,7 +298287,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazmond.com",
       "cg": "t-women-s-jeans-back-printing-ships-from-usa",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-womens-jeans-back-printing-ships-from-usa-1",
@@ -298295,7 +298393,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazmond.com",
       "cg": "t-women-s-jeans-back-printing-ships-from-usa",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-womens-jeans-front-printing-ships-from-usa",
@@ -298400,7 +298499,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazmond.com",
       "cg": "t-women-s-jeans-front-printing-ships-from-usa",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-men-s-long-sleeve-rash-guard-ships-from-usa-black",
@@ -298522,7 +298622,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-men-s-long-sleeve-rash-guard-ships-from-usa",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-men-s-long-sleeve-rash-guard-ships-from-usa-flower-grey",
@@ -298644,7 +298745,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-men-s-long-sleeve-rash-guard-ships-from-usa",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-men-s-long-sleeve-rash-guard-ships-from-usa-sapphire-blue",
@@ -298766,7 +298868,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-men-s-long-sleeve-rash-guard-ships-from-usa",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-un-diamante-con-fondo-blanco-y-lineas-negras-arte-3-removebg-preview-womens-cotton-padded-shoes-model-19291",
@@ -298907,7 +299010,8 @@
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazmond.com",
       "cg": "t-un-diamante-con-fondo-y-lineas-negras-arte-removebg-preview-women-s",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-un-diamante-con-fondo-blanco-y-lineas-negras-arte-4-removebg-preview-womens-cotton-padded-shoes-model-19291",
@@ -299048,7 +299152,8 @@
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazmond.com",
       "cg": "t-un-diamante-con-fondo-y-lineas-negras-arte-removebg-preview-women-s",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-womens-patch-pocket-fleece-jacket",
@@ -299168,7 +299273,8 @@
       "stripe_price_cents": 3999,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-patch-pocket-fleece-jacket",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-womens-patch-pocket-fleece-jacket-1",
@@ -299288,7 +299394,8 @@
       "stripe_price_cents": 3999,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-patch-pocket-fleece-jacket",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-womens-patch-pocket-fleece-jacket-2",
@@ -299408,7 +299515,8 @@
       "stripe_price_cents": 3999,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-patch-pocket-fleece-jacket",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-womens-patch-pocket-fleece-jacket-3",
@@ -299528,7 +299636,8 @@
       "stripe_price_cents": 3999,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-patch-pocket-fleece-jacket",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-womens-stand-collar-fleece-jacket",
@@ -299648,7 +299757,8 @@
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-stand-collar-fleece-jacket",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-womens-stand-collar-fleece-jacket-1",
@@ -299768,7 +299878,8 @@
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-stand-collar-fleece-jacket",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-womens-stand-collar-fleece-jacket-2",
@@ -299888,7 +299999,8 @@
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-stand-collar-fleece-jacket",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-womens-stand-collar-fleece-jacket-3",
@@ -300008,7 +300120,8 @@
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-stand-collar-fleece-jacket",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-womens-stand-collar-fleece-jacket-4",
@@ -300128,7 +300241,8 @@
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-stand-collar-fleece-jacket",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-11",
@@ -300239,7 +300353,8 @@
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-all-over-print-men-s-blazer",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-12",
@@ -300350,7 +300465,8 @@
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-all-over-print-men-s-blazer",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-13",
@@ -300461,7 +300577,8 @@
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-all-over-print-men-s-blazer",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "shopify-collar-de-corazon",
@@ -300555,7 +300672,8 @@
       "stripe_price_cents": 4499,
       "stripe_site": "https://dazmond.com",
       "cg": "t-collar-de-corazon-daz-luxury",
-      "shop_category": "Ropa y accesorios > Joyería > Collares"
+      "shop_category": "Ropa y accesorios > Joyería > Collares",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-5",
@@ -300678,7 +300796,8 @@
       "stripe_price_cents": 4999,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-men-s-double-breasted-coat",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-6",
@@ -300801,7 +300920,8 @@
       "stripe_price_cents": 4999,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-men-s-double-breasted-coat",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-7",
@@ -300924,7 +301044,8 @@
       "stripe_price_cents": 4999,
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-men-s-double-breasted-coat",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-mens-belted-sleep-robe-model-sets-30",
@@ -301032,7 +301153,8 @@
       "stripe_price_cents": 5999,
       "stripe_site": "https://dazmond.com",
       "cg": "t-men-s-belted-sleep-robe-model-sets",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "interestprint-mens-belted-sleep-robe-model-sets-31",
@@ -301140,7 +301262,8 @@
       "stripe_price_cents": 5999,
       "stripe_site": "https://dazmond.com",
       "cg": "t-men-s-belted-sleep-robe-model-sets",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "shopify-reloj-calado-daz-luxury-para-hombre",
@@ -301322,7 +301445,8 @@
       "stripe_price_cents": 4899,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-6682f7eaabc218c5680b99db",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "printify-669f857d202b3fb01407bf9c",
@@ -301433,7 +301557,8 @@
       "stripe_price_cents": 3599,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-669f857d202b3fb01407bf9c",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "printify-669f87936b62c2d4940ddfd7",
@@ -301544,7 +301669,8 @@
       "stripe_price_cents": 3599,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-669f87936b62c2d4940ddfd7",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "printify-669f89290086155073058730",
@@ -301655,7 +301781,8 @@
       "stripe_price_cents": 3599,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-669f89290086155073058730",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "printify-668eaa0ce8327b730b0bcac2",
@@ -301761,7 +301888,8 @@
       "stripe_price_cents": 4199,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-668eaa0ce8327b730b0bcac2",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "printify-668eaac5f88774f5bd03c22e",
@@ -301867,7 +301995,8 @@
       "stripe_price_cents": 4199,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-668eaac5f88774f5bd03c22e",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "printify-668eab5af72a45d14c0529a4",
@@ -301973,7 +302102,8 @@
       "stripe_price_cents": 4199,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-668eab5af72a45d14c0529a4",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "printify-668eac084542f0d6d6052014",
@@ -302079,7 +302209,8 @@
       "stripe_price_cents": 4199,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-668eac084542f0d6d6052014",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "printify-668eb21afc9e2d84f00ecdc1",
@@ -302187,7 +302318,8 @@
       "stripe_price_cents": 4299,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-668eb21afc9e2d84f00ecdc1",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "printify-667ff286278e297032061cca",
@@ -302298,7 +302430,8 @@
       "stripe_price_cents": 18199,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-667ff286278e297032061cca",
-      "shop_category": ""
+      "shop_category": "",
+      "img_checked": "2026-11-23"
     }
   ]
 }
