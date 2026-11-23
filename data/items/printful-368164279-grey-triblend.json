@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Grey Triblend",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Hooded Long Sleeve Tee",
+ "ai_ver": 2,
+ "art_note": "The image features a digital mockup pasted onto a model against a plain white background, failing to meet luxury e-commerce standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-368164279",
  "color": "Grey Triblend",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Definition of contemporary minimalism. This hooded long-range sleeve piece offers a refined and versatile silhouette. Tailored for the modern wardrobe, it combines fluid design with a subdued attitude. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Definicion del minimalismo contemporaneo. Esta pieza con capucha y manga larga ofrece una silueta depurada y versatil. Confeccionada para el guardarropa moderno, combina un diseño fluido con una actitud sobria. Cada prenda se elabora bajo demanda. Disponible con envio mundial.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho a medida\n· Disponible con envio mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/b8e/b8e22572062c0ac0b4e289b56d6c07ce_preview.png"
  ],
@@ -29,6 +43,7 @@
  "name_en": "Lightweight Long Sleeve Hoodie · Grey Triblend",
  "name_es": "Sudadera Ligera de Manga Larga · Grey Triblend",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 106,
