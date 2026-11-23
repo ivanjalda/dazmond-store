@@ -1,19 +1,19 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-23 22:41 UTC",
+  "updated": "2026-11-23 23:41 UTC",
   "totals": {
     "catalogo": 2438,
     "a_la_vista": 1999,
     "disenos_a_la_vista": 821,
     "ocultos": 439,
-    "ia_revisados": 675,
-    "ia_pendientes": 1762,
+    "ia_revisados": 676,
+    "ia_pendientes": 1761,
     "con_boton_de_pago": 1999,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
-    "visitas_30_dias": 1680,
+    "visitas_30_dias": 2011,
     "fotos_de_campana": 0
   },
   "reasons": {
@@ -426,6 +426,24 @@
       "v": 2
     },
     {
+      "id": "interestprint-design-mens-all-over-print-jacket",
+      "n": "Chaqueta Golden Heritage · Blanco",
+      "s": "InterestPrint",
+      "img": "assets/products/shop/67b86f5e59b5bb200a76.jpg",
+      "c": "hombre/abrigo-chaqueta-sueter",
+      "pr": 35.99,
+      "v": 2
+    },
+    {
+      "id": "interestprint-design-mens-double-breasted-coat-2",
+      "n": "Chaqueta Abrigo Colección Privada · Blanco",
+      "s": "InterestPrint",
+      "img": "assets/products/shop/82ea9a8f9bf0c699dafb.jpg",
+      "c": "hombre/abrigo-chaqueta-sueter",
+      "pr": 49.99,
+      "v": 2
+    },
+    {
       "id": "shopify-botas-daz-luxury-de-piel-sintetica",
       "n": "Botas Daz Piel Sintética",
       "s": "Shopify",
@@ -433,24 +451,6 @@
       "c": "calzado-hombre/botas-botines-hombre",
       "pr": 227.99,
       "v": 2
-    },
-    {
-      "id": "printful-351492575-black",
-      "n": "Polo Gold Crest · Negro",
-      "s": "Printful",
-      "img": "https://files.cdn.printful.com/files/da8/da89bed1d1e149fe99788cc0c4d9d7b2_preview.png",
-      "c": "hombre/polos",
-      "pr": 25.0,
-      "v": 1
-    },
-    {
-      "id": "printful-351492575-collegiate-navy",
-      "n": "Polo Gold Crest · Collegiate Navy",
-      "s": "Printful",
-      "img": "https://files.cdn.printful.com/files/51f/51ffc1a5a5ca56c87aba156a6dd92678_preview.png",
-      "c": "hombre/polos",
-      "pr": 25.0,
-      "v": 1
     }
   ],
   "review": [
@@ -4491,14 +4491,12 @@
     "Productos en catálogo: 2438 · a la vista: 2002 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
-    "Firebase: visitas leídas de 1667 piezas",
-    "⏱ ventas, visitas y cupones: 2 s",
+    "Firebase: visitas leídas de 1996 piezas",
+    "⏱ ventas, visitas y cupones: 3 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con shopify-bolso-de-lona-premium-daz-con-estampado-integral-3-capas: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con shopify-zapatillas-de-skate-ligeras-daz-premium-1-black: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 5 productos revisados (fotos, guía de tallas y textos) · quedan 1987",
-    "⏱ revisión con IA: 413 s",
+    "IA: 1 productos revisados (fotos, guía de tallas y textos) · quedan 1986",
+    "⏱ revisión con IA: 147 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
