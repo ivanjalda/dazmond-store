@@ -48,9 +48,12 @@ def brevo(path, body, key):
     req.add_header("api-key", key)
     req.add_header("Content-Type", "application/json")
     req.add_header("Accept", "application/json")
-    with urllib.request.urlopen(req, timeout=30) as r:
-        raw = r.read().decode("utf-8")
-        return json.loads(raw) if raw else {}
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            raw = r.read().decode("utf-8")
+    except urllib.error.HTTPError as e:  # muestra el motivo exacto que da Brevo
+        raise RuntimeError(f"HTTP {e.code}: {e.read().decode('utf-8', 'ignore')[:400]}")
+    return json.loads(raw) if raw else {}
 
 
 TEXT = {
