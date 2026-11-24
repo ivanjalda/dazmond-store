@@ -31649,8 +31649,8 @@
     },
     {
       "id": "shopify-bolso-de-mano-de-cuero-sintetico-daz-luxury-3",
-      "name_es": "Bolso de mano de cuero sintético",
-      "name_en": "Synthetic Leather Handbag",
+      "name_es": "Bolso de mano de cuero sintético · Rosa",
+      "name_en": "Synthetic Leather Handbag · Rosa",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -31663,6 +31663,7 @@
       "supplier_id": "bolso-de-mano-de-cuero-sintetico-daz-luxury-3",
       "fam": "bolso-mano-cuero",
       "cg": "t-bolso-de-mano-de-cuero-sintetico-daz-luxury",
+      "color": "rosa",
       "art_score": 4,
       "img": "assets/products/shop/b28bb3b5cf76db999574.jpg"
     },
@@ -31673,7 +31674,6 @@
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -31684,6 +31684,7 @@
       "fam": "bolso-mano-cuero",
       "cg": "t-bolso-de-mano-de-cuero-sintetico-daz-luxury",
       "color": "Beige",
+      "art_score": 5,
       "img": "assets/products/shop/3448d0c797114f4451a6.jpg"
     },
     {
@@ -31708,8 +31709,8 @@
     },
     {
       "id": "shopify-gorra-de-beisbol-vaquera-daz-black",
-      "name_es": "Gorro Gorra Béisbol Vaquera · Negro",
-      "name_en": "Gorra Béisbol Vaquera Hat · Black",
+      "name_es": "Gorra de béisbol de algodón · Negro",
+      "name_en": "Cotton Baseball Cap · Black",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -31724,12 +31725,13 @@
       "fam": "gorra-beisbol-vaquera",
       "cg": "t-gorra-de-beisbol-vaquera-daz",
       "color": "Black",
+      "art_score": 7,
       "img": "assets/products/shop/90911ccd8132c3abff5f.jpg"
     },
     {
       "id": "shopify-gorra-de-beisbol-vaquera-daz-blue",
-      "name_es": "Gorro Gorra Béisbol Vaquera · Azul",
-      "name_en": "Gorra Béisbol Vaquera Hat · Blue",
+      "name_es": "Gorra de béisbol de algodón · Azul",
+      "name_en": "Cotton Baseball Cap · Blue",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -31748,8 +31750,8 @@
     },
     {
       "id": "shopify-gorra-de-beisbol-vaquera-daz-khaki",
-      "name_es": "Gorro Gorra Béisbol Vaquera · Khaki",
-      "name_en": "Gorra Béisbol Vaquera Hat · Khaki",
+      "name_es": "Gorra de béisbol de algodón · Khaki",
+      "name_en": "Cotton Baseball Cap · Khaki",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
