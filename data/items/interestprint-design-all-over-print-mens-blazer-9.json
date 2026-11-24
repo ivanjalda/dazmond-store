@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Poliéster",
  "ai_priority": true,
+ "ai_type": "blazer",
+ "ai_ver": 2,
+ "art_note": "The imagery relies heavily on flat mockups and composited studio shots rather than high-end luxury campaign photography.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,15 +20,11 @@
  "cg": "t-americana-dazmond-prism-diamond-con-solapa-de-muesca",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A garment designed to project serenity and character in any formal setting. Its structured silhouette balances distinction and comfort with a memorable presence. Classic notch lapels and a central two-button fastening define a clean tailoring piece. The soft-textured interior lining encourages fluid movement. Fabric stability maintains the impeccable shoulder drape throughout the day. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Una prenda diseñada para proyectar serenidad y carácter en cualquier entorno formal. Su silueta estructurada equilibra distinción y comodidad con una presencia memorable. Las solapas de muesca clásica y el cierre central de dos botones definen una pieza de sastrería limpia. El forro interior de textura suave favorece un deslizamiento fluido. La solidez del tejido mantiene la caída impecable de los hombros durante todo el día. Cada pieza se confecciona bajo pedido con envíos disponibles a nivel mundial.",
+ "details_en": "· Crafted from polyester with a weight of 22.86 oz.\n· Soft-textured interior lining\n· Classic notch lapel\n· Central two-button fastening\n· Open patch pockets and back vent\n· Buttoned cuffs\n· Structured fit\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionada en poliéster con un peso de 22.86 oz.\n· Forro interior de textura suave\n· Solapa de muesca clásica\n· Cierre central de dos botones\n· Bolsillos de parche abiertos y abertura trasera\n· Puños abotonados\n· Ajuste estructurado\n· Hecho bajo pedido\n· Disponible envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/751206e33ee2a29cf39e.jpg",
-  "assets/products/shop/35f12d68a794141f15bb.jpg",
-  "assets/products/shop/3272ddee7f5fd1a90749.jpg",
-  "assets/products/shop/1afa6184ccc9ea5a1fac.jpg",
-  "assets/products/shop/e3e79070dfdf4e87b73f.jpg",
-  "assets/products/shop/74f2f2ad8714fee5438e.jpg",
   "assets/products/shop/a6ef8db8b002b0de71ec.jpg"
  ],
  "draft": false,
@@ -30,9 +38,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Americana Prism Diamond Blazer · White",
- "name_es": "Blazer Americana Prism Diamond · Blanco",
+ "name_en": "White Prism Diamond Blazer",
+ "name_es": "Americana Prism Diamond Blanca",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 1695,
@@ -40,8 +49,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74 cm / 29.1 in",
+    "110 cm / 43.3 in",
+    "44 cm / 17.3 in",
+    "63 cm / 24.8 in"
+   ],
+   [
+    "M",
+    "76 cm / 29.9 in",
+    "114 cm / 44.9 in",
+    "46 cm / 18.1 in",
+    "64 cm / 25.2 in"
+   ],
+   [
+    "L",
+    "78 cm / 30.7 in",
+    "118 cm / 46.5 in",
+    "48 cm / 18.9 in",
+    "65 cm / 25.6 in"
+   ],
+   [
+    "XL",
+    "80 cm / 31.5 in",
+    "122 cm / 48 in",
+    "50 cm / 19.7 in",
+    "66 cm / 26 in"
+   ],
+   [
+    "2XL",
+    "82 cm / 32.3 in",
+    "126 cm / 49.6 in",
+    "52 cm / 20.5 in",
+    "67 cm / 26.4 in"
+   ],
+   [
+    "3XL",
+    "84 cm / 33.1 in",
+    "130 cm / 51.2 in",
+    "54 cm / 21.3 in",
+    "68 cm / 26.8 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/74f2f2ad8714fee5438e.jpg"
+ ],
  "sizes": [
   "S",
   "M",

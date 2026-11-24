@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Poliéster de 22.86 oz con forro interior suave",
  "ai_priority": true,
+ "ai_type": "Blazer",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots are acceptable, but the lifestyle images use artificial composite overlays that reduce the luxury aesthetic.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,15 +20,14 @@
  "cg": "t-blazer-dazmond-pure-distinction-de-botonadura-sencilla",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An impeccable silhouette defined by sober lines and a polished white tone. This single-breasted blazer brings a distinguished presence to any formal or evening setting. Structured notch lapels and a two-button front closure shape the figure with precision. Crafted from a substantial fabric with a smooth interior lining that ensures a fluid drape. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una silueta impecable definida por líneas sobrias y un tono blanco pulido. Este blazer de botonadura sencilla aporta una presencia distinguida a cualquier entorno formal o nocturno. Las solapas de muesca estructuradas y el cierre frontal de dos botones estilizan la figura con precisión. Confeccionado con un tejido con cuerpo y un forro interior suave que asegura una caída fluida. Cada pieza se confecciona bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 22.86 oz polyester fabric with a soft interior lining\n· Notch lapels and two-button front closure\n· Two patch pockets and back vent\n· Structured fit with buttoned cuffs\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Tejido de poliéster de 22.86 oz con forro interior suave\n· Solapas de muesca y cierre frontal de dos botones\n· Dos bolsillos de parche y abertura posterior\n· Ajuste estructurado con puños abotonados\n· Pieza elaborada bajo demanda con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/8f74f4a9e2d74f98913e.jpg",
   "assets/products/shop/493134b27fb98f63dd10.jpg",
   "assets/products/shop/a1420e77a23653e36d1a.jpg",
   "assets/products/shop/45ffa99c97829f5864d9.jpg",
-  "assets/products/shop/f1dae44132821145b1cf.jpg",
-  "assets/products/shop/87904e3cbfa660287d9a.jpg",
   "assets/products/shop/c8e45b3c927ffcce0d43.jpg"
  ],
  "draft": false,
@@ -30,9 +41,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Blazer Pure Distinction Blazer · White",
- "name_es": "Blazer Blazer Pure Distinction · Blanco",
+ "name_en": "Pure Distinction Structured Blazer",
+ "name_es": "Americana estructurada Pure Distinction",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 1693,
@@ -40,8 +52,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74 cm / 29.1 in",
+    "110 cm / 43.3 in",
+    "44 cm / 17.3 in",
+    "63 cm / 24.8 in"
+   ],
+   [
+    "M",
+    "76 cm / 29.9 in",
+    "114 cm / 44.9 in",
+    "46 cm / 18.1 in",
+    "64 cm / 25.2 in"
+   ],
+   [
+    "L",
+    "78 cm / 30.7 in",
+    "118 cm / 46.5 in",
+    "48 cm / 18.9 in",
+    "65 cm / 25.6 in"
+   ],
+   [
+    "XL",
+    "80 cm / 31.5 in",
+    "122 cm / 48 in",
+    "50 cm / 19.7 in",
+    "66 cm / 26 in"
+   ],
+   [
+    "2XL",
+    "82 cm / 32.3 in",
+    "126 cm / 49.6 in",
+    "52 cm / 20.5 in",
+    "67 cm / 26.4 in"
+   ],
+   [
+    "3XL",
+    "84 cm / 33.1 in",
+    "130 cm / 51.2 in",
+    "54 cm / 21.3 in",
+    "68 cm / 26.8 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/87904e3cbfa660287d9a.jpg"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_type": "Coat",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shots and detail photography maintain high standards, though digital model composites lower overall luxury impact.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,15 +20,14 @@
  "cg": "t-abrigo-coleccion-privada-dazmond-winter-sovereign",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The Winter Sovereign coat redefines winter presence with a structured double-breasted silhouette. Designed with a knee-length drop and wide contrast lapels, it projects an commanding elegance. Crafted to deliver superior thermal insulation without compromising urban sophistication. An essential piece to navigate the season with absolute confidence.",
+ "desc_es": "El abrigo Winter Sovereign redefine la presencia invernal con una silueta estructurada de doble botonadura. Diseñado con una caída hasta la rodilla y solapas anchas en contraste, proyecta una elegancia imponente. Confeccionado para ofrecer aislamiento térmico superior sin comprometer la sofisticación urbana. Una pieza esencial para transitar la temporada con absoluta confianza.",
+ "details_en": "· 260 g/m² polyester exterior with British-inspired texture\n· 95% polyester and 5% spandex sherpa plush interior lining\n· Thick padding for enhanced thermal insulation\n· Double-breasted structure with wide notch lapel\n· Knee-length cut and two side pockets\n· Made to order with worldwide shipping available",
+ "details_es": "· Exterior de poliéster de 260 g/m² con textura inspirada en la sastrería británica\n· Forro interior de felpa sherpa de 95% poliéster y 5% spandex\n· Acolchado grueso para mayor aislamiento térmico\n· Estructura de doble botonadura con solapa de muesca ancha\n· Largo hasta la rodilla y dos bolsillos laterales\n· Hecho bajo pedido con envío mundial disponible",
  "display_images": [
-  "assets/products/shop/82ea9a8f9bf0c699dafb.jpg",
   "assets/products/shop/62d04f6f10c3e5125087.jpg",
   "assets/products/shop/1e8e5cfc99c60079e757.jpg",
   "assets/products/shop/ba81cfc9e8e963047eec.jpg",
-  "assets/products/shop/97cf28c62085802f633b.jpg",
-  "assets/products/shop/b5f5121177a3e72031b3.jpg",
   "assets/products/shop/ea11823fd1b514974cf1.jpg"
  ],
  "draft": false,
@@ -30,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Abrigo Colección Privada Jacket · White",
- "name_es": "Chaqueta Abrigo Colección Privada · Blanco",
+ "name_en": "Winter Sovereign Coat",
+ "name_es": "Abrigo Winter Sovereign",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
  "rank": 1683,
@@ -40,8 +52,124 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Hem",
+   "Shoulder",
+   "Sleeve length",
+   "Cuff"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud",
+   "Busto",
+   "Dobladillo",
+   "Hombro",
+   "Longitud de manga",
+   "Puño"
+  ],
+  "notes_en": "This data was obtained from manually measuring the product, it may be off by 2-3 CM.",
+  "notes_es": "Estos datos se obtuvieron midiendo el producto manualmente, pueden variar entre 2 y 3 CM.",
+  "rows": [
+   [
+    "XS",
+    "33.86 / 86",
+    "43.31 / 110",
+    "46.46 / 118",
+    "18.31 / 46.5",
+    "24.33 / 61.8",
+    "9.69 / 24.6"
+   ],
+   [
+    "S",
+    "34.65 / 88",
+    "44.88 / 114",
+    "48.03 / 122",
+    "18.90 / 48",
+    "24.80 / 63",
+    "10.16 / 25.8"
+   ],
+   [
+    "M",
+    "35.43 / 90",
+    "46.46 / 118",
+    "49.61 / 126",
+    "19.49 / 49.5",
+    "25.28 / 64.2",
+    "10.63 / 27"
+   ],
+   [
+    "L",
+    "36.22 / 92",
+    "48.43 / 123",
+    "51.57 / 131",
+    "20.20 / 51.3",
+    "25.75 / 65.4",
+    "11.10 / 28.2"
+   ],
+   [
+    "XL",
+    "37.01 / 94",
+    "50.39 / 128",
+    "53.54 / 136",
+    "20.91 / 53.1",
+    "26.22 / 66.6",
+    "11.57 / 29.4"
+   ],
+   [
+    "XXL",
+    "37.80 / 96",
+    "52.36 / 133",
+    "55.51 / 141",
+    "21.61 / 54.9",
+    "26.69 / 67.8",
+    "12.05 / 30.6"
+   ],
+   [
+    "XXXL",
+    "38.58 / 98",
+    "54.33 / 138",
+    "57.48 / 146",
+    "22.32 / 56.7",
+    "27.17 / 69",
+    "12.52 / 31.8"
+   ],
+   [
+    "4XL",
+    "39.37 / 100",
+    "56.30 / 143",
+    "59.45 / 151",
+    "23.03 / 58.5",
+    "27.64 / 70.2",
+    "12.99 / 33"
+   ],
+   [
+    "5XL",
+    "40.16 / 102",
+    "58.27 / 148",
+    "61.42 / 156",
+    "23.74 / 60.3",
+    "28.11 / 71.4",
+    "13.46 / 34.2"
+   ],
+   [
+    "6XL",
+    "40.94 / 104",
+    "60.24 / 153",
+    "63.39 / 161",
+    "24.45 / 62.1",
+    "28.58 / 72.6",
+    "13.94 / 35.4"
+   ]
+  ],
+  "unit": "inch / cm"
+ },
+ "size_guide": [
+  "assets/products/shop/b5f5121177a3e72031b3.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

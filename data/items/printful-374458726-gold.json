@@ -16,20 +16,21 @@
   "assets/products/shop/60c4ce8a97011bf49e2c.jpg"
  ],
  "ai_cats": [
-  "hombre/abrigo-chaqueta-sueter",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "ai_color": "Gold",
  "ai_copy": true,
  "ai_done": true,
  "ai_gender": "unisex",
  "ai_priority": true,
- "ai_type": "Pom Pom Knit Cap",
+ "ai_type": "beanie",
+ "audited": "2026-11-24",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/abrigo-chaqueta-sueter",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
  ],
  "cg": "printful-374458726",
  "color": "Gold",
@@ -48,8 +49,8 @@
  "id": "printful-374458726-gold",
  "img_checked": "2026-11-22",
  "look": [
+  "printful-365090873",
   "printful-351492575-black",
-  "printful-361906822",
   "printful-345759651",
   "printful-357300009-black"
  ],

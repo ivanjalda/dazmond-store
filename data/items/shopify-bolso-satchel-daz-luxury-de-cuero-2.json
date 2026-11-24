@@ -1,22 +1,34 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Handbag",
+ "ai_ver": 2,
+ "art_note": "Clean product studio shots and lifestyle imagery, though some model compositions feel slightly digital.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-satchel-daz-luxury-de-cuero",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your everyday elegance with the DAZ structured satchel bag. Crafted from high-grade synthetic leather, this design pairs a sophisticated silhouette with exceptional functionality. It features a sturdy top handle and an adjustable shoulder strap for effortless crossbody versatility. The secure front closure protects your essentials with distinction, while the spacious interior meets the demands of contemporary life. Each piece is made to order to ensure exclusivity. Worldwide shipping available.",
+ "desc_es": "Eleve su elegancia diaria con el bolso satchel estructurado DAZ. Confeccionado en cuero sintético de alta calidad, este diseño combina una silueta sofisticada con una funcionalidad excepcional. Cuenta con un asa superior firme y una correa ajustable para el hombro que permite llevarlo cruzado con absoluta versatilidad. El cierre frontal asegura sus pertenencias con distinción, mientras que su amplio interior responde a las exigencias de la vida contemporánea. Cada pieza es elaborada bajo pedido para garantizar exclusividad. Disponible con envíos a todo el mundo.",
+ "details_en": "· Premium synthetic leather\n· Adjustable shoulder strap\n· Practical top handles\n· Metal front closure\n· Regular cleaning with cold water and damp cloth\n· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Cuero sintético premium\n· Correa ajustable para el hombro\n· Prácticas asas superiores\n· Cierre frontal metálico\n· Limpieza regular con agua fría y paño húmedo\n· Producto elaborado bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/7c97dbf2473fd7dabd5e.jpg",
   "assets/products/shop/859aeb1cd334576c8d3e.jpg",
   "assets/products/shop/027efeab586695a4ca72.jpg",
   "assets/products/shop/bd3e71e8f19934bd7091.jpg",
-  "assets/products/shop/8aaebfcbc19e5e85706d.jpg",
   "assets/products/shop/dfa37becdbf1c0c253a7.jpg"
  ],
  "draft": false,
@@ -25,15 +37,16 @@
  "id": "shopify-bolso-satchel-daz-luxury-de-cuero-2",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-345759651"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Bolso Satchel Daz Bag",
- "name_es": "Bolso Bolso Satchel Daz",
+ "name_en": "DAZ Luxury Leather Satchel Bag",
+ "name_es": "Bolso Satchel DAZ Luxury de Cuero",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 1732,

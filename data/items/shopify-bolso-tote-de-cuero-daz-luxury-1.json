@@ -1,16 +1,29 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PU leather",
  "ai_priority": true,
+ "ai_type": "Tote Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation of the product, but standard e-commerce rendering lacks high-end editorial mood.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-tote-de-cuero-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Defined by clean lines and a structured silhouette, this PU leather tote bag elevates everyday functionality with a refined approach. Its spacious interior compartment is designed to organize essentials with precision, secured by a zip closure. Adjustable handles and shoulder strap offer versatility in wear. Made to order piece. Available for worldwide shipping.",
+ "desc_es": "Unisex. Definido por líneas limpias y una silueta estructurada, este bolso tote de cuero PU eleva la funcionalidad diaria con un enfoque refinado. Su amplio compartimento interior está diseñado para organizar lo esencial con precisión, asegurado mediante un cierre de cremallera. Las asas ajustables y la correa para el hombro ofrecen versatilidad en el transporte. Pieza elaborada bajo pedido. Disponible para envío a todo el mundo.",
+ "details_en": "· PU leather\n· Spacious compartment with three pockets\n· Zip closure\n· Adjustable handles and shoulder strap\n· Clean regularly with a soft damp cloth and air dry\n· Made-to-order piece. Worldwide shipping.",
+ "details_es": "· Cuero PU\n· Amplio compartimento con tres bolsillos\n· Cierre de cremallera\n· Asas ajustables y correa para el hombro\n· Limpiar regularmente con un paño suave húmedo y secar al aire\n· Producto hecho a medida bajo pedido. Envío a todo el mundo.",
  "display_images": [
   "assets/products/shop/b333d61721b278c5ff47.jpg",
   "assets/products/shop/282ff3ce5d47fbf5b07f.jpg",
@@ -26,15 +39,16 @@
  "id": "shopify-bolso-tote-de-cuero-daz-luxury-1",
  "img_checked": "2026-11-23",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-345759651"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Bolso Cuero Daz Bag",
- "name_es": "Bolso Bolso Cuero Daz",
+ "name_en": "PU Leather Tote Bag",
+ "name_es": "Bolso Tote de Cuero PU",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 38.99,
  "rank": 1735,

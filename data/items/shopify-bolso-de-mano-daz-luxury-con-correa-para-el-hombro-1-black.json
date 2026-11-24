@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Handbag",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and high-resolution angles present a refined luxury aesthetic, though some lifestyle shots appear slightly composited.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your style with this refined handbag crafted from premium synthetic leather for enduring elegance. Designed with a fixed shoulder strap, it offers seamless versatility and ease of movement for daily sophistication. The spacious main compartment features a smooth zippered pocket, ensuring effortless access and secure storage for essential belongings. Seamlessly transitioning between professional settings and evening engagements, this piece embodies a harmonious balance of form and function.",
+ "desc_es": "Elevate your style with this refined handbag crafted from premium synthetic leather for enduring elegance. Designed with a fixed shoulder strap, it offers seamless versatility and ease of movement for daily sophistication. The spacious main compartment features a smooth zippered pocket, ensuring effortless access and secure storage for essential belongings. Seamlessly transitioning between professional settings and evening engagements, this piece embodies a harmonious balance of form and function.",
+ "details_en": "· Crafted from synthetic leather\n· Fixed shoulder strap\n· Smooth zipper closure\n· Spacious main compartment with interior zippered pocket\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Elaborado en piel sintética\n· Correa para el hombro fija\n· Cierre de cremallera suave\n· Compartimento principal amplio con bolsillo interior con cremallera\n· Hecho a medida bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "assets/products/shop/049a74e68a7c944bda4b.jpg",
   "assets/products/shop/6c7ec7bacaf86a4b6655.jpg",
@@ -18,13 +32,8 @@
   "assets/products/shop/181e3f94cf09531208c4.jpg",
   "assets/products/shop/40b32cc134522df0cb14.jpg",
   "assets/products/shop/6ef19d48cee968a8b38c.jpg",
-  "assets/products/shop/66e2b37986ec8268819f.jpg",
   "assets/products/shop/0927adc92ec165b32686.jpg",
-  "assets/products/shop/2508789be2de16829f7d.jpg",
-  "assets/products/shop/a2ff65c4f8c1f4997a36.jpg",
-  "assets/products/shop/35a8f8df5e86f02fa810.jpg",
-  "assets/products/shop/3ed05bd359e1fd61e416.jpg",
-  "assets/products/shop/08844d6ffe3ac9f8a003.jpg"
+  "assets/products/shop/2508789be2de16829f7d.jpg"
  ],
  "draft": false,
  "fam": "bolso-mano-luxury",
@@ -38,9 +47,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Bolso Mano Daz Bag · Black",
- "name_es": "Bolso Bolso Mano Daz · Negro",
+ "name_en": "DAZ Luxury Handbag · Black",
+ "name_es": "Bolso de Mano DAZ Luxury · Negro",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 34.99,
  "rank": 1724,
@@ -48,8 +58,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Height",
+   "Width",
+   "Handle Drop",
+   "Shoulder Strap"
+  ],
+  "headers_es": [
+   "Longitud",
+   "Altura",
+   "Ancho",
+   "Caída de asa",
+   "Correa de hombro"
+  ],
+  "notes_en": "Made to order. Worldwide shipping available.",
+  "notes_es": "Hecho a medida. Envío a todo el mundo disponible.",
+  "rows": [
+   [
+    "29",
+    "20",
+    "11",
+    "13",
+    "35"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/66e2b37986ec8268819f.jpg"
+ ],
  "sizes": [
   "Black"
  ],

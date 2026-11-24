@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Poliéster con forro suave",
  "ai_priority": true,
+ "ai_type": "blazer",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but lifestyle and size guide images suffer from artificial compositing.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,15 +20,14 @@
  "cg": "t-americana-dazmond-coleccion-privada-de-sastreria",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An commanding presence begins with the proper structure. This tailored blazer combines notched lapels and a single-breasted silhouette to project absolute confidence in any setting. Crafted to deliver an impeccable line, this essential piece transitions effortlessly from formal occasions to daily wear. The refined design features patch pockets and a back vent that prioritize movement without sacrificing elegance. Made-to-order piece with worldwide shipping.",
+ "desc_es": "Una presencia imponente comienza con la estructura adecuada. Esta americana de sastrería combina solapas de muesca y una silueta de botonadura sencilla para proyectar seguridad absoluta en cualquier entorno. Confeccionada con precisión para ofrecer una línea impecable, esta pieza esencial se adapta con naturalidad tanto a compromisos formales como a la rutina diaria. Su diseño refinado incluye bolsillos de parche y una abertura trasera que priorizan la movilidad sin sacrificar la elegancia. Pieza elaborada bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Fabric: Polyester with soft lining\n· Design: Notched lapels, two-button closure, two open patch pockets, long sleeves with buttoned cuffs, and back vent\n· Fit: Structured classic\n· Care: Hand or machine wash. Do not soak for an extended period. Do not bleach. Water temperature must not exceed 45 °C\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Tejido: Poliéster con forro suave\n· Diseño: Solapas de muesca, cierre de dos botones, dos bolsillos abiertos de parche, mangas largas con puños abotonados y abertura trasera\n· Ajuste: Clásico estructurado\n· Cuidado: Lavar a mano o a máquina. No dejar en remojo durante un periodo prolongado. No usar blanqueador. La temperatura del agua no debe superar los 45 ºC\n· Pieza elaborada bajo pedido con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/5984ca4dab16c2d2cf47.jpg",
   "assets/products/shop/e47562ddc65220ae4b26.jpg",
   "assets/products/shop/fdc856424d714bc68170.jpg",
   "assets/products/shop/cd3f745bac064820d563.jpg",
-  "assets/products/shop/8f17bfe222278cae3dd4.jpg",
-  "assets/products/shop/f4bb7a6ae143e83ddf13.jpg",
   "assets/products/shop/334944acf982f5116c9e.jpg"
  ],
  "draft": false,
@@ -30,9 +41,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Americana Colección Privada Blazer · White",
- "name_es": "Blazer Americana Colección Privada · Blanco",
+ "name_en": "Tailored Structured Blazer",
+ "name_es": "Americana Estructurada de Sastrería",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 1694,
@@ -40,8 +52,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "BUST",
+   "SHOULDER",
+   "SLEEVE"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "PECHO",
+   "HOMBRO",
+   "MANGA"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "110cm / 43.3in",
+    "44cm / 17.3in",
+    "63cm / 24.8in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "46cm / 18.1in",
+    "64cm / 25.2in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "118cm / 46.5in",
+    "48cm / 18.9in",
+    "65cm / 25.6in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "122cm / 48in",
+    "50cm / 19.7in",
+    "66cm / 26in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "126cm / 49.6in",
+    "52cm / 20.5in",
+    "67cm / 26.4in"
+   ],
+   [
+    "3XL",
+    "84cm / 33.1in",
+    "130cm / 51.2in",
+    "54cm / 21.3in",
+    "68cm / 28.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/f4bb7a6ae143e83ddf13.jpg"
+ ],
  "sizes": [
   "S",
   "M",

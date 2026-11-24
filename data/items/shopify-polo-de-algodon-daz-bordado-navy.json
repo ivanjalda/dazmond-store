@@ -1,23 +1,30 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Algodón",
  "ai_priority": true,
+ "ai_type": "Polo",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on white background, but lacking lifestyle context or dynamic model imagery.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "t-polo-de-algodon-daz-bordado",
  "color": "Navy",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential garment crafted with a defined, athletic cut. Made from high-quality cotton, it delivers a soft touch and exceptional active comfort. Tailored details provide a refined finish, ideal for any occasion. The versatile silhouette transitions effortlessly from leisure moments to formal settings. Available made to order with worldwide shipping.",
+ "desc_es": "Una prenda esencial diseñada con un corte deportivo y definido. Confeccionado en algodón de alta calidad, ofrece un tacto suave y una comodidad activa excepcional. Sus detalles ceñidos aportan un acabado refinado, ideal para cualquier ocasión. La silueta versátil seadapta con naturalidad tanto a momentos de ocio como a entornos formales. Disponible bajo pedido con envío mundial.",
+ "details_en": "· Crafted from high-quality cotton\n· Defined athletic cut with tailored details\n· Small lapel design\n· Hand wash or machine wash on delicate cycle with cold water\n· Do not bleach\n· Iron at low temperature\n· Made-to-order pieces\n· Worldwide shipping available",
+ "details_es": "· Confeccionado en algodón de alta calidad\n· Corte deportivo y definido con detalles ceñidos\n· Diseño de solapa pequeña\n· Lavar a mano o a máquina en ciclo delicado con agua fría\n· No usar lejía\n· Planchar a baja temperatura\n· Piezas confeccionadas bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
-  "assets/products/shop/7182bd51fdd16a6a32cb.jpg",
-  "assets/products/shop/7182bd51fdd16a6a32cb.jpg",
-  "assets/products/shop/7182bd51fdd16a6a32cb.jpg",
-  "assets/products/shop/7182bd51fdd16a6a32cb.jpg",
-  "assets/products/shop/7182bd51fdd16a6a32cb.jpg",
-  "assets/products/shop/7182bd51fdd16a6a32cb.jpg",
   "assets/products/shop/7182bd51fdd16a6a32cb.jpg",
   "assets/products/shop/9bac87eb7d1b3e3995fd.jpg",
   "assets/products/shop/58066207572f7e367ce5.jpg",
@@ -39,9 +46,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Algodón Daz Bordado Polo · Navy",
- "name_es": "Polo Algodón Daz Bordado · Azul Marino",
+ "name_en": "DAZ Embroidered Cotton Polo · Navy",
+ "name_es": "Polo de Algodón Bordado DAZ · Azul Marino",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 36.99,
  "rank": 1761,

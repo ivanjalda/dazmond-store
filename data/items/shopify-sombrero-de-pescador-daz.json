@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Emerald",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% Polyester",
  "ai_priority": true,
+ "ai_type": "Bucket Hat",
+ "ai_ver": 2,
+ "art_note": "Sophisticated studio and lifestyle imagery capturing modern luxury and clean editorial aesthetics.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-dazmond-emerald-horizon-bucket-hat",
  "color": "\"Modern Verde\"",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The Emerald Horizon bucket hat redefines urban elegance with a clean silhouette and a vibrant green tone. Crafted from lightweight and durable fabric, it offers sophisticated protection with a timeless design. Each piece is made to order in the United States to ensure absolute exclusivity. A contemporary style statement available for worldwide shipping.",
+ "desc_es": "El sombrero de pescador Emerald Horizon redefine la elegancia urbana con una silueta depurada y un tono verde vibrante. Confeccionado en tejido ligero y resistente, ofrece una protección sofisticada con un diseño atemporal. Cada pieza se confecciona bajo demanda en los Estados Unidos para garantizar una exclusividad absoluta. Una declaración de estilo contemporáneo disponible para envíos a todo el mundo.",
+ "details_en": "· Crafted from 100% durable polyester\n· Classic bucket hat structure\n· Branded sewn label\n· Made to order in the United States\n· Worldwide shipping available",
+ "details_es": "· Confeccionado en 100% poliéster duradero\n· Estructura clásica de sombrero de pescador\n· Etiqueta cosida de la marca\n· Hecho bajo pedido en Estados Unidos\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/44ee14305a3934a7d2e2.jpg",
   "assets/products/shop/49a60f1674717546dee0.jpg",
@@ -30,9 +45,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Emerald Horizon Bucket Hat",
- "name_es": "Gorro Emerald Horizon Bucket",
+ "name_en": "Emerald Horizon Hat",
+ "name_es": "Sombrero Emerald Horizon",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
  "rank": 1676,

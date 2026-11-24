@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Handbag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with standard e-commerce lighting, though lifestyle and size chart images look composited and generic.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,23 +20,18 @@
  "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This handbag combines elegance and functionality for everyday wear. Crafted from synthetic leather, it features a spacious main compartment and an interior zip pocket to keep essential items organized. A practical shoulder strap adds versatility. Each piece is made to order to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Este bolso de mano combina elegancia y funcionalidad para el día a día. Elaborado en piel sintética, presenta un amplio compartimento principal y un bolsillo interior con cremallera suave para mantener organizados los objetos esenciales. Incluye una práctica correa para el hombro que aporta versatilidad. Cada pieza está hecha especialmente bajo demanda para garantizar exclusividad. Disponible con envío mundial.",
+ "details_en": "· Synthetic leather\n· Fixed shoulder strap\n· Smooth zip closure\n· Spacious main compartment\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Piel sintética\n· Correa para el hombro fija\n· Cierre de cremallera suave\n· Compartimento principal amplio\n· Hecho bajo demanda\n· Envío mundial",
  "display_images": [
   "assets/products/shop/a1f95668dac7fc4b066a.jpg",
   "assets/products/shop/bf58fef345c49c2fc60a.jpg",
   "assets/products/shop/bc1a96a7ccc9b17e44e4.jpg",
   "assets/products/shop/1479f35d928003613ad8.jpg",
-  "assets/products/shop/56af5a4e1c660ff6085a.jpg",
-  "assets/products/shop/d953add37b408b35233a.jpg",
   "assets/products/shop/af8c50c78a02e9eaddc9.jpg",
-  "assets/products/shop/27f0b94e1ec86446c767.jpg",
   "assets/products/shop/be63bb98fb84f9590b94.jpg",
-  "assets/products/shop/d84b6efd7c8d08a3bfd6.jpg",
-  "assets/products/shop/93065cd53c0294b9d290.jpg",
-  "assets/products/shop/b46e901c75ed04e636c2.jpg",
-  "assets/products/shop/db6a992e0fabac60821c.jpg",
-  "assets/products/shop/798083626c69aa65117b.jpg"
+  "assets/products/shop/d84b6efd7c8d08a3bfd6.jpg"
  ],
  "draft": false,
  "fam": "bolso-mano-luxury",
@@ -38,9 +45,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Bolso Mano Daz Bag · Black",
- "name_es": "Bolso Bolso Mano Daz · Negro",
+ "name_en": "DAZ Luxury Handbag · Black",
+ "name_es": "Bolso de Mano DAZ Luxury · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 1726,
@@ -48,8 +56,44 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsos bandolera",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Dimension",
+   "Size"
+  ],
+  "headers_es": [
+   "Dimensión",
+   "Medida"
+  ],
+  "notes_en": "Made to order. Worldwide shipping.",
+  "notes_es": "Hecho bajo demanda. Envío mundial.",
+  "rows": [
+   [
+    "Width / Ancho",
+    "29cm / 11.4in"
+   ],
+   [
+    "Height / Alto",
+    "20cm / 7.9in"
+   ],
+   [
+    "Depth / Profundidad",
+    "11cm / 4.3in"
+   ],
+   [
+    "Handle drop / Caída del asa",
+    "13cm / 5.1in"
+   ],
+   [
+    "Shoulder strap / Correa",
+    "35cm / 13.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/27f0b94e1ec86446c767.jpg"
+ ],
  "sizes": [
   "Black"
  ],

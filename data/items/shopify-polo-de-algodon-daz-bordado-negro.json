@@ -1,23 +1,30 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Algodón",
  "ai_priority": true,
+ "ai_type": "Polo",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on white background, but presentation feels standard e-commerce rather than high-end luxury editorial.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "t-polo-de-algodon-daz-bordado",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The embroidered cotton polo offers a defined athletic cut. Crafted from high-quality cotton, it features fitted details for a premium look. Designed for active comfort and a soft feel, perfect for tennis and golf players, as well as daily casual wear. Its small lapel design makes it ideal for the office or vacations, and it pairs with any type of trousers for maximum versatility. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "El polo de algodón bordado ofrece un corte deportivo y definido. Confeccionado en algodón de alta calidad, presenta detalles ceñidos para un look premium. Diseñado para una comodidad activa y un tacto suave, perfecto para jugadores de tenis y golf, así como para uso casual diario. Su diseño de solapa pequeña lo hace ideal para la oficina o las vacaciones, y combina con cualquier tipo de pantalón para mayor versatilidad. Cada pieza se confecciona bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Crafted from high-quality cotton\n· Defined athletic cut\n· Fitted details for a premium look\n· Small lapel design\n· Hand or machine wash on delicate cycle with cold water, avoid bleach, iron at low temperature\n· Made to order piece with worldwide shipping",
+ "details_es": "· Confeccionado en algodón de alta calidad\n· Corte deportivo y definido\n· Detalles ceñidos para un look premium\n· Diseño de solapa pequeña\n· Lavar a mano o a máquina en ciclo delicado con agua fría, evitando el uso de lejía y planchando a baja temperatura\n· Made to order piece with worldwide shipping",
  "display_images": [
-  "assets/products/shop/9bac87eb7d1b3e3995fd.jpg",
-  "assets/products/shop/9bac87eb7d1b3e3995fd.jpg",
-  "assets/products/shop/9bac87eb7d1b3e3995fd.jpg",
-  "assets/products/shop/9bac87eb7d1b3e3995fd.jpg",
-  "assets/products/shop/9bac87eb7d1b3e3995fd.jpg",
-  "assets/products/shop/9bac87eb7d1b3e3995fd.jpg",
   "assets/products/shop/9bac87eb7d1b3e3995fd.jpg",
   "assets/products/shop/58066207572f7e367ce5.jpg",
   "assets/products/shop/dff65cf8364e3e87ccd2.jpg",
@@ -39,9 +46,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Algodón Daz Bordado Polo · Negro",
- "name_es": "Polo Algodón Daz Bordado · Negro",
+ "name_en": "DAZ Embroidered Cotton Polo · Negro",
+ "name_es": "Polo de Algodón Bordado DAZ · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 36.99,
  "rank": 1762,

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Handbag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate color representation, though lifestyle and sizing images lean towards generic digital mockups.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,23 +20,17 @@
  "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
  "color": "White",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Defined by structured lines and a sophisticated presence, this handbag blends bold aesthetics with flawless functionality. Crafted from high-grade synthetic leather, it features a spacious main compartment and a secure interior zip pocket to keep your essentials organized. The structured top handles and versatile shoulder strap offer refined carrying options tailored to your daily rhythm. Designed for contemporary elegance, each piece is made especially for you upon order with worldwide shipping.",
+ "desc_es": "Definido por líneas estructuradas y una presencia sofisticada, este bolso de mano combina una estética audaz con una funcionalidad impecable. Elaborado en piel sintética de alta calidad, presenta un amplio compartimento principal y un práctico bolsillo interior con cremallera para mantener sus esenciales organizados. Las asas superiores estructuradas y la versátil correa para el hombro ofrecen opciones de transporte adaptadas a su ritmo diario. Diseñado para la elegancia contemporánea, cada pieza se elabora especialmente bajo pedido con envío a todo el mundo.",
+ "details_en": "· High-grade synthetic leather composition\n· Spacious main compartment\n· Smooth interior zipper pocket\n· Fixed stitched shoulder strap\n· Regular cleaning with cold water and damp cloth recommended\n· Made-to-order piece",
+ "details_es": "· Piel sintética de alta calidad\n· Compartimento principal amplio\n· Bolsillo interior con cremallera suave\n· Correa para el hombro fija y cosida\n· Limpieza periódica con agua fría y paño húmedo\n· Hecho especialmente para usted bajo pedido",
  "display_images": [
   "assets/products/shop/be63bb98fb84f9590b94.jpg",
   "assets/products/shop/a1f95668dac7fc4b066a.jpg",
   "assets/products/shop/bf58fef345c49c2fc60a.jpg",
-  "assets/products/shop/bc1a96a7ccc9b17e44e4.jpg",
-  "assets/products/shop/1479f35d928003613ad8.jpg",
-  "assets/products/shop/56af5a4e1c660ff6085a.jpg",
   "assets/products/shop/d953add37b408b35233a.jpg",
   "assets/products/shop/af8c50c78a02e9eaddc9.jpg",
-  "assets/products/shop/27f0b94e1ec86446c767.jpg",
-  "assets/products/shop/d84b6efd7c8d08a3bfd6.jpg",
-  "assets/products/shop/93065cd53c0294b9d290.jpg",
-  "assets/products/shop/b46e901c75ed04e636c2.jpg",
-  "assets/products/shop/db6a992e0fabac60821c.jpg",
-  "assets/products/shop/798083626c69aa65117b.jpg"
+  "assets/products/shop/d84b6efd7c8d08a3bfd6.jpg"
  ],
  "draft": false,
  "fam": "bolso-mano-luxury",
@@ -38,9 +44,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Bolso Mano Daz Bag · White",
- "name_es": "Bolso Bolso Mano Daz · Blanco",
+ "name_en": "DAZ Luxury Handbag · White",
+ "name_es": "Bolso de Mano DAZ Luxury · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 1727,
@@ -48,8 +55,44 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsos bandolera",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Dimension",
+   "Size"
+  ],
+  "headers_es": [
+   "Dimensión",
+   "Medida"
+  ],
+  "notes_en": "Measurements are taken externally. Allow slight variance due to manual measurement.",
+  "notes_es": "Las medidas son externas. Se permite una ligera variación debido a la medición manual.",
+  "rows": [
+   [
+    "Width / Ancho",
+    "29 cm / 11.4 in"
+   ],
+   [
+    "Height / Alto",
+    "20 cm / 7.9 in"
+   ],
+   [
+    "Depth / Profundidad",
+    "11 cm / 4.3 in"
+   ],
+   [
+    "Handle Drop / Asa",
+    "13 cm / 5.1 in"
+   ],
+   [
+    "Shoulder Strap / Correa",
+    "35 cm / 13.8 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/27f0b94e1ec86446c767.jpg"
+ ],
  "sizes": [
   "White"
  ],

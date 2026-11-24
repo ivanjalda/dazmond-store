@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "Black / White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Piel sintética",
  "ai_priority": true,
+ "ai_type": "Handbag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with professional lighting, though lifestyle and sizing graphics lean towards marketplace aesthetics.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,23 +20,19 @@
  "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
  "color": "White",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This structured handbag pairs a classic silhouette with contemporary details. Crafted from durable synthetic leather, it offers a spacious main compartment and an internal zipped pocket to keep your belongings organized. The fixed shoulder strap and top handles provide versatility for daily wear. An essential accessory that brings sophistication to any ensemble.",
+ "desc_es": "Este bolso de mano estructurado combina una silueta clásica con detalles contemporáneos. Confeccionado en piel sintética duradera, ofrece un amplio compartimento principal y un bolsillo interior con cremallera para mantener tus pertenencias organizadas. La correa fija para el hombro y las asas superiores proporcionan versatilidad para el uso diario. Un accesorio esencial que aporta sofisticación a cualquier conjunto.",
+ "details_en": "· Synthetic leather\n· Spacious main compartment\n· Internal zipped pocket\n· Smooth zipper closure\n· Fixed shoulder strap\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Piel sintética\n· Compartimento principal amplio\n· Bolsillo interior con cremallera\n· Cierre de cremallera suave\n· Correa para el hombro fija\n· Hecho bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/2a065a857c525d9c1049.jpg",
   "assets/products/shop/3a3842171652116f3db1.jpg",
   "assets/products/shop/cd164a9d63bba3a18ff2.jpg",
   "assets/products/shop/19f6880b79384af0752b.jpg",
   "assets/products/shop/24d140b8ff06b0094866.jpg",
-  "assets/products/shop/01b886017915825b3cdb.jpg",
   "assets/products/shop/16eaf098e3309be8974f.jpg",
   "assets/products/shop/418b32dd6e904a874d06.jpg",
-  "assets/products/shop/82b5cb0a6f2115c74c3e.jpg",
-  "assets/products/shop/8dc3bfac87b8abc0964d.jpg",
-  "assets/products/shop/38cabb3890c1302997d8.jpg",
-  "assets/products/shop/cb2aa1ca1873a3c15b1b.jpg",
-  "assets/products/shop/2e7c30a9577aae5c08cf.jpg",
-  "assets/products/shop/1be82268acbe14db66cf.jpg"
+  "assets/products/shop/8dc3bfac87b8abc0964d.jpg"
  ],
  "draft": false,
  "fam": "bolso-mano-luxury",
@@ -38,9 +46,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Bolso Mano Daz Bag · White",
- "name_es": "Bolso Bolso Mano Daz · Blanco",
+ "name_en": "DAZ Luxury Handbag · White",
+ "name_es": "Bolso de Mano DAZ Luxury · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 1729,
@@ -48,8 +57,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height",
+   "Depth",
+   "Handle Drop",
+   "Shoulder Strap"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto",
+   "Profundidad",
+   "Altura de Asa",
+   "Correa de Hombro"
+  ],
+  "notes_en": "Measurements are provided for guidance.",
+  "notes_es": "Las medidas se proporcionan como orientación.",
+  "rows": [
+   [
+    "29cm / 11.4in",
+    "20cm / 7.9in",
+    "11cm / 4.3in",
+    "13cm / 5.1in",
+    "35cm / 13.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/82b5cb0a6f2115c74c3e.jpg"
+ ],
  "sizes": [
   "White"
  ],

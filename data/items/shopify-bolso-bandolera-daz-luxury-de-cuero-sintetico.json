@@ -1,16 +1,30 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Crossbody Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate details, though presented against a plain white background typical of e-commerce catalogs.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-bandolera-daz-luxury-de-cuero-sintetico",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This crossbody bag redefines functional elegance for modern urban living. Crafted from waterproof synthetic leather with a scratch-resistant polyester lining, it offers a secure sanctuary for your daily essentials. Gold-toned hardware and a turn-lock closure lend a sophisticated finish. The adjustable, non-slip shoulder strap ensures lasting comfort during daily commutes or travels. An essential contemporary design piece combining practicality and refined style. Each piece is made especially for you with worldwide shipping available.",
+ "desc_es": "Este bolso bandolera redefine la elegancia funcional para la vida urbana moderna. Confeccionado en cuero sintético impermeable con un forro de poliéster resistente a los arañazos, ofrece un refugio seguro para sus esenciales diarios. Los herrajes dorados y el cierre giratorio aportan un acabado sofisticado. La correa de hombro ajustable y antideslizante garantiza un confort duradero durante los desplazamientos diarios o los viajes. Una pieza esencial de diseño contemporáneo que combina practicidad y estilo refinado. Cada pieza está hecha especialmente para usted con disponibilidad de envío mundial.",
+ "details_en": "· Waterproof synthetic leather exterior\n· Scratch-resistant polyester lining\n· Turn-lock closure with gold-toned hardware\n· Adjustable, non-slip shoulder strap\n· Wipe with a clean, dry cloth\n· Made specially for you",
+ "details_es": "· Exterior de cuero sintético impermeable\n· Forro de poliéster resistente a los arañazos\n· Cierre giratorio con herrajes dorados\n· Correa de hombro ajustable y antideslizante\n· Limpiar con un paño limpio y seco\n· Hecho especialmente para usted",
  "display_images": [
   "assets/products/shop/9dba49519258630709a8.jpg",
   "assets/products/shop/ff480aeec49d2053fff2.jpg",
@@ -25,15 +39,16 @@
  "id": "shopify-bolso-bandolera-daz-luxury-de-cuero-sintetico",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-345759651"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Bolso Bandolera Daz Bag",
- "name_es": "Bolso Bolso Bandolera Daz",
+ "name_en": "Synthetic Leather Bottle Crossbody Bag",
+ "name_es": "Bolso Bandolera Portabotellas de Cuero",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 32.99,
  "rank": 1723,
@@ -43,7 +58,9 @@
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
- "sizes": [],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolso bandolera DAZ Luxury de cuero sintético",
  "stripe_payment_link": "https://buy.stripe.com/3cIeVe5Z2cKUduS8qy1gR12",
  "supplier": "Shopify",

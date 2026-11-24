@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Handbag",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation with accurate color representation and sophisticated lighting.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Crafted from high-quality synthetic leather, this structured handbag combines a sophisticated silhouette with exceptional functionality. Its spacious main compartment and smooth interior zippered pocket provide organized storage for daily essentials. The refined design is completed with fixed top handles and a practical shoulder strap for everyday versatility. Each piece is made to order to ensure brand exclusivity. Available with worldwide shipping.",
+ "desc_es": "Confeccionado en piel sintética de alta calidad, este bolso de mano estructurado combina una silueta sofisticada con una funcionalidad excepcional. Su amplio compartimento principal y el bolsillo interior con cremallera ofrecen un espacio organizado para lo esencial del día a día. El diseño refinado se completa con asas superiores fijas y una práctica correa para el hombro que aporta versatilidad. Cada pieza se elabora bajo demanda para garantizar la exclusividad de la marca. Disponible con envío a todo el mundo.",
+ "details_en": "· High-quality synthetic leather\n· Spacious main compartment with interior zip pocket\n· Fixed practical shoulder strap\n· Structured top handles\n· Regular cleaning with cold water and a damp cloth recommended\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Piel sintética de alta calidad\n· Amplio compartimento principal con bolsillo interior con cremallera\n· Práctica correa para el hombro fija\n· Asas superiores estructuradas\n· Limpiar regularmente con agua fría y un paño húmedo\n· Pieza hecha bajo demanda con envío a todo el mundo",
  "display_images": [
   "assets/products/shop/3a3842171652116f3db1.jpg",
   "assets/products/shop/cd164a9d63bba3a18ff2.jpg",
@@ -18,13 +32,8 @@
   "assets/products/shop/01b886017915825b3cdb.jpg",
   "assets/products/shop/16eaf098e3309be8974f.jpg",
   "assets/products/shop/418b32dd6e904a874d06.jpg",
-  "assets/products/shop/82b5cb0a6f2115c74c3e.jpg",
   "assets/products/shop/2a065a857c525d9c1049.jpg",
-  "assets/products/shop/8dc3bfac87b8abc0964d.jpg",
-  "assets/products/shop/38cabb3890c1302997d8.jpg",
-  "assets/products/shop/cb2aa1ca1873a3c15b1b.jpg",
-  "assets/products/shop/2e7c30a9577aae5c08cf.jpg",
-  "assets/products/shop/1be82268acbe14db66cf.jpg"
+  "assets/products/shop/8dc3bfac87b8abc0964d.jpg"
  ],
  "draft": false,
  "fam": "bolso-mano-luxury",
@@ -38,9 +47,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Bolso Mano Daz Bag · Black",
- "name_es": "Bolso Bolso Mano Daz · Negro",
+ "name_en": "DAZ Luxury Handbag · Black",
+ "name_es": "Bolso de Mano DAZ Luxury · Negro",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 34.99,
  "rank": 1728,
@@ -48,8 +58,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height",
+   "Depth",
+   "Handle drop",
+   "Shoulder strap"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto",
+   "Profundidad",
+   "Altura de asa",
+   "Correa de hombro"
+  ],
+  "notes_en": "Made-to-order piece. Worldwide shipping available.",
+  "notes_es": "Pieza confeccionada bajo demanda. Envío a todo el mundo.",
+  "rows": [
+   [
+    "29cm / 11.4in",
+    "20cm / 7.9in",
+    "11cm / 4.3in",
+    "13cm / 5.1in",
+    "35cm / 13.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/82b5cb0a6f2115c74c3e.jpg"
+ ],
  "sizes": [
   "Black"
  ],

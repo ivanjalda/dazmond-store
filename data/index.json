@@ -3804,8 +3804,8 @@
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
-        "hombre/abrigo-chaqueta-sueter",
-        "mujer/chaqueta-sudadera-sueter"
+        "hombre/gorro-bufanda",
+        "mujer/gorros-bufandas"
       ],
       "available": true,
       "rank": 195,
@@ -3824,8 +3824,8 @@
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
-        "hombre/abrigo-chaqueta-sueter",
-        "mujer/chaqueta-sudadera-sueter"
+        "hombre/gorro-bufanda",
+        "mujer/gorros-bufandas"
       ],
       "available": true,
       "rank": 196,
@@ -3884,8 +3884,8 @@
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
-        "hombre/abrigo-chaqueta-sueter",
-        "mujer/chaqueta-sudadera-sueter"
+        "hombre/gorro-bufanda",
+        "mujer/gorros-bufandas"
       ],
       "available": true,
       "rank": 199,
@@ -3904,8 +3904,8 @@
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
-        "hombre/abrigo-chaqueta-sueter",
-        "mujer/chaqueta-sudadera-sueter"
+        "hombre/gorro-bufanda",
+        "mujer/gorros-bufandas"
       ],
       "available": true,
       "rank": 200,
@@ -31913,6 +31913,7 @@
       "supplier_id": "chaleco-acolchado-ligero-daz-luxury",
       "fam": "chaleco-acolchado-ligero",
       "cg": "t-chaleco-acolchado-ligero-daz-luxury",
+      "art_score": 4,
       "img": "assets/products/shop/b72624865711cfbee208.jpg"
     },
     {
@@ -31951,6 +31952,7 @@
       "supplier_id": "chaleco-acolchado-ligero-daz-luxury-2",
       "fam": "chaleco-acolchado-ligero",
       "cg": "t-chaleco-acolchado-ligero-daz-luxury",
+      "art_score": 6,
       "img": "assets/products/shop/f565774d0b38b0bacb6b.jpg"
     },
     {
@@ -31970,6 +31972,7 @@
       "supplier_id": "chaleco-acolchado-ligero-daz-luxury-3",
       "fam": "chaleco-acolchado-ligero",
       "cg": "t-chaleco-acolchado-ligero-daz-luxury",
+      "art_score": 6,
       "img": "assets/products/shop/54fb8f5e3c2d627e5da0.jpg"
     },
     {
@@ -31989,6 +31992,7 @@
       "supplier_id": "chaleco-acolchado-ligero-daz-luxury-4",
       "fam": "chaleco-acolchado-ligero",
       "cg": "t-chaleco-acolchado-ligero-daz-luxury",
+      "art_score": 4,
       "img": "assets/products/shop/844415af6d7b61719d4e.jpg"
     },
     {
@@ -32008,6 +32012,7 @@
       "supplier_id": "chaleco-acolchado-ligero-daz-luxury-5",
       "fam": "chaleco-acolchado-ligero",
       "cg": "t-chaleco-acolchado-ligero-daz-luxury",
+      "art_score": 4,
       "img": "assets/products/shop/51b552f04c9b93359145.jpg"
     },
     {
@@ -32027,6 +32032,7 @@
       "supplier_id": "chaleco-acolchado-ligero-daz-luxury-6",
       "fam": "chaleco-acolchado-ligero",
       "cg": "t-chaleco-acolchado-ligero-daz-luxury",
+      "art_score": 4,
       "img": "assets/products/shop/083a3de73997a376c07a.jpg"
     },
     {
@@ -32046,6 +32052,7 @@
       "supplier_id": "chaleco-acolchado-ligero-daz-luxury-7",
       "fam": "chaleco-acolchado-ligero",
       "cg": "t-chaleco-acolchado-ligero-daz-luxury",
+      "art_score": 4,
       "img": "assets/products/shop/936ceea121735667ece9.jpg"
     },
     {
@@ -32065,7 +32072,8 @@
       "supplier_id": "chaleco-acolchado-ligero-daz-luxury-8",
       "fam": "chaleco-acolchado-ligero",
       "cg": "t-chaleco-acolchado-ligero-daz-luxury",
-      "img": "assets/products/shop/1d797043e0ad396c1142.jpg"
+      "art_score": 5,
+      "img": "assets/products/shop/c084ebccf2716c7ba792.jpg"
     },
     {
       "id": "shopify-sudadera-un-logo-de-diamante-en-negro-y-dorado-lujo-removebg-preview-high-neck-pullover-hoodie-for-men-model-h24",
@@ -32313,8 +32321,8 @@
     },
     {
       "id": "shopify-sombrero-de-pescador-daz",
-      "name_es": "Gorro Emerald Horizon Bucket",
-      "name_en": "Emerald Horizon Bucket Hat",
+      "name_es": "Sombrero Emerald Horizon",
+      "name_en": "Emerald Horizon Hat",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -32329,6 +32337,7 @@
       "fam": "emerald-horizon-bucket",
       "cg": "t-dazmond-emerald-horizon-bucket-hat",
       "color": "\"Modern Verde\"",
+      "art_score": 9,
       "img": "assets/products/shop/44ee14305a3934a7d2e2.jpg"
     },
     {
@@ -32441,8 +32450,8 @@
     },
     {
       "id": "interestprint-design-mens-double-breasted-coat-2",
-      "name_es": "Chaqueta Abrigo Colección Privada · Blanco",
-      "name_en": "Abrigo Colección Privada Jacket · White",
+      "name_es": "Abrigo Winter Sovereign",
+      "name_en": "Winter Sovereign Coat",
       "price_usd": 49.99,
       "badge": "new",
       "categories": [
@@ -32456,7 +32465,8 @@
       "fam": "abrigo-coleccion-privada",
       "cg": "t-abrigo-coleccion-privada-dazmond-winter-sovereign",
       "color": "white",
-      "img": "assets/products/shop/82ea9a8f9bf0c699dafb.jpg"
+      "art_score": 6,
+      "img": "assets/products/shop/62d04f6f10c3e5125087.jpg"
     },
     {
       "id": "shopify-vestido-daz-art-para-mujer",
@@ -32573,8 +32583,8 @@
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-4",
-      "name_es": "Blazer Americana Monochrome Aura · Blanco",
-      "name_en": "Americana Monochrome Aura Blazer · White",
+      "name_es": "Americana Monochrome Aura",
+      "name_en": "Monochrome Aura Blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -32588,7 +32598,8 @@
       "fam": "americana-monochrome-aura",
       "cg": "t-americana-dazmond-monochrome-aura",
       "color": "white",
-      "img": "assets/products/shop/64303e9299296594fc34.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/ea03c72f577da4018a66.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-5",
@@ -32630,8 +32641,8 @@
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-7",
-      "name_es": "Blazer Blazer Pure Distinction · Blanco",
-      "name_en": "Blazer Pure Distinction Blazer · White",
+      "name_es": "Americana estructurada Pure Distinction",
+      "name_en": "Pure Distinction Structured Blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -32645,12 +32656,13 @@
       "fam": "blazer-pure-distinction",
       "cg": "t-blazer-dazmond-pure-distinction-de-botonadura-sencilla",
       "color": "white",
-      "img": "assets/products/shop/8f74f4a9e2d74f98913e.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/493134b27fb98f63dd10.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-8",
-      "name_es": "Blazer Americana Colección Privada · Blanco",
-      "name_en": "Americana Colección Privada Blazer · White",
+      "name_es": "Americana Estructurada de Sastrería",
+      "name_en": "Tailored Structured Blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -32664,12 +32676,13 @@
       "fam": "americana-coleccion-privada",
       "cg": "t-americana-dazmond-coleccion-privada-de-sastreria",
       "color": "white",
-      "img": "assets/products/shop/5984ca4dab16c2d2cf47.jpg"
+      "art_score": 6,
+      "img": "assets/products/shop/e47562ddc65220ae4b26.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-9",
-      "name_es": "Blazer Americana Prism Diamond · Blanco",
-      "name_en": "Americana Prism Diamond Blazer · White",
+      "name_es": "Americana Prism Diamond Blanca",
+      "name_en": "White Prism Diamond Blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -32683,7 +32696,8 @@
       "fam": "americana-prism-diamond",
       "cg": "t-americana-dazmond-prism-diamond-con-solapa-de-muesca",
       "color": "white",
-      "img": "assets/products/shop/751206e33ee2a29cf39e.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/a6ef8db8b002b0de71ec.jpg"
     },
     {
       "id": "printify-6750352c74c95aa2af003f06-black-sole",
@@ -33121,8 +33135,8 @@
     },
     {
       "id": "shopify-bolso-bandolera-daz-de-lujo-de-cuero-sintetico",
-      "name_es": "Bolso Bolso Bandolera Daz",
-      "name_en": "Bolso Bandolera Daz Bag",
+      "name_es": "Bolso Bandolera Portabotellas de Cuero Sintético",
+      "name_en": "Synthetic Leather Crossbody Bottle Bag",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
@@ -33140,12 +33154,11 @@
     },
     {
       "id": "shopify-bolso-bandolera-daz-de-lujo-de-cuero-sintetico-1",
-      "name_es": "Bolso Bolso Bandolera Daz",
-      "name_en": "Bolso Bandolera Daz Bag",
+      "name_es": "Bolso Bandolera Portabotellas de Cuero Sintético",
+      "name_en": "Synthetic Leather Crossbody Bottle Bag",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -33155,16 +33168,16 @@
       "supplier_id": "bolso-bandolera-daz-de-lujo-de-cuero-sintetico-1",
       "fam": "bolso-bandolera-lujo",
       "cg": "t-bolso-bandolera-daz-de-lujo-de-cuero-sintetico",
+      "art_score": 6,
       "img": "assets/products/shop/9a7b920c4c4af84d2ab0.jpg"
     },
     {
       "id": "shopify-bolso-bandolera-daz-de-lujo-de-cuero-sintetico-2",
-      "name_es": "Bolso Bolso Bandolera Daz",
-      "name_en": "Bolso Bandolera Daz Bag",
+      "name_es": "Bolso Bandolera Portabotellas de Cuero Sintético",
+      "name_en": "Synthetic Leather Crossbody Bottle Bag",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -33174,16 +33187,16 @@
       "supplier_id": "bolso-bandolera-daz-de-lujo-de-cuero-sintetico-2",
       "fam": "bolso-bandolera-lujo",
       "cg": "t-bolso-bandolera-daz-de-lujo-de-cuero-sintetico",
+      "art_score": 6,
       "img": "assets/products/shop/01e5bfe541b93c209657.jpg"
     },
     {
       "id": "shopify-bolso-bandolera-daz-luxury-de-cuero-sintetico",
-      "name_es": "Bolso Bolso Bandolera Daz",
-      "name_en": "Bolso Bandolera Daz Bag",
+      "name_es": "Bolso Bandolera Portabotellas de Cuero",
+      "name_en": "Synthetic Leather Bottle Crossbody Bag",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -33193,12 +33206,13 @@
       "supplier_id": "bolso-bandolera-daz-luxury-de-cuero-sintetico",
       "fam": "bolso-bandolera-luxury",
       "cg": "t-bolso-bandolera-daz-luxury-de-cuero-sintetico",
+      "art_score": 6,
       "img": "assets/products/shop/9dba49519258630709a8.jpg"
     },
     {
       "id": "shopify-bolso-de-mano-daz-luxury-con-correa-para-el-hombro-1-black",
-      "name_es": "Bolso Bolso Mano Daz · Negro",
-      "name_en": "Bolso Mano Daz Bag · Black",
+      "name_es": "Bolso de Mano DAZ Luxury · Negro",
+      "name_en": "DAZ Luxury Handbag · Black",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -33212,12 +33226,13 @@
       "fam": "bolso-mano-luxury",
       "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
       "color": "Black",
+      "art_score": 8,
       "img": "assets/products/shop/049a74e68a7c944bda4b.jpg"
     },
     {
       "id": "shopify-bolso-de-mano-daz-luxury-con-correa-para-el-hombro-1-white",
-      "name_es": "Bolso Bolso Mano Daz · Blanco",
-      "name_en": "Bolso Mano Daz Bag · White",
+      "name_es": "Bolso de Mano DAZ Luxury · Blanco",
+      "name_en": "DAZ Luxury Handbag · White",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -33231,12 +33246,13 @@
       "fam": "bolso-mano-luxury",
       "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/0927adc92ec165b32686.jpg"
     },
     {
       "id": "shopify-bolso-de-mano-daz-luxury-con-correa-para-el-hombro-2-black",
-      "name_es": "Bolso Bolso Mano Daz · Negro",
-      "name_en": "Bolso Mano Daz Bag · Black",
+      "name_es": "Bolso de Mano DAZ Luxury · Negro",
+      "name_en": "DAZ Luxury Handbag · Black",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -33250,12 +33266,13 @@
       "fam": "bolso-mano-luxury",
       "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
       "color": "Black",
+      "art_score": 5,
       "img": "assets/products/shop/a1f95668dac7fc4b066a.jpg"
     },
     {
       "id": "shopify-bolso-de-mano-daz-luxury-con-correa-para-el-hombro-2-white",
-      "name_es": "Bolso Bolso Mano Daz · Blanco",
-      "name_en": "Bolso Mano Daz Bag · White",
+      "name_es": "Bolso de Mano DAZ Luxury · Blanco",
+      "name_en": "DAZ Luxury Handbag · White",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -33269,12 +33286,13 @@
       "fam": "bolso-mano-luxury",
       "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/be63bb98fb84f9590b94.jpg"
     },
     {
       "id": "shopify-bolso-de-mano-daz-luxury-con-correa-para-el-hombro-black",
-      "name_es": "Bolso Bolso Mano Daz · Negro",
-      "name_en": "Bolso Mano Daz Bag · Black",
+      "name_es": "Bolso de Mano DAZ Luxury · Negro",
+      "name_en": "DAZ Luxury Handbag · Black",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -33288,12 +33306,13 @@
       "fam": "bolso-mano-luxury",
       "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
       "color": "Black",
+      "art_score": 8,
       "img": "assets/products/shop/3a3842171652116f3db1.jpg"
     },
     {
       "id": "shopify-bolso-de-mano-daz-luxury-con-correa-para-el-hombro-white",
-      "name_es": "Bolso Bolso Mano Daz · Blanco",
-      "name_en": "Bolso Mano Daz Bag · White",
+      "name_es": "Bolso de Mano DAZ Luxury · Blanco",
+      "name_en": "DAZ Luxury Handbag · White",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -33307,16 +33326,16 @@
       "fam": "bolso-mano-luxury",
       "cg": "t-bolso-de-mano-daz-luxury-con-correa-para-el-hombro",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/2a065a857c525d9c1049.jpg"
     },
     {
       "id": "shopify-bolso-satchel-daz-luxury-de-cuero",
-      "name_es": "Bolso Bolso Satchel Daz",
-      "name_en": "Bolso Satchel Daz Bag",
+      "name_es": "Bolso Satchel DAZ Luxury de Cuero",
+      "name_en": "DAZ Luxury Leather Satchel Bag",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -33326,16 +33345,16 @@
       "supplier_id": "bolso-satchel-daz-luxury-de-cuero",
       "fam": "bolso-satchel-luxury",
       "cg": "t-bolso-satchel-daz-luxury-de-cuero",
+      "art_score": 6,
       "img": "assets/products/shop/242267d06fcdff26a98d.jpg"
     },
     {
       "id": "shopify-bolso-satchel-daz-luxury-de-cuero-1",
-      "name_es": "Bolso Bolso Satchel Daz",
-      "name_en": "Bolso Satchel Daz Bag",
+      "name_es": "Bolso Satchel DAZ Luxury de Cuero",
+      "name_en": "DAZ Luxury Leather Satchel Bag",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -33345,16 +33364,16 @@
       "supplier_id": "bolso-satchel-daz-luxury-de-cuero-1",
       "fam": "bolso-satchel-luxury",
       "cg": "t-bolso-satchel-daz-luxury-de-cuero",
+      "art_score": 9,
       "img": "assets/products/shop/411b4d0ee3bdc278554b.jpg"
     },
     {
       "id": "shopify-bolso-satchel-daz-luxury-de-cuero-2",
-      "name_es": "Bolso Bolso Satchel Daz",
-      "name_en": "Bolso Satchel Daz Bag",
+      "name_es": "Bolso Satchel DAZ Luxury de Cuero",
+      "name_en": "DAZ Luxury Leather Satchel Bag",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -33364,16 +33383,16 @@
       "supplier_id": "bolso-satchel-daz-luxury-de-cuero-2",
       "fam": "bolso-satchel-luxury",
       "cg": "t-bolso-satchel-daz-luxury-de-cuero",
+      "art_score": 6,
       "img": "assets/products/shop/7c97dbf2473fd7dabd5e.jpg"
     },
     {
       "id": "shopify-bolso-satchel-daz-luxury-de-cuero-3",
-      "name_es": "Bolso Bolso Satchel Daz",
-      "name_en": "Bolso Satchel Daz Bag",
+      "name_es": "Bolso Satchel DAZ Luxury de Cuero",
+      "name_en": "DAZ Luxury Leather Satchel Bag",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -33383,16 +33402,16 @@
       "supplier_id": "bolso-satchel-daz-luxury-de-cuero-3",
       "fam": "bolso-satchel-luxury",
       "cg": "t-bolso-satchel-daz-luxury-de-cuero",
+      "art_score": 5,
       "img": "assets/products/shop/aad72d23cbb7adadaf21.jpg"
     },
     {
       "id": "shopify-bolso-tote-de-cuero-daz-luxury",
-      "name_es": "Bolso Bolso Cuero Daz",
-      "name_en": "Bolso Cuero Daz Bag",
+      "name_es": "Bolso Tote de Cuero PU",
+      "name_en": "PU Leather Tote Bag",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -33402,16 +33421,16 @@
       "supplier_id": "bolso-tote-de-cuero-daz-luxury",
       "fam": "bolso-tote-cuero",
       "cg": "t-bolso-tote-de-cuero-daz-luxury",
+      "art_score": 6,
       "img": "assets/products/shop/73a063eb0eec9ac36b43.jpg"
     },
     {
       "id": "shopify-bolso-tote-de-cuero-daz-luxury-1",
-      "name_es": "Bolso Bolso Cuero Daz",
-      "name_en": "Bolso Cuero Daz Bag",
+      "name_es": "Bolso Tote de Cuero PU",
+      "name_en": "PU Leather Tote Bag",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -33421,12 +33440,13 @@
       "supplier_id": "bolso-tote-de-cuero-daz-luxury-1",
       "fam": "bolso-tote-cuero",
       "cg": "t-bolso-tote-de-cuero-daz-luxury",
+      "art_score": 4,
       "img": "assets/products/shop/b333d61721b278c5ff47.jpg"
     },
     {
       "id": "shopify-bolso-tote-de-cuero-daz-luxury-2",
-      "name_es": "Bolso Bolso Cuero Daz",
-      "name_en": "Bolso Cuero Daz Bag",
+      "name_es": "Bolso Tote de Cuero PU",
+      "name_en": "PU Leather Tote Bag",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -33630,8 +33650,8 @@
     },
     {
       "id": "shopify-design-womens-swimsuit-set-made-in-usa-azul-profundo",
-      "name_es": "Bañador Conjunto Traje Baño · Azul Profundo",
-      "name_en": "Conjunto Traje Baño Swimwear · Azul Profundo",
+      "name_es": "Conjunto de Baño Halter · Azul Profundo",
+      "name_en": "Halter Swimsuit Set · Azul Profundo",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -33645,12 +33665,13 @@
       "fam": "conjunto-traje-bano",
       "cg": "t-conjunto-traje-de-bano-de-diseno-dazmond",
       "color": "Azul profundo",
+      "art_score": 4,
       "img": "assets/products/shop/91f08f7829b9b1a31583.jpg"
     },
     {
       "id": "shopify-design-womens-swimsuit-set-made-in-usa-negro",
-      "name_es": "Bañador Conjunto Traje Baño · Negro",
-      "name_en": "Conjunto Traje Baño Swimwear · Negro",
+      "name_es": "Conjunto de Baño Halter · Negro",
+      "name_en": "Halter Swimsuit Set · Negro",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -33668,8 +33689,8 @@
     },
     {
       "id": "shopify-design-womens-swimsuit-set-made-in-usa-rojo-anaranjado",
-      "name_es": "Bañador Conjunto Traje Baño · Rojo Anaranjado",
-      "name_en": "Conjunto Traje Baño Swimwear · Rojo Anaranjado",
+      "name_es": "Conjunto de Baño Halter · Rojo Anaranjado",
+      "name_en": "Halter Swimsuit Set · Rojo Anaranjado",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -33683,12 +33704,13 @@
       "fam": "conjunto-traje-bano",
       "cg": "t-conjunto-traje-de-bano-de-diseno-dazmond",
       "color": "Rojo anaranjado",
+      "art_score": 7,
       "img": "assets/products/shop/0d427af3ac2d1cd47874.jpg"
     },
     {
       "id": "shopify-design-womens-swimsuit-set-made-in-usa-rosa-fuerte",
-      "name_es": "Bañador Conjunto Traje Baño · Rosa Fuerte",
-      "name_en": "Conjunto Traje Baño Swimwear · Rosa Fuerte",
+      "name_es": "Conjunto de Baño Halter · Rosa Fuerte",
+      "name_en": "Halter Swimsuit Set · Rosa Fuerte",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -33702,12 +33724,13 @@
       "fam": "conjunto-traje-bano",
       "cg": "t-conjunto-traje-de-bano-de-diseno-dazmond",
       "color": "Rosa Fuerte",
+      "art_score": 8,
       "img": "assets/products/shop/9bcd6ed72ccadbd985e5.jpg"
     },
     {
       "id": "shopify-design-womens-swimsuit-set-made-in-usa-verde-zhonghu",
-      "name_es": "Bañador Conjunto Traje Baño · Verde Zhonghu",
-      "name_en": "Conjunto Traje Baño Swimwear · Verde Zhonghu",
+      "name_es": "Conjunto de Baño Halter · Verde Zhonghu",
+      "name_en": "Halter Swimsuit Set · Verde Zhonghu",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -33721,6 +33744,7 @@
       "fam": "conjunto-traje-bano",
       "cg": "t-conjunto-traje-de-bano-de-diseno-dazmond",
       "color": "Verde Zhonghu",
+      "art_score": 8,
       "img": "assets/products/shop/fe47eb2ec37a97a85425.jpg"
     },
     {
@@ -33834,13 +33858,12 @@
     },
     {
       "id": "shopify-polo-de-algodon-daz-bordado-azul",
-      "name_es": "Polo Algodón Daz Bordado · Azul",
-      "name_en": "Algodón Daz Bordado Polo · Azul",
+      "name_es": "Polo de Algodón Bordado DAZ · Azul",
+      "name_en": "DAZ Embroidered Cotton Polo · Azul",
       "price_usd": 36.99,
       "badge": "new",
       "categories": [
-        "hombre/polos",
-        "mujer/polo"
+        "hombre/polos"
       ],
       "available": true,
       "rank": 1758,
@@ -33850,17 +33873,17 @@
       "fam": "polo-algodon-bordado",
       "cg": "t-polo-de-algodon-daz-bordado",
       "color": "Azul",
+      "art_score": 6,
       "img": "assets/products/shop/dff65cf8364e3e87ccd2.jpg"
     },
     {
       "id": "shopify-polo-de-algodon-daz-bordado-blanco",
-      "name_es": "Polo Algodón Daz Bordado · Blanco",
-      "name_en": "Algodón Daz Bordado Polo · Blanco",
+      "name_es": "Polo de Algodón Bordado DAZ · Blanco",
+      "name_en": "DAZ Embroidered Cotton Polo · Blanco",
       "price_usd": 36.99,
       "badge": "new",
       "categories": [
-        "hombre/polos",
-        "mujer/polo"
+        "hombre/polos"
       ],
       "available": true,
       "rank": 1759,
@@ -33870,17 +33893,17 @@
       "fam": "polo-algodon-bordado",
       "cg": "t-polo-de-algodon-daz-bordado",
       "color": "Blanco",
+      "art_score": 6,
       "img": "assets/products/shop/aa2c24e266aa5007975b.jpg"
     },
     {
       "id": "shopify-polo-de-algodon-daz-bordado-gris",
-      "name_es": "Polo Algodón Daz Bordado · Gris",
-      "name_en": "Algodón Daz Bordado Polo · Gris",
+      "name_es": "Polo de Algodón Bordado DAZ · Gris",
+      "name_en": "DAZ Embroidered Cotton Polo · Gris",
       "price_usd": 36.99,
       "badge": "new",
       "categories": [
-        "hombre/polos",
-        "mujer/polo"
+        "hombre/polos"
       ],
       "available": true,
       "rank": 1760,
@@ -33890,17 +33913,17 @@
       "fam": "polo-algodon-bordado",
       "cg": "t-polo-de-algodon-daz-bordado",
       "color": "Gris",
+      "art_score": 5,
       "img": "assets/products/shop/a8e5c100b5a874eae390.jpg"
     },
     {
       "id": "shopify-polo-de-algodon-daz-bordado-navy",
-      "name_es": "Polo Algodón Daz Bordado · Azul Marino",
-      "name_en": "Algodón Daz Bordado Polo · Navy",
+      "name_es": "Polo de Algodón Bordado DAZ · Azul Marino",
+      "name_en": "DAZ Embroidered Cotton Polo · Navy",
       "price_usd": 36.99,
       "badge": "new",
       "categories": [
-        "hombre/polos",
-        "mujer/polo"
+        "hombre/polos"
       ],
       "available": true,
       "rank": 1761,
@@ -33910,17 +33933,17 @@
       "fam": "polo-algodon-bordado",
       "cg": "t-polo-de-algodon-daz-bordado",
       "color": "Navy",
+      "art_score": 5,
       "img": "assets/products/shop/7182bd51fdd16a6a32cb.jpg"
     },
     {
       "id": "shopify-polo-de-algodon-daz-bordado-negro",
-      "name_es": "Polo Algodón Daz Bordado · Negro",
-      "name_en": "Algodón Daz Bordado Polo · Negro",
+      "name_es": "Polo de Algodón Bordado DAZ · Negro",
+      "name_en": "DAZ Embroidered Cotton Polo · Negro",
       "price_usd": 36.99,
       "badge": "new",
       "categories": [
-        "hombre/polos",
-        "mujer/polo"
+        "hombre/polos"
       ],
       "available": true,
       "rank": 1762,
@@ -33930,6 +33953,7 @@
       "fam": "polo-algodon-bordado",
       "cg": "t-polo-de-algodon-daz-bordado",
       "color": "Negro",
+      "art_score": 5,
       "img": "assets/products/shop/9bac87eb7d1b3e3995fd.jpg"
     },
     {
@@ -34636,8 +34660,8 @@
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-1-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas Altas DAZ Luxury · Negro",
+      "name_en": "DAZ Luxury High-Top Sneakers · Black",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34652,12 +34676,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/21f5943c9b5aa87889f1.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-1-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas Altas DAZ Luxury · Blanco",
+      "name_en": "DAZ Luxury High-Top Sneakers · White",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34676,8 +34701,8 @@
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-2-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas Altas DAZ Luxury · Negro",
+      "name_en": "DAZ Luxury High-Top Sneakers · Black",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34692,12 +34717,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
+      "art_score": 5,
       "img": "assets/products/shop/94af7d7bfeadc9ef6723.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-2-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas Altas DAZ Luxury · Blanco",
+      "name_en": "DAZ Luxury High-Top Sneakers · White",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34712,12 +34738,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/4ee17c0723daa3168220.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-3-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas Altas DAZ Luxury · Negro",
+      "name_en": "DAZ Luxury High-Top Sneakers · Black",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34732,12 +34759,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/31d5a195b0f8a9d222d6.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-3-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas Altas DAZ Luxury · Blanco",
+      "name_en": "DAZ Luxury High-Top Sneakers · White",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34752,12 +34780,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/073e38ef6e2589b3de08.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-4-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas Altas DAZ Luxury · Negro",
+      "name_en": "DAZ Luxury High-Top Sneakers · Black",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34772,12 +34801,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/21ffc287a45e677c31a3.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-4-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas Altas DAZ Luxury · Blanco",
+      "name_en": "DAZ Luxury High-Top Sneakers · White",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34792,12 +34822,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/d04d5559eaa53c15efab.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-5-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas Altas DAZ Luxury · Negro",
+      "name_en": "DAZ Luxury High-Top Sneakers · Black",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34812,12 +34843,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/4c300c2c72e40ccfd625.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-5-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas Altas DAZ Luxury · Blanco",
+      "name_en": "DAZ Luxury High-Top Sneakers · White",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34832,12 +34864,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
+      "art_score": 5,
       "img": "assets/products/shop/8f4f946b7e82a7a4f6bd.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas Altas DAZ Luxury · Negro",
+      "name_en": "DAZ Luxury High-Top Sneakers · Black",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34852,12 +34885,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/fa272d2b078d5e7ae0ae.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas Altas DAZ Luxury · Blanco",
+      "name_en": "DAZ Luxury High-Top Sneakers · White",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -34872,12 +34906,13 @@
       "fam": "zapatillas-altas-luxury",
       "cg": "t-zapatillas-altas-daz-luxury-de-piel-sintetica-de-primera-calidad",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/edcdae80404aaa077a8f.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-1-black",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Negro",
-      "name_en": "Zapatillas Daz Cuero Sneakers · Black",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Negro",
+      "name_en": "Pink Retro Leather Sneakers · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -34892,12 +34927,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
+      "art_score": 5,
       "img": "assets/products/shop/76a897a5e577b8c37860.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-1-white",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Blanco",
-      "name_en": "Zapatillas Daz Cuero Sneakers · White",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Blanco",
+      "name_en": "Pink Retro Leather Sneakers · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -34912,12 +34948,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
+      "art_score": 5,
       "img": "assets/products/shop/426d94e3bdd660604e9d.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-2-black",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Negro",
-      "name_en": "Zapatillas Daz Cuero Sneakers · Black",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Negro",
+      "name_en": "Pink Retro Leather Sneakers · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -34932,12 +34969,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/e986c5d31197940f602d.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-2-white",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Blanco",
-      "name_en": "Zapatillas Daz Cuero Sneakers · White",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Blanco",
+      "name_en": "Pink Retro Leather Sneakers · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -34952,12 +34990,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/043ced69095a7fa76dcb.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-3-black",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Negro",
-      "name_en": "Zapatillas Daz Cuero Sneakers · Black",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Negro",
+      "name_en": "Pink Retro Leather Sneakers · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -34972,12 +35011,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
+      "art_score": 5,
       "img": "assets/products/shop/5c7c2d4ca6a05d541ce8.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-3-white",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Blanco",
-      "name_en": "Zapatillas Daz Cuero Sneakers · White",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Blanco",
+      "name_en": "Pink Retro Leather Sneakers · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -34992,12 +35032,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/0745754d31bb33e5f7c2.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-4-black",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Negro",
-      "name_en": "Zapatillas Daz Cuero Sneakers · Black",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Negro",
+      "name_en": "Pink Retro Leather Sneakers · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35012,12 +35053,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
+      "art_score": 5,
       "img": "assets/products/shop/de28fba20fb9d033aca4.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-4-white",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Blanco",
-      "name_en": "Zapatillas Daz Cuero Sneakers · White",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Blanco",
+      "name_en": "Pink Retro Leather Sneakers · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35032,12 +35074,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/d64b41be47260150ad2f.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-5-black",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Negro",
-      "name_en": "Zapatillas Daz Cuero Sneakers · Black",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Negro",
+      "name_en": "Pink Retro Leather Sneakers · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35052,12 +35095,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
+      "art_score": 5,
       "img": "assets/products/shop/bd3a2132ce77f7490c6b.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-5-white",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Blanco",
-      "name_en": "Zapatillas Daz Cuero Sneakers · White",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Blanco",
+      "name_en": "Pink Retro Leather Sneakers · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35072,12 +35116,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
+      "art_score": 5,
       "img": "assets/products/shop/f1388322dacb5560c194.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-6-black",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Negro",
-      "name_en": "Zapatillas Daz Cuero Sneakers · Black",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Negro",
+      "name_en": "Pink Retro Leather Sneakers · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35092,12 +35137,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
+      "art_score": 5,
       "img": "assets/products/shop/6a5633a4efff8dfca080.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-6-white",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Blanco",
-      "name_en": "Zapatillas Daz Cuero Sneakers · White",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Blanco",
+      "name_en": "Pink Retro Leather Sneakers · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35112,12 +35158,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/642e59023b8e44c5cf5b.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-7-black",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Negro",
-      "name_en": "Zapatillas Daz Cuero Sneakers · Black",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Negro",
+      "name_en": "Pink Retro Leather Sneakers · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35132,12 +35179,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/6abe1c17c016f9dcd8aa.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-7-white",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Blanco",
-      "name_en": "Zapatillas Daz Cuero Sneakers · White",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Blanco",
+      "name_en": "Pink Retro Leather Sneakers · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35152,12 +35200,13 @@
       "fam": "zapatillas-luxury-cuero",
       "cg": "t-zapatillas-daz-luxury-de-cuero-retro",
       "color": "White",
+      "art_score": 4,
       "img": "assets/products/shop/846fb9341008bb4d5594.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-8-black",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Negro",
-      "name_en": "Zapatillas Daz Cuero Sneakers · Black",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Negro",
+      "name_en": "Pink Retro Leather Sneakers · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35176,8 +35225,8 @@
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-8-white",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Blanco",
-      "name_en": "Zapatillas Daz Cuero Sneakers · White",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Blanco",
+      "name_en": "Pink Retro Leather Sneakers · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35196,8 +35245,8 @@
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-9-black",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Negro",
-      "name_en": "Zapatillas Daz Cuero Sneakers · Black",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Negro",
+      "name_en": "Pink Retro Leather Sneakers · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35216,8 +35265,8 @@
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-9-white",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Blanco",
-      "name_en": "Zapatillas Daz Cuero Sneakers · White",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Blanco",
+      "name_en": "Pink Retro Leather Sneakers · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35236,8 +35285,8 @@
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-black",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Negro",
-      "name_en": "Zapatillas Daz Cuero Sneakers · Black",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Negro",
+      "name_en": "Pink Retro Leather Sneakers · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35256,8 +35305,8 @@
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-cuero-retro-white",
-      "name_es": "Zapatillas Zapatillas Daz Cuero · Blanco",
-      "name_en": "Zapatillas Daz Cuero Sneakers · White",
+      "name_es": "Zapatillas Retro de Cuero Rosa · Blanco",
+      "name_en": "Pink Retro Leather Sneakers · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Green / Black / White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_type": "Vest",
+ "ai_ver": 2,
+ "art_note": "Flat product renders lacking real model context or high-end lighting.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,14 +22,15 @@
  "cg": "t-chaleco-acolchado-ligero-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This lightweight quilted vest defines modern functionality with a streamlined aesthetic. Designed with a sleeveless silhouette and a distinctive stand collar, it delivers insulation against colder temperatures. Practical front pockets and a full zip closure enhance the structured silhouette. The all-over graphic pattern introduces bold visual contrast to seasonal outerwear. A versatile layering piece crafted for refined everyday wear, available made to order with worldwide shipping.",
+ "desc_es": "Este chaleco acolchado ligero define la funcionalidad moderna con una estética depurada. Confeccionado con un diseño sin mangas y un distintivo cuello alto, ofrece aislamiento contra las temperaturas más frías. Los prácticos bolsillos frontales y el cierre de cremallera completa realzan su silueta estructurada. El patrón gráfico integral aporta un contraste visual audaz a la prenda exterior de temporada. Una pieza versátil diseñada para superponerse con refinamiento, disponible mediante pedido y con envío a todo el mundo.",
+ "details_en": "· Composition: high-quality polyester\n· Full zip front closure\n· Stand collar\n· Two front pockets\n· Sleeveless quilted design\n· Elastic cuffs\n· Machine washable in cold water (maximum 40 C or 104 F)\n· Do not tumble dry\n· Do not expose to sunlight, do not bleach\n· Made-to-order piece with worldwide shipping available",
+ "details_es": "· Composición: poliéster de alta calidad\n· Cierre frontal de cremallera completa\n· Cuello alto\n· Dos bolsillos frontales\n· Diseño acolchado sin mangas\n· Puños elásticos\n· Lavable a máquina con agua fría (máximo 40 C o 104 F)\n· No secar en secadora\n· No exponer al sol, no usar lejía\n· Pieza confeccionada bajo pedido con envío mundial disponible",
  "display_images": [
   "assets/products/shop/936ceea121735667ece9.jpg",
   "assets/products/shop/e9e2afa7b39c15efed2c.jpg",
   "assets/products/shop/7dc752f30e9abc11246d.jpg",
-  "assets/products/shop/b799b36da1f6b61e0ce9.jpg",
-  "assets/products/shop/8bfdb5b40ad4b4f4a9bc.jpg"
+  "assets/products/shop/b799b36da1f6b61e0ce9.jpg"
  ],
  "draft": false,
  "fam": "chaleco-acolchado-ligero",
@@ -33,6 +47,7 @@
  "name_en": "Lightweight Padded Vest",
  "name_es": "Chaleco acolchado ligero",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 1661,
@@ -40,8 +55,86 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chalecos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest",
+   "Shoulder",
+   "Hem Width"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Hombro",
+   "Ancho del dobladillo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "M",
+    "62.5cm(24.6\")",
+    "104cm(40.9\")",
+    "42.2cm(16.6\")",
+    "100cm(39.4\")"
+   ],
+   [
+    "L",
+    "64.5cm(25.4\")",
+    "108cm(42.5\")",
+    "43.4cm(17.0\")",
+    "104cm(40.9\")"
+   ],
+   [
+    "XL",
+    "66.5cm(26.2\")",
+    "112cm(44.1\")",
+    "44.6cm(17.5\")",
+    "108cm(42.5\")"
+   ],
+   [
+    "2XL",
+    "68.5cm(27.0\")",
+    "116cm(45.7\")",
+    "45.8cm(18.0\")",
+    "112cm(44.1\")"
+   ],
+   [
+    "3XL",
+    "70.5cm(27.8\")",
+    "120cm(47.2\")",
+    "47.0cm(18.5\")",
+    "116cm(44.7\")"
+   ],
+   [
+    "4XL",
+    "72.5cm(28.5\")",
+    "124cm(48.8\")",
+    "48.2cm(19.0\")",
+    "120cm(47.2\")"
+   ],
+   [
+    "5XL",
+    "74.5cm(29.3\")",
+    "128cm(50.4\")",
+    "49.4cm(19.4\")",
+    "124cm(48.8\")"
+   ],
+   [
+    "6XL",
+    "76.5cm(30.1\")",
+    "132cm(52.0\")",
+    "50.6cm(19.9\")",
+    "128cm(50.4\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/8bfdb5b40ad4b4f4a9bc.jpg"
+ ],
  "sizes": [
   "M",
   "L",

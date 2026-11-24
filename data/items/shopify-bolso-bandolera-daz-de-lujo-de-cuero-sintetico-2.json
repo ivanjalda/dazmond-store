@@ -1,16 +1,30 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Taupe",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Synthetic Leather",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Crossbody Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate details, though presenting standard e-commerce isolation without lifestyle immersion.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-bandolera-daz-de-lujo-de-cuero-sintetico",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your daily routine with this meticulously crafted crossbody bag. Created from waterproof synthetic leather with a scratch-resistant polyester lining, it pairs a refined aesthetic with flawless functionality. The main compartment features gold-tone hardware and a secure turn-lock closure. An adjustable, non-slip shoulder strap ensures lasting comfort during urban commutes or travels. An essential, cleanly designed piece for the contemporary wardrobe. Made to order. Available for worldwide shipping.",
+ "desc_es": "Eleve su rutina diaria con este bolso bandolera meticulosamente diseñado. Confeccionado con cuero sintético impermeable y un forro de poliéster resistente a los arañazos, combina una estética depurada con una funcionalidad impecable. El compartimento principal incorpora herrajes dorados y un cierre giratorio seguro. La correa de hombro ajustable y antideslizante garantiza un confort duradero durante los desplazamientos urbanos o los viajes. Una pieza esencial de diseño depurado para el guardarropa contemporáneo. Fabricado bajo pedido. Disponible para envío a todo el mundo.",
+ "details_en": "· Waterproof synthetic leather exterior\n· Scratch-resistant polyester lining\n· Turn-lock closure with gold-tone hardware\n· Adjustable, non-slip shoulder strap\n· Dimensions: 23 x 10 x 24 cm\n· Wipe clean with a dry cloth\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Exterior de cuero sintético impermeable\n· Forro de poliéster resistente a los arañazos\n· Cierre giratorio con herrajes dorados\n· Correa de hombro ajustable y antideslizante\n· Dimensiones: 23 x 10 x 24 cm\n· Limpiar con un paño limpio y seco\n· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/01e5bfe541b93c209657.jpg",
   "assets/products/shop/03ecb74bcce550f115b5.jpg",
@@ -25,15 +39,16 @@
  "id": "shopify-bolso-bandolera-daz-de-lujo-de-cuero-sintetico-2",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-345759651"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Bolso Bandolera Daz Bag",
- "name_es": "Bolso Bolso Bandolera Daz",
+ "name_en": "Synthetic Leather Crossbody Bottle Bag",
+ "name_es": "Bolso Bandolera Portabotellas de Cuero Sintético",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 32.99,
  "rank": 1722,
@@ -41,9 +56,32 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsos bandolera",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Depth",
+   "Height"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Profundidad",
+   "Altura"
+  ],
+  "notes_en": "Dimensions are approximate.",
+  "notes_es": "Las dimensiones son aproximadas.",
+  "rows": [
+   [
+    "23",
+    "10",
+    "24"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
- "sizes": [],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolso bandolera DAZ de lujo de cuero sintético",
  "stripe_payment_link": "https://buy.stripe.com/28E14o1IMbGQeyW22a1gR11",
  "supplier": "Shopify",
