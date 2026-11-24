@@ -31524,16 +31524,16 @@
       "fam": "zapatillas-skate-ligeras",
       "cg": "t-zapatillas-de-skate-ligeras-daz-premium",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/d1e95559d235e74f9ef3.jpg"
     },
     {
       "id": "printify-66c7788478bf9b611c0137c9-black",
-      "name_es": "Pijama Bata Tipo Kimono · Negro",
-      "name_en": "Bata Tipo Kimono Loungewear · Black",
+      "name_es": "Bata Kimono Art Negra · Negro",
+      "name_en": "Black Art Kimono Robe · Black",
       "price_usd": 56.99,
       "badge": "new",
       "categories": [
-        "hombre/albornoz-pijama",
         "mujer/batas-pijamas"
       ],
       "available": true,
@@ -31544,16 +31544,16 @@
       "fam": "bata-tipo-kimono",
       "cg": "printify-66c7788478bf9b611c0137c9",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/66c7788478bf9b611c0137c9/77571/35870/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-front-2"
+      "art_score": 4,
+      "img": "https://images.printify.com/mockup/66c7788478bf9b611c0137c9/77571/35866/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
     },
     {
       "id": "printify-66c7788478bf9b611c0137c9-white",
-      "name_es": "Pijama Bata Tipo Kimono · Blanco",
-      "name_en": "Bata Tipo Kimono Loungewear · White",
+      "name_es": "Bata Kimono Art Negra · Blanco",
+      "name_en": "Black Art Kimono Robe · White",
       "price_usd": 56.99,
       "badge": "new",
       "categories": [
-        "hombre/albornoz-pijama",
         "mujer/batas-pijamas"
       ],
       "available": true,
@@ -31564,16 +31564,16 @@
       "fam": "bata-tipo-kimono",
       "cg": "printify-66c7788478bf9b611c0137c9",
       "color": "White",
+      "art_score": 3,
       "img": "https://images.printify.com/mockup/66c7788478bf9b611c0137c9/77572/31467/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-front-2"
     },
     {
       "id": "shopify-bolso-de-mano-de-cuero-sintetico-daz-luxury-1-beige",
-      "name_es": "Bolso Bolso Mano Cuero · Beige",
-      "name_en": "Bolso Mano Cuero Bag · Beige",
+      "name_es": "Bolso de mano de cuero sintético · Beige",
+      "name_en": "Synthetic Leather Handbag · Beige",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
-        "hombre/bolsos-carteras",
         "mujer/bolsos-carteras"
       ],
       "available": true,
@@ -31584,12 +31584,13 @@
       "fam": "bolso-mano-cuero",
       "cg": "t-bolso-de-mano-de-cuero-sintetico-daz-luxury",
       "color": "Beige",
+      "art_score": 4,
       "img": "assets/products/shop/8b18db17445c154eded9.jpg"
     },
     {
       "id": "shopify-bolso-de-mano-de-cuero-sintetico-daz-luxury-1-black",
-      "name_es": "Bolso Bolso Mano Cuero · Negro",
-      "name_en": "Bolso Mano Cuero Bag · Black",
+      "name_es": "Bolso de mano de cuero sintético · Negro",
+      "name_en": "Synthetic Leather Handbag · Black",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -31608,8 +31609,8 @@
     },
     {
       "id": "shopify-bolso-de-mano-de-cuero-sintetico-daz-luxury-2-beige",
-      "name_es": "Bolso Bolso Mano Cuero · Beige",
-      "name_en": "Bolso Mano Cuero Bag · Beige",
+      "name_es": "Bolso de mano de cuero sintético · Beige",
+      "name_en": "Synthetic Leather Handbag · Beige",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -31628,8 +31629,8 @@
     },
     {
       "id": "shopify-bolso-de-mano-de-cuero-sintetico-daz-luxury-2-black",
-      "name_es": "Bolso Bolso Mano Cuero · Negro",
-      "name_en": "Bolso Mano Cuero Bag · Black",
+      "name_es": "Bolso de mano de cuero sintético · Negro",
+      "name_en": "Synthetic Leather Handbag · Black",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -31648,8 +31649,8 @@
     },
     {
       "id": "shopify-bolso-de-mano-de-cuero-sintetico-daz-luxury-3",
-      "name_es": "Bolso Bolso Mano Cuero",
-      "name_en": "Bolso Mano Cuero Bag",
+      "name_es": "Bolso de mano de cuero sintético",
+      "name_en": "Synthetic Leather Handbag",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -31667,8 +31668,8 @@
     },
     {
       "id": "shopify-bolso-de-mano-de-cuero-sintetico-daz-luxury-beige",
-      "name_es": "Bolso Bolso Mano Cuero · Beige",
-      "name_en": "Bolso Mano Cuero Bag · Beige",
+      "name_es": "Bolso de mano de cuero sintético · Beige",
+      "name_en": "Synthetic Leather Handbag · Beige",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -31687,8 +31688,8 @@
     },
     {
       "id": "shopify-bolso-de-mano-de-cuero-sintetico-daz-luxury-black",
-      "name_es": "Bolso Bolso Mano Cuero · Negro",
-      "name_en": "Bolso Mano Cuero Bag · Black",
+      "name_es": "Bolso de mano de cuero sintético · Negro",
+      "name_en": "Synthetic Leather Handbag · Black",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
