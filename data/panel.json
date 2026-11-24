@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-24 15:42 UTC",
+  "updated": "2026-11-24 15:52 UTC",
   "totals": {
     "catalogo": 2438,
-    "a_la_vista": 2062,
+    "a_la_vista": 2063,
     "disenos_a_la_vista": 844,
-    "ocultos": 376,
+    "ocultos": 375,
     "ia_revisados": 943,
     "ia_pendientes": 1494,
-    "con_boton_de_pago": 2062,
+    "con_boton_de_pago": 2063,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 11,
     "ventas_30_dias": 0,
@@ -19,8 +19,7 @@
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 371,
-    "Oculto": 1
+    "Borrador": 371
   },
   "suppliers": {
     "Printful": {
@@ -36,8 +35,8 @@
       "ocultos": 13
     },
     "InterestPrint": {
-      "visibles": 94,
-      "ocultos": 363
+      "visibles": 95,
+      "ocultos": 362
     }
   },
   "guard": [
@@ -1618,15 +1617,6 @@
       "c": "mujer/batas-pijamas",
       "pr": 22.99,
       "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-short-sleeve-zip-polo-shirtb470-2",
-      "n": "Polo con Cremallera · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/aa5a57a0ccd272809620.jpg",
-      "c": "hombre/polos",
-      "pr": 23.99,
-      "why": "Oculto"
     },
     {
       "id": "interestprint-design-women-s-one-shoulder-mesh-swimsuit",
@@ -3950,26 +3940,16 @@
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
     "⏱ lectura de proveedores: 12 s",
-    "Productos en catálogo: 2438 · a la vista: 2065 · archivados: 1",
+    "Productos en catálogo: 2438 · a la vista: 2066 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 1996 piezas",
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con interestprint-design-short-sleeve-zip-polo-shirtb470-2: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1720",
-    "⏱ revisión con IA: 42 s",
+    "⏱ revisión con IA: 0 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
-    "Stripe: enlace normal listo para printify-66d98379266c81aff6086146",
-    "Stripe: enlace normal listo para printify-66d98827f02b0468c20aa681",
-    "Stripe: enlace normal listo para printify-66d98513fad994a9d30e5aee",
-    "Stripe: enlace normal listo para printify-66d9866ac830a5938703f549",
-    "Stripe: enlace normal listo para printify-66d989c3667a2133250ca6dc",
-    "Stripe: enlace normal listo para printify-66d98c33d084380d6503ad80",
-    "Stripe: 6 productos con enlace de pago nuevo en esta hora",
-    "⏱ enlaces de pago: 6 s",
+    "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9122 EUR",
     "Listo."
   ]
