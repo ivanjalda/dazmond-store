@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:42:03Z",
+  "updated": "2026-11-24T14:42:48Z",
   "products": [
     {
       "id": "printful-365090873",
@@ -229317,228 +229317,6 @@
       "img_checked": "2026-11-23"
     },
     {
-      "id": "printify-66d98379266c81aff6086146",
-      "supplier": "Printify",
-      "supplier_id": "66d98379266c81aff6086146",
-      "source_title": "Conjunto de pijama corto DAZ para mujer",
-      "categories": [
-        "mujer/batas-pijamas"
-      ],
-      "cost_usd": 35.64,
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL"
-      ],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "",
-      "color": "White",
-      "raw_images": [
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "variant_map": {
-        "S": 75681,
-        "M": 75683,
-        "L": 75685,
-        "XL": 75687,
-        "2XL": 75689
-      },
-      "skus": [
-        "10705266059896386975",
-        "15514147275987620612",
-        "87979255349508024691",
-        "24751115268184835134",
-        "26537069559086440867"
-      ],
-      "draft": false,
-      "supplier_product_id": "66d98379266c81aff6086146",
-      "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
-      "source_text": "Conjunto de pijama corto DAZ para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n   .: Material: 95 % poli&eacute;ster, 5 % elastano   \n   .: El color del hilo de costura se combina de manera similar al dise&ntilde;o   \n   .: Etiqueta cosida (costura lateral interna de la camisa)   \n   .: Ajuste relajado   \n    Este product",
-      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
-      "name_en": "Conjunto Pijama Corto Loungewear · White",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
-      "price_usd": 55.99,
-      "margin_pct": 20.8,
-      "images_original": [
-        "assets/products/shop/0459eb079d0254f5f59d.jpg",
-        "assets/products/shop/7e9006ee7a5634c0f4e9.jpg",
-        "assets/products/shop/799e0b7d4a403ed0a532.jpg",
-        "assets/products/shop/9237f54f291106aa03ab.jpg",
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
-      ],
-      "images_model": [
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "visual_verified": true,
-      "display_images": [
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
-        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 55.99,
-        "2026-11-20": 55.99,
-        "2026-11-21": 55.99,
-        "2026-11-22": 55.99,
-        "2026-11-23": 55.99,
-        "2026-11-24": 55.99
-      },
-      "hidden": false,
-      "score": 18.63,
-      "rank": 1715,
-      "badge": "new",
-      "look": [
-        "printful-383192424-black",
-        "printful-379237645",
-        "printful-338164153",
-        "printful-337647274-dusty-rose"
-      ],
-      "page": true,
-      "shipping_usd": 5.89,
-      "shipping_worst_usd": 7.09,
-      "fam": "conjunto-pijama-corto",
-      "stripe_product_id": "prod_VfGfGJrw6vY0bg",
-      "size_values": {
-        "S": "S",
-        "M": "M",
-        "L": "L",
-        "XL": "XL",
-        "2XL": "2XL"
-      },
-      "stripe_payment_link": "https://buy.stripe.com/aFa5kEcnqdOYfD0dKS1gR08",
-      "stripe_link_id": "plink_1Ues6eLJVU4oTPuXEkxQmiOW",
-      "stripe_price_cents": 5599,
-      "stripe_site": "https://dazmond.com",
-      "cg": "printify-66d98379266c81aff6086146",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Pijamas",
-      "details_src": "¿Por qué elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus diseños en estampados integrales y crea una prenda básica acogedora que seguramente encantará. \n .: Material: 95 % poliéster, 5 % elastano \n .: El color del hilo de costura se combina de manera similar al diseño \n .: Etiqueta cosida (costura lateral interna de la camisa) \n .: Ajuste relajado \n Este producto está hecho especialmente para usted tan pronto como realiza un pedido. Fabricar productos bajo demanda garantiza la exclusividad de nuestra marca con nuestra comunidad. Unidades limitadas. \n S \n M \n L \n XL \n 2XL \n Largo superior, en \n 24.40 \n 24.80 \n 25.30 \n 25.90 \n 26.50 \n Ancho superior, en \n 19.85 \n 21.05 \n 22.20 \n 23.40 \n 24.60 \n Largo inferior, en \n 11.00 \n 11.40 \n 11.80 \n 12.20 \n 12.60 \n Cintura, en \n 15.75 \n 16.30 \n 16.89 \n 17.48 \n 18.07 \n Caderas, en \n 20.08 \n 21.02 \n 22.05 \n 23.43 \n 25.08 \n Image by [Colorlife / Shutterstock]",
-      "img_checked": "2026-11-23"
-    },
-    {
-      "id": "printify-66d98827f02b0468c20aa681",
-      "supplier": "Printify",
-      "supplier_id": "66d98827f02b0468c20aa681",
-      "source_title": "Conjunto de pijama corto DAZ Art para mujer",
-      "categories": [
-        "mujer/batas-pijamas"
-      ],
-      "cost_usd": 35.64,
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL"
-      ],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "",
-      "color": "White",
-      "raw_images": [
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24433/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24404/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=close-up",
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24390/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "variant_map": {
-        "S": 75681,
-        "M": 75683,
-        "L": 75685,
-        "XL": 75687,
-        "2XL": 75689
-      },
-      "skus": [
-        "26119001693714428803",
-        "16904939793604264237",
-        "42109090869352680786",
-        "17238363128296258365",
-        "18477240534812854349"
-      ],
-      "draft": false,
-      "supplier_product_id": "66d98827f02b0468c20aa681",
-      "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
-      "source_text": "Conjunto de pijama corto DAZ Art para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n  .: Material: 95 % poli&eacute;ster, 5 % elastano  \n  .: El color del hilo de costura coincide con el dise&ntilde;o  \n  .: Etiqueta cosida (costura lateral interna de la camisa)  \n  .: Ajuste relajado  \n    Este producto est&aacute; hecho espe",
-      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
-      "name_en": "Conjunto Pijama Corto Loungewear · White",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
-      "price_usd": 55.99,
-      "margin_pct": 20.8,
-      "images_original": [
-        "assets/products/shop/e23b98f73f930ced86e0.jpg",
-        "assets/products/shop/87dcbfe0630dd62237ba.jpg",
-        "assets/products/shop/9688ad8b4f9431834568.jpg",
-        "assets/products/shop/e573fccce44a46dde309.jpg",
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24433/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24404/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=close-up"
-      ],
-      "images_model": [
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24390/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "visual_verified": true,
-      "display_images": [
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24433/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24404/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=close-up",
-        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24390/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 55.99,
-        "2026-11-20": 55.99,
-        "2026-11-21": 55.99,
-        "2026-11-22": 55.99,
-        "2026-11-23": 55.99,
-        "2026-11-24": 55.99
-      },
-      "hidden": false,
-      "score": 18.63,
-      "rank": 1716,
-      "badge": "new",
-      "look": [
-        "printful-383192424-black",
-        "printful-379237645",
-        "printful-338164153",
-        "printful-337647274-dusty-rose"
-      ],
-      "page": true,
-      "shipping_usd": 5.89,
-      "shipping_worst_usd": 7.09,
-      "fam": "conjunto-pijama-corto",
-      "stripe_product_id": "prod_VfGfLaVOWXypWt",
-      "size_values": {
-        "S": "S",
-        "M": "M",
-        "L": "L",
-        "XL": "XL",
-        "2XL": "2XL"
-      },
-      "stripe_payment_link": "https://buy.stripe.com/14A8wQcnq9yI0I64ai1gR09",
-      "stripe_link_id": "plink_1Ues6fLJVU4oTPuXtd6VXTkB",
-      "stripe_price_cents": 5599,
-      "stripe_site": "https://dazmond.com",
-      "cg": "printify-66d98827f02b0468c20aa681",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Pijamas",
-      "details_src": "¿Por qué elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus diseños en estampados integrales y crea una prenda básica acogedora que seguramente encantará. \n .: Material: 95 % poliéster, 5 % elastano \n .: El color del hilo de costura coincide con el diseño \n .: Etiqueta cosida (costura lateral interna de la camisa) \n .: Ajuste relajado \n Este producto está hecho especialmente para usted tan pronto como realiza un pedido. Fabricar productos bajo demanda garantiza la exclusividad de nuestra marca con nuestra comunidad. Unidades limitadas. \n S \n M \n L \n XL \n 2XL \n Largo superior, en \n 24.40 \n 24.80 \n 25.30 \n 25.90 \n 26.50 \n Ancho superior, en \n 19.85 \n 21.05 \n 22.20 \n 23.40 \n 24.60 \n Largo inferior, en \n 11.00 \n 11.40 \n 11.80 \n 12.20 \n 12.60 \n Cintura, en \n 15.75 \n 16.30 \n 16.89 \n 17.48 \n 18.07 \n Caderas, en \n 20.08 \n 21.02 \n 22.05 \n 23.43 \n 25.08 \n Image by [antart / Shutterstock]",
-      "img_checked": "2026-11-23"
-    },
-    {
       "id": "shopify-camiseta-dazmond-de-cuello-redondo-para-mujer-gris",
       "supplier": "Shopify",
       "supplier_id": "camiseta-dazmond-de-cuello-redondo-para-mujer-gris",
@@ -229636,7 +229414,7 @@
       },
       "hidden": false,
       "score": 18.63,
-      "rank": 1717,
+      "rank": 1715,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -229761,7 +229539,7 @@
       },
       "hidden": false,
       "score": 18.63,
-      "rank": 1718,
+      "rank": 1716,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -229886,7 +229664,7 @@
       },
       "hidden": false,
       "score": 18.63,
-      "rank": 1719,
+      "rank": 1717,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -230018,7 +229796,7 @@
       },
       "hidden": false,
       "score": 18.63,
-      "rank": 1720,
+      "rank": 1718,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -230150,7 +229928,7 @@
       },
       "hidden": false,
       "score": 18.63,
-      "rank": 1721,
+      "rank": 1719,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -230282,7 +230060,7 @@
       },
       "hidden": false,
       "score": 18.63,
-      "rank": 1722,
+      "rank": 1720,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -230387,7 +230165,7 @@
       },
       "hidden": false,
       "score": 18.63,
-      "rank": 1723,
+      "rank": 1721,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -230490,7 +230268,7 @@
       },
       "hidden": false,
       "score": 18.63,
-      "rank": 1724,
+      "rank": 1722,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -230592,7 +230370,7 @@
       },
       "hidden": false,
       "score": 18.63,
-      "rank": 1725,
+      "rank": 1723,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -230728,7 +230506,7 @@
       },
       "hidden": false,
       "score": 18.62,
-      "rank": 1726,
+      "rank": 1724,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -230813,7 +230591,7 @@
       },
       "hidden": false,
       "score": 18.62,
-      "rank": 1727,
+      "rank": 1725,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -230898,7 +230676,7 @@
       },
       "hidden": false,
       "score": 18.62,
-      "rank": 1728,
+      "rank": 1726,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -230992,7 +230770,7 @@
       },
       "hidden": false,
       "score": 18.62,
-      "rank": 1729,
+      "rank": 1727,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -231083,7 +230861,7 @@
       },
       "hidden": false,
       "score": 18.62,
-      "rank": 1730,
+      "rank": 1728,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -231172,7 +230950,7 @@
       },
       "hidden": false,
       "score": 18.62,
-      "rank": 1731,
+      "rank": 1729,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -231395,7 +231173,7 @@
       },
       "hidden": false,
       "score": 18.61,
-      "rank": 1732,
+      "rank": 1730,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -231560,7 +231338,7 @@
       },
       "hidden": false,
       "score": 18.61,
-      "rank": 1733,
+      "rank": 1731,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -231670,7 +231448,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1734,
+      "rank": 1732,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -231779,7 +231557,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1735,
+      "rank": 1733,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -231888,7 +231666,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1736,
+      "rank": 1734,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -231997,7 +231775,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1737,
+      "rank": 1735,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -232106,7 +231884,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1738,
+      "rank": 1736,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -232276,7 +232054,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1739,
+      "rank": 1737,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -232439,7 +232217,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1740,
+      "rank": 1738,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -232548,7 +232326,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1741,
+      "rank": 1739,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -232718,7 +232496,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1742,
+      "rank": 1740,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -232942,7 +232720,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1743,
+      "rank": 1741,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -233163,7 +232941,7 @@
       },
       "hidden": false,
       "score": 18.6,
-      "rank": 1744,
+      "rank": 1742,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -233244,6 +233022,228 @@
       "ai_copy": true,
       "ai_done": true,
       "gender": "men"
+    },
+    {
+      "id": "printify-66d98379266c81aff6086146",
+      "supplier": "Printify",
+      "supplier_id": "66d98379266c81aff6086146",
+      "source_title": "Conjunto de pijama corto DAZ para mujer",
+      "categories": [
+        "mujer/batas-pijamas"
+      ],
+      "cost_usd": 30.55,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "White",
+      "raw_images": [
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "variant_map": {
+        "S": 75681,
+        "M": 75683,
+        "L": 75685,
+        "XL": 75687,
+        "2XL": 75689
+      },
+      "skus": [
+        "10705266059896386975",
+        "15514147275987620612",
+        "87979255349508024691",
+        "24751115268184835134",
+        "26537069559086440867"
+      ],
+      "draft": false,
+      "supplier_product_id": "66d98379266c81aff6086146",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Conjunto de pijama corto DAZ para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n   .: Material: 95 % poli&eacute;ster, 5 % elastano   \n   .: El color del hilo de costura se combina de manera similar al dise&ntilde;o   \n   .: Etiqueta cosida (costura lateral interna de la camisa)   \n   .: Ajuste relajado   \n    Este product",
+      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+      "name_en": "Conjunto Pijama Corto Loungewear · White",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 48.99,
+      "margin_pct": 20.5,
+      "images_original": [
+        "assets/products/shop/0459eb079d0254f5f59d.jpg",
+        "assets/products/shop/7e9006ee7a5634c0f4e9.jpg",
+        "assets/products/shop/799e0b7d4a403ed0a532.jpg",
+        "assets/products/shop/9237f54f291106aa03ab.jpg",
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
+      ],
+      "images_model": [
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "visual_verified": true,
+      "display_images": [
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
+        "https://images.printify.com/mockup/66d98379266c81aff6086146/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 55.99,
+        "2026-11-20": 55.99,
+        "2026-11-21": 55.99,
+        "2026-11-22": 55.99,
+        "2026-11-23": 55.99,
+        "2026-11-24": 48.99
+      },
+      "hidden": false,
+      "score": 18.6,
+      "rank": 1743,
+      "badge": "new",
+      "look": [
+        "printful-383192424-black",
+        "printful-379237645",
+        "printful-338164153",
+        "printful-337647274-dusty-rose"
+      ],
+      "page": true,
+      "shipping_usd": 5.89,
+      "shipping_worst_usd": 7.09,
+      "fam": "conjunto-pijama-corto",
+      "stripe_product_id": "prod_VfGfGJrw6vY0bg",
+      "size_values": {
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/cNi4gA87a4eo9eC4ai1gV0n",
+      "stripe_link_id": "plink_1UfKyoLJVU4oTPuXCWnd2qOr",
+      "stripe_price_cents": 4899,
+      "stripe_site": "https://dazmond.com",
+      "cg": "printify-66d98379266c81aff6086146",
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Pijamas",
+      "details_src": "¿Por qué elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus diseños en estampados integrales y crea una prenda básica acogedora que seguramente encantará. \n .: Material: 95 % poliéster, 5 % elastano \n .: El color del hilo de costura se combina de manera similar al diseño \n .: Etiqueta cosida (costura lateral interna de la camisa) \n .: Ajuste relajado \n Este producto está hecho especialmente para usted tan pronto como realiza un pedido. Fabricar productos bajo demanda garantiza la exclusividad de nuestra marca con nuestra comunidad. Unidades limitadas. \n S \n M \n L \n XL \n 2XL \n Largo superior, en \n 24.40 \n 24.80 \n 25.30 \n 25.90 \n 26.50 \n Ancho superior, en \n 19.85 \n 21.05 \n 22.20 \n 23.40 \n 24.60 \n Largo inferior, en \n 11.00 \n 11.40 \n 11.80 \n 12.20 \n 12.60 \n Cintura, en \n 15.75 \n 16.30 \n 16.89 \n 17.48 \n 18.07 \n Caderas, en \n 20.08 \n 21.02 \n 22.05 \n 23.43 \n 25.08 \n Image by [Colorlife / Shutterstock]",
+      "img_checked": "2026-11-23"
+    },
+    {
+      "id": "printify-66d98827f02b0468c20aa681",
+      "supplier": "Printify",
+      "supplier_id": "66d98827f02b0468c20aa681",
+      "source_title": "Conjunto de pijama corto DAZ Art para mujer",
+      "categories": [
+        "mujer/batas-pijamas"
+      ],
+      "cost_usd": 30.55,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "White",
+      "raw_images": [
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24433/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24404/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=close-up",
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24390/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "variant_map": {
+        "S": 75681,
+        "M": 75683,
+        "L": 75685,
+        "XL": 75687,
+        "2XL": 75689
+      },
+      "skus": [
+        "26119001693714428803",
+        "16904939793604264237",
+        "42109090869352680786",
+        "17238363128296258365",
+        "18477240534812854349"
+      ],
+      "draft": false,
+      "supplier_product_id": "66d98827f02b0468c20aa681",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Conjunto de pijama corto DAZ Art para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n  .: Material: 95 % poli&eacute;ster, 5 % elastano  \n  .: El color del hilo de costura coincide con el dise&ntilde;o  \n  .: Etiqueta cosida (costura lateral interna de la camisa)  \n  .: Ajuste relajado  \n    Este producto est&aacute; hecho espe",
+      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+      "name_en": "Conjunto Pijama Corto Loungewear · White",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 48.99,
+      "margin_pct": 20.5,
+      "images_original": [
+        "assets/products/shop/e23b98f73f930ced86e0.jpg",
+        "assets/products/shop/87dcbfe0630dd62237ba.jpg",
+        "assets/products/shop/9688ad8b4f9431834568.jpg",
+        "assets/products/shop/e573fccce44a46dde309.jpg",
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24433/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24404/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=close-up"
+      ],
+      "images_model": [
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24390/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "visual_verified": true,
+      "display_images": [
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24433/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24404/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=close-up",
+        "https://images.printify.com/mockup/66d98827f02b0468c20aa681/75685/24390/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 55.99,
+        "2026-11-20": 55.99,
+        "2026-11-21": 55.99,
+        "2026-11-22": 55.99,
+        "2026-11-23": 55.99,
+        "2026-11-24": 48.99
+      },
+      "hidden": false,
+      "score": 18.6,
+      "rank": 1744,
+      "badge": "new",
+      "look": [
+        "printful-383192424-black",
+        "printful-379237645",
+        "printful-338164153",
+        "printful-337647274-dusty-rose"
+      ],
+      "page": true,
+      "shipping_usd": 5.89,
+      "shipping_worst_usd": 7.09,
+      "fam": "conjunto-pijama-corto",
+      "stripe_product_id": "prod_VfGfLaVOWXypWt",
+      "size_values": {
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/cNifZievy8uEbmK4ai1gV0o",
+      "stripe_link_id": "plink_1UfKyoLJVU4oTPuXTXAshOMI",
+      "stripe_price_cents": 4899,
+      "stripe_site": "https://dazmond.com",
+      "cg": "printify-66d98827f02b0468c20aa681",
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Pijamas",
+      "details_src": "¿Por qué elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus diseños en estampados integrales y crea una prenda básica acogedora que seguramente encantará. \n .: Material: 95 % poliéster, 5 % elastano \n .: El color del hilo de costura coincide con el diseño \n .: Etiqueta cosida (costura lateral interna de la camisa) \n .: Ajuste relajado \n Este producto está hecho especialmente para usted tan pronto como realiza un pedido. Fabricar productos bajo demanda garantiza la exclusividad de nuestra marca con nuestra comunidad. Unidades limitadas. \n S \n M \n L \n XL \n 2XL \n Largo superior, en \n 24.40 \n 24.80 \n 25.30 \n 25.90 \n 26.50 \n Ancho superior, en \n 19.85 \n 21.05 \n 22.20 \n 23.40 \n 24.60 \n Largo inferior, en \n 11.00 \n 11.40 \n 11.80 \n 12.20 \n 12.60 \n Cintura, en \n 15.75 \n 16.30 \n 16.89 \n 17.48 \n 18.07 \n Caderas, en \n 20.08 \n 21.02 \n 22.05 \n 23.43 \n 25.08 \n Image by [antart / Shutterstock]",
+      "img_checked": "2026-11-23"
     },
     {
       "id": "printify-6750352c74c95aa2af003f06-black-sole",
@@ -259406,6 +259406,97 @@
       "hide_reason": "repetido de shopify-design-swimsuit-set-front-side-printingmade-in-usa-azul-medio-profundo"
     },
     {
+      "id": "printify-6682f7eaabc218c5680b99db",
+      "supplier": "Printify",
+      "supplier_id": "6682f7eaabc218c5680b99db",
+      "source_title": "Calcetines DAZ de longitud media",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "cost_usd": 18.77,
+      "sizes": [
+        "One size"
+      ],
+      "needs_review": true,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "",
+      "raw_images": [
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28958/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-right",
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26887/calcetines-daz-de-longitud-media.jpg?camera_label=flat-right-side",
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26888/calcetines-daz-de-longitud-media.jpg?camera_label=flat-left-side"
+      ],
+      "variant_map": {
+        "One size": 77921
+      },
+      "skus": [
+        "30762661461999455547"
+      ],
+      "draft": false,
+      "supplier_product_id": "6682f7eaabc218c5680b99db",
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Calcetines DAZ de longitud media    Dise&ntilde;ados para agregar un poco de car&aacute;cter que une un conjunto, estos calcetines personalizados pueden acomodar fotos, obras de arte, patrones creativos y m&aacute;s, con detalles impecables. Confeccionado 100% con poli&eacute;ster suave para mayor comodidad que dura todo el d&iacute;a.   \n &nbsp; \n  .: Talla &uacute;nica (16,5\" &times; 3,2\") (41,9 &times; 8,13 cm)  \n  .: 100% poli&eacute;ster  \n  .: Tacones y punteras negros  \n  .: Modelo - calcetines altos  \n  .: El mismo dise&ntilde;o estampado en ambos calcetines  \n    Este producto est&aacute; hecho especialmente para ust",
+      "name_es": "Pieza Calcetines Daz Longitud",
+      "name_en": "Calcetines Daz Longitud Piece",
+      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "price_usd": 48.99,
+      "margin_pct": 46.4,
+      "images_original": [
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28958/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-right",
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26887/calcetines-daz-de-longitud-media.jpg?camera_label=flat-right-side",
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26888/calcetines-daz-de-longitud-media.jpg?camera_label=flat-left-side"
+      ],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28958/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-right",
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26887/calcetines-daz-de-longitud-media.jpg?camera_label=flat-right-side",
+        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26888/calcetines-daz-de-longitud-media.jpg?camera_label=flat-left-side"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 54.99,
+        "2026-11-20": 54.99,
+        "2026-11-21": 54.99,
+        "2026-11-22": 48.99,
+        "2026-11-23": 48.99,
+        "2026-11-24": 48.99
+      },
+      "hidden": false,
+      "score": 18.14,
+      "rank": 1920,
+      "badge": "new",
+      "look": [
+        "printful-365090873",
+        "printful-351492575-black",
+        "printful-361906822",
+        "printful-345759651"
+      ],
+      "page": true,
+      "shipping_usd": 4.99,
+      "shipping_worst_usd": 24.49,
+      "fam": "calcetines-longitud-media",
+      "stripe_product_id": "prod_VfCmrvkKdCEPo0",
+      "size_values": {
+        "Onesize": "One size"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/4gMcN62MQ3ak9eC5em1gU45",
+      "stripe_link_id": "plink_1UevDlLJVU4oTPuXuRuGf2Za",
+      "stripe_price_cents": 4899,
+      "stripe_site": "https://dazmond.com",
+      "cg": "printify-6682f7eaabc218c5680b99db",
+      "shop_category": "",
+      "img_checked": "2026-11-23",
+      "ai_fail": 3,
+      "ai_done": true
+    },
+    {
       "id": "printify-669f857d202b3fb01407bf9c",
       "supplier": "Printify",
       "supplier_id": "669f857d202b3fb01407bf9c",
@@ -259490,7 +259581,7 @@
       },
       "hidden": false,
       "score": 17.49,
-      "rank": 1920,
+      "rank": 1921,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -259665,7 +259756,7 @@
       },
       "hidden": false,
       "score": 17.49,
-      "rank": 1921,
+      "rank": 1922,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -259839,7 +259930,7 @@
       },
       "hidden": false,
       "score": 17.49,
-      "rank": 1922,
+      "rank": 1923,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -260042,7 +260133,7 @@
       },
       "hidden": false,
       "score": 16.6,
-      "rank": 1923,
+      "rank": 1924,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -260229,7 +260320,7 @@
       },
       "hidden": false,
       "score": 16.57,
-      "rank": 1924,
+      "rank": 1925,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -260372,7 +260463,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1925,
+      "rank": 1926,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -260576,7 +260667,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1926,
+      "rank": 1927,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -260777,7 +260868,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1927,
+      "rank": 1928,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -260997,7 +261088,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1928,
+      "rank": 1929,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -261203,7 +261294,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1929,
+      "rank": 1930,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -261424,7 +261515,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1930,
+      "rank": 1931,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -261632,7 +261723,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1931,
+      "rank": 1932,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -261830,7 +261921,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1932,
+      "rank": 1933,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -262027,7 +262118,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1933,
+      "rank": 1934,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -262246,7 +262337,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1934,
+      "rank": 1935,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -262476,7 +262567,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1935,
+      "rank": 1936,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -262679,7 +262770,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1936,
+      "rank": 1937,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -262838,7 +262929,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1937,
+      "rank": 1938,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -263013,7 +263104,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1938,
+      "rank": 1939,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -263192,7 +263283,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1939,
+      "rank": 1940,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -263404,7 +263495,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1940,
+      "rank": 1941,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -263617,7 +263708,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1941,
+      "rank": 1942,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -263829,7 +263920,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1942,
+      "rank": 1943,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -264036,7 +264127,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1943,
+      "rank": 1944,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -264210,7 +264301,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1944,
+      "rank": 1945,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -264383,7 +264474,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1945,
+      "rank": 1946,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -264555,7 +264646,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1946,
+      "rank": 1947,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -264727,7 +264818,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1947,
+      "rank": 1948,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -264899,7 +264990,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1948,
+      "rank": 1949,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -265071,7 +265162,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1949,
+      "rank": 1950,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -265310,7 +265401,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1950,
+      "rank": 1951,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -265555,7 +265646,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1951,
+      "rank": 1952,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -265715,7 +265806,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1952,
+      "rank": 1953,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -265868,7 +265959,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1953,
+      "rank": 1954,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -266034,7 +266125,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1954,
+      "rank": 1955,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -266189,7 +266280,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1955,
+      "rank": 1956,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -266344,7 +266435,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1956,
+      "rank": 1957,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -266474,7 +266565,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1957,
+      "rank": 1958,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -266638,7 +266729,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1958,
+      "rank": 1959,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -266821,7 +266912,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1959,
+      "rank": 1960,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -266987,7 +267078,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1960,
+      "rank": 1961,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -267097,7 +267188,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1961,
+      "rank": 1962,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -267266,7 +267357,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1962,
+      "rank": 1963,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -267438,7 +267529,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1963,
+      "rank": 1964,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -267607,7 +267698,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1964,
+      "rank": 1965,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -267771,7 +267862,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1965,
+      "rank": 1966,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -267955,7 +268046,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1966,
+      "rank": 1967,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -268079,7 +268170,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1967,
+      "rank": 1968,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -268227,7 +268318,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1968,
+      "rank": 1969,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -268563,7 +268654,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1969,
+      "rank": 1970,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -268764,7 +268855,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1970,
+      "rank": 1971,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -268887,7 +268978,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1971,
+      "rank": 1972,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -269011,7 +269102,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1972,
+      "rank": 1973,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -269182,7 +269273,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1973,
+      "rank": 1974,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -269352,7 +269443,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1974,
+      "rank": 1975,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -269524,7 +269615,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1975,
+      "rank": 1976,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -269691,7 +269782,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1976,
+      "rank": 1977,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -269838,7 +269929,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1977,
+      "rank": 1978,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -270072,7 +270163,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1978,
+      "rank": 1979,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -270304,7 +270395,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1979,
+      "rank": 1980,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -270496,7 +270587,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1980,
+      "rank": 1981,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -270670,7 +270761,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1981,
+      "rank": 1982,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -270843,7 +270934,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1982,
+      "rank": 1983,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -271021,7 +271112,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1983,
+      "rank": 1984,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -271206,7 +271297,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1984,
+      "rank": 1985,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -271330,7 +271421,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1985,
+      "rank": 1986,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -271516,7 +271607,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1986,
+      "rank": 1987,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -271703,7 +271794,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1987,
+      "rank": 1988,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -271889,7 +271980,7 @@
       },
       "hidden": false,
       "score": 16.55,
-      "rank": 1988,
+      "rank": 1989,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -272054,7 +272145,7 @@
       },
       "hidden": false,
       "score": 16.5,
-      "rank": 1989,
+      "rank": 1990,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -272199,7 +272290,7 @@
       },
       "hidden": false,
       "score": 16.33,
-      "rank": 1990,
+      "rank": 1991,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -272301,7 +272392,7 @@
       },
       "hidden": false,
       "score": 16.28,
-      "rank": 1991,
+      "rank": 1992,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -272452,7 +272543,7 @@
       },
       "hidden": false,
       "score": 16.28,
-      "rank": 1992,
+      "rank": 1993,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -272603,7 +272694,7 @@
       },
       "hidden": false,
       "score": 16.28,
-      "rank": 1993,
+      "rank": 1994,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -272754,7 +272845,7 @@
       },
       "hidden": false,
       "score": 16.28,
-      "rank": 1994,
+      "rank": 1995,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -272908,7 +272999,7 @@
       },
       "hidden": false,
       "score": 16.21,
-      "rank": 1995,
+      "rank": 1996,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -273059,7 +273150,7 @@
       },
       "hidden": false,
       "score": 16.05,
-      "rank": 1996,
+      "rank": 1997,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -273233,7 +273324,7 @@
       },
       "hidden": false,
       "score": 15.92,
-      "rank": 1997,
+      "rank": 1998,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -273349,7 +273440,7 @@
       },
       "hidden": false,
       "score": 15.92,
-      "rank": 1998,
+      "rank": 1999,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -273465,7 +273556,7 @@
       },
       "hidden": false,
       "score": 15.92,
-      "rank": 1999,
+      "rank": 2000,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -273581,7 +273672,7 @@
       },
       "hidden": false,
       "score": 15.92,
-      "rank": 2000,
+      "rank": 2001,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -273697,7 +273788,7 @@
       },
       "hidden": false,
       "score": 15.92,
-      "rank": 2001,
+      "rank": 2002,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -273791,7 +273882,7 @@
       },
       "hidden": false,
       "score": 15.92,
-      "rank": 2002,
+      "rank": 2003,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -273886,7 +273977,7 @@
       },
       "hidden": false,
       "score": 15.89,
-      "rank": 2003,
+      "rank": 2004,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -273977,7 +274068,7 @@
       },
       "hidden": false,
       "score": 15.78,
-      "rank": 2004,
+      "rank": 2005,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -274063,7 +274154,7 @@
       },
       "hidden": false,
       "score": 15.74,
-      "rank": 2005,
+      "rank": 2006,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -274154,7 +274245,7 @@
       },
       "hidden": false,
       "score": 15.74,
-      "rank": 2006,
+      "rank": 2007,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -274295,7 +274386,7 @@
       },
       "hidden": false,
       "score": 15.7,
-      "rank": 2007,
+      "rank": 2008,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -274389,7 +274480,7 @@
       },
       "hidden": false,
       "score": 15.7,
-      "rank": 2008,
+      "rank": 2009,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -274489,7 +274580,7 @@
       },
       "hidden": false,
       "score": 15.7,
-      "rank": 2009,
+      "rank": 2010,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -274597,7 +274688,7 @@
       },
       "hidden": false,
       "score": 15.67,
-      "rank": 2010,
+      "rank": 2011,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -274707,7 +274798,7 @@
       },
       "hidden": false,
       "score": 15.67,
-      "rank": 2011,
+      "rank": 2012,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -274815,7 +274906,7 @@
       },
       "hidden": false,
       "score": 15.67,
-      "rank": 2012,
+      "rank": 2013,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -274922,7 +275013,7 @@
       },
       "hidden": false,
       "score": 15.67,
-      "rank": 2013,
+      "rank": 2014,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -275026,7 +275117,7 @@
       },
       "hidden": false,
       "score": 15.66,
-      "rank": 2014,
+      "rank": 2015,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -275132,7 +275223,7 @@
       },
       "hidden": false,
       "score": 15.66,
-      "rank": 2015,
+      "rank": 2016,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -275239,7 +275330,7 @@
       },
       "hidden": false,
       "score": 15.66,
-      "rank": 2016,
+      "rank": 2017,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -275346,7 +275437,7 @@
       },
       "hidden": false,
       "score": 15.66,
-      "rank": 2017,
+      "rank": 2018,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -275455,7 +275546,7 @@
       },
       "hidden": false,
       "score": 15.65,
-      "rank": 2018,
+      "rank": 2019,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -275606,7 +275697,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2019,
+      "rank": 2020,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -275715,7 +275806,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2020,
+      "rank": 2021,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -275824,7 +275915,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2021,
+      "rank": 2022,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -275933,7 +276024,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2022,
+      "rank": 2023,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -276042,7 +276133,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2023,
+      "rank": 2024,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -276151,7 +276242,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2024,
+      "rank": 2025,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -276260,7 +276351,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2025,
+      "rank": 2026,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -276369,7 +276460,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2026,
+      "rank": 2027,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -276478,7 +276569,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2027,
+      "rank": 2028,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -276587,7 +276678,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2028,
+      "rank": 2029,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -276696,7 +276787,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2029,
+      "rank": 2030,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -276805,7 +276896,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2030,
+      "rank": 2031,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -276914,7 +277005,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2031,
+      "rank": 2032,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -277023,7 +277114,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2032,
+      "rank": 2033,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -277132,7 +277223,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2033,
+      "rank": 2034,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -277235,7 +277326,7 @@
       },
       "hidden": false,
       "score": 15.64,
-      "rank": 2034,
+      "rank": 2035,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -277329,7 +277420,7 @@
       },
       "hidden": false,
       "score": 15.63,
-      "rank": 2035,
+      "rank": 2036,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -277347,426 +277438,6 @@
       "stripe_price_cents": 4899,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-667fea2b304632c52403deaa",
-      "shop_category": "",
-      "img_checked": "2026-11-23"
-    },
-    {
-      "id": "printify-66d98513fad994a9d30e5aee",
-      "supplier": "Printify",
-      "supplier_id": "66d98513fad994a9d30e5aee",
-      "source_title": "Conjunto de pijama corto DAZ para mujer",
-      "categories": [
-        "mujer/batas-pijamas"
-      ],
-      "cost_usd": 35.64,
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL"
-      ],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "",
-      "color": "White",
-      "raw_images": [
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "variant_map": {
-        "S": 75681,
-        "M": 75683,
-        "L": 75685,
-        "XL": 75687,
-        "2XL": 75689
-      },
-      "skus": [
-        "23827707616211487107",
-        "21954222185872918502",
-        "23405042696016420924",
-        "33933372537737541147",
-        "26329071101002574507"
-      ],
-      "draft": false,
-      "supplier_product_id": "66d98513fad994a9d30e5aee",
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null,
-      "source_text": "Conjunto de pijama corto DAZ para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n  .: Material: 95 % poli&eacute;ster, 5 % elastano  \n  .: El color del hilo de costura coincide con el dise&ntilde;o  \n  .: Etiqueta cosida (costura lateral interna de la camisa)  \n  .: Ajuste relajado  \n    Este producto est&aacute; hecho espe",
-      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
-      "name_en": "Conjunto Pijama Corto Loungewear · White",
-      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
-      "price_usd": 55.99,
-      "margin_pct": 20.8,
-      "images_original": [
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
-      ],
-      "images_model": [
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "visual_verified": false,
-      "display_images": [
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
-      ],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 55.99,
-        "2026-11-20": 55.99,
-        "2026-11-21": 55.99,
-        "2026-11-22": 55.99,
-        "2026-11-23": 55.99,
-        "2026-11-24": 55.99
-      },
-      "hidden": false,
-      "score": 15.63,
-      "rank": 2036,
-      "badge": "new",
-      "look": [
-        "printful-383192424-black",
-        "printful-379237645",
-        "printful-338164153",
-        "printful-337647274-dusty-rose"
-      ],
-      "page": true,
-      "shipping_usd": 5.89,
-      "shipping_worst_usd": 7.09,
-      "fam": "conjunto-pijama-corto",
-      "stripe_product_id": "prod_VfGfyQhygfIegb",
-      "size_values": {
-        "S": "S",
-        "M": "M",
-        "L": "L",
-        "XL": "XL",
-        "2XL": "2XL"
-      },
-      "stripe_payment_link": "https://buy.stripe.com/6oUbJ2dru3ak8ayeOW1gS14",
-      "stripe_link_id": "plink_1Uess5LJVU4oTPuXncCsov0J",
-      "stripe_price_cents": 5599,
-      "stripe_site": "https://dazmond.com",
-      "cg": "printify-66d98513fad994a9d30e5aee",
-      "shop_category": "",
-      "img_checked": "2026-11-23"
-    },
-    {
-      "id": "printify-66d9866ac830a5938703f549",
-      "supplier": "Printify",
-      "supplier_id": "66d9866ac830a5938703f549",
-      "source_title": "Conjunto de pijama corto DAZ para mujer",
-      "categories": [
-        "mujer/batas-pijamas"
-      ],
-      "cost_usd": 35.64,
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL"
-      ],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "",
-      "color": "White",
-      "raw_images": [
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "variant_map": {
-        "S": 75681,
-        "M": 75683,
-        "L": 75685,
-        "XL": 75687,
-        "2XL": 75689
-      },
-      "skus": [
-        "13565754642972446500",
-        "17468218646260679699",
-        "11083779641893964766",
-        "43379469182098070800",
-        "31837475274479747979"
-      ],
-      "draft": false,
-      "supplier_product_id": "66d9866ac830a5938703f549",
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null,
-      "source_text": "Conjunto de pijama corto DAZ para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n  .: Material: 95 % poli&eacute;ster, 5 % elastano  \n  .: El color del hilo de costura coincide con el dise&ntilde;o  \n  .: Etiqueta cosida (costura lateral interna de la camisa)  \n  .: Ajuste relajado  \n    Este producto est&aacute; hecho espe",
-      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
-      "name_en": "Conjunto Pijama Corto Loungewear · White",
-      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
-      "price_usd": 55.99,
-      "margin_pct": 20.8,
-      "images_original": [
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
-      ],
-      "images_model": [
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "visual_verified": false,
-      "display_images": [
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
-      ],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 55.99,
-        "2026-11-20": 55.99,
-        "2026-11-21": 55.99,
-        "2026-11-22": 55.99,
-        "2026-11-23": 55.99,
-        "2026-11-24": 55.99
-      },
-      "hidden": false,
-      "score": 15.63,
-      "rank": 2037,
-      "badge": "new",
-      "look": [
-        "printful-383192424-black",
-        "printful-379237645",
-        "printful-338164153",
-        "printful-337647274-dusty-rose"
-      ],
-      "page": true,
-      "shipping_usd": 5.89,
-      "shipping_worst_usd": 7.09,
-      "fam": "conjunto-pijama-corto",
-      "stripe_product_id": "prod_VfGfQUwHBcTpan",
-      "size_values": {
-        "S": "S",
-        "M": "M",
-        "L": "L",
-        "XL": "XL",
-        "2XL": "2XL"
-      },
-      "stripe_payment_link": "https://buy.stripe.com/dRm6oIgDG3ak1Ma5em1gS15",
-      "stripe_link_id": "plink_1Uess6LJVU4oTPuXPMjsEMvX",
-      "stripe_price_cents": 5599,
-      "stripe_site": "https://dazmond.com",
-      "cg": "printify-66d9866ac830a5938703f549",
-      "shop_category": "",
-      "img_checked": "2026-11-23"
-    },
-    {
-      "id": "printify-66d989c3667a2133250ca6dc",
-      "supplier": "Printify",
-      "supplier_id": "66d989c3667a2133250ca6dc",
-      "source_title": "Conjunto de pijama corto DAZ para mujer",
-      "categories": [
-        "mujer/batas-pijamas"
-      ],
-      "cost_usd": 35.64,
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL"
-      ],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "",
-      "color": "White",
-      "raw_images": [
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "variant_map": {
-        "S": 75681,
-        "M": 75683,
-        "L": 75685,
-        "XL": 75687,
-        "2XL": 75689
-      },
-      "skus": [
-        "25181039470804493248",
-        "27799201580278940996",
-        "15058085419540264542",
-        "13583954509159031845",
-        "92114357457197643810"
-      ],
-      "draft": false,
-      "supplier_product_id": "66d989c3667a2133250ca6dc",
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null,
-      "source_text": "Conjunto de pijama corto DAZ para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n  .: Material: 95 % poli&eacute;ster, 5 % elastano  \n  .: El color del hilo de costura coincide con el dise&ntilde;o  \n  .: Etiqueta cosida (costura lateral interna de la camisa)  \n  .: Ajuste relajado  \n    Este producto est&aacute; hecho espe",
-      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
-      "name_en": "Conjunto Pijama Corto Loungewear · White",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
-      "price_usd": 55.99,
-      "margin_pct": 20.8,
-      "images_original": [
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
-      ],
-      "images_model": [
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "visual_verified": false,
-      "display_images": [
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
-      ],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 55.99,
-        "2026-11-20": 55.99,
-        "2026-11-21": 55.99,
-        "2026-11-22": 55.99,
-        "2026-11-23": 55.99,
-        "2026-11-24": 55.99
-      },
-      "hidden": false,
-      "score": 15.63,
-      "rank": 2038,
-      "badge": "new",
-      "look": [
-        "printful-383192424-black",
-        "printful-379237645",
-        "printful-338164153",
-        "printful-337647274-dusty-rose"
-      ],
-      "page": true,
-      "shipping_usd": 5.89,
-      "shipping_worst_usd": 7.09,
-      "fam": "conjunto-pijama-corto",
-      "stripe_product_id": "prod_VfGfgbmpJEovBp",
-      "size_values": {
-        "S": "S",
-        "M": "M",
-        "L": "L",
-        "XL": "XL",
-        "2XL": "2XL"
-      },
-      "stripe_payment_link": "https://buy.stripe.com/4gMeVe3QU26gfD0fT01gS16",
-      "stripe_link_id": "plink_1Uess7LJVU4oTPuXH3g02X8Q",
-      "stripe_price_cents": 5599,
-      "stripe_site": "https://dazmond.com",
-      "cg": "printify-66d989c3667a2133250ca6dc",
-      "shop_category": "",
-      "img_checked": "2026-11-23"
-    },
-    {
-      "id": "printify-66d98c33d084380d6503ad80",
-      "supplier": "Printify",
-      "supplier_id": "66d98c33d084380d6503ad80",
-      "source_title": "Conjunto de pijama corto DAZ para mujer",
-      "categories": [
-        "mujer/batas-pijamas"
-      ],
-      "cost_usd": 35.64,
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL"
-      ],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "",
-      "color": "White",
-      "raw_images": [
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "variant_map": {
-        "S": 75681,
-        "M": 75683,
-        "L": 75685,
-        "XL": 75687,
-        "2XL": 75689
-      },
-      "skus": [
-        "22200296118669367417",
-        "28885039892147523142",
-        "28336042174960593315",
-        "30467603570391103641",
-        "25101617518840055178"
-      ],
-      "draft": false,
-      "supplier_product_id": "66d98c33d084380d6503ad80",
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null,
-      "source_text": "Conjunto de pijama corto DAZ para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n  .: Material: 95 % poli&eacute;ster, 5 % elastano  \n  .: El color del hilo de costura coincide con el dise&ntilde;o  \n  .: Etiqueta cosida (costura lateral interna de la camisa)  \n  .: Ajuste relajado  \n    Este producto est&aacute; hecho espe",
-      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
-      "name_en": "Conjunto Pijama Corto Loungewear · White",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
-      "price_usd": 55.99,
-      "margin_pct": 20.8,
-      "images_original": [
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
-      ],
-      "images_model": [
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
-      ],
-      "visual_verified": false,
-      "display_images": [
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
-      ],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 55.99,
-        "2026-11-20": 55.99,
-        "2026-11-21": 55.99,
-        "2026-11-22": 55.99,
-        "2026-11-23": 55.99,
-        "2026-11-24": 55.99
-      },
-      "hidden": false,
-      "score": 15.63,
-      "rank": 2039,
-      "badge": "new",
-      "look": [
-        "printful-383192424-black",
-        "printful-379237645",
-        "printful-338164153",
-        "printful-337647274-dusty-rose"
-      ],
-      "page": true,
-      "shipping_usd": 5.89,
-      "shipping_worst_usd": 7.09,
-      "fam": "conjunto-pijama-corto",
-      "stripe_product_id": "prod_VfGfuQCtUs9XAc",
-      "size_values": {
-        "S": "S",
-        "M": "M",
-        "L": "L",
-        "XL": "XL",
-        "2XL": "2XL"
-      },
-      "stripe_payment_link": "https://buy.stripe.com/9B69AUgDG12c2QebCK1gS17",
-      "stripe_link_id": "plink_1Uess8LJVU4oTPuXd7LZStYe",
-      "stripe_price_cents": 5599,
-      "stripe_site": "https://dazmond.com",
-      "cg": "printify-66d98c33d084380d6503ad80",
       "shop_category": "",
       "img_checked": "2026-11-23"
     },
@@ -277887,7 +277558,7 @@
       },
       "hidden": false,
       "score": 15.62,
-      "rank": 2040,
+      "rank": 2037,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -278050,7 +277721,7 @@
       },
       "hidden": false,
       "score": 15.62,
-      "rank": 2041,
+      "rank": 2038,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -278158,7 +277829,7 @@
       },
       "hidden": false,
       "score": 15.62,
-      "rank": 2042,
+      "rank": 2039,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -278274,7 +277945,7 @@
       },
       "hidden": false,
       "score": 15.61,
-      "rank": 2043,
+      "rank": 2040,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -278401,7 +278072,7 @@
       },
       "hidden": false,
       "score": 15.6,
-      "rank": 2044,
+      "rank": 2041,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -278419,6 +278090,426 @@
       "stripe_price_cents": 3099,
       "stripe_site": "https://dazmond.com",
       "cg": "printify-667fe6feb2b486bc7808298c",
+      "shop_category": "",
+      "img_checked": "2026-11-23"
+    },
+    {
+      "id": "printify-66d98513fad994a9d30e5aee",
+      "supplier": "Printify",
+      "supplier_id": "66d98513fad994a9d30e5aee",
+      "source_title": "Conjunto de pijama corto DAZ para mujer",
+      "categories": [
+        "mujer/batas-pijamas"
+      ],
+      "cost_usd": 30.55,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "White",
+      "raw_images": [
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "variant_map": {
+        "S": 75681,
+        "M": 75683,
+        "L": 75685,
+        "XL": 75687,
+        "2XL": 75689
+      },
+      "skus": [
+        "23827707616211487107",
+        "21954222185872918502",
+        "23405042696016420924",
+        "33933372537737541147",
+        "26329071101002574507"
+      ],
+      "draft": false,
+      "supplier_product_id": "66d98513fad994a9d30e5aee",
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Conjunto de pijama corto DAZ para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n  .: Material: 95 % poli&eacute;ster, 5 % elastano  \n  .: El color del hilo de costura coincide con el dise&ntilde;o  \n  .: Etiqueta cosida (costura lateral interna de la camisa)  \n  .: Ajuste relajado  \n    Este producto est&aacute; hecho espe",
+      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+      "name_en": "Conjunto Pijama Corto Loungewear · White",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 48.99,
+      "margin_pct": 20.5,
+      "images_original": [
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
+      ],
+      "images_model": [
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 55.99,
+        "2026-11-20": 55.99,
+        "2026-11-21": 55.99,
+        "2026-11-22": 55.99,
+        "2026-11-23": 55.99,
+        "2026-11-24": 48.99
+      },
+      "hidden": false,
+      "score": 15.6,
+      "rank": 2042,
+      "badge": "new",
+      "look": [
+        "printful-383192424-black",
+        "printful-379237645",
+        "printful-338164153",
+        "printful-337647274-dusty-rose"
+      ],
+      "page": true,
+      "shipping_usd": 5.89,
+      "shipping_worst_usd": 7.09,
+      "fam": "conjunto-pijama-corto",
+      "stripe_product_id": "prod_VfGfyQhygfIegb",
+      "size_values": {
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/aFaeVegDGbGQ3Ui7mu1gV0p",
+      "stripe_link_id": "plink_1UfKypLJVU4oTPuXLGYcenrP",
+      "stripe_price_cents": 4899,
+      "stripe_site": "https://dazmond.com",
+      "cg": "printify-66d98513fad994a9d30e5aee",
+      "shop_category": "",
+      "img_checked": "2026-11-23"
+    },
+    {
+      "id": "printify-66d9866ac830a5938703f549",
+      "supplier": "Printify",
+      "supplier_id": "66d9866ac830a5938703f549",
+      "source_title": "Conjunto de pijama corto DAZ para mujer",
+      "categories": [
+        "mujer/batas-pijamas"
+      ],
+      "cost_usd": 30.55,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "White",
+      "raw_images": [
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "variant_map": {
+        "S": 75681,
+        "M": 75683,
+        "L": 75685,
+        "XL": 75687,
+        "2XL": 75689
+      },
+      "skus": [
+        "13565754642972446500",
+        "17468218646260679699",
+        "11083779641893964766",
+        "43379469182098070800",
+        "31837475274479747979"
+      ],
+      "draft": false,
+      "supplier_product_id": "66d9866ac830a5938703f549",
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Conjunto de pijama corto DAZ para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n  .: Material: 95 % poli&eacute;ster, 5 % elastano  \n  .: El color del hilo de costura coincide con el dise&ntilde;o  \n  .: Etiqueta cosida (costura lateral interna de la camisa)  \n  .: Ajuste relajado  \n    Este producto est&aacute; hecho espe",
+      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+      "name_en": "Conjunto Pijama Corto Loungewear · White",
+      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 48.99,
+      "margin_pct": 20.5,
+      "images_original": [
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
+      ],
+      "images_model": [
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 55.99,
+        "2026-11-20": 55.99,
+        "2026-11-21": 55.99,
+        "2026-11-22": 55.99,
+        "2026-11-23": 55.99,
+        "2026-11-24": 48.99
+      },
+      "hidden": false,
+      "score": 15.6,
+      "rank": 2043,
+      "badge": "new",
+      "look": [
+        "printful-383192424-black",
+        "printful-379237645",
+        "printful-338164153",
+        "printful-337647274-dusty-rose"
+      ],
+      "page": true,
+      "shipping_usd": 5.89,
+      "shipping_worst_usd": 7.09,
+      "fam": "conjunto-pijama-corto",
+      "stripe_product_id": "prod_VfGfQUwHBcTpan",
+      "size_values": {
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/dRm4gA9be3akaiG0Y61gV0q",
+      "stripe_link_id": "plink_1UfKypLJVU4oTPuXStitoXZI",
+      "stripe_price_cents": 4899,
+      "stripe_site": "https://dazmond.com",
+      "cg": "printify-66d9866ac830a5938703f549",
+      "shop_category": "",
+      "img_checked": "2026-11-23"
+    },
+    {
+      "id": "printify-66d989c3667a2133250ca6dc",
+      "supplier": "Printify",
+      "supplier_id": "66d989c3667a2133250ca6dc",
+      "source_title": "Conjunto de pijama corto DAZ para mujer",
+      "categories": [
+        "mujer/batas-pijamas"
+      ],
+      "cost_usd": 30.55,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "White",
+      "raw_images": [
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "variant_map": {
+        "S": 75681,
+        "M": 75683,
+        "L": 75685,
+        "XL": 75687,
+        "2XL": 75689
+      },
+      "skus": [
+        "25181039470804493248",
+        "27799201580278940996",
+        "15058085419540264542",
+        "13583954509159031845",
+        "92114357457197643810"
+      ],
+      "draft": false,
+      "supplier_product_id": "66d989c3667a2133250ca6dc",
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Conjunto de pijama corto DAZ para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n  .: Material: 95 % poli&eacute;ster, 5 % elastano  \n  .: El color del hilo de costura coincide con el dise&ntilde;o  \n  .: Etiqueta cosida (costura lateral interna de la camisa)  \n  .: Ajuste relajado  \n    Este producto est&aacute; hecho espe",
+      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+      "name_en": "Conjunto Pijama Corto Loungewear · White",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "price_usd": 48.99,
+      "margin_pct": 20.5,
+      "images_original": [
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
+      ],
+      "images_model": [
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 55.99,
+        "2026-11-20": 55.99,
+        "2026-11-21": 55.99,
+        "2026-11-22": 55.99,
+        "2026-11-23": 55.99,
+        "2026-11-24": 48.99
+      },
+      "hidden": false,
+      "score": 15.6,
+      "rank": 2044,
+      "badge": "new",
+      "look": [
+        "printful-383192424-black",
+        "printful-379237645",
+        "printful-338164153",
+        "printful-337647274-dusty-rose"
+      ],
+      "page": true,
+      "shipping_usd": 5.89,
+      "shipping_worst_usd": 7.09,
+      "fam": "conjunto-pijama-corto",
+      "stripe_product_id": "prod_VfGfgbmpJEovBp",
+      "size_values": {
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/28E14ocnq6mw8ayayG1gV0r",
+      "stripe_link_id": "plink_1UfKyqLJVU4oTPuXGkDfIJob",
+      "stripe_price_cents": 4899,
+      "stripe_site": "https://dazmond.com",
+      "cg": "printify-66d989c3667a2133250ca6dc",
+      "shop_category": "",
+      "img_checked": "2026-11-23"
+    },
+    {
+      "id": "printify-66d98c33d084380d6503ad80",
+      "supplier": "Printify",
+      "supplier_id": "66d98c33d084380d6503ad80",
+      "source_title": "Conjunto de pijama corto DAZ para mujer",
+      "categories": [
+        "mujer/batas-pijamas"
+      ],
+      "cost_usd": 30.55,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "",
+      "color": "White",
+      "raw_images": [
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "variant_map": {
+        "S": 75681,
+        "M": 75683,
+        "L": 75685,
+        "XL": 75687,
+        "2XL": 75689
+      },
+      "skus": [
+        "22200296118669367417",
+        "28885039892147523142",
+        "28336042174960593315",
+        "30467603570391103641",
+        "25101617518840055178"
+      ],
+      "draft": false,
+      "supplier_product_id": "66d98c33d084380d6503ad80",
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Conjunto de pijama corto DAZ para mujer White    &iquest;Por qu&eacute; elegir entre comodidad o estilo cuando puedes tener ambos? Este conjunto de pijama corto de dos piezas para mujer viene con un ajuste relajado, cuello acanalado y sin costuras en las mangas. Agrega tus dise&ntilde;os en estampados integrales y crea una prenda b&aacute;sica acogedora que seguramente encantar&aacute;.   \n &nbsp; \n  .: Material: 95 % poli&eacute;ster, 5 % elastano  \n  .: El color del hilo de costura coincide con el dise&ntilde;o  \n  .: Etiqueta cosida (costura lateral interna de la camisa)  \n  .: Ajuste relajado  \n    Este producto est&aacute; hecho espe",
+      "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+      "name_en": "Conjunto Pijama Corto Loungewear · White",
+      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "price_usd": 48.99,
+      "margin_pct": 20.5,
+      "images_original": [
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
+      ],
+      "images_model": [
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front"
+      ],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 55.99,
+        "2026-11-20": 55.99,
+        "2026-11-21": 55.99,
+        "2026-11-22": 55.99,
+        "2026-11-23": 55.99,
+        "2026-11-24": 48.99
+      },
+      "hidden": false,
+      "score": 15.6,
+      "rank": 2045,
+      "badge": "new",
+      "look": [
+        "printful-383192424-black",
+        "printful-379237645",
+        "printful-338164153",
+        "printful-337647274-dusty-rose"
+      ],
+      "page": true,
+      "shipping_usd": 5.89,
+      "shipping_worst_usd": 7.09,
+      "fam": "conjunto-pijama-corto",
+      "stripe_product_id": "prod_VfGfuQCtUs9XAc",
+      "size_values": {
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/28EeVe4UY9yI3UifT01gV0s",
+      "stripe_link_id": "plink_1UfKyrLJVU4oTPuXuUhKooaq",
+      "stripe_price_cents": 4899,
+      "stripe_site": "https://dazmond.com",
+      "cg": "printify-66d98c33d084380d6503ad80",
       "shop_category": "",
       "img_checked": "2026-11-23"
     },
@@ -278522,7 +278613,7 @@
       },
       "hidden": false,
       "score": 15.6,
-      "rank": 2045,
+      "rank": 2046,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -278654,7 +278745,7 @@
       },
       "hidden": false,
       "score": 15.6,
-      "rank": 2046,
+      "rank": 2047,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -278786,7 +278877,7 @@
       },
       "hidden": false,
       "score": 15.6,
-      "rank": 2047,
+      "rank": 2048,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -278918,7 +279009,7 @@
       },
       "hidden": false,
       "score": 15.6,
-      "rank": 2048,
+      "rank": 2049,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -279031,7 +279122,7 @@
       },
       "hidden": false,
       "score": 15.59,
-      "rank": 2049,
+      "rank": 2050,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -279177,7 +279268,7 @@
       },
       "hidden": false,
       "score": 15.57,
-      "rank": 2050,
+      "rank": 2051,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -279339,7 +279430,7 @@
       },
       "hidden": false,
       "score": 15.57,
-      "rank": 2051,
+      "rank": 2052,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -279468,7 +279559,7 @@
       },
       "hidden": false,
       "score": 15.57,
-      "rank": 2052,
+      "rank": 2053,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -279600,7 +279691,7 @@
       },
       "hidden": false,
       "score": 15.57,
-      "rank": 2053,
+      "rank": 2054,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -279732,7 +279823,7 @@
       },
       "hidden": false,
       "score": 15.57,
-      "rank": 2054,
+      "rank": 2055,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -279864,7 +279955,7 @@
       },
       "hidden": false,
       "score": 15.57,
-      "rank": 2055,
+      "rank": 2056,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -279961,7 +280052,7 @@
       },
       "hidden": false,
       "score": 15.55,
-      "rank": 2056,
+      "rank": 2057,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -280064,7 +280155,7 @@
       },
       "hidden": false,
       "score": 15.55,
-      "rank": 2057,
+      "rank": 2058,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -280217,7 +280308,7 @@
       },
       "hidden": false,
       "score": 15.55,
-      "rank": 2058,
+      "rank": 2059,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -280370,7 +280461,7 @@
       },
       "hidden": false,
       "score": 15.53,
-      "rank": 2059,
+      "rank": 2060,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -280533,7 +280624,7 @@
       },
       "hidden": true,
       "score": 20.29,
-      "rank": 2060,
+      "rank": 2061,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -280649,7 +280740,7 @@
       },
       "hidden": true,
       "score": 19.57,
-      "rank": 2061,
+      "rank": 2062,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -280765,7 +280856,7 @@
       },
       "hidden": true,
       "score": 19.57,
-      "rank": 2062,
+      "rank": 2063,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -280881,7 +280972,7 @@
       },
       "hidden": true,
       "score": 19.57,
-      "rank": 2063,
+      "rank": 2064,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -280998,7 +281089,7 @@
       },
       "hidden": true,
       "score": 19.49,
-      "rank": 2064,
+      "rank": 2065,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -281029,7 +281120,8 @@
       "cg": "t-design-long-sleeve-mesh-top",
       "shop_category": "",
       "img_checked": "2026-11-23",
-      "ai_fail": 2
+      "ai_fail": 3,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-washed-drop-shoulder-t-shirt",
@@ -281117,7 +281209,7 @@
       },
       "hidden": true,
       "score": 19.43,
-      "rank": 2065,
+      "rank": 2066,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -281145,7 +281237,8 @@
       "cg": "t-design-washed-drop-shoulder-t-shirt",
       "shop_category": "",
       "img_checked": "2026-11-23",
-      "ai_fail": 2
+      "ai_fail": 3,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-women-s-square-neck-sleeveless-top",
@@ -281232,7 +281325,7 @@
       },
       "hidden": true,
       "score": 19.43,
-      "rank": 2066,
+      "rank": 2067,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -281348,7 +281441,7 @@
       },
       "hidden": true,
       "score": 19.43,
-      "rank": 2067,
+      "rank": 2068,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -281466,7 +281559,7 @@
       },
       "hidden": true,
       "score": 19.35,
-      "rank": 2068,
+      "rank": 2069,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -281585,7 +281678,7 @@
       },
       "hidden": true,
       "score": 19.35,
-      "rank": 2069,
+      "rank": 2070,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -281704,7 +281797,7 @@
       },
       "hidden": true,
       "score": 19.35,
-      "rank": 2070,
+      "rank": 2071,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -281823,7 +281916,7 @@
       },
       "hidden": true,
       "score": 19.35,
-      "rank": 2071,
+      "rank": 2072,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -281940,7 +282033,7 @@
       },
       "hidden": true,
       "score": 19.35,
-      "rank": 2072,
+      "rank": 2073,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -282056,7 +282149,7 @@
       },
       "hidden": true,
       "score": 19.35,
-      "rank": 2073,
+      "rank": 2074,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -282172,7 +282265,7 @@
       },
       "hidden": true,
       "score": 19.35,
-      "rank": 2074,
+      "rank": 2075,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -282288,7 +282381,7 @@
       },
       "hidden": true,
       "score": 19.35,
-      "rank": 2075,
+      "rank": 2076,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -282401,7 +282494,7 @@
       },
       "hidden": true,
       "score": 19.34,
-      "rank": 2076,
+      "rank": 2077,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -282430,7 +282523,8 @@
       "cg": "t-design-all-over-print-cropped-shirt",
       "shop_category": "",
       "img_checked": "2026-11-23",
-      "ai_fail": 2
+      "ai_fail": 3,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-womens-crop-tank-top",
@@ -282508,7 +282602,7 @@
       },
       "hidden": true,
       "score": 19.33,
-      "rank": 2077,
+      "rank": 2078,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -282612,7 +282706,7 @@
       },
       "hidden": true,
       "score": 19.33,
-      "rank": 2078,
+      "rank": 2079,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -282716,7 +282810,7 @@
       },
       "hidden": true,
       "score": 19.33,
-      "rank": 2079,
+      "rank": 2080,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -282820,7 +282914,7 @@
       },
       "hidden": true,
       "score": 19.33,
-      "rank": 2080,
+      "rank": 2081,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -282924,7 +283018,7 @@
       },
       "hidden": true,
       "score": 19.33,
-      "rank": 2081,
+      "rank": 2082,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -283028,7 +283122,7 @@
       },
       "hidden": true,
       "score": 19.33,
-      "rank": 2082,
+      "rank": 2083,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -283132,7 +283226,7 @@
       },
       "hidden": true,
       "score": 19.33,
-      "rank": 2083,
+      "rank": 2084,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -283245,7 +283339,7 @@
       },
       "hidden": true,
       "score": 19.32,
-      "rank": 2084,
+      "rank": 2085,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -283361,7 +283455,7 @@
       },
       "hidden": true,
       "score": 19.32,
-      "rank": 2085,
+      "rank": 2086,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -283477,7 +283571,7 @@
       },
       "hidden": true,
       "score": 19.32,
-      "rank": 2086,
+      "rank": 2087,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -283593,7 +283687,7 @@
       },
       "hidden": true,
       "score": 19.31,
-      "rank": 2087,
+      "rank": 2088,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -283709,7 +283803,7 @@
       },
       "hidden": true,
       "score": 19.31,
-      "rank": 2088,
+      "rank": 2089,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -283825,7 +283919,7 @@
       },
       "hidden": true,
       "score": 19.31,
-      "rank": 2089,
+      "rank": 2090,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -283937,7 +284031,7 @@
       },
       "hidden": true,
       "score": 19.29,
-      "rank": 2090,
+      "rank": 2091,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -284047,7 +284141,7 @@
       },
       "hidden": true,
       "score": 19.29,
-      "rank": 2091,
+      "rank": 2092,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -284157,7 +284251,7 @@
       },
       "hidden": true,
       "score": 19.29,
-      "rank": 2092,
+      "rank": 2093,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -284267,7 +284361,7 @@
       },
       "hidden": true,
       "score": 19.29,
-      "rank": 2093,
+      "rank": 2094,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -284381,7 +284475,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2094,
+      "rank": 2095,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -284497,7 +284591,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2095,
+      "rank": 2096,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -284613,7 +284707,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2096,
+      "rank": 2097,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -284729,7 +284823,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2097,
+      "rank": 2098,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -284845,7 +284939,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2098,
+      "rank": 2099,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -284961,7 +285055,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2099,
+      "rank": 2100,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -285077,7 +285171,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2100,
+      "rank": 2101,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -285193,7 +285287,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2101,
+      "rank": 2102,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -285309,7 +285403,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2102,
+      "rank": 2103,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -285425,7 +285519,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2103,
+      "rank": 2104,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -285541,7 +285635,7 @@
       },
       "hidden": true,
       "score": 19.23,
-      "rank": 2104,
+      "rank": 2105,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -285644,7 +285738,7 @@
       },
       "hidden": true,
       "score": 19.22,
-      "rank": 2105,
+      "rank": 2106,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -285745,7 +285839,7 @@
       },
       "hidden": true,
       "score": 19.22,
-      "rank": 2106,
+      "rank": 2107,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -285846,7 +285940,7 @@
       },
       "hidden": true,
       "score": 19.22,
-      "rank": 2107,
+      "rank": 2108,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -285947,7 +286041,7 @@
       },
       "hidden": true,
       "score": 19.22,
-      "rank": 2108,
+      "rank": 2109,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -286063,7 +286157,7 @@
       },
       "hidden": true,
       "score": 19.22,
-      "rank": 2109,
+      "rank": 2110,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -286182,7 +286276,7 @@
       },
       "hidden": true,
       "score": 19.22,
-      "rank": 2110,
+      "rank": 2111,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -286301,7 +286395,7 @@
       },
       "hidden": true,
       "score": 19.22,
-      "rank": 2111,
+      "rank": 2112,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -286420,7 +286514,7 @@
       },
       "hidden": true,
       "score": 19.22,
-      "rank": 2112,
+      "rank": 2113,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -286537,7 +286631,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2113,
+      "rank": 2114,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -286653,7 +286747,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2114,
+      "rank": 2115,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -286769,7 +286863,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2115,
+      "rank": 2116,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -286877,7 +286971,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2116,
+      "rank": 2117,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -286908,7 +287002,8 @@
       "cg": "t-design-spaghetti-strap-tank-top",
       "shop_category": "",
       "img_checked": "2026-11-23",
-      "ai_fail": 2
+      "ai_fail": 3,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-8",
@@ -286987,7 +287082,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2117,
+      "rank": 2118,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -287018,7 +287113,8 @@
       "cg": "t-design-spaghetti-strap-tank-top",
       "shop_category": "",
       "img_checked": "2026-11-23",
-      "ai_fail": 2
+      "ai_fail": 3,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt",
@@ -287105,7 +287201,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2118,
+      "rank": 2119,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -287221,7 +287317,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2119,
+      "rank": 2120,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -287337,7 +287433,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2120,
+      "rank": 2121,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -287453,7 +287549,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2121,
+      "rank": 2122,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -287569,7 +287665,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2122,
+      "rank": 2123,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -287685,7 +287781,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2123,
+      "rank": 2124,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -287801,7 +287897,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2124,
+      "rank": 2125,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -287917,7 +288013,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2125,
+      "rank": 2126,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -288033,7 +288129,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2126,
+      "rank": 2127,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -288145,7 +288241,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2127,
+      "rank": 2128,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -288255,7 +288351,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2128,
+      "rank": 2129,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -288365,7 +288461,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2129,
+      "rank": 2130,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -288475,7 +288571,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2130,
+      "rank": 2131,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -288585,7 +288681,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2131,
+      "rank": 2132,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -288687,7 +288783,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2132,
+      "rank": 2133,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -288788,7 +288884,7 @@
       },
       "hidden": true,
       "score": 19.2,
-      "rank": 2133,
+      "rank": 2134,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -288898,7 +288994,7 @@
       },
       "hidden": true,
       "score": 19.18,
-      "rank": 2134,
+      "rank": 2135,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -289013,7 +289109,7 @@
       },
       "hidden": true,
       "score": 19.16,
-      "rank": 2135,
+      "rank": 2136,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -289132,7 +289228,7 @@
       },
       "hidden": true,
       "score": 19.16,
-      "rank": 2136,
+      "rank": 2137,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -289251,7 +289347,7 @@
       },
       "hidden": true,
       "score": 19.16,
-      "rank": 2137,
+      "rank": 2138,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -289370,7 +289466,7 @@
       },
       "hidden": true,
       "score": 19.16,
-      "rank": 2138,
+      "rank": 2139,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -289489,7 +289585,7 @@
       },
       "hidden": true,
       "score": 19.16,
-      "rank": 2139,
+      "rank": 2140,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -289608,7 +289704,7 @@
       },
       "hidden": true,
       "score": 19.16,
-      "rank": 2140,
+      "rank": 2141,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -289729,7 +289825,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2141,
+      "rank": 2142,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -289851,7 +289947,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2142,
+      "rank": 2143,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -289973,7 +290069,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2143,
+      "rank": 2144,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -290095,7 +290191,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2144,
+      "rank": 2145,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -290217,7 +290313,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2145,
+      "rank": 2146,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -290339,7 +290435,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2146,
+      "rank": 2147,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -290461,7 +290557,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2147,
+      "rank": 2148,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -290583,7 +290679,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2148,
+      "rank": 2149,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -290705,7 +290801,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2149,
+      "rank": 2150,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -290827,7 +290923,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2150,
+      "rank": 2151,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -290949,7 +291045,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2151,
+      "rank": 2152,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -291071,7 +291167,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2152,
+      "rank": 2153,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -291193,7 +291289,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2153,
+      "rank": 2154,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -291315,7 +291411,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2154,
+      "rank": 2155,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -291437,7 +291533,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2155,
+      "rank": 2156,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -291559,7 +291655,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2156,
+      "rank": 2157,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -291681,7 +291777,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2157,
+      "rank": 2158,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -291803,7 +291899,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2158,
+      "rank": 2159,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -291925,7 +292021,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2159,
+      "rank": 2160,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -292047,7 +292143,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2160,
+      "rank": 2161,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -292169,7 +292265,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2161,
+      "rank": 2162,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -292291,7 +292387,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2162,
+      "rank": 2163,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -292413,7 +292509,7 @@
       },
       "hidden": true,
       "score": 19.14,
-      "rank": 2163,
+      "rank": 2164,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -292511,7 +292607,7 @@
       },
       "hidden": true,
       "score": 19.13,
-      "rank": 2164,
+      "rank": 2165,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -292596,7 +292692,7 @@
       },
       "hidden": true,
       "score": 19.13,
-      "rank": 2165,
+      "rank": 2166,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -292692,7 +292788,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2166,
+      "rank": 2167,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -292799,7 +292895,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2167,
+      "rank": 2168,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -292906,7 +293002,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2168,
+      "rank": 2169,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -293013,7 +293109,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2169,
+      "rank": 2170,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -293120,7 +293216,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2170,
+      "rank": 2171,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -293227,7 +293323,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2171,
+      "rank": 2172,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -293334,7 +293430,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2172,
+      "rank": 2173,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -293441,7 +293537,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2173,
+      "rank": 2174,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -293548,7 +293644,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2174,
+      "rank": 2175,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -293655,7 +293751,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2175,
+      "rank": 2176,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -293771,7 +293867,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2176,
+      "rank": 2177,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -293887,7 +293983,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2177,
+      "rank": 2178,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -294003,7 +294099,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2178,
+      "rank": 2179,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -294119,7 +294215,7 @@
       },
       "hidden": true,
       "score": 19.12,
-      "rank": 2179,
+      "rank": 2180,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -294242,7 +294338,7 @@
       },
       "hidden": true,
       "score": 19.11,
-      "rank": 2180,
+      "rank": 2181,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -294363,7 +294459,7 @@
       },
       "hidden": true,
       "score": 19.11,
-      "rank": 2181,
+      "rank": 2182,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -294476,7 +294572,7 @@
       },
       "hidden": true,
       "score": 19.11,
-      "rank": 2182,
+      "rank": 2183,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -294589,7 +294685,7 @@
       },
       "hidden": true,
       "score": 19.11,
-      "rank": 2183,
+      "rank": 2184,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -294713,7 +294809,7 @@
       },
       "hidden": true,
       "score": 19.11,
-      "rank": 2184,
+      "rank": 2185,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -294841,7 +294937,7 @@
       },
       "hidden": true,
       "score": 19.11,
-      "rank": 2185,
+      "rank": 2186,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -294969,7 +295065,7 @@
       },
       "hidden": true,
       "score": 19.11,
-      "rank": 2186,
+      "rank": 2187,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -295097,7 +295193,7 @@
       },
       "hidden": true,
       "score": 19.11,
-      "rank": 2187,
+      "rank": 2188,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -295225,7 +295321,7 @@
       },
       "hidden": true,
       "score": 19.11,
-      "rank": 2188,
+      "rank": 2189,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -295340,7 +295436,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2189,
+      "rank": 2190,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -295442,7 +295538,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2190,
+      "rank": 2191,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -295543,7 +295639,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2191,
+      "rank": 2192,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -295644,7 +295740,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2192,
+      "rank": 2193,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -295745,7 +295841,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2193,
+      "rank": 2194,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -295846,7 +295942,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2194,
+      "rank": 2195,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -295947,7 +296043,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2195,
+      "rank": 2196,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -296048,7 +296144,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2196,
+      "rank": 2197,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -296149,7 +296245,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2197,
+      "rank": 2198,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -296250,7 +296346,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2198,
+      "rank": 2199,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -296351,7 +296447,7 @@
       },
       "hidden": true,
       "score": 19.1,
-      "rank": 2199,
+      "rank": 2200,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -296456,7 +296552,7 @@
       },
       "hidden": true,
       "score": 19.06,
-      "rank": 2200,
+      "rank": 2201,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -296563,7 +296659,7 @@
       },
       "hidden": true,
       "score": 19.06,
-      "rank": 2201,
+      "rank": 2202,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -296670,7 +296766,7 @@
       },
       "hidden": true,
       "score": 19.06,
-      "rank": 2202,
+      "rank": 2203,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -296777,7 +296873,7 @@
       },
       "hidden": true,
       "score": 19.06,
-      "rank": 2203,
+      "rank": 2204,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -296890,7 +296986,7 @@
       },
       "hidden": true,
       "score": 19.04,
-      "rank": 2204,
+      "rank": 2205,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -297003,7 +297099,7 @@
       },
       "hidden": true,
       "score": 19.04,
-      "rank": 2205,
+      "rank": 2206,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -297116,7 +297212,7 @@
       },
       "hidden": true,
       "score": 19.04,
-      "rank": 2206,
+      "rank": 2207,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -297229,7 +297325,7 @@
       },
       "hidden": true,
       "score": 19.04,
-      "rank": 2207,
+      "rank": 2208,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -297342,7 +297438,7 @@
       },
       "hidden": true,
       "score": 19.04,
-      "rank": 2208,
+      "rank": 2209,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -297460,7 +297556,7 @@
       },
       "hidden": true,
       "score": 19.04,
-      "rank": 2209,
+      "rank": 2210,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -297576,7 +297672,7 @@
       },
       "hidden": true,
       "score": 19.04,
-      "rank": 2210,
+      "rank": 2211,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -297692,7 +297788,7 @@
       },
       "hidden": true,
       "score": 19.04,
-      "rank": 2211,
+      "rank": 2212,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -297797,7 +297893,7 @@
       },
       "hidden": true,
       "score": 19.04,
-      "rank": 2212,
+      "rank": 2213,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -297904,7 +298000,7 @@
       },
       "hidden": true,
       "score": 19.04,
-      "rank": 2213,
+      "rank": 2214,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -298024,7 +298120,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2214,
+      "rank": 2215,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -298146,7 +298242,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2215,
+      "rank": 2216,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -298268,7 +298364,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2216,
+      "rank": 2217,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -298388,7 +298484,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2217,
+      "rank": 2218,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -298505,7 +298601,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2218,
+      "rank": 2219,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -298621,7 +298717,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2219,
+      "rank": 2220,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -298737,7 +298833,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2220,
+      "rank": 2221,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -298853,7 +298949,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2221,
+      "rank": 2222,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -298969,7 +299065,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2222,
+      "rank": 2223,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -299085,7 +299181,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2223,
+      "rank": 2224,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -299203,7 +299299,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2224,
+      "rank": 2225,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -299322,7 +299418,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2225,
+      "rank": 2226,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -299441,7 +299537,7 @@
       },
       "hidden": true,
       "score": 19.03,
-      "rank": 2226,
+      "rank": 2227,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -299541,7 +299637,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2227,
+      "rank": 2228,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -299637,7 +299733,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2228,
+      "rank": 2229,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -299744,7 +299840,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2229,
+      "rank": 2230,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -299851,7 +299947,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2230,
+      "rank": 2231,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -299958,7 +300054,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2231,
+      "rank": 2232,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -300065,7 +300161,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2232,
+      "rank": 2233,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -300172,7 +300268,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2233,
+      "rank": 2234,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -300279,7 +300375,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2234,
+      "rank": 2235,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -300386,7 +300482,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2235,
+      "rank": 2236,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -300489,7 +300585,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2236,
+      "rank": 2237,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -300590,7 +300686,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2237,
+      "rank": 2238,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -300691,7 +300787,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2238,
+      "rank": 2239,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -300792,7 +300888,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2239,
+      "rank": 2240,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -300893,7 +300989,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2240,
+      "rank": 2241,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -300994,7 +301090,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2241,
+      "rank": 2242,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -301095,7 +301191,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2242,
+      "rank": 2243,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -301196,7 +301292,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2243,
+      "rank": 2244,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -301297,7 +301393,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2244,
+      "rank": 2245,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -301398,7 +301494,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2245,
+      "rank": 2246,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -301499,7 +301595,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2246,
+      "rank": 2247,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -301600,7 +301696,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2247,
+      "rank": 2248,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -301701,7 +301797,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2248,
+      "rank": 2249,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -301802,7 +301898,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2249,
+      "rank": 2250,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -301903,7 +301999,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2250,
+      "rank": 2251,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -302004,7 +302100,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2251,
+      "rank": 2252,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -302105,7 +302201,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2252,
+      "rank": 2253,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -302219,7 +302315,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2253,
+      "rank": 2254,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -302335,7 +302431,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2254,
+      "rank": 2255,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -302451,7 +302547,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2255,
+      "rank": 2256,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -302576,7 +302672,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2256,
+      "rank": 2257,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -302701,7 +302797,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2257,
+      "rank": 2258,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -302814,7 +302910,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2258,
+      "rank": 2259,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -302926,7 +303022,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2259,
+      "rank": 2260,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -303038,7 +303134,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2260,
+      "rank": 2261,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -303150,7 +303246,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2261,
+      "rank": 2262,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -303262,7 +303358,7 @@
       },
       "hidden": true,
       "score": 19.01,
-      "rank": 2262,
+      "rank": 2263,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -303371,7 +303467,7 @@
       },
       "hidden": true,
       "score": 19.0,
-      "rank": 2263,
+      "rank": 2264,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -303481,7 +303577,7 @@
       },
       "hidden": true,
       "score": 19.0,
-      "rank": 2264,
+      "rank": 2265,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -303591,7 +303687,7 @@
       },
       "hidden": true,
       "score": 19.0,
-      "rank": 2265,
+      "rank": 2266,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -303701,7 +303797,7 @@
       },
       "hidden": true,
       "score": 19.0,
-      "rank": 2266,
+      "rank": 2267,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -303811,7 +303907,7 @@
       },
       "hidden": true,
       "score": 19.0,
-      "rank": 2267,
+      "rank": 2268,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -303946,7 +304042,7 @@
       },
       "hidden": true,
       "score": 18.98,
-      "rank": 2268,
+      "rank": 2269,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -304082,7 +304178,7 @@
       },
       "hidden": true,
       "score": 18.98,
-      "rank": 2269,
+      "rank": 2270,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -304218,7 +304314,7 @@
       },
       "hidden": true,
       "score": 18.98,
-      "rank": 2270,
+      "rank": 2271,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -304354,7 +304450,7 @@
       },
       "hidden": true,
       "score": 18.98,
-      "rank": 2271,
+      "rank": 2272,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -304490,7 +304586,7 @@
       },
       "hidden": true,
       "score": 18.98,
-      "rank": 2272,
+      "rank": 2273,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -304626,7 +304722,7 @@
       },
       "hidden": true,
       "score": 18.98,
-      "rank": 2273,
+      "rank": 2274,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -304740,7 +304836,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2274,
+      "rank": 2275,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -304850,7 +304946,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2275,
+      "rank": 2276,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -304960,7 +305056,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2276,
+      "rank": 2277,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -305070,7 +305166,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2277,
+      "rank": 2278,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -305180,7 +305276,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2278,
+      "rank": 2279,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -305290,7 +305386,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2279,
+      "rank": 2280,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -305400,7 +305496,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2280,
+      "rank": 2281,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -305510,7 +305606,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2281,
+      "rank": 2282,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -305620,7 +305716,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2282,
+      "rank": 2283,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -305729,7 +305825,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2283,
+      "rank": 2284,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -305839,7 +305935,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2284,
+      "rank": 2285,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -305949,7 +306045,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2285,
+      "rank": 2286,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -306059,7 +306155,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2286,
+      "rank": 2287,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -306169,7 +306265,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2287,
+      "rank": 2288,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -306279,7 +306375,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2288,
+      "rank": 2289,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -306389,7 +306485,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2289,
+      "rank": 2290,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -306499,7 +306595,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2290,
+      "rank": 2291,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -306609,7 +306705,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2291,
+      "rank": 2292,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -306719,7 +306815,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2292,
+      "rank": 2293,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -306829,7 +306925,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2293,
+      "rank": 2294,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -306939,7 +307035,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2294,
+      "rank": 2295,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -307049,7 +307145,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2295,
+      "rank": 2296,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -307159,7 +307255,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2296,
+      "rank": 2297,
       "badge": "new",
       "look": [
         "printful-379237645",
@@ -307263,7 +307359,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2297,
+      "rank": 2298,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -307367,7 +307463,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2298,
+      "rank": 2299,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -307471,7 +307567,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2299,
+      "rank": 2300,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -307575,7 +307671,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2300,
+      "rank": 2301,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -307679,7 +307775,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2301,
+      "rank": 2302,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -307783,7 +307879,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2302,
+      "rank": 2303,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -307887,7 +307983,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2303,
+      "rank": 2304,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -307991,7 +308087,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2304,
+      "rank": 2305,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -308095,7 +308191,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2305,
+      "rank": 2306,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -308199,7 +308295,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2306,
+      "rank": 2307,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -308303,7 +308399,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2307,
+      "rank": 2308,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -308407,7 +308503,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2308,
+      "rank": 2309,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -308518,7 +308614,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2309,
+      "rank": 2310,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -308631,7 +308727,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2310,
+      "rank": 2311,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -308744,7 +308840,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2311,
+      "rank": 2312,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -308857,7 +308953,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2312,
+      "rank": 2313,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -308970,7 +309066,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2313,
+      "rank": 2314,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -309083,7 +309179,7 @@
       },
       "hidden": true,
       "score": 18.95,
-      "rank": 2314,
+      "rank": 2315,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -309195,7 +309291,7 @@
       },
       "hidden": true,
       "score": 18.94,
-      "rank": 2315,
+      "rank": 2316,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -309305,7 +309401,7 @@
       },
       "hidden": true,
       "score": 18.94,
-      "rank": 2316,
+      "rank": 2317,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -309428,7 +309524,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2317,
+      "rank": 2318,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -309553,7 +309649,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2318,
+      "rank": 2319,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -309678,7 +309774,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2319,
+      "rank": 2320,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -309781,7 +309877,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2320,
+      "rank": 2321,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -309882,7 +309978,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2321,
+      "rank": 2322,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -309983,7 +310079,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2322,
+      "rank": 2323,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -310084,7 +310180,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2323,
+      "rank": 2324,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -310185,7 +310281,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2324,
+      "rank": 2325,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -310286,7 +310382,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2325,
+      "rank": 2326,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -310387,7 +310483,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2326,
+      "rank": 2327,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -310488,7 +310584,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2327,
+      "rank": 2328,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -310589,7 +310685,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2328,
+      "rank": 2329,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -310690,7 +310786,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2329,
+      "rank": 2330,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -310791,7 +310887,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2330,
+      "rank": 2331,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -310892,7 +310988,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2331,
+      "rank": 2332,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -310993,7 +311089,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2332,
+      "rank": 2333,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -311094,7 +311190,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2333,
+      "rank": 2334,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -311195,7 +311291,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2334,
+      "rank": 2335,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -311296,7 +311392,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2335,
+      "rank": 2336,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -311397,7 +311493,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2336,
+      "rank": 2337,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -311498,7 +311594,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2337,
+      "rank": 2338,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -311599,7 +311695,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2338,
+      "rank": 2339,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -311700,7 +311796,7 @@
       },
       "hidden": true,
       "score": 18.93,
-      "rank": 2339,
+      "rank": 2340,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -311804,7 +311900,7 @@
       },
       "hidden": true,
       "score": 18.9,
-      "rank": 2340,
+      "rank": 2341,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -311904,7 +312000,7 @@
       },
       "hidden": true,
       "score": 18.9,
-      "rank": 2341,
+      "rank": 2342,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -312004,7 +312100,7 @@
       },
       "hidden": true,
       "score": 18.9,
-      "rank": 2342,
+      "rank": 2343,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -312105,7 +312201,7 @@
       },
       "hidden": true,
       "score": 18.9,
-      "rank": 2343,
+      "rank": 2344,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -312212,7 +312308,7 @@
       },
       "hidden": true,
       "score": 18.9,
-      "rank": 2344,
+      "rank": 2345,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -312319,7 +312415,7 @@
       },
       "hidden": true,
       "score": 18.9,
-      "rank": 2345,
+      "rank": 2346,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -312426,7 +312522,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2346,
+      "rank": 2347,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -312533,7 +312629,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2347,
+      "rank": 2348,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -312640,7 +312736,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2348,
+      "rank": 2349,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -312747,7 +312843,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2349,
+      "rank": 2350,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -312854,7 +312950,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2350,
+      "rank": 2351,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -312961,7 +313057,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2351,
+      "rank": 2352,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -313068,7 +313164,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2352,
+      "rank": 2353,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -313175,7 +313271,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2353,
+      "rank": 2354,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -313282,7 +313378,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2354,
+      "rank": 2355,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -313389,7 +313485,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2355,
+      "rank": 2356,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -313496,7 +313592,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2356,
+      "rank": 2357,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -313603,7 +313699,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2357,
+      "rank": 2358,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -313710,7 +313806,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2358,
+      "rank": 2359,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -313817,7 +313913,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2359,
+      "rank": 2360,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -313924,7 +314020,7 @@
       },
       "hidden": true,
       "score": 18.89,
-      "rank": 2360,
+      "rank": 2361,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -314042,7 +314138,7 @@
       },
       "hidden": true,
       "score": 18.86,
-      "rank": 2361,
+      "rank": 2362,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -314161,7 +314257,7 @@
       },
       "hidden": true,
       "score": 18.86,
-      "rank": 2362,
+      "rank": 2363,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -314280,7 +314376,7 @@
       },
       "hidden": true,
       "score": 18.86,
-      "rank": 2363,
+      "rank": 2364,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -314399,7 +314495,7 @@
       },
       "hidden": true,
       "score": 18.86,
-      "rank": 2364,
+      "rank": 2365,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -314518,7 +314614,7 @@
       },
       "hidden": true,
       "score": 18.86,
-      "rank": 2365,
+      "rank": 2366,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -314637,7 +314733,7 @@
       },
       "hidden": true,
       "score": 18.86,
-      "rank": 2366,
+      "rank": 2367,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -314756,7 +314852,7 @@
       },
       "hidden": true,
       "score": 18.86,
-      "rank": 2367,
+      "rank": 2368,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -314869,7 +314965,7 @@
       },
       "hidden": true,
       "score": 18.83,
-      "rank": 2368,
+      "rank": 2369,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -314979,7 +315075,7 @@
       },
       "hidden": true,
       "score": 18.83,
-      "rank": 2369,
+      "rank": 2370,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -315089,7 +315185,7 @@
       },
       "hidden": true,
       "score": 18.83,
-      "rank": 2370,
+      "rank": 2371,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -315199,7 +315295,7 @@
       },
       "hidden": true,
       "score": 18.83,
-      "rank": 2371,
+      "rank": 2372,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -315309,7 +315405,7 @@
       },
       "hidden": true,
       "score": 18.83,
-      "rank": 2372,
+      "rank": 2373,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -315419,7 +315515,7 @@
       },
       "hidden": true,
       "score": 18.83,
-      "rank": 2373,
+      "rank": 2374,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -315529,7 +315625,7 @@
       },
       "hidden": true,
       "score": 18.83,
-      "rank": 2374,
+      "rank": 2375,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -315639,7 +315735,7 @@
       },
       "hidden": true,
       "score": 18.83,
-      "rank": 2375,
+      "rank": 2376,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -315749,7 +315845,7 @@
       },
       "hidden": true,
       "score": 18.83,
-      "rank": 2376,
+      "rank": 2377,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -315859,7 +315955,7 @@
       },
       "hidden": true,
       "score": 18.83,
-      "rank": 2377,
+      "rank": 2378,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -315979,7 +316075,7 @@
       },
       "hidden": true,
       "score": 18.75,
-      "rank": 2378,
+      "rank": 2379,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -316104,7 +316200,7 @@
       },
       "hidden": true,
       "score": 18.75,
-      "rank": 2379,
+      "rank": 2380,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -316229,7 +316325,7 @@
       },
       "hidden": true,
       "score": 18.75,
-      "rank": 2380,
+      "rank": 2381,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -316354,7 +316450,7 @@
       },
       "hidden": true,
       "score": 18.75,
-      "rank": 2381,
+      "rank": 2382,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -316478,7 +316574,7 @@
       },
       "hidden": true,
       "score": 18.75,
-      "rank": 2382,
+      "rank": 2383,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -316600,7 +316696,7 @@
       },
       "hidden": true,
       "score": 18.75,
-      "rank": 2383,
+      "rank": 2384,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -316708,7 +316804,7 @@
       },
       "hidden": true,
       "score": 18.72,
-      "rank": 2384,
+      "rank": 2385,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -316815,7 +316911,7 @@
       },
       "hidden": true,
       "score": 18.72,
-      "rank": 2385,
+      "rank": 2386,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -316922,7 +317018,7 @@
       },
       "hidden": true,
       "score": 18.72,
-      "rank": 2386,
+      "rank": 2387,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -317029,7 +317125,7 @@
       },
       "hidden": true,
       "score": 18.72,
-      "rank": 2387,
+      "rank": 2388,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -317136,7 +317232,7 @@
       },
       "hidden": true,
       "score": 18.72,
-      "rank": 2388,
+      "rank": 2389,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -317243,7 +317339,7 @@
       },
       "hidden": true,
       "score": 18.72,
-      "rank": 2389,
+      "rank": 2390,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -317350,7 +317446,7 @@
       },
       "hidden": true,
       "score": 18.72,
-      "rank": 2390,
+      "rank": 2391,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -317461,7 +317557,7 @@
       },
       "hidden": true,
       "score": 18.69,
-      "rank": 2391,
+      "rank": 2392,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -317571,7 +317667,7 @@
       },
       "hidden": true,
       "score": 18.69,
-      "rank": 2392,
+      "rank": 2393,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -317681,7 +317777,7 @@
       },
       "hidden": true,
       "score": 18.69,
-      "rank": 2393,
+      "rank": 2394,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -317790,7 +317886,7 @@
       },
       "hidden": true,
       "score": 18.65,
-      "rank": 2394,
+      "rank": 2395,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -317904,7 +318000,7 @@
       },
       "hidden": true,
       "score": 18.65,
-      "rank": 2395,
+      "rank": 2396,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -318039,7 +318135,7 @@
       },
       "hidden": true,
       "score": 18.64,
-      "rank": 2396,
+      "rank": 2397,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -318185,7 +318281,7 @@
       },
       "hidden": true,
       "score": 18.64,
-      "rank": 2397,
+      "rank": 2398,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -318313,7 +318409,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2398,
+      "rank": 2399,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -318432,7 +318528,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2399,
+      "rank": 2400,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -318551,7 +318647,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2400,
+      "rank": 2401,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -318670,7 +318766,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2401,
+      "rank": 2402,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -318789,7 +318885,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2402,
+      "rank": 2403,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -318908,7 +319004,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2403,
+      "rank": 2404,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -319027,7 +319123,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2404,
+      "rank": 2405,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -319146,7 +319242,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2405,
+      "rank": 2406,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -319265,7 +319361,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2406,
+      "rank": 2407,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -319384,7 +319480,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2407,
+      "rank": 2408,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -319503,7 +319599,7 @@
       },
       "hidden": true,
       "score": 18.62,
-      "rank": 2408,
+      "rank": 2409,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -319614,7 +319710,7 @@
       },
       "hidden": true,
       "score": 18.6,
-      "rank": 2409,
+      "rank": 2410,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -319721,7 +319817,7 @@
       },
       "hidden": true,
       "score": 18.6,
-      "rank": 2410,
+      "rank": 2411,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -319828,7 +319924,7 @@
       },
       "hidden": true,
       "score": 18.6,
-      "rank": 2411,
+      "rank": 2412,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -319935,7 +320031,7 @@
       },
       "hidden": true,
       "score": 18.6,
-      "rank": 2412,
+      "rank": 2413,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -320042,7 +320138,7 @@
       },
       "hidden": true,
       "score": 18.6,
-      "rank": 2413,
+      "rank": 2414,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -320166,7 +320262,7 @@
       },
       "hidden": true,
       "score": 18.59,
-      "rank": 2414,
+      "rank": 2415,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -320290,7 +320386,7 @@
       },
       "hidden": true,
       "score": 18.59,
-      "rank": 2415,
+      "rank": 2416,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -320414,7 +320510,7 @@
       },
       "hidden": true,
       "score": 18.59,
-      "rank": 2416,
+      "rank": 2417,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -320545,7 +320641,7 @@
       },
       "hidden": true,
       "score": 18.59,
-      "rank": 2417,
+      "rank": 2418,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -320688,7 +320784,7 @@
       },
       "hidden": true,
       "score": 18.59,
-      "rank": 2418,
+      "rank": 2419,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -320818,7 +320914,7 @@
       },
       "hidden": true,
       "score": 18.56,
-      "rank": 2419,
+      "rank": 2420,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -320940,7 +321036,7 @@
       },
       "hidden": true,
       "score": 18.56,
-      "rank": 2420,
+      "rank": 2421,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -321062,7 +321158,7 @@
       },
       "hidden": true,
       "score": 18.56,
-      "rank": 2421,
+      "rank": 2422,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -321184,7 +321280,7 @@
       },
       "hidden": true,
       "score": 18.56,
-      "rank": 2422,
+      "rank": 2423,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -321306,7 +321402,7 @@
       },
       "hidden": true,
       "score": 18.56,
-      "rank": 2423,
+      "rank": 2424,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -321428,7 +321524,7 @@
       },
       "hidden": true,
       "score": 18.56,
-      "rank": 2424,
+      "rank": 2425,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -321550,7 +321646,7 @@
       },
       "hidden": true,
       "score": 18.56,
-      "rank": 2425,
+      "rank": 2426,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -321672,7 +321768,7 @@
       },
       "hidden": true,
       "score": 18.56,
-      "rank": 2426,
+      "rank": 2427,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -321794,7 +321890,7 @@
       },
       "hidden": true,
       "score": 18.56,
-      "rank": 2427,
+      "rank": 2428,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -321910,7 +322006,7 @@
       },
       "hidden": true,
       "score": 18.55,
-      "rank": 2428,
+      "rank": 2429,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -322023,7 +322119,7 @@
       },
       "hidden": true,
       "score": 18.55,
-      "rank": 2429,
+      "rank": 2430,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -322136,7 +322232,7 @@
       },
       "hidden": true,
       "score": 18.55,
-      "rank": 2430,
+      "rank": 2431,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -322239,7 +322335,7 @@
       },
       "hidden": true,
       "score": 18.53,
-      "rank": 2431,
+      "rank": 2432,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -322353,7 +322449,7 @@
       },
       "hidden": true,
       "score": 18.51,
-      "rank": 2432,
+      "rank": 2433,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -322478,7 +322574,7 @@
       },
       "hidden": true,
       "score": 18.51,
-      "rank": 2433,
+      "rank": 2434,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -322603,7 +322699,7 @@
       },
       "hidden": true,
       "score": 18.51,
-      "rank": 2434,
+      "rank": 2435,
       "badge": "new",
       "look": [
         "printful-351492575-black",
@@ -322716,7 +322812,7 @@
       },
       "hidden": true,
       "score": 18.5,
-      "rank": 2435,
+      "rank": 2436,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -322826,7 +322922,7 @@
       },
       "hidden": true,
       "score": 18.5,
-      "rank": 2436,
+      "rank": 2437,
       "badge": "new",
       "look": [
         "printful-365090873",
@@ -322934,7 +323030,7 @@
       },
       "hidden": true,
       "score": 18.5,
-      "rank": 2437,
+      "rank": 2438,
       "badge": "new",
       "look": [
         "printful-382149130"
@@ -322951,97 +323047,6 @@
       "stripe_site": "https://dazmond.com",
       "cg": "t-reloj-calado-daz-luxury-para-hombre",
       "shop_category": "Ropa y accesorios > Joyería > Relojes de pulsera y de bolsillo"
-    },
-    {
-      "id": "printify-6682f7eaabc218c5680b99db",
-      "supplier": "Printify",
-      "supplier_id": "6682f7eaabc218c5680b99db",
-      "source_title": "Calcetines DAZ de longitud media",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "cost_usd": 18.77,
-      "sizes": [
-        "One size"
-      ],
-      "needs_review": true,
-      "created": "2026-11-19",
-      "material": "",
-      "color": "",
-      "raw_images": [
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28958/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-right",
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26887/calcetines-daz-de-longitud-media.jpg?camera_label=flat-right-side",
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26888/calcetines-daz-de-longitud-media.jpg?camera_label=flat-left-side"
-      ],
-      "variant_map": {
-        "One size": 77921
-      },
-      "skus": [
-        "30762661461999455547"
-      ],
-      "draft": false,
-      "supplier_product_id": "6682f7eaabc218c5680b99db",
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null,
-      "source_text": "Calcetines DAZ de longitud media    Dise&ntilde;ados para agregar un poco de car&aacute;cter que une un conjunto, estos calcetines personalizados pueden acomodar fotos, obras de arte, patrones creativos y m&aacute;s, con detalles impecables. Confeccionado 100% con poli&eacute;ster suave para mayor comodidad que dura todo el d&iacute;a.   \n &nbsp; \n  .: Talla &uacute;nica (16,5\" &times; 3,2\") (41,9 &times; 8,13 cm)  \n  .: 100% poli&eacute;ster  \n  .: Tacones y punteras negros  \n  .: Modelo - calcetines altos  \n  .: El mismo dise&ntilde;o estampado en ambos calcetines  \n    Este producto est&aacute; hecho especialmente para ust",
-      "name_es": "Pieza Calcetines Daz Longitud",
-      "name_en": "Calcetines Daz Longitud Piece",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
-      "price_usd": 48.99,
-      "margin_pct": 46.4,
-      "images_original": [
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28958/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-right",
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26887/calcetines-daz-de-longitud-media.jpg?camera_label=flat-right-side",
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26888/calcetines-daz-de-longitud-media.jpg?camera_label=flat-left-side"
-      ],
-      "images_model": [],
-      "visual_verified": false,
-      "display_images": [
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28958/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-right",
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26887/calcetines-daz-de-longitud-media.jpg?camera_label=flat-right-side",
-        "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/26888/calcetines-daz-de-longitud-media.jpg?camera_label=flat-left-side"
-      ],
-      "available": false,
-      "price_history": {
-        "2026-11-19": 54.99,
-        "2026-11-20": 54.99,
-        "2026-11-21": 54.99,
-        "2026-11-22": 48.99,
-        "2026-11-23": 48.99,
-        "2026-11-24": 48.99
-      },
-      "hidden": true,
-      "score": 18.14,
-      "rank": 2438,
-      "badge": "new",
-      "look": [
-        "printful-365090873",
-        "printful-351492575-black",
-        "printful-361906822",
-        "printful-345759651"
-      ],
-      "page": false,
-      "shipping_usd": 4.99,
-      "shipping_worst_usd": 24.49,
-      "fam": "calcetines-longitud-media",
-      "stripe_product_id": "prod_VfCmrvkKdCEPo0",
-      "size_values": {
-        "Onesize": "One size"
-      },
-      "stripe_payment_link": "https://buy.stripe.com/4gMcN62MQ3ak9eC5em1gU45",
-      "stripe_link_id": "plink_1UevDlLJVU4oTPuXuRuGf2Za",
-      "stripe_price_cents": 4899,
-      "stripe_site": "https://dazmond.com",
-      "cg": "printify-6682f7eaabc218c5680b99db",
-      "shop_category": "",
-      "img_checked": "2026-11-23",
-      "ai_fail": 3,
-      "ai_done": true
     }
   ]
 }

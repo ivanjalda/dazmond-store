@@ -1,17 +1,17 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-24 13:42 UTC",
+  "updated": "2026-11-24 14:42 UTC",
   "totals": {
     "catalogo": 2438,
-    "a_la_vista": 2056,
-    "disenos_a_la_vista": 842,
-    "ocultos": 382,
-    "ia_revisados": 937,
-    "ia_pendientes": 1500,
-    "con_boton_de_pago": 2056,
+    "a_la_vista": 2057,
+    "disenos_a_la_vista": 843,
+    "ocultos": 381,
+    "ia_revisados": 942,
+    "ia_pendientes": 1495,
+    "con_boton_de_pago": 2057,
     "sin_boton_de_pago": 0,
-    "seccion_dudosa": 10,
+    "seccion_dudosa": 11,
     "ventas_30_dias": 0,
     "visitas_30_dias": 2013,
     "fotos_de_campana": 0
@@ -19,8 +19,8 @@
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 377,
-    "Oculto": 1
+    "Borrador": 372,
+    "Oculto": 5
   },
   "suppliers": {
     "Printful": {
@@ -28,8 +28,8 @@
       "ocultos": 0
     },
     "Printify": {
-      "visibles": 86,
-      "ocultos": 1
+      "visibles": 87,
+      "ocultos": 0
     },
     "Shopify": {
       "visibles": 1112,
@@ -540,6 +540,14 @@
       "pr": 23.99
     },
     {
+      "id": "printify-6682f7eaabc218c5680b99db",
+      "n": "Pieza Calcetines Daz Longitud",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
+      "c": "hombre/camiseta",
+      "pr": 48.99
+    },
+    {
       "id": "printify-667ff286278e297032061cca",
       "n": "Edredón DAZ Negro",
       "s": "Printify",
@@ -619,7 +627,7 @@
       "img": "assets/products/shop/c6464bfc750b1c1a2b99.jpg",
       "c": "hombre/camiseta",
       "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
+      "why": "Oculto"
     },
     {
       "id": "interestprint-design-washed-drop-shoulder-t-shirt",
@@ -628,7 +636,7 @@
       "img": "assets/products/shop/c417a305e784a808945f.jpg",
       "c": "hombre/camiseta",
       "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
+      "why": "Oculto"
     },
     {
       "id": "interestprint-design-women-s-square-neck-sleeveless-top",
@@ -727,7 +735,7 @@
       "img": "assets/products/shop/1a94d4a23040519ff307.jpg",
       "c": "hombre/camiseta",
       "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
+      "why": "Oculto"
     },
     {
       "id": "interestprint-design-womens-crop-tank-top",
@@ -1087,7 +1095,7 @@
       "img": "assets/products/shop/0e8de4f9b767771d3c1d.jpg",
       "c": "hombre/camiseta",
       "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
+      "why": "Oculto"
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-8",
@@ -1096,7 +1104,7 @@
       "img": "assets/products/shop/641bfe79a6806c8076e2.jpg",
       "c": "hombre/camiseta",
       "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
+      "why": "Oculto"
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt",
@@ -3977,15 +3985,6 @@
       "c": "decor",
       "pr": 68.99,
       "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "printify-6682f7eaabc218c5680b99db",
-      "n": "Pieza Calcetines Daz Longitud",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
-      "c": "hombre/camiseta",
-      "pr": 48.99,
-      "why": "Oculto"
     }
   ],
   "log": [
@@ -3996,20 +3995,30 @@
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
     "⏱ lectura de proveedores: 14 s",
-    "Productos en catálogo: 2438 · a la vista: 2059 · archivados: 1",
+    "Productos en catálogo: 2438 · a la vista: 2060 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 1996 piezas",
-    "⏱ ventas, visitas y cupones: 3 s",
+    "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con shopify-zapatos-de-skate-sin-cordones-daz-luxury-1: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
-    "IA: fallo con printify-6682f7eaabc218c5680b99db: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-long-sleeve-mesh-top: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con interestprint-design-washed-drop-shoulder-t-shirt: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
+    "IA: fallo con interestprint-design-all-over-print-cropped-shirt: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-spaghetti-strap-tank-top-7: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-spaghetti-strap-tank-top-8: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-lite-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details.)",
-    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1727",
-    "⏱ revisión con IA: 52 s",
+    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1725",
+    "⏱ revisión con IA: 169 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
-    "⏱ enlaces de pago: 0 s",
+    "Stripe: enlace normal listo para printify-66d98379266c81aff6086146",
+    "Stripe: enlace normal listo para printify-66d98827f02b0468c20aa681",
+    "Stripe: enlace normal listo para printify-66d98513fad994a9d30e5aee",
+    "Stripe: enlace normal listo para printify-66d9866ac830a5938703f549",
+    "Stripe: enlace normal listo para printify-66d989c3667a2133250ca6dc",
+    "Stripe: enlace normal listo para printify-66d98c33d084380d6503ad80",
+    "Stripe: 6 productos con enlace de pago nuevo en esta hora",
+    "⏱ enlaces de pago: 3 s",
     "Cambio actualizado: 1 USD = 0.9142 EUR",
     "Listo."
   ]
