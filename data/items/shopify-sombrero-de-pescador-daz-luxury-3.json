@@ -20,7 +20,7 @@
   "mujer/gorros-bufandas"
  ],
  "cg": "t-sombrero-de-pescador-daz-luxury",
- "color": "",
+ "color": "Green",
  "created": "2026-11-19",
  "desc_en": "Elevate your daily wardrobe with this bucket hat crafted from polyester twill. Its structured design offers a defined silhouette that complements any urban or leisure look. Lightweight and functional, it is a versatile piece for everyday wear. Each creation is crafted especially for you on demand, ensuring exclusivity and a conscious approach to contemporary fashion. Available with worldwide shipping.",
  "desc_es": "Eleva tu guardarropa diario con este sombrero de pescador confeccionado en sarga de poliéster. Su diseño estructurado ofrece una silueta definida que complementa cualquier estilo urbano o de descanso. Ligero y funcional, es una pieza versátil para el día a día. Cada creación se elabora especialmente para ti bajo demanda, garantizando exclusividad y un enfoque consciente hacia la moda contemporánea. Disponible con envíos a todo el mundo.",
@@ -35,6 +35,7 @@
  "draft": false,
  "fam": "sombrero-pescador-luxury",
  "fixed_price": true,
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-sombrero-de-pescador-daz-luxury-3",
  "look": [
@@ -43,9 +44,9 @@
   "printful-345759651",
   "printful-357300009-black"
  ],
- "material": "",
- "name_en": "Diamond Bucket Hat",
- "name_es": "Sombrero de Pescador Diamond",
+ "material": "Polyester Twill",
+ "name_en": "Diamond Bucket Hat · Green",
+ "name_es": "Sombrero de Pescador Diamond · Verde",
  "needs_review": false,
  "needs_studio": true,
  "page": true,

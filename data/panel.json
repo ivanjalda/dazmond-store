@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-24 10:41 UTC",
+  "updated": "2026-11-24 11:41 UTC",
   "totals": {
     "catalogo": 2438,
-    "a_la_vista": 1999,
-    "disenos_a_la_vista": 821,
-    "ocultos": 439,
-    "ia_revisados": 859,
-    "ia_pendientes": 1578,
-    "con_boton_de_pago": 1999,
+    "a_la_vista": 2042,
+    "disenos_a_la_vista": 832,
+    "ocultos": 396,
+    "ia_revisados": 927,
+    "ia_pendientes": 1510,
+    "con_boton_de_pago": 2042,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
@@ -19,8 +19,9 @@
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 425,
-    "Esperando la IA": 10
+    "Borrador": 382,
+    "Esperando la IA": 2,
+    "Oculto": 8
   },
   "suppliers": {
     "Printful": {
@@ -36,8 +37,8 @@
       "ocultos": 13
     },
     "InterestPrint": {
-      "visibles": 41,
-      "ocultos": 416
+      "visibles": 84,
+      "ocultos": 373
     }
   },
   "guard": [
@@ -606,119 +607,11 @@
     },
     {
       "id": "interestprint-design-long-sleeve-mesh-top",
-      "n": "Camiseta Mesh · Blanco",
+      "n": "Top de malla manga larga · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/c6464bfc750b1c1a2b99.jpg",
       "c": "hombre/camiseta",
       "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-long-sleeve-mesh-top-1",
-      "n": "Camiseta Mesh · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/98e799e24bc63d774332.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-long-sleeve-mesh-top-2",
-      "n": "Camiseta Mesh · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/7524603ff301f28d40c3.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-thong",
-      "n": "Ropa Interior Lace Trim Thong · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/caa679c74b505d81537f.jpg",
-      "c": "hombre/ropa-interior",
-      "pr": 19.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-thong-1",
-      "n": "Ropa Interior Lace Trim Thong · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/215418350f7ae77453fc.jpg",
-      "c": "hombre/ropa-interior",
-      "pr": 19.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-thong-2",
-      "n": "Ropa Interior Lace Trim Thong · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/8e830c0cf41f5a838443.jpg",
-      "c": "hombre/ropa-interior",
-      "pr": 19.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-thong-3",
-      "n": "Ropa Interior Lace Trim Thong · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/cb8928dbcb9b8e36b793.jpg",
-      "c": "hombre/ropa-interior",
-      "pr": 19.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-thong-4",
-      "n": "Ropa Interior Lace Trim Thong · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/d87758ebc63bd599e330.jpg",
-      "c": "hombre/ropa-interior",
-      "pr": 19.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-thong-5",
-      "n": "Ropa Interior Lace Trim Thong · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/2d263f5cd9ec3274640f.jpg",
-      "c": "hombre/ropa-interior",
-      "pr": 19.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-thong-6",
-      "n": "Ropa Interior Lace Trim Thong · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/aa97ce7c3f3573d1b40d.jpg",
-      "c": "hombre/ropa-interior",
-      "pr": 19.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-thong-7",
-      "n": "Ropa Interior Lace Trim Thong · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/5f463eabe3047ab070e7.jpg",
-      "c": "hombre/ropa-interior",
-      "pr": 19.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-thong-8",
-      "n": "Ropa Interior Lace Trim Thong · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/7ae96c0b65f9843efdcd.jpg",
-      "c": "hombre/ropa-interior",
-      "pr": 19.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-thong-9",
-      "n": "Ropa Interior Lace Trim Thong · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/9af0c19e796dabeb7b16.jpg",
-      "c": "hombre/ropa-interior",
-      "pr": 19.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -745,69 +638,6 @@
       "s": "InterestPrint",
       "img": "assets/products/shop/5af5082314f0c17b811d.jpg",
       "c": "mujer/camisetas-blusas-tops",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-new-sleeveless-polo-tank-top",
-      "n": "Polo Sleeveless · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/d4cb907fbd7cff30c568.jpg",
-      "c": "hombre/polos",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-new-sleeveless-polo-tank-top-1",
-      "n": "Polo Sleeveless · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/2f42110ad46cef36cde4.jpg",
-      "c": "hombre/polos",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-camisole-nightgown",
-      "n": "Pijama Lace Trim Camisole · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/5224ce2dc24233baa7c1.jpg",
-      "c": "hombre/albornoz-pijama",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-camisole-nightgown-1",
-      "n": "Pijama Lace Trim Camisole · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/eb19b1de24ea484b6ceb.jpg",
-      "c": "hombre/albornoz-pijama",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-camisole-nightgown-2",
-      "n": "Pijama Lace Trim Camisole · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/922aa36ac799f56754a3.jpg",
-      "c": "hombre/albornoz-pijama",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-camisole-nightgown-3",
-      "n": "Pijama Lace Trim Camisole · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/cb9d8581afc1432e7c3a.jpg",
-      "c": "hombre/albornoz-pijama",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-lace-trim-camisole-nightgown-4",
-      "n": "Pijama Lace Trim Camisole · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/006d8d954b1be8ca4682.jpg",
-      "c": "hombre/albornoz-pijama",
       "pr": 22.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
@@ -885,36 +715,9 @@
     },
     {
       "id": "interestprint-design-all-over-print-cropped-shirt",
-      "n": "Camiseta Cropped · Blanco",
+      "n": "Camisa corta estampada · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/1a94d4a23040519ff307.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-cropped-shirt-1",
-      "n": "Camiseta Cropped · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/d88aa696e59eaa325f42.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-cropped-shirt-2",
-      "n": "Camiseta Cropped · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/6c779d7b8367b24b79b3.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-cropped-shirt-3",
-      "n": "Camiseta Cropped · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/851739e075fafefd5603.jpg",
       "c": "hombre/camiseta",
       "pr": 21.99,
       "why": "Borrador: esperando la revisión de la IA"
@@ -1007,69 +810,6 @@
       "img": "assets/products/shop/c939dd54e65a93f3b1a0.jpg",
       "c": "mujer/chaqueta-sudadera-sueter",
       "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-yoga-pants",
-      "n": "Pantalón Yoga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/8950827beea716a2fd64.jpg",
-      "c": "hombre/pantalones",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-yoga-pants-1",
-      "n": "Pantalón Yoga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/f4ecb07a30fc10785eff.jpg",
-      "c": "hombre/pantalones",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-tank-top-bkrev1",
-      "n": "Camiseta Bkrev · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/9f1e7f18ffe3edc22c09.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-tank-top-bkrev1-1",
-      "n": "Camiseta Bkrev · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/472cf5edb31a062f9e28.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-tank-top-bkrev1-2",
-      "n": "Camiseta Bkrev · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/cf834c79cddba6452afb.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-tank-top-bkrev1-3",
-      "n": "Camiseta Bkrev · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/b602fb2d4059aa759a54.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-tank-top-bkrev1-4",
-      "n": "Camiseta Bkrev · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/8f00c5df4bf101f4317f.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -1334,53 +1074,8 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-spaghetti-strap-tank-top",
-      "n": "Camiseta Spaghetti Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/328497b1390cb11b8a74.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-spaghetti-strap-tank-top-1",
-      "n": "Camiseta Spaghetti Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/7bc3f5d4f0d746512328.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-spaghetti-strap-tank-top-2",
-      "n": "Camiseta Spaghetti Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/2ff3c9d486b5b24772a1.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-spaghetti-strap-tank-top-3",
-      "n": "Camiseta Spaghetti Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/b21a617920ee63ad6eb1.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-spaghetti-strap-tank-top-4",
-      "n": "Camiseta Spaghetti Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/8d0406864ee93b32f51e.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-spaghetti-strap-tank-top-5",
-      "n": "Camiseta Spaghetti Strap · Blanco",
+      "n": "Top de Tirantes con Estampado · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/b14b94c34c87a17d727f.jpg",
       "c": "hombre/camiseta",
@@ -1388,17 +1083,8 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-spaghetti-strap-tank-top-6",
-      "n": "Camiseta Spaghetti Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/02e8878e1720d8e7d013.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-spaghetti-strap-tank-top-7",
-      "n": "Camiseta Spaghetti Strap · Blanco",
+      "n": "Top de Tirantes con Estampado · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/0e8de4f9b767771d3c1d.jpg",
       "c": "hombre/camiseta",
@@ -1407,18 +1093,9 @@
     },
     {
       "id": "interestprint-design-spaghetti-strap-tank-top-8",
-      "n": "Camiseta Spaghetti Strap · Blanco",
+      "n": "Top de Tirantes con Estampado · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/641bfe79a6806c8076e2.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-spaghetti-strap-tank-top-9",
-      "n": "Camiseta Spaghetti Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/9ffbde478a08b9161572.jpg",
       "c": "hombre/camiseta",
       "pr": 22.99,
       "why": "Borrador: esperando la revisión de la IA"
@@ -1982,26 +1659,8 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-short-sleeve-zip-polo-shirtb470",
-      "n": "Polo Madison · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/2213d80dc813d54922da.jpg",
-      "c": "hombre/polos",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-short-sleeve-zip-polo-shirtb470-1",
-      "n": "Polo Madison · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/d71f0ec53d8b8e018d5e.jpg",
-      "c": "hombre/polos",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-short-sleeve-zip-polo-shirtb470-2",
-      "n": "Polo Madison · Blanco",
+      "n": "Polo con Cremallera · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/aa5a57a0ccd272809620.jpg",
       "c": "hombre/polos",
@@ -2081,55 +1740,10 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-long-sleeve-zip-polo-shirt-rl",
-      "n": "Polo Noir · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/71435906b89271221724.jpg",
-      "c": "hombre/polos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-long-sleeve-zip-polo-shirt-rl-1",
-      "n": "Polo Noir · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/c48ad7cbeaeb93193599.jpg",
-      "c": "hombre/polos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-long-sleeve-zip-polo-shirt-rl-2",
-      "n": "Polo Noir · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/23f6fdf4084a049ea947.jpg",
-      "c": "hombre/polos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-ruffled-plunge-one-piece-swimwear",
-      "n": "Bañador Ruffled Plunge · Blanco",
+      "n": "Bañador Rizado con Escote Profundo · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/e34cc84cb6fe386ba329.jpg",
-      "c": "hombre/banador",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-ruffled-plunge-one-piece-swimwear-1",
-      "n": "Bañador Ruffled Plunge · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/4085c444a285d657e715.jpg",
-      "c": "hombre/banador",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-ruffled-plunge-one-piece-swimwear-2",
-      "n": "Bañador Ruffled Plunge · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/f40cc287d031a44cce64.jpg",
       "c": "hombre/banador",
       "pr": 24.99,
       "why": "Borrador: esperando la revisión de la IA"
@@ -4422,75 +4036,75 @@
     },
     {
       "id": "printify-669f87936b62c2d4940ddfd7",
-      "n": "Pieza Chancletas Daz · Negro",
+      "n": "Chanclas DAZ Black Sole",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/669f87936b62c2d4940ddfd7/72175/15337/chancletas-daz.jpg?camera_label=front",
-      "c": "hombre/camiseta",
+      "c": "calzado-hombre/sandalias-chanclas-hombre",
       "pr": 35.99,
-      "why": "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
+      "why": "Oculto"
     },
     {
       "id": "printify-669f89290086155073058730",
-      "n": "Pieza Chancletas Daz · Negro",
+      "n": "Chanclas Daz Black",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/669f89290086155073058730/72175/15337/chancletas-daz.jpg?camera_label=front",
-      "c": "hombre/camiseta",
+      "c": "calzado-hombre/sandalias-chanclas-hombre",
       "pr": 35.99,
-      "why": "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
+      "why": "Oculto"
     },
     {
       "id": "printify-668eaa0ce8327b730b0bcac2",
-      "n": "Pieza Daz",
+      "n": "Pantalón corto moisture-wicking",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/668eaa0ce8327b730b0bcac2/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
-      "c": "mujer/camisetas-blusas-tops",
+      "c": "mujer/pantalones-cortos",
       "pr": 41.99,
-      "why": "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
+      "why": "Oculto"
     },
     {
       "id": "printify-668eaac5f88774f5bd03c22e",
-      "n": "Pieza Daz",
+      "n": "Pantalón corto DAZ Premium",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/668eaac5f88774f5bd03c22e/86201/55196/short-daz-premium-para-mujer.jpg?camera_label=front",
-      "c": "mujer/camisetas-blusas-tops",
+      "c": "mujer/pantalones-cortos",
       "pr": 41.99,
-      "why": "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
+      "why": "Oculto"
     },
     {
       "id": "printify-668eab5af72a45d14c0529a4",
-      "n": "Pieza Daz",
+      "n": "Shorts DAZ Luxury",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
-      "c": "mujer/camisetas-blusas-tops",
+      "c": "mujer/pantalones-cortos",
       "pr": 41.99,
-      "why": "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
+      "why": "Oculto"
     },
     {
       "id": "printify-668eac084542f0d6d6052014",
-      "n": "Pieza Daz",
+      "n": "Pantalón corto de alto rendimiento",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
-      "c": "mujer/camisetas-blusas-tops",
+      "c": "mujer/pantalones-cortos",
       "pr": 41.99,
-      "why": "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
+      "why": "Oculto"
     },
     {
       "id": "printify-668eb21afc9e2d84f00ecdc1",
-      "n": "Pieza Daz",
+      "n": "Shorts Nocturne Blue",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/668eb21afc9e2d84f00ecdc1/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
-      "c": "mujer/camisetas-blusas-tops",
+      "c": "mujer/pantalones-cortos",
       "pr": 42.99,
-      "why": "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
+      "why": "Oculto"
     },
     {
       "id": "printify-667ff286278e297032061cca",
-      "n": "Pieza Edredón Daz · Rojo",
+      "n": "Edredón DAZ Negro",
       "s": "Printify",
       "img": "https://images.printify.com/mockup/667ff286278e297032061cca/61418/2645/edredon-daz.jpg?camera_label=front",
       "c": "hombre/camiseta",
       "pr": 181.99,
-      "why": "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
+      "why": "Oculto"
     }
   ],
   "log": [
@@ -4500,24 +4114,37 @@
     "CSV leído: telegram.csv",
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 12 s",
+    "⏱ lectura de proveedores: 11 s",
     "Productos en catálogo: 2438 · a la vista: 2002 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 1996 piezas",
-    "⏱ ventas, visitas y cupones: 5 s",
+    "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: fallo con shopify-zapatilla-daz-luxury: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con shopify-zapatillas-daz-luxury-1: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con shopify-zapatillas-de-cana-alta-dazmond-luxury-art-blanco: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
-    "IA: fallo con shopify-zapato-plano-daz-luxury: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con shopify-zapatos-de-skate-sin-cordones-daz-luxury-1: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
+    "IA: fallo con shopify-sombrero-de-pescador-daz-luxury-1: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printify-6682f7eaabc218c5680b99db: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printify-669f857d202b3fb01407bf9c: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-long-sleeve-mesh-top: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-washed-drop-shoulder-t-shirt: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-all-over-print-cropped-shirt: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-spaghetti-strap-tank-top-5: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-spaghetti-strap-tank-top-7: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-spaghetti-strap-tank-top-8: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-short-sleeve-zip-polo-shirtb470-2: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-ruffled-plunge-one-piece-swimwear: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: tiempo de esta hora agotado; sigo en la próxima.",
-    "IA: 35 productos revisados (fotos, guía de tallas y textos) · quedan 1803",
-    "⏱ revisión con IA: 1205 s",
-    "Vigilante: 1 correcciones en esta hora",
-    "⏱ vigilante: 320 s",
+    "IA: 68 productos revisados (fotos, guía de tallas y textos) · quedan 1735",
+    "⏱ revisión con IA: 1201 s",
+    "⏱ vigilante: 101 s",
     "⏱ estudio de fotos: 0 s",
-    "⏱ enlaces de pago: 0 s",
+    "Stripe: enlace normal listo para printify-668d262a442fbb17cc0643ca",
+    "Stripe: enlace normal listo para printify-668d28a29b6281d799024d4d",
+    "Stripe: enlace normal listo para printify-668d48f046ad9d669109904a",
+    "Stripe: enlace normal listo para printify-668d4a9d4aaa7843530eb807",
+    "Stripe: 4 productos con enlace de pago nuevo en esta hora",
+    "⏱ enlaces de pago: 4 s",
     "Cambio actualizado: 1 USD = 0.9142 EUR",
     "Listo."
   ]

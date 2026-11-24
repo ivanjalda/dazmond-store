@@ -20,7 +20,7 @@
   "calzado-mujer/zapatillas"
  ],
  "cg": "t-zapatillas-ligeras-daz-luxury-de-punto-de-malla",
- "color": "",
+ "color": "red",
  "created": "2026-11-19",
  "desc_en": "Designed for a dynamic lifestyle, these sneakers combine functionality and modernity. Their mesh fabric construction offers breathability with every step, while EVA soles ensure a lightweight stride. Equipped with cushioned insoles and a classic lace-up closure with six eyelets, they represent a versatile option for any season. A refined silhouette intended for daily wear without compromising on comfort.",
  "desc_es": "Diseñadas para un estilo de vida dinámico, estas zapatillas combinan funcionalidad y modernidad. Su construcción en tejido de malla ofrece transpirabilidad en cada paso, mientras que las suelas de EVA aseguran una pisada ligera. Equipadas con plantillas acolchadas y un cierre clásico de cordones con seis ojales, representan una opción versátil para cualquier temporada. Una silueta depurada pensada para el uso diario sin renunciar al confort.",
@@ -39,6 +39,7 @@
  "draft": false,
  "fam": "zapatillas-ligeras-luxury",
  "fixed_price": true,
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-zapatillas-ligeras-daz-luxury-de-punto-de-malla",
  "img_checked": "2026-11-23",
@@ -48,7 +49,7 @@
   "printful-361906822",
   "printful-345759651"
  ],
- "material": "",
+ "material": "mesh",
  "name_en": "Daz Luxury Mesh Sneakers",
  "name_es": "Zapatillas de Malla Daz Luxury",
  "needs_review": false,

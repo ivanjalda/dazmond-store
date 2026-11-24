@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatos-elegantes",
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Canvas",
  "ai_priority": true,
+ "ai_type": "Casual Shoe",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with consistent lighting, though standard e-commerce presentation lacks high editorial atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-zapato-plano-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Essential silhouette designed for everyday wear. This model combines a canvas construction with a durable rubber sole and suede insoles. It features a pleated square toe and an elastic V-insert for flexibility and effortless slip-on styling. The slip-on design defines a relaxed yet polished aesthetic suited for any occasion. Each pair is made to order to ensure the exclusivity of our community. Available with worldwide shipping.",
+ "desc_es": "Silueta esencial diseñada para el día a día. Este modelo combina una construcción de lona con una suela de goma duradera y plantillas de gamuza. Incorpora una punta cuadrada plisada y una inserción elástica en V que aporta flexibilidad y facilidad al calzar. El diseño sin cordones define una estética relajada y versátil para cualquier ocasión. Cada par se elabora bajo pedido para garantizar la exclusividad de nuestra comunidad. Disponible con envío a todo el mundo.",
+ "details_en": "· Canvas\n· Rubber sole\n· Suede insoles\n· Pleated square toe\n· Slip-on design with elastic V\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Lona\n· Suela de goma\n· Plantillas de gamuza\n· Punta cuadrada plisada\n· Diseño sin cordones con V elástica\n· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/f72636dc12f0782835aa.jpg",
   "assets/products/shop/0af2339361fa4a810234.jpg",
@@ -18,8 +33,7 @@
   "assets/products/shop/b93c338926c10a6d7a2f.jpg",
   "assets/products/shop/c1b1425b84d508f7db06.jpg",
   "assets/products/shop/f84f95c17974debb7b17.jpg",
-  "assets/products/shop/582d531cf23ff23b401a.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-2/DJ%20toms%E5%B0%BA%E7%A0%81%E8%A1%A8%EF%BC%88%E5%86%85%E9%95%BF%EF%BC%89.jpg"
+  "assets/products/shop/582d531cf23ff23b401a.jpg"
  ],
  "draft": false,
  "fam": "zapato-plano-luxury",
@@ -34,9 +48,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Luxury Canvas Casual Shoe",
+ "name_en": "Canvas Casual Shoe",
  "name_es": "Zapato Casual de Lona",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.9,
  "rank": 1931,

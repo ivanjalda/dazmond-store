@@ -20,7 +20,7 @@
   "mujer/gorros-bufandas"
  ],
  "cg": "t-sombrero-de-pescador-reflectante-daz-luxury",
- "color": "",
+ "color": "Black",
  "created": "2026-11-19",
  "desc_en": "Defined by a clean and classic silhouette, this bucket hat offers versatility through its dual-layer design. Crafted to accompany outdoor activities, it incorporates reflective bands on the brim for enhanced visibility in dark environments. Its lightweight and packable structure ensures a delicate feel and natural adaptability to the facial contours. Each piece is crafted specially for you upon order, ensuring exclusivity and worldwide shipping.",
  "desc_es": "Definido por una silueta limpia y clásica, este sombrero de pescador ofrece versatilidad gracias a su diseño de doble capa. Confeccionado para acompañar actividades al aire libre, incorpora bandas reflectantes en el ala para mayor visibilidad en entornos oscuros. Su estructura ligera y plegable asegura un tacto delicado y una adaptabilidad natural al contorno del rostro. Cada pieza se elabora especialmente para usted bajo pedido, garantizando exclusividad y envíos a todo el mundo.",
@@ -35,6 +35,7 @@
  "draft": false,
  "fam": "sombrero-pescador-reflectante",
  "fixed_price": true,
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-sombrero-de-pescador-reflectante-daz-luxury-1",
  "look": [
@@ -43,9 +44,9 @@
   "printful-345759651",
   "printful-357300009-black"
  ],
- "material": "",
- "name_en": "Reversible Bucket Hat",
- "name_es": "Sombrero de Pescador Reversible",
+ "material": "Polyester twill",
+ "name_en": "Reversible Bucket Hat · Black",
+ "name_es": "Sombrero de Pescador Reversible · Negro",
  "needs_review": false,
  "needs_studio": true,
  "page": true,

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "polyester and cotton",
  "ai_priority": true,
+ "ai_type": "slippers",
+ "ai_ver": 2,
+ "art_note": "Photo 1 establishes a refined aesthetic with warm, luxurious lighting and clean staging.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-zapatillas-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate moments of repose with a refined expression of daily comfort. These slippers pair a soft synthetic suede texture with a design envisioned for both indoor ease and brief outdoor transitions. The interior offers a welcoming feel, while the structured sole ensures a firm and stable step. Made to order and available with worldwide shipping, they represent the ideal fusion of understated functionality and polished style.",
+ "desc_es": "Eleve los momentos de descanso con una expresión refinada del confort diario. Estas pantuflas combinan una textura suave de gamuza sintética con un diseño pensado para el hogar y los desplazamientos breves. El interior ofrece una sensación acogedora, mientras que la suela estructurada asegura una pisada firme y estable. Confeccionadas bajo pedido y disponibles con envío a todo el mundo, representan la fusión ideal entre funcionalidad y estilo depurado.",
+ "details_en": "· Soft synthetic polyester suede exterior\n· Interior lining composed of 80% cotton and 20% polyester\n· Black non-slip rubber soles\n· Three sizes available\n· Made-to-order pieces with worldwide shipping available",
+ "details_es": "· Exterior de gamuza sintética de poliéster suave\n· Forro interior de 80 % algodón y 20 % poliéster\n· Suelas de goma antideslizantes negras\n· Tres tamaños disponibles\n· Piezas confeccionadas bajo pedido con envío mundial disponible",
  "display_images": [
   "assets/products/shop/e1985dce4c306b69050a.jpg",
   "assets/products/shop/c2aff76809d310d62cd9.jpg",
@@ -19,8 +34,7 @@
   "assets/products/shop/59b6c4b74d0e23eebdf2.jpg",
   "assets/products/shop/cb31683f0744dcf3c8b3.jpg",
   "assets/products/shop/a0eb62b72a39992736d5.jpg",
-  "assets/products/shop/5f4185ac0077e290d7e8.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-2/D35%20%E6%A3%89%E6%8B%96%28%E5%86%85%E9%95%BF%29.jpg"
+  "assets/products/shop/5f4185ac0077e290d7e8.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-luxury",
@@ -38,6 +52,7 @@
  "name_en": "Premium Suede Slippers",
  "name_es": "Pantuflas de Gamuza Premium",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 30.0,
  "rank": 1911,

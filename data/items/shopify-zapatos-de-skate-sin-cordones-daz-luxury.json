@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatos-elegantes",
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "Brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Canvas",
  "ai_priority": true,
+ "ai_type": "Slip-on shoes",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on pure white background, though standard supplier mockup style.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-zapatos-de-skate-sin-cordones-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The slip-on silhouette redefines everyday footwear with a refined approach. Crafted from breathable canvas, these sneakers feature a timeless design that prioritizes comfort and functionality. The durable material sole and cushioned insole ensure support with every step. Dual side elastic inserts facilitate an effortless fit, offering a seamless transition between relaxed elegance and daily wear. Each pair is made to order to ensure absolute exclusivity.",
+ "desc_es": "La silueta sin cordones redefine el calzado diario con un enfoque depurado. Confeccionadas en lona transpirable, estas zapatillas presentan un diseño atemporal que prioriza la comodidad y la funcionalidad. La suela de material duradero y la plantilla acolchada aseguran soporte en cada paso. El doble elástico lateral facilita el calce, ofreciendo una transición fluida entre la elegancia relajada y el uso cotidiano. Cada par se elabora bajo demanda para garantizar una exclusividad absoluta.",
+ "details_en": "· Canvas upper and lining\n· Durable MD material sole\n· Cushioned EVA insole\n· Dual elastic gore at the midfoot\n· Made especially for you on demand\n· Worldwide shipping",
+ "details_es": "· Parte superior y forro de lona\n· Suela duradera de material MD\n· Plantilla de EVA acolchada\n· Doble elástico en la parte media del pie\n· Hecho especialmente para usted bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/1ed4fe705411378a64ca.jpg",
   "assets/products/shop/f873640a31a450bf1672.jpg",
@@ -19,8 +34,7 @@
   "assets/products/shop/a043586d7585ed28752b.jpg",
   "assets/products/shop/a3aae0a7851c0086ecd6.jpg",
   "assets/products/shop/bd7877cab47f79ac4e65.jpg",
-  "assets/products/shop/8ad75fe44874269f61e6.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/MD%20size%20chart.jpg"
+  "assets/products/shop/8ad75fe44874269f61e6.jpg"
  ],
  "draft": false,
  "fam": "zapatos-skate-sin",
@@ -35,9 +49,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Zapatos Skate Sin Dress Shoes",
- "name_es": "Zapatos Zapatos Skate Sin",
+ "name_en": "Canvas Slip-On Sneakers",
+ "name_es": "Zapatillas Slip-On de lona",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.9,
  "rank": 1932,

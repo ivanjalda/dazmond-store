@@ -20,7 +20,7 @@
   "mujer/gorros-bufandas"
  ],
  "cg": "t-sombrero-de-pescador-daz-luxury",
- "color": "",
+ "color": "Khaki",
  "created": "2026-11-19",
  "desc_en": "The DAZ Diamond bucket hat redefines casual outdoor elegance. Crafted from high-grade polyester twill, this lightweight design offers a refined texture and a structured profile that maintains its three-dimensional shape. Featuring a distinctive graphic print, it brings character to the silhouette. Its functional construction provides UV protection while ensuring a precise fit. Each piece is crafted upon order to guarantee exclusivity. Available for worldwide shipping.",
  "desc_es": "El sombrero de pescador DAZ Diamond redefine la elegancia casual para exteriores. Confeccionado en sarga de poliéster de alta calidad, este diseño ligero ofrece una textura fina y un perfil estructurado que mantiene su forma tridimensional. Presenta un estampado gráfico distintivo que aporta carácter a la silueta. Su estructura funcional protege contra los rayos UV y se adapta con precisión. Cada pieza se confecciona bajo demanda para garantizar exclusividad. Disponible para envío a todo el mundo.",
@@ -35,6 +35,7 @@
  "draft": false,
  "fam": "sombrero-pescador-luxury",
  "fixed_price": true,
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-sombrero-de-pescador-daz-luxury-4",
  "look": [
@@ -43,9 +44,9 @@
   "printful-345759651",
   "printful-357300009-black"
  ],
- "material": "",
- "name_en": "Diamond Bucket Hat",
- "name_es": "Sombrero de Pescador Diamond",
+ "material": "Polyester Twill",
+ "name_en": "Diamond Bucket Hat · Khaki",
+ "name_es": "Sombrero de Pescador Diamond · Khaki",
  "needs_review": false,
  "needs_studio": true,
  "page": true,

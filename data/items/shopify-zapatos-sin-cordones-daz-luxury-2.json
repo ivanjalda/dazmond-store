@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatos-elegantes",
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "Red and white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Rubber sole",
  "ai_priority": true,
+ "ai_type": "Slip-on sneakers",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain white background, rendered with standard e-commerce clarity but lacking atmospheric luxury campaign lighting.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-zapatos-sin-cordones-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Crafted for effortless elegance, these slip-on sneakers combine minimalist design with exceptional comfort. The silhouette features a striking red tone paired with crisp white accents, tailored for everyday movement. Each pair is made especially for you upon order placement, ensuring absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Confeccionadas para ofrecer una elegancia relajada, estas zapatillas slip-on combinan un diseño minimalista con una comodidad excepcional. El modelo cuenta con una silueta depurada en tono rojo intenso con contrastes blancos, diseñada para el movimiento diario. Cada par se elabora especialmente para usted tras la confirmación de su pedido, garantizando una exclusividad absoluta. Disponibles con envíos a todo el mundo.",
+ "details_en": "· Rubber sole\n· Padded EVA insole\n· Open elastic closure\n· Made to order",
+ "details_es": "· Suela de goma\n· Plantilla acolchada de EVA\n· Cierre elástico abierto\n· Hecho bajo demanda",
  "display_images": [
   "assets/products/shop/9fb0e4b7834704400aad.jpg",
   "assets/products/shop/632b5117f95f91f479a7.jpg",
@@ -19,8 +34,7 @@
   "assets/products/shop/dddfa495c36679a3a948.jpg",
   "assets/products/shop/ac022a33978dfbc687f8.jpg",
   "assets/products/shop/7d1d19202c441b23e61a.jpg",
-  "assets/products/shop/ab548feb42b6b2eb96c3.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-2/D31%20%E4%B8%80%E8%84%9A%E8%B9%AC%E5%B0%BA%E7%A0%81%E8%A1%A8%28%E5%86%85%E9%95%BF%29.jpg"
+  "assets/products/shop/ab548feb42b6b2eb96c3.jpg"
  ],
  "draft": false,
  "fam": "zapatos-sin-cordones",
@@ -35,9 +49,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Zapatos Sin Cordones Dress Shoes",
- "name_es": "Zapatos Zapatos Sin Cordones",
+ "name_en": "DAZ Luxury Slip-On Sneakers",
+ "name_es": "Zapatillas Slip-On DAZ Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.9,
  "rank": 1937,

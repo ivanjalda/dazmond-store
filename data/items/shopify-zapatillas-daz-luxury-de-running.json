@@ -20,7 +20,7 @@
   "calzado-mujer/zapatillas"
  ],
  "cg": "t-zapatillas-daz-luxury-de-running",
- "color": "",
+ "color": "White",
  "created": "2026-11-19",
  "desc_en": "Precision meets movement in a silhouette conceived for the modern rhythm. Engineered with a seamless stretch upper, these sneakers accompany each stride with effortless adaptability. The soft and breathable MD sole brings lightness to the step, while the loop eyelet defines a refined profile. Exclusive pieces crafted on demand to ensure the singularity of our community. Worldwide shipping available.",
  "desc_es": "La precisión se encuentra con el movimiento en una silueta concebida para el ritmo diario. Diseñadas con una parte superior elástica sin costuras, estas zapatillas acompañan cada paso con una adaptabilidad impecable. La suela MD suave y transpirable aporta ligereza a la pisada, mientras que el ojal de lazo define un perfil depurado. Piezas exclusivas confeccionadas bajo demanda para garantizar la singularidad de nuestra comunidad. Envío mundial disponible.",
@@ -39,6 +39,7 @@
  "draft": false,
  "fam": "zapatillas-luxury-running",
  "fixed_price": true,
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-zapatillas-daz-luxury-de-running",
  "look": [
@@ -47,7 +48,7 @@
   "printful-361906822",
   "printful-345759651"
  ],
- "material": "",
+ "material": "Mesh and PVC",
  "name_en": "Luxury Sneakers",
  "name_es": "Zapatillas Luxury",
  "needs_review": false,

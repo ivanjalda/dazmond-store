@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatos-elegantes",
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "Teal and White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Rubber sole, EVA",
  "ai_priority": true,
+ "ai_type": "Slip-on Sneakers",
+ "ai_ver": 2,
+ "art_note": "Standard floating e-commerce product renders lacking high-end lighting and environmental context.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-zapatos-sin-cordones-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefine casual footwear with a silhouette designed for refined leisure. These slip-on sneakers combine a relaxed aesthetic with exceptional comfort through a cushioned EVA insole that provides support with every step. Side elastics facilitate transition while maintaining a clean and sophisticated line. Crafted to order to ensure exclusivity, these pieces are designed to accompany every journey with absolute lightness. Each item is made especially for you upon order confirmation. Worldwide shipping is available.",
+ "desc_es": "Redefina el calzado informal con una silueta diseñada para el descanso refinado. Estas zapatillas sin cordones combinan una estética relajada con una comodidad excepcional gracias a su plantilla acolchada de EVA que proporciona soporte en cada paso. Los elásticos laterales facilitan la transición mientras mantienen una línea limpia y sofisticada. Fabricadas bajo pedido para garantizar exclusividad, estas piezas están pensadas para acompañar cada trayecto con absoluta ligereza. Cada par se elabora especialmente para usted tras confirmar su adquisición. Se realizan envíos a todo el mundo.",
+ "details_en": "· Rubber sole\n· Cushioned EVA insole\n· Elastics and open closure\n· This product is made especially for you as soon as you place an order",
+ "details_es": "· Suela de goma\n· Plantilla acolchada de EVA\n· Elásticos y cierre abierto\n· Este producto está hecho especialmente para usted tan pronto como realiza un pedido",
  "display_images": [
   "assets/products/shop/98129a75629205aea980.jpg",
   "assets/products/shop/2624432a4454bac2f06b.jpg",
@@ -19,8 +34,7 @@
   "assets/products/shop/1372bb381fa58b28dd48.jpg",
   "assets/products/shop/e6c140fcc22b098336fe.jpg",
   "assets/products/shop/1e440ff70d39c7f605f1.jpg",
-  "assets/products/shop/174f08c85b21cd78d375.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-2/D31%20%E4%B8%80%E8%84%9A%E8%B9%AC%E5%B0%BA%E7%A0%81%E8%A1%A8%28%E5%86%85%E9%95%BF%29.jpg"
+  "assets/products/shop/174f08c85b21cd78d375.jpg"
  ],
  "draft": false,
  "fam": "zapatos-sin-cordones",
@@ -35,9 +49,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Zapatos Sin Cordones Dress Shoes",
- "name_es": "Zapatos Zapatos Sin Cordones",
+ "name_en": "DAZ Luxury Slip-On Sneakers",
+ "name_es": "Zapatillas Slip-On DAZ Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.9,
  "rank": 1935,

@@ -20,7 +20,7 @@
   "calzado-mujer/zapatillas"
  ],
  "cg": "t-zapatillas-daz-luxury-de-baloncesto",
- "color": "",
+ "color": "navy",
  "created": "2026-11-19",
  "desc_en": "A bold silhouette merging athletic heritage with contemporary design. Crafted with a canvas and PU upper, these high-top sneakers present a refined dark aesthetic with contrasting details. The durable rubber outsole and cushioned insoles ensure exceptional comfort with every step. This model is completed with an eight-eyelet system and lace closure for a classic and secure fit. Each pair is crafted on demand to ensure absolute exclusivity.",
  "desc_es": "Una silueta audaz que fusiona el legado deportivo con el diseño contemporáneo. Confeccionadas con una parte superior de lona y poliuretano, estas zapatillas de caña alta presentan una estética depurada en tonos oscuros con detalles contrastantes. La suela de goma duradera y las plantillas acolchadas garantizan un confort excepcional en cada paso. Este modelo se completa con un sistema de ocho ojales y cierre de cordones para un ajuste clásico y seguro. Cada par se elabora bajo demanda para garantizar una exclusividad absoluta.",
@@ -39,6 +39,7 @@
  "draft": false,
  "fam": "zapatillas-luxury-baloncesto",
  "fixed_price": true,
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-zapatillas-daz-luxury-de-baloncesto",
  "img_checked": "2026-11-23",
@@ -48,7 +49,7 @@
   "printful-361906822",
   "printful-345759651"
  ],
- "material": "",
+ "material": "canvas and PU",
  "name_en": "Luxury Basketball Sneakers",
  "name_es": "Zapatillas de Baloncesto Luxury",
  "needs_review": false,

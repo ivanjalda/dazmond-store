@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zuecos-hombre",
+  "calzado-mujer/zuecos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% EVA",
  "ai_priority": true,
+ "ai_type": "Clogs",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on white background, but standard e-commerce rendering lacks high-end luxury atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-667d857d08d6eaf0770fb9a6",
  "color": "White",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Created to make every step feel like bliss, these custom clogs are exactly what your feet need to stay comfortable all day long. Featuring EVA foam, they feel plush and help absorb shocks from hard surfaces while providing excellent arch support. Their all-over printed design makes them unique and helps showcase your dazzling personality. Made to order. Available with worldwide shipping.",
+ "desc_es": "Creados para que cada paso se sienta como una dicha, estos zuecos personalizados son exactamente lo que tus pies necesitan para estar cómodos durante todo el día. Con espuma EVA, se sienten afelpados y ayudan a absorber los golpes de las superficies duras al mismo tiempo que brindan un excelente soporte para los arcos. Su diseño completamente estampado los hace únicos y ayuda a mostrar su deslumbrante personalidad. Hecho a pedido. Disponible con envío mundial.",
+ "details_en": "· Composition: 100% EVA\n· Printed exterior and strap surface\n· EU size engraved in the outsole\n· Made to order",
+ "details_es": "· Composición: 100% EVA\n· Exterior impreso y superficie de la correa\n· Talla UE grabada en la suela\n· Hecho a pedido",
  "display_images": [
   "https://images.printify.com/mockup/667d857d08d6eaf0770fb9a6/106592/102975/zuecos-de-espuma-daz.jpg?camera_label=front",
   "https://images.printify.com/mockup/667d857d08d6eaf0770fb9a6/106592/103914/zuecos-de-espuma-daz.jpg?camera_label=angle",
@@ -29,9 +44,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Zuecos Espuma Daz Clogs · White",
- "name_es": "Zuecos Zuecos Espuma Daz · Blanco",
+ "name_en": "DAZ White Foam Clogs",
+ "name_es": "Zuecos de Espuma DAZ White",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1984,

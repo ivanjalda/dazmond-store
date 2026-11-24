@@ -20,7 +20,7 @@
   "mujer/gorros-bufandas"
  ],
  "cg": "t-sombrero-de-pescador-daz-luxury",
- "color": "",
+ "color": "Black",
  "created": "2026-11-19",
  "desc_en": "Contemporary elegance defines this bucket hat in double-layer polyester twill. Its versatile double-sided design offers refined styling options. Crafted to provide a lightweight and skin-friendly feel. The brim incorporates subtle reflective details for understated visibility. An essential accessory to complete sophisticated ensembles with a modern character.",
  "desc_es": "La elegancia contemporánea define este sombrero de pescador en sarga de poliéster de doble capa. Su diseño versátil de doble cara ofrece opciones de estilo refinadas. Confeccionado para proporcionar una sensación ligera y agradable sobre la piel. El ala incorpora detalles reflectantes discretos para una visibilidad sutil. Un accesorio esencial para completar conjuntos sofisticados con un carácter moderno.",
@@ -35,6 +35,7 @@
  "draft": false,
  "fam": "sombrero-pescador-luxury",
  "fixed_price": true,
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-sombrero-de-pescador-daz-luxury",
  "look": [
@@ -43,9 +44,9 @@
   "printful-345759651",
   "printful-357300009-black"
  ],
- "material": "",
- "name_en": "Diamond Bucket Hat",
- "name_es": "Sombrero de Pescador Diamond",
+ "material": "Polyester twill",
+ "name_en": "Diamond Bucket Hat · Black",
+ "name_es": "Sombrero de Pescador Diamond · Negro",
  "needs_review": false,
  "needs_studio": true,
  "page": true,

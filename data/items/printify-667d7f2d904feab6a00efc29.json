@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zuecos-hombre",
+  "calzado-mujer/zuecos"
+ ],
+ "ai_color": "Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% EVA",
  "ai_priority": true,
+ "ai_type": "Clogs",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with standard white background, but presentation feels basic and lacks high-end editorial styling.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-667d7f2d904feab6a00efc29",
  "color": "Black",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Designed for lasting comfort, these clogs combine everyday functionality with a distinctive visual approach. Crafted from EVA foam, they provide a cushioned stride and optimal support for daily wear. The all-over printed design delivers a unique aesthetic presence. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Diseñados para ofrecer un confort duraderos, estos zuecos combinan funcionalidad con un enfoque distintivo. Confeccionados en espuma EVA, proporcionan una pisada amortiguada y un soporte óptimo para el uso diario. El diseño completamente estampado aporta una presencia visual única. Cada pieza se confecciona bajo demanda y cuenta con envíos a todo el mundo.",
+ "details_en": "· 100% EVA\n· Printed exterior and strap surface\n· EU size engraved in the outsole\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100% EVA\n· Exterior impreso y superficie de la correa\n· Talla UE grabada en la suela\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images.printify.com/mockup/667d7f2d904feab6a00efc29/106591/102975/zuecos-de-espuma-daz-america.jpg?camera_label=front",
   "https://images.printify.com/mockup/667d7f2d904feab6a00efc29/106591/103914/zuecos-de-espuma-daz-america.jpg?camera_label=angle",
@@ -29,9 +44,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Zuecos Espuma Daz Clogs · Black",
- "name_es": "Zuecos Zuecos Espuma Daz · Negro",
+ "name_en": "America Foam Clogs",
+ "name_es": "Zuecos de Espuma America",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1994,

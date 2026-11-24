@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Cream",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% polyester",
  "ai_priority": true,
+ "ai_type": "Hooded Blanket",
+ "ai_ver": 2,
+ "art_note": "Standard mockup photography that lacks true luxury editorial lighting and styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-667fef28e7d326f1ba036b17",
  "color": "Cream",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A piece designed for absolute comfort during the coldest months. This hooded fleece blanket combines exceptional softness with an enveloping and functional design. Its cream-toned hood adds a subtle and sophisticated contrast. Crafted to offer warmth without compromising elegance at home. Available made-to-order with worldwide shipping.",
+ "desc_es": "Una pieza diseñada para el confort absoluto durante los meses más fríos. Esta manta polar con capucha combina una suavidad excepcional con un diseño envolvente y funcional. Su capucha en tono crema aporta un contraste sutil y sofisticado. Confeccionada para ofrecer calidez sin renunciar a la elegancia en el hogar. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 100% polyester\n· One size: 179.07 cm x 132.08 cm (70.5\" x 52\")\n· Cream-colored hood\n· Made-to-order\n· Worldwide shipping",
+ "details_es": "· 100 % poliéster\n· Talla única: 179,07 cm x 132,08 cm (70,5 pulgadas x 52 pulgadas)\n· Capucha en color crema\n· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://images.printify.com/mockup/667fef28e7d326f1ba036b17/74535/20231/manta-polar-sherpa-daz-con-capucha.jpg?camera_label=front"
  ],
@@ -26,9 +41,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Manta Polar Sherpa Sweatshirt · Cream",
- "name_es": "Sudadera Manta Polar Sherpa · Crema",
+ "name_en": "Cream Hooded Blanket",
+ "name_es": "Manta con Capucha Cream",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 102.99,
  "rank": 1987,
@@ -36,7 +52,28 @@
  "shipping_worst_usd": 23.49,
  "shop_category": "",
  "shop_verified": false,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Width"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Ancho"
+  ],
+  "notes_en": "Measurements provided by supplier.",
+  "notes_es": "Medidas proporcionadas por el proveedor.",
+  "rows": [
+   [
+    "One Size / Talla Única",
+    "179,07",
+    "132,08"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "One size"
