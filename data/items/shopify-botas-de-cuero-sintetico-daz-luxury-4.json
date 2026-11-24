@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/botas-botines-hombre",
+  "calzado-mujer/botas-botines"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Eco-leather",
  "ai_priority": true,
+ "ai_type": "Boot",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with consistent lighting, though standard e-commerce mockups lack atmospheric editorial staging.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-botas-de-cuero-sintetico-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Refined silhouettes defined by an imposing presence. These boots combine the resilience of eco-leather with a structure designed for continuous wear. The design integrates a robust rubber sole alongside an EVA foam insole that prioritizes comfort with every step. The mesh fabric foam lining and lace-up closure ensure a precise fit. An essential piece of timeless character, crafted exclusively on demand and available with worldwide shipping.",
+ "desc_es": "Siluetas depuradas definidas por una presencia imponente. Estos botines combinan la resistencia del cuero ecológico con una estructura pensada para el uso continuo. El diseño integra una suela de goma robusta junto a una plantilla de espuma EVA que prioriza el confort en cada paso. El forro de espuma con tejido de malla y el sistema de cordones aseguran un ajuste preciso. Una pieza esencial de carácter atemporal, confeccionada exclusivamente bajo demanda y disponible con envío mundial.",
+ "details_en": "· Crafted from 100% vegan eco-leather.\n· High-quality rubber sole.\n· EVA foam insole.\n· Foam and mesh fabric lining.\n· Lace-up closure.\n· Made-to-order piece with worldwide shipping.",
+ "details_es": "· Confeccionado en cuero ecológico vegano.\n· Suela de goma de alta calidad.\n· Plantilla de espuma EVA.\n· Forro de espuma y tejido de malla.\n· Cierre de cordones.\n· Producto fabricado bajo demanda con envío a todo el mundo.",
  "display_images": [
   "assets/products/shop/68eb00d706ea0b80926f.jpg",
   "assets/products/shop/df9fa89bf69030ba7f66.jpg",
@@ -20,8 +35,7 @@
   "assets/products/shop/86a015994a3191df8111.jpg",
   "assets/products/shop/908c2631dd8a30904821.jpg",
   "assets/products/shop/c11ec2cd164f1584f89f.jpg",
-  "assets/products/shop/275d381dd8ccd769b050.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-1/D20%20%E5%9B%9B%E5%AD%A3%E9%A9%AC%E4%B8%81%E9%9D%B4%E5%B0%BA%E7%A0%81%E8%A1%A8%28%E5%86%85%E9%95%BF%29.jpg"
+  "assets/products/shop/275d381dd8ccd769b050.jpg"
  ],
  "draft": false,
  "fam": "botas-cuero-sintetico",
@@ -36,9 +50,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Cuero Sintético Daz Boots",
- "name_es": "Botas Cuero Sintético Daz",
+ "name_en": "Vegan leather boots",
+ "name_es": "Botas de cuero vegano",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 109.9,
  "rank": 1879,

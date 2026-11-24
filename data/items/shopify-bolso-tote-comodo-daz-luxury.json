@@ -1,37 +1,51 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Neoprene",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Tote Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with digital placement, maintaining consistent lighting and clarity across angles.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-tote-comodo-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Defined by a structured silhouette and clean lines, this tote bag combines functionality with refined design. Crafted from a resilient technical fabric, it features a spacious interior compartment with a secure zip closure for seamless organization. The faux leather top handles ensure effortless everyday carry. An essential piece for the season, tailored for the modern woman who values both elegance and utility.",
+ "desc_es": "Definido por una silueta estructurada y líneas depuradas, este bolso tote combina funcionalidad con un diseño refinado. Confeccionado con un tejido técnico resistente, presenta un amplio compartimento interior con cierre de cremallera para una organización impecable. Las asas superiores de piel sintética aseguran un transporte cómodo en el día a día. Una pieza esencial para la temporada, diseñada para la mujer moderna que valora tanto la elegancia como la utilidad.",
+ "details_en": "· High-durability technical fabric\n· Secure zip top closure\n· Interior zip pocket\n· Fux leather top handles\n· Clean with a soft, damp cloth\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Tejido técnico de alta resistencia\n· Cierre superior con cremallera\n· Bolsillo interior con cremallera\n· Asas superiores de piel sintética\n· Limpiar con un paño suave y húmedo\n· Pieza bajo demanda con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/a4c5fc3f5a1002d88f42.jpg",
   "assets/products/shop/81b1c8991ebbafc83b79.jpg",
   "assets/products/shop/fbfe389929852e38dc82.jpg",
-  "assets/products/shop/58355da796901073ab9c.jpg",
-  "assets/products/shop/506472885cf7af5558bf.jpg"
+  "assets/products/shop/58355da796901073ab9c.jpg"
  ],
  "draft": false,
  "fam": "bolso-tote-comodo",
  "hidden": false,
  "id": "shopify-bolso-tote-comodo-daz-luxury",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-345759651"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Bolso Cómodo Daz Bag",
- "name_es": "Bolso Bolso Cómodo Daz",
+ "name_en": "Lotus Print Tote Bag",
+ "name_es": "Bolso Tote Estampado Lotus",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 38.99,
  "rank": 1851,
@@ -39,9 +53,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsos estilo shopper",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "Made to order. Measurements may vary slightly.",
+  "notes_es": "Hecho a medida. Las medidas pueden variar ligeramente.",
+  "rows": [
+   [
+    "One Size",
+    "39cm(15.4\")",
+    "11.5cm(4.5\")",
+    "29cm(11.4\")"
+   ]
+  ],
+  "unit": "cm(in)"
+ },
+ "size_guide": [
+  "assets/products/shop/506472885cf7af5558bf.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolso tote cómodo DAZ Luxury",
  "stripe_payment_link": "https://buy.stripe.com/3cI7sMdru6mwgH45em1gR37",
  "supplier": "Shopify",

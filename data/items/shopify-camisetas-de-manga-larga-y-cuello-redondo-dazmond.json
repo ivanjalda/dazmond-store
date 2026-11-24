@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% Cotton",
  "ai_priority": true,
+ "ai_type": "long sleeve t-shirt",
+ "ai_ver": 2,
+ "art_note": "Sophisticated studio and architectural lifestyle imagery with refined lighting aligning with luxury house standards.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,16 +22,17 @@
  "cg": "t-camisetas-de-manga-larga-y-cuello-redondo-dazmond",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This long sleeve t-shirt redefines casual elegance with a refined silhouette and an exceptionally soft hand feel. Crafted entirely from pure cotton, it presents a versatile design enhanced by a subtle printed detail across the chest. Its fluid structure transitions effortlessly from relaxed weekend wear to sophisticated layering beneath structured tailoring. Each piece is crafted exclusively upon order to ensure absolute exclusivity.",
+ "desc_es": "Esta camiseta de manga larga redefine la elegancia casual con una silueta depurada y un tacto excepcionalmente suave. Confeccionada íntegramente en algodón puro, presenta un diseño versátil realzado por un sutil detalle estampado en el pecho. Su estructura fluida se adapta con naturalidad tanto a conjuntos relajados de fin de semana como a superposiciones más formales bajo sastrería estructurada. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta.",
+ "details_en": "· 100% pure cotton\n· Crew neck\n· Long sleeves\n· Single-side print\n· Machine washable in cold water\n· Made to order and worldwide shipping",
+ "details_es": "· 100% algodón puro\n· Cuello redondo\n· Manga larga\n· Estampado en un lado\n· Lavable a máquina en agua fría\n· Fabricado bajo demanda y con envío a todo el mundo",
  "display_images": [
   "assets/products/shop/fe1cf52865230a5214c1.jpg",
   "assets/products/shop/63312354a3994ae5854a.jpg",
   "assets/products/shop/cbb8943a9c567e256ae8.jpg",
   "assets/products/shop/70b5bf268fab034df007.jpg",
   "assets/products/shop/b97e44f3c5061dbd68b6.jpg",
-  "assets/products/shop/2326e2a938c2a7a83392.jpg",
-  "assets/products/shop/249095da9da5076028a9.jpg"
+  "assets/products/shop/2326e2a938c2a7a83392.jpg"
  ],
  "draft": false,
  "fam": "camisetas-manga-larga",
@@ -32,9 +46,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Camisetas Manga Larga Tee · Red",
- "name_es": "Camiseta Camisetas Manga Larga · Rojo",
+ "name_en": "Long Sleeve T-Shirt",
+ "name_es": "Camiseta de Manga Larga",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 32.99,
  "rank": 1860,
@@ -42,8 +57,46 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Chest"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Pecho"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "70.6cm (27.8\")",
+    "45.7cm (18\")"
+   ],
+   [
+    "M",
+    "73.1cm (28.8\")",
+    "50.8cm (20\")"
+   ],
+   [
+    "L",
+    "75.7cm (29.8\")",
+    "55.9cm (22\")"
+   ],
+   [
+    "XL",
+    "78.2cm (30.8\")",
+    "60.9cm (24\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/249095da9da5076028a9.jpg"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,22 +1,30 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "Azul medio profundo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "82% nailon + 18% elastano",
  "ai_priority": true,
+ "ai_type": "Traje de baño de una pieza",
+ "ai_ver": 2,
+ "art_note": "High-end studio and editorial beach campaign shots convey a distinct luxury atmosphere.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/banador",
   "mujer/trajes-bano"
  ],
  "cg": "t-traje-de-bano-de-diseno-dazmond-luxury",
  "color": "Azul medio profundo",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A sophisticated silhouette defined by a seductive halter neck and open back design. Crafted from a soft, skin-friendly stretchy blend. Adjustable drawstrings on both sides allow you to customize the fit. Nothing in our brand is mass-produced. Each piece exists because you have ordered it. Available with worldwide shipping.",
+ "desc_es": "Una silueta sofisticada definida por un cuello halter seductor y un diseño de espalda descubierta. Confeccionado con una mezcla elástica que abraza la forma con suavidad. Los cordones ajustables a los lados permiten personalizar el ajuste con precisión. Cero producción masiva. Cada pieza existe porque usted la ha pedido. Disponible con envío a todo el mundo.",
+ "details_en": "· 82% nylon + 18% spandex\n· Halter neck and open back\n· Adjustable side drawstrings\n· Hand or machine wash\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 82% nailon + 18% elastano\n· Cuello halter y espalda descubierta\n· Cordones ajustables en los laterales\n· Lavar a mano o a máquina\n· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/10947be8042e5485788b.jpg",
-  "assets/products/shop/10947be8042e5485788b.jpg",
-  "assets/products/shop/10947be8042e5485788b.jpg",
-  "assets/products/shop/10947be8042e5485788b.jpg",
-  "assets/products/shop/10947be8042e5485788b.jpg",
   "assets/products/shop/37c0656dcd219992c5de.jpg",
   "assets/products/shop/7c1be1a9de5e7698921e.jpg",
   "assets/products/shop/c61c3651a05b1f256ac4.jpg",
@@ -24,8 +32,7 @@
   "assets/products/shop/9fc3b58421f2bcdee4b7.jpg",
   "assets/products/shop/a3d1fff2d3cb955639c7.jpg",
   "assets/products/shop/17758fdf1adc5031a353.jpg",
-  "assets/products/shop/2f4f0b1e53d1fb5d8b0f.jpg",
-  "http://ipimg.interestprint.com/data/product/4435/info/image/20250619/35F4CAF48798994A6A4C22BD2014E192.jpg"
+  "assets/products/shop/2f4f0b1e53d1fb5d8b0f.jpg"
  ],
  "draft": false,
  "fam": "traje-bano-diseno",
@@ -33,15 +40,16 @@
  "id": "shopify-design-swimsuit-set-front-side-printingmade-in-usa-azul-medio-profundo",
  "img_checked": "2026-11-23",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-345759651"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Traje Baño Diseño Swimwear · Azul Medio Profundo",
- "name_es": "Bañador Traje Baño Diseño · Azul Medio Profundo",
+ "name_en": "Dazmond halter swimsuit · Azul Medio Profundo",
+ "name_es": "Traje de baño halter Dazmond · Azul Medio Profundo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 1868,
@@ -49,8 +57,58 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Trajes de baño de una pieza",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "1/2 Bust",
+   "1/2 Bottom Hem",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "1/2 Busto",
+   "1/2 Dobladillo Inferior",
+   "Largo"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2cm. ¡Compruebe y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "36.5cm / 14.4in",
+    "40cm / 15.7in",
+    "49.8cm / 19.6in"
+   ],
+   [
+    "M",
+    "39cm / 15.4in",
+    "42.5cm / 16.7in",
+    "51.5cm / 20.3in"
+   ],
+   [
+    "L",
+    "41.5cm / 16.3in",
+    "45cm / 17.7in",
+    "53.2cm / 20.9in"
+   ],
+   [
+    "XL",
+    "44cm / 17.3in",
+    "47.5cm / 18.7in",
+    "54.9cm / 21.6in"
+   ],
+   [
+    "2XL",
+    "46.5cm / 18.3in",
+    "50cm / 19.7in",
+    "56.6cm / 22.3in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/4435/info/image/20250619/35F4CAF48798994A6A4C22BD2014E192.jpg"
+ ],
  "sizes": [
   "S",
   "M",

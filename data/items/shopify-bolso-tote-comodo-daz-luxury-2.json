@@ -1,37 +1,48 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Resistant diving fabric",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Tote Bag",
+ "ai_ver": 2,
+ "art_note": "The flat graphics and digital rendering style detract from the luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-tote-comodo-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Defined by clean lines and essential functionality, this structured tote bag accompanies the daily rhythm with understated elegance. Crafted from durable fabric, it offers a spacious interior compartment designed to hold your essentials with absolute security. Faux leather handles ensure comfortable, effortless carrying. A timeless piece crafted on demand for our global community.",
+ "desc_es": "Definido por líneas depuradas y funcionalidad esencial, este bolso tote acompaña el ritmo diario con elegancia discreta. Confeccionado con tejido de alta resistencia, ofrece un amplio compartimento interior diseñado para albergar sus pertenencias con absoluta seguridad. Los detalles de piel sintética aseguran un transporte cómodo y sin esfuerzo. Una pieza atemporal creada bajo demanda para nuestra comunidad global.",
+ "details_en": "· High-quality resistant diving fabric\n· Spacious interior compartment with zip closure\n· Practical interior organizer pocket\n· Faux leather top handles\n· Clean periodically with a soft, damp cloth\n· Made to order with worldwide shipping available",
+ "details_es": "· Tejido de buceo resistente de alta calidad\n· Amplio compartimento interior con cierre de cremallera\n· Práctico bolsillo interior organizador\n· Asas superiores de piel sintética\n· Limpiar periódicamente con un paño suave y húmedo\n· Hecho por encargo con envío mundial disponible",
  "display_images": [
-  "assets/products/shop/086be719645eaf549be3.jpg",
-  "assets/products/shop/cfc9943ffe040bc093ba.jpg",
-  "assets/products/shop/6b422242d703c67c2370.jpg",
-  "assets/products/shop/d5d12ee46bbf19ef8844.jpg",
-  "assets/products/shop/ff11d81f5fe69d573db5.jpg"
+  "assets/products/shop/d5d12ee46bbf19ef8844.jpg"
  ],
  "draft": false,
  "fam": "bolso-tote-comodo",
  "hidden": false,
  "id": "shopify-bolso-tote-comodo-daz-luxury-2",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-345759651"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Bolso Cómodo Daz Bag",
- "name_es": "Bolso Bolso Cómodo Daz",
+ "name_en": "Lotus Print Tote Bag",
+ "name_es": "Bolso Tote Estampado Lotus",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 38.99,
  "rank": 1853,
@@ -39,9 +50,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsos estilo shopper",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "Made to order piece. Worldwide shipping available.",
+  "notes_es": "Pieza hecha por encargo. Envío mundial disponible.",
+  "rows": [
+   [
+    "cm(in)",
+    "39cm(15.4\" )",
+    "11.5cm(4.5\" )",
+    "29cm(11.4\" )"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/ff11d81f5fe69d573db5.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolso tote cómodo DAZ Luxury",
  "stripe_payment_link": "https://buy.stripe.com/bJebJ20EIcKU1MacGO1gR39",
  "supplier": "Shopify",

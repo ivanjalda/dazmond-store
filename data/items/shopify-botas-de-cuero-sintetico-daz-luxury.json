@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/botas-botines-hombre",
+  "calzado-mujer/botas-botines"
+ ],
+ "ai_color": "Yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Vegan leather",
  "ai_priority": true,
+ "ai_type": "Boots",
+ "ai_ver": 2,
+ "art_note": "Clean studio renders against a white background, presenting the silhouette clearly, though lacking contextual lifestyle styling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-botas-de-cuero-sintetico-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "These all-season boots combine a bold design with flawless craftsmanship. Crafted for contemporary living, they offer a defined silhouette in a vibrant yellow hue. Each pair is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Estas botas para toda temporada combinan un diseño audaz con una confección impecable. Diseñadas para la vida contemporánea, ofrecen una silueta definida en vibrante tono amarillo. Cada par está fabricado bajo demanda para garantizar una exclusividad absoluta. Disponibles con envío a todo el mundo.",
+ "details_en": "· Made especially for you on demand\n· 100% vegan and eco-friendly leather\n· High-quality rubber outsole\n· EVA foam insole\n· Mesh fabric and foam lining\n· Lace-up closure\n· Waterproof, heat-resistant and moisture-resistant",
+ "details_es": "· Hecho especialmente para usted bajo demanda\n· Cuero 100 % vegano y ecológico\n· Suela de goma de alta calidad\n· Plantilla de espuma EVA\n· Tejido de malla y forro de espuma\n· Cierre de cordones\n· Impermeables, resistentes al calor y a la humedad",
  "display_images": [
   "assets/products/shop/8d99c504f39cd59c1dcc.jpg",
   "assets/products/shop/3e5198ebbcff13751abd.jpg",
@@ -20,8 +35,7 @@
   "assets/products/shop/3636d089814f7c11bb4c.jpg",
   "assets/products/shop/c5c4db198fa07bd0a551.jpg",
   "assets/products/shop/4952a73062c3c4636194.jpg",
-  "assets/products/shop/f55d9e9ef117b7a36618.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-1/D20%20%E5%9B%9B%E5%AD%A3%E9%A9%AC%E4%B8%81%E9%9D%B4%E5%B0%BA%E7%A0%81%E8%A1%A8%28%E5%86%85%E9%95%BF%29.jpg"
+  "assets/products/shop/f55d9e9ef117b7a36618.jpg"
  ],
  "draft": false,
  "fam": "botas-cuero-sintetico",
@@ -36,9 +50,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Cuero Sintético Daz Boots",
- "name_es": "Botas Cuero Sintético Daz",
+ "name_en": "Vegan leather boots",
+ "name_es": "Botas de cuero vegano",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 119.0,
  "rank": 1875,

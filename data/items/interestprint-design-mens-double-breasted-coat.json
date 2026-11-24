@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_type": "Coat",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots and detailed close-ups elevate the presentation, though lifestyle and back views suffer from composited marketplace aesthetics.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,15 +20,13 @@
  "cg": "t-abrigo-cruzado-dazmond-coleccion-privada",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Project an commanding presence when temperatures drop. This design features traditional notch lapels, a double-breasted two-button closure, and a knee-length cut with a British texture finish. Wrap your workdays or urban strolls in a sober silhouette. Made-to-order piece with worldwide shipping.",
+ "desc_es": "Proyecta una presencia imponente cuando las temperaturas descienden. Este diseño presenta solapas de muesca tradicionales, cierre cruzado de dos filas de botones y un corte largo a la rodilla con un acabado de textura británica. Envuelve tus días de trabajo o paseos urbanos con una silueta sobria. Pieza disponible bajo pedido con envío mundial.",
+ "details_en": "· 260g/m² polyester exterior with British-inspired texture\n· Soft sherpa interior lining in a 95% polyester and 5% spandex blend\n· Thick padding for thermal insulation\n· Traditional notch lapels\n· Double-breasted two-button closure\n· Two functional side pockets\n· Knee-length cut and tailored silhouette",
+ "details_es": "· Exterior de poliéster de 260g/m² con textura de inspiración británica\n· Forro interior de suave tejido de sherpa en mezcla de 95% poliéster y 5% spandex\n· Acolchado grueso para aislamiento térmico\n· Solapas de muesca tradicionales\n· Cierre cruzado con dos filas de botones\n· Dos bolsillos laterales funcionales\n· Corte a la rodilla y silueta sastre",
  "display_images": [
-  "assets/products/shop/b1530975ac15d72c3692.jpg",
   "assets/products/shop/b6101a8e414b104b2dd0.jpg",
   "assets/products/shop/7746bf99c0f4aad82f27.jpg",
-  "assets/products/shop/9650c011dcd3c5b96034.jpg",
-  "assets/products/shop/721e5114552172d562fe.jpg",
-  "assets/products/shop/e485741851c3a7e15e66.jpg",
   "assets/products/shop/10b4e23e3d1fbe5731d8.jpg"
  ],
  "draft": false,
@@ -30,9 +40,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Abrigo Cruzado Colección Jacket · White",
- "name_es": "Chaqueta Abrigo Cruzado Colección · Blanco",
+ "name_en": "Private Collection Double Breasted Coat",
+ "name_es": "Abrigo Cruzado Colección Privada",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
  "rank": 1856,
@@ -40,8 +51,124 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Hem",
+   "Shoulder",
+   "Sleeve length",
+   "Cuff"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud",
+   "Busto",
+   "Dobladillo",
+   "Hombro",
+   "Manga",
+   "Puño"
+  ],
+  "notes_en": "This data was obtained from manually measuring the product, it may be off by 2-3 CM.",
+  "notes_es": "Estos datos se obtuvieron midiendo el producto manualmente, pueden variar de 2 a 3 CM.",
+  "rows": [
+   [
+    "XS",
+    "33.86 / 86",
+    "43.31 / 110",
+    "46.46 / 118",
+    "18.31 / 46.5",
+    "24.33 / 61.8",
+    "9.69 / 24.6"
+   ],
+   [
+    "S",
+    "34.65 / 88",
+    "44.88 / 114",
+    "48.03 / 122",
+    "18.90 / 48",
+    "24.80 / 63",
+    "10.16 / 25.8"
+   ],
+   [
+    "M",
+    "35.43 / 90",
+    "46.46 / 118",
+    "49.61 / 126",
+    "19.49 / 49.5",
+    "25.28 / 64.2",
+    "10.63 / 27"
+   ],
+   [
+    "L",
+    "36.22 / 92",
+    "48.43 / 123",
+    "51.57 / 131",
+    "20.20 / 51.3",
+    "25.75 / 65.4",
+    "11.10 / 28.2"
+   ],
+   [
+    "XL",
+    "37.01 / 94",
+    "50.39 / 128",
+    "53.54 / 136",
+    "20.91 / 53.1",
+    "26.22 / 66.6",
+    "11.57 / 29.4"
+   ],
+   [
+    "XXL",
+    "37.80 / 96",
+    "52.36 / 133",
+    "55.51 / 141",
+    "21.61 / 54.9",
+    "26.69 / 67.8",
+    "12.05 / 30.6"
+   ],
+   [
+    "XXXL",
+    "38.58 / 98",
+    "54.33 / 138",
+    "57.48 / 146",
+    "22.32 / 56.7",
+    "27.17 / 69",
+    "12.52 / 31.8"
+   ],
+   [
+    "4XL",
+    "39.37 / 100",
+    "56.30 / 143",
+    "59.45 / 151",
+    "23.03 / 58.5",
+    "27.64 / 70.2",
+    "12.99 / 33"
+   ],
+   [
+    "5XL",
+    "40.16 / 102",
+    "58.27 / 148",
+    "61.42 / 156",
+    "23.74 / 60.3",
+    "28.11 / 71.4",
+    "13.46 / 34.2"
+   ],
+   [
+    "6XL",
+    "40.94 / 104",
+    "60.24 / 153",
+    "63.39 / 161",
+    "24.45 / 62.1",
+    "28.58 / 72.6",
+    "13.94 / 35.4"
+   ]
+  ],
+  "unit": "in / cm"
+ },
+ "size_guide": [
+  "assets/products/shop/e485741851c3a7e15e66.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

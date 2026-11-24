@@ -1,5 +1,14 @@
 {
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% poliéster suave",
  "ai_priority": true,
+ "ai_type": "Calcetines",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle and studio imagery that elevates a simple accessory to luxury standard.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +18,10 @@
  "cg": "t-dazmond-signature-essence-mid-length-socks",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your daily wardrobe with the refined simplicity of the Signature Essence socks. Crafted entirely from soft 100% polyester, they offer exceptional comfort and a smooth texture against the skin. Their mid-length design transitions effortlessly from urban wear to formal tailoring. Each piece is crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Eleve su guardarropa diario con la refinada simplicidad de los calcetines Signature Essence. Confeccionados íntegramente en 100% poliéster suave, ofrecen una comodidad excepcional y una textura agradable al contacto con la piel. Su diseño de longitud media se adapta con naturalidad tanto a conjuntos urbanos como a propuestas formales más exigentes. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponibles con envíos a todo el mundo.",
+ "details_en": "· Composition: Soft 100% polyester.\n· Reinforced black heels and toes.\n· Mid-length model.\n· Identical print on both socks.\n· Made in USA.",
+ "details_es": "· Composición: 100% poliéster suave.\n· Tacones y punteras reforzados en negro.\n· Modelo de longitud media.\n· Estampado idéntico en ambos calcetines.\n· Fabricado en EE. UU.",
  "display_images": [
   "assets/products/shop/14418090b8ca3184b330.jpg",
   "assets/products/shop/261b162fcdd930ee30cf.jpg",
@@ -30,9 +41,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Signature Essence Mid Underwear",
- "name_es": "Ropa Interior Signature Essence Mid",
+ "name_en": "Signature Essence Socks",
+ "name_es": "Calcetines Signature Essence",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 32.99,
  "rank": 1854,
@@ -40,7 +52,33 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Calcetines > Calcetines largos",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Dimension",
+   "Inches (in)",
+   "Centimeters (cm)"
+  ],
+  "headers_es": [
+   "Dimensión",
+   "Pulgadas (in)",
+   "Centímetros (cm)"
+  ],
+  "notes_en": "One size fits all with a flexible architecture.",
+  "notes_es": "Talla única con arquitectura flexible.",
+  "rows": [
+   [
+    "Longitud",
+    "16.50\"",
+    "41.9 cm"
+   ],
+   [
+    "Ancho",
+    "3.20\"",
+    "8.13 cm"
+   ]
+  ],
+  "unit": "in / cm"
+ },
  "size_guide": [],
  "sizes": [
   "Talla única"

@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Brown and White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_sizes": "One Size",
+ "ai_type": "Travel Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio renders against a plain white background, though lacking true luxury editorial atmosphere and featuring generic compositing.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,15 +23,16 @@
  "cg": "t-bolsa-de-viaje-plegable-de-cuero-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Designed for the contemporary traveler, this travel bag combines refined functionality with a sophisticated aesthetic. Crafted from high-quality synthetic leather, it features a marble-inspired pattern with brown accents. Its versatile design includes a spacious main compartment, dedicated side shoe pockets, and durable metal zipper closures. The foldable structure optimizes storage space when not in use. Equipped with a padded, adjustable, and removable shoulder strap for effortless carrying. Available made to order with worldwide shipping.",
+ "desc_es": "Diseñada para el viajero contemporáneo, esta bolsa de viaje combina funcionalidad refinada con una estética sofisticada. Confeccionada en piel sintética de alta calidad, presenta un patrón de inspiración marmórea con detalles en tonos marrones. Su diseño versátil incluye un compartimento principal espacioso, bolsillos laterales específicos para calzado y cierres de cremallera metálica duraderos. La estructura plegable permite optimizar el espacio de almacenamiento. Equipada con una correa de hombro acolchada, ajustable y extraíble para un transporte cómodo. Pieza disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· High-quality synthetic leather\n· Spacious main compartment\n· Side shoe pockets\n· Metal zippers\n· Padded, adjustable, and removable shoulder strap\n· Foldable design\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Piel sintética de alta calidad\n· Compartimento principal espacioso\n· Bolsillos laterales para zapatos\n· Cremalleras metálicas\n· Correa de hombro acolchada, ajustable y extraíble\n· Diseño plegable\n· Pieza elaborada bajo pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/f4d68cee966125bfb44b.jpg",
   "assets/products/shop/fc6276edf4e87ce5d9fd.jpg",
   "assets/products/shop/a096c3d9f1a59afacd5d.jpg",
   "assets/products/shop/1124f39fc7e4ae6bc533.jpg",
   "assets/products/shop/806b2d0d1ff2da055561.jpg",
-  "assets/products/shop/a0b4f3ad800b7f45ae25.jpg",
   "assets/products/shop/458e96db05beb78b7e6d.jpg"
  ],
  "draft": false,
@@ -31,9 +46,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Bolsa Viaje Plegable Bag",
- "name_es": "Bolso Bolsa Viaje Plegable",
+ "name_en": "Marbled Foldable Travel Bag",
+ "name_es": "Bolsa de Viaje Plegable Marbled",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 65.99,
  "rank": 1867,
@@ -41,9 +57,35 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Maletas y bolsos de viaje > Bolsas de deporte",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Height",
+   "Unfolded"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Alto",
+   "Desplegado"
+  ],
+  "notes_en": "Measurements are approximate.",
+  "notes_es": "Las medidas son aproximadas.",
+  "rows": [
+   [
+    "50.5",
+    "25.5",
+    "33",
+    "50.5 x 101"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
- "sizes": [],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolsa de viaje plegable de cuero DAZ Luxury",
  "stripe_payment_link": "https://buy.stripe.com/cNi28s87a12cbmKayG1gR3n",
  "supplier": "Shopify",

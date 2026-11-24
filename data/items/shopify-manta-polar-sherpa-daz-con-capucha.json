@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Crema y Negro / Cream and Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% Poliéster / 100% Polyester",
  "ai_priority": true,
+ "ai_type": "Hooded Blanket",
+ "ai_ver": 2,
+ "art_note": "High-end luxury lifestyle imagery with sophisticated interior lighting and tactile focus on textures.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-dazmond-cosmic-cocoon-hooded-sherpa-blanket",
  "color": "Crema",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Conceived for the coldest months, this piece redefines home comfort with an enveloping design. Its silky-touch exterior combines with a cream-toned sherpa fleece-lined hood, offering an exceptional visual and tactile texture. A lightweight yet highly efficient garment for heat retention, created as a functional work of art. Each piece is crafted on demand to ensure absolute exclusivity.",
+ "desc_es": "Concebida para los meses más fríos, esta pieza redefine el confort doméstico con un diseño envolvente. Su exterior de tacto sedoso se combina con un interior de capucha forrado en vellón sherpa en tono crema, ofreciendo una textura visual y táctil excepcional. Una prenda ligera pero altamente eficiente para retener el calor, creada como una obra de arte funcional. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta.",
+ "details_en": "· 100% premium polyester with extreme softness\n· Hood lined with cream-toned sherpa fleece\n· Dimensions: 179 cm x 132 cm\n· Made-to-order production\n· Worldwide shipping available",
+ "details_es": "· 100% poliéster premium de suavidad extrema\n· Capucha forrada con vellón sherpa en tono crema\n· Medidas: 179 cm x 132 cm\n· Confección bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/66f2c753e92f88e3520b.jpg",
   "assets/products/shop/386601fff9a07ba7c8ba.jpg",
@@ -31,9 +46,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Cosmic Cocoon Sherpa Sweatshirt",
- "name_es": "Sudadera Cosmic Cocoon Sherpa",
+ "name_en": "Cosmic Cocoon Hooded Blanket",
+ "name_es": "Manta con Capucha Cosmic Cocoon",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 86.99,
  "rank": 1855,

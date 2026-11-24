@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
  "ai_priority": true,
+ "ai_type": "Wallet",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but the hand-held lifestyle images look composited and lack high-end luxury campaign standards.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,12 +22,12 @@
  "cg": "t-cartera-con-cremallera",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This compact wallet blends functionality with refined design. Crafted from waterproof synthetic leather, it presents a structured silhouette secured by a wrap-around golden zipper. The interior is engineered to maintain essential order, offering dedicated compartments for cards and documents. An essential everyday piece that balances practicality and understated elegance. Available made to order with worldwide shipping.",
+ "desc_es": "Esta cartera compacta combina funcionalidad y diseño refinado. Confeccionada en piel sintética impermeable, presenta una silueta estructurada asegurada por una cremallera dorada envolvente. Su interior está diseñado para mantener el orden esencial, ofreciendo compartimentos dedicados para tarjetas y documentos. Una pieza esencial para el día a día que equilibra practicidad y elegancia discreta. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Waterproof synthetic leather\n· Wrap-around golden zipper\n· Two wall compartments and card storage space\n· Made to order and available with worldwide shipping",
+ "details_es": "· Piel sintética impermeable\n· Cremallera dorada envolvente\n· Dos compartimentos en la pared y espacio para tarjetas\n· Disponible bajo pedido y con envío a todo el mundo",
  "display_images": [
   "assets/products/shop/08b4e046dd8559bde79d.jpg",
-  "assets/products/shop/aa713f8dc1e03ca79f5e.jpg",
-  "assets/products/shop/df64be0c12f8000ef993.jpg",
   "assets/products/shop/12817957a1274c1e3fa6.jpg",
   "assets/products/shop/ca23e1f789ccc49c355a.jpg"
  ],
@@ -30,9 +43,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Cartera Cremallera Bag",
- "name_es": "Bolso Cartera Cremallera",
+ "name_en": "Zip Around Wallet",
+ "name_es": "Cartera con Cremallera",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.0,
  "rank": 1886,

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/botas-botines-hombre",
+  "calzado-mujer/botas-botines"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Piel sintética",
  "ai_priority": true,
+ "ai_type": "Botas",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce mockups with plain backgrounds, lacking high-end editorial lighting and styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-botas-de-piel-sintetica-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "These boots combine a bold design with precise craftsmanship. Engineered for durability and comfort at every step, they feature a distinctive geometric pattern. The construction integrates a durable rubber sole and a cushioned foam insole. Each pair is crafted to order to ensure absolute exclusivity.",
+ "desc_es": "Estas botas combinan un diseño audaz con una confección precisa. Elaboradas para ofrecer resistencia y comodidad en cada paso, presentan un patrón geométrico distintivo. La estructura integra una suela de goma duradera y una plantilla de espuma amortiguadora. Cada par se elabora bajo pedido para asegurar una exclusividad absoluta.",
+ "details_en": "· Eco-friendly vegan synthetic leather\n· Rubber sole and EVA foam insole\n· Mesh and foam lining\n· Lace-up closure\n· Made to order",
+ "details_es": "· Piel sintética ecológica y vegana\n· Suela de goma y plantilla de espuma EVA\n· Forro de malla y espuma\n· Cierre de cordones\n· Fabricado bajo pedido",
  "display_images": [
   "assets/products/shop/49ee9a1d43623ce2240d.jpg",
   "assets/products/shop/3a6026a081cc53ed2332.jpg",
@@ -19,9 +34,7 @@
   "assets/products/shop/a1bba19593991e2a3d76.jpg",
   "assets/products/shop/a78d1e539c3d7cccbc1d.jpg",
   "assets/products/shop/dfcf85efb3314f712f2c.jpg",
-  "assets/products/shop/3c4c63179f987338dcdb.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-2/D41-DY%20%E9%A9%AC%E4%B8%81%E9%9D%B4%E5%B0%BA%E7%A0%81%E8%A1%A8%28%E5%86%85%E9%95%BF%29.jpg",
-  "https://assets-us.wowfulfillment.com/desc/d41-size-chart-0330.jpg"
+  "assets/products/shop/3c4c63179f987338dcdb.jpg"
  ],
  "draft": false,
  "fam": "botas-piel-sintetica",
@@ -36,9 +49,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Piel Sintética Daz Boots",
- "name_es": "Botas Piel Sintética Daz",
+ "name_en": "Diamond Print Boot",
+ "name_es": "Bota Estampada Diamantes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 109.0,
  "rank": 1882,

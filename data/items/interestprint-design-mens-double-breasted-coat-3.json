@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester and Sherpa",
  "ai_priority": true,
+ "ai_type": "Coat",
+ "ai_ver": 2,
+ "art_note": "Standard flat lays and basic mockups lack true luxury editorial atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,15 +20,14 @@
  "cg": "t-abrigo-cruzado-dazmond-sovereign-heritage-con-forro-sherpa",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This double-breasted coat combines a knee-length silhouette with a soft sherpa interior lining and broad notch lapels. Its defined structure delivers a distinguished presence for both formal settings and urban transit. Each piece is made to order in our American fashion house, with worldwide shipping.",
+ "desc_es": "Este abrigo de corte cruzado combina una silueta hasta la rodilla con un suave forro interior de sherpa y amplias solapas de muesca. Su estructura definida ofrece un porte distinguido tanto en entornos formales como en trayectos urbanos. Cada pieza se confecciona bajo pedido en nuestra casa de moda estadounidense, con envíos a todo el mundo.",
+ "details_en": "· 260 g/m² exterior polyester fabric with British-inspired texture\n· Black sherpa interior lining made of 95% polyester and 5% elastane\n· Double-breasted closure design\n· Two functional side pockets\n· Knee-length cut\n· Exclusive made-to-order production with worldwide shipping",
+ "details_es": "· Exterior de poliéster de 260 g/m² con textura de inspiración británica\n· Forro interior de sherpa negro compuesto por 95% poliéster y 5% elastano\n· Diseño cruzado con cierre de doble botonadura\n· Dos bolsillos laterales funcionales\n· Largo hasta la rodilla\n· Confección exclusiva bajo pedido y envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/d43b543c48dade674851.jpg",
   "assets/products/shop/713f608f40ec7a12dbff.jpg",
   "assets/products/shop/198a2985d67f75ee3253.jpg",
   "assets/products/shop/f390959172f9ef2db3c1.jpg",
-  "assets/products/shop/07f33672e9f2eda6395c.jpg",
-  "assets/products/shop/82d3cc8062531747be71.jpg",
   "assets/products/shop/ee0650c97163b1639ec2.jpg"
  ],
  "draft": false,
@@ -30,9 +41,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Abrigo Cruzado Sovereign Jacket · White",
- "name_es": "Chaqueta Abrigo Cruzado Sovereign · Blanco",
+ "name_en": "Sovereign Heritage Double-Breasted Coat",
+ "name_es": "Abrigo Cruzado Sovereign Heritage",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
  "rank": 1858,
@@ -40,8 +52,124 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Hem",
+   "Shoulder",
+   "Sleeve length",
+   "Cuff"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Bajo",
+   "Hombro",
+   "Largo de manga",
+   "Puño"
+  ],
+  "notes_en": "Data obtained from manually measuring the product, it may be off by 2-3 cm.",
+  "notes_es": "Datos obtenidos mediante medición manual del producto, pueden variar entre 2 y 3 cm.",
+  "rows": [
+   [
+    "XS",
+    "33.86 / 86",
+    "43.31 / 110",
+    "46.46 / 118",
+    "18.31 / 46.5",
+    "24.33 / 61.8",
+    "9.69 / 24.6"
+   ],
+   [
+    "S",
+    "34.65 / 88",
+    "44.88 / 114",
+    "48.03 / 122",
+    "18.90 / 48.0",
+    "24.80 / 63.0",
+    "10.16 / 25.8"
+   ],
+   [
+    "M",
+    "35.43 / 90",
+    "46.46 / 118",
+    "49.61 / 126",
+    "19.49 / 49.5",
+    "25.28 / 64.2",
+    "10.63 / 27.0"
+   ],
+   [
+    "L",
+    "36.22 / 92",
+    "48.43 / 123",
+    "51.57 / 131",
+    "20.20 / 51.3",
+    "25.75 / 65.4",
+    "11.10 / 28.2"
+   ],
+   [
+    "XL",
+    "37.01 / 94",
+    "50.39 / 128",
+    "53.54 / 136",
+    "20.91 / 53.1",
+    "26.22 / 66.6",
+    "11.57 / 29.4"
+   ],
+   [
+    "XXL",
+    "37.80 / 96",
+    "52.36 / 133",
+    "55.51 / 141",
+    "21.61 / 54.9",
+    "26.69 / 67.8",
+    "12.05 / 30.6"
+   ],
+   [
+    "3XL",
+    "38.58 / 98",
+    "54.33 / 138",
+    "57.48 / 146",
+    "22.32 / 56.7",
+    "27.17 / 69.0",
+    "12.52 / 31.8"
+   ],
+   [
+    "4XL",
+    "39.37 / 100",
+    "56.30 / 143",
+    "59.45 / 151",
+    "23.03 / 58.5",
+    "27.64 / 70.2",
+    "12.99 / 33.0"
+   ],
+   [
+    "5XL",
+    "40.16 / 102",
+    "58.27 / 148",
+    "61.42 / 156",
+    "23.74 / 60.3",
+    "28.11 / 71.4",
+    "13.46 / 34.2"
+   ],
+   [
+    "6XL",
+    "40.94 / 104",
+    "60.24 / 153",
+    "63.39 / 161",
+    "24.45 / 62.1",
+    "28.58 / 72.6",
+    "13.94 / 35.4"
+   ]
+  ],
+  "unit": "in / cm"
+ },
+ "size_guide": [
+  "assets/products/shop/82d3cc8062531747be71.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

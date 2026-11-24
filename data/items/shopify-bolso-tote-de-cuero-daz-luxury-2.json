@@ -1,16 +1,29 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PU Leather",
  "ai_priority": true,
+ "ai_type": "Tote Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with good lighting, but lacking lifestyle or editorial context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-tote-de-cuero-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your everyday style with this sophisticated PU leather tote bag. Designed with a spacious interior compartment and three dedicated pockets, it offers impeccable organization for your daily essentials. The secure zip closure ensures absolute safety, while adjustable handles and shoulder strap provide carrying versatility. An essential piece that pairs flawless functionality with a modern aesthetic. Made especially for you as soon as you place an order. Worldwide shipping available.",
+ "desc_es": "Eleva tu estilo cotidiano con este sofisticado bolso tote de cuero PU. Diseñado con un amplio compartimento interior y tres bolsillos dedicados, ofrece una organización impecable para tus esenciales diarios. El cierre de cremallera superior garantiza seguridad absoluta, mientras que las asas ajustables y la correa para el hombro brindan versatilidad en el transporte. Una pieza esencial que combina funcionalidad impecable con una estética moderna. Hecho especialmente para ti tan pronto como realizas un pedido. Envío mundial disponible.",
+ "details_en": "· High-quality PU leather\n· Spacious interior compartment with three pockets\n· Secure zipper closure\n· Adjustable handles and shoulder strap\n· Clean regularly with a soft damp cloth and air dry\n· This product is made especially for you as soon as you place an order",
+ "details_es": "· Cuero PU de alta calidad\n· Amplio compartimento interior con tres bolsillos\n· Cierre de cremallera seguro\n· Asas ajustables y correa para el hombro\n· Limpiar regularmente con un paño suave húmedo y secar al aire\n· Este producto está hecho especialmente para usted tan pronto como realiza un pedido",
  "display_images": [
   "assets/products/shop/acc1ad7ca91fb443a046.jpg",
   "assets/products/shop/2092f42041c6a421c64e.jpg",
@@ -18,8 +31,7 @@
   "assets/products/shop/1b495abe26ec7dd4f325.jpg",
   "assets/products/shop/e091a6cf61884ebbcf1b.jpg",
   "assets/products/shop/b08f45a1b2b93a81f5c4.jpg",
-  "assets/products/shop/ee02dffd3f801cf854e7.jpg",
-  "assets/products/shop/81cebcd52716907cfad0.jpg"
+  "assets/products/shop/ee02dffd3f801cf854e7.jpg"
  ],
  "draft": false,
  "fam": "bolso-tote-cuero",
@@ -27,24 +39,61 @@
  "id": "shopify-bolso-tote-de-cuero-daz-luxury-2",
  "img_checked": "2026-11-23",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-345759651"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
  "name_en": "PU Leather Tote Bag",
  "name_es": "Bolso Tote de Cuero PU",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 38.99,
- "rank": 1736,
+ "rank": 1737,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsos estilo shopper",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length1",
+   "Length2",
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo superior",
+   "Largo inferior",
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "M",
+    "40cm (15.7\")",
+    "30.5cm (12\")",
+    "13.5cm (5.3\")",
+    "25cm (9.8\")"
+   ],
+   [
+    "L",
+    "44cm (17.3\")",
+    "35cm (13.8\")",
+    "14cm (5.5\")",
+    "28cm (11\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/81cebcd52716907cfad0.jpg"
+ ],
  "sizes": [
   "M",
   "L"

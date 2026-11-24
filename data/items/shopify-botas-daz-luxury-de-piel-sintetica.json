@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/botas-botines-hombre",
+  "calzado-mujer/botas-botines"
+ ],
+ "ai_color": "Amarillo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Piel sintética",
  "ai_priority": true,
+ "ai_type": "Botas",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shots with a standard e-commerce aesthetic, but lacks the high-end atmospheric depth of a luxury campaign.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,19 +22,17 @@
  "cg": "t-botas-daz-luxury-de-piel-sintetica",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "These faux leather boots combine durability and contemporary design. Their waterproof structure and soft interior lining ensure protection against the elements without sacrificing comfort. They feature an eco-friendly rubber outsole and a non-slip EVA foam insole for a firm stride. Each pair is specially made to order to preserve the exclusivity of our community with limited units.",
+ "desc_es": "Estas botas de piel sintética combinan durabilidad y diseño contemporáneo. Su estructura impermeable y su suave forro interior aseguran protección contra los elementos sin sacrificar el confort. Incorporan una suela de material de goma ecológico y una plantilla de espuma EVA antideslizante para una pisada firme. Cada par se confecciona especialmente bajo demanda para mantener la exclusividad de nuestra comunidad con unidades limitadas.",
+ "details_en": "· Crafted from faux leather\n· Eco-friendly rubber material outsole\n· Non-slip EVA foam insole\n· Lace-up closure\n· Interior lining made of 80% cotton and 20% polyester\n· Made specially for you\n· Available with worldwide shipping",
+ "details_es": "· Confeccionado en piel sintética\n· Suela de material de goma ecológico\n· Plantilla de espuma EVA antideslizante\n· Cierre de cordones\n· Forro interior de 80 % algodón y 20 % poliéster\n· Hecho especialmente para usted\n· Disponible con envío mundial",
  "display_images": [
   "assets/products/shop/5a3f418dcee7a65e4b41.jpg",
   "assets/products/shop/86446d461fad0ce0f0a5.jpg",
   "assets/products/shop/290bbfa013cf4561bdab.jpg",
   "assets/products/shop/9d253b85e95576eaaa44.jpg",
   "assets/products/shop/2b319b091aadbc50bf6c.jpg",
-  "assets/products/shop/517d1be538e1958d69aa.jpg",
-  "assets/products/shop/45ab7e76fb41424970cb.jpg",
-  "assets/products/shop/8550e12ec6e67d718b0e.jpg",
-  "assets/products/shop/7ad9f2266bcf3e12ed98.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-3/SF_D86%E5%8A%A0%E7%BB%92%E9%A9%AC%E4%B8%81%E9%9D%B4%28%E5%86%85%E9%95%BF%29.jpg"
+  "assets/products/shop/517d1be538e1958d69aa.jpg"
  ],
  "draft": false,
  "fam": "botas-luxury-piel",
@@ -36,9 +47,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Daz Piel Sintética Boots",
- "name_es": "Botas Daz Piel Sintética",
+ "name_en": "DAZ Faux Leather Boots",
+ "name_es": "Botas de Piel Sintética DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 227.99,
  "rank": 1872,

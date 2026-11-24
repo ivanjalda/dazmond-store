@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester",
  "ai_priority": true,
+ "ai_type": "Bowling Shirt",
+ "ai_ver": 2,
+ "art_note": "High-end luxury campaign imagery with exceptional lighting and refined lifestyle context.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,8 +20,10 @@
  "cg": "t-dazmond-crimson-thorns-retro-bowling-shirt",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A sophisticated reimagining of the traditional bowling silhouette. Crafted from a lightweight and fluid high-quality fabric. Features an open camp collar and a front button closure. Designed with a regular fit and an impeccable drape. A versatile and essential piece for the summer season.",
+ "desc_es": "Una sofisticada reinvención de la silueta de bolos tradicional. Confeccionada con un tejido ligero y fluido de alta calidad. Presenta un cuello de solapas abierto y un cierre frontal de botones oscuros. Diseño de corte regular con una caída impecable. Una prenda versátil y esencial para la temporada estival.",
+ "details_en": "· 100% polyester\n· Regular fit\n· Front button closure\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100% poliéster\n· Corte regular\n· Cierre frontal de botones\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--1.webp",
   "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--2.webp",
@@ -31,9 +45,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Crimson Thorns Retro Shirt",
- "name_es": "Camisa Crimson Thorns Retro",
+ "name_en": "Crimson Thorns Bowling Shirt",
+ "name_es": "Camisa de Bolos Crimson Thorns",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 31.99,
  "rank": 1846,
