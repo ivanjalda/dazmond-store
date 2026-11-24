@@ -1,16 +1,29 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "rosa",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "piel sintética",
  "ai_priority": true,
+ "ai_type": "bolso de mano",
+ "ai_ver": 2,
+ "art_note": "Rendered mockups and flat compositions detract from the luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/bolsos-carteras",
   "mujer/bolsos-carteras"
  ],
  "cg": "t-bolso-de-mano-de-cuero-sintetico-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This structured faux leather tote combines everyday elegance with functional design. Crafted with sturdy top handles and a refined silhouette, it offers versatility and sophistication for any occasion. The interior features a smooth zipper closure to secure daily essentials. Each piece is made to order to ensure exclusivity and shipped worldwide.",
+ "desc_es": "Este bolso estructurado de piel sintética combina elegancia y funcionalidad para el día a día. Diseñado con asas superiores resistentes y una silueta depurada, ofrece versatilidad y sofisticación en cualquier ocasión. El interior cuenta con un cierre de cremallera suave para proteger los objetos esenciales. Cada pieza se elabora bajo demanda para garantizar exclusividad y se envía a todo el mundo.",
+ "details_en": "· Composition: Premium faux leather\n· Smooth zipper closure\n· Sturdy top handles and removable adjustable strap\n· Regular cleaning with cold water and a damp cloth recommended\n· Made to order with worldwide shipping",
+ "details_es": "· Composición: Piel sintética de alta calidad\n· Cierre superior de cremallera\n· Asas superiores resistentes y correa ajustable extraíble\n· Limpiar regularmente con agua fría y un paño húmedo\n· Hecho bajo demanda con envío a todo el mundo",
  "display_images": [
   "assets/products/shop/b28bb3b5cf76db999574.jpg",
   "assets/products/shop/8f16ab89a8312d5223be.jpg",
@@ -19,8 +32,7 @@
   "assets/products/shop/dd9605c3931b8fc2cb1d.jpg",
   "assets/products/shop/e9d7ebf903d369fce1bb.jpg",
   "assets/products/shop/ee0c4eaa3f79f877b5f1.jpg",
-  "assets/products/shop/59230bf91300292b8552.jpg",
-  "assets/products/shop/f30f6f538599c6c9dcd9.jpg"
+  "assets/products/shop/59230bf91300292b8552.jpg"
  ],
  "draft": false,
  "fam": "bolso-mano-cuero",
@@ -28,15 +40,16 @@
  "id": "shopify-bolso-de-mano-de-cuero-sintetico-daz-luxury-3",
  "img_checked": "2026-11-22",
  "look": [
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822",
-  "printful-345759651"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
  "name_en": "Synthetic Leather Handbag",
  "name_es": "Bolso de mano de cuero sintético",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 1641,
@@ -44,8 +57,46 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsos estilo cartera",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "HEIGHT",
+   "WIDTH"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "ALTURA",
+   "ANCHO"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement. Adjustable strap drop length: 42-52cm (16.5~20.5 inch).",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual. Longitud de caída de la correa ajustable: 42-52 cm (16.5~20.5 pulgadas).",
+  "rows": [
+   [
+    "S",
+    "29cm(11.4\")",
+    "20cm(7.9\")",
+    "12cm(4.7\")"
+   ],
+   [
+    "M",
+    "35cm(13.8\")",
+    "27cm(10.6\")",
+    "14cm(5.5\")"
+   ],
+   [
+    "L",
+    "40.8cm(16.1\")",
+    "34cm(13.4\")",
+    "19cm(7.5\")"
+   ]
+  ],
+  "unit": "cm / inch"
+ },
+ "size_guide": [
+  "assets/products/shop/f30f6f538599c6c9dcd9.jpg"
+ ],
  "sizes": [
   "S",
   "M",
