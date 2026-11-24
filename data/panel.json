@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-24 21:42 UTC",
+  "updated": "2026-11-24 22:42 UTC",
   "totals": {
     "catalogo": 2438,
-    "a_la_vista": 2072,
+    "a_la_vista": 2074,
     "disenos_a_la_vista": 845,
-    "ocultos": 366,
-    "ia_revisados": 952,
-    "ia_pendientes": 1485,
-    "con_boton_de_pago": 2072,
+    "ocultos": 364,
+    "ia_revisados": 954,
+    "ia_pendientes": 1483,
+    "con_boton_de_pago": 2074,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 11,
     "ventas_30_dias": 0,
@@ -19,7 +19,7 @@
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 362
+    "Borrador": 360
   },
   "suppliers": {
     "Printful": {
@@ -35,8 +35,8 @@
       "ocultos": 13
     },
     "InterestPrint": {
-      "visibles": 104,
-      "ocultos": 353
+      "visibles": 106,
+      "ocultos": 351
     }
   },
   "guard": [
@@ -1988,24 +1988,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-3",
-      "n": "Mono Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/083cc0d2caae34215f61.jpg",
-      "c": "hombre/conjuntos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-4",
-      "n": "Mono Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/22c9e1f1e077ab96d32e.jpg",
-      "c": "hombre/conjuntos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-7",
       "n": "Mono Jumpsuit · Blanco",
       "s": "InterestPrint",
@@ -3858,7 +3840,7 @@
     "CSV leído: telegram.csv",
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 14 s",
+    "⏱ lectura de proveedores: 12 s",
     "Productos en catálogo: 2438 · a la vista: 2075 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
@@ -3866,8 +3848,8 @@
     "⏱ ventas, visitas y cupones: 3 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1710",
-    "⏱ revisión con IA: 126 s",
+    "IA: 2 productos revisados (fotos, guía de tallas y textos) · quedan 1708",
+    "⏱ revisión con IA: 209 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",

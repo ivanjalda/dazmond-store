@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:42:26Z",
+  "updated": "2026-11-24T22:42:15Z",
   "products": [
     {
       "id": "printful-365090873",
@@ -300303,7 +300303,6 @@
       "supplier_id": "design-3-4-sleeve-jumpsuit-3",
       "source_title": "Design 3/4 Sleeve Jumpsuit",
       "categories": [
-        "hombre/conjuntos",
         "mujer/vestidos-monos-petos"
       ],
       "cost_usd": 9.29,
@@ -300328,8 +300327,71 @@
       ],
       "draft": true,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/7a61641fc0436fcf9833.jpg",
+        "http://ipimg.interestprint.com/data/product/4823/info/image/20251014/40ABE8143FD711CA03AA3C248C4D6E2E.jpg"
+      ],
+      "size_chart": {
+        "unit": "CM/IN",
+        "headers": [
+          "SIZE",
+          "BUST(CM/IN)",
+          "LENGTH(CM/IN)",
+          "SLEEVE(CM/IN)"
+        ],
+        "headers_es": [
+          "TALLA",
+          "PECHO(CM/IN)",
+          "LONGITUD(CM/IN)",
+          "MANGA(CM/IN)"
+        ],
+        "rows": [
+          [
+            "S",
+            "100/39.37",
+            "122/48.03",
+            "40/15.75"
+          ],
+          [
+            "M",
+            "104/40.94",
+            "124/48.82",
+            "40.5/15.94"
+          ],
+          [
+            "L",
+            "108/42.52",
+            "126/49.61",
+            "41/16.14"
+          ],
+          [
+            "XL",
+            "112/44.09",
+            "128/50.39",
+            "41.5/16.34"
+          ],
+          [
+            "2XL",
+            "118/46.46",
+            "130/51.18",
+            "42/16.54"
+          ],
+          [
+            "3XL",
+            "124/48.82",
+            "132/51.97",
+            "42.5/16.73"
+          ],
+          [
+            "4XL",
+            "130/51.18",
+            "134/52.76",
+            "43/16.93"
+          ]
+        ],
+        "notes_en": "Please refer to the size chart to choose the correct size.",
+        "notes_es": "Consulte la tabla de tallas para elegir la talla correcta."
+      },
       "sku_map": {
         "S": "D3291224",
         "M": "D3291224",
@@ -300343,8 +300405,8 @@
       "source_text": "Design 3/4 Sleeve Jumpsuit Jumpsuits, Rompers & Overalls white .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n InterestPrint® 3/4 Sleeve Jumpsuit \r\n Type: 95% Polyester, 5% Spandex ,for Women, All Over Printing \r\n Material: 95% Polyester, 5% Spandex – soft, skin-friendly fabric with slight stretch for all-day comfort and a graceful drape.\n Round neck with minimalist style; loose three-quarter sleeves that flatter the arms.\r\n Two pockets for convenient storage.\r\n Mid-rise straight-cut waist for a comfortable, non-restrictive fit.\r\n Cropped-length pants elongate the legs, suitable for spring, summer, and autumn wear.\r\n Ideal for daily outings, casual dates, or vacation, effortlessly creating a chic minimalist look.\n Sizes: S, M, L, XL, 2XL, 3XL, 4XL. Please refer to the size chart below to choose the correct size.\r\n Care Instructions: Hand wash or machine wash. Do not soak for long periods. Do not bleach. Wash with water temperature not exceeding 45ºC (113ºF).\n To ensure the highest quality print, please note that this product's recommended uploaded image size in pixels (W x H): \nPrint: 3692 x 5000 or Higher / 150 dpi.\r\n CUSTOMIZATION TIPS \n We can't guarantee exact placement. There might be slight discrepancies in print placement. Please keep the main elements of your art towards the center of the design area. Anything near the edge runs the risk of being cut off during the cutting and sewing process.\n We allow the color accuracy deviation of the finished product and the mockup image to",
       "name_es": "Mono Jumpsuit · Blanco",
       "name_en": "Jumpsuit Jumpsuit · White",
-      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "desc_es": "Una silueta moderna definida por un diseño minimalista de cuello redondo y mangas tres cuartos holgadas. Confeccionado con un tejido suave que ofrece una ligera elasticidad y una caída elegante. Incorpora prácticos bolsillos laterales y una cintura de talle medio con corte recto. Su diseño de pernera corta aporta fluidez y sofisticación a la pieza. Disponible bajo demanda con envíos a todo el mundo.",
+      "desc_en": "A modern silhouette defined by a minimalist round neck and loose three-quarter sleeves. Crafted from a soft fabric offering slight stretch and a graceful drape. Features convenient side pockets and a mid-rise straight-cut waist. The cropped pant length adds fluidity and sophistication to the piece. Available made to order with worldwide shipping.",
       "price_usd": 24.99,
       "margin_pct": 25.1,
       "images_original": [
@@ -300357,11 +300419,9 @@
       "visual_verified": true,
       "display_images": [
         "assets/products/shop/083cc0d2caae34215f61.jpg",
-        "assets/products/shop/644401cb7074f556d545.jpg",
-        "assets/products/shop/7a61641fc0436fcf9833.jpg",
-        "http://ipimg.interestprint.com/data/product/4823/info/image/20251014/40ABE8143FD711CA03AA3C248C4D6E2E.jpg"
+        "assets/products/shop/644401cb7074f556d545.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-19": 27.99,
         "2026-11-20": 27.99,
@@ -300370,17 +300430,17 @@
         "2026-11-23": 24.99,
         "2026-11-24": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 19.01,
       "rank": 2232,
       "badge": "new",
       "look": [
-        "printful-365090873",
-        "printful-351492575-black",
-        "printful-361906822",
-        "printful-345759651"
+        "printful-383192424-black",
+        "printful-379237645",
+        "printful-337647274-dusty-rose",
+        "printful-350906743"
       ],
-      "page": false,
+      "page": true,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
@@ -300402,7 +300462,40 @@
       "cg": "t-design-sleeve-jumpsuit",
       "shop_category": "",
       "img_checked": "2026-11-23",
-      "ai_fail": 2
+      "ai_fail": 2,
+      "art_score": 3,
+      "art_note": "The imagery features flat composite mockups and low-end studio presentation failing to meet luxury e-commerce standards.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/083cc0d2caae34215f61.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/644401cb7074f556d545.jpg",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/7a61641fc0436fcf9833.jpg",
+          "http://ipimg.interestprint.com/data/product/4823/info/image/20251014/40ABE8143FD711CA03AA3C248C4D6E2E.jpg"
+        ]
+      },
+      "ai_type": "Jumpsuit",
+      "ai_gender": "women",
+      "ai_color": "white",
+      "ai_material": "95% Polyester, 5% Spandex",
+      "ai_cats": [
+        "mujer/vestidos-monos-petos"
+      ],
+      "details_es": "· Composición: 95% poliéster, 5% spandex\n· Cuello redondo y mangas tres cuartos\n· Dos bolsillos para almacenamiento\n· Talle medio con corte recto\n· Lavado a mano o a máquina a un máximo de 45ºC\n· Pieza confeccionada bajo demanda\n· Envío mundial disponible",
+      "details_en": "· Composition: 95% polyester, 5% spandex\n· Round neck and three-quarter sleeves\n· Two pockets for storage\n· Mid-rise straight-cut waist\n· Hand or machine wash at max 45ºC\n· Made-to-order piece\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-4",
@@ -300410,7 +300503,6 @@
       "supplier_id": "design-3-4-sleeve-jumpsuit-4",
       "source_title": "Design 3/4 Sleeve Jumpsuit",
       "categories": [
-        "hombre/conjuntos",
         "mujer/vestidos-monos-petos"
       ],
       "cost_usd": 9.29,
@@ -300435,8 +300527,71 @@
       ],
       "draft": true,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/cf9c20341e68f54d3dfe.jpg",
+        "http://ipimg.interestprint.com/data/product/4823/info/image/20251014/40ABE8143FD711CA03AA3C248C4D6E2E.jpg"
+      ],
+      "size_chart": {
+        "unit": "CM / IN",
+        "headers": [
+          "Size",
+          "Bust (CM/IN)",
+          "Length (CM/IN)",
+          "Sleeve (CM/IN)"
+        ],
+        "headers_es": [
+          "Talla",
+          "Busto (CM/IN)",
+          "Largo (CM/IN)",
+          "Manga (CM/IN)"
+        ],
+        "rows": [
+          [
+            "S",
+            "100/39.37",
+            "122/48.03",
+            "40/15.75"
+          ],
+          [
+            "M",
+            "104/40.94",
+            "124/48.82",
+            "40.5/15.94"
+          ],
+          [
+            "L",
+            "108/42.52",
+            "126/49.61",
+            "41/16.14"
+          ],
+          [
+            "XL",
+            "112/44.09",
+            "128/50.39",
+            "41.5/16.34"
+          ],
+          [
+            "2XL",
+            "118/46.46",
+            "130/51.18",
+            "42/16.54"
+          ],
+          [
+            "3XL",
+            "124/48.82",
+            "132/51.97",
+            "42.5/16.73"
+          ],
+          [
+            "4XL",
+            "130/51.18",
+            "134/52.76",
+            "43/16.93"
+          ]
+        ],
+        "notes_en": "Please refer to the size chart to choose the correct size.",
+        "notes_es": "Consulte la tabla de tallas para elegir la talla correcta."
+      },
       "sku_map": {
         "S": "D3291222",
         "M": "D3291222",
@@ -300450,8 +300605,8 @@
       "source_text": "Design 3/4 Sleeve Jumpsuit Jumpsuits, Rompers & Overalls white .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n InterestPrint® 3/4 Sleeve Jumpsuit \r\n Type: 95% Polyester, 5% Spandex ,for Women, All Over Printing \r\n Material: 95% Polyester, 5% Spandex – soft, skin-friendly fabric with slight stretch for all-day comfort and a graceful drape.\n Round neck with minimalist style; loose three-quarter sleeves that flatter the arms.\r\n Two pockets for convenient storage.\r\n Mid-rise straight-cut waist for a comfortable, non-restrictive fit.\r\n Cropped-length pants elongate the legs, suitable for spring, summer, and autumn wear.\r\n Ideal for daily outings, casual dates, or vacation, effortlessly creating a chic minimalist look.\n Sizes: S, M, L, XL, 2XL, 3XL, 4XL. Please refer to the size chart below to choose the correct size.\r\n Care Instructions: Hand wash or machine wash. Do not soak for long periods. Do not bleach. Wash with water temperature not exceeding 45ºC (113ºF).\n To ensure the highest quality print, please note that this product's recommended uploaded image size in pixels (W x H): \nPrint: 3692 x 5000 or Higher / 150 dpi.\r\n CUSTOMIZATION TIPS \n We can't guarantee exact placement. There might be slight discrepancies in print placement. Please keep the main elements of your art towards the center of the design area. Anything near the edge runs the risk of being cut off during the cutting and sewing process.\n We allow the color accuracy deviation of the finished product and the mockup image to",
       "name_es": "Mono Jumpsuit · Blanco",
       "name_en": "Jumpsuit Jumpsuit · White",
-      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "desc_es": "Esta pieza redefine la silueta contemporánea con un diseño depurado de líneas verticales. Confeccionado en un tejido fluido con ligera elasticidad, ofrece una caída impecable y un confort absoluto. El cuello redondo de estilo minimalista y las mangas de tres cuartos aportan una sofisticación serena. Los bolsillos funcionales y el corte recto de talle medio estructuran la figura con elegancia. Una prenda versátil para transitar entre ocasiones con distinción. Made to order. Worldwide shipping.",
+      "desc_en": "This piece redefines contemporary tailoring with a streamlined vertical stripe design. Crafted from a fluid fabric with slight stretch, it offers an impeccable drape and absolute comfort. The minimalist round neck and three-quarter sleeves lend a serene sophistication. Functional pockets and a mid-rise straight-cut waist structure the silhouette with elegance. A versatile garment to transition between occasions with distinction. Made to order. Worldwide shipping.",
       "price_usd": 24.99,
       "margin_pct": 25.1,
       "images_original": [
@@ -300463,12 +300618,9 @@
       "images_model": [],
       "visual_verified": true,
       "display_images": [
-        "assets/products/shop/22c9e1f1e077ab96d32e.jpg",
-        "assets/products/shop/b5269b8801afa86690bf.jpg",
-        "assets/products/shop/cf9c20341e68f54d3dfe.jpg",
-        "http://ipimg.interestprint.com/data/product/4823/info/image/20251014/40ABE8143FD711CA03AA3C248C4D6E2E.jpg"
+        "assets/products/shop/b5269b8801afa86690bf.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-19": 27.99,
         "2026-11-20": 27.99,
@@ -300477,17 +300629,17 @@
         "2026-11-23": 24.99,
         "2026-11-24": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 19.01,
       "rank": 2233,
       "badge": "new",
       "look": [
-        "printful-365090873",
-        "printful-351492575-black",
-        "printful-361906822",
-        "printful-345759651"
+        "printful-383192424-black",
+        "printful-379237645",
+        "printful-337647274-dusty-rose",
+        "printful-350906743"
       ],
-      "page": false,
+      "page": true,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
@@ -300509,7 +300661,40 @@
       "cg": "t-design-sleeve-jumpsuit",
       "shop_category": "",
       "img_checked": "2026-11-23",
-      "ai_fail": 1
+      "ai_fail": 1,
+      "art_score": 4,
+      "art_note": "The model photo features a flat, marketplace-style cutout composite that detracts from luxury standards.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/22c9e1f1e077ab96d32e.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/b5269b8801afa86690bf.jpg",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/cf9c20341e68f54d3dfe.jpg",
+          "http://ipimg.interestprint.com/data/product/4823/info/image/20251014/40ABE8143FD711CA03AA3C248C4D6E2E.jpg"
+        ]
+      },
+      "ai_type": "Jumpsuit",
+      "ai_gender": "women",
+      "ai_color": "Purple and Black",
+      "ai_material": "95% Polyester, 5% Spandex",
+      "ai_cats": [
+        "mujer/vestidos-monos-petos"
+      ],
+      "details_es": "· Composición: 95% poliéster, 5% elastano\n· Corte recto de talle medio\n· Cuello redondo y manga de tres cuartos\n· Dos bolsillos laterales\n· Lavar a mano o a máquina con agua a temperatura no superior a 45ºC",
+      "details_en": "· Composition: 95% polyester, 5% spandex\n· Mid-rise straight-cut waist\n· Round neck and three-quarter sleeves\n· Two pockets\n· Hand wash or machine wash with water temperature not exceeding 45ºC",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-7",
