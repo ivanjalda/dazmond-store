@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-24 14:42 UTC",
+  "updated": "2026-11-24 15:42 UTC",
   "totals": {
     "catalogo": 2438,
-    "a_la_vista": 2057,
-    "disenos_a_la_vista": 843,
-    "ocultos": 381,
-    "ia_revisados": 942,
-    "ia_pendientes": 1495,
-    "con_boton_de_pago": 2057,
+    "a_la_vista": 2062,
+    "disenos_a_la_vista": 844,
+    "ocultos": 376,
+    "ia_revisados": 943,
+    "ia_pendientes": 1494,
+    "con_boton_de_pago": 2062,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 11,
     "ventas_30_dias": 0,
@@ -19,8 +19,8 @@
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 372,
-    "Oculto": 5
+    "Borrador": 371,
+    "Oculto": 1
   },
   "suppliers": {
     "Printful": {
@@ -36,8 +36,8 @@
       "ocultos": 13
     },
     "InterestPrint": {
-      "visibles": 89,
-      "ocultos": 368
+      "visibles": 94,
+      "ocultos": 363
     }
   },
   "guard": [
@@ -621,24 +621,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-long-sleeve-mesh-top",
-      "n": "Top de malla manga larga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/c6464bfc750b1c1a2b99.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Oculto"
-    },
-    {
-      "id": "interestprint-design-washed-drop-shoulder-t-shirt",
-      "n": "Camiseta Washed Drop · Negro",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/c417a305e784a808945f.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Oculto"
-    },
-    {
       "id": "interestprint-design-women-s-square-neck-sleeveless-top",
       "n": "Camiseta Square Sleeveless · Blanco",
       "s": "InterestPrint",
@@ -727,15 +709,6 @@
       "c": "mujer/camisetas-blusas-tops",
       "pr": 20.99,
       "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-cropped-shirt",
-      "n": "Camisa corta estampada · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/1a94d4a23040519ff307.jpg",
-      "c": "hombre/camiseta",
-      "pr": 21.99,
-      "why": "Oculto"
     },
     {
       "id": "interestprint-design-womens-crop-tank-top",
@@ -1087,24 +1060,6 @@
       "c": "hombre/polos",
       "pr": 24.99,
       "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-spaghetti-strap-tank-top-7",
-      "n": "Top de Tirantes con Estampado · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/0e8de4f9b767771d3c1d.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Oculto"
-    },
-    {
-      "id": "interestprint-design-spaghetti-strap-tank-top-8",
-      "n": "Top de Tirantes con Estampado · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/641bfe79a6806c8076e2.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Oculto"
     },
     {
       "id": "interestprint-design-women-s-loose-off-shoulder-t-shirt",
@@ -1671,7 +1626,7 @@
       "img": "assets/products/shop/aa5a57a0ccd272809620.jpg",
       "c": "hombre/polos",
       "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
+      "why": "Oculto"
     },
     {
       "id": "interestprint-design-women-s-one-shoulder-mesh-swimsuit",
@@ -3994,21 +3949,17 @@
     "CSV leído: telegram.csv",
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 14 s",
-    "Productos en catálogo: 2438 · a la vista: 2060 · archivados: 1",
+    "⏱ lectura de proveedores: 12 s",
+    "Productos en catálogo: 2438 · a la vista: 2065 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 1996 piezas",
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con interestprint-design-long-sleeve-mesh-top: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con interestprint-design-washed-drop-shoulder-t-shirt: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
-    "IA: fallo con interestprint-design-all-over-print-cropped-shirt: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con interestprint-design-spaghetti-strap-tank-top-7: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con interestprint-design-spaghetti-strap-tank-top-8: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-lite-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details.)",
-    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1725",
-    "⏱ revisión con IA: 169 s",
+    "IA: fallo con interestprint-design-short-sleeve-zip-polo-shirtb470-2: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
+    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1720",
+    "⏱ revisión con IA: 42 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "Stripe: enlace normal listo para printify-66d98379266c81aff6086146",
@@ -4018,8 +3969,8 @@
     "Stripe: enlace normal listo para printify-66d989c3667a2133250ca6dc",
     "Stripe: enlace normal listo para printify-66d98c33d084380d6503ad80",
     "Stripe: 6 productos con enlace de pago nuevo en esta hora",
-    "⏱ enlaces de pago: 3 s",
-    "Cambio actualizado: 1 USD = 0.9142 EUR",
+    "⏱ enlaces de pago: 6 s",
+    "Cambio actualizado: 1 USD = 0.9122 EUR",
     "Listo."
   ]
 }
