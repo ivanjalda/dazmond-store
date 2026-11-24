@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% poliéster",
  "ai_priority": true,
+ "ai_type": "Bucket Hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but the mannequin image lowers the luxury aesthetic.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,15 +22,15 @@
  "cg": "t-sombrero-de-pescador-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential accessory to complete the contemporary wardrobe. Crafted from soft and durable fabric for absolute comfort. Featuring a foldable and packable design ideal for everyday wear. Includes protection against the sun's UV rays and an adjustable drawcord for added security. This product is made especially for you as soon as you place an order. Making products on demand ensures our exclusivity. Limited units available with worldwide shipping.",
+ "desc_es": "Un accesorio esencial para completar el guardarropa contemporáneo. Confeccionado en tejido suave y duradero para un confort absoluto. Presenta un diseño plegable y empacable ideal para el día a día. Incorpora protección contra los rayos UV del sol y un cordón ajustable para mayor seguridad. Este producto está hecho especialmente para usted tan pronto como realiza un pedido. Fabricar productos bajo demanda garantiza nuestra exclusividad. Unidades limitadas disponibles con envío a todo el mundo.",
+ "details_en": "· 100% polyester, soft and durable\n· Adjustable drawcord\n· Wide and elegant brim\n· Made to order",
+ "details_es": "· 100 % poliéster, suave y duradero\n· Cordón ajustable\n· Ala ancha y elegante\n· Hecho bajo demanda",
  "display_images": [
   "assets/products/shop/aa3de9daf80419e22ccc.jpg",
   "assets/products/shop/5eca8bb2a06fae1b5a22.jpg",
   "assets/products/shop/854e143a2ecc7a1b5dcd.jpg",
-  "assets/products/shop/5f322dc25d899e2193fd.jpg",
-  "assets/products/shop/138e70fb5d5594e137c6.jpg",
-  "https://wow-assets-us.oss-accelerate.aliyuncs.com/desc/20211217153229-pEXPN19rsM.jpeg"
+  "assets/products/shop/138e70fb5d5594e137c6.jpg"
  ],
  "draft": false,
  "fam": "sombrero-pescador-luxury",
@@ -35,9 +48,10 @@
  "name_en": "Diamond Bucket Hat",
  "name_es": "Sombrero de Pescador Diamond",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 59.0,
- "rank": 1938,
+ "rank": 1983,
  "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
  "size_chart": null,

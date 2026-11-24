@@ -1,17 +1,17 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-24 11:41 UTC",
+  "updated": "2026-11-24 12:42 UTC",
   "totals": {
     "catalogo": 2438,
-    "a_la_vista": 2042,
-    "disenos_a_la_vista": 832,
-    "ocultos": 396,
-    "ia_revisados": 927,
-    "ia_pendientes": 1510,
-    "con_boton_de_pago": 2042,
+    "a_la_vista": 2055,
+    "disenos_a_la_vista": 841,
+    "ocultos": 383,
+    "ia_revisados": 935,
+    "ia_pendientes": 1502,
+    "con_boton_de_pago": 2055,
     "sin_boton_de_pago": 0,
-    "seccion_dudosa": 9,
+    "seccion_dudosa": 10,
     "ventas_30_dias": 0,
     "visitas_30_dias": 2013,
     "fotos_de_campana": 0
@@ -19,9 +19,9 @@
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 382,
-    "Esperando la IA": 2,
-    "Oculto": 8
+    "Borrador": 377,
+    "Esperando la IA": 1,
+    "Oculto": 1
   },
   "suppliers": {
     "Printful": {
@@ -29,16 +29,16 @@
       "ocultos": 0
     },
     "Printify": {
-      "visibles": 77,
-      "ocultos": 10
+      "visibles": 85,
+      "ocultos": 2
     },
     "Shopify": {
       "visibles": 1112,
       "ocultos": 13
     },
     "InterestPrint": {
-      "visibles": 84,
-      "ocultos": 373
+      "visibles": 89,
+      "ocultos": 368
     }
   },
   "guard": [
@@ -539,6 +539,14 @@
       "img": "https://files.cdn.printful.com/files/def/defb8d75427243e36164fe56d8b1488e_preview.png",
       "c": "hombre/camiseta",
       "pr": 23.99
+    },
+    {
+      "id": "printify-667ff286278e297032061cca",
+      "n": "Edredón DAZ Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667ff286278e297032061cca/61418/2645/edredon-daz.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 181.99
     }
   ],
   "hidden": [
@@ -1071,15 +1079,6 @@
       "img": "assets/products/shop/a69d98ce8adc4d7e4172.jpg",
       "c": "hombre/polos",
       "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-spaghetti-strap-tank-top-5",
-      "n": "Top de Tirantes con Estampado · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/b14b94c34c87a17d727f.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -2092,7 +2091,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit",
-      "n": "Mono Jumpsuit · Blanco",
+      "n": "Mono Estampado Manga Tres Cuartos · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/1c6a59bb8724fe0d4fea.jpg",
       "c": "hombre/conjuntos",
@@ -2100,17 +2099,8 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-1",
-      "n": "Mono Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/84a1e77e94952110dda3.jpg",
-      "c": "hombre/conjuntos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-10",
-      "n": "Mono Jumpsuit · Blanco",
+      "n": "Mono Estampado Manga Tres Cuartos · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/a9697ab6a475c1a4f01f.jpg",
       "c": "hombre/conjuntos",
@@ -2118,17 +2108,8 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-11",
-      "n": "Mono Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/3325469386dd28259cdf.jpg",
-      "c": "hombre/conjuntos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-2",
-      "n": "Mono Jumpsuit · Blanco",
+      "n": "Mono Estampado Manga Tres Cuartos · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/118a0bb4ae44c70f24cf.jpg",
       "c": "hombre/conjuntos",
@@ -2137,7 +2118,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-3",
-      "n": "Mono Jumpsuit · Blanco",
+      "n": "Mono Estampado Manga Tres Cuartos · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/083cc0d2caae34215f61.jpg",
       "c": "hombre/conjuntos",
@@ -2146,7 +2127,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-4",
-      "n": "Mono Jumpsuit · Blanco",
+      "n": "Mono Estampado Manga Tres Cuartos · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/22c9e1f1e077ab96d32e.jpg",
       "c": "hombre/conjuntos",
@@ -2154,26 +2135,8 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-5",
-      "n": "Mono Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/d20c8c64f2b8f252f0bf.jpg",
-      "c": "hombre/conjuntos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-6",
-      "n": "Mono Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/3ae214ebd26b98cf58de.jpg",
-      "c": "hombre/conjuntos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-7",
-      "n": "Mono Jumpsuit · Blanco",
+      "n": "Mono Estampado Manga Tres Cuartos · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/080cc28bac475314977f.jpg",
       "c": "hombre/conjuntos",
@@ -2182,7 +2145,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-8",
-      "n": "Mono Jumpsuit · Blanco",
+      "n": "Mono Estampado Manga Tres Cuartos · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/60252b8ddb31f1c305d5.jpg",
       "c": "hombre/conjuntos",
@@ -2191,7 +2154,7 @@
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-9",
-      "n": "Mono Jumpsuit · Blanco",
+      "n": "Mono Estampado Manga Tres Cuartos · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/bed15188609f77406750.jpg",
       "c": "hombre/conjuntos",
@@ -4027,83 +3990,11 @@
     },
     {
       "id": "printify-669f857d202b3fb01407bf9c",
-      "n": "Pieza Chancletas Daz · Negro",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/669f857d202b3fb01407bf9c/72175/15337/chancletas-daz.jpg?camera_label=front",
-      "c": "hombre/camiseta",
-      "pr": 35.99,
-      "why": "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
-    },
-    {
-      "id": "printify-669f87936b62c2d4940ddfd7",
       "n": "Chanclas DAZ Black Sole",
       "s": "Printify",
-      "img": "https://images.printify.com/mockup/669f87936b62c2d4940ddfd7/72175/15337/chancletas-daz.jpg?camera_label=front",
+      "img": "https://images.printify.com/mockup/669f857d202b3fb01407bf9c/72175/15337/chancletas-daz.jpg?camera_label=front",
       "c": "calzado-hombre/sandalias-chanclas-hombre",
       "pr": 35.99,
-      "why": "Oculto"
-    },
-    {
-      "id": "printify-669f89290086155073058730",
-      "n": "Chanclas Daz Black",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/669f89290086155073058730/72175/15337/chancletas-daz.jpg?camera_label=front",
-      "c": "calzado-hombre/sandalias-chanclas-hombre",
-      "pr": 35.99,
-      "why": "Oculto"
-    },
-    {
-      "id": "printify-668eaa0ce8327b730b0bcac2",
-      "n": "Pantalón corto moisture-wicking",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/668eaa0ce8327b730b0bcac2/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
-      "c": "mujer/pantalones-cortos",
-      "pr": 41.99,
-      "why": "Oculto"
-    },
-    {
-      "id": "printify-668eaac5f88774f5bd03c22e",
-      "n": "Pantalón corto DAZ Premium",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/668eaac5f88774f5bd03c22e/86201/55196/short-daz-premium-para-mujer.jpg?camera_label=front",
-      "c": "mujer/pantalones-cortos",
-      "pr": 41.99,
-      "why": "Oculto"
-    },
-    {
-      "id": "printify-668eab5af72a45d14c0529a4",
-      "n": "Shorts DAZ Luxury",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
-      "c": "mujer/pantalones-cortos",
-      "pr": 41.99,
-      "why": "Oculto"
-    },
-    {
-      "id": "printify-668eac084542f0d6d6052014",
-      "n": "Pantalón corto de alto rendimiento",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
-      "c": "mujer/pantalones-cortos",
-      "pr": 41.99,
-      "why": "Oculto"
-    },
-    {
-      "id": "printify-668eb21afc9e2d84f00ecdc1",
-      "n": "Shorts Nocturne Blue",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/668eb21afc9e2d84f00ecdc1/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
-      "c": "mujer/pantalones-cortos",
-      "pr": 42.99,
-      "why": "Oculto"
-    },
-    {
-      "id": "printify-667ff286278e297032061cca",
-      "n": "Edredón DAZ Negro",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/667ff286278e297032061cca/61418/2645/edredon-daz.jpg?camera_label=front",
-      "c": "hombre/camiseta",
-      "pr": 181.99,
       "why": "Oculto"
     }
   ],
@@ -4114,37 +4005,46 @@
     "CSV leído: telegram.csv",
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 11 s",
-    "Productos en catálogo: 2438 · a la vista: 2002 · archivados: 1",
+    "⏱ lectura de proveedores: 9 s",
+    "Productos en catálogo: 2438 · a la vista: 2053 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 1996 piezas",
-    "⏱ ventas, visitas y cupones: 4 s",
+    "⏱ ventas, visitas y cupones: 2 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: fallo con shopify-zapatilla-daz-luxury: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
     "IA: fallo con shopify-zapatos-de-skate-sin-cordones-daz-luxury-1: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
-    "IA: fallo con shopify-sombrero-de-pescador-daz-luxury-1: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: fallo con printify-6682f7eaabc218c5680b99db: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con printify-669f857d202b3fb01407bf9c: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: fallo con interestprint-design-long-sleeve-mesh-top: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: fallo con interestprint-design-washed-drop-shoulder-t-shirt: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: fallo con interestprint-design-all-over-print-cropped-shirt: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con interestprint-design-spaghetti-strap-tank-top-5: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: fallo con interestprint-design-spaghetti-strap-tank-top-7: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: fallo con interestprint-design-spaghetti-strap-tank-top-8: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: fallo con interestprint-design-short-sleeve-zip-polo-shirtb470-2: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: fallo con interestprint-design-ruffled-plunge-one-piece-swimwear: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: tiempo de esta hora agotado; sigo en la próxima.",
-    "IA: 68 productos revisados (fotos, guía de tallas y textos) · quedan 1735",
-    "⏱ revisión con IA: 1201 s",
-    "⏱ vigilante: 101 s",
+    "IA: fallo con interestprint-design-criss-cross-back-one-piece-swimsuit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-criss-cross-back-one-piece-swimsuit-1: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-criss-cross-back-one-piece-swimsuit-2: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-criss-cross-back-one-piece-swimsuit-3: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-criss-cross-back-one-piece-swimsuit-4: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-3-4-sleeve-jumpsuit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-3-4-sleeve-jumpsuit-10: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-3-4-sleeve-jumpsuit-2: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-3-4-sleeve-jumpsuit-3: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-3-4-sleeve-jumpsuit-4: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-3-4-sleeve-jumpsuit-7: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con interestprint-design-3-4-sleeve-jumpsuit-8: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-lite-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details.)",
+    "IA: 7 productos revisados (fotos, guía de tallas y textos) · quedan 1728",
+    "⏱ revisión con IA: 699 s",
+    "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "Stripe: enlace normal listo para printify-668d262a442fbb17cc0643ca",
     "Stripe: enlace normal listo para printify-668d28a29b6281d799024d4d",
     "Stripe: enlace normal listo para printify-668d48f046ad9d669109904a",
     "Stripe: enlace normal listo para printify-668d4a9d4aaa7843530eb807",
     "Stripe: 4 productos con enlace de pago nuevo en esta hora",
-    "⏱ enlaces de pago: 4 s",
+    "⏱ enlaces de pago: 2 s",
     "Cambio actualizado: 1 USD = 0.9142 EUR",
     "Listo."
   ]
