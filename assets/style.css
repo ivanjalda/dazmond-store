@@ -330,3 +330,14 @@ h1,h2,h3,h4{font-family:var(--serif);font-weight:400;color:var(--gold);letter-sp
 .feature .art{min-height:0;height:min(62vh,600px);background:#f3f2ef}
 .feature .art img{object-fit:contain;padding:20px}
 @media(min-width:900px){.duo a{height:min(70vh,680px)}.feature .art{min-height:0;height:min(70vh,640px)}}
+
+/* escaparate de la portada y franja de confianza */
+.hero-mosaic{position:absolute;inset:0;display:grid;grid-template-columns:repeat(5,1fr);gap:2px;opacity:.5}
+.hero-mosaic img{width:100%;height:100%;object-fit:cover;filter:saturate(.85) contrast(1.05);animation:kb 22s ease-out forwards}
+@media(max-width:760px){.hero-mosaic{grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(2,1fr)}.hero-mosaic img:nth-child(n+5){display:none}}
+.trust{display:grid;grid-template-columns:repeat(4,1fr);border-bottom:1px solid var(--line)}
+.trust>div{padding:26px 18px;text-align:center;border-right:1px solid var(--line);display:flex;flex-direction:column;gap:6px}
+.trust>div:last-child{border-right:0}
+.trust b{font-family:var(--serif);font-weight:400;color:var(--gold2);font-size:19px;letter-spacing:.04em}
+.trust span{color:var(--pearl);font-size:12px;letter-spacing:.06em}
+@media(max-width:760px){.trust{grid-template-columns:repeat(2,1fr)}.trust>div:nth-child(2){border-right:0}.trust>div:nth-child(-n+2){border-bottom:1px solid var(--line)}}

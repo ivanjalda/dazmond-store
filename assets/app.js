@@ -14,6 +14,10 @@
       topbar: 'Envíos a todo el mundo · Confección bajo demanda · Pago seguro',
       colors: 'colores', color: 'Color',
       hero_eyebrow: 'Casa de moda americana · Registrada en EE. UU.',
+      tr1_t: 'Envío gratis', tr1_d: 'En todos los pedidos, a todo el mundo',
+      tr2_t: 'Hecho para ti', tr2_d: 'Cada pieza se confecciona bajo pedido',
+      tr3_t: 'Pago seguro', tr3_d: 'Tarjeta, Apple Pay, Google Pay o a plazos',
+      tr4_t: 'Marca registrada ®', tr4_d: 'DAZMOND & Co. · Registro EE. UU. nº 8.505.796',
       hero_title: 'DAZMOND & Co.',
       hero_text: 'Prendas únicas, ediciones irrepetibles y una forma nueva de entender el lujo: exclusivo, cercano y a un precio accesible.',
       hero_cta: 'Descubrir la colección',
@@ -61,6 +65,10 @@
       topbar: 'Worldwide shipping · Made to order · Secure checkout',
       colors: 'colours', color: 'Colour',
       hero_eyebrow: 'American fashion house · Registered in the USA',
+      tr1_t: 'Free shipping', tr1_d: 'On every order, worldwide',
+      tr2_t: 'Made for you', tr2_d: 'Every piece is made to order',
+      tr3_t: 'Secure checkout', tr3_d: 'Card, Apple Pay, Google Pay or pay later',
+      tr4_t: 'Registered trademark ®', tr4_d: 'DAZMOND & Co. · U.S. Reg. No. 8,505,796',
       hero_title: 'DAZMOND & Co.',
       hero_text: 'One-of-a-kind pieces, limited editions and a new way to experience luxury: exclusive, personal and accessibly priced.',
       hero_cta: 'Discover the collection',
@@ -307,10 +315,18 @@
   function homeView() {
     document.title = 'DAZMOND & Co. — American Luxury House';
     const c = S.camp.active && S.camp[S.lang];
-    const hero = S.cfg.hero_image ? `<img src="${esc(abs(S.cfg.hero_image))}" alt="">` : '';
-    /* en la portada mandan las piezas con mejor imagen (lo decide el director de arte de la IA) */
+    /* en la portada mandan las piezas con mejor imagen (lo decide el director de arte de la IA)
+       y el escaparate rota cada día para que quien vuelve vea piezas nuevas */
+    const day = Math.floor(Date.now() / 864e5);
     const top = S.products.filter(p => p.available !== false)
-      .map((p, i) => [p, i]).sort((a, b) => ((b[0].art_score || 5) - (a[0].art_score || 5)) || a[1] - b[1]).map(x => x[0]);
+      .map((p, i) => [p, i, ((i * 7919 + day * 104729) % 997)])
+      .sort((a, b) => ((b[0].art_score || 5) - (a[0].art_score || 5)) || a[2] - b[2]).map(x => x[0]);
+    let hero = S.cfg.hero_image ? `<img src="${esc(abs(S.cfg.hero_image))}" alt="">` : '';
+    if (!hero) {  /* escaparate: las 5 mejores piezas (sin repetir diseño) detrás del nombre de la casa */
+      const seen = new Set(), win = [];
+      for (const p of top) { const k = p.cg || p.fam || p.id; if (seen.has(k) || !imgs(p)[0]) continue; seen.add(k); win.push(p); if (win.length === 5) break; }
+      hero = `<div class="hero-mosaic">${win.map(p => `<img src="${esc(imgs(p)[0])}" alt="" loading="eager">`).join('')}</div>`;
+    }
     const sel = varied(picks(S.camp.gifts && S.camp.gifts.length ? S.camp.gifts : S.camp.offers), 4);
     const used = new Set(sel.map(p => p.cg || p.id));  /* nada se repite en la portada */
     const free = p => !used.has(p.cg || p.id) && imgs(p)[0];
@@ -327,6 +343,12 @@
       <h1>Dazmond <i>&amp;</i> Co.</h1>
       <p class="lead">${c ? esc(c.text) : t('hero_text')}</p>
       <div class="ctas">${c ? `<a class="btn" href="#/campana">${esc(c.cta)}</a>` : ''}<a class="btn${c ? '' : ' btn-solid'}" href="#/c/mujer">${t('hero_cta')}</a></div>
+    </section>
+    <section class="trust">
+      <div><b>${t('tr1_t')}</b><span>${t('tr1_d')}</span></div>
+      <div><b>${t('tr2_t')}</b><span>${t('tr2_d')}</span></div>
+      <div><b>${t('tr3_t')}</b><span>${t('tr3_d')}</span></div>
+      <div><b>${t('tr4_t')}</b><span>${t('tr4_d')}</span></div>
     </section>
     <section>
       <div class="section-head" style="padding:80px 16px 0"><p class="eyebrow">${t('private_eyebrow')}</p><h2>${t('private_title')}</h2><div class="rule"></div></div>
