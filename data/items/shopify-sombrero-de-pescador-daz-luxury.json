@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester twill",
  "ai_priority": true,
+ "ai_type": "Bucket Hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with good sharpness, though model and size guide images look composited.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,17 +22,15 @@
  "cg": "t-sombrero-de-pescador-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Contemporary elegance defines this bucket hat in double-layer polyester twill. Its versatile double-sided design offers refined styling options. Crafted to provide a lightweight and skin-friendly feel. The brim incorporates subtle reflective details for understated visibility. An essential accessory to complete sophisticated ensembles with a modern character.",
+ "desc_es": "La elegancia contemporánea define este sombrero de pescador en sarga de poliéster de doble capa. Su diseño versátil de doble cara ofrece opciones de estilo refinadas. Confeccionado para proporcionar una sensación ligera y agradable sobre la piel. El ala incorpora detalles reflectantes discretos para una visibilidad sutil. Un accesorio esencial para completar conjuntos sofisticados con un carácter moderno.",
+ "details_en": "· Lightweight and breathable double-layer polyester twill fabric\n· Packable design\n· Reflective stripes on the brim\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Tejido de sarga de poliéster de doble capa ligero y transpirable\n· Diseño plegable\n· Rayas reflectantes en el ala\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/d3b7ab3e60600313e0b8.jpg",
   "assets/products/shop/e9ad3f2362751c3b6576.jpg",
   "assets/products/shop/296364fdc06844a89df3.jpg",
-  "assets/products/shop/8cf337368493a123bf22.jpg",
-  "assets/products/shop/b1ff05f376c98c743b06.jpg",
-  "assets/products/shop/011f8306020f5e5460da.jpg",
-  "assets/products/shop/48c7d95783626bdbe035.jpg",
-  "assets/products/shop/93ee1f32e74cb96ff76e.jpg"
+  "assets/products/shop/8cf337368493a123bf22.jpg"
  ],
  "draft": false,
  "fam": "sombrero-pescador-luxury",
@@ -33,16 +44,34 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Sombrero Pescador Daz Hat",
- "name_es": "Gorro Sombrero Pescador Daz",
+ "name_en": "Diamond Bucket Hat",
+ "name_es": "Sombrero de Pescador Diamond",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.9,
  "rank": 1901,
  "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference"
+  ],
+  "headers_es": [
+   "Circunferencia"
+  ],
+  "notes_en": "Measurements may have an error of 1-3 cm due to different measurement methods.",
+  "notes_es": "Las medidas pueden tener un error de 1-3 cm debido a los diferentes métodos de medición.",
+  "rows": [
+   [
+    "56-58"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/b1ff05f376c98c743b06.jpg"
+ ],
  "sizes": [
   "One Size"
  ],

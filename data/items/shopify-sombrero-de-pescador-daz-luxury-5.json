@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Purple / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester Twill",
  "ai_priority": true,
+ "ai_type": "Bucket Hat",
+ "ai_ver": 2,
+ "art_note": "Flat digital rendering composited onto a model with floating measurement lines, failing luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,13 +22,14 @@
  "cg": "t-sombrero-de-pescador-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The DAZ Diamond bucket hat redefines casual elegance with a structured and contemporary silhouette. Crafted from refined polyester twill, this design delivers a clean aesthetic for everyday wear. Its technical finish offers lightness and essential protection against the elements. Each piece is crafted on demand exclusively for our community. Enjoy worldwide shipping on all acquisitions.",
+ "desc_es": "El sombrero de pescador DAZ Diamond redefine la elegancia casual con una silueta estructurada y contemporánea. Confeccionado en sutil sutil sarga de poliéster, este diseño ofrece una estética depurada para el día a día. Su acabado técnico aporta ligereza y protección esencial contra los elementos. Cada pieza se confecciona bajo demanda exclusivamente para nuestra comunidad. Disfrute de envío mundial en todas sus adquisiciones.",
+ "details_en": "· 100% polyester twill\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100% sarga de poliéster\n· Fabricado bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/5609374b76859bc8bf07.jpg",
   "assets/products/shop/1d95faf665f3cc747505.jpg",
   "assets/products/shop/36bc4945c7cbc32e2d6f.jpg",
-  "assets/products/shop/53de98b8715284c9db90.jpg",
   "assets/products/shop/7301cd110174573c12c9.jpg"
  ],
  "draft": false,
@@ -30,16 +44,40 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Sombrero Pescador Daz Hat",
- "name_es": "Gorro Sombrero Pescador Daz",
+ "name_en": "Diamond Bucket Hat",
+ "name_es": "Sombrero de Pescador Diamond",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 59.9,
  "rank": 1905,
  "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Crown Height",
+   "Brim Width"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Altura de la copa",
+   "Ancho del ala"
+  ],
+  "notes_en": "Made to order. Worldwide shipping.",
+  "notes_es": "Fabricado bajo demanda. Envío mundial.",
+  "rows": [
+   [
+    "22-22.8 in / 56-58 cm",
+    "3.2 in / 8 cm",
+    "2.7 in / 7 cm"
+   ]
+  ],
+  "unit": "in / cm"
+ },
+ "size_guide": [
+  "assets/products/shop/53de98b8715284c9db90.jpg"
+ ],
  "sizes": [
   "One Size"
  ],

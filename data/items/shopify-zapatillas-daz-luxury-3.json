@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "polyester",
  "ai_priority": true,
+ "ai_type": "slippers",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce renders lacking high-end luxury editorial lighting.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-zapatillas-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Redefine home comfort with these refined slippers. Crafted from soft polyester with a suede finish, they offer an exceptionally pleasant wearing experience. The interior lining blends cotton and polyester to ensure an optimal feeling of warmth with every step. Black anti-slip rubber soles provide stability and protection for both indoor and outdoor use. Available in three sizes to suit your downtime requirements. A made-to-order essential piece, available with worldwide shipping.",
+ "desc_es": "Redefina el confort en el hogar con estas pantuflas de diseño refinado. Confeccionadas en suave poliéster con acabado de gamuza, ofrecen una experiencia de uso sumamente placentera. El forro interior combina algodón y poliéster para garantizar una óptima sensación de calidez en cada paso. Las suelas de goma antideslizantes en color negro proporcionan estabilidad y protección tanto en interiores como en exteriores. Disponibles en tres tallas para adaptarse a sus necesidades de descanso. Una pieza esencial de manufactura bajo pedido, disponible con envío mundial.",
+ "details_en": "· Premium soft polyester suede\n· Interior lining of 80% cotton and 20% polyester\n· Black anti-slip rubber soles\n· Three sizes available\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Gamuza premium de poliéster suave\n· Forro interior de 80 % algodón y 20 % poliéster\n· Suelas de goma antideslizantes negras\n· Tres tamaños disponibles\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/1423ab01af5d8dd2fecf.jpg",
   "assets/products/shop/3a7fa7deccbd4705b855.jpg",
@@ -18,9 +33,7 @@
   "assets/products/shop/b755ef43138a3071b0b3.jpg",
   "assets/products/shop/2523eb33c33501afec1e.jpg",
   "assets/products/shop/b25a123b2cf38d202418.jpg",
-  "assets/products/shop/14b9ce36ae6d55ce6806.jpg",
-  "assets/products/shop/93d9f138aa76b9fabd4d.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-2/D35%20%E6%A3%89%E6%8B%96%28%E5%86%85%E9%95%BF%29.jpg"
+  "assets/products/shop/93d9f138aa76b9fabd4d.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-luxury",
@@ -35,9 +48,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Zapatillas Daz Sneakers",
- "name_es": "Zapatillas Zapatillas Daz",
+ "name_en": "Premium Suede Slippers",
+ "name_es": "Pantuflas de Gamuza Premium",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.0,
  "rank": 1913,

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "mesh",
  "ai_priority": true,
+ "ai_type": "sneakers",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce renders on pure white background, clear angles but lacks atmospheric studio lighting.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-zapatillas-ligeras-daz-luxury-de-punto-de-malla",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Designed for a dynamic lifestyle, these sneakers combine functionality and modernity. Their mesh fabric construction offers breathability with every step, while EVA soles ensure a lightweight stride. Equipped with cushioned insoles and a classic lace-up closure with six eyelets, they represent a versatile option for any season. A refined silhouette intended for daily wear without compromising on comfort.",
+ "desc_es": "Diseñadas para un estilo de vida dinámico, estas zapatillas combinan funcionalidad y modernidad. Su construcción en tejido de malla ofrece transpirabilidad en cada paso, mientras que las suelas de EVA aseguran una pisada ligera. Equipadas con plantillas acolchadas y un cierre clásico de cordones con seis ojales, representan una opción versátil para cualquier temporada. Una silueta depurada pensada para el uso diario sin renunciar al confort.",
+ "details_en": "· EVA Stripe soles\n· Mesh upper construction\n· EVA cushioned insoles\n· Lace-up closure with 6 eyelets\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Suelas de EVA Stripe\n· Construcción superior de malla\n· Plantillas acolchadas de EVA\n· Cierre con cordones y 6 ojales\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/284c2fae04e151fce419.jpg",
   "assets/products/shop/8e987c3b9137760a2606.jpg",
@@ -19,8 +34,7 @@
   "assets/products/shop/2f92fea324b85d34dba4.jpg",
   "assets/products/shop/731618f9d697d3db9c48.jpg",
   "assets/products/shop/2ee2bdd74641be7be09c.jpg",
-  "assets/products/shop/4ea59ac873b17b4b3f32.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-2/HK%E5%B0%BA%E7%A0%81%E8%A1%A8%28%E5%86%85%E9%95%BF%29.jpg"
+  "assets/products/shop/4ea59ac873b17b4b3f32.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-ligeras-luxury",
@@ -35,9 +49,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Zapatillas Ligeras Daz Sneakers",
- "name_es": "Zapatillas Zapatillas Ligeras Daz",
+ "name_en": "Daz Luxury Mesh Sneakers",
+ "name_es": "Zapatillas de Malla Daz Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 147.99,
  "rank": 1928,

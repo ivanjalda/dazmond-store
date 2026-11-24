@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% spandex",
  "ai_priority": true,
+ "ai_type": "pajamas set",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce model and flatlay shots with generic supplier presentation.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -8,14 +20,14 @@
  "cg": "t-pijama-de-verano-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefine your moments of repose with this women pajama set. Designed to offer a relaxed silhouette, it combines a classic round-neck top with front buttons and comfortable shorts featuring an adjustable drawstring waist. Crafted from a stretchy blend that prioritizes nocturnal comfort without sacrificing refined domestic style. Available made to order with worldwide shipping.",
+ "desc_es": "Redefine tus momentos de descanso con este conjunto de pijama para mujer. Diseñado para ofrecer una silueta relajada, combina una parte superior de cuello redondo con botones frontales y unos shorts con cordón ajustable. Confeccionado con una mezcla elástica que prioriza el confort nocturno sin sacrificar la elegancia en casa. Disponible bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 95% polyester and 5% spandex\n· Round neck with front buttons\n· Elastic waistband with adjustable drawstring and side pockets\n· Made to order with worldwide shipping",
+ "details_es": "· 95% poliéster y 5% elastano\n· Cuello redondo y botones delanteros\n· Cinturilla elástica con cordón ajustable y bolsillos laterales\n· Hecho bajo pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/5e16069e4317a03cc571.jpg",
   "assets/products/shop/e2ca74e085c26c5cecf4.jpg",
-  "assets/products/shop/d05270d4de7597a7c06f.jpg",
-  "assets/products/shop/577356e45468c3ad3a9d.jpg",
-  "assets/products/shop/6761cfec3f4c104b9100.jpg"
+  "assets/products/shop/577356e45468c3ad3a9d.jpg"
  ],
  "draft": false,
  "fam": "pijama-verano-luxury",
@@ -29,16 +41,115 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Pijama Verano Daz Loungewear",
- "name_es": "Pijama Pijama Verano Daz",
+ "name_en": "Crimson Red Pajama Set",
+ "name_es": "Conjunto de Pijama en Rojo Carmesí",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.0,
  "rank": 1900,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Pijamas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "Shoulder width",
+   "1/2Bust",
+   "Top length",
+   "Pants length",
+   "1/2Hips",
+   "Sleeve length",
+   "1/2Waist"
+  ],
+  "headers_es": [
+   "TALLA",
+   "Ancho de hombros",
+   "1/2 Busto",
+   "Largo de blusa",
+   "Largo de pantalón",
+   "1/2 Cadera",
+   "Largo de manga",
+   "1/2 Cintura"
+  ],
+  "notes_en": "Please refer to the size chart before purchasing. Please allow 2-4cm by hand measurement.",
+  "notes_es": "Consulte la tabla de tallas antes de comprar. Permita de 2 a 4 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "15.1/38.5",
+    "20/51",
+    "23.6/60",
+    "12.6/32",
+    "21.3/54",
+    "8.3/21",
+    "12.2/31"
+   ],
+   [
+    "M",
+    "15.7/40",
+    "21.3/54",
+    "24/61",
+    "13/33",
+    "22.4/57",
+    "8.5/21.5",
+    "13/33"
+   ],
+   [
+    "L",
+    "16.3/41.5",
+    "22.4/57",
+    "24.4/62",
+    "13.4/34",
+    "23.6/60",
+    "8.7/22",
+    "13.8/35"
+   ],
+   [
+    "XL",
+    "16.9/43",
+    "23.6/60",
+    "24.8/63",
+    "13.8/35",
+    "24.8/63",
+    "8.9/22.5",
+    "15/38"
+   ],
+   [
+    "XXL",
+    "17.5/44.5",
+    "24.8/63",
+    "25.2/64",
+    "14.2/36",
+    "26/66",
+    "9/23",
+    "16.1/41"
+   ],
+   [
+    "3XL",
+    "18.1/46",
+    "26/66",
+    "25.6/65",
+    "14.6/37",
+    "27.2/69",
+    "9.3/23.5",
+    "17.3/44"
+   ],
+   [
+    "4XL",
+    "18.7/47.5",
+    "27.2/69",
+    "26/66",
+    "15/38",
+    "28.3/72",
+    "9.4/24",
+    "18.5/47"
+   ]
+  ],
+  "unit": "in/cm"
+ },
+ "size_guide": [
+  "assets/products/shop/6761cfec3f4c104b9100.jpg"
+ ],
  "sizes": [
   "S",
   "M",

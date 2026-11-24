@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester Twill",
  "ai_priority": true,
+ "ai_type": "Bucket Hat",
+ "ai_ver": 2,
+ "art_note": "Flat mockup-style product renders lack high-end luxury studio atmosphere and texture depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-sombrero-de-pescador-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your seasonal wardrobe with this bucket hat crafted from polyester twill. Its structured design offers an impeccable and contemporary silhouette, enhanced by a subtle graphic motif on the front. Engineered for versatility and refined comfort in any setting, this accessory merges functionality with a polished aesthetic.",
+ "desc_es": "Eleve su guardarropa de temporada con este sombrero bucket confeccionado en sarga de poliéster. Su diseño estructurado ofrece una silueta impecable y contemporánea, realzada por un sutil motivo gráfico frontal. Diseñado para ofrecer versatilidad y confort refinado en cualquier entorno, este accesorio combina funcionalidad y una estética depurada.",
+ "details_en": "· High-quality polyester twill\n· Structured wide-brim design\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Sarga de poliéster de alta calidad\n· Diseño estructurado de ala ancha\n· Pieza fabricada bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/7ffec8854e2e03f53da1.jpg",
   "assets/products/shop/e51157c5ab76a10fa6fc.jpg",
@@ -29,9 +44,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Sombrero Pescador Daz Hat",
- "name_es": "Gorro Sombrero Pescador Daz",
+ "name_en": "Diamond Bucket Hat",
+ "name_es": "Sombrero de Pescador Diamond",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 59.9,
  "rank": 1906,

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester twill",
  "ai_priority": true,
+ "ai_type": "Bucket Hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but lifestyle and infographic imagery look like standard marketplace templates.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,18 +22,15 @@
  "cg": "t-sombrero-de-pescador-reflectante-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Defined by a clean and classic silhouette, this bucket hat offers versatility through its dual-layer design. Crafted to accompany outdoor activities, it incorporates reflective bands on the brim for enhanced visibility in dark environments. Its lightweight and packable structure ensures a delicate feel and natural adaptability to the facial contours. Each piece is crafted specially for you upon order, ensuring exclusivity and worldwide shipping.",
+ "desc_es": "Definido por una silueta limpia y clásica, este sombrero de pescador ofrece versatilidad gracias a su diseño de doble capa. Confeccionado para acompañar actividades al aire libre, incorpora bandas reflectantes en el ala para mayor visibilidad en entornos oscuros. Su estructura ligera y plegable asegura un tacto delicado y una adaptabilidad natural al contorno del rostro. Cada pieza se elabora especialmente para usted bajo pedido, garantizando exclusividad y envíos a todo el mundo.",
+ "details_en": "· Crafted from double-layer polyester twill\n· Packable design for easy storage\n· Reflective bands on the brim\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Confeccionado en sarga de poliéster de doble capa\n· Diseño plegable para fácil almacenamiento\n· Bandas reflectantes en el ala\n· Producto elaborado bajo pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/35fa674f8fa7be5c1e04.jpg",
   "assets/products/shop/53325e7422b1990dd246.jpg",
   "assets/products/shop/d2ee5826ea24887afc3c.jpg",
-  "assets/products/shop/032034696f6e42436a2b.jpg",
-  "assets/products/shop/ebaef3ec741e211bea6f.jpg",
-  "assets/products/shop/ecc99c31720a146025b9.jpg",
-  "assets/products/shop/285c6ed716cf2bc292d9.jpg",
-  "assets/products/shop/c9a31fbf26d87ab5d40c.jpg",
-  "assets/products/shop/77acf3b3fa0a5e21634f.jpg"
+  "assets/products/shop/032034696f6e42436a2b.jpg"
  ],
  "draft": false,
  "fam": "sombrero-pescador-reflectante",
@@ -34,16 +44,40 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Sombrero Pescador Hat",
- "name_es": "Gorro Sombrero Pescador",
+ "name_en": "Reversible Bucket Hat",
+ "name_es": "Sombrero de Pescador Reversible",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 59.0,
  "rank": 1908,
  "shop_category": "Ropa y accesorios > Complementos > Sombreros > Sombreros de pesca",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Circumference",
+   "Crown Height",
+   "Brim Width"
+  ],
+  "headers_es": [
+   "Circunferencia",
+   "Altura de copa",
+   "Ancho de ala"
+  ],
+  "notes_en": "Measurements may have a margin of error of 1-2 cm due to different measurement methods.",
+  "notes_es": "Las medidas pueden tener un margen de error de 1-2 cm debido a los diferentes métodos de medición.",
+  "rows": [
+   [
+    "56-58 cm (22-22.8 in)",
+    "3.2/8 in",
+    "2.7/7 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/ebaef3ec741e211bea6f.jpg"
+ ],
  "sizes": [
   "One Size"
  ],

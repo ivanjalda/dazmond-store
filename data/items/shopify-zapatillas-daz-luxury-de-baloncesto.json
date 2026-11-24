@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "canvas and PU",
  "ai_priority": true,
+ "ai_type": "basketball shoes",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with a sophisticated dark navy palette, though mostly standard e-commerce angles.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-zapatillas-daz-luxury-de-baloncesto",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold silhouette merging athletic heritage with contemporary design. Crafted with a canvas and PU upper, these high-top sneakers present a refined dark aesthetic with contrasting details. The durable rubber outsole and cushioned insoles ensure exceptional comfort with every step. This model is completed with an eight-eyelet system and lace closure for a classic and secure fit. Each pair is crafted on demand to ensure absolute exclusivity.",
+ "desc_es": "Una silueta audaz que fusiona el legado deportivo con el diseño contemporáneo. Confeccionadas con una parte superior de lona y poliuretano, estas zapatillas de caña alta presentan una estética depurada en tonos oscuros con detalles contrastantes. La suela de goma duradera y las plantillas acolchadas garantizan un confort excepcional en cada paso. Este modelo se completa con un sistema de ocho ojales y cierre de cordones para un ajuste clásico y seguro. Cada par se elabora bajo demanda para garantizar una exclusividad absoluta.",
+ "details_en": "· Canvas and PU upper\n· Wear-resistant rubber outsole\n· Cushioned EVA insoles\n· Lace closure with 8 eyelets\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Parte superior de lona y PU\n· Suela de goma resistente al desgaste\n· Plantillas acolchadas de EVA\n· Cierre con cordones y 8 ojales\n· Pieza confeccionada bajo demanda\n· Disponible con envío mundial",
  "display_images": [
   "assets/products/shop/efdf2955a804708d574f.jpg",
   "assets/products/shop/6792fdfde3cd2850e9a6.jpg",
@@ -19,10 +34,7 @@
   "assets/products/shop/d6582913f160040144fd.jpg",
   "assets/products/shop/7483980c0ce49d459a18.jpg",
   "assets/products/shop/966cb065b8da68545dff.jpg",
-  "assets/products/shop/ea9455cdac650e9cd933.jpg",
-  "assets/products/shop/8a7f94b118c85199ba3d.jpg",
-  "assets/products/shop/37cdd5f51defb21e789f.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-3/SF_D89%20%E4%B9%9413%E5%B0%BA%E7%A0%81%E8%A1%A8%28%E5%86%85%E9%95%BF%29.jpg"
+  "assets/products/shop/37cdd5f51defb21e789f.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-luxury-baloncesto",
@@ -37,9 +49,10 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Zapatillas Daz Baloncesto Sneakers",
- "name_es": "Zapatillas Zapatillas Daz Baloncesto",
+ "name_en": "Luxury Basketball Sneakers",
+ "name_es": "Zapatillas de Baloncesto Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 227.71,
  "rank": 1917,

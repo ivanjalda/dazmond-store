@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/botas-botines-hombre",
+  "calzado-mujer/botas-botines"
+ ],
+ "ai_color": "Brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Vegan leather",
  "ai_priority": true,
+ "ai_type": "Boots",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain background, though presented as standard mockups rather than high-end campaign shots.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-botas-de-cuero-sintetico-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A bold silhouette defined by understated elegance. Designed to withstand the elements with impeccable composure. Crafted from conscious materials and robust construction. Each pair is exclusively made to order for our global community.",
+ "desc_es": "Una silueta audaz definida por una elegancia sobria. Diseñadas para resistir los elementos con una compostura impecable. Confeccionadas con materiales de origen consciente y una construcción robusta. Cada par se elabora exclusivamente bajo demanda para nuestra comunidad global.",
+ "details_en": "· Made especially for you on demand\n· Worldwide shipping\n· Eco-friendly and 100% vegan leather material\n· High-quality rubber outsole with EVA foam insole\n· Mesh fabric and foam lining\n· Lace-up closure",
+ "details_es": "· Hecho especialmente para usted bajo demanda\n· Envío a todo el mundo\n· Material de cuero ecológico y 100% vegano\n· Suela de goma de alta calidad con plantilla de espuma EVA\n· Tejido de malla y forro de espuma\n· Cierre de cordones",
  "display_images": [
   "assets/products/shop/5c7c81a94f664e330cbe.jpg",
   "assets/products/shop/f34e342d1953341bd559.jpg",
@@ -19,9 +34,7 @@
   "assets/products/shop/c3d59c9d0ee2bdfe7ef6.jpg",
   "assets/products/shop/085a338c20891ac4f366.jpg",
   "assets/products/shop/8b2fd933ee725b3e5376.jpg",
-  "assets/products/shop/bda059184ea66d2b0b7c.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/tinified-2/D41-DY%20%E9%A9%AC%E4%B8%81%E9%9D%B4%E5%B0%BA%E7%A0%81%E8%A1%A8%28%E5%86%85%E9%95%BF%29.jpg",
-  "https://assets-us.wowfulfillment.com/desc/d41-size-chart-0330.jpg"
+  "assets/products/shop/bda059184ea66d2b0b7c.jpg"
  ],
  "draft": false,
  "fam": "botas-cuero-sintetico",
@@ -39,6 +52,7 @@
  "name_en": "Vegan leather boots",
  "name_es": "Botas de cuero vegano",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 109.9,
  "rank": 1880,

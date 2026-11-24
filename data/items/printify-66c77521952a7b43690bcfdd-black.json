@@ -1,4 +1,19 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/6497111bbee037e2ac68.jpg",
+  "assets/products/shop/6497111bbee037e2ac68.jpg",
+  "assets/products/shop/6497111bbee037e2ac68.jpg",
+  "assets/products/shop/6497111bbee037e2ac68.jpg",
+  "assets/products/shop/6497111bbee037e2ac68.jpg",
+  "assets/products/shop/6497111bbee037e2ac68.jpg",
+  "assets/products/shop/8891ab8c98c20c8190c0.jpg",
+  "assets/products/shop/e2c8d9310017c1359d4d.jpg",
+  "assets/products/shop/30fca967b94c9f20303f.jpg",
+  "assets/products/shop/d046f892eb96d951a70a.jpg",
+  "assets/products/shop/15880e1513f69889fb3a.jpg",
+  "assets/products/shop/16a300fad1cf2a41eb04.jpg",
+  "assets/products/shop/f9237ffa58ad1814190c.jpg"
+ ],
  "ai_cats": [
   "hombre/albornoz-pijama",
   "mujer/batas-pijamas"
@@ -34,6 +49,7 @@
  ],
  "draft": false,
  "fam": "bata-tipo-kimono",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-66c77521952a7b43690bcfdd-black",
  "img_checked": "2026-11-23",
@@ -43,7 +59,7 @@
   "printful-361906822",
   "printful-345759651"
  ],
- "material": "",
+ "material": "100% polyester",
  "name_en": "Minimalist Kimono Robe · Black",
  "name_es": "Bata Kimono Minimalista · Negro",
  "needs_review": false,

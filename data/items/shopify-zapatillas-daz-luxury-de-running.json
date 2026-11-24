@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre",
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Mesh and PVC",
  "ai_priority": true,
+ "ai_type": "Sneakers",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shots with consistent lighting, though standard e-commerce presentation lacks high editorial mood.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "t-zapatillas-daz-luxury-de-running",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Precision meets movement in a silhouette conceived for the modern rhythm. Engineered with a seamless stretch upper, these sneakers accompany each stride with effortless adaptability. The soft and breathable MD sole brings lightness to the step, while the loop eyelet defines a refined profile. Exclusive pieces crafted on demand to ensure the singularity of our community. Worldwide shipping available.",
+ "desc_es": "La precisión se encuentra con el movimiento en una silueta concebida para el ritmo diario. Diseñadas con una parte superior elástica sin costuras, estas zapatillas acompañan cada paso con una adaptabilidad impecable. La suela MD suave y transpirable aporta ligereza a la pisada, mientras que el ojal de lazo define un perfil depurado. Piezas exclusivas confeccionadas bajo demanda para garantizar la singularidad de nuestra comunidad. Envío mundial disponible.",
+ "details_en": "· Composition: Mesh and PVC\n· Soft and breathable MD sole\n· Seamless stretch upper\n· Loop eyelet closure\n· Hand wash or gentle machine wash, dry naturally in the air\n· This product is made especially for you as soon as you place an order",
+ "details_es": "· Composición: Malla y PVC\n· Suela MD suave y transpirable\n· Parte superior elástica sin costuras\n· Cierre con ojal de lazo\n· Lavar a mano o suavemente a máquina, secar naturalmente al aire\n· Este producto está hecho especialmente para usted tan pronto como realiza un pedido",
  "display_images": [
   "assets/products/shop/d0780dfecc68524152dc.jpg",
   "assets/products/shop/a745bbeb411651f61a22.jpg",
@@ -19,9 +34,7 @@
   "assets/products/shop/0a8ad1bfb29ff15f8544.jpg",
   "assets/products/shop/c80aa8c237303195b797.jpg",
   "assets/products/shop/37842f14370991cd1fbf.jpg",
-  "assets/products/shop/55c0a1b018cd42c5ff32.jpg",
-  "assets/products/shop/716c2dbfa5d39894d6dc.jpg",
-  "assets/products/shop/fbf3d19c892e9dcf3413.jpg"
+  "assets/products/shop/716c2dbfa5d39894d6dc.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-luxury-running",
@@ -35,16 +48,125 @@
   "printful-345759651"
  ],
  "material": "",
- "name_en": "Zapatillas Daz Running Sneakers",
- "name_es": "Zapatillas Zapatillas Daz Running",
+ "name_en": "Luxury Sneakers",
+ "name_es": "Zapatillas Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 177.99,
  "rank": 1918,
  "shop_category": "Ropa y accesorios > Calzado > Zapatillas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "US",
+   "EU",
+   "Foot Length"
+  ],
+  "headers_es": [
+   "US",
+   "EU",
+   "Longitud del pie"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Por favor, permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "Women 5.5",
+    "36",
+    "24.0"
+   ],
+   [
+    "Women 6",
+    "37",
+    "24.6"
+   ],
+   [
+    "Women 7",
+    "38",
+    "25.3"
+   ],
+   [
+    "Women 8",
+    "39",
+    "26.0"
+   ],
+   [
+    "Women 9",
+    "40",
+    "26.7"
+   ],
+   [
+    "Women 10",
+    "41",
+    "27.3"
+   ],
+   [
+    "Women 11",
+    "42",
+    "28.0"
+   ],
+   [
+    "Women 11.5",
+    "43",
+    "28.7"
+   ],
+   [
+    "Women 12",
+    "44",
+    "29.3"
+   ],
+   [
+    "Men 5",
+    "38",
+    "25.3"
+   ],
+   [
+    "Men 6",
+    "39",
+    "26.0"
+   ],
+   [
+    "Men 7",
+    "40",
+    "26.7"
+   ],
+   [
+    "Men 7.5",
+    "41",
+    "27.3"
+   ],
+   [
+    "Men 8.5",
+    "42",
+    "28.0"
+   ],
+   [
+    "Men 9.5",
+    "43",
+    "28.7"
+   ],
+   [
+    "Men 10",
+    "44",
+    "29.3"
+   ],
+   [
+    "Men 11",
+    "45",
+    "30.0"
+   ],
+   [
+    "Men 12",
+    "46",
+    "30.7"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/fbf3d19c892e9dcf3413.jpg"
+ ],
  "sizes": [
   "Women US5.5 (EU36)",
   "Women US6 (EU37)",

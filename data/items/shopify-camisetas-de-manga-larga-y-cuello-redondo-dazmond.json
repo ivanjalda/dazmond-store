@@ -20,7 +20,7 @@
   "mujer/camisetas-blusas-tops"
  ],
  "cg": "t-camisetas-de-manga-larga-y-cuello-redondo-dazmond",
- "color": "",
+ "color": "black",
  "created": "2026-11-19",
  "desc_en": "This long sleeve t-shirt redefines casual elegance with a refined silhouette and an exceptionally soft hand feel. Crafted entirely from pure cotton, it presents a versatile design enhanced by a subtle printed detail across the chest. Its fluid structure transitions effortlessly from relaxed weekend wear to sophisticated layering beneath structured tailoring. Each piece is crafted exclusively upon order to ensure absolute exclusivity.",
  "desc_es": "Esta camiseta de manga larga redefine la elegancia casual con una silueta depurada y un tacto excepcionalmente suave. Confeccionada íntegramente en algodón puro, presenta un diseño versátil realzado por un sutil detalle estampado en el pecho. Su estructura fluida se adapta con naturalidad tanto a conjuntos relajados de fin de semana como a superposiciones más formales bajo sastrería estructurada. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta.",
@@ -36,6 +36,7 @@
  ],
  "draft": false,
  "fam": "camisetas-manga-larga",
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-camisetas-de-manga-larga-y-cuello-redondo-dazmond",
  "img_checked": "2026-11-22",
@@ -45,7 +46,7 @@
   "printful-361906822",
   "printful-345759651"
  ],
- "material": "",
+ "material": "100% Cotton",
  "name_en": "Long Sleeve T-Shirt",
  "name_es": "Camiseta de Manga Larga",
  "needs_review": false,

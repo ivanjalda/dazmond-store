@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% poliéster",
  "ai_priority": true,
+ "ai_type": "bucket hat",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with standard lighting, but mannequin shots look artificial.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,15 +22,15 @@
  "cg": "t-sombrero-de-pescador-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your everyday wardrobe with this bucket hat crafted from soft, durable polyester. Designed with a packable, foldable silhouette, it offers effortless versatility and sophistication for travel and outdoor pursuits. The wide brim provides essential protection from the sun, while the adjustable cord ensures a refined fit in changing weather. This essential accessory merges clean functionality with contemporary design. Each piece is crafted exclusively upon request to guarantee absolute exclusivity. Experience worldwide shipping.",
+ "desc_es": "Eleve su estilo cotidiano con este sombrero de pescador confeccionado en poliéster suave y duradero. Diseñado con una silueta plegable y empacable, ofrece versatilidad y sofisticación para sus desplazamientos. El ala ancha proporciona protección contra los rayos solares, mientras que el cordón ajustable asegura un ajuste impecable en cualquier circunstancia. Este accesorio esencial combina funcionalidad depurada y estética contemporánea para el guardarropa moderno. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disfrute de envíos a todo el mundo.",
+ "details_en": "· 100% polyester\n· Adjustable chin cord\n· Wide brim and packable design\n· This product is made especially for you as soon as you place an order",
+ "details_es": "· 100 % poliéster\n· Cordón ajustable\n· Ala ancha y diseño plegable\n· Este producto está hecho especialmente para usted tan pronto como realiza un pedido",
  "display_images": [
   "assets/products/shop/659c0b16195c96c718d6.jpg",
   "assets/products/shop/8a1581914dcf8041c881.jpg",
   "assets/products/shop/b3ea952b400fe23a4b36.jpg",
-  "assets/products/shop/7d318547b77dde5527b0.jpg",
-  "assets/products/shop/1a68c6cd4d9823c6f4be.jpg",
-  "https://wow-assets-us.oss-accelerate.aliyuncs.com/desc/20211217153229-pEXPN19rsM.jpeg"
+  "assets/products/shop/1a68c6cd4d9823c6f4be.jpg"
  ],
  "draft": false,
  "fam": "sombrero-pescador-luxury",
@@ -32,9 +45,10 @@
   "printful-357300009-black"
  ],
  "material": "",
- "name_en": "Sombrero Pescador Daz Hat",
- "name_es": "Gorro Sombrero Pescador Daz",
+ "name_en": "Diamond Bucket Hat",
+ "name_es": "Sombrero de Pescador Diamond",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 59.0,
  "rank": 1902,

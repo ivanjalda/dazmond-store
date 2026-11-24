@@ -20,7 +20,7 @@
   "mujer/bolsos-carteras"
  ],
  "cg": "t-cartera-con-cremallera",
- "color": "",
+ "color": "Pink",
  "created": "2026-11-19",
  "desc_en": "This compact wallet blends functionality with refined design. Crafted from waterproof synthetic leather, it presents a structured silhouette secured by a wrap-around golden zipper. The interior is engineered to maintain essential order, offering dedicated compartments for cards and documents. An essential everyday piece that balances practicality and understated elegance. Available made to order with worldwide shipping.",
  "desc_es": "Esta cartera compacta combina funcionalidad y diseño refinado. Confeccionada en piel sintética impermeable, presenta una silueta estructurada asegurada por una cremallera dorada envolvente. Su interior está diseñado para mantener el orden esencial, ofreciendo compartimentos dedicados para tarjetas y documentos. Una pieza esencial para el día a día que equilibra practicidad y elegancia discreta. Disponible bajo pedido con envíos a todo el mundo.",
@@ -34,6 +34,7 @@
  "draft": false,
  "fam": "cartera-cremallera",
  "fixed_price": true,
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-cartera-con-cremallera",
  "look": [
@@ -42,7 +43,7 @@
   "printful-361906822",
   "printful-345759651"
  ],
- "material": "",
+ "material": "Synthetic leather",
  "name_en": "Zip Around Wallet",
  "name_es": "Cartera con Cremallera",
  "needs_review": false,

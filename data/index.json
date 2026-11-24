@@ -31934,6 +31934,7 @@
       "supplier_id": "chaleco-acolchado-ligero-daz-luxury-1",
       "fam": "chaleco-acolchado-ligero",
       "cg": "t-chaleco-acolchado-ligero-daz-luxury",
+      "art_score": 3,
       "img": "assets/products/shop/96d86824c0df9b6e741e.jpg"
     },
     {
@@ -33161,8 +33162,8 @@
     },
     {
       "id": "shopify-bolso-bandolera-daz-de-lujo-de-cuero-sintetico",
-      "name_es": "Bolso Bandolera de Cuero Sintético",
-      "name_en": "Synthetic Leather Crossbody Bag",
+      "name_es": "Bolso Bandolera de Cuero Sintético · Yellow",
+      "name_en": "Synthetic Leather Crossbody Bag · Yellow",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
@@ -33175,6 +33176,7 @@
       "supplier_id": "bolso-bandolera-daz-de-lujo-de-cuero-sintetico",
       "fam": "bolso-bandolera-lujo",
       "cg": "t-bolso-bandolera-daz-de-lujo-de-cuero-sintetico",
+      "color": "Yellow",
       "art_score": 6,
       "img": "assets/products/shop/097ff56bebd32402af59.jpg"
     },
@@ -33480,8 +33482,8 @@
     },
     {
       "id": "shopify-bolso-tote-de-cuero-daz-luxury-2",
-      "name_es": "Bolso Tote de Cuero PU",
-      "name_en": "PU Leather Tote Bag",
+      "name_es": "Bolso Tote de Cuero PU · Verde",
+      "name_en": "PU Leather Tote Bag · Green",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -33494,6 +33496,7 @@
       "supplier_id": "bolso-tote-de-cuero-daz-luxury-2",
       "fam": "bolso-tote-cuero",
       "cg": "t-bolso-tote-de-cuero-daz-luxury",
+      "color": "Green",
       "art_score": 6,
       "img": "assets/products/shop/acc1ad7ca91fb443a046.jpg"
     },
@@ -35534,6 +35537,7 @@
       "fam": "zapatos-skate-premium",
       "cg": "t-zapatos-de-skate-daz-premium-de-cuero-de-cana-baja-ligeros-para",
       "color": "Black",
+      "art_score": 5,
       "img": "assets/products/shop/b26fa198d34bfa6585ca.jpg"
     },
     {
@@ -35615,6 +35619,7 @@
       "supplier_id": "camisa-manga-corta-dazmond-informal-para-hombre-con-estampado-integral",
       "fam": "crimson-thorns-retro",
       "cg": "t-dazmond-crimson-thorns-retro-bowling-shirt",
+      "color": "White",
       "art_score": 9,
       "img": "assets/products/shopify-camisa-manga-corta-dazmond-informal-para-hombre-con-estampado--1.webp"
     },
@@ -35694,8 +35699,8 @@
     },
     {
       "id": "shopify-bolso-tote-comodo-daz-luxury",
-      "name_es": "Bolso Tote Estampado Lotus",
-      "name_en": "Lotus Print Tote Bag",
+      "name_es": "Bolso Tote Estampado Lotus · Blanco",
+      "name_en": "Lotus Print Tote Bag · White",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35708,13 +35713,14 @@
       "supplier_id": "bolso-tote-comodo-daz-luxury",
       "fam": "bolso-tote-comodo",
       "cg": "t-bolso-tote-comodo-daz-luxury",
+      "color": "White",
       "art_score": 6,
       "img": "assets/products/shop/a4c5fc3f5a1002d88f42.jpg"
     },
     {
       "id": "shopify-bolso-tote-comodo-daz-luxury-1",
-      "name_es": "Bolso Tote Estampado Lotus",
-      "name_en": "Lotus Print Tote Bag",
+      "name_es": "Bolso Tote Estampado Lotus · Negro",
+      "name_en": "Lotus Print Tote Bag · Black",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35727,13 +35733,14 @@
       "supplier_id": "bolso-tote-comodo-daz-luxury-1",
       "fam": "bolso-tote-comodo",
       "cg": "t-bolso-tote-comodo-daz-luxury",
+      "color": "Black",
       "art_score": 6,
       "img": "assets/products/shop/ac6ae4f6215fee4fdf8a.jpg"
     },
     {
       "id": "shopify-bolso-tote-comodo-daz-luxury-2",
-      "name_es": "Bolso Tote Estampado Lotus",
-      "name_en": "Lotus Print Tote Bag",
+      "name_es": "Bolso Tote Estampado Lotus · Rojo",
+      "name_en": "Lotus Print Tote Bag · Red",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -35746,6 +35753,7 @@
       "supplier_id": "bolso-tote-comodo-daz-luxury-2",
       "fam": "bolso-tote-comodo",
       "cg": "t-bolso-tote-comodo-daz-luxury",
+      "color": "Red",
       "art_score": 4,
       "img": "assets/products/shop/d5d12ee46bbf19ef8844.jpg"
     },
@@ -35766,6 +35774,7 @@
       "supplier_id": "calcetines-daz-de-longitud-media",
       "fam": "signature-essence-mid",
       "cg": "t-dazmond-signature-essence-mid-length-socks",
+      "color": "Negro",
       "art_score": 9,
       "img": "assets/products/shop/14418090b8ca3184b330.jpg"
     },
@@ -35886,6 +35895,7 @@
       "supplier_id": "camisetas-de-manga-larga-y-cuello-redondo-dazmond",
       "fam": "camisetas-manga-larga",
       "cg": "t-camisetas-de-manga-larga-y-cuello-redondo-dazmond",
+      "color": "black",
       "art_score": 9,
       "img": "assets/products/shop/fe1cf52865230a5214c1.jpg"
     },
@@ -36022,6 +36032,7 @@
       "supplier_id": "bolsa-de-viaje-plegable-de-cuero-daz-luxury",
       "fam": "bolsa-viaje-plegable",
       "cg": "t-bolsa-de-viaje-plegable-de-cuero-daz-luxury",
+      "color": "Brown and White",
       "art_score": 5,
       "img": "assets/products/shop/f4d68cee966125bfb44b.jpg"
     },
@@ -36064,29 +36075,9 @@
       "img": "assets/products/shop/f1a93d074fb5d56a3562.jpg"
     },
     {
-      "id": "shopify-design-swimsuit-set-front-side-printingmade-in-usa-negro",
-      "name_es": "Traje de baño halter Dazmond · Negro",
-      "name_en": "Dazmond halter swimsuit · Negro",
-      "price_usd": 42.99,
-      "badge": "new",
-      "categories": [
-        "hombre/banador",
-        "mujer/trajes-bano"
-      ],
-      "available": true,
-      "rank": 1870,
-      "created": "2026-11-19",
-      "page": true,
-      "supplier_id": "design-swimsuit-set-front-side-printingmade-in-usa-negro",
-      "fam": "traje-bano-diseno",
-      "cg": "t-traje-de-bano-de-diseno-dazmond-luxury",
-      "color": "Negro",
-      "img": "assets/products/shop/10947be8042e5485788b.jpg"
-    },
-    {
       "id": "shopify-botas-daz-luxury-de-piel-sintetica",
-      "name_es": "Botas de Piel Sintética DAZ",
-      "name_en": "DAZ Faux Leather Boots",
+      "name_es": "Botas de Piel Sintética DAZ · Amarillo",
+      "name_en": "DAZ Faux Leather Boots · Amarillo",
       "price_usd": 227.99,
       "badge": "new",
       "categories": [
@@ -36100,6 +36091,7 @@
       "supplier_id": "botas-daz-luxury-de-piel-sintetica",
       "fam": "botas-luxury-piel",
       "cg": "t-botas-daz-luxury-de-piel-sintetica",
+      "color": "Amarillo",
       "art_score": 5,
       "img": "assets/products/shop/5a3f418dcee7a65e4b41.jpg"
     },
@@ -36123,8 +36115,8 @@
     },
     {
       "id": "shopify-botas-daz-luxury-de-piel-sintetica-1",
-      "name_es": "Botas de Piel Sintética DAZ",
-      "name_en": "DAZ Faux Leather Boots",
+      "name_es": "Botas de Piel Sintética DAZ · Negro",
+      "name_en": "DAZ Faux Leather Boots · Negro",
       "price_usd": 227.99,
       "badge": "new",
       "categories": [
@@ -36138,13 +36130,14 @@
       "supplier_id": "botas-daz-luxury-de-piel-sintetica-1",
       "fam": "botas-luxury-piel",
       "cg": "t-botas-daz-luxury-de-piel-sintetica",
+      "color": "Negro",
       "art_score": 5,
       "img": "assets/products/shop/4217ae5eee5c4bc8b176.jpg"
     },
     {
       "id": "shopify-botas-de-cuero-sintetico-daz-luxury",
-      "name_es": "Botas de cuero vegano",
-      "name_en": "Vegan leather boots",
+      "name_es": "Botas de cuero vegano · Yellow",
+      "name_en": "Vegan leather boots · Yellow",
       "price_usd": 119.0,
       "badge": "new",
       "categories": [
@@ -36158,13 +36151,14 @@
       "supplier_id": "botas-de-cuero-sintetico-daz-luxury",
       "fam": "botas-cuero-sintetico",
       "cg": "t-botas-de-cuero-sintetico-daz-luxury",
+      "color": "Yellow",
       "art_score": 6,
       "img": "assets/products/shop/8d99c504f39cd59c1dcc.jpg"
     },
     {
       "id": "shopify-botas-de-cuero-sintetico-daz-luxury-1",
-      "name_es": "Botas de cuero vegano",
-      "name_en": "Vegan leather boots",
+      "name_es": "Botas de cuero vegano · Oro",
+      "name_en": "Vegan leather boots · Gold",
       "price_usd": 119.9,
       "badge": "new",
       "categories": [
@@ -36178,13 +36172,14 @@
       "supplier_id": "botas-de-cuero-sintetico-daz-luxury-1",
       "fam": "botas-cuero-sintetico",
       "cg": "t-botas-de-cuero-sintetico-daz-luxury",
+      "color": "Gold",
       "art_score": 6,
       "img": "assets/products/shop/0f34f718a570ad8e28aa.jpg"
     },
     {
       "id": "shopify-botas-de-cuero-sintetico-daz-luxury-2",
-      "name_es": "Botas de cuero vegano",
-      "name_en": "Vegan leather boots",
+      "name_es": "Botas de cuero vegano · Yellow",
+      "name_en": "Vegan leather boots · Yellow",
       "price_usd": 119.0,
       "badge": "new",
       "categories": [
@@ -36198,13 +36193,14 @@
       "supplier_id": "botas-de-cuero-sintetico-daz-luxury-2",
       "fam": "botas-cuero-sintetico",
       "cg": "t-botas-de-cuero-sintetico-daz-luxury",
+      "color": "Yellow",
       "art_score": 6,
       "img": "assets/products/shop/37fb8f57eec1ce1f86e8.jpg"
     },
     {
       "id": "shopify-botas-de-cuero-sintetico-daz-luxury-3",
-      "name_es": "Botas de cuero vegano",
-      "name_en": "Vegan leather boots",
+      "name_es": "Botas de cuero vegano · Gris",
+      "name_en": "Vegan leather boots · Grey",
       "price_usd": 119.9,
       "badge": "new",
       "categories": [
@@ -36218,13 +36214,14 @@
       "supplier_id": "botas-de-cuero-sintetico-daz-luxury-3",
       "fam": "botas-cuero-sintetico",
       "cg": "t-botas-de-cuero-sintetico-daz-luxury",
+      "color": "Grey",
       "art_score": 6,
       "img": "assets/products/shop/7210d6b39d88b41213a3.jpg"
     },
     {
       "id": "shopify-botas-de-cuero-sintetico-daz-luxury-4",
-      "name_es": "Botas de cuero vegano",
-      "name_en": "Vegan leather boots",
+      "name_es": "Botas de cuero vegano · Negro",
+      "name_en": "Vegan leather boots · Black",
       "price_usd": 109.9,
       "badge": "new",
       "categories": [
@@ -36238,6 +36235,7 @@
       "supplier_id": "botas-de-cuero-sintetico-daz-luxury-4",
       "fam": "botas-cuero-sintetico",
       "cg": "t-botas-de-cuero-sintetico-daz-luxury",
+      "color": "Black",
       "art_score": 6,
       "img": "assets/products/shop/68eb00d706ea0b80926f.jpg"
     },
@@ -36258,12 +36256,13 @@
       "supplier_id": "botas-de-cuero-sintetico-daz-luxury-5",
       "fam": "botas-cuero-sintetico",
       "cg": "t-botas-de-cuero-sintetico-daz-luxury",
+      "art_score": 6,
       "img": "assets/products/shop/5c7c81a94f664e330cbe.jpg"
     },
     {
       "id": "shopify-botas-de-cuero-sintetico-daz-luxury-6",
-      "name_es": "Botas de cuero vegano",
-      "name_en": "Vegan leather boots",
+      "name_es": "Botas de cuero vegano · Multicolor",
+      "name_en": "Vegan leather boots · Multicolor",
       "price_usd": 109.0,
       "badge": "new",
       "categories": [
@@ -36277,13 +36276,14 @@
       "supplier_id": "botas-de-cuero-sintetico-daz-luxury-6",
       "fam": "botas-cuero-sintetico",
       "cg": "t-botas-de-cuero-sintetico-daz-luxury",
+      "color": "Multicolor",
       "art_score": 8,
       "img": "assets/products/shop/0a7c7c4e0932b1bdff4a.jpg"
     },
     {
       "id": "shopify-botas-de-piel-sintetica-daz-luxury",
-      "name_es": "Bota Estampada Diamantes",
-      "name_en": "Diamond Print Boot",
+      "name_es": "Bota Estampada Diamantes · Multicolor",
+      "name_en": "Diamond Print Boot · Multicolor",
       "price_usd": 109.0,
       "badge": "new",
       "categories": [
@@ -36297,13 +36297,14 @@
       "supplier_id": "botas-de-piel-sintetica-daz-luxury",
       "fam": "botas-piel-sintetica",
       "cg": "t-botas-de-piel-sintetica-daz-luxury",
+      "color": "Multicolor",
       "art_score": 3,
       "img": "assets/products/shop/49ee9a1d43623ce2240d.jpg"
     },
     {
       "id": "shopify-botas-de-piel-sintetica-daz-luxury-1",
-      "name_es": "Bota Estampada Diamantes",
-      "name_en": "Diamond Print Boot",
+      "name_es": "Bota Estampada Diamantes · Azul",
+      "name_en": "Diamond Print Boot · Blue",
       "price_usd": 109.9,
       "badge": "new",
       "categories": [
@@ -36317,13 +36318,14 @@
       "supplier_id": "botas-de-piel-sintetica-daz-luxury-1",
       "fam": "botas-piel-sintetica",
       "cg": "t-botas-de-piel-sintetica-daz-luxury",
+      "color": "Blue",
       "art_score": 8,
       "img": "assets/products/shop/eb890cc0b85da4898e09.jpg"
     },
     {
       "id": "shopify-botas-de-piel-sintetica-daz-luxury-2",
-      "name_es": "Bota Estampada Diamantes",
-      "name_en": "Diamond Print Boot",
+      "name_es": "Bota Estampada Diamantes · Negro",
+      "name_en": "Diamond Print Boot · Black",
       "price_usd": 119.9,
       "badge": "new",
       "categories": [
@@ -36337,13 +36339,14 @@
       "supplier_id": "botas-de-piel-sintetica-daz-luxury-2",
       "fam": "botas-piel-sintetica",
       "cg": "t-botas-de-piel-sintetica-daz-luxury",
+      "color": "Black",
       "art_score": 6,
       "img": "assets/products/shop/4f16cdf6ebc02fd5a4bc.jpg"
     },
     {
       "id": "shopify-botas-de-piel-sintetica-daz-luxury-3",
-      "name_es": "Bota Estampada Diamantes",
-      "name_en": "Diamond Print Boot",
+      "name_es": "Bota Estampada Diamantes · Púrpura",
+      "name_en": "Diamond Print Boot · Purple",
       "price_usd": 119.9,
       "badge": "new",
       "categories": [
@@ -36357,6 +36360,7 @@
       "supplier_id": "botas-de-piel-sintetica-daz-luxury-3",
       "fam": "botas-piel-sintetica",
       "cg": "t-botas-de-piel-sintetica-daz-luxury",
+      "color": "Purple",
       "art_score": 6,
       "img": "assets/products/shop/0b6cd4a3f1dcde2a14a8.jpg"
     },
@@ -36377,6 +36381,7 @@
       "supplier_id": "cartera-con-cremallera",
       "fam": "cartera-cremallera",
       "cg": "t-cartera-con-cremallera",
+      "color": "Pink",
       "art_score": 5,
       "img": "assets/products/shop/08b4e046dd8559bde79d.jpg"
     },
@@ -36403,8 +36408,8 @@
     },
     {
       "id": "shopify-mocasines-daz-de-lona-sin-cordones",
-      "name_es": "Mocasines de lona sin cordones",
-      "name_en": "Canvas slip-on loafers",
+      "name_es": "Mocasines de lona sin cordones · Yellow",
+      "name_en": "Canvas slip-on loafers · Yellow",
       "price_usd": 177.99,
       "badge": "new",
       "categories": [
@@ -36417,6 +36422,7 @@
       "supplier_id": "mocasines-daz-de-lona-sin-cordones",
       "fam": "mocasines-lona-sin",
       "cg": "t-mocasines-daz-de-lona-sin-cordones",
+      "color": "Yellow",
       "art_score": 6,
       "img": "assets/products/shop/09768d5b0239720fd8b9.jpg"
     },
@@ -36427,8 +36433,7 @@
       "price_usd": 177.99,
       "badge": "new",
       "categories": [
-        "calzado-hombre/zapatos-elegantes",
-        "calzado-mujer/zapatillas"
+        "calzado-hombre/zapatos-elegantes"
       ],
       "available": true,
       "rank": 1889,
@@ -36437,12 +36442,13 @@
       "supplier_id": "mocasines-daz-de-lona-sin-cordones-1",
       "fam": "mocasines-lona-sin",
       "cg": "t-mocasines-daz-de-lona-sin-cordones",
+      "art_score": 5,
       "img": "assets/products/shop/f9d9736d361c4a473ee8.jpg"
     },
     {
       "id": "shopify-mocasines-daz-de-lona-sin-cordones-2",
-      "name_es": "Mocasines de lona sin cordones",
-      "name_en": "Canvas slip-on loafers",
+      "name_es": "Mocasines de lona sin cordones · Verde",
+      "name_en": "Canvas slip-on loafers · Green",
       "price_usd": 177.99,
       "badge": "new",
       "categories": [
@@ -36455,13 +36461,14 @@
       "supplier_id": "mocasines-daz-de-lona-sin-cordones-2",
       "fam": "mocasines-lona-sin",
       "cg": "t-mocasines-daz-de-lona-sin-cordones",
+      "color": "Green",
       "art_score": 5,
       "img": "assets/products/shop/189b09601e2538acde5e.jpg"
     },
     {
       "id": "shopify-mocasines-daz-de-lona-sin-cordones-3",
-      "name_es": "Mocasines de lona sin cordones",
-      "name_en": "Canvas slip-on loafers",
+      "name_es": "Mocasines de lona sin cordones · Azul",
+      "name_en": "Canvas slip-on loafers · Azul",
       "price_usd": 177.99,
       "badge": "new",
       "categories": [
@@ -36474,6 +36481,7 @@
       "supplier_id": "mocasines-daz-de-lona-sin-cordones-3",
       "fam": "mocasines-lona-sin",
       "cg": "t-mocasines-daz-de-lona-sin-cordones",
+      "color": "Azul",
       "art_score": 6,
       "img": "assets/products/shop/db444ec3eef0d4bd19b1.jpg"
     },
@@ -36495,6 +36503,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/c99b6d26f82a67b46f10.jpg"
     },
     {
@@ -36504,8 +36513,7 @@
       "price_usd": 197.89,
       "badge": "new",
       "categories": [
-        "calzado-hombre/zapatos-elegantes",
-        "calzado-mujer/zapatillas"
+        "calzado-hombre/zapatos-elegantes"
       ],
       "available": true,
       "rank": 1893,
@@ -36515,6 +36523,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/1525e0df648235e82137.jpg"
     },
     {
@@ -36524,8 +36533,7 @@
       "price_usd": 197.89,
       "badge": "new",
       "categories": [
-        "calzado-hombre/zapatos-elegantes",
-        "calzado-mujer/zapatillas"
+        "calzado-hombre/zapatos-elegantes"
       ],
       "available": true,
       "rank": 1894,
@@ -36535,6 +36543,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "White",
+      "art_score": 3,
       "img": "assets/products/shop/153e00e5b97c3a3a47ce.jpg"
     },
     {
@@ -36544,8 +36553,7 @@
       "price_usd": 197.89,
       "badge": "new",
       "categories": [
-        "calzado-hombre/zapatos-elegantes",
-        "calzado-mujer/zapatillas"
+        "calzado-hombre/zapatos-elegantes"
       ],
       "available": true,
       "rank": 1895,
@@ -36555,6 +36563,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "Black",
+      "art_score": 4,
       "img": "assets/products/shop/6b932b8f885640ecbd5d.jpg"
     },
     {
@@ -36564,8 +36573,7 @@
       "price_usd": 197.89,
       "badge": "new",
       "categories": [
-        "calzado-hombre/zapatos-elegantes",
-        "calzado-mujer/zapatillas"
+        "calzado-hombre/zapatos-elegantes"
       ],
       "available": true,
       "rank": 1896,
@@ -36575,6 +36583,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "White",
+      "art_score": 3,
       "img": "assets/products/shop/7294537bcc1ea32a0805.jpg"
     },
     {
@@ -36584,8 +36593,7 @@
       "price_usd": 197.89,
       "badge": "new",
       "categories": [
-        "calzado-hombre/zapatos-elegantes",
-        "calzado-mujer/zapatillas"
+        "calzado-hombre/zapatos-elegantes"
       ],
       "available": true,
       "rank": 1897,
@@ -36595,6 +36603,7 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "Black",
+      "art_score": 4,
       "img": "assets/products/shop/8bd50ec7434040212505.jpg"
     },
     {
@@ -36604,8 +36613,7 @@
       "price_usd": 197.89,
       "badge": "new",
       "categories": [
-        "calzado-hombre/zapatos-elegantes",
-        "calzado-mujer/zapatillas"
+        "calzado-hombre/zapatos-elegantes"
       ],
       "available": true,
       "rank": 1898,
@@ -36615,12 +36623,13 @@
       "fam": "mocasines-luxury-lona",
       "cg": "t-mocasines-daz-luxury-de-lona",
       "color": "White",
+      "art_score": 5,
       "img": "assets/products/shop/67081b4dcf9e2b275504.jpg"
     },
     {
       "id": "shopify-pijama-de-verano-daz-luxury",
-      "name_es": "Pijama Pijama Verano Daz",
-      "name_en": "Pijama Verano Daz Loungewear",
+      "name_es": "Conjunto de Pijama en Rojo Carmesí",
+      "name_en": "Crimson Red Pajama Set",
       "price_usd": 39.0,
       "badge": "new",
       "categories": [
@@ -36633,12 +36642,13 @@
       "supplier_id": "pijama-de-verano-daz-luxury",
       "fam": "pijama-verano-luxury",
       "cg": "t-pijama-de-verano-daz-luxury",
-      "img": "assets/products/shop/46137608dfe55a86284d.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/2745d9f7b0a4bd52b6e9.jpg"
     },
     {
       "id": "shopify-pijama-de-verano-daz-luxury-1",
-      "name_es": "Pijama Pijama Verano Daz",
-      "name_en": "Pijama Verano Daz Loungewear",
+      "name_es": "Conjunto de Pijama en Rojo Carmesí",
+      "name_en": "Crimson Red Pajama Set",
       "price_usd": 39.0,
       "badge": "new",
       "categories": [
@@ -36651,12 +36661,13 @@
       "supplier_id": "pijama-de-verano-daz-luxury-1",
       "fam": "pijama-verano-luxury",
       "cg": "t-pijama-de-verano-daz-luxury",
+      "art_score": 4,
       "img": "assets/products/shop/5e16069e4317a03cc571.jpg"
     },
     {
       "id": "shopify-sombrero-de-pescador-daz-luxury",
-      "name_es": "Gorro Sombrero Pescador Daz",
-      "name_en": "Sombrero Pescador Daz Hat",
+      "name_es": "Sombrero de Pescador Diamond",
+      "name_en": "Diamond Bucket Hat",
       "price_usd": 34.9,
       "badge": "new",
       "categories": [
@@ -36670,12 +36681,13 @@
       "supplier_id": "sombrero-de-pescador-daz-luxury",
       "fam": "sombrero-pescador-luxury",
       "cg": "t-sombrero-de-pescador-daz-luxury",
+      "art_score": 6,
       "img": "assets/products/shop/d3b7ab3e60600313e0b8.jpg"
     },
     {
       "id": "shopify-sombrero-de-pescador-daz-luxury-2",
-      "name_es": "Gorro Sombrero Pescador Daz",
-      "name_en": "Sombrero Pescador Daz Hat",
+      "name_es": "Sombrero de Pescador Diamond",
+      "name_en": "Diamond Bucket Hat",
       "price_usd": 59.0,
       "badge": "new",
       "categories": [
@@ -36689,12 +36701,13 @@
       "supplier_id": "sombrero-de-pescador-daz-luxury-2",
       "fam": "sombrero-pescador-luxury",
       "cg": "t-sombrero-de-pescador-daz-luxury",
+      "art_score": 4,
       "img": "assets/products/shop/659c0b16195c96c718d6.jpg"
     },
     {
       "id": "shopify-sombrero-de-pescador-daz-luxury-3",
-      "name_es": "Gorro Sombrero Pescador Daz",
-      "name_en": "Sombrero Pescador Daz Hat",
+      "name_es": "Sombrero de Pescador Diamond",
+      "name_en": "Diamond Bucket Hat",
       "price_usd": 59.0,
       "badge": "new",
       "categories": [
@@ -36708,12 +36721,13 @@
       "supplier_id": "sombrero-de-pescador-daz-luxury-3",
       "fam": "sombrero-pescador-luxury",
       "cg": "t-sombrero-de-pescador-daz-luxury",
+      "art_score": 3,
       "img": "assets/products/shop/30269e0895c70778fd08.jpg"
     },
     {
       "id": "shopify-sombrero-de-pescador-daz-luxury-4",
-      "name_es": "Gorro Sombrero Pescador Daz",
-      "name_en": "Sombrero Pescador Daz Hat",
+      "name_es": "Sombrero de Pescador Diamond",
+      "name_en": "Diamond Bucket Hat",
       "price_usd": 59.9,
       "badge": "new",
       "categories": [
@@ -36727,12 +36741,13 @@
       "supplier_id": "sombrero-de-pescador-daz-luxury-4",
       "fam": "sombrero-pescador-luxury",
       "cg": "t-sombrero-de-pescador-daz-luxury",
+      "art_score": 3,
       "img": "assets/products/shop/ba25f1a913123b1d046e.jpg"
     },
     {
       "id": "shopify-sombrero-de-pescador-daz-luxury-5",
-      "name_es": "Gorro Sombrero Pescador Daz",
-      "name_en": "Sombrero Pescador Daz Hat",
+      "name_es": "Sombrero de Pescador Diamond",
+      "name_en": "Diamond Bucket Hat",
       "price_usd": 59.9,
       "badge": "new",
       "categories": [
@@ -36746,12 +36761,13 @@
       "supplier_id": "sombrero-de-pescador-daz-luxury-5",
       "fam": "sombrero-pescador-luxury",
       "cg": "t-sombrero-de-pescador-daz-luxury",
+      "art_score": 3,
       "img": "assets/products/shop/5609374b76859bc8bf07.jpg"
     },
     {
       "id": "shopify-sombrero-de-pescador-daz-luxury-6",
-      "name_es": "Gorro Sombrero Pescador Daz",
-      "name_en": "Sombrero Pescador Daz Hat",
+      "name_es": "Sombrero de Pescador Diamond",
+      "name_en": "Diamond Bucket Hat",
       "price_usd": 59.9,
       "badge": "new",
       "categories": [
@@ -36765,12 +36781,13 @@
       "supplier_id": "sombrero-de-pescador-daz-luxury-6",
       "fam": "sombrero-pescador-luxury",
       "cg": "t-sombrero-de-pescador-daz-luxury",
+      "art_score": 3,
       "img": "assets/products/shop/7ffec8854e2e03f53da1.jpg"
     },
     {
       "id": "shopify-sombrero-de-pescador-reflectante-daz-luxury",
-      "name_es": "Gorro Sombrero Pescador",
-      "name_en": "Sombrero Pescador Hat",
+      "name_es": "Sombrero de Pescador Reversible",
+      "name_en": "Reversible Bucket Hat",
       "price_usd": 59.0,
       "badge": "new",
       "categories": [
@@ -36784,12 +36801,13 @@
       "supplier_id": "sombrero-de-pescador-reflectante-daz-luxury",
       "fam": "sombrero-pescador-reflectante",
       "cg": "t-sombrero-de-pescador-reflectante-daz-luxury",
+      "art_score": 5,
       "img": "assets/products/shop/9e320f3463ea2b872b99.jpg"
     },
     {
       "id": "shopify-sombrero-de-pescador-reflectante-daz-luxury-1",
-      "name_es": "Gorro Sombrero Pescador",
-      "name_en": "Sombrero Pescador Hat",
+      "name_es": "Sombrero de Pescador Reversible",
+      "name_en": "Reversible Bucket Hat",
       "price_usd": 59.0,
       "badge": "new",
       "categories": [
@@ -36803,6 +36821,7 @@
       "supplier_id": "sombrero-de-pescador-reflectante-daz-luxury-1",
       "fam": "sombrero-pescador-reflectante",
       "cg": "t-sombrero-de-pescador-reflectante-daz-luxury",
+      "art_score": 5,
       "img": "assets/products/shop/35fa674f8fa7be5c1e04.jpg"
     },
     {
@@ -36826,8 +36845,8 @@
     },
     {
       "id": "shopify-zapatillas-daz-luxury",
-      "name_es": "Zapatillas Zapatillas Daz",
-      "name_en": "Zapatillas Daz Sneakers",
+      "name_es": "Pantuflas de Gamuza Premium",
+      "name_en": "Premium Suede Slippers",
       "price_usd": 29.9,
       "badge": "new",
       "categories": [
@@ -36841,12 +36860,13 @@
       "supplier_id": "zapatillas-daz-luxury",
       "fam": "zapatillas-luxury",
       "cg": "t-zapatillas-daz-luxury",
+      "art_score": 5,
       "img": "assets/products/shop/d0bedab1fb8dde615d7a.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-1",
-      "name_es": "Zapatillas Zapatillas Daz",
-      "name_en": "Zapatillas Daz Sneakers",
+      "name_es": "Pantuflas de Gamuza Premium",
+      "name_en": "Premium Suede Slippers",
       "price_usd": 30.0,
       "badge": "new",
       "categories": [
@@ -36864,8 +36884,8 @@
     },
     {
       "id": "shopify-zapatillas-daz-luxury-2",
-      "name_es": "Zapatillas Zapatillas Daz",
-      "name_en": "Zapatillas Daz Sneakers",
+      "name_es": "Pantuflas de Gamuza Premium",
+      "name_en": "Premium Suede Slippers",
       "price_usd": 32.0,
       "badge": "new",
       "categories": [
@@ -36879,12 +36899,13 @@
       "supplier_id": "zapatillas-daz-luxury-2",
       "fam": "zapatillas-luxury",
       "cg": "t-zapatillas-daz-luxury",
+      "art_score": 5,
       "img": "assets/products/shop/7c836830a9ce36201115.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-3",
-      "name_es": "Zapatillas Zapatillas Daz",
-      "name_en": "Zapatillas Daz Sneakers",
+      "name_es": "Pantuflas de Gamuza Premium",
+      "name_en": "Premium Suede Slippers",
       "price_usd": 35.0,
       "badge": "new",
       "categories": [
@@ -36898,12 +36919,13 @@
       "supplier_id": "zapatillas-daz-luxury-3",
       "fam": "zapatillas-luxury",
       "cg": "t-zapatillas-daz-luxury",
+      "art_score": 5,
       "img": "assets/products/shop/1423ab01af5d8dd2fecf.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-4",
-      "name_es": "Zapatillas Zapatillas Daz",
-      "name_en": "Zapatillas Daz Sneakers",
+      "name_es": "Pantuflas de Gamuza Premium",
+      "name_en": "Premium Suede Slippers",
       "price_usd": 29.9,
       "badge": "new",
       "categories": [
@@ -36917,7 +36939,8 @@
       "supplier_id": "zapatillas-daz-luxury-4",
       "fam": "zapatillas-luxury",
       "cg": "t-zapatillas-daz-luxury",
-      "img": "assets/products/shop/9a404303b8b0004e7696.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/eda3755c833828cd6561.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-con-amortiguacion-atmosferica-para-mujer",
@@ -36957,8 +36980,8 @@
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-baloncesto",
-      "name_es": "Zapatillas Zapatillas Daz Baloncesto",
-      "name_en": "Zapatillas Daz Baloncesto Sneakers",
+      "name_es": "Zapatillas de Baloncesto Luxury",
+      "name_en": "Luxury Basketball Sneakers",
       "price_usd": 227.71,
       "badge": "new",
       "categories": [
@@ -36972,12 +36995,13 @@
       "supplier_id": "zapatillas-daz-luxury-de-baloncesto",
       "fam": "zapatillas-luxury-baloncesto",
       "cg": "t-zapatillas-daz-luxury-de-baloncesto",
+      "art_score": 6,
       "img": "assets/products/shop/efdf2955a804708d574f.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-luxury-de-running",
-      "name_es": "Zapatillas Zapatillas Daz Running",
-      "name_en": "Zapatillas Daz Running Sneakers",
+      "name_es": "Zapatillas Luxury",
+      "name_en": "Luxury Sneakers",
       "price_usd": 177.99,
       "badge": "new",
       "categories": [
@@ -36991,6 +37015,7 @@
       "supplier_id": "zapatillas-daz-luxury-de-running",
       "fam": "zapatillas-luxury-running",
       "cg": "t-zapatillas-daz-luxury-de-running",
+      "art_score": 6,
       "img": "assets/products/shop/d0780dfecc68524152dc.jpg"
     },
     {
@@ -37031,13 +37056,12 @@
     },
     {
       "id": "shopify-zapatillas-de-cana-alta-dazmond-art-blanco",
-      "name_es": "Zapatillas Zapatillas Caña Alta · Blanco",
-      "name_en": "Zapatillas Caña Alta Sneakers · Blanco",
+      "name_es": "Zapatillas Altas DAZMOND Art · Blanco",
+      "name_en": "DAZMOND Art High-Top Sneakers · Blanco",
       "price_usd": 70.0,
       "badge": "new",
       "categories": [
-        "calzado-hombre/zapatillas-hombre",
-        "calzado-mujer/zapatillas"
+        "calzado-hombre/zapatillas-hombre"
       ],
       "available": true,
       "rank": 1921,
@@ -37047,12 +37071,13 @@
       "fam": "zapatillas-cana-alta",
       "cg": "t-zapatillas-de-cana-alta-dazmond-art",
       "color": "Blanco",
+      "art_score": 9,
       "img": "assets/products/shop/6f96bdcda0055ff0b145.jpg"
     },
     {
       "id": "shopify-zapatillas-de-cana-alta-dazmond-art-negro",
-      "name_es": "Zapatillas Zapatillas Caña Alta · Negro",
-      "name_en": "Zapatillas Caña Alta Sneakers · Negro",
+      "name_es": "Zapatillas Altas DAZMOND Art · Negro",
+      "name_en": "DAZMOND Art High-Top Sneakers · Negro",
       "price_usd": 70.0,
       "badge": "new",
       "categories": [
@@ -37067,12 +37092,13 @@
       "fam": "zapatillas-cana-alta",
       "cg": "t-zapatillas-de-cana-alta-dazmond-art",
       "color": "Negro",
+      "art_score": 9,
       "img": "assets/products/shop/052a718c5075560c800a.jpg"
     },
     {
       "id": "shopify-zapatillas-de-cana-alta-dazmond-luxury-art-blanco",
-      "name_es": "Zapatillas Zapatillas Caña Alta · Blanco",
-      "name_en": "Zapatillas Caña Alta Sneakers · Blanco",
+      "name_es": "Zapatillas altas Diamond Art · Blanco",
+      "name_en": "Diamond Art High-Top Shoes · Blanco",
       "price_usd": 75.0,
       "badge": "new",
       "categories": [
@@ -37091,8 +37117,8 @@
     },
     {
       "id": "shopify-zapatillas-de-cana-alta-dazmond-luxury-art-negro",
-      "name_es": "Zapatillas Zapatillas Caña Alta · Negro",
-      "name_en": "Zapatillas Caña Alta Sneakers · Negro",
+      "name_es": "Zapatillas altas Diamond Art · Negro",
+      "name_en": "Diamond Art High-Top Shoes · Negro",
       "price_usd": 75.0,
       "badge": "new",
       "categories": [
@@ -37107,6 +37133,7 @@
       "fam": "zapatillas-cana-alta",
       "cg": "t-zapatillas-de-cana-alta-dazmond-luxury-art",
       "color": "Negro",
+      "art_score": 8,
       "img": "assets/products/shop/9c8ede7fadcb7c3b1977.jpg"
     },
     {
@@ -37129,8 +37156,8 @@
     },
     {
       "id": "shopify-zapatillas-deportivas-elasticas-daz-luxury",
-      "name_es": "Zapatillas Zapatillas Deportivas",
-      "name_en": "Zapatillas Deportivas Sneakers",
+      "name_es": "Zapatillas Deportivas Elásticas DAZ Luxury",
+      "name_en": "DAZ Luxury Elastic Athletic Sneakers",
       "price_usd": 147.99,
       "badge": "new",
       "categories": [
@@ -37144,12 +37171,13 @@
       "supplier_id": "zapatillas-deportivas-elasticas-daz-luxury",
       "fam": "zapatillas-deportivas-elasticas",
       "cg": "t-zapatillas-deportivas-elasticas-daz-luxury",
+      "art_score": 5,
       "img": "assets/products/shop/358cc1c0e7603fcbf9f5.jpg"
     },
     {
       "id": "shopify-zapatillas-deportivas-elasticas-daz-luxury-1",
-      "name_es": "Zapatillas Zapatillas Deportivas",
-      "name_en": "Zapatillas Deportivas Sneakers",
+      "name_es": "Zapatillas Deportivas Elásticas DAZ Luxury",
+      "name_en": "DAZ Luxury Elastic Athletic Sneakers",
       "price_usd": 147.99,
       "badge": "new",
       "categories": [
@@ -37163,12 +37191,13 @@
       "supplier_id": "zapatillas-deportivas-elasticas-daz-luxury-1",
       "fam": "zapatillas-deportivas-elasticas",
       "cg": "t-zapatillas-deportivas-elasticas-daz-luxury",
+      "art_score": 6,
       "img": "assets/products/shop/c6ce109ec5028b918476.jpg"
     },
     {
       "id": "shopify-zapatillas-ligeras-daz-luxury-de-punto-de-malla",
-      "name_es": "Zapatillas Zapatillas Ligeras Daz",
-      "name_en": "Zapatillas Ligeras Daz Sneakers",
+      "name_es": "Zapatillas de Malla Daz Luxury",
+      "name_en": "Daz Luxury Mesh Sneakers",
       "price_usd": 147.99,
       "badge": "new",
       "categories": [
@@ -37182,12 +37211,13 @@
       "supplier_id": "zapatillas-ligeras-daz-luxury-de-punto-de-malla",
       "fam": "zapatillas-ligeras-luxury",
       "cg": "t-zapatillas-ligeras-daz-luxury-de-punto-de-malla",
+      "art_score": 5,
       "img": "assets/products/shop/284c2fae04e151fce419.jpg"
     },
     {
       "id": "shopify-zapato-plano-daz-luxury",
-      "name_es": "Zapatos Zapato Plano Daz",
-      "name_en": "Zapato Plano Daz Dress Shoes",
+      "name_es": "Zapato Casual de Lona",
+      "name_en": "Luxury Canvas Casual Shoe",
       "price_usd": 29.9,
       "badge": "new",
       "categories": [
@@ -37205,8 +37235,8 @@
     },
     {
       "id": "shopify-zapato-plano-daz-luxury-1",
-      "name_es": "Zapatos Zapato Plano Daz",
-      "name_en": "Zapato Plano Daz Dress Shoes",
+      "name_es": "Zapato Casual de Lona",
+      "name_en": "Luxury Canvas Casual Shoe",
       "price_usd": 39.9,
       "badge": "new",
       "categories": [
@@ -37220,12 +37250,13 @@
       "supplier_id": "zapato-plano-daz-luxury-1",
       "fam": "zapato-plano-luxury",
       "cg": "t-zapato-plano-daz-luxury",
+      "art_score": 5,
       "img": "assets/products/shop/0ffdde0dff84a94cbc2a.jpg"
     },
     {
       "id": "shopify-zapato-plano-daz-luxury-2",
-      "name_es": "Zapatos Zapato Plano Daz",
-      "name_en": "Zapato Plano Daz Dress Shoes",
+      "name_es": "Zapato Casual de Lona",
+      "name_en": "Luxury Canvas Casual Shoe",
       "price_usd": 39.9,
       "badge": "new",
       "categories": [
@@ -37357,8 +37388,8 @@
     },
     {
       "id": "shopify-sombrero-de-pescador-daz-luxury-1",
-      "name_es": "Gorro Sombrero Pescador Daz",
-      "name_en": "Sombrero Pescador Daz Hat",
+      "name_es": "Sombrero de Pescador Diamond",
+      "name_en": "Diamond Bucket Hat",
       "price_usd": 59.0,
       "badge": "new",
       "categories": [

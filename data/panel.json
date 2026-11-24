@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-24 09:41 UTC",
+  "updated": "2026-11-24 10:41 UTC",
   "totals": {
     "catalogo": 2438,
-    "a_la_vista": 2000,
+    "a_la_vista": 1999,
     "disenos_a_la_vista": 821,
-    "ocultos": 438,
-    "ia_revisados": 824,
-    "ia_pendientes": 1613,
-    "con_boton_de_pago": 2000,
+    "ocultos": 439,
+    "ia_revisados": 859,
+    "ia_pendientes": 1578,
+    "con_boton_de_pago": 1999,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
@@ -17,7 +17,7 @@
     "fotos_de_campana": 0
   },
   "reasons": {
-    "Vigilante": 2,
+    "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
     "Borrador": 425,
     "Esperando la IA": 10
@@ -32,8 +32,8 @@
       "ocultos": 10
     },
     "Shopify": {
-      "visibles": 1113,
-      "ocultos": 12
+      "visibles": 1112,
+      "ocultos": 13
     },
     "InterestPrint": {
       "visibles": 41,
@@ -361,14 +361,15 @@
     },
     {
       "date": "2026-11-24",
-      "n": 6,
+      "n": 7,
       "fixes": [
         "Gorro de Punto con Pompón · Negro: inspección IA: era beanie (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas",
         "Gorro de Punto con Pompón · Dark Heather Grey: inspección IA: era beanie (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas",
         "Gorro de Punto con Pompón · Dark Heather Grey/ Red: inspección IA: era beanie (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas",
         "Gorro de Punto con Pompón · Oro: inspección IA: era beanie (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas",
         "Bañador Traje Baño Diseño: vuelve a la web",
-        "Gorro de Punto con Pompón · Rojo: inspección IA: era beanie (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas"
+        "Gorro de Punto con Pompón · Rojo: inspección IA: era beanie (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas",
+        "Traje de Baño Halter Negro: oculto: repetido de shopify-design-swimsuit-set-front-side-printingmade-in-usa-azul-medio-profundo"
       ]
     }
   ],
@@ -548,6 +549,15 @@
       "c": "mujer/ropa-interior",
       "pr": 19.99,
       "why": "Vigilante: repetido de shopify-braguita-daz-de-mujer-1-black"
+    },
+    {
+      "id": "shopify-design-swimsuit-set-front-side-printingmade-in-usa-negro",
+      "n": "Traje de baño halter Dazmond · Negro",
+      "s": "Shopify",
+      "img": "assets/products/shop/37c0656dcd219992c5de.jpg",
+      "c": "mujer/trajes-bano",
+      "pr": 42.99,
+      "why": "Vigilante: repetido de shopify-design-swimsuit-set-front-side-printingmade-in-usa-azul-medio-profundo"
     },
     {
       "id": "shopify-design-swimsuit-set-front-side-printingmade-in-usa-verde-medio-intenso",
@@ -4490,25 +4500,22 @@
     "CSV leído: telegram.csv",
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 10 s",
+    "⏱ lectura de proveedores: 12 s",
     "Productos en catálogo: 2438 · a la vista: 2002 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 1996 piezas",
-    "⏱ ventas, visitas y cupones: 3 s",
+    "⏱ ventas, visitas y cupones: 5 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con shopify-chaleco-acolchado-ligero-daz-luxury-1: gemini-2.0-flash: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code t",
-    "IA: fallo con shopify-zapatos-de-skate-daz-premium-de-cuero-de-cana-baja-ligeros-para-adultos-5-black: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con shopify-design-swimsuit-set-front-side-printingmade-in-usa-negro: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con shopify-botas-de-cuero-sintetico-daz-luxury-5: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con shopify-mocasines-daz-de-lona-sin-cordones-1: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con shopify-mocasines-daz-de-lona-white: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con shopify-mocasines-daz-luxury-de-lona-1-black: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con shopify-zapatilla-daz-luxury: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con shopify-zapatillas-daz-luxury-1: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con shopify-zapatillas-de-cana-alta-dazmond-luxury-art-blanco: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
+    "IA: fallo con shopify-zapato-plano-daz-luxury: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: tiempo de esta hora agotado; sigo en la próxima.",
-    "IA: 53 productos revisados (fotos, guía de tallas y textos) · quedan 1838",
-    "⏱ revisión con IA: 1233 s",
-    "Vigilante: 2 correcciones en esta hora",
-    "⏱ vigilante: 101 s",
+    "IA: 35 productos revisados (fotos, guía de tallas y textos) · quedan 1803",
+    "⏱ revisión con IA: 1205 s",
+    "Vigilante: 1 correcciones en esta hora",
+    "⏱ vigilante: 320 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9142 EUR",
