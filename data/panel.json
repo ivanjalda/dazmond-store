@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-24 16:42 UTC",
+  "updated": "2026-11-24 17:41 UTC",
   "totals": {
     "catalogo": 2438,
-    "a_la_vista": 2065,
+    "a_la_vista": 2067,
     "disenos_a_la_vista": 845,
-    "ocultos": 373,
-    "ia_revisados": 947,
-    "ia_pendientes": 1490,
-    "con_boton_de_pago": 2065,
+    "ocultos": 371,
+    "ia_revisados": 948,
+    "ia_pendientes": 1489,
+    "con_boton_de_pago": 2067,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 11,
     "ventas_30_dias": 0,
@@ -19,8 +19,8 @@
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 367,
-    "Oculto": 2
+    "Borrador": 366,
+    "Oculto": 1
   },
   "suppliers": {
     "Printful": {
@@ -36,8 +36,8 @@
       "ocultos": 13
     },
     "InterestPrint": {
-      "visibles": 97,
-      "ocultos": 360
+      "visibles": 99,
+      "ocultos": 358
     }
   },
   "guard": [
@@ -1818,35 +1818,17 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-criss-cross-back-one-piece-swimsuit",
-      "n": "Bañador cruzado · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/e0e603820338deca2a7d.jpg",
-      "c": "hombre/banador",
-      "pr": 25.99,
-      "why": "Oculto"
-    },
-    {
-      "id": "interestprint-design-criss-cross-back-one-piece-swimsuit-1",
-      "n": "Bañador cruzado · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/a642ca601e4018968447.jpg",
-      "c": "hombre/banador",
-      "pr": 25.99,
-      "why": "Oculto"
-    },
-    {
       "id": "interestprint-design-criss-cross-back-one-piece-swimsuit-3",
-      "n": "Bañador cruzado · Blanco",
+      "n": "Bañador Criss Cross Back · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/b66d52a9ce43ee44dc49.jpg",
       "c": "hombre/banador",
       "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
+      "why": "Oculto"
     },
     {
       "id": "interestprint-design-criss-cross-back-one-piece-swimsuit-4",
-      "n": "Bañador cruzado · Blanco",
+      "n": "Bañador Criss Cross Back · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/17d89d9a792e70dab7bd.jpg",
       "c": "hombre/banador",
@@ -3922,20 +3904,17 @@
     "CSV leído: telegram.csv",
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 11 s",
-    "Productos en catálogo: 2438 · a la vista: 2068 · archivados: 1",
+    "⏱ lectura de proveedores: 12 s",
+    "Productos en catálogo: 2438 · a la vista: 2070 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 1996 piezas",
-    "⏱ ventas, visitas y cupones: 3 s",
+    "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con interestprint-design-criss-cross-back-one-piece-swimsuit: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con interestprint-design-criss-cross-back-one-piece-swimsuit-1: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con interestprint-design-criss-cross-back-one-piece-swimsuit-3: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con interestprint-design-criss-cross-back-one-piece-swimsuit-4: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1717",
-    "⏱ revisión con IA: 219 s",
+    "IA: fallo con interestprint-design-criss-cross-back-one-piece-swimsuit-3: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
+    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-lite-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details.)",
+    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1715",
+    "⏱ revisión con IA: 82 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
