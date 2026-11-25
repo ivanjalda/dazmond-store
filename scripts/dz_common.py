@@ -100,6 +100,9 @@ def printify_shop_id():
     """Número de tu tienda de Printify. Si no está en los secretos, lo busca solo con la clave:
     la tienda cuyo nombre contiene "DAZ" (o la única que haya)."""
     global _SHOP
+    moved = load_json("printify_migration.json", {}).get("active_shop")
+    if moved:  # tienda nueva sin Shopify, ya con todos los productos copiados
+        return str(moved)
     if env("PRINTIFY_SHOP_ID"):
         return env("PRINTIFY_SHOP_ID")
     if _SHOP or not env("PRINTIFY_TOKEN"):
