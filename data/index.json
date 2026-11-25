@@ -7216,8 +7216,8 @@
     },
     {
       "id": "printful-346068864",
-      "name_es": "Ropa Interior Abstract Vision Boxers · Blanco",
-      "name_en": "Abstract Vision Boxers Underwear · White",
+      "name_es": "Bóxers Abstract Vision",
+      "name_en": "Abstract Vision Boxers",
       "price_usd": 42.99,
       "badge": "new",
       "categories": [
@@ -7231,6 +7231,7 @@
       "fam": "abstract-vision-luxury",
       "cg": "printful-346068864",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/284/284e518c5eb945a5c54b857e253f842f_preview.png"
     },
     {
@@ -7522,8 +7523,8 @@
     },
     {
       "id": "printful-351235755",
-      "name_es": "Bañador Neon Lime Jewel · Blanco",
-      "name_en": "Neon Lime Jewel Swimwear · White",
+      "name_es": "Bañador Joya Neón",
+      "name_en": "Neon Jewel Swim Trunks",
       "price_usd": 75.99,
       "badge": "new",
       "categories": [
@@ -7537,12 +7538,13 @@
       "fam": "luxury-neon-lime",
       "cg": "printful-351235755",
       "color": "White",
+      "art_score": 2,
       "img": "https://files.cdn.printful.com/files/ebd/ebd264f1ce310ad47a649eaf8e916479_preview.png"
     },
     {
       "id": "printful-351236137",
-      "name_es": "Bañador Cobalt Jewel Emblem · Blanco",
-      "name_en": "Cobalt Jewel Emblem Swimwear · White",
+      "name_es": "Bañador Royal Cobalt Emblem",
+      "name_en": "Royal Cobalt Emblem Swim Trunks",
       "price_usd": 75.99,
       "badge": "new",
       "categories": [
@@ -7556,6 +7558,7 @@
       "fam": "luxury-royal-cobalt",
       "cg": "printful-351236137",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/7f9/7f92e6462333f33c5837acadb92bc636_preview.png"
     },
     {
@@ -26528,7 +26531,7 @@
       "img": "assets/products/shop/080cc28bac475314977f.jpg"
     },
     {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-9",
+      "id": "interestprint-design-3-4-sleeve-jumpsuit-8",
       "name_es": "Mono Jumpsuit · Blanco",
       "name_en": "Jumpsuit Jumpsuit · White",
       "price_usd": 24.99,
@@ -26538,6 +26541,26 @@
       ],
       "available": true,
       "rank": 1362,
+      "created": "2026-11-19",
+      "page": true,
+      "supplier_id": "design-3-4-sleeve-jumpsuit-8",
+      "fam": "sleeve-jumpsuit",
+      "cg": "t-design-sleeve-jumpsuit",
+      "color": "white",
+      "art_score": 3,
+      "img": "assets/products/shop/60252b8ddb31f1c305d5.jpg"
+    },
+    {
+      "id": "interestprint-design-3-4-sleeve-jumpsuit-9",
+      "name_es": "Mono Jumpsuit · Blanco",
+      "name_en": "Jumpsuit Jumpsuit · White",
+      "price_usd": 24.99,
+      "badge": "new",
+      "categories": [
+        "mujer/vestidos-monos-petos"
+      ],
+      "available": true,
+      "rank": 1363,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-3-4-sleeve-jumpsuit-9",
@@ -26557,7 +26580,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1363,
+      "rank": 1364,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
@@ -26575,7 +26598,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1364,
+      "rank": 1365,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-1",
@@ -26593,7 +26616,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1365,
+      "rank": 1366,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-10",
@@ -26611,7 +26634,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1366,
+      "rank": 1367,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-11",
@@ -26629,7 +26652,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1367,
+      "rank": 1368,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-12",
@@ -26647,7 +26670,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1368,
+      "rank": 1369,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-13",
@@ -26665,7 +26688,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1369,
+      "rank": 1370,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-14",
@@ -26683,7 +26706,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1370,
+      "rank": 1371,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-2",
@@ -26701,7 +26724,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1371,
+      "rank": 1372,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-3",
@@ -26719,7 +26742,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1372,
+      "rank": 1373,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-4",
@@ -26737,7 +26760,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1373,
+      "rank": 1374,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-5",
@@ -26755,7 +26778,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1374,
+      "rank": 1375,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-6",
@@ -26773,7 +26796,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1375,
+      "rank": 1376,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-7",
@@ -26791,7 +26814,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1376,
+      "rank": 1377,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-8",
@@ -26809,7 +26832,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1377,
+      "rank": 1378,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-9",
@@ -26827,7 +26850,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1378,
+      "rank": 1379,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-suspender-jumpsuit",
@@ -26847,7 +26870,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1379,
+      "rank": 1380,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-suspender-jumpsuit-1",
@@ -26867,7 +26890,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1380,
+      "rank": 1381,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-suspender-jumpsuit-2",
@@ -26887,7 +26910,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 1381,
+      "rank": 1382,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "top-casual-daz-premium-con-cuello-babydoll-para-mujer",
@@ -26905,7 +26928,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1382,
+      "rank": 1383,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer",
@@ -26923,7 +26946,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1383,
+      "rank": 1384,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer-1",
@@ -26941,7 +26964,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1384,
+      "rank": 1385,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer-2",
@@ -26959,7 +26982,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1385,
+      "rank": 1386,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer-3",
@@ -26977,7 +27000,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1386,
+      "rank": 1387,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-long-sleeve-high-neck-long-dress",
@@ -26996,7 +27019,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1387,
+      "rank": 1388,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-long-sleeve-high-neck-long-dress-1",
@@ -27015,7 +27038,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1388,
+      "rank": 1389,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-long-sleeve-high-neck-long-dress-2",
@@ -27034,7 +27057,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1389,
+      "rank": 1390,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-long-sleeve-high-neck-long-dress-3",
@@ -27053,7 +27076,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1390,
+      "rank": 1391,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-long-sleeve-high-neck-long-dress-4",
@@ -27072,7 +27095,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1391,
+      "rank": 1392,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-women-s-long-sleeve-v-neck-ruffle-mini-dress-10",
@@ -27091,7 +27114,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1392,
+      "rank": 1393,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-women-s-long-sleeve-v-neck-ruffle-mini-dress-11",
@@ -27110,7 +27133,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1393,
+      "rank": 1394,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-women-s-long-sleeve-v-neck-ruffle-mini-dress-12",
@@ -27129,7 +27152,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1394,
+      "rank": 1395,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-women-s-long-sleeve-v-neck-ruffle-mini-dress-13",
@@ -27148,7 +27171,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1395,
+      "rank": 1396,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-women-s-long-sleeve-v-neck-ruffle-mini-dress-5",
@@ -27167,7 +27190,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1396,
+      "rank": 1397,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-women-s-long-sleeve-v-neck-ruffle-mini-dress-6",
@@ -27186,7 +27209,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1397,
+      "rank": 1398,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-women-s-long-sleeve-v-neck-ruffle-mini-dress-7",
@@ -27205,7 +27228,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1398,
+      "rank": 1399,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-women-s-long-sleeve-v-neck-ruffle-mini-dress-8",
@@ -27224,7 +27247,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 1399,
+      "rank": 1400,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "design-women-s-long-sleeve-v-neck-ruffle-mini-dress-9",
@@ -27243,7 +27266,7 @@
         "hombre/abrigo-chaqueta-sueter"
       ],
       "available": true,
-      "rank": 1400,
+      "rank": 1401,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-1",
@@ -27261,7 +27284,7 @@
         "hombre/abrigo-chaqueta-sueter"
       ],
       "available": true,
-      "rank": 1401,
+      "rank": 1402,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-2",
@@ -27279,7 +27302,7 @@
         "hombre/abrigo-chaqueta-sueter"
       ],
       "available": true,
-      "rank": 1402,
+      "rank": 1403,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-3",
@@ -27297,7 +27320,7 @@
         "hombre/abrigo-chaqueta-sueter"
       ],
       "available": true,
-      "rank": 1403,
+      "rank": 1404,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-4",
@@ -27315,7 +27338,7 @@
         "mujer/falda"
       ],
       "available": true,
-      "rank": 1404,
+      "rank": 1405,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
@@ -27333,7 +27356,7 @@
         "mujer/falda"
       ],
       "available": true,
-      "rank": 1405,
+      "rank": 1406,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-1",
@@ -27351,7 +27374,7 @@
         "mujer/falda"
       ],
       "available": true,
-      "rank": 1406,
+      "rank": 1407,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-3",
@@ -27369,33 +27392,13 @@
         "mujer/falda"
       ],
       "available": true,
-      "rank": 1407,
+      "rank": 1408,
       "created": "2026-11-19",
       "page": true,
       "supplier_id": "conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-5",
       "fam": "conjunto-camiseta-oversize",
       "cg": "t-conjunto-dazmond-camiseta-oversize-y-falda-midi-dos-piezas",
       "img": "assets/products/shop/1a67087cba9c6f775b1e.jpg"
-    },
-    {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-8",
-      "name_es": "Mono Jumpsuit · Blanco",
-      "name_en": "Jumpsuit Jumpsuit · White",
-      "price_usd": 24.99,
-      "badge": "new",
-      "categories": [
-        "mujer/vestidos-monos-petos"
-      ],
-      "available": true,
-      "rank": 1408,
-      "created": "2026-11-19",
-      "page": true,
-      "supplier_id": "design-3-4-sleeve-jumpsuit-8",
-      "fam": "sleeve-jumpsuit",
-      "cg": "t-design-sleeve-jumpsuit",
-      "color": "white",
-      "art_score": 3,
-      "img": "assets/products/shop/60252b8ddb31f1c305d5.jpg"
     },
     {
       "id": "interestprint-design-yoga-zipper-vest",

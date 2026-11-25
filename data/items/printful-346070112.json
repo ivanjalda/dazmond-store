@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/5c97933636ad44200b0c.jpg",
+  "assets/products/shop/83e12077467af326cb24.jpg",
+  "assets/products/shop/aad33f9ea897cfb9ca76.jpg",
+  "assets/products/shop/745fec6f8f8bd1c5fb31.jpg",
+  "assets/products/shop/395b79da527150464117.jpg",
+  "assets/products/shop/3c7d4ae69241ed584113.jpg",
+  "assets/products/shop/50bbb7354652dfe22433.jpg",
+  "assets/products/shop/8f019f2c7c5adc7f4281.jpg"
+ ],
  "ai_cats": [
   "hombre/ropa-interior"
  ],
@@ -27,6 +37,7 @@
  ],
  "draft": false,
  "fam": "atom-matrix-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-346070112",
  "img_checked": "2026-11-22",

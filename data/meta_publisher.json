@@ -6,7 +6,8 @@
     "2026-11-25-9",
     "2026-11-25-10",
     "2026-11-25-11",
-    "2026-11-25-12"
+    "2026-11-25-12",
+    "2026-11-25-13"
   ],
   "used": [
     "printful-345759651",
@@ -29,7 +30,10 @@
     "printify-6b06455171915c76bb027d03",
     "printify-6b066a51255f2587670ee398",
     "printify-6b064539fb3b556d1c04ed2a",
-    "printful-351492575-black"
+    "printful-351492575-black",
+    "printify-6b06756810baa70da60745e6",
+    "printify-6b066762255f2587670ee04f",
+    "printify-6b06675510baa70da607308a"
   ],
   "log": [
     {
@@ -101,6 +105,16 @@
       ],
       "instagram": "18151217254537976",
       "facebook_error": "{\"error\":{\"message\":\"(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AubxVta4hBQq3"
+    },
+    {
+      "slot": "2026-11-25-13",
+      "ids": [
+        "printify-6b06756810baa70da60745e6",
+        "printify-6b066762255f2587670ee04f",
+        "printify-6b06675510baa70da607308a"
+      ],
+      "instagram": "17911410774331447",
+      "facebook_error": "{\"error\":{\"message\":\"(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"ARqoCYimS7Wko"
     }
   ]
 }

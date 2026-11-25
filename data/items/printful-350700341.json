@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/97d960bf8e1ec6d40d50.jpg",
+  "assets/products/shop/076e31ce17d7a8f78ed9.jpg",
+  "assets/products/shop/11ccf9e27cd0f49d99a8.jpg",
+  "assets/products/shop/53e7b96d9fd690e165ba.jpg",
+  "assets/products/shop/cfd2db9d235c3bd9b138.jpg"
+ ],
  "ai_cats": [
   "hombre/ropa-interior"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "emerald-shield-boxer",
+ "gender": "men",
  "hidden": false,
  "id": "printful-350700341",
  "img_checked": "2026-11-22",

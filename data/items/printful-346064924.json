@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/65a044506ed924a7a015.jpg",
+  "assets/products/shop/b384f48e3a183229145a.jpg",
+  "assets/products/shop/7bd7a8f99f9c490f18a3.jpg",
+  "assets/products/shop/9ce0a6cc16e7502d82f6.jpg",
+  "assets/products/shop/c6601f8dc59ab7e1c96a.jpg",
+  "assets/products/shop/6e516ee9743b238c7d6b.jpg",
+  "assets/products/shop/1ef871012bb59ecb81f4.jpg",
+  "assets/products/shop/abe103cb1ea1f8d58c4d.jpg",
+  "assets/products/shop/44cdb0be445a4318c194.jpg"
+ ],
  "ai_cats": [
   "hombre/ropa-interior"
  ],
@@ -27,6 +38,7 @@
  ],
  "draft": false,
  "fam": "aura-grip-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-346064924",
  "img_checked": "2026-11-22",

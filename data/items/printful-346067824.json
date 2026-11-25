@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/4ec404322de648fec608.jpg",
+  "assets/products/shop/afa1f7d6d0fa21855f8d.jpg",
+  "assets/products/shop/533289aab68192cba96a.jpg",
+  "assets/products/shop/203f5099f6fc00163a19.jpg",
+  "assets/products/shop/509ae92a91f5f0b744e4.jpg",
+  "assets/products/shop/f3969b00033131e9f1f9.jpg",
+  "assets/products/shop/cc4804b29c6819ed2429.jpg",
+  "assets/products/shop/438a806e42c7dbbb819a.jpg"
+ ],
  "ai_cats": [
   "hombre/ropa-interior"
  ],
@@ -27,6 +37,7 @@
  ],
  "draft": false,
  "fam": "golden-legacy-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-346067824",
  "img_checked": "2026-11-22",

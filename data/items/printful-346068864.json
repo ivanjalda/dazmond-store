@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/ropa-interior"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Boxer Briefs",
+ "ai_ver": 2,
+ "art_note": "The image is a flat, floating supplier mockup with a generic digital print overlay, lacking real luxury studio lighting or atmosphere.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-346068864",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined expression of contemporary design. These boxer briefs combine precise graphic lines with an immaculate silhouette. Crafted for the man who demands distinction in every layer of his wardrobe. Each piece is custom made upon order confirmation. Available exclusively through our online boutique with worldwide shipping.",
+ "desc_es": "Una expresión depurada del diseño contemporáneo. Estos bóxers combinan líneas gráficas precisas con una silueta impecable. Pensados para el hombre que exige distinción en cada capa de su vestuario. Cada pieza se confecciona de manera individual tras la confirmación de su pedido. Disponible exclusivamente a través de nuestra tienda online con envío internacional.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección exclusiva bajo pedido\n· Envío internacional disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/284/284e518c5eb945a5c54b857e253f842f_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Abstract Vision Boxers Underwear · White",
- "name_es": "Ropa Interior Abstract Vision Boxers · Blanco",
+ "name_en": "Abstract Vision Boxers",
+ "name_es": "Bóxers Abstract Vision",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 360,

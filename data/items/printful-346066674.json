@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/5e38b2a459c0539453db.jpg",
+  "assets/products/shop/2555a9bd853b16dd6448.jpg",
+  "assets/products/shop/526f290576320bc9a144.jpg",
+  "assets/products/shop/cc6144143e4427783f20.jpg",
+  "assets/products/shop/9f56ff2754fb47bde14a.jpg"
+ ],
  "ai_cats": [
   "hombre/ropa-interior"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "bubble-flow-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-346066674",
  "img_checked": "2026-11-22",
