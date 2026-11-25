@@ -154,6 +154,61 @@ def campaign_cards(items, site):
     return out
 
 
+def fetch_image(p, site):
+    import io
+    from PIL import Image
+    u = image_url(p, site, ig=True) or image_url(p, site)
+    req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return Image.open(io.BytesIO(r.read()))
+
+
+def publish_reel(page, ig, token, ptoken, items, site, seed):
+    """Vídeo de marca (stock + productos + logo). Se sube a Facebook y desde ahí a Instagram Reels."""
+    import tempfile
+    from brand_reel import make_reel
+    prods = []
+    for p in items[:2]:
+        try:
+            prods.append((fetch_image(p, site), p.get("name_en") or ""))
+        except Exception as e:
+            log(f"Sin foto para el vídeo ({p.get('id')}): {str(e)[:80]}")
+    out = os.path.join(tempfile.mkdtemp(), "reel.mp4")
+    make_reel(BRAND, prods, out, seed=seed)
+    data = open(out, "rb").read()
+    cap = caption(items[:2], site)
+    body, ctype = _multipart({"access_token": ptoken, "description": cap, "published": "true"},
+                             "source", "reel.mp4", data, "video/mp4")
+    req = urllib.request.Request(f"https://graph-video.facebook.com/v23.0/{page}/videos", data=body,
+                                 method="POST", headers={"Content-Type": ctype})
+    try:
+        with urllib.request.urlopen(req, timeout=300) as r:
+            vid = json.loads(r.read().decode())["id"]
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(e.read().decode()[:400])
+    res = {"facebook_video": vid}
+    src = None
+    for _ in range(36):  # hasta 6 minutos a que Facebook procese el vídeo
+        info = api(vid, {"fields": "source,status", "access_token": ptoken}, "GET")
+        src = info.get("source")
+        if src and (info.get("status") or {}).get("video_status") in (None, "ready"):
+            break
+        time.sleep(10)
+    if not src:
+        raise RuntimeError("Facebook no devolvió la dirección del vídeo a tiempo")
+    c = api(f"{ig}/media", {"media_type": "REELS", "video_url": src, "caption": cap, "share_to_feed": "true",
+                            "access_token": token})
+    for _ in range(40):
+        st = api(c["id"], {"fields": "status_code", "access_token": token}, "GET").get("status_code")
+        if st == "FINISHED":
+            break
+        if st == "ERROR":
+            raise RuntimeError("Instagram no pudo procesar el vídeo")
+        time.sleep(10)
+    res["instagram"] = api(f"{ig}/media_publish", {"creation_id": c["id"], "access_token": token}).get("id")
+    return res
+
+
 def card_urls(page, ptoken, cards):
     """Sube las piezas a Facebook sin publicarlas y devuelve sus direcciones (Instagram las lee de ahí)."""
     urls = []
@@ -264,6 +319,15 @@ def main():
         return 0
     result = {"slot": slot, "ids": [p["id"] for p in items]}
     ptoken = page_token(conf["page_id"], token)
+    if passed[-1] == conf.get("reel_slot_utc", 1) and conf.get("reels", True):
+        try:
+            r = publish_reel(conf["page_id"], conf["ig_user_id"], token, ptoken, items, site, slot)
+            result.update({"reel": True, "instagram": r.get("instagram"), "facebook": r.get("facebook_video")})
+            log(f"Vídeo publicado: {r}")
+            return finish(state, slot, result, items)
+        except Exception as e:
+            log(f"El vídeo falló, publico fotos en su lugar: {str(e)[:200]}")
+            result["reel_error"] = str(e)[:200]
     cards, urls = [], None
     try:
         cards = campaign_cards(items, site)
@@ -283,6 +347,10 @@ def main():
     except Exception as e:
         result["facebook_error"] = str(e)[:300]
         log(f"Facebook falló: {e}")
+    return finish(state, slot, result, items)
+
+
+def finish(state, slot, result, items):
     state["done"] = (state["done"] + [slot])[-200:]
     state["last_ts"] = time.time()
     state["used"] = (state.get("used", []) + result["ids"])[-600:]
@@ -298,7 +366,8 @@ def main():
     else:
         state["last_err"] = ""
         save_json("meta_publisher.json", state)
-        notify(f"✦ Publicado en Instagram y Facebook: {', '.join(p.get('name_es', p['id']) for p in items)}")
+        kind = "vídeo" if result.get("reel") else "fotos"
+        notify(f"✦ Publicado ({kind}) en Instagram y Facebook: {', '.join(p.get('name_es', p['id']) for p in items)}")
     return 0
 
 

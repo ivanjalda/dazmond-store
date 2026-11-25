@@ -19,6 +19,40 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from dz_common import NOW, brevo, env, load_json, notify, stripe, tg_ready  # noqa: E402
 
 
+GOAL_USD = 144_000_000_000
+
+
+def lifetime_revenue():
+    """Todo lo cobrado desde siempre en Stripe (las 3 tiendas comparten la cuenta), sin devoluciones.
+    Solo se calcula y se envía por Telegram: no se guarda en el repositorio público."""
+    total, after, pages = 0.0, None, 0
+    while pages < 100:
+        q = "/charges?limit=100" + (f"&starting_after={after}" if after else "")
+        data = stripe(q)
+        for c in data.get("data", []):
+            if c.get("paid") and c.get("status") == "succeeded":
+                total += ((c.get("amount_captured") or c.get("amount") or 0) - (c.get("amount_refunded") or 0)) / 100
+        if not data.get("has_more") or not data.get("data"):
+            break
+        after = data["data"][-1]["id"]
+        pages += 1
+    return total
+
+
+def goal_line():
+    if not env("STRIPE_SECRET_KEY"):
+        return None
+    try:
+        got = lifetime_revenue()
+    except Exception as e:
+        return f"🏁 Marcador: no disponible ({str(e)[:50]})"
+    pct = got / GOAL_USD * 100
+    filled = min(20, int(pct / 5))
+    bar = "█" * filled + "░" * (20 - filled)
+    return (f"🏁 MARCADOR GRUPO DAZ\n   Ganado: {got:,.2f} $ de 144.000.000.000 $\n   {bar} {pct:.8f} %\n"
+            f"   Faltan: {GOAL_USD - got:,.0f} $")
+
+
 def main():
     if not tg_ready():
         print("[informe] Sin Telegram: no se envía informe.")
@@ -29,6 +63,9 @@ def main():
     camp = load_json("campaign.json", {"active": False})
     by_id = {p["id"]: p for p in prods}
     lines = [f"✦ DAZMOND & Co. · Informe del {NOW.strftime('%d/%m/%Y')}", ""]
+    g = goal_line()
+    if g:
+        lines += [g, ""]
 
     if env("STRIPE_SECRET_KEY"):
         try:
