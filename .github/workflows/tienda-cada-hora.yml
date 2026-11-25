@@ -58,6 +58,10 @@ jobs:
       - name: 1d. Estudio de diseño (crea diseños propios nuevos cada día)
         run: python scripts/design_studio.py
 
+      - name: 1e. Mudanza de Printify a la tienda nueva sin Shopify (por tandas)
+        continue-on-error: true
+        run: python scripts/printify_migrate.py
+
       - name: 2. Convertir diseños nuevos en productos de Printify
         run: python scripts/design_factory.py
 
