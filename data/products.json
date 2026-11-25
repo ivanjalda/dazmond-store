@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T15:35:41Z",
+  "updated": "2026-11-25T16:41:57Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -52358,10 +52358,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "DAZMOND® Luxury \"Abstract Blueprint & Indigo Doodle\" Premium Men's Swim Trunks All-Over Print Recycled Swim Trunks (White / 2XS) White",
-      "name_es": "Bañador Abstract Blueprint Indigo · Blanco",
-      "name_en": "Abstract Blueprint Indigo Swimwear · White",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "name_es": "Bañador Estampado Abstracto",
+      "name_en": "Abstract Print Swim Trunks",
+      "desc_es": "Una visión moderna de la estética estival. Este diseño presenta un patrón gráfico de inspiración abstracta sobre un fondo profundo. Confeccionados mediante procesos de fabricación bajo demanda y disponibles para envío global. La silueta ofrece una presencia depurada y contemporánea para la temporada de clima cálido.",
+      "desc_en": "A modern vision of summer aesthetics. This design features an abstract-inspired graphic pattern set against a deep tone backdrop. Crafted through made-to-order manufacturing and available for worldwide shipping. The silhouette offers a refined, contemporary presence for warm weather dressing.",
       "price_usd": 75.99,
       "margin_pct": 20.9,
       "shipping_usd": 7.0,
@@ -52422,7 +52422,32 @@
       "cg": "printful-351233726",
       "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Bóxers para natación",
       "img_checked": "2026-11-22",
-      "ai_fail": 2
+      "ai_fail": 2,
+      "art_score": 5,
+      "art_note": "Clean flat-lay style product shot on white background, lacks editorial depth or atmospheric lighting.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://files.cdn.printful.com/files/ad3/ad37bca08ae61e529ce2d47cfa4648dd_preview.png",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "Swim Trunks",
+      "ai_gender": "men",
+      "ai_color": "White / Blue",
+      "ai_material": "Recycled",
+      "ai_cats": [
+        "hombre/banador"
+      ],
+      "details_es": "· Confección bajo demanda\n· Envío disponible a todo el mundo",
+      "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printful-351235260",
@@ -52549,7 +52574,7 @@
       "cg": "printful-351235260",
       "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Pantalones cortos de surf",
       "img_checked": "2026-11-22",
-      "ai_fail": 1
+      "ai_fail": 2
     },
     {
       "id": "printful-351235755",

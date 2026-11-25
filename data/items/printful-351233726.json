@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/banador"
+ ],
+ "ai_color": "White / Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Recycled",
+ "ai_type": "Swim Trunks",
+ "ai_ver": 2,
+ "art_note": "Clean flat-lay style product shot on white background, lacks editorial depth or atmospheric lighting.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351233726",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A modern vision of summer aesthetics. This design features an abstract-inspired graphic pattern set against a deep tone backdrop. Crafted through made-to-order manufacturing and available for worldwide shipping. The silhouette offers a refined, contemporary presence for warm weather dressing.",
+ "desc_es": "Una visión moderna de la estética estival. Este diseño presenta un patrón gráfico de inspiración abstracta sobre un fondo profundo. Confeccionados mediante procesos de fabricación bajo demanda y disponibles para envío global. La silueta ofrece una presencia depurada y contemporánea para la temporada de clima cálido.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/ad3/ad37bca08ae61e529ce2d47cfa4648dd_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Abstract Blueprint Indigo Swimwear · White",
- "name_es": "Bañador Abstract Blueprint Indigo · Blanco",
+ "name_en": "Abstract Print Swim Trunks",
+ "name_es": "Bañador Estampado Abstracto",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 75.99,
  "rank": 374,
