@@ -1,26 +1,25 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-25 00:41 UTC",
+  "updated": "2026-11-25 01:04 UTC",
   "totals": {
     "catalogo": 2438,
-    "a_la_vista": 2074,
+    "a_la_vista": 2075,
     "disenos_a_la_vista": 845,
-    "ocultos": 364,
+    "ocultos": 363,
     "ia_revisados": 955,
     "ia_pendientes": 1482,
-    "con_boton_de_pago": 2074,
+    "con_boton_de_pago": 2075,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 11,
     "ventas_30_dias": 0,
-    "visitas_30_dias": 2015,
+    "visitas_30_dias": 2019,
     "fotos_de_campana": 0
   },
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 359,
-    "Oculto": 1
+    "Borrador": 359
   },
   "suppliers": {
     "Printful": {
@@ -36,8 +35,8 @@
       "ocultos": 13
     },
     "InterestPrint": {
-      "visibles": 106,
-      "ocultos": 351
+      "visibles": 107,
+      "ocultos": 350
     }
   },
   "guard": [
@@ -444,30 +443,30 @@
       "v": 2
     },
     {
+      "id": "printful-350464341",
+      "n": "Toalla Primal Essence Art · Blanco",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/7ff/7ff014ceba4be5ed4abd9786b71399c6_preview.png",
+      "c": "decor",
+      "pr": 48.99,
+      "v": 2
+    },
+    {
+      "id": "shopify-design-all-over-print-womens-overall",
+      "n": "Mono Ancho Olive Velvet Kiss",
+      "s": "Shopify",
+      "img": "assets/products/shop/9f87137c2db994a17639.jpg",
+      "c": "mujer/vestidos-monos-petos",
+      "pr": 27.99,
+      "v": 2
+    },
+    {
       "id": "interestprint-design-mens-all-over-print-jacket",
       "n": "Chaqueta Golden Heritage · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/67b86f5e59b5bb200a76.jpg",
       "c": "hombre/abrigo-chaqueta-sueter",
       "pr": 35.99,
-      "v": 2
-    },
-    {
-      "id": "shopify-colorful-pop-art-grenades-seamless-pattern-background-wallpaper-565021177-jpg-mens-blazer-model-h64",
-      "n": "Blazer Blazer Daz",
-      "s": "Shopify",
-      "img": "assets/products/shop/018e0b9d64088e452686.jpg",
-      "c": "hombre/americana-blazer",
-      "pr": 46.99,
-      "v": 2
-    },
-    {
-      "id": "interestprint-design-mens-double-breasted-coat-2",
-      "n": "Abrigo Winter Sovereign",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/62d04f6f10c3e5125087.jpg",
-      "c": "hombre/abrigo-chaqueta-sueter",
-      "pr": 49.99,
       "v": 2
     }
   ],
@@ -1992,15 +1991,6 @@
       "c": "decor",
       "pr": 23.99,
       "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-7",
-      "n": "Mono Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/080cc28bac475314977f.jpg",
-      "c": "hombre/conjuntos",
-      "pr": 24.99,
-      "why": "Oculto"
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-8",
@@ -3846,20 +3836,17 @@
     "CSV leído: telegram.csv",
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 12 s",
-    "Productos en catálogo: 2438 · a la vista: 2077 · archivados: 1",
+    "⏱ lectura de proveedores: 11 s",
+    "Productos en catálogo: 2438 · a la vista: 2078 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 1998 piezas",
-    "⏱ ventas, visitas y cupones: 4 s",
+    "⏱ ventas, visitas y cupones: 3 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con interestprint-design-3-4-sleeve-jumpsuit-7: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1708",
-    "⏱ revisión con IA: 208 s",
+    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1707",
+    "⏱ revisión con IA: 125 s",
     "⏱ vigilante: 0 s",
-    "Estudio de fotos: Google no permite crear imágenes con esta clave gratuita hoy. Se reintenta mañana.",
-    "Estudio de fotos: 0 fotos de campaña nuevas (de 1 intentos)",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9122 EUR",
