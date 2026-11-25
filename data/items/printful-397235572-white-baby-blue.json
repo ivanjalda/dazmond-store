@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White/Baby Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "The image is a flat, generic supplier mockup rather than a high-end luxury studio shot.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-397235572",
  "color": "White/Baby Blue",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reinterpretation of the raglan silhouette. This piece embodies refined simplicity and effortless elegance. Crafted with precision on demand to ensure absolute exclusivity. The subtle contrast of tones defines a modern aesthetic. Available for worldwide shipping.",
+ "desc_es": "Una reinterpretación contemporánea de la silueta raglán. Esta pieza encarna la simplicidad refinada y la elegancia sin esfuerzo. Confeccionada con precisión bajo demanda para garantizar una exclusividad absoluta. El contraste sutil de tonalidades define una estética moderna. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/49c/49c52be39661b6c0bd79959e51f0af0e_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Raglán Microcanalé Tee · White/Baby Blue",
- "name_es": "Camiseta Daz Raglán Microcanalé · White/Baby Blue",
+ "name_en": "DAZ Luxury Micro Rib Raglan Tee · White/Baby Blue",
+ "name_es": "Camiseta raglán microcanalé DAZ Luxury · White/Baby Blue",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 128,

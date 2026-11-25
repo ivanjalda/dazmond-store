@@ -1,22 +1,36 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "EVA, poliéster, PVC",
  "ai_priority": true,
+ "ai_type": "flip-flops",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate lighting, elevated by sophisticated framing.",
+ "art_score": 6,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hombre",
-  "calzado-mujer/zapatillas"
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
  ],
  "cg": "printify-6b066a67255f2587670ee3b9",
  "color": "Black sole",
  "created": "2026-11-25",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "These refined flip-flops deliver exceptional comfort for warm days and summer getaways. Featuring an effortless slip-on design and a cushioned footbed, they balance everyday functionality with distinct character. Crafted made-to-order with worldwide shipping, they ensure an impeccable presence in any sun-drenched destination.",
+ "desc_es": "Estas chanclas de diseño refinado ofrecen una comodidad excepcional para los días de verano y las escapadas estivales. Con una silueta de fácil colocación y una plantilla acolchada, combinan funcionalidad y carácter. Fabricadas bajo pedido con envíos a todo el mundo, garantizan una presencia impecable en cualquier destino soleado.",
+ "details_en": "· Materials: EVA, polyester, PVC\n· 5/8\" (15 mm) thick EVA outsole with textured bottom\n· 100% polyester suede sole\n· PVC strap\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Materiales: EVA, poliéster, PVC\n· Suela de EVA de 5/8 pulgadas (15 mm) de espesor con fondo texturizado\n· Suela de ante 100% poliéster\n· Correa de PVC\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b066a67255f2587670ee3b9/72175/15337/chancletas-daz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a67255f2587670ee3b9/72175/15342/chancletas-daz.jpg?camera_label=front-sole",
   "https://images-api.printify.com/mockup/6b066a67255f2587670ee3b9/72175/15339/chancletas-daz.jpg?camera_label=close-up",
-  "https://images-api.printify.com/mockup/6b066a67255f2587670ee3b9/72175/15326/chancletas-daz.jpg?camera_label=context-1",
-  "https://images-api.printify.com/mockup/6b066a67255f2587670ee3b9/72175/15331/chancletas-daz.jpg?camera_label=context-2",
   "https://images-api.printify.com/mockup/6b066a67255f2587670ee3b9/72176/15336/chancletas-daz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a67255f2587670ee3b9/72176/15341/chancletas-daz.jpg?camera_label=front-sole",
   "https://images-api.printify.com/mockup/6b066a67255f2587670ee3b9/72176/15338/chancletas-daz.jpg?camera_label=close-up"
@@ -33,9 +47,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Chancletas Daz Sneakers · Black",
- "name_es": "Zapatillas Chancletas Daz · Negro",
+ "name_en": "DAZ Summer Flip-Flops",
+ "name_es": "Chanclas DAZ de Verano",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 24,

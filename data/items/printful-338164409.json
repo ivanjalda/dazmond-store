@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Generic supplier mockup style with flat digital print and standard white background, lacking luxury editorial depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-338164409",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A sculpted silhouette defining contemporary femininity with absolute precision. This form-fitting design contours the figure, creating a clean and sophisticated line. Created for those who command presence without effort. Each piece is crafted exclusively on demand in our facilities. We offer worldwide shipping to ensure this exclusivity reaches its destination directly.",
+ "desc_es": "Una silueta esculpida que define la feminidad contemporánea con absoluta precisión. Este diseño ajustado se alinea con la figura, creando una línea limpia y sofisticada. Pensado para quienes buscan una presencia imponente sin esfuerzo. Cada pieza se confecciona exclusivamente bajo pedido en nuestras instalaciones. Ofrecemos envíos a todo el mundo para garantizar que esta exclusividad llegue directamente a su destino.",
+ "details_en": "· Made-to-order craftsmanship.\n· Worldwide shipping available.",
+ "details_es": "· Confección exclusiva bajo pedido.\n· Envío a todo el mundo disponible.",
  "display_images": [
   "https://files.cdn.printful.com/files/a00/a00fdab945662fc044b6dbc81b1dc05a_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Artisan Lace Sculpt Dress · White",
- "name_es": "Vestido Artisan Lace Sculpt · Blanco",
+ "name_en": "Artisan Lace Bodycon Dress",
+ "name_es": "Vestido Bodycon Artisan Lace",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 107,

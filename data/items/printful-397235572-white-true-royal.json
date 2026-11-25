@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White / True Royal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Micro Rib",
+ "ai_type": "Baby Tee",
+ "ai_ver": 2,
+ "art_note": "Flat-lay product render lacks the dimensional depth and atmosphere required for luxury positioning.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-397235572",
  "color": "White /True Royal",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined silhouette accented with contrast raglan sleeves. An essential design that reinterprets classical lines with contemporary precision. Crafted to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Silueta definida con mangas raglán en contraste. Un diseño esencial que reinterpreta las líneas clásicas con precisión contemporánea. Confeccionada bajo pedido para asegurar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/d5f/d5f60dac36d5ebc264b51c02101739a8_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Raglán Microcanalé Tee · White /True Royal",
- "name_es": "Camiseta Daz Raglán Microcanalé · White /True Royal",
+ "name_en": "DAZ Luxury Micro Rib Raglan Tee · White /True Royal",
+ "name_es": "Camiseta raglán microcanalé DAZ Luxury · White /True Royal",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 132,

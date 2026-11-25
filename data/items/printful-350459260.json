@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "can cooler",
+ "ai_ver": 2,
+ "art_note": "Clean studio cutout presentation on a neutral background, though limited by standard supplier mockups.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350459260",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold expression of contemporary design that merges functionality with striking visual aesthetics. This collectible piece encapsulates the essence of abstract artistry within an impeccable utilitarian format. Crafted to accompany moments of discreet sophistication, every detail reflects an unyielding pursuit of aesthetic refinement and modern distinction. Made to order and available with worldwide shipping.",
+ "desc_es": "Una expresión audaz de diseño contemporáneo que fusiona funcionalidad y estética visual. Esta pieza de colección encapsula la esencia del arte abstracto en un formato utilitario impecable. Diseñado para acompañar momentos de sofisticación discreta, cada detalle refleja una búsqueda incesante de refinamiento estético y distinción moderna. Confeccionado bajo demanda y disponible con envío a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/4d9/4d9af8078f89cb62c098bb43f6cc5edc_preview.png",
   "https://files.cdn.printful.com/files/99b/99b100375d24b7c9e4ddb094efdba155_preview.png"
@@ -22,9 +35,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Art Soul Manifest Can Cooler · White",
- "name_es": "Enfriador de Latas Art Soul Manifest · Blanco",
+ "name_en": "Soul Manifest Can Cooler",
+ "name_es": "Fundas Para Lata Soul Manifest",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 14.99,
  "rank": 69,

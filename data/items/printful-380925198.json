@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "mug",
+ "ai_ver": 2,
+ "art_note": "Clean, elevated lifestyle product shot with refined styling and natural lighting.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-380925198",
  "color": "Yellow",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential silhouette designed for daily rituals. The design features a contrasting interior that introduces a subtle note of character. Crafted exclusively made-to-order. Available with worldwide shipping.",
+ "desc_es": "Una silueta esencial diseñada para el uso diario. El diseño cuenta con un interior en contraste que aporta un toque de carácter discreto. Fabricada de forma exclusiva bajo pedido. Disponible para envío a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/330/330e62fc068c236c47bc2c3d230b6ba0_preview.png"
  ],
@@ -21,9 +34,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Taza Daz Mug",
- "name_es": "Taza Taza Daz",
+ "name_en": "Ceramic Mug with Yellow Interior",
+ "name_es": "Taza de Cerámica con Interior Amarillo",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 20.99,
  "rank": 85,

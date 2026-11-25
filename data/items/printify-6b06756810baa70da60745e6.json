@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "transparent",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% glass",
+ "ai_type": "wine glass",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle and studio lighting capturing the clarity of the crystal and rich tones of the setting.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,15 @@
  "cg": "printify-6b06756810baa70da60745e6",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate every evening with this piece of exceptional clarity. Designed for the discerning wine enthusiast, this twelve-ounce glass combines a refined silhouette with durable construction. Each detail reflects a commitment to timeless elegance. Transform your tasting moments into an unforgettable sensory experience. Available exclusively with worldwide shipping and made to order.",
+ "desc_es": "Eleve cada velada con esta pieza de excepcional claridad. Diseñada para los entusiastas del vino más exigentes, esta copa de doce onzas combina una silueta refinada con una construcción duradera. Cada detalle refleja un compromiso con la elegancia atemporal. Transforme sus momentos de cata en una experiencia sensorial inolvidable. Disponible exclusivamente con envío mundial y bajo pedido.",
+ "details_en": "· 100% clear glass\n· 12 oz capacity (0.35 l)\n· Made to order",
+ "details_es": "· 100% vidrio transparente\n· Capacidad de 12 oz (0,35 l)\n· Hecho a pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06756810baa70da60745e6/98949/74268/copa-de-vino-12-oz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06756810baa70da60745e6/98949/74305/copa-de-vino-12-oz.jpg?camera_label=left",
   "https://images-api.printify.com/mockup/6b06756810baa70da60745e6/98949/74306/copa-de-vino-12-oz.jpg?camera_label=back",
-  "https://images-api.printify.com/mockup/6b06756810baa70da60745e6/98949/74307/copa-de-vino-12-oz.jpg?camera_label=right",
-  "https://images-api.printify.com/mockup/6b06756810baa70da60745e6/98949/74325/copa-de-vino-12-oz.jpg?camera_label=context-1",
-  "https://images-api.printify.com/mockup/6b06756810baa70da60745e6/98949/74379/copa-de-vino-12-oz.jpg?camera_label=context-2"
+  "https://images-api.printify.com/mockup/6b06756810baa70da60745e6/98949/74307/copa-de-vino-12-oz.jpg?camera_label=right"
  ],
  "draft": false,
  "fam": "copa-vino-oz",
@@ -26,12 +38,13 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Copa Vino Wine Glass",
- "name_es": "Copa de Vino Copa Vino",
+ "name_en": "Crystal Wine Glass",
+ "name_es": "Copa de Vino Cristal",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
- "rank": 54,
+ "rank": 55,
  "shipping_usd": 9.89,
  "shipping_worst_usd": 9.89,
  "shop_category": "",

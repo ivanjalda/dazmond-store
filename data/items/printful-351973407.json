@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "tank top",
+ "ai_ver": 2,
+ "art_note": "Lifestyle capture is acceptable in lighting and sharpness, but the casual jeans styling and marketplace aesthetic limit high-end luxury appeal.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351973407",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A minimalist exploration of fluid form. This design presents an all-over botanical print that evokes natural stillness. Tailored with precision to offer a refined and versatile silhouette. Each piece is meticulously crafted to order in our house. Available with worldwide shipping.",
+ "desc_es": "Una exploración minimalista de la forma fluida. Este diseño presenta un estampado botánico integral que evoca la quietud natural. Confeccionada con precisión para ofrecer una silueta depurada y versátil. Cada pieza se elabora meticulosamente bajo demanda en nuestra casa. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Elaborado bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/035/03533450d2de45984d667307a9408f69_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Botanical Eucalyptus Tee · White",
- "name_es": "Camiseta Botanical Eucalyptus · Blanco",
+ "name_en": "Botanical Eucalyptus Tank Top",
+ "name_es": "Camiseta de Tirantes Botanical Eucalyptus",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 80,

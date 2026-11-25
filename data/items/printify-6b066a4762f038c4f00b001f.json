@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White and Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Cushion",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with high-end close-up detail highlighting the zipper construction, though repetitive angles lower overall variety.",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printify-6b066a4762f038c4f00b001f",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined expression of contemporary home design. This cushion features precise geometric lines in golden tones set against an immaculate white base. Crafted to order to ensure absolute exclusivity in every piece. Available for worldwide shipping. Elevate your living spaces with an aesthetic that evokes architectural sophistication and modern luxury.",
+ "desc_es": "Una expresión depurada de diseño contemporáneo para el hogar. Este cojín combina líneas geométricas precisas en tonos dorados sobre una base blanca impecable. Confeccionado bajo demanda para garantizar una exclusividad absoluta en cada pieza. Disponible para envíos a todo el mundo. Eleve sus espacios con una estética que evoca la sofisticación arquitectónica y el lujo moderno.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b066a4762f038c4f00b001f/41521/47613/gatsby-fan-cushion.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a4762f038c4f00b001f/41521/47617/gatsby-fan-cushion.jpg?camera_label=back",
@@ -28,9 +41,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Gatsby Fan Cushion Cushion",
- "name_es": "Cojín Gatsby Fan Cushion",
+ "name_en": "Gatsby Fan Cushion",
+ "name_es": "Cojín Gatsby Fan",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 82.99,
  "rank": 62,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean, natural lighting with high-end editorial feel.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-337085962",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Blessed Edge cropped hoodie redefines effortless casual elegance with a refined silhouette. Designed to deliver an imposing presence without effort, this piece combines clean lines with a modern, commanding aesthetic. Crafted on demand to ensure absolute exclusivity, it is tailored for those who demand distinction in every detail of their everyday wardrobe. Available for worldwide shipping.",
+ "desc_es": "La sudadera corta Blessed Edge redefine la elegancia informal con una silueta refinada. Diseñada para ofrecer una presencia imponente sin esfuerzo, esta pieza combina líneas limpias con una estética moderna y contundente. Confeccionada bajo demanda para garantizar una exclusividad absoluta, está pensada para quienes exigen distinción en cada detalle de su guardarropa diario. Disponible para envíos a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Confección exclusiva bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/973/9737655ba92873f1512b6785f2b6422d_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Blessed Edge Cropped Sweatshirt · Black",
- "name_es": "Sudadera Blessed Edge Cropped · Negro",
+ "name_en": "Blessed Edge Cropped Hoodie",
+ "name_es": "Sudadera con Capucha Blessed Edge",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 57.99,
  "rank": 190,

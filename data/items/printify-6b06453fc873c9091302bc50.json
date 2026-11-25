@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white and gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "cushion",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shots with sharp product rendering, though repetitive angles lack a full lifestyle luxury campaign context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printify-6b06453fc873c9091302bc50",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A piece of refined sophistication for the contemporary interior. This design fuses graphic lines with a clean aesthetic, creating a visual contrast of absolute distinction. Crafted to order with meticulous attention to detail, it brings an air of architectural elegance to any space. Available for worldwide shipping.",
+ "desc_es": "Una pieza de sofisticación refinada para el hogar contemporáneo. Este diseño fusiona líneas gráficas con una estética depurada, creando un contraste visual de absoluta distinción. Confeccionado bajo demanda con meticulosa atención al detalle, aporta un aire de elegancia arquitectónica a cualquier espacio. Disponible para envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://images.printify.com/mockup/6b06453fc873c9091302bc50/41521/47613/baroque-mirror-cushion.jpg?camera_label=front",
   "https://images.printify.com/mockup/6b06453fc873c9091302bc50/41521/47617/baroque-mirror-cushion.jpg?camera_label=back",
@@ -30,9 +43,10 @@
  "material": "",
  "missing_days": 1,
  "missing_last": "2026-11-25",
- "name_en": "Baroque Mirror Cushion Cushion",
- "name_es": "Cojín Baroque Mirror Cushion",
+ "name_en": "Baroque Mirror Cushion",
+ "name_es": "Cojín Baroque Mirror",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 82.99,
  "rank": 56,

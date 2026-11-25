@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "ceramic",
+ "ai_type": "mug",
+ "ai_ver": 2,
+ "art_note": "Clean lifestyle product staging with soft florals and neutral tones, though slightly leaning toward standard supplier mockups.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-350451408",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined piece for everyday living. The Stardust Union mug combines a glossy white ceramic design with a clean, contemporary aesthetic. Conceived to elevate your morning rituals, this creation brings a touch of sophisticated distinction to any space. Made to order and available with worldwide shipping.",
+ "desc_es": "Una pieza refinada para la vida cotidiana. La taza Stardust Union combina un diseño de porcelana blanca brillante con una estética depurada y contemporánea. Concebida para elevar sus rituales matutinos, esta creación aporta un toque de distinción sofisticada a cualquier espacio. Fabricada bajo pedido y disponible con envío a todo el mundo.",
+ "details_en": "· 11 oz white glossy ceramic mug\n· Made to order",
+ "details_es": "· Taza de cerámica blanca brillante de 11 oz\n· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/304/304d1330866d9301cbf8da23211dbaa6_preview.png",
   "https://files.cdn.printful.com/files/dc5/dc50b5fe6feca05565f78c3194cb2753_preview.png",
@@ -23,9 +37,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Art Stardust Union Mug · White",
- "name_es": "Taza Art Stardust Union · Blanco",
+ "name_en": "Stardust Union Mug",
+ "name_es": "Taza Stardust Union",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 108,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Red Sorbet",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "cotton",
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery with refined lighting and high-end editorial positioning.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351975513",
  "color": "Red Sorbet",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Refined silhouette meets essential comfort in this impeccably tailored piece. Created for the contemporary woman who values subtle luxury. Its sophisticated tone brings a magnetic presence to any minimalist wardrobe. Each piece is crafted exclusively to order in the United States. We offer worldwide shipping for your ultimate convenience.",
+ "desc_es": "La silueta refinada encuentra la comodidad esencial en esta pieza impecablemente confeccionada. Creada para la mujer contemporánea que valora el lujo sutil. Su tono sofisticado aporta una presencia magnética a cualquier guardarropa minimalista. Cada pieza se confecciona exclusivamente bajo pedido en Estados Unidos. Ofrecemos envíos a todo el mundo para su máxima comodidad.",
+ "details_en": "· Cotton Heritage OW1086 cotton\n· High-waisted silhouette\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Algodón Cotton Heritage OW1086\n· Silueta de talle alto\n· Confeccionado bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/a99/a992a6625a7e37d09ba505b8de56533a_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Sovereign Essence High Tee · Red Sorbet",
- "name_es": "Camiseta Sovereign Essence High · Red Sorbet",
+ "name_en": "Sovereign Essence Tee · Red Sorbet",
+ "name_es": "Camiseta Sovereign Essence · Red Sorbet",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 29.99,
  "rank": 104,

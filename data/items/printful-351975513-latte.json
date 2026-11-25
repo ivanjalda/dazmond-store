@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Latte",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Tee",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery with clean lighting and editorial styling.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351975513",
  "color": "Latte",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined reinterpretation of an essential silhouette. This piece embodies effortless elegance through its latte hue and clean design. Crafted on demand to ensure absolute exclusivity, it is available with worldwide shipping. Its minimalist aesthetic dialogues with contemporary luxury, offering a distinguished and versatile presence for any sophisticated wardrobe.",
+ "desc_es": "Una reinterpretación depurada de una silueta esencial. Esta pieza encarna la elegancia sin esfuerzo a través de su tono latte y su diseño depurado. Confeccionada bajo demanda para garantizar una exclusividad absoluta, está disponible con envío a todo el mundo. Su estética minimalista dialoga con el lujo contemporáneo, ofreciendo una presencia distinguida y versátil para cualquier guardarropa sofisticado.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado bajo demanda\n· Envío a todo el mundo disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/c84/c84929e257bdce2ddf7fd0dea62e8e8b_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Sovereign Essence High Tee · Latte",
- "name_es": "Camiseta Sovereign Essence High · Latte",
+ "name_en": "Sovereign Essence Tee · Latte",
+ "name_es": "Camiseta Sovereign Essence · Latte",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 29.99,
  "rank": 102,

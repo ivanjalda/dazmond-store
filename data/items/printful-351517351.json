@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The image features a flat-looking print pasted onto a body mockup with generic lighting, failing to meet luxury standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351517351",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An ethereal vision sculpted with precision. This design redefines the silhouette through a fluid study of color and form. Each piece is crafted exclusively to order in our ateliers. Visual lightness merges with an imposing presence. A canvas in motion for those who demand absolute distinction. Available with worldwide shipping.",
+ "desc_es": "Una visión etérea esculpida con precisión. Este diseño redefine la silueta mediante un estudio fluido de color y forma. Cada pieza se confecciona exclusivamente bajo pedido en nuestros talleres. La ligereza visual se fusiona con una presencia imponente. Un lienzo en movimiento para quien exige distinción absoluta. Disponible con envío internacional.",
+ "details_en": "· Made to order exclusively\n· Worldwide shipping available",
+ "details_es": "· Confección exclusiva bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/56a/56a2e22738c7cd4c04905839b2a333db_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Art Celestial Watercolor Dress · White",
- "name_es": "Vestido Art Celestial Watercolor · Blanco",
+ "name_en": "Celestial Watercolor Dress",
+ "name_es": "Vestido Celestial Watercolor",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 123,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Vintage White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Cotton",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Flat-lay style product shot on a plain background with a generic template appearance lacking luxury campaign atmosphere.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-389620568",
  "color": "Vintage White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A relaxed silhouette defines this structured-cut t-shirt. The design presents a contemporary approach to the modern masculine wardrobe. Crafted from high-grade cotton. Each piece is made to order to ensure exclusivity. Available with worldwide shipping. Minimalist aesthetics meet absolute comfort in an essential garment.",
+ "desc_es": "Una silueta relajada define esta camiseta de corte estructurado. El diseño presenta un enfoque contemporáneo para el armario masculino. Confeccionada con algodón de alta calidad. Cada pieza se elabora bajo pedido para garantizar la exclusividad. Disponible con envíos a todo el mundo. La estética minimalista se une al confort absoluto en una prenda esencial.",
+ "details_en": "· 100% cotton\n· Boxy fit\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% algodón\n· Corte boxy\n· Elaborado bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/273/2736110b25c67fdc62e77263773fe22e_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Boxy Daz Tee · Vintage White",
- "name_es": "Camiseta Boxy Daz · Vintage White",
+ "name_en": "DAZ Luxury Boxy T-Shirt · Vintage White",
+ "name_es": "Camiseta Boxy DAZ Luxury · Vintage White",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 175,

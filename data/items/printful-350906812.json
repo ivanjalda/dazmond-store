@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/falda"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "skirt",
+ "ai_ver": 2,
+ "art_note": "Flat digital mockup on white background lacks luxury lighting and styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350906812",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Fluid silhouette with natural movement. Designed for an impeccable presence. Clean lines that redefine contemporary luxury. Made-to-order piece with worldwide shipping.",
+ "desc_es": "Silueta fluida con movimiento natural. Diseñada para una presencia impecable. Líneas depuradas que redefinen la elegancia contemporánea. Confección bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Made-to-order piece",
+ "details_es": "· Confección bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/d21/d214c3ceb4d8bc04b3ee8008ffea285d_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Aura Swing Skater Skirt · White",
- "name_es": "Falda Aura Swing Skater · Blanco",
+ "name_en": "Aura Swing Skater Skirt",
+ "name_es": "Falda de vuelo Aura Swing",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 52.99,
  "rank": 178,

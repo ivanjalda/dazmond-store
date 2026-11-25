@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Cotton",
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "Flat mannequin template shot lacking the depth and sophistication of luxury e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-389620568",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Silence and presence. The boxy t-shirt redefines urban proportions with an impeccable structure. Absolute black absorbs light while the front graphic offers measured contrast. Designed for a man who seeks effortless distinction. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Silencio y presencia. La camiseta boxy redefine las proporciones urbanas con una estructura impecable. El negro absoluto absorbe la luz mientras el diseño frontal aporta un contraste medido. Diseñada para un hombre que busca la distinción sin esfuerzo. Cada pieza se confecciona bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Cotton\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Algodón\n· Hecho a medida\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/2cc/2cc8072540f094b1bdeb41580e3c32b6_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Boxy Daz Tee · Black",
- "name_es": "Camiseta Boxy Daz · Negro",
+ "name_en": "DAZ Luxury Boxy T-Shirt · Black",
+ "name_es": "Camiseta Boxy DAZ Luxury · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 173,

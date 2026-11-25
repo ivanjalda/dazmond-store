@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Flat mannequin template with graphic overlay, lacking luxury e-commerce depth and lighting.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-338164153",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A sculpted silhouette that redefines nocturnal modernity. This form-fitting design embraces the figure with precise mastery. The all-over print delivers bold, uncompromising character. Made-to-order availability with worldwide shipping. An essential piece for those who command absolute presence.",
+ "desc_es": "Una silueta esculpida que redefine la modernidad nocturna. Este diseño de corte ceñido se ajusta a la figura con precisión impecable. El estampado integral aporta un carácter audaz y definido. Confección bajo pedido con envíos a todo el mundo. Una prenda esencial para quienes exigen presencia absoluta.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/28d/28d67b9f472866fd3a794fe5cb5521e5_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Star Spangled Sculpt Dress · White",
- "name_es": "Vestido Star Spangled Sculpt · Blanco",
+ "name_en": "Star Spangled Sculpt Bodycon Dress",
+ "name_es": "Vestido Star Spangled Sculpt Bodycon",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 106,

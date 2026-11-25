@@ -13,6 +13,7 @@
  "ai_ver": 2,
  "art_note": "Clean studio product photography and styled lifestyle contexts effectively communicate the refined utility of the accessory.",
  "art_score": 7,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -20,7 +21,7 @@
   "mujer/bolsos-carteras"
  ],
  "cg": "printify-6b066a6beca3203e09099358",
- "color": "",
+ "color": "white",
  "created": "2026-11-25",
  "desc_en": "A refined expression of everyday utility. This insulated bag merges a structured silhouette with a water-resistant design. The insulated interior maintains optimal food temperature with absolute discretion. The magnetic closure offers seamless and secure access. Each piece is made to order.",
  "desc_es": "Una expresión refinada de la funcionalidad cotidiana. Esta bolsa térmica combina una silueta estructurada con un diseño resistente al agua. El interior aislado mantiene la temperatura ideal para sus alimentos con total discreción. El cierre magnético ofrece un acceso fluido y seguro. Cada pieza se elabora bajo demanda.",
@@ -36,6 +37,7 @@
  ],
  "draft": false,
  "fam": "bolsa-luxury-almuerzo",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-6b066a6beca3203e09099358",
  "img_checked": "2026-11-25",
@@ -45,7 +47,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "100% polyester exterior, 52% aluminum foil and 48% polyester interior",
  "name_en": "Insulated Lunch Bag",
  "name_es": "Bolsa térmica de almuerzo",
  "needs_review": false,

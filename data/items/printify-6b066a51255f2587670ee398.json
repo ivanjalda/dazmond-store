@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "black and gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "pajama set",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce mockups lack atmospheric luxury campaign lighting.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printify-6b066a51255f2587670ee398",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate hours of repose with this refined two-piece set. Crafted with a focus on relaxed silhouette, this design merges comfort with modern elegance. The ribbed collar and seamless sleeve construction ensure an impeccable drape. An essential piece from our exclusive collection, made to order with worldwide shipping.",
+ "desc_es": "Eleve las horas de descanso con este refinado conjunto de dos piezas. Confeccionado con un enfoque en la silueta relajada, este diseño combina comodidad y elegancia moderna. El cuello acanalado y la ausencia de costuras en las mangas garantizan una caída impecable. Una pieza esencial de nuestra colección exclusiva, disponible bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% elastane\n· Relaxed fit\n· Ribbed collar\n· Seamless sleeves\n· Sewn-in label on the inner side seam of the shirt\n· Made to order\n· Available with worldwide shipping",
+ "details_es": "· 95 % poliéster, 5 % elastano\n· Ajuste relajado\n· Cuello acanalado\n· Sin costuras en las mangas\n· Etiqueta cosida en la costura lateral interna de la camisa\n· Hecho bajo pedido\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b066a51255f2587670ee398/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a51255f2587670ee398/75685/24433/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=back",
@@ -26,12 +40,13 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Conjunto Pijama Corto Loungewear · White",
- "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+ "name_en": "DAZ Art Short Pajama Set",
+ "name_es": "Conjunto de Pijama Corto DAZ Art",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 48.99,
- "rank": 50,
+ "rank": 51,
  "shipping_usd": 5.89,
  "shipping_worst_usd": 7.09,
  "shop_category": "",

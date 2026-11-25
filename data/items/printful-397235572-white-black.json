@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White/Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Baby Tee",
+ "ai_ver": 2,
+ "art_note": "The image is a flat, composited product mockup on a plain background, lacking the depth, lighting, and styling expected in a luxury fashion campaign.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-397235572",
  "color": "White/Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette that redefines contemporary luxury codes. Crafted to order to ensure absolute exclusivity. The contrast raglan design delivers a striking graphic elegance. Available with worldwide shipping to satisfy the most discerning global clientele.",
+ "desc_es": "Una silueta depurada que redefine los códigos del lujo contemporáneo. Confeccionada bajo demanda para asegurar una exclusividad absoluta. El diseño raglán en contraste aporta una marcada elegancia gráfica. Disponible con envío a todo el mundo para satisfacer al cliente global más exigente.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/4cf/4cffbb7e990376ab5b0b9460cb3c72c2_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Raglán Microcanalé Tee · White/Black",
- "name_es": "Camiseta Daz Raglán Microcanalé · White/Black",
+ "name_en": "DAZ Luxury Micro Rib Raglan Tee · White/Black",
+ "name_es": "Camiseta raglán microcanalé DAZ Luxury · White/Black",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 129,

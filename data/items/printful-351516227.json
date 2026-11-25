@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The image is a flat, digital mockup of a dress with a pasted graphic, lacking the tactile depth and sophisticated lighting expected in luxury e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351516227",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A sculpted piece that redefines the silhouette with a striking graphic presence. The precision-lined design evokes pure movement and modernism. Each dress is meticulously crafted to order in our ateliers, ensuring exclusivity and an impeccable fit. Available with worldwide shipping for the most discerning contemporary wardrobe.",
+ "desc_es": "Una pieza esculpida que redefine la silueta con una presencia gráfica y contundente. El diseño de líneas precisas evoca movimiento y modernidad en estado puro. Cada vestido se elabora meticulosamente bajo pedido en nuestros talleres, garantizando exclusividad y un ajuste impecable. Disponible con envío a todo el mundo para el guardarropa contemporáneo más exigente.",
+ "details_en": "· Made-to-order exclusive piece\n· Available with worldwide shipping",
+ "details_es": "· Confección exclusiva bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/17f/17f449552a7c1049e9cc96039bfcebd0_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Equine Silhouette Bodycon Dress · White",
- "name_es": "Vestido Equine Silhouette Bodycon · Blanco",
+ "name_en": "Equine Silhouette Bodycon Dress",
+ "name_es": "Vestido Cuerpo Equino",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 121,

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:41:52Z",
+  "updated": "2026-11-25T09:41:52Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -29255,18 +29255,18 @@
       "revenue_30d": 0.0
     },
     "printify-6b06453cfb3b556d1c04ed30": {
-      "views": 0,
+      "views": 1,
       "clicks": 0,
-      "views_today": 0,
+      "views_today": 1,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
       "revenue_30d": 0.0
     },
     "printify-6b064539fb3b556d1c04ed2a": {
-      "views": 0,
+      "views": 1,
       "clicks": 0,
-      "views_today": 0,
+      "views_today": 1,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,

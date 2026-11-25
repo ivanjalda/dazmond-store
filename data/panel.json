@@ -1,25 +1,25 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-25 08:41 UTC",
+  "updated": "2026-11-25 09:41 UTC",
   "totals": {
     "catalogo": 2497,
-    "a_la_vista": 2142,
+    "a_la_vista": 2144,
     "disenos_a_la_vista": 903,
-    "ocultos": 355,
-    "ia_revisados": 1006,
-    "ia_pendientes": 1490,
-    "con_boton_de_pago": 2142,
+    "ocultos": 353,
+    "ia_revisados": 1083,
+    "ia_pendientes": 1413,
+    "con_boton_de_pago": 2144,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 11,
     "ventas_30_dias": 0,
-    "visitas_30_dias": 2093,
+    "visitas_30_dias": 2095,
     "fotos_de_campana": 0
   },
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 351
+    "Borrador": 349
   },
   "suppliers": {
     "Printify": {
@@ -35,8 +35,8 @@
       "ocultos": 13
     },
     "InterestPrint": {
-      "visibles": 115,
-      "ocultos": 342
+      "visibles": 117,
+      "ocultos": 340
     }
   },
   "guard": [
@@ -390,7 +390,7 @@
     },
     {
       "id": "printful-345759651",
-      "n": "Leggings Titan Compression · Blanco",
+      "n": "Mallas de compresión Titan",
       "s": "Printful",
       "img": "https://files.cdn.printful.com/files/7d0/7d0f8d25ad65cf2002014e9a0b1199b1_preview.png",
       "c": "hombre/mallas",
@@ -417,7 +417,7 @@
     },
     {
       "id": "printful-382149130",
-      "n": "Vela Vela Perfumada Daz · Blanco",
+      "n": "Vela aromática Salvia y Lavanda",
       "s": "Printful",
       "img": "https://files.cdn.printful.com/files/d2e/d2e12e000869e4515d84a32c538f6d00_preview.png",
       "c": "decor",
@@ -426,7 +426,7 @@
     },
     {
       "id": "printful-350459260",
-      "n": "Enfriador de Latas Art Soul Manifest · Blanco",
+      "n": "Fundas Para Lata Soul Manifest",
       "s": "Printful",
       "img": "https://files.cdn.printful.com/files/4d9/4d9af8078f89cb62c098bb43f6cc5edc_preview.png",
       "c": "decor",
@@ -435,7 +435,7 @@
     },
     {
       "id": "printful-351973407",
-      "n": "Camiseta Botanical Eucalyptus · Blanco",
+      "n": "Camiseta de Tirantes Botanical Eucalyptus",
       "s": "Printful",
       "img": "https://files.cdn.printful.com/files/035/03533450d2de45984d667307a9408f69_preview.png",
       "c": "mujer/camisetas-blusas-tops",
@@ -2191,24 +2191,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-yoga-zipper-vest",
-      "n": "Chaleco con Cremallera y Estampado · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/63302b5be0943799b4c3.jpg",
-      "c": "hombre/abrigo-chaqueta-sueter",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-yoga-zipper-vest-1",
-      "n": "Chaleco con Cremallera y Estampado · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/be12655d142b11178538.jpg",
-      "c": "hombre/abrigo-chaqueta-sueter",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress",
       "n": "Vestido Ruffle · Blanco",
       "s": "InterestPrint",
@@ -3764,22 +3746,32 @@
     "CSV leído: telegram.csv",
     "Printify: 46 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 8 s",
-    "Productos en catálogo: 2497 · a la vista: 2138 · archivados: 1",
+    "⏱ lectura de proveedores: 7 s",
+    "Productos en catálogo: 2497 · a la vista: 2145 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
-    "Firebase: visitas leídas de 2072 piezas",
-    "⏱ ventas, visitas y cupones: 4 s",
+    "Firebase: visitas leídas de 2074 piezas",
+    "⏱ ventas, visitas y cupones: 3 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con printify-6b066a67255f2587670ee3b9: gemini-flash-latest: The read operation timed out",
-    "IA: fallo con interestprint-design-yoga-zipper-vest: ",
-    "IA: fallo con interestprint-design-yoga-zipper-vest-1: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con printify-6b066744255f2587670ee018: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con printful-382149130: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con printify-6b066a54eca3203e09099343: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con printify-6b066a4aeca3203e09099330: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con printful-350465229: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con printful-383192424-black: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
+    "IA: fallo con printful-383192424-white: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printful-357199592: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printful-351512378: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printful-351513427: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printful-350468176-black: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printful-350911800: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printful-350912065: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printful-350912308: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printful-353935974-heather-prism-ice-blue: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printful-344669970: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
+    "IA: fallo con printful-345378939-midnight-navy: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
     "IA: tiempo de esta hora agotado; sigo en la próxima.",
-    "IA: 46 productos revisados (fotos, guía de tallas y textos) · quedan 1715",
-    "⏱ revisión con IA: 1203 s",
-    "⏱ vigilante: 106 s",
+    "IA: 77 productos revisados (fotos, guía de tallas y textos) · quedan 1638",
+    "⏱ revisión con IA: 1200 s",
+    "⏱ vigilante: 114 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9122 EUR",

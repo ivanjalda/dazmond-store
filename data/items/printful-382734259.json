@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "White Glossy Ceramic",
+ "ai_type": "Mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait shots with natural lighting, maintaining a minimalist aesthetic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-382734259",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece for elevated daily living. This glossy white mug blends simplicity and refinement in every detail. Designed with clean lines and a polished finish that brings sophistication to any space. Made to order to ensure exclusivity and reduce waste. Available with worldwide shipping.",
+ "desc_es": "Una pieza esencial para la vida cotidiana elevada. Esta taza blanca brillante combina simplicidad y refinamiento en cada detalle. Diseñada con líneas limpias y un acabado pulido que aporta sofisticación a cualquier espacio. Fabricada bajo demanda para garantizar exclusividad y reducir el desperdicio. Disponible con envío a todo el mundo.",
+ "details_en": "· White glossy mug\n· 11 oz capacity\n· Made to order",
+ "details_es": "· Taza blanca brillante\n· Capacidad de 11 oz\n· Hecho a medida",
  "display_images": [
   "https://files.cdn.printful.com/files/971/9711ddda3d21db7ccaaa9077bcbe9b89_preview.png",
   "https://files.cdn.printful.com/files/fdf/fdf0721b11331a809c0b1ad7ef060c22_preview.png",
@@ -23,9 +37,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Taza Brillante Daz Mug · White",
- "name_es": "Taza Taza Brillante Daz · Blanco",
+ "name_en": "DAZ Luxury White Mug",
+ "name_es": "Taza DAZ Luxury Blanca",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 126,

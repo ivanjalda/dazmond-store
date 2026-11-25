@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style resembling a marketplace template rather than a luxury presentation.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351512708",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined expression of contemporary design. This dress features an abstract blurred motif over a clean base. The silhouette contours the body with precision, offering a fluid and sophisticated presence. Each piece is made to order in our ateliers and available with worldwide shipping. An essential silhouette for the season.",
+ "desc_es": "Una expresion depurada de diseno contemporaneo. Este vestido presenta un motivo abstracto de tonos difuminados sobre una base clara. La silueta se ajusta con precision al cuerpo, ofreciendo una presencia fluida y sofisticada. Cada pieza se confecciona bajo pedido en nuestros talleres y cuenta con envio internacional disponible. Una propuesta esencial para la temporada.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado bajo pedido\n· Disponible con envio mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/aec/aeccd444505f0b5c5698cd16c35e6d60_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Rose Nebula Silhouette Dress · White",
- "name_es": "Vestido Rose Nebula Silhouette · Blanco",
+ "name_en": "Rose Quartz Nebula Dress",
+ "name_es": "Vestido Rose Quartz Nebula",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 111,

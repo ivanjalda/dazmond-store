@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Vintage Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Cotton Heritage OW1086",
+ "ai_type": "Tee",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle photography with refined lighting and high-end editorial positioning.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351975513",
  "color": "Vintage Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette that redefines the codes of contemporary elegance. Designed for the modern woman, this piece combines impeccable presence with absolute comfort. Exclusive made-to-order craftsmanship with worldwide shipping availability. Every detail has been carefully considered to deliver a sophisticated and timeless aesthetic. Elevate your wardrobe with an essential garment that transcends trends.",
+ "desc_es": "Una silueta depurada que redefine los códigos de la elegancia contemporánea. Diseñada para la mujer moderna, esta pieza combina una presencia impecable con una comodidad absoluta. Confección exclusiva bajo demanda con disponibilidad de envío internacional. Cada detalle ha sido cuidadosamente considerado para ofrecer una estética sofisticada y atemporal. Eleve su fondo de armario con una prenda esencial que trasciende las tendencias.",
+ "details_en": "· High-quality Cotton Heritage OW1086 cotton\n· High-waisted silhouette\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Algodón de alta calidad Cotton Heritage OW1086\n· Silueta de talle alto\n· Confección bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/97b/97bf6b4e38b7224ecc9ef4b449b9c14a_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Sovereign Essence High Tee · Vintage Black",
- "name_es": "Camiseta Sovereign Essence High · Vintage Black",
+ "name_en": "Sovereign Essence Tee · Vintage Black",
+ "name_es": "Camiseta Sovereign Essence · Vintage Black",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 29.99,
  "rank": 105,

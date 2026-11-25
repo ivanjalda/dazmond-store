@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Clean flat lay composition with lifestyle props, but lacks high-end editorial lighting and dynamic depth.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-344668439",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece for the summer season. The Golden Sun string bikini redefines coastal elegance with its minimalist and refined silhouette. Designed to offer a customized and flattering fit. Crafted to order to ensure ultimate exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una pieza esencial para la temporada estival. El bikini de cuerdas Golden Sun redefine la elegancia costera con su silueta minimalista y refinada. Diseñado para ofrecer un ajuste personalizado y favorecedor. Confeccionado bajo pedido para garantizar la máxima exclusividad. Disponible con envío mundial.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/20f/20fd11846a700f37aebc814d3fa94041_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Golden Sun Elite Swimwear · White",
- "name_es": "Bañador Golden Sun Elite · Blanco",
+ "name_en": "Golden Sun String Bikini",
+ "name_es": "Bikini de Cuerdas Golden Sun",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 191,

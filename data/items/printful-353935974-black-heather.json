@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Black Heather",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Generic supplier mockup style with distracting background plants and flat lighting.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-353935974",
  "color": "Black Heather",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential piece for the contemporary wardrobe. Defined by clean lines and a minimalist approach. Crafted to order to ensure ultimate exclusivity. Worldwide shipping available. The silhouette offers a versatile and sophisticated presence. Designed to complement any luxury wardrobe with absolute discretion.",
+ "desc_es": "Una prenda esencial para el armario contemporáneo. Definida por líneas depuradas y un enfoque minimalista. Confeccionada bajo pedido para garantizar la máxima exclusividad. Envío mundial disponible. La silueta ofrece una presencia versátil y sofisticada. Diseñada para complementar cualquier guardarropa de lujo con absoluta discreción.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/d77/d7746db75f957c3bcaed9238bde6dd60_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Icon Tee · Black Heather",
- "name_es": "Camiseta Icon · Black Heather",
+ "name_en": "DAZMOND Icon T-Shirt · Black Heather",
+ "name_es": "Camiseta DAZMOND Icon · Black Heather",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 36.99,
  "rank": 86,

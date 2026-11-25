@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Vintage Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Cotton Heritage MC1087",
+ "ai_type": "T-shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on flat background, acceptable clarity but lacks high-end editorial atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-389620568",
  "color": "Vintage Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined interpretation of the contemporary silhouette. This piece presents a boxy cut with architectural lines and deliberate proportions. Crafted to offer an impeccable presence in the everyday wardrobe. The front graphic details provide a distinctive accent without compromising sobriety. Each garment is made to order. Worldwide shipping is available.",
+ "desc_es": "Una interpretación depurada de la silueta contemporánea. Esta pieza presenta un corte boxy de líneas arquitectónicas y proporciones deliberadas. Confeccionada para ofrecer una presencia impecable en el vestuario diario. Los detalles gráficos frontales aportan un acento distintivo sin comprometer la sobriedad. Cada prenda se elabora bajo demanda en Estados Unidos. Disponible con envío a todo el mundo.",
+ "details_en": "· Boxy fit\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Corte boxy\n· Elaborado bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/f4f/f4ffd673bb6c6b0ad3f5d663583f677a_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Boxy Daz Tee · Vintage Black",
- "name_es": "Camiseta Boxy Daz · Vintage Black",
+ "name_en": "DAZ Luxury Boxy T-Shirt · Vintage Black",
+ "name_es": "Camiseta Boxy DAZ Luxury · Vintage Black",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 174,

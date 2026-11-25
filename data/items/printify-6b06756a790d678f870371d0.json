@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "clear",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "glass",
+ "ai_type": "whiskey glass",
+ "ai_ver": 2,
+ "art_note": "The lifestyle bar imagery and crisp studio angles elevate the glassware to a luxury tier.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,15 @@
  "cg": "printify-6b06756a790d678f870371d0",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette designed for the most exclusive after-dinner moments. This whiskey glass combines absolute glass transparency with a timeless design, created to elevate the character of every spirit. Each piece is made to order and shipped worldwide, ensuring a distinguished presence in any private collection.",
+ "desc_es": "Una silueta depurada diseñada para los momentos de sobremesa más selectos. Este vaso de whisky combina la transparencia absoluta del vidrio con un diseño atemporal, pensado para realzar el carácter de cada destilado. Cada pieza se elabora bajo pedido y se envía a todo el mundo, asegurando una presencia distinguida en cualquier colección privada.",
+ "details_en": "· 100% glass\n· 6 oz (0.17 l) capacity\n· Glossy print\n· Assembled in the USA from globally sourced parts\n· Made to order",
+ "details_es": "· 100% vidrio\n· Capacidad de 6 oz (0,17 l)\n· Impresión brillante\n· Ensamblado en EE. UU. a partir de piezas obtenidas en todo el mundo\n· Hecho a medida",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06756a790d678f870371d0/98950/87715/vaso-de-whisky.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06756a790d678f870371d0/98950/89390/vaso-de-whisky.jpg?camera_label=left",
   "https://images-api.printify.com/mockup/6b06756a790d678f870371d0/98950/89392/vaso-de-whisky.jpg?camera_label=back",
-  "https://images-api.printify.com/mockup/6b06756a790d678f870371d0/98950/89391/vaso-de-whisky.jpg?camera_label=right",
-  "https://images-api.printify.com/mockup/6b06756a790d678f870371d0/98950/88443/vaso-de-whisky.jpg?camera_label=context-1",
-  "https://images-api.printify.com/mockup/6b06756a790d678f870371d0/98950/88444/vaso-de-whisky.jpg?camera_label=context-2"
+  "https://images-api.printify.com/mockup/6b06756a790d678f870371d0/98950/89391/vaso-de-whisky.jpg?camera_label=right"
  ],
  "draft": false,
  "fam": "vaso-whisky",
@@ -26,9 +38,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Vaso Whisky Glass",
- "name_es": "Vaso Vaso Whisky",
+ "name_en": "Whiskey glass",
+ "name_es": "Vaso de whisky",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 24.99,
  "rank": 67,

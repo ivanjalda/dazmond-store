@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Flat-looking digital mockup with generic all-over print on a blank template, failing to meet luxury e-commerce presentation standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351528219",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A nocturnal vision captured with precision. This bodycon dress features an all-over motif evoking the vastness of the cosmos. Each piece is crafted made to order to ensure exclusivity. The silhouette sculpts the form with quiet and resolute elegance. Available for worldwide shipping.",
+ "desc_es": "Una visión nocturna plasmada con precisión. Este vestido ajustado presenta un diseño continuo que evoca la inmensidad del firmamento. Cada pieza se confecciona bajo demanda para garantizar exclusividad. La silueta esculpe la figura con una elegancia sobria y decidida. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b46/b463840ccc2644f8ea44dc473a4366dd_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Starlight Night Bodycon Dress · White",
- "name_es": "Vestido Starlight Night Bodycon · Blanco",
+ "name_en": "Starlight Night Dress",
+ "name_es": "Vestido Starlight Night",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 124,

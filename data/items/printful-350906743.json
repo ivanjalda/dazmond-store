@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/falda"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "skirt",
+ "ai_ver": 2,
+ "art_note": "Flat template product shot lacking high-end studio lighting and depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350906743",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An exploration of fluid movement and precise geometry. This skater silhouette unfolds with controlled grace. Vibrant tones define the surface with graphic clarity. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una exploracion de movimiento y geometria fluida. Esta silueta skater se despliega con una gracia controlada. Tonos vibrantes definen la superficie con precision grafica. Creada bajo demanda para asegurar una exclusividad absoluta. Disponible con envios a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Confeccion bajo demanda\n· Envios a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/0cf/0cf1d692ba847b8cdeeac27644faff8a_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Ethereal Motion Skater Skirt · White",
- "name_es": "Falda Ethereal Motion Skater · Blanco",
+ "name_en": "Ethereal Motion Skirt",
+ "name_es": "Falda Ethereal Motion",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 52.99,
  "rank": 177,

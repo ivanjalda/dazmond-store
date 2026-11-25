@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White/Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "micro-rib",
+ "ai_type": "baby tee",
+ "ai_ver": 2,
+ "art_note": "The image features a flat digital mockup on a solid white background, characteristic of standard supplier templates rather than high-end fashion photography.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-397235572",
  "color": "White/Pink",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary silhouette defined by clean lines and subtle contrast. This cropped raglan baby tee combines relaxed elegance with precise proportions. Crafted with attention to detail, it offers a soft touch and a flattering fit. The essential design is elevated by a minimalist aesthetic. Available made-to-order with worldwide shipping. A versatile piece for the modern wardrobe.",
+ "desc_es": "Una silueta contemporánea definida por líneas limpias y un contraste sutil. Esta camiseta corta de corte raglán combina elegancia relajada y proporciones precisas. Confeccionada con atención al detalle, ofrece una textura suave al tacto y un ajuste favorecedor. El diseño esencial se eleva con una estética minimalista. Disponible bajo pedido con envío internacional. Una pieza versátil para el guardarropa moderno.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/4f8/4f8cd79311056e5aca74fd0c2c347e7f_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Raglán Microcanalé Tee · White/Pink",
- "name_es": "Camiseta Daz Raglán Microcanalé · White/Pink",
+ "name_en": "DAZ Luxury Micro Rib Raglan Tee · White/Pink",
+ "name_es": "Camiseta raglán microcanalé DAZ Luxury · White/Pink",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 130,

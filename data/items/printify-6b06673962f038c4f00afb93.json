@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white and gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "cushion",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shots with clear detail on zipper construction, though repetitive angles lack a true high-end campaign environment.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printify-6b06673962f038c4f00afb93",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Bring a distinguished presence to your interior with the Gatsby Fan cushion. This design reflects a refined aesthetic inspired by classical architecture and understated luxury. Crafted with rigorous attention to detail, it features precise lines and a structured silhouette that complements any sophisticated space. Each piece is meticulously made to order to ensure absolute exclusivity in your home. Available with worldwide shipping to accommodate our international clientele.",
+ "desc_es": "Aporte una presencia distinguida a su espacio con el cojín Gatsby Fan. Este diseño refleja una estética refinada inspirada en la arquitectura clásica y el lujo discreto. Confeccionado con atención rigurosa al detalle, presenta líneas precisas y una silueta estructurada que complementa cualquier ambiente sofisticado. Cada pieza se elabora meticulosamente bajo demanda para garantizar una exclusividad absoluta en su hogar. Disponible con envío a todo el mundo para satisfacer las exigencias de nuestros clientes internacionales.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06673962f038c4f00afb93/41521/47613/gatsby-fan-cushion.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06673962f038c4f00afb93/41521/47617/gatsby-fan-cushion.jpg?camera_label=back",
@@ -28,9 +41,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Gatsby Fan Cushion Cushion",
- "name_es": "Cojín Gatsby Fan Cushion",
+ "name_en": "Gatsby Fan Cushion",
+ "name_es": "Cojín Gatsby Fan",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 82.99,
  "rank": 60,

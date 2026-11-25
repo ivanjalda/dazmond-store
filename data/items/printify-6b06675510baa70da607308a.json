@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/b5e93c755c4cbd89a016.jpg",
+  "assets/products/shop/c367421732d7417f444a.jpg",
+  "assets/products/shop/335f29975bb0dc10de4b.jpg",
+  "assets/products/shop/3d6bf1a10f24772f6be8.jpg"
+ ],
  "ai_cats": [
   "calzado-hombre/sandalias-chanclas-hombre",
   "calzado-mujer/sandalias-chanclas"
@@ -38,6 +44,7 @@
  ],
  "draft": false,
  "fam": "chancletas-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-6b06675510baa70da607308a",
  "img_checked": "2026-11-25",
@@ -47,7 +54,7 @@
   "printful-361906822",
   "printify-6b0667526db425f6b50b967a-black"
  ],
- "material": "",
+ "material": "EVA, polyester, PVC",
  "name_en": "Daz Luxury Black Flip Flops",
  "name_es": "Chancletas Daz Luxury Negras",
  "needs_review": false,

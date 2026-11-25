@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/47181c2e2385ad8ff478.jpg",
+  "assets/products/shop/45a1b5baeb309ced9f6b.jpg",
+  "assets/products/shop/c79547cb73087e34b337.jpg",
+  "assets/products/shop/da3d386db62e7c7c0255.jpg"
+ ],
  "ai_cats": [
   "calzado-hombre/sandalias-chanclas-hombre",
   "calzado-mujer/sandalias-chanclas"
@@ -37,6 +43,7 @@
  ],
  "draft": false,
  "fam": "chancletas",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-6b0667586db425f6b50b968e",
  "img_checked": "2026-11-25",
@@ -46,7 +53,7 @@
   "printful-361906822",
   "printify-6b0667526db425f6b50b967a-black"
  ],
- "material": "",
+ "material": "EVA, poliéster, PVC",
  "name_en": "Daz Black Sole Flip-Flops",
  "name_es": "Chanclas Daz Black Sole",
  "needs_review": false,
