@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T06:42:28Z",
+  "updated": "2026-11-25T07:41:57Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -29557,7 +29557,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-6b06675510baa70da607308a": {
@@ -29566,7 +29566,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-6b0667526db425f6b50b967a-black": {
@@ -29575,7 +29575,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-6b0667526db425f6b50b967a-white": {
@@ -29593,7 +29593,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-6b06674c255f2587670ee022": {
@@ -29629,7 +29629,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-6b06674262f038c4f00afba4": {
@@ -29647,7 +29647,7 @@
       "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
-      "visual_verified": false,
+      "visual_verified": true,
       "revenue_30d": 0.0
     },
     "printify-6b06673cfb3b556d1c05158f": {

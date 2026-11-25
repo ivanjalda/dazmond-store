@@ -12,7 +12,11 @@
  "display_images": [
   "https://images-api.printify.com/mockup/6b066740eca3203e09098ed4/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066740eca3203e09098ed4/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
-  "https://images-api.printify.com/mockup/6b066740eca3203e09098ed4/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up"
+  "https://images-api.printify.com/mockup/6b066740eca3203e09098ed4/75685/24404/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=close-up",
+  "https://images-api.printify.com/mockup/6b066740eca3203e09098ed4/75685/24390/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-front",
+  "https://images-api.printify.com/mockup/6b066740eca3203e09098ed4/75685/24396/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-right",
+  "https://images-api.printify.com/mockup/6b066740eca3203e09098ed4/75685/24394/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-left",
+  "https://images-api.printify.com/mockup/6b066740eca3203e09098ed4/75685/24392/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=on-person-back"
  ],
  "draft": false,
  "fam": "conjunto-pijama-corto",
@@ -29,12 +33,13 @@
  "name_en": "Conjunto Pijama Corto Loungewear · White",
  "name_es": "Pijama Conjunto Pijama Corto · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 48.99,
- "rank": 42,
+ "rank": 12,
  "shipping_usd": 5.89,
  "shipping_worst_usd": 7.09,
- "shop_category": "",
- "shop_verified": false,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Pijamas",
+ "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
  "sizes": [
@@ -55,5 +60,5 @@
  "stripe_payment_link": "https://buy.stripe.com/9B6cN6cnqbGQfD05em1gV1d",
  "supplier": "Printify",
  "supplier_id": "6b066740eca3203e09098ed4",
- "visual_verified": false
+ "visual_verified": true
 }
