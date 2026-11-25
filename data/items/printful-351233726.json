@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/161615a7b2616a07ee38.jpg",
+  "assets/products/shop/c397f7516b71449885e4.jpg",
+  "assets/products/shop/a04d69445e3740350519.jpg",
+  "assets/products/shop/bd119fc81b36ab547cff.jpg",
+  "assets/products/shop/76eafedd428ea899eafc.jpg",
+  "assets/products/shop/c9664cbd3aaa11c2b7ee.jpg",
+  "assets/products/shop/bfbbb24560f973f90a1a.jpg"
+ ],
  "ai_cats": [
   "hombre/banador"
  ],
@@ -28,6 +37,7 @@
  ],
  "draft": false,
  "fam": "luxury-abstract-blueprint",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351233726",
  "img_checked": "2026-11-22",
@@ -37,7 +47,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Abstract Print Swim Trunks",
  "name_es": "Bañador Estampado Abstracto",
  "needs_review": false,

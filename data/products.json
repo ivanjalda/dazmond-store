@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:41:57Z",
+  "updated": "2026-11-25T17:41:51Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -52321,7 +52321,7 @@
       ],
       "needs_review": false,
       "created": "2026-11-22",
-      "material": "",
+      "material": "Recycled",
       "color": "White",
       "raw_images": [
         "https://files.cdn.printful.com/files/ad3/ad37bca08ae61e529ce2d47cfa4648dd_preview.png"
@@ -52357,7 +52357,7 @@
       "shop_verified": true,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DAZMOND® Luxury \"Abstract Blueprint & Indigo Doodle\" Premium Men's Swim Trunks All-Over Print Recycled Swim Trunks (White / 2XS) White",
+      "source_text": "DAZMOND® Luxury \"Abstract Blueprint & Indigo Doodle\" Premium Men's Swim Trunks All-Over Print Recycled Swim Trunks (White / 2XS) Swim Trunks White Recycled",
       "name_es": "Bañador Estampado Abstracto",
       "name_en": "Abstract Print Swim Trunks",
       "desc_es": "Una visión moderna de la estética estival. Este diseño presenta un patrón gráfico de inspiración abstracta sobre un fondo profundo. Confeccionados mediante procesos de fabricación bajo demanda y disponibles para envío global. La silueta ofrece una presencia depurada y contemporánea para la temporada de clima cálido.",
@@ -52368,13 +52368,6 @@
       "shipping_worst_usd": 7.0,
       "details_src": "Expresionismo Gráfico — Sofisticación Urbana y Marítima \n El vestuario de baño masculino de alto nivel fusiona el arte moderno de ilustración a mano alzada con la sofisticación náutica contemporánea. El bañador DAZMOND® presenta un dinámico estampado gráfico compuesto por trazos expresivos, texturas tramadas, líneas onduladas y figuras geométricas abstractas en tono azul celeste icónico sobre un fondo azul índigo naval de profunda elegancia. En el bajo de la pierna izquierda, el distintivo escudo enjoyado \"DAZ\" en acabado tridimensional autentifica la pieza con el inconfundible sello de alta moda de la firma.\n La Experiencia del Tejido\n Diseñado por DAZMOND® , marca de lujo registrada en Estados Unidos, este bañador está confeccionado en un tejido técnico de microfibra de poliéster reciclado (91%) y spandex (9%), caracterizado por su secado ultra rápido, transpirabilidad superior y acabado repelente al agua. Su elasticidad en cuatro direcciones ( 4-way stretch ) garantiza una libertad de movimiento impecable. En el interior, incorpora un forro de malla técnico (92% poliéster, 8% spandex) de tacto sedoso y diseño antirrozaduras. Cuenta con certificación de protección solar UPF 50+ (FPU 50+), protegiendo la piel y manteniendo la nitidez de los trazos artísticos bajo la luz solar directa.\n Silueta, Estructura y Versatilidad\n Pensado para el hombre contemporáneo que busca dinamismo y sofisticación, este modelo cuenta con una cintura elástica con cordón de ajuste regulable que se",
       "images_original": [
-        "assets/products/shop/161615a7b2616a07ee38.jpg",
-        "assets/products/shop/c397f7516b71449885e4.jpg",
-        "assets/products/shop/a04d69445e3740350519.jpg",
-        "assets/products/shop/bd119fc81b36ab547cff.jpg",
-        "assets/products/shop/76eafedd428ea899eafc.jpg",
-        "assets/products/shop/c9664cbd3aaa11c2b7ee.jpg",
-        "assets/products/shop/bfbbb24560f973f90a1a.jpg",
         "https://files.cdn.printful.com/files/ad3/ad37bca08ae61e529ce2d47cfa4648dd_preview.png"
       ],
       "images_model": [],
@@ -52447,7 +52440,17 @@
       "details_es": "· Confección bajo demanda\n· Envío disponible a todo el mundo",
       "details_en": "· Made-to-order piece\n· Worldwide shipping available",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "men",
+      "_shop_photos": [
+        "assets/products/shop/161615a7b2616a07ee38.jpg",
+        "assets/products/shop/c397f7516b71449885e4.jpg",
+        "assets/products/shop/a04d69445e3740350519.jpg",
+        "assets/products/shop/bd119fc81b36ab547cff.jpg",
+        "assets/products/shop/76eafedd428ea899eafc.jpg",
+        "assets/products/shop/c9664cbd3aaa11c2b7ee.jpg",
+        "assets/products/shop/bfbbb24560f973f90a1a.jpg"
+      ]
     },
     {
       "id": "printful-351235260",
@@ -52574,7 +52577,8 @@
       "cg": "printful-351235260",
       "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Pantalones cortos de surf",
       "img_checked": "2026-11-22",
-      "ai_fail": 2
+      "ai_fail": 3,
+      "ai_done": true
     },
     {
       "id": "printful-351235755",
@@ -53005,7 +53009,7 @@
       "cg": "printful-351236871",
       "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño",
       "img_checked": "2026-11-22",
-      "ai_fail": 1
+      "ai_fail": 2
     },
     {
       "id": "printful-351237348",
