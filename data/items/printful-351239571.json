@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/3b7737733461c4245303.jpg",
+  "assets/products/shop/3979ecec387f9425c153.jpg",
+  "assets/products/shop/45c139af217e991b1220.jpg",
+  "assets/products/shop/c6d4bcc3cf0aef8889d1.jpg",
+  "assets/products/shop/674b48e8f1009f665fd8.jpg"
+ ],
  "ai_cats": [
   "hombre/banador"
  ],
@@ -28,6 +35,7 @@
  ],
  "draft": false,
  "fam": "luxury-monochrome-abstract",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351239571",
  "img_checked": "2026-11-23",
@@ -37,7 +45,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "recycled swim trunks",
  "name_en": "Monochrome Print Swim Trunks",
  "name_es": "Bañador Estampado Monocromo",
  "needs_review": false,
