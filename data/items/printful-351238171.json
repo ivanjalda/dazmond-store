@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/banador"
+ ],
+ "ai_color": "Red & Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Recycled fabric",
+ "ai_type": "swim trunks",
+ "ai_ver": 2,
+ "art_note": "Flat vector-like mockup on a plain white background lacking luxurious depth and staging.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351238171",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A modern reinterpretation of the classic plaid pattern. This design merges clean lines with a bold and distinctive aesthetic. Each piece is meticulously crafted upon request. Available for worldwide shipping.",
+ "desc_es": "Una reinterpretación moderna del clásico estampado de cuadros. Este diseño combina líneas depuradas con una estética audaz y distintiva. Cada pieza se elabora meticulosamente bajo demanda. Disponible para envíos a todo el mundo.",
+ "details_en": "· Crafted from recycled fabric\n· Made to order",
+ "details_es": "· Confeccionado con tejido reciclado\n· Hecho bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/fd2/fd21308841ca349b323c15d2657d9130_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Buffalo Plaid Jewel Swimwear · Black",
- "name_es": "Bañador Buffalo Plaid Jewel · Negro",
+ "name_en": "Buffalo Plaid Jewel Emblem Swim Trunks",
+ "name_es": "Bañador Buffalo Plaid con Emblema",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 75.99,
  "rank": 380,
