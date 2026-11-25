@@ -1,4 +1,16 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/8c580615b8300fa9a2b1.jpg",
+  "assets/products/shop/1d8b7511f88bed43d53e.jpg",
+  "assets/products/shop/2ea2a54c20586015d2d2.jpg",
+  "assets/products/shop/81d8432ab990dfb229d9.jpg",
+  "assets/products/shop/314a5b17633a5a04e406.jpg",
+  "assets/products/shop/98ee3b40851285096f8b.jpg",
+  "assets/products/shop/fe43c27337e7fefd9341.jpg",
+  "assets/products/shop/82e384997e49a8e2892a.jpg",
+  "assets/products/shop/eb8b2d4324aaf564c56e.jpg",
+  "assets/products/shop/63337a6cc1744fd321f6.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +40,7 @@
  ],
  "draft": false,
  "fam": "luxury-cyber-matrix",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351228269",
  "img_checked": "2026-11-22",
@@ -37,7 +50,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Cyber Matrix String Bikini",
  "name_es": "Bikini de Cintas Cyber Matrix",
  "needs_review": false,

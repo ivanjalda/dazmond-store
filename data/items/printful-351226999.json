@@ -1,4 +1,16 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/6318ab49e10d0bcb4d10.jpg",
+  "assets/products/shop/ec1cc9a76d8d1dff3efd.jpg",
+  "assets/products/shop/22f24ba73412a86907fc.jpg",
+  "assets/products/shop/72a4a0b3f320a6ec4f64.jpg",
+  "assets/products/shop/133c7ef30683c68152bc.jpg",
+  "assets/products/shop/890cb6cb0f620d35c914.jpg",
+  "assets/products/shop/1206fd17ee032bf16e18.jpg",
+  "assets/products/shop/2de4950538c5f6241d8d.jpg",
+  "assets/products/shop/7f9ea04efb6a99e8160c.jpg",
+  "assets/products/shop/bd4ec8b1a256f6e8bb38.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +40,7 @@
  ],
  "draft": false,
  "fam": "luxury-monochrome-avant",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351226999",
  "img_checked": "2026-11-22",
@@ -37,7 +50,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Monochrome Avant-Garde Triangle Bikini",
  "name_es": "Bikini Triángulo Monochrome Avant-Garde",
  "needs_review": false,

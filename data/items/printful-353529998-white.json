@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Fleece",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, standard e-commerce presentation lacking high-end mood lighting.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-353529998",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of contemporary comfort. These white fleece shorts define the new standard for urban downtime. Tailored for the man who values an impeccable silhouette without compromising on a comforting feel. Each piece is crafted to order in our ateliers. We offer worldwide shipping. An essential garment to complete your personal selection.",
+ "desc_es": "Una expresión depurada de la comodidad contemporánea. Estas bermudas de fleece en tono blanco definen el nuevo estándar del descanso urbano. Diseñadas para el hombre que valora la silueta impecable sin renunciar al tacto envolvente. Cada pieza se confecciona bajo pedido en nuestros talleres. Realizamos envíos a todo el mundo. Una prenda esencial para completar su selección personal.",
+ "details_en": "· Made to order\n· Available for worldwide shipping",
+ "details_es": "· Confección bajo pedido\n· Disponible para envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/c2a/c2a274105352faa0817f3ff333fbb2f5_preview.png"
  ],
@@ -27,6 +41,7 @@
  "name_en": "Blessed Fleece Shorts · White",
  "name_es": "Bermudas Fleece Blessed · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 336,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/ropa-interior"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Boxer Briefs",
+ "ai_ver": 2,
+ "art_note": "Generic flat-lay template mockup with a pasted graphic, lacking high-end luxury editorial standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350700341",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined interpretation of essential men's underwear. The Emerald Shield boxer briefs redefine daily comfort with a precise silhouette. Designed to offer an impeccable fit under any garment. Made to order with worldwide shipping.",
+ "desc_es": "Una interpretación depurada de la lencería masculina esencial. Los calzoncillos bóxer Emerald Shield redefinen la comodidad cotidiana con una silueta precisa. Diseñados para ofrecer un ajuste impecable bajo cualquier prenda. Confección bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/73c/73c0913f75761ddbbb4d0006c22f369a_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Emerald Shield Boxer Underwear · White",
- "name_es": "Ropa Interior Emerald Shield Boxer · Blanco",
+ "name_en": "Emerald Shield Boxer Briefs",
+ "name_es": "Calzoncillos Bóxer Emerald Shield",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 372,

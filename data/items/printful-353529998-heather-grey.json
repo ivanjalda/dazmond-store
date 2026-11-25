@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "Heather Grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-353529998",
  "color": "Heather Grey",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of casual comfort. Designed with a relaxed silhouette and soft fleece fabric that redefines daily downtime. This piece combines a polished aesthetic with effortless functionality. The heather grey tone brings timeless versatility to the wardrobe. Each garment is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una expresión refinada de confort casual. Diseñada con una silueta relajada y un tejido de felpa suave que redefine el descanso diario. Esta pieza combina una estética pulida con una funcionalidad sin esfuerzo. El tono gris jaspeado aporta una versatilidad atemporal al guardarropa. Cada prenda se elabora bajo pedido para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/862/862212788cccdfc825d1d01ba6801a61_preview.png"
  ],
@@ -27,6 +40,7 @@
  "name_en": "Blessed Fleece Shorts · Heather Grey",
  "name_es": "Bermudas Fleece Blessed · Heather Grey",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 335,

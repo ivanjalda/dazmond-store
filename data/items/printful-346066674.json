@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/ropa-interior"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "boxer briefs",
+ "ai_ver": 2,
+ "art_note": "Clean hanger shot, but lacks the sophisticated lighting and styling expected of a top luxury tier e-commerce.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-346066674",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential piece from the intimate collection. High-precision tailoring featuring an all-over print that evokes fluid movement and lightness. Refined silhouette engineered for absolute comfort and impeccable support. Each piece is meticulously crafted to order in our workshops. Worldwide shipping available to complete your selection.",
+ "desc_es": "Una pieza esencial de la colección íntima. Confección de alta precisión con un estampado integral que evoca movimiento y ligereza. Silueta depurada diseñada para un confort absoluto y una sujeción impecable. Cada pieza se elabora meticulosamente bajo pedido en nuestros talleres. Envíos disponibles a todo el mundo para completar su selección.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/451/451a7acf1bd6b8e5080417bf54f5d0e0_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Bubble Flow Boxers Underwear · White",
- "name_es": "Ropa Interior Bubble Flow Boxers · Blanco",
+ "name_en": "Bubble Flow Boxer Briefs",
+ "name_es": "Bóxer Briefs Bubble Flow",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 358,

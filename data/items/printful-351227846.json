@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/d953854810febe672375.jpg",
+  "assets/products/shop/6760edc0a0fa5a8e1406.jpg",
+  "assets/products/shop/0bb3bcf03a403bebb6dd.jpg",
+  "assets/products/shop/5fa8d06fed06cfee8fdd.jpg",
+  "assets/products/shop/ffb2b2f5b7abd7f96c01.jpg",
+  "assets/products/shop/d0cba30a6fd95576ed78.jpg",
+  "assets/products/shop/35c6e39306214588cf8b.jpg",
+  "assets/products/shop/69655c39742210358835.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +38,7 @@
  ],
  "draft": false,
  "fam": "luxury-crimson-orchid",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351227846",
  "img_checked": "2026-11-22",
@@ -37,7 +48,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Crimson Orchid String Bikini",
  "name_es": "Bikini de Cuerdas Crimson Orchid",
  "needs_review": false,
