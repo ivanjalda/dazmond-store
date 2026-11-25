@@ -55,6 +55,10 @@ NAMES = {
     "caleido": ["Baroque Mirror", "Gold Mandala", "Royal Ornament", "Versailles", "Golden Lace"],
     "frase": ["Statement"],
     "celosia": ["Diamond Lattice", "Harlequin Gold", "Grand Lattice", "Gilded Grid"],
+    "wordmark": ["Signature Logo", "Maison Logo", "Bold Logo", "Grand Logo"],
+    "minimal": ["Essential Logo", "Chest Logo", "Classic Logo"],
+    "monogram": ["D Monogram", "Signature Monogram", "Diamond Monogram"],
+    "plaque": ["Diamond Plaque", "Maison Plaque", "Gold Plaque"],
 }
 # Productos que se crean de cada estilo (claves de data/plantillas.json)
 TEMPLATES = {
@@ -63,6 +67,10 @@ TEMPLATES = {
     "caleido": "camiseta-sudadera-capucha-cojin-bolso",
     "frase": "camiseta-sudadera-capucha-sudadera",
     "celosia": "cojin-bolso-taza-lamina",
+    "wordmark": "camiseta-camiseta-premium-sudadera-capucha-sudadera",
+    "minimal": "camiseta-premium-polo-sudadera-capucha-sudadera",
+    "monogram": "sudadera-capucha-cojin-bolso-taza",
+    "plaque": "camiseta-sudadera-capucha-bolso-taza",
 }
 
 
@@ -169,7 +177,7 @@ def style_emblema(rng, name):
         rad = 22 if i % 2 else 12
         d.ellipse([x - rad, y - rad, x + rad, y + rad], fill=255)
     diamond(d, cx, cy - 40, 1300, lw + 6)
-    text_center(d, cx, int(H * 0.69), "DAZMOND & Co.", font(FONT_SERIF, 430), spacing=26)
+    text_center(d, cx, int(H * 0.69), "DAZMOND", font(FONT_SERIF, 520), spacing=60)
     d.line([(cx - 900, int(H * 0.79)), (cx + 900, int(H * 0.79))], fill=255, width=8)
     text_center(d, cx, int(H * 0.805), "AMERICAN LUXURY HOUSE", font(FONT_SANS, 150), spacing=60)
     return m
@@ -193,7 +201,7 @@ def style_deco(rng, name):
         d.line([(x, base + 60), (x, base + 260)], fill=255, width=max(6, lw // 2))
     diamond(d, cx, base - 330, 380, lw)
     text_center(d, cx, base + 380, name.upper(), font(FONT_SERIF, 300), spacing=30)
-    text_center(d, cx, base + 760, "DAZMOND & Co.", font(FONT_SANS, 150), spacing=50)
+    text_center(d, cx, base + 760, "DAZMOND", font(FONT_SANS, 150), spacing=50)
     return m
 
 
@@ -230,7 +238,7 @@ def style_caleido(rng, name):
     m.paste(tile, ((W - size) // 2, int(H * 0.06)))
     dm = ImageDraw.Draw(m)
     text_center(dm, W // 2, int(H * 0.78), name.upper(), font(FONT_SERIF, 280), spacing=28)
-    text_center(dm, W // 2, int(H * 0.86), "DAZMOND & Co.", font(FONT_SANS, 140), spacing=48)
+    text_center(dm, W // 2, int(H * 0.86), "DAZMOND", font(FONT_SANS, 140), spacing=48)
     return m
 
 
@@ -245,7 +253,7 @@ def style_frase(rng, name, slogan):
     d.line([(cx + 260, int(H * 0.47)), (cx + 1500, int(H * 0.47))], fill=255, width=10)
     diamond(d, cx, int(H * 0.465), 300, 12)
     text_center(d, cx, int(H * 0.53), small, font(FONT_SANS, 260 if len(small) <= 14 else 210), spacing=70)
-    text_center(d, cx, int(H * 0.70), "DAZMOND & Co.", font(FONT_SERIF, 220), spacing=30)
+    text_center(d, cx, int(H * 0.70), "DAZMOND", font(FONT_SERIF, 220), spacing=30)
     return m
 
 
@@ -266,6 +274,61 @@ def style_celosia(rng, name):
     return m
 
 
+def style_wordmark(rng, name):
+    """Logo gigante, estilo casas de moda actuales: solo la palabra DAZMOND."""
+    m = Image.new("L", (W, H), 0)
+    d = ImageDraw.Draw(m)
+    cx = W // 2
+    f = font(FONT_SANS, 620)
+    text_center(d, cx, int(H * 0.35), "DAZMOND", f, spacing=10)
+    d.line([(cx - 1700, int(H * 0.53)), (cx + 1700, int(H * 0.53))], fill=255, width=14)
+    text_center(d, cx, int(H * 0.56), rng.choice(["MAISON", "ATELIER", "COUTURE", "USA"]), font(FONT_SANS, 200), spacing=110)
+    return m
+
+
+def style_minimal(rng, name):
+    """Logo pequeño en el pecho, sobrio y elegante."""
+    m = Image.new("L", (W, H), 0)
+    d = ImageDraw.Draw(m)
+    cx = W // 2
+    diamond(d, cx, int(H * 0.12), 520, 18)
+    text_center(d, cx, int(H * 0.19), "DAZMOND", font(FONT_SERIF, 420), spacing=60)
+    return m
+
+
+def style_monogram(rng, name):
+    """Monograma propio repetido: la D con el diamante (patrón de la casa)."""
+    m = Image.new("L", (W, H), 0)
+    d = ImageDraw.Draw(m)
+    s = rng.choice([620, 700])
+    fD = font(FONT_SERIF, int(s * 0.55))
+    fW = font(FONT_SANS, int(s * 0.13))
+    for row in range(-1, H // s + 2):
+        for col in range(-1, W // s + 2):
+            cx = col * s + (s // 2 if row % 2 else 0)
+            cy = row * s
+            if (row + col) % 2 == 0:
+                d.text((cx - d.textlength("D", font=fD) / 2, cy - s * 0.32), "D", font=fD, fill=255)
+                diamond(d, cx, cy + s * 0.28, s * 0.16, 6)
+            else:
+                text_center(d, cx, cy - s * 0.05, "DAZMOND", fW, spacing=int(s * 0.03))
+    return m
+
+
+def style_plaque(rng, name):
+    """Placa en forma de diamante con el nombre, como la chapa de un bolso de lujo."""
+    m = Image.new("L", (W, H), 0)
+    d = ImageDraw.Draw(m)
+    cx, cy = W // 2, int(H * 0.36)
+    for k, inset in enumerate((0, 70)):
+        w, h = 1900 - inset, 1150 - inset
+        pts = [(cx, cy - h), (cx + w, cy), (cx, cy + h), (cx - w, cy)]
+        d.polygon(pts, outline=255, width=22 if k == 0 else 8)
+    text_center(d, cx, cy - 290, "DAZMOND", font(FONT_SERIF, 360), spacing=30)
+    text_center(d, cx, cy + 200, rng.choice(["MAISON", "LUXURY HOUSE", "ATELIER"]), font(FONT_SANS, 150), spacing=80)
+    return m
+
+
 def make(style, rng, used):
     if style == "frase":
         free = [s for s in SLOGANS if " ".join(s) not in used] or SLOGANS
@@ -273,7 +336,9 @@ def make(style, rng, used):
         name = " ".join(w.capitalize() for w in " ".join(slogan).split())
         return name, style_frase(rng, name, slogan)
     name = rng.choice(NAMES[style])
-    fn = {"emblema": style_emblema, "deco": style_deco, "caleido": style_caleido, "celosia": style_celosia}[style]
+    fn = {"emblema": style_emblema, "deco": style_deco, "caleido": style_caleido, "celosia": style_celosia,
+          "wordmark": style_wordmark, "minimal": style_minimal, "monogram": style_monogram,
+          "plaque": style_plaque}[style]
     return name, fn(rng, name)
 
 
@@ -295,7 +360,7 @@ def main():
         print(f"[estudio] Hoy ya hay {done_today} diseños nuevos. Nada que hacer.")
         return 0
     os.makedirs(OUT, exist_ok=True)
-    styles = ["emblema", "deco", "caleido", "frase", "celosia"]
+    styles = conf.get("styles") or ["emblema", "wordmark", "monogram", "minimal", "plaque", "frase"]
     used = {x["name"] for x in state["made"]}
     made = 0
     while done_today + made < per_day:
