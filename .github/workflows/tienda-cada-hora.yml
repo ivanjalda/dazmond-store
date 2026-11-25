@@ -32,6 +32,9 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+      INTERESTPRINT_APPKEY: ${{ secrets.INTERESTPRINT_APPKEY }}
+      INTERESTPRINT_APPSECRET: ${{ secrets.INTERESTPRINT_APPSECRET }}
+      INTERESTPRINT_STOREID: ${{ secrets.INTERESTPRINT_STOREID }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
