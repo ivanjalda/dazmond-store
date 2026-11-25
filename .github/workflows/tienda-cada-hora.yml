@@ -77,6 +77,8 @@ jobs:
 
       - name: 3c. Publicar en Instagram y Facebook (2 veces al día)
         continue-on-error: true
+        env:
+          META_FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: python scripts/meta_publisher.py
 
       - name: 4. Enviar los pedidos nuevos a los talleres
