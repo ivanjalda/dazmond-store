@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:41:51Z",
+  "updated": "2026-11-25T20:11:42Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -53073,10 +53073,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "DAZMOND® Luxury \"Navy Geometric Chevron & Line Art\" Premium Men's Swim Trunks All-Over Print Recycled Swim Trunks (White / 2XS) White",
-      "name_es": "Bañador Geometric Chevron Line · Blanco",
-      "name_en": "Geometric Chevron Line Swimwear · White",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "name_es": "Bañador Geométrico Navy",
+      "name_en": "Navy Geometric Swim Trunks",
+      "desc_es": "Una expresión depurada de diseño contemporáneo. Este modelo presenta un motivo geométrico de líneas depuradas sobre un fondo de tono profundo. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+      "desc_en": "A refined expression of contemporary design. This piece features a clean geometric line motif set against a deep tone background. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
       "price_usd": 75.99,
       "margin_pct": 20.9,
       "shipping_usd": 7.0,
@@ -53137,7 +53137,32 @@
       "cg": "printful-351237348",
       "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño",
       "img_checked": "2026-11-22",
-      "ai_fail": 2
+      "ai_fail": 2,
+      "art_score": 3,
+      "art_note": "Flat, template-style product render typical of print-on-demand suppliers lacking high-end studio lighting and depth.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://files.cdn.printful.com/files/2e4/2e41fd31271c542e0f91c309b3169c01_preview.png",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "swim trunks",
+      "ai_gender": "men",
+      "ai_color": "Navy",
+      "ai_material": "Recycled",
+      "ai_cats": [
+        "hombre/banador"
+      ],
+      "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
+      "details_en": "· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printful-351238171",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/banador"
+ ],
+ "ai_color": "Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Recycled",
+ "ai_type": "swim trunks",
+ "ai_ver": 2,
+ "art_note": "Flat, template-style product render typical of print-on-demand suppliers lacking high-end studio lighting and depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351237348",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined expression of contemporary design. This piece features a clean geometric line motif set against a deep tone background. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una expresión depurada de diseño contemporáneo. Este modelo presenta un motivo geométrico de líneas depuradas sobre un fondo de tono profundo. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/2e4/2e41fd31271c542e0f91c309b3169c01_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Geometric Chevron Line Swimwear · White",
- "name_es": "Bañador Geometric Chevron Line · Blanco",
+ "name_en": "Navy Geometric Swim Trunks",
+ "name_es": "Bañador Geométrico Navy",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 75.99,
  "rank": 379,
