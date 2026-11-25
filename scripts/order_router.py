@@ -6,7 +6,8 @@ DAZMOND & Co. — Pedidos automáticos (solo Python estándar). Se ejecuta cada 
   2. Las que aún no se han enviado al taller:
        - Printify  → crea el pedido y lo manda a producción, solo.
        - Printful  → crea el pedido y lo confirma, solo.
-       - POPCUSTOMS, Inkpod, InterestPrint y otros → te manda a Telegram todos los datos
+       - InterestPrint → crea el pedido con su API (si están sus 3 llaves), solo.
+       - POPCUSTOMS, Inkpod y otros → te manda a Telegram todos los datos
          para que lo pidas tú en su web en 1 minuto.
   3. Marca la compra en Stripe como "enviada" para no repetirla nunca.
   4. Te avisa de cada venta por Telegram.
@@ -86,6 +87,64 @@ def send_printful(p, vid, qty, a, ref, cfg):
     return f"printful:{(order.get('result') or {}).get('id')}"
 
 
+def _php_query(data, prefix=""):
+    """Igual que http_build_query de PHP (InterestPrint lo espera así)."""
+    import urllib.parse
+    out = []
+    if isinstance(data, dict):
+        items = data.items()
+    else:
+        items = enumerate(data)
+    for k, v in items:
+        key = f"{prefix}[{k}]" if prefix else str(k)
+        if isinstance(v, (dict, list)):
+            out.append(_php_query(v, key))
+        else:
+            out.append(urllib.parse.urlencode({key: "" if v is None else v}))
+    return "&".join(x for x in out if x)
+
+
+def send_interestprint(p, size, qty, a, ref, amount):
+    import hashlib
+    import hmac
+    import json as _json
+    import time as _time
+    import urllib.request
+    key, secret, store = env("INTERESTPRINT_APPKEY"), env("INTERESTPRINT_APPSECRET"), env("INTERESTPRINT_STOREID")
+    sku = str((p.get("sku_map") or {}).get(size or "unica") or p.get("supplier_sku") or p.get("supplier_id") or "")
+    if not sku:
+        raise RuntimeError("el producto no tiene SKU de InterestPrint")
+    site = "https://dazmond.com"
+    imgs = [i if i.startswith("http") else f"{site}/{i.lstrip('/')}" for i in (p.get("display_images") or [])][:4]
+    oid = "dz-" + ref[-20:].lower().replace("_", "-")
+    body = {
+        "order": {"customer": a["name"], "address1": a["line1"], "address2": a["line2"], "country": a["country"],
+                  "state": a["state"], "city": a["city"], "postalcode": a["zip"], "phone": a["phone"] or "0",
+                  "memo": "", "add_time": NOW.strftime("%Y-%m-%d %H:%M:%S"), "id": oid, "currency": "USD",
+                  "shipping_name": "Standard", "total_amout": round(amount, 2), "email": a["email"]},
+        "items": [{"quantity": qty, "id": oid + "-1", "shipping_price": 0, "product_price": p.get("price_usd", 0),
+                   "product_sku": sku, "memo": ""}],
+        "products": [{"product_sku": sku, "brand": "DAZMOND", "title": p.get("source_title") or p.get("name_en", ""),
+                      "images": imgs, "size": size or "", "color": p.get("color", ""), "supplier_sku": sku,
+                      "prints": []}],
+    }
+    auth = {"AppKey": key, "StoreID": store, "Timestamp": str(int(_time.time()))}
+    base = "&".join(f"{k}={auth[k]}" for k in sorted(auth))
+    auth["Sign"] = hmac.new(secret.encode(), base.encode(), hashlib.md5).hexdigest()
+    data = (_php_query(body) + "&" + _php_query(auth)).encode()
+    req = urllib.request.Request("https://app.interestprint.com/api/order/create", data=data, method="POST",
+                                 headers={"Content-Type": "application/x-www-form-urlencoded"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        txt = r.read().decode()
+    try:
+        res = _json.loads(txt)
+    except Exception:
+        raise RuntimeError(f"respuesta rara de InterestPrint: {txt[:200]}")
+    if str(res.get("code", res.get("status", ""))) not in ("0", "200", "1", "true", "success") and not res.get("success"):
+        raise RuntimeError(f"InterestPrint dijo: {str(res)[:250]}")
+    return f"interestprint:{oid}"
+
+
 def manual(p, head, size, qty, a, ref):
     sku = (p.get("sku_map") or {}).get(size or "unica") or ""
     notify(f"{head}\n\n👉 Haz este pedido tú en {p.get('supplier')}:\n"
@@ -149,6 +208,14 @@ def main():
                     cfg.setdefault("orders", {})["printful_manual"] = True
                     save_json("config.json", cfg)
                     result = manual(p, head, size, qty, a, ref)
+            elif supplier == "interestprint" and env("INTERESTPRINT_APPKEY") and env("INTERESTPRINT_STOREID"):
+                try:
+                    result = send_interestprint(p, size, qty, a, ref, amount)
+                    notify(f"{head}\n✓ Pedido enviado solo a InterestPrint ({result}).")
+                except Exception as e:
+                    log(f"InterestPrint automático falló: {str(e)[:200]}")
+                    result = manual(p, head + f"\n(El envío automático a InterestPrint falló: {str(e)[:150]})",
+                                    size, qty, a, ref)
             else:
                 result = manual(p, head, size, qty, a, ref)
             stripe(f"/payment_intents/{pi_id}", {f"metadata[{FLAG}]": result})
