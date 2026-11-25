@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with standard lighting, elevated by sophisticated house branding.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,14 +21,14 @@
  "cg": "printify-6b06455efb3b556d1c04ed5f",
  "color": "Black",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A statement of understated elegance and commanding presence. This deep black silhouette is defined by clean lines and an impeccable structure. The signature house emblem provides a refined contrast with golden accents. Designed for those who master the art of sophisticated discretion, it offers an immaculate drape and enveloping comfort. Each piece is crafted exclusively to order. Available with worldwide shipping.",
+ "desc_es": "Una declaración de elegancia sobria y presencia imponente. Esta silueta en tono negro profundo se define por líneas limpias y una estructura impecable. El distintivo emblema de la casa aporta un contraste refinado con acentos dorados. Diseñada para quienes dominan el arte de la discreción sofisticada, ofrece una caída impecable y una comodidad envolvente. Cada pieza se confecciona exclusivamente bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://images.printify.com/mockup/6b06455efb3b556d1c04ed5f/25459/98502/house-seal-crewneck.jpg?camera_label=front",
   "https://images.printify.com/mockup/6b06455efb3b556d1c04ed5f/25459/98503/house-seal-crewneck.jpg?camera_label=back",
-  "https://images.printify.com/mockup/6b06455efb3b556d1c04ed5f/25459/100648/house-seal-crewneck.jpg?camera_label=folded",
-  "https://images.printify.com/mockup/6b06455efb3b556d1c04ed5f/25459/128101/house-seal-crewneck.jpg?camera_label=folded-2",
-  "https://images.printify.com/mockup/6b06455efb3b556d1c04ed5f/25459/110127/house-seal-crewneck.jpg?camera_label=size-chart"
+  "https://images.printify.com/mockup/6b06455efb3b556d1c04ed5f/25459/100648/house-seal-crewneck.jpg?camera_label=folded"
  ],
  "draft": false,
  "fam": "house-seal-crewneck",
@@ -30,9 +42,10 @@
   "printify-6b064539fb3b556d1c04ed2a"
  ],
  "material": "",
- "name_en": "House Seal Sweatshirt · Black",
- "name_es": "Sudadera House Seal · Negro",
+ "name_en": "House Seal Black Crewneck",
+ "name_es": "Sudadera House Seal Negra",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 45.99,
  "rank": 14,
@@ -40,8 +53,115 @@
  "shipping_worst_usd": 8.79,
  "shop_category": "",
  "shop_verified": false,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Width (in)",
+   "Length (in)",
+   "Sleeve length (in)",
+   "Width (cm)",
+   "Length (cm)",
+   "Sleeve length (cm)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho (in)",
+   "Largo (in)",
+   "Largo de manga (in)",
+   "Ancho (cm)",
+   "Largo (cm)",
+   "Largo de manga (cm)"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by +/- 1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +/- 1.5 in (3.8 cm) debido a las tolerancias de fabricación.",
+  "rows": [
+   [
+    "XS",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "S",
+    "20.0",
+    "27.0",
+    "33.5",
+    "50.8",
+    "68.6",
+    "85.0"
+   ],
+   [
+    "M",
+    "22.0",
+    "28.0",
+    "34.5",
+    "55.9",
+    "71.1",
+    "87.6"
+   ],
+   [
+    "L",
+    "24.0",
+    "29.0",
+    "35.5",
+    "61.0",
+    "73.6",
+    "90.2"
+   ],
+   [
+    "XL",
+    "26.0",
+    "30.0",
+    "36.5",
+    "66.0",
+    "76.2",
+    "92.7"
+   ],
+   [
+    "2XL",
+    "28.0",
+    "31.0",
+    "37.5",
+    "71.1",
+    "78.7",
+    "96.3"
+   ],
+   [
+    "3XL",
+    "30.0",
+    "32.0",
+    "38.5",
+    "76.2",
+    "81.3",
+    "97.8"
+   ],
+   [
+    "4XL",
+    "32.0",
+    "33.0",
+    "39.5",
+    "81.3",
+    "83.8",
+    "100.3"
+   ],
+   [
+    "5XL",
+    "34.0",
+    "34.0",
+    "40.5",
+    "86.4",
+    "86.4",
+    "102.9"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b06455efb3b556d1c04ed5f/25459/110127/house-seal-crewneck.jpg?camera_label=size-chart"
+ ],
  "sizes": [
   "2XL",
   "XL",
