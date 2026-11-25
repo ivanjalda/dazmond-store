@@ -31,6 +31,7 @@ jobs:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -60,8 +61,16 @@ jobs:
       - name: 3. Motor de la tienda (catálogo, precios, secciones, enlaces de pago)
         run: python scripts/autonomous_store_engine.py
 
+      - name: 3a. Vigilante (revisa y corrige errores solo)
+        continue-on-error: true
+        run: python scripts/vigilante.py
+
       - name: 3b. Páginas de producto y catálogos para Google, Bing, Pinterest, Meta y TikTok
         run: python scripts/feeds_and_pages.py
+
+      - name: 3c. Publicar en Instagram y Facebook (2 veces al día)
+        continue-on-error: true
+        run: python scripts/meta_publisher.py
 
       - name: 4. Enviar los pedidos nuevos a los talleres
         run: python scripts/order_router.py
