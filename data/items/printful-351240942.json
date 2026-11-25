@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/f1db5af60a266aaa7378.jpg",
+  "assets/products/shop/ee280a87278aaac3f21b.jpg",
+  "assets/products/shop/fcee5c82cac89772b646.jpg",
+  "assets/products/shop/9eead3eaf9b2570da29a.jpg",
+  "assets/products/shop/8590a9f2c78fe4a2f579.jpg"
+ ],
  "ai_cats": [
   "hombre/banador"
  ],
@@ -28,6 +35,7 @@
  ],
  "draft": false,
  "fam": "luxury-indigo-tie",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351240942",
  "img_checked": "2026-11-23",
@@ -37,7 +45,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Indigo Tie-Dye Swim Trunks",
  "name_es": "Bañador Indigo Tie-Dye",
  "needs_review": false,

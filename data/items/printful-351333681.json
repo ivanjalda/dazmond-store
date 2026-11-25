@@ -1,4 +1,12 @@
 {
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "accessories",
+ "ai_ver": 2,
+ "art_note": "Standard studio product render on pure white background, functional but lacks high-fashion atmospheric lighting or set design.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +15,10 @@
  "cg": "printful-351333681",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Refined contours meet graphic precision. The Monochrome Jewel travel mug by DAZMOND & Co. elevates daily functional objects through a sharp, architectural silhouette. Featuring a structured side handle and clear lid, it provides an uncompromising blend of utility and modern luxury for the urban commute. Engineered for effortless mobility without sacrificing presence.",
+ "desc_es": "Líneas depuradas y presencia gráfica definitiva. La taza de viaje Monochrome Jewel de DAZMOND & Co. redefine los accesorios de diario con una silueta contemporánea y una estética sobria. Diseñada con un asa ergonómica y tapa transparente para acompañar el ritmo urbano con precisión y estilo impecable. Una pieza concebida para la vida en movimiento, manteniendo una elegancia serena.",
+ "details_en": "· 25 oz capacity\n· Integrated ergonomic side handle\n· Clear lid included\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Capacidad de 25 oz (aprox. 740 ml)\n· Asa lateral ergonómica integrada\n· Tapa transparente incluida\n· Fabricado bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/4f9/4f917123318f5e09a92008430d2f85af_preview.png"
  ],
@@ -21,9 +31,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Monochrome Jewel Mug · White",
- "name_es": "Taza Monochrome Jewel · Blanco",
+ "name_en": "Monochrome Jewel Travel Mug",
+ "name_es": "Taza de Viaje Monochrome Jewel",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 385,

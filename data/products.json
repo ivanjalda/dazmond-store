@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T22:41:58Z",
+  "updated": "2026-11-25T23:41:57Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -53801,7 +53801,7 @@
       ],
       "needs_review": false,
       "created": "2026-11-22",
-      "material": "",
+      "material": "Recycled",
       "color": "White",
       "raw_images": [
         "https://files.cdn.printful.com/files/6e5/6e5eaeaa2da7239c7d746622910f7347_preview.png"
@@ -53837,7 +53837,7 @@
       "shop_verified": true,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DAZMOND® Luxury \"Indigo Tie-Dye Clouds & Crest Jewel\" Premium Men's Swim Trunks All-Over Print Recycled Swim Trunks (White / 2XS) White",
+      "source_text": "DAZMOND® Luxury \"Indigo Tie-Dye Clouds & Crest Jewel\" Premium Men's Swim Trunks All-Over Print Recycled Swim Trunks (White / 2XS) swim trunks White Recycled",
       "name_es": "Bañador Indigo Tie-Dye",
       "name_en": "Indigo Tie-Dye Swim Trunks",
       "desc_es": "Inspirados en las corrientes del mar y la estética contemporánea, estos bañadores presentan un diseño fluido con un patrón difuminado que evoca horizontes lejanos. Confeccionados con tejidos reciclados, ofrecen un equilibrio perfecto entre silueta depurada y confort absoluto. Cada pieza se elabora exclusivamente bajo demanda para garantizar una exclusividad atemporal. Ideales para estancias junto al agua y sofisticadas jornadas estivales. Disponible exclusivamente con envío mundial.",
@@ -53848,11 +53848,6 @@
       "shipping_worst_usd": 7.0,
       "details_src": "Espíritu Mediterráneo — Tie-Dye Azul Índigo y Nubes Orgánicas \n La moda de baño masculina abraza la frescura del océano y la serenidad del verano mediterráneo. El bañador DAZMOND® destaca por un envolvente estampado tie-dye de estilo artesanal que entrelaza matices azul índigo, cobalto y suaves ráfagas en blanco puro, evocando formaciones nubosas sobre un cielo costero. En la parte inferior izquierda, la pieza luce el distintivo monograma en relieve \"DAZ\" con incrustaciones de inspiración joyera y detalles multicolores, aportando un toque inconfundible de lujo y dinamismo contemporáneo.\n La Experiencia del Tejido\n Diseñado por DAZMOND® , marca de lujo registrada en Estados Unidos, este bañador está confeccionado en un tejido técnico de microfibra de poliéster reciclado (91%) y spandex (9%), caracterizado por su secado ultra rápido, transpirabilidad superior y acabado repelente al agua. Su elasticidad en cuatro direcciones ( 4-way stretch ) garantiza una libertad de movimiento impecable. En el interior, incorpora un forro de malla técnico (92% poliéster, 8% spandex) de tacto sedoso y diseño antirrozaduras. Cuenta con certificación de protección solar UPF 50+ (FPU 50+), protegiendo la piel y manteniendo la vitalidad de los tonos azules tras exposiciones prolongadas al sol y al agua de mar.\n Silueta, Estructura y Versatilidad\n Pensado para el hombre contemporáneo que busca un estilo relajado pero impecablemente estructurado, este modelo cuenta con una cintura elástica con cordón",
       "images_original": [
-        "assets/products/shop/f1db5af60a266aaa7378.jpg",
-        "assets/products/shop/ee280a87278aaac3f21b.jpg",
-        "assets/products/shop/fcee5c82cac89772b646.jpg",
-        "assets/products/shop/9eead3eaf9b2570da29a.jpg",
-        "assets/products/shop/8590a9f2c78fe4a2f579.jpg",
         "https://files.cdn.printful.com/files/6e5/6e5eaeaa2da7239c7d746622910f7347_preview.png"
       ],
       "images_model": [],
@@ -53924,7 +53919,15 @@
       "details_es": "· Hecho a pedido exclusivamente.\n· Envío mundial disponible.",
       "details_en": "· Made-to-order exclusively.\n· Worldwide shipping available.",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "men",
+      "_shop_photos": [
+        "assets/products/shop/f1db5af60a266aaa7378.jpg",
+        "assets/products/shop/ee280a87278aaac3f21b.jpg",
+        "assets/products/shop/fcee5c82cac89772b646.jpg",
+        "assets/products/shop/9eead3eaf9b2570da29a.jpg",
+        "assets/products/shop/8590a9f2c78fe4a2f579.jpg"
+      ]
     },
     {
       "id": "printful-351333681",
@@ -53957,10 +53960,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "DAZMOND® \"Monochrome Jewel\" (25 oz) Travel Mug with a Handle (White / 25 oz) White",
-      "name_es": "Taza Monochrome Jewel · Blanco",
-      "name_en": "Monochrome Jewel Mug · White",
-      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "name_es": "Taza de Viaje Monochrome Jewel",
+      "name_en": "Monochrome Jewel Travel Mug",
+      "desc_es": "Líneas depuradas y presencia gráfica definitiva. La taza de viaje Monochrome Jewel de DAZMOND & Co. redefine los accesorios de diario con una silueta contemporánea y una estética sobria. Diseñada con un asa ergonómica y tapa transparente para acompañar el ritmo urbano con precisión y estilo impecable. Una pieza concebida para la vida en movimiento, manteniendo una elegancia serena.",
+      "desc_en": "Refined contours meet graphic precision. The Monochrome Jewel travel mug by DAZMOND & Co. elevates daily functional objects through a sharp, architectural silhouette. Featuring a structured side handle and clear lid, it provides an uncompromising blend of utility and modern luxury for the urban commute. Engineered for effortless mobility without sacrificing presence.",
       "price_usd": 39.99,
       "margin_pct": 20.9,
       "shipping_usd": 7.0,
@@ -54004,7 +54007,28 @@
       "stripe_site": "https://dazmond.com",
       "cg": "printful-351333681",
       "shop_category": "Casa y jardín > Cocina y comedor > Objetos para llevar comida y bebida > Termos",
-      "img_checked": "2026-11-23"
+      "img_checked": "2026-11-23",
+      "art_score": 5,
+      "art_note": "Standard studio product render on pure white background, functional but lacks high-fashion atmospheric lighting or set design.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://files.cdn.printful.com/files/4f9/4f917123318f5e09a92008430d2f85af_preview.png",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "accessories",
+      "ai_gender": "unisex",
+      "ai_color": "white",
+      "details_es": "· Capacidad de 25 oz (aprox. 740 ml)\n· Asa lateral ergonómica integrada\n· Tapa transparente incluida\n· Fabricado bajo pedido\n· Envío a todo el mundo",
+      "details_en": "· 25 oz capacity\n· Integrated ergonomic side handle\n· Clear lid included\n· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printful-351333867",
