@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% elastano",
+ "ai_type": "pajama set",
+ "ai_ver": 2,
+ "art_note": "Clean product isolation on white, but lifestyle images feature standard flat-printed mockup aesthetics.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printify-6b066a4d58dd70255e0d3563",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefine nocturnal leisure with this relaxed silhouette. The design merges effortless comfort with a refined aesthetic. Crafted with meticulous attention to detail, it features a ribbed collar and fluid lines that follow the natural movement of the body. An essential piece for moments of absolute tranquility at home. Available exclusively made to order with worldwide shipping.",
+ "desc_es": "Redefina el descanso nocturno con esta silueta relajada. El diseño combina una comodidad impecable con una estética depurada. Confeccionado con atención al detalle, presenta un cuello acanalado y líneas fluidas que acompañan el movimiento natural del cuerpo. Una pieza esencial para los momentos de tranquilidad absoluta en casa. Disponible exclusivamente bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% elastane\n· Relaxed fit\n· Ribbed collar\n· Seamless sleeves\n· Sewn-in label on the inner side seam of the shirt\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 95 % poliéster, 5 % elastano\n· Ajuste relajado\n· Cuello acanalado\n· Sin costuras en las mangas\n· Etiqueta cosida en la costura lateral interna de la camisa\n· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b066a4d58dd70255e0d3563/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a4d58dd70255e0d3563/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
@@ -26,9 +40,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Conjunto Pijama Corto Loungewear · White",
- "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+ "name_en": "Short Pajama Set",
+ "name_es": "Conjunto de Pijama Corto",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 48.99,
  "rank": 48,

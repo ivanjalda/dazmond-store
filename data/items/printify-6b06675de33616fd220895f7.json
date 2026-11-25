@@ -1,22 +1,36 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
+ ],
+ "ai_color": "black, yellow, silver",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "EVA, polyester, PVC",
  "ai_priority": true,
+ "ai_type": "flip-flops",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with standard e-commerce presentation, though lifestyle and graphic background mockups appear artificial.",
+ "art_score": 5,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hombre",
-  "calzado-mujer/zapatillas"
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
  ],
  "cg": "printify-6b06675de33616fd220895f7",
  "color": "Black sole",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your summer downtime with this refined silhouette of essential design. Conceived to offer superior comfort during warmer days, these flip-flops combine cushioned support with a distinctive high-definition graphic finish. An indispensable piece for sophisticated escapes, available made to order with worldwide shipping.",
+ "desc_es": "Eleve sus momentos de descanso estival con esta refinada silueta de diseño esencial. Concebidas para ofrecer una comodidad superior durante los días más cálidos, estas chanclas combinan un soporte acolchado con un distintivo acabado gráfico de alta definición. Una pieza indispensable para escapadas sofisticadas, disponible bajo pedido y con envíos a todo el mundo.",
+ "details_en": "· Made of EVA, polyester, and PVC\n· 5/8\" (15 mm) thick EVA outsole with textured bottom\n· 100% polyester suede sole\n· PVC strap\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Fabricadas en EVA, poliéster y PVC\n· Suela de EVA de 5/8\" (15 mm) de espesor con fondo texturizado\n· Suela de ante 100% poliéster\n· Correa de PVC\n· Producto bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06675de33616fd220895f7/72175/15337/chancletas-daz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06675de33616fd220895f7/72175/15342/chancletas-daz.jpg?camera_label=front-sole",
   "https://images-api.printify.com/mockup/6b06675de33616fd220895f7/72175/15339/chancletas-daz.jpg?camera_label=close-up",
-  "https://images-api.printify.com/mockup/6b06675de33616fd220895f7/72175/15326/chancletas-daz.jpg?camera_label=context-1",
-  "https://images-api.printify.com/mockup/6b06675de33616fd220895f7/72175/15331/chancletas-daz.jpg?camera_label=context-2",
   "https://images-api.printify.com/mockup/6b06675de33616fd220895f7/72176/15336/chancletas-daz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06675de33616fd220895f7/72176/15341/chancletas-daz.jpg?camera_label=front-sole",
   "https://images-api.printify.com/mockup/6b06675de33616fd220895f7/72176/15338/chancletas-daz.jpg?camera_label=close-up"
@@ -30,12 +44,13 @@
   "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printify-6b06674fd3c2aadbe1007e0e"
+  "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Chancletas Daz Sneakers · Black",
- "name_es": "Zapatillas Chancletas Daz · Negro",
+ "name_en": "DAZ Black Sole Flip-Flops",
+ "name_es": "Chanclas DAZ Black Sole",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 19,

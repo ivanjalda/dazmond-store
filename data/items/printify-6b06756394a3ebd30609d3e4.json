@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "transparent",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "glass",
+ "ai_type": "shot glass",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation paired with refined lifestyle staging conveys an elevated, atmospheric luxury narrative.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,15 @@
  "cg": "printify-6b06756394a3ebd30609d3e4",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A piece of glassware conceived for the refined detail. Crafted from premium transparent glass, this shot glass merges precise proportions with a clean silhouette. The solid base provides weight and stability, balancing aesthetics with absolute functionality. An essential accessory for the most exclusive moments. Designed to endure, available made to order with worldwide shipping.",
+ "desc_es": "Una pieza de cristalería concebida para el detalle. Elaborado en vidrio transparente de calidad superior, este vaso de chupito combina proporciones precisas con una silueta depurada. La base sólida aporta peso y estabilidad, equilibrando la estética con la funcionalidad. Un accesorio esencial para los momentos más exclusivos. Diseñado para perdurar, disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Transparent glass\n· 1.5 oz capacity (44.3 ml)\n· Solid, heavy glass base\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Vidrio transparente\n· Capacidad de 1,5 oz (44,3 ml)\n· Base de vidrio sólida y pesada\n· Hecho a medida\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06756394a3ebd30609d3e4/94263/76524/vaso-de-chupito-daz-15-oz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06756394a3ebd30609d3e4/94263/76625/vaso-de-chupito-daz-15-oz.jpg?camera_label=back",
   "https://images-api.printify.com/mockup/6b06756394a3ebd30609d3e4/94263/76626/vaso-de-chupito-daz-15-oz.jpg?camera_label=left",
-  "https://images-api.printify.com/mockup/6b06756394a3ebd30609d3e4/94263/76627/vaso-de-chupito-daz-15-oz.jpg?camera_label=right",
-  "https://images-api.printify.com/mockup/6b06756394a3ebd30609d3e4/94263/75136/vaso-de-chupito-daz-15-oz.jpg?camera_label=context-1",
-  "https://images-api.printify.com/mockup/6b06756394a3ebd30609d3e4/94263/76316/vaso-de-chupito-daz-15-oz.jpg?camera_label=context-2"
+  "https://images-api.printify.com/mockup/6b06756394a3ebd30609d3e4/94263/76627/vaso-de-chupito-daz-15-oz.jpg?camera_label=right"
  ],
  "draft": false,
  "fam": "vaso-chupito-oz",
@@ -26,9 +38,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Vaso Chupito Daz Shot Glass",
- "name_es": "Vaso de Chupito Vaso Chupito Daz",
+ "name_en": "Daz Crystal Shot Glass",
+ "name_es": "Vaso de Chupito Cristal Daz",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 22.99,
  "rank": 28,

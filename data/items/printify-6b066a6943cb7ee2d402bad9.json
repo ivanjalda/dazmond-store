@@ -1,16 +1,32 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "EVA, Polyester, PVC",
  "ai_priority": true,
+ "ai_type": "sandals",
+ "ai_ver": 2,
+ "art_note": "Clean digital mockups with sharp graphic rendering, but clearly synthetic CGI rather than luxury studio photography.",
+ "art_score": 4,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hombre",
-  "calzado-mujer/zapatillas"
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
  ],
  "cg": "printify-6b066a6943cb7ee2d402bad9",
  "color": "Black sole",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A distinctive warm-weather essential designed for effortless ease. These flip flops pair a 100% polyester suede upper footbed with a 15 mm cushioned EVA sole engineered with a textured tread for dependable traction. Finished with a flexible PVC strap for immediate comfort. The high-definition card motifs deliver a graphic edge to summer leisure. Crafted to order with worldwide delivery.",
+ "desc_es": "Una expresión audaz concebida para los días de verano. Estas sandalias aúnan una superficie de ante 100% poliéster con una suela de amortiguación de EVA de 15 mm de perfil, rematada con fondo texturizado para una pisada firme. Su tira ergonómica de PVC garantiza ligereza y confort continuo. Gráficos de alta definición que dotan de un carácter distintivo a sus escapadas de descanso. Confección bajo pedido con distribución global.",
+ "details_en": "· Composition: EVA, polyester, PVC\n· 5/8\" (15 mm) thick EVA sole with textured underside\n· 100% polyester suede footbed\n· Flexible PVC strap\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Composición: EVA, poliéster, PVC\n· Suela de EVA de 15 mm (5/8\") de espesor con base texturizada\n· Plantilla de ante 100% poliéster\n· Correa ergonómica de PVC\n· Confección bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b066a6943cb7ee2d402bad9/72175/15337/chancletas-daz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a6943cb7ee2d402bad9/72175/15342/chancletas-daz.jpg?camera_label=front-sole",
@@ -30,12 +46,13 @@
   "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printify-6b06674fd3c2aadbe1007e0e"
+  "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Chancletas Daz Sneakers · Black",
- "name_es": "Zapatillas Chancletas Daz · Negro",
+ "name_en": "DAZ Playing Cards Flip Flops",
+ "name_es": "Sandalias DAZ Playing Cards",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 25,

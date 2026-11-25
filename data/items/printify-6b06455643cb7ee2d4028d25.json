@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with a refined presentation, though elevated lifestyle imagery would better capture the luxury positioning.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,14 +21,14 @@
  "cg": "printify-6b06455643cb7ee2d4028d25",
  "color": "Black",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your everyday wardrobe with this essential house piece. Tailored in a deep black hue, it features the distinctive House Seal emblem with geometric precision. The silhouette offers a modern and relaxed presence, ideal for those who value understated elegance. Each piece is crafted exclusively upon request and includes worldwide shipping. A refined expression of contemporary luxury.",
+ "desc_es": "Eleve su guardarropa diario con esta pieza esencial de la casa. Diseñada en un tono negro profundo, presenta el distintivo emblema House Seal con precisión geométrica. La silueta ofrece una presencia moderna y relajada, ideal para quienes valoran la elegancia discreta. Cada pieza se confecciona exclusivamente bajo pedido y cuenta con envío mundial. Una expresión depurada de lujo contemporáneo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images.printify.com/mockup/6b06455643cb7ee2d4028d25/12124/102005/house-seal-tee.jpg?camera_label=front-2",
   "https://images.printify.com/mockup/6b06455643cb7ee2d4028d25/12124/102006/house-seal-tee.jpg?camera_label=back-2",
-  "https://images.printify.com/mockup/6b06455643cb7ee2d4028d25/12124/102001/house-seal-tee.jpg?camera_label=folded",
-  "https://images.printify.com/mockup/6b06455643cb7ee2d4028d25/12124/127735/house-seal-tee.jpg?camera_label=folded-2",
-  "https://images.printify.com/mockup/6b06455643cb7ee2d4028d25/12124/101998/house-seal-tee.jpg?camera_label=size-chart"
+  "https://images.printify.com/mockup/6b06455643cb7ee2d4028d25/12124/102001/house-seal-tee.jpg?camera_label=folded"
  ],
  "draft": false,
  "fam": "house-seal-tee",
@@ -32,9 +44,10 @@
  "material": "",
  "missing_days": 1,
  "missing_last": "2026-11-25",
- "name_en": "House Seal Tee · Black",
- "name_es": "Camiseta House Seal · Negro",
+ "name_en": "House Seal Tee",
+ "name_es": "Camiseta House Seal",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 59,
@@ -42,8 +55,112 @@
  "shipping_worst_usd": 7.99,
  "shop_category": "",
  "shop_verified": false,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by +/- 1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +/- 1.5 in (3.8 cm) debido a tolerancias de fabricación.",
+  "rows": [
+   [
+    "Width",
+    "-",
+    "18.0",
+    "20.0",
+    "22.0",
+    "24.0",
+    "26.0",
+    "28.0",
+    "30.0",
+    "32.0"
+   ],
+   [
+    "Length",
+    "-",
+    "28.0",
+    "29.0",
+    "30.0",
+    "31.0",
+    "32.0",
+    "33.0",
+    "34.0",
+    "35.0"
+   ],
+   [
+    "Sleeve length",
+    "-",
+    "15.1",
+    "16.5",
+    "18.0",
+    "19.5",
+    "21.0",
+    "22.4",
+    "23.7",
+    "25.0"
+   ],
+   [
+    "Width (cm)",
+    "-",
+    "46.0",
+    "50.8",
+    "56.0",
+    "61.0",
+    "66.0",
+    "71.1",
+    "76.2",
+    "81.3"
+   ],
+   [
+    "Length (cm)",
+    "-",
+    "71.1",
+    "73.7",
+    "76.2",
+    "79.0",
+    "81.3",
+    "84.0",
+    "86.4",
+    "89.0"
+   ],
+   [
+    "Sleeve length (cm)",
+    "-",
+    "38.4",
+    "42.0",
+    "45.7",
+    "49.5",
+    "53.3",
+    "57.0",
+    "60.2",
+    "63.5"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b06455643cb7ee2d4028d25/12124/101998/house-seal-tee.jpg?camera_label=size-chart"
+ ],
  "sizes": [
   "M",
   "S",

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/albornoz-pijama",
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "White and Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% polyester",
  "ai_priority": true,
+ "ai_type": "Kimono",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and high-end model presentation elevate the garment's visual impact.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-6b066a5d62f038c4f00b0038",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A fluidly structured silhouette redefines private elegance. Crafted from a lightweight fabric with a silky touch, this piece features dramatic wide sleeves and an adjustable belt that shapes the waist with precision. The abstract print in intense hues creates a magnetic visual contrast against the dark background. Designed to offer absolute comfort without sacrificing sophistication. Made to order with worldwide shipping available.",
+ "desc_es": "Una silueta fluidamente estructurada redefine el concepto de elegancia privada. Confeccionada con un tejido ligero de tacto sedoso, esta pieza presenta amplias mangas y un cinturón ajustable que define la cintura con precisión. El estampado abstracto en tonos intensos aporta un contraste visual magnético sobre el fondo oscuro. Diseñada para ofrecer un confort absoluto sin sacrificar la sofisticación. Pieza disponible bajo pedido con envío a todo el mundo.",
+ "details_en": "· 100% polyester\n· Lightweight fabric\n· Wide sleeves\n· Includes adjustable belt",
+ "details_es": "· 100 % poliéster\n· Tejido ligero\n· Mangas acampanadas\n· Incluye cinturón ajustable",
  "display_images": [
   "https://images-api.printify.com/mockup/6b066a5d62f038c4f00b0038/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a5d62f038c4f00b0038/77572/29856/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=back"
@@ -27,9 +42,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Bata Tipo Kimono Loungewear · White",
- "name_es": "Pijama Bata Tipo Kimono · Blanco",
+ "name_en": "Art Kimono Robe · White",
+ "name_es": "Bata Kimono Art · Blanco",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 56.99,
  "rank": 37,

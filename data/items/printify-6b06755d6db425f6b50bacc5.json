@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Silver",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Metal",
  "ai_priority": true,
+ "ai_type": "Tarjetero",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio presentation with sophisticated lifestyle staging.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,15 +22,15 @@
  "cg": "printify-6b06755d6db425f6b50bacc5",
  "color": "Silver",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined expression of professional distinction. This card case showcases a polished metal surface with a brilliant finish that reflects a modern, sophisticated aesthetic. Designed for the discerning professional, it pairs clean architectural lines with flawless functionality. The interior reveals a soft storage base that safeguards your essentials with absolute elegance. An indispensable accessory crafted on demand to accompany your most significant moments.",
+ "desc_es": "Una expresión depurada de distinción profesional. Este tarjetero presenta una superficie de metal pulido con un acabado brillante que refleja una estética moderna y sofisticada. Diseñado para el profesional exigente, combina líneas arquitectónicas limpias con una funcionalidad impecable. El interior revela una base de almacenamiento suave que resguarda sus esenciales con absoluta elegancia. Un accesorio esencial creado bajo demanda para acompañar sus momentos de mayor relevancia.",
+ "details_en": "· Polished metal surface with brilliant finish\n· Velvet-like interior storage base\n· Friction snap closure\n· Holds up to 20 standard 3.5-inch by 2.0-inch business cards\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Superficie de metal pulido con acabado brillante\n· Base de almacenamiento interior tipo terciopelo\n· Cierre a presión por fricción\n· Capacidad para almacenar hasta 20 tarjetas de visita estándar de 3,5 pulgadas por 2,0 pulgadas\n· Pieza confeccionada bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06755d6db425f6b50bacc5/73415/17466/tarjetero-daz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06755d6db425f6b50bacc5/73415/18096/tarjetero-daz.jpg?camera_label=back",
   "https://images-api.printify.com/mockup/6b06755d6db425f6b50bacc5/73415/18098/tarjetero-daz.jpg?camera_label=side",
-  "https://images-api.printify.com/mockup/6b06755d6db425f6b50bacc5/73415/18097/tarjetero-daz.jpg?camera_label=opened",
-  "https://images-api.printify.com/mockup/6b06755d6db425f6b50bacc5/73415/18099/tarjetero-daz.jpg?camera_label=context-1",
-  "https://images-api.printify.com/mockup/6b06755d6db425f6b50bacc5/73415/18100/tarjetero-daz.jpg?camera_label=context-2"
+  "https://images-api.printify.com/mockup/6b06755d6db425f6b50bacc5/73415/18097/tarjetero-daz.jpg?camera_label=opened"
  ],
  "draft": false,
  "fam": "tarjetero",
@@ -31,9 +44,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Tarjetero Daz Bag · Silver",
- "name_es": "Bolso Tarjetero Daz · Plata",
+ "name_en": "DAZ Silver Card Case",
+ "name_es": "Tarjetero DAZ Silver",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 34.99,
  "rank": 29,

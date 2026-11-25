@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-25 07:41 UTC",
+  "updated": "2026-11-25 08:41 UTC",
   "totals": {
     "catalogo": 2497,
-    "a_la_vista": 2135,
-    "disenos_a_la_vista": 901,
-    "ocultos": 362,
-    "ia_revisados": 960,
-    "ia_pendientes": 1536,
-    "con_boton_de_pago": 2135,
+    "a_la_vista": 2142,
+    "disenos_a_la_vista": 903,
+    "ocultos": 355,
+    "ia_revisados": 1006,
+    "ia_pendientes": 1490,
+    "con_boton_de_pago": 2142,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 11,
     "ventas_30_dias": 0,
@@ -19,7 +19,7 @@
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 358
+    "Borrador": 351
   },
   "suppliers": {
     "Printify": {
@@ -35,8 +35,8 @@
       "ocultos": 13
     },
     "InterestPrint": {
-      "visibles": 108,
-      "ocultos": 349
+      "visibles": 115,
+      "ocultos": 342
     }
   },
   "guard": [
@@ -1993,15 +1993,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-8",
-      "n": "Mono Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/60252b8ddb31f1c305d5.jpg",
-      "c": "hombre/conjuntos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-all-over-print-midi-skirt",
       "n": "Falda Hudson · Blanco",
       "s": "InterestPrint",
@@ -2201,7 +2192,7 @@
     },
     {
       "id": "interestprint-design-yoga-zipper-vest",
-      "n": "Chaleco Yoga Zipper Vest · Blanco",
+      "n": "Chaleco con Cremallera y Estampado · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/63302b5be0943799b4c3.jpg",
       "c": "hombre/abrigo-chaqueta-sueter",
@@ -2210,36 +2201,9 @@
     },
     {
       "id": "interestprint-design-yoga-zipper-vest-1",
-      "n": "Chaleco Yoga Zipper Vest · Blanco",
+      "n": "Chaleco con Cremallera y Estampado · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/be12655d142b11178538.jpg",
-      "c": "hombre/abrigo-chaqueta-sueter",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-yoga-zipper-vest-2",
-      "n": "Chaleco Yoga Zipper Vest · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/e2c05048db1b3246bdcb.jpg",
-      "c": "hombre/abrigo-chaqueta-sueter",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-yoga-zipper-vest-3",
-      "n": "Chaleco Yoga Zipper Vest · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/1ed687c3fa9a82bf1f12.jpg",
-      "c": "hombre/abrigo-chaqueta-sueter",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-yoga-zipper-vest-4",
-      "n": "Chaleco Yoga Zipper Vest · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/a4ab0607ba21f092fea1.jpg",
       "c": "hombre/abrigo-chaqueta-sueter",
       "pr": 23.99,
       "why": "Borrador: esperando la revisión de la IA"
@@ -2935,33 +2899,6 @@
       "img": "assets/products/shop/911ad03dd582c58f49e1.jpg",
       "c": "mujer/vestidos-monos-petos",
       "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-fleece-hooded-cape-for-adults",
-      "n": "Sudadera Cape Adults · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/4741e473e4dce1bf4cfc.jpg",
-      "c": "hombre/chandal-sudaderas",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-fleece-hooded-cape-for-adults-1",
-      "n": "Sudadera Cape Adults · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/67ce6a058da2258043e1.jpg",
-      "c": "hombre/chandal-sudaderas",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-fleece-hooded-cape-for-adults-2",
-      "n": "Sudadera Cape Adults · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/925d49048b14bfe343c8.jpg",
-      "c": "hombre/chandal-sudaderas",
-      "pr": 26.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -3827,17 +3764,22 @@
     "CSV leído: telegram.csv",
     "Printify: 46 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 9 s",
+    "⏱ lectura de proveedores: 8 s",
     "Productos en catálogo: 2497 · a la vista: 2138 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 2072 piezas",
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1761",
-    "⏱ revisión con IA: 225 s",
-    "⏱ vigilante: 0 s",
+    "IA: fallo con printify-6b066a67255f2587670ee3b9: gemini-flash-latest: The read operation timed out",
+    "IA: fallo con interestprint-design-yoga-zipper-vest: ",
+    "IA: fallo con interestprint-design-yoga-zipper-vest-1: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con printify-6b066744255f2587670ee018: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con printful-382149130: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: tiempo de esta hora agotado; sigo en la próxima.",
+    "IA: 46 productos revisados (fotos, guía de tallas y textos) · quedan 1715",
+    "⏱ revisión con IA: 1203 s",
+    "⏱ vigilante: 106 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9122 EUR",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Ceramic",
+ "ai_type": "Mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with neutral lighting, though standard mockup aesthetic prevents a higher luxury tier.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,17 @@
  "cg": "printify-6b0645629a7ef0f8180cc800",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined expression of everyday craftsmanship. This ceramic piece features the house seal motif, merging a clean aesthetic with a sophisticated presence. Designed to elevate daily rituals, it pairs a classic silhouette with distinctive detailing. Each piece is crafted exclusively on demand, ensuring exclusivity and attention to detail. Available with worldwide shipping for your collection.",
+ "desc_es": "Una expresion refinada de la artesania cotidiana. Esta pieza de ceramica presenta el motivo del emblema de la casa, fusionando una estetica limpia con una presencia sofisticada. Diseñada para elevar los rituales diarios, combina una silueta clasica con detalles distintivos. Cada pieza se elabora unicamente bajo demanda, garantizando exclusividad y atencion al detalle. Disponible con envio a todo el mundo para su coleccion.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a medida",
  "display_images": [
   "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62327/3387/house-seal-mug.jpg?camera_label=front",
   "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62327/3389/house-seal-mug.jpg?camera_label=right",
   "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62327/3391/house-seal-mug.jpg?camera_label=left",
-  "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62327/6562/house-seal-mug.jpg?camera_label=context",
   "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62328/3388/house-seal-mug.jpg?camera_label=front",
   "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62328/3390/house-seal-mug.jpg?camera_label=right",
-  "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62328/3392/house-seal-mug.jpg?camera_label=left",
-  "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62328/6563/house-seal-mug.jpg?camera_label=context"
+  "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62328/3392/house-seal-mug.jpg?camera_label=left"
  ],
  "draft": false,
  "fam": "house-seal-mug",
@@ -33,6 +45,7 @@
  "name_en": "House Seal Mug",
  "name_es": "Taza House Seal",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
  "rank": 38,

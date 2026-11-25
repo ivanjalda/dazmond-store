@@ -1,22 +1,36 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "EVA, polyester, PVC",
  "ai_priority": true,
+ "ai_type": "flip flops",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio lighting on white background highlighting the luxury floral print and black sole texture.",
+ "art_score": 8,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hombre",
-  "calzado-mujer/zapatillas"
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
  ],
  "cg": "printify-6b066a6062f038c4f00b0043",
  "color": "Black sole",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your downtime with these refined flip flops. Crafted to offer absolute comfort during warmer days. Featuring a clean profile and textured sole that unites functionality and aesthetics. The floral print brings a distinctive character to your seasonal wardrobe. Available made to order with worldwide shipping.",
+ "desc_es": "Eleve sus momentos de descanso con estas chancletas de diseño refinado. Confeccionadas para ofrecer un confort absoluto en los días más cálidos. Presentan un perfil limpio y una suela texturizada que combina funcionalidad y estética. El estampado floral aporta un carácter distintivo a su armario estacional. Disponibles bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 5/8\" thick EVA sole with a textured bottom\n· 100% polyester suede sole cover\n· Black PVC strap\n· Easy slip-on design\n· Runs true to size\n· Made to order",
+ "details_es": "· Suela de EVA de 15 mm de grosor con fondo texturizado\n· Cubierta de la suela de ante 100% poliéster\n· Tira de PVC negro\n· Diseño de fácil colocación\n· Tallaje estándar\n· Hecho especialmente bajo pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b066a6062f038c4f00b0043/72175/15337/chancletas-daz-luxury.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a6062f038c4f00b0043/72175/15342/chancletas-daz-luxury.jpg?camera_label=front-sole",
   "https://images-api.printify.com/mockup/6b066a6062f038c4f00b0043/72175/15339/chancletas-daz-luxury.jpg?camera_label=close-up",
-  "https://images-api.printify.com/mockup/6b066a6062f038c4f00b0043/72175/15326/chancletas-daz-luxury.jpg?camera_label=context-1",
-  "https://images-api.printify.com/mockup/6b066a6062f038c4f00b0043/72175/15331/chancletas-daz-luxury.jpg?camera_label=context-2",
   "https://images-api.printify.com/mockup/6b066a6062f038c4f00b0043/72176/15336/chancletas-daz-luxury.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a6062f038c4f00b0043/72176/15341/chancletas-daz-luxury.jpg?camera_label=front-sole",
   "https://images-api.printify.com/mockup/6b066a6062f038c4f00b0043/72176/15338/chancletas-daz-luxury.jpg?camera_label=close-up"
@@ -30,12 +44,13 @@
   "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printify-6b06674fd3c2aadbe1007e0e"
+  "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Chancletas Daz Sneakers · Black",
- "name_es": "Zapatillas Chancletas Daz · Negro",
+ "name_en": "Daz Luxury Flip Flops",
+ "name_es": "Chancletas Daz Luxury",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 35.99,
  "rank": 21,

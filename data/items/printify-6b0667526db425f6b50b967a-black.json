@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/albornoz-pijama",
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "Black and Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% polyester",
  "ai_priority": true,
+ "ai_type": "Kimono",
+ "ai_ver": 2,
+ "art_note": "Standard mockup photography that lacks high-end editorial atmosphere.",
+ "art_score": 3,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +23,10 @@
  "cg": "printify-6b0667526db425f6b50b967a",
  "color": "Black",
  "created": "2026-11-25",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Experience elevated comfort at home with this fluid design piece. Crafted from a lightweight, silky-touch fabric, this mid-length robe features a figure-enhancing wrap silhouette. Flared sleeves and an adjustable tie belt complete a refined aesthetic inspired by eastern tradition. Each piece is custom made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Disfrute de la máxima comodidad en su hogar con esta pieza de diseño fluido. Confeccionada con un tejido ligero de tacto sedoso, esta bata de largo medio presenta una silueta cruzada que realza la figura. Las mangas acampanadas y el cinturón ajustable completan una estética refinada inspirada en la tradición oriental. Cada prenda es confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· 100% polyester\n· Lightweight 160 g/m² fabric\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100 % poliéster\n· Tejido ligero de 160 g/m²\n· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0667526db425f6b50b967a/77571/35870/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-front-2",
   "https://images-api.printify.com/mockup/6b0667526db425f6b50b967a/77571/35866/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front",
@@ -30,9 +46,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Bata Tipo Kimono Loungewear · Black",
- "name_es": "Pijama Bata Tipo Kimono · Negro",
+ "name_en": "Art Kimono Robe · Black",
+ "name_es": "Bata Kimono Art · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 56.99,
  "rank": 11,

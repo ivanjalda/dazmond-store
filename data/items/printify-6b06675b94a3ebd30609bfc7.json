@@ -1,21 +1,36 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
+ ],
+ "ai_color": "Negro y multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "EVA, poliéster, PVC",
  "ai_priority": true,
+ "ai_type": "Chanclas",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain white background, though lacking true luxury editorial atmosphere.",
+ "art_score": 5,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
-  "calzado-hombre/zapatillas-hombre",
-  "calzado-mujer/zapatillas"
+  "calzado-hombre/sandalias-chanclas-hombre",
+  "calzado-mujer/sandalias-chanclas"
  ],
  "cg": "printify-6b06675b94a3ebd30609bfc7",
  "color": "Black sole",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your summer downtime with these refined flip-flops. Crafted from selected materials for continuous comfort with every step, they feature an exclusive print that brings character to your summer escapes. The effortless slip-on silhouette pairs with a cushioned footbed and a textured outsole ensuring stability. A sophisticated proposition for summer leisure, available made-to-order with worldwide shipping.",
+ "desc_es": "Eleve sus días de descanso estival con estas chanclas de diseño refinado. Confeccionadas con materiales seleccionados para ofrecer confort continuo en cada paso, presentan un estampado exclusivo que aporta carácter a sus escapadas de verano. La silueta de fácil colocación se combina con una plantilla acolchada y una suela texturizada que asegura estabilidad. Una propuesta sofisticada para el ocio estival, disponible mediante pedido anticipado con envíos a todo el mundo.",
+ "details_en": "· Materials: EVA, polyester, PVC\n· 5/8\" (15 mm) thick EVA outsole with textured bottom\n· 100% polyester suede footbed\n· Slip-on design with strap\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Materiales: EVA, poliéster, PVC\n· Suela de EVA de 15 mm de espesor con fondo texturizado\n· Plantilla de ante 100% poliéster\n· Diseño de fácil colocación con correa\n· Pieza confeccionada bajo pedido con envíos a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06675b94a3ebd30609bfc7/72175/15337/chancletas-daz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06675b94a3ebd30609bfc7/72175/15342/chancletas-daz.jpg?camera_label=front-sole",
   "https://images-api.printify.com/mockup/6b06675b94a3ebd30609bfc7/72175/15339/chancletas-daz.jpg?camera_label=close-up",
-  "https://images-api.printify.com/mockup/6b06675b94a3ebd30609bfc7/72175/15326/chancletas-daz.jpg?camera_label=context-1",
   "https://images-api.printify.com/mockup/6b06675b94a3ebd30609bfc7/72175/15331/chancletas-daz.jpg?camera_label=context-2",
   "https://images-api.printify.com/mockup/6b06675b94a3ebd30609bfc7/72176/15336/chancletas-daz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06675b94a3ebd30609bfc7/72176/15341/chancletas-daz.jpg?camera_label=front-sole",
@@ -30,12 +45,13 @@
   "printful-365090873",
   "printful-351492575-black",
   "printful-361906822",
-  "printify-6b06674fd3c2aadbe1007e0e"
+  "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Chancletas Daz Sneakers · Black",
- "name_es": "Zapatillas Chancletas Daz · Negro",
+ "name_en": "Black Gem Luxury Flip Flops",
+ "name_es": "Chanclas de Lujo Gemas Negras",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 18,

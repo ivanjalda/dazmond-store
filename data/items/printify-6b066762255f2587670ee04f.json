@@ -1,5 +1,19 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Polyester, Aluminum Foil",
  "ai_priority": true,
+ "ai_type": "Lunch Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation complemented by refined lifestyle integration.",
+ "art_score": 8,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,16 +23,16 @@
  "cg": "printify-6b066762255f2587670ee04f",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevating daily essentials with flawless functionality. This lunch bag unites minimalist design with superior thermal performance. The water-resistant exterior protects with discretion, while the insulating interior preserves freshness with precision. A sophisticated solution for the contemporary lifestyle. Made to order. Worldwide shipping available.",
+ "desc_es": "Elevando los esenciales diarios con una funcionalidad impecable. Esta bolsa de almuerzo combina un diseño minimalista con un rendimiento térmico superior. Su exterior resistente al agua protege con discreción, mientras que el interior aislante preserva la frescura con precisión. Una solución sofisticada para el estilo de vida contemporáneo. Hecho a pedido. Disponible con envíos a todo el mundo.",
+ "details_en": "· Exterior: 100% polyester\n· Interior: 52% aluminum foil, 48% polyester\n· Magnetic closure\n· Insulated\n· Made to order",
+ "details_es": "· Exterior: 100% poliéster\n· Interior: 52% papel de aluminio, 48% poliéster\n· Cierre magnético\n· Aislante\n· Hecho a pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b066762255f2587670ee04f/80176/47003/bolsa-daz-luxury-de-almuerzo-de-poliester.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066762255f2587670ee04f/80176/47004/bolsa-daz-luxury-de-almuerzo-de-poliester.jpg?camera_label=back",
   "https://images-api.printify.com/mockup/6b066762255f2587670ee04f/80176/47005/bolsa-daz-luxury-de-almuerzo-de-poliester.jpg?camera_label=front-left",
   "https://images-api.printify.com/mockup/6b066762255f2587670ee04f/80176/47006/bolsa-daz-luxury-de-almuerzo-de-poliester.jpg?camera_label=front-right",
   "https://images-api.printify.com/mockup/6b066762255f2587670ee04f/80176/50209/bolsa-daz-luxury-de-almuerzo-de-poliester.jpg?camera_label=bottom",
-  "https://images-api.printify.com/mockup/6b066762255f2587670ee04f/80176/47852/bolsa-daz-luxury-de-almuerzo-de-poliester.jpg?camera_label=context-1",
-  "https://images-api.printify.com/mockup/6b066762255f2587670ee04f/80176/47832/bolsa-daz-luxury-de-almuerzo-de-poliester.jpg?camera_label=context-2",
   "https://images-api.printify.com/mockup/6b066762255f2587670ee04f/80176/47833/bolsa-daz-luxury-de-almuerzo-de-poliester.jpg?camera_label=close-up"
  ],
  "draft": false,
@@ -33,9 +47,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Bolsa Daz Almuerzo Bag",
- "name_es": "Bolso Bolsa Daz Almuerzo",
+ "name_en": "Dazmond Insulated Lunch Bag",
+ "name_es": "Bolsa de Almuerzo Insulada Dazmond",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 44.99,
  "rank": 26,

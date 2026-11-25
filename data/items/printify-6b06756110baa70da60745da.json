@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Cream",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% polyester",
  "ai_priority": true,
+ "ai_type": "Hooded Blanket",
+ "ai_ver": 2,
+ "art_note": "Standard mockup photography with flat digital composites, lacking high-end luxury editorial atmosphere.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-6b06756110baa70da60745da",
  "color": "Cream",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A sublime definition of warmth and contemporary comfort. Crafted entirely from exceptionally soft-touch polyester, this piece envelops the body with an immersive and sophisticated presence. Featuring an integrated hood in a creamy tone, it brings an accent of refined functionality for colder months. Designed for those who seek excellence in every detail of home living, this creation combines intentional design with a texture that invites absolute rest. Available made to order with worldwide shipping.",
+ "desc_es": "Una definicion sublime de calidez y confort contemporaneo. Confeccionada integramente en poliester de tacto excepcionalmente suave, esta pieza envuelve el cuerpo con una presencia envolvente y sofisticada. Equipada con una capucha integrada en tono crema, aporta un acento de refinada funcionalidad para los meses de bajas temperaturas. Concebida para quienes buscan la excelencia en cada detalle del hogar, esta creacion combina un diseño intencional con una textura que invita al descanso absoluto. Disponible bajo pedido con envios a todo el mundo.",
+ "details_en": "· 100% polyester\n· One size: 179.07 cm x 132.08 cm (70.5\" x 52\")\n· Integrated hood\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100 % poliéster\n· Talla única: 179,07 cm x 132,08 cm (70,5 pulgadas x 52 pulgadas)\n· Capucha integrada\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06756110baa70da60745da/74535/20231/manta-polar-sherpa-daz-con-capucha.jpg?camera_label=front"
  ],
@@ -26,9 +41,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Manta Polar Sherpa Sweatshirt · Cream",
- "name_es": "Sudadera Manta Polar Sherpa · Crema",
+ "name_en": "Cream Hooded Polar Blanket",
+ "name_es": "Manta Polar con Capucha Crema",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 102.99,
  "rank": 43,

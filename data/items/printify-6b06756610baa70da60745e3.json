@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Frosted",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Vidrio esmerilado",
+ "ai_type": "Drinkware",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio lighting on frosted glass with sharp brand engraving detail.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,16 @@
  "cg": "printify-6b06756610baa70da60745e3",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette designed for daily living. This frosted glass piece brings quiet presence to any space. The sixteen-ounce capacity accompanies every moment with balance and distinction. The translucent surface offers a subtle texture to the touch. Form and function meet in an essential object. Made to order. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada diseñada para el uso diario. Esta pieza en vidrio esmerilado aporta presencia a cualquier espacio. Su capacidad de dieciséis onzas acompaña cada momento con equilibrio y distinción. La superficie traslúcida ofrece una textura sutil al tacto. Funcionalidad y diseño se unen en un objeto esencial. Fabricado bajo pedido. Disponible con envío a todo el mundo.",
+ "details_en": "· Material: Frosted glass\n· Capacity: 16 oz (0,473 l)\n· Microwave and dishwasher safe\n· Made-to-order piece",
+ "details_es": "· Material: Vidrio esmerilado\n· Capacidad: 16 oz (0,473 l)\n· Apto para microondas y lavavajillas\n· Producto confeccionado bajo pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06756610baa70da60745e3/87958/55346/jarra-de-cerveza-de-vidrio-esmerilado-daz.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06756610baa70da60745e3/87958/55442/jarra-de-cerveza-de-vidrio-esmerilado-daz.jpg?camera_label=back",
   "https://images-api.printify.com/mockup/6b06756610baa70da60745e3/87958/55443/jarra-de-cerveza-de-vidrio-esmerilado-daz.jpg?camera_label=left",
   "https://images-api.printify.com/mockup/6b06756610baa70da60745e3/87958/55444/jarra-de-cerveza-de-vidrio-esmerilado-daz.jpg?camera_label=right",
-  "https://images-api.printify.com/mockup/6b06756610baa70da60745e3/87958/55852/jarra-de-cerveza-de-vidrio-esmerilado-daz.jpg?camera_label=bottom",
-  "https://images-api.printify.com/mockup/6b06756610baa70da60745e3/87958/55521/jarra-de-cerveza-de-vidrio-esmerilado-daz.jpg?camera_label=context-1",
-  "https://images-api.printify.com/mockup/6b06756610baa70da60745e3/87958/55522/jarra-de-cerveza-de-vidrio-esmerilado-daz.jpg?camera_label=context-2",
-  "https://images-api.printify.com/mockup/6b06756610baa70da60745e3/87958/59793/jarra-de-cerveza-de-vidrio-esmerilado-daz.jpg?camera_label=context-3"
+  "https://images-api.printify.com/mockup/6b06756610baa70da60745e3/87958/55852/jarra-de-cerveza-de-vidrio-esmerilado-daz.jpg?camera_label=bottom"
  ],
  "draft": false,
  "fam": "jarra-cerveza-vidrio",
@@ -28,9 +39,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Jarra Cerveza Vidrio Beer Mug",
- "name_es": "Jarra de Cerveza Jarra Cerveza Vidrio",
+ "name_en": "DAZ Frosted Glass Mug",
+ "name_es": "Jarra de vidrio esmerilado DAZ",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 48.99,
  "rank": 41,

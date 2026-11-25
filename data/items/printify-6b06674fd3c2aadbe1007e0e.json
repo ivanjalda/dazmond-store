@@ -1,22 +1,33 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% polyester",
  "ai_priority": true,
+ "ai_type": "Kimono",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but lifestyle photography has a composited appearance.",
+ "art_score": 5,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/albornoz-pijama",
   "mujer/batas-pijamas"
  ],
  "cg": "printify-6b06674fd3c2aadbe1007e0e",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A fluid silhouette defined by an art-inspired design. This robe balances comfort and elegance in a single piece. Crafted from a lightweight fabric with a silky touch, it features wide sleeves and an adjustable belt. A versatile option for lounging at home or for refined styling. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una silueta fluida definida por un diseño de inspiración artística. Esta bata combina comodidad y elegancia en una sola pieza. Confeccionada con un tejido ligero de tacto sedoso, presenta mangas amplias y un cinturón ajustable. Una opción versátil para el descanso en casa o para un estilismo depurado. Cada prenda se elabora bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 100% polyester\n· Lightweight fabric at 4.72 oz/yd² (160 g/m²)\n· Figure-flattering shape\n· Loose flared sleeves\n· Includes belt\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100 % poliéster\n· Tejido ligero de 4,72 oz/yd² (160 g/m²)\n· Forma que favorece la figura\n· Mangas acampanadas sueltas\n· Incluye cinturón\n· Hecho a medida\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06674fd3c2aadbe1007e0e/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front",
-  "https://images-api.printify.com/mockup/6b06674fd3c2aadbe1007e0e/77572/29856/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=back",
-  "https://images-api.printify.com/mockup/6b06674fd3c2aadbe1007e0e/77572/28947/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-front",
-  "https://images-api.printify.com/mockup/6b06674fd3c2aadbe1007e0e/77572/29372/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-back",
-  "https://images-api.printify.com/mockup/6b06674fd3c2aadbe1007e0e/77572/31467/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-front-2"
+  "https://images-api.printify.com/mockup/6b06674fd3c2aadbe1007e0e/77572/29856/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=back"
  ],
  "draft": false,
  "fam": "bata-tipo-kimono",
@@ -24,15 +35,16 @@
  "id": "printify-6b06674fd3c2aadbe1007e0e",
  "img_checked": "2026-11-25",
  "look": [
-  "printify-6b06675510baa70da607308a",
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822"
+  "printful-383192424-black",
+  "printful-379237645",
+  "printful-338164153",
+  "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Bata Tipo Kimono Loungewear · White",
- "name_es": "Pijama Bata Tipo Kimono · Blanco",
+ "name_en": "Art Kimono Style Robe",
+ "name_es": "Bata Estilo Kimono Art",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 56.99,
  "rank": 10,

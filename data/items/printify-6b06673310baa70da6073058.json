@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White and Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio and lifestyle renders presenting the house seal motif with a refined, minimalist aesthetic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +18,17 @@
  "cg": "printify-6b06673310baa70da6073058",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The DAZMOND & Co. House Seal mug merges everyday utility with the distinctive house aesthetic. Designed to accompany private rituals with a sober and distinguished presence, it features the signature emblem in a refined gold tone. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "La taza House Seal de DAZMOND & Co. fusiona la funcionalidad cotidiana con la estética distintiva de la casa. Creada para acompañar los momentos privados con una presencia sobria y distinguida, presenta el emblema de la firma en un tono dorado depurado. Cada pieza es elaborada bajo pedido y disponible con envío a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06673310baa70da6073058/62327/3387/house-seal-mug.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06673310baa70da6073058/62327/3389/house-seal-mug.jpg?camera_label=right",
   "https://images-api.printify.com/mockup/6b06673310baa70da6073058/62327/3391/house-seal-mug.jpg?camera_label=left",
-  "https://images-api.printify.com/mockup/6b06673310baa70da6073058/62327/6562/house-seal-mug.jpg?camera_label=context",
   "https://images-api.printify.com/mockup/6b06673310baa70da6073058/62328/3388/house-seal-mug.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06673310baa70da6073058/62328/3390/house-seal-mug.jpg?camera_label=right",
-  "https://images-api.printify.com/mockup/6b06673310baa70da6073058/62328/3392/house-seal-mug.jpg?camera_label=left",
-  "https://images-api.printify.com/mockup/6b06673310baa70da6073058/62328/6563/house-seal-mug.jpg?camera_label=context"
+  "https://images-api.printify.com/mockup/6b06673310baa70da6073058/62328/3392/house-seal-mug.jpg?camera_label=left"
  ],
  "draft": false,
  "fam": "house-seal-mug",
@@ -31,6 +42,7 @@
  "name_en": "House Seal Mug",
  "name_es": "Taza House Seal",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
  "rank": 39,

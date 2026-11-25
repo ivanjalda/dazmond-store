@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "pajama set",
+ "ai_ver": 2,
+ "art_note": "Flat product shots are clean, but the model photography exhibits a composited, marketplace aesthetic.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printify-6b06674c255f2587670ee022",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Redefine nighttime lounging with this two-piece silhouette designed for absolute comfort. Crafted with a relaxed fit, this piece combines a subtle yet cozy aesthetic. The ribbed collar and seamless sleeves bring fluidity to the overall design. An essential choice for quiet moments at home, made to order with worldwide shipping.",
+ "desc_es": "Redefina el descanso nocturno con esta propuesta de dos piezas diseñada para un confort absoluto. Confeccionada con una silueta relajada, esta prenda combina una estética sutil y acogedora. El cuello acanalado y las mangas sin costuras aportan fluidez al diseño general. Una opción esencial para momentos de tranquilidad en el hogar, elaborada bajo pedido y con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% elastane\n· Relaxed fit\n· Ribbed collar\n· Seamless sleeves\n· Sewn-in label on inner side seam\n· Made to order",
+ "details_es": "· 95 % poliéster, 5 % elastano\n· Ajuste relajado\n· Cuello acanalado\n· Sin costuras en las mangas\n· Etiqueta cosida en la costura lateral interna\n· Confeccionado bajo pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b06674c255f2587670ee022/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b06674c255f2587670ee022/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
@@ -26,9 +40,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Conjunto Pijama Corto Loungewear · White",
- "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+ "name_en": "Feline Short Pajama Set",
+ "name_es": "Conjunto de Pijama Corto Feline",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 48.99,
  "rank": 47,

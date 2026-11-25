@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% spandex",
+ "ai_type": "pajama set",
+ "ai_ver": 2,
+ "art_note": "Flat lay and detail shots are clean, but the model photography relies on basic e-commerce templates that detract from a luxury feel.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printify-6b0667499a7ef0f8180ceea5",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Redefine nocturnal leisure with this piece tailored for those who value subtle elegance in the intimacy of home. This set features a relaxed silhouette prioritizing fluid movement and absolute comfort. The all-over butterfly design introduces a touch of classic distinction, while refined finishes ensure an immaculate aesthetic. Each garment is made to order and available with worldwide shipping.",
+ "desc_es": "Redefina el descanso nocturno con esta pieza confeccionada para quienes valoran la elegancia sutil en la intimidad del hogar. Este conjunto presenta una silueta relajada que prioriza el movimiento fluido y el confort absoluto. El diseño integral de mariposas aporta un toque de distinción clásica, mientras que los acabados cuidados aseguran una estética impecable. Cada prenda se elabora bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· 95% polyester, 5% spandex\n· Relaxed fit\n· Ribbed collar\n· Seamless sleeves\n· Sewn-in label on inner side seam\n· Made to order",
+ "details_es": "· 95 % poliéster, 5 % elastano\n· Ajuste relajado\n· Cuello acanalado\n· Sin costuras en las mangas\n· Etiqueta cosida en la costura lateral interna\n· Confeccionado bajo pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0667499a7ef0f8180ceea5/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b0667499a7ef0f8180ceea5/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
@@ -26,9 +40,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Conjunto Pijama Corto Loungewear · White",
- "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+ "name_en": "Butterfly Silk Touch Pajama Set",
+ "name_es": "Conjunto de Pijama Mariposas",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 48.99,
  "rank": 46,
