@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T02:41:47Z",
+  "updated": "2026-11-25T03:41:51Z",
   "products": [
     {
       "id": "printful-365090873",
@@ -1307,7 +1307,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Baroque Mirror Hoodie Black DAZMOND & Co. — Baroque Mirror. Made to order.",
+      "source_text": "Baroque Mirror Hoodie hoodie Black DAZMOND & Co. — Baroque Mirror. Made to order.",
       "name_es": "Sudadera Baroque Mirror Negro",
       "name_en": "Baroque Mirror Black Hoodie",
       "desc_es": "La silueta contemporánea se encuentra con la precisión gráfica en esta pieza esencial. Diseñada para un uso versátil y sofisticado, ofrece una presencia imponente sin esfuerzo. El contraste tonal define una estética moderna y depurada. Cada prenda se confecciona exclusivamente bajo pedido en nuestros talleres. Disponible con envíos a todo el mundo.",
@@ -1406,7 +1406,8 @@
       "details_es": "· Hecho a medida\n· Envíos a todo el mundo",
       "details_en": "· Made to order\n· Worldwide shipping",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b06454bfb3b556d1c04ed46",
@@ -1533,7 +1534,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Gatsby Fan Hoodie Black DAZMOND & Co. — Gatsby Fan. Made to order.",
+      "source_text": "Gatsby Fan Hoodie hoodie Black DAZMOND & Co. — Gatsby Fan. Made to order.",
       "name_es": "Sudadera Gatsby Fan",
       "name_en": "Gatsby Fan Hoodie",
       "desc_es": "Diseño depurado y silueta imponente para la temporada moderna. Esta pieza combina un tono negro profundo con una presencia gráfica refinada inspirada en la elegancia clásica. Confeccionada bajo pedido para asegurar una exclusividad absoluta. Cada detalle ha sido pensado para el guardarropa contemporáneo que valora la discreción y el poder visual. Una prenda versátil de líneas limpias que trasciende las tendencias pasajeras. Disponible con envío a todo el mundo.",
@@ -1632,7 +1633,8 @@
       "details_es": "· Hecho a pedido",
       "details_en": "· Made to order",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b06455a9a7ef0f8180cc7f3",
@@ -1750,7 +1752,7 @@
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
       "page": true,
-      "ai_fail": 1
+      "ai_fail": 2
     },
     {
       "id": "printify-6b0645629a7ef0f8180cc800",
@@ -278738,6 +278740,310 @@
       "img_checked": "2026-11-23"
     },
     {
+      "id": "printify-668eab5af72a45d14c0529a4",
+      "supplier": "Printify",
+      "supplier_id": "668eab5af72a45d14c0529a4",
+      "source_title": "Short DAZ Luxury para mujer",
+      "categories": [
+        "mujer/pantalones-cortos"
+      ],
+      "cost_usd": 22.04,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "95% poliéster, 5% spandex",
+      "color": "yellow",
+      "raw_images": [
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55197/short-daz-luxury-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55786/short-daz-luxury-para-mujer.jpg?camera_label=person-front",
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55813/short-daz-luxury-para-mujer.jpg?camera_label=person-back"
+      ],
+      "variant_map": {
+        "XS": 86201,
+        "S": 86202,
+        "M": 86203,
+        "L": 86204,
+        "XL": 86205,
+        "2XL": 86206
+      },
+      "skus": [
+        "12543894064836236311",
+        "13800598904511942188",
+        "39225022156213447545",
+        "84235944005396363338",
+        "13970339790059951317",
+        "20736218260775346937"
+      ],
+      "draft": false,
+      "supplier_product_id": "668eab5af72a45d14c0529a4",
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Short DAZ Luxury para mujer shorts yellow 95% poliéster, 5% spandex    Estos pantalones cortos personalizados fueron hechos para soportar el calor como campeones gracias a su tela que absorbe la humedad. Confeccionados con 95% poli&eacute;ster y 5% spandex, equilibran perfectamente la comodidad y la elasticidad sin dejar de ser s&uacute;per suaves al tacto. Cada par viene con costura de color blanco y capacidad de impresi&oacute;n completa.   \n &nbsp; \n  .: Material: 95% poli&eacute;ster que absorbe la humedad, 5% spandex  \n  .: Acabado de ante sint&eacute;tico cepillado  \n  .: Color hilo blanco  \n  .: Etiqueta de tama&ntilde;o y cuidado impresa  \n  .: Ce&ntil",
+      "name_es": "Shorts DAZ Luxury",
+      "name_en": "DAZ Luxury Shorts",
+      "desc_es": "Una declaración de diseño contemporáneo. Confeccionados para combinar ligereza y elasticidad, estos shorts ofrecen un tacto ultrasuave. Su tejido técnico absorbe la humedad con eficacia. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponibles con envío a todo el mundo.",
+      "desc_en": "A contemporary design statement. Engineered to balance lightweight performance and stretch, these shorts offer an ultra-soft touch. The technical fabric effectively absorbs moisture. Each piece is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+      "price_usd": 41.99,
+      "margin_pct": 27.8,
+      "images_original": [
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55197/short-daz-luxury-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55786/short-daz-luxury-para-mujer.jpg?camera_label=person-front",
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55813/short-daz-luxury-para-mujer.jpg?camera_label=person-back"
+      ],
+      "images_model": [
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55786/short-daz-luxury-para-mujer.jpg?camera_label=person-front",
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55813/short-daz-luxury-para-mujer.jpg?camera_label=person-back"
+      ],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55197/short-daz-luxury-para-mujer.jpg?camera_label=back"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 47.99,
+        "2026-11-20": 47.99,
+        "2026-11-21": 47.99,
+        "2026-11-22": 41.99,
+        "2026-11-23": 41.99,
+        "2026-11-24": 41.99,
+        "2026-11-25": 41.99
+      },
+      "hidden": false,
+      "score": 14.83,
+      "rank": 2024,
+      "badge": "new",
+      "look": [
+        "printful-383192424-black",
+        "printful-338164153",
+        "printful-337647274-dusty-rose",
+        "printful-350906743"
+      ],
+      "page": true,
+      "shipping_usd": 6.09,
+      "shipping_worst_usd": 15.49,
+      "fam": "short-luxury-mujer",
+      "stripe_product_id": "prod_VfCoVGXwSp0lsy",
+      "size_values": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/bJe14o0EI3akeyW22a1gV03",
+      "stripe_link_id": "plink_1UevDqLJVU4oTPuXaas7lLRv",
+      "stripe_price_cents": 4199,
+      "stripe_site": "https://dazmond.com",
+      "cg": "printify-668eab5af72a45d14c0529a4",
+      "shop_category": "",
+      "img_checked": "2026-11-23",
+      "art_score": 5,
+      "art_note": "Clean studio presentation, but the digital placement on model shots lacks high-end campaign atmosphere.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55197/short-daz-luxury-para-mujer.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55786/short-daz-luxury-para-mujer.jpg?camera_label=person-front",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55813/short-daz-luxury-para-mujer.jpg?camera_label=person-back",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "shorts",
+      "ai_gender": "women",
+      "ai_color": "yellow",
+      "ai_material": "95% poliéster, 5% spandex",
+      "ai_cats": [
+        "mujer/pantalones-cortos"
+      ],
+      "details_es": "· 95% poliéster, 5% spandex\n· Acabado de ante sintético cepillado\n· Costura de hilo blanco\n· Etiqueta de tamaño y cuidado impresa\n· Confeccionado bajo demanda\n· Envío mundial disponible",
+      "details_en": "· 95% polyester, 5% spandex\n· Brushed faux suede finish\n· White thread stitching\n· Printed size and care label\n· Made to order\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true,
+      "gender": "women"
+    },
+    {
+      "id": "printify-668eac084542f0d6d6052014",
+      "supplier": "Printify",
+      "supplier_id": "668eac084542f0d6d6052014",
+      "source_title": "Short DAZ para mujer",
+      "categories": [
+        "mujer/pantalones-cortos"
+      ],
+      "cost_usd": 22.04,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-19",
+      "material": "95% poliéster, 5% spandex",
+      "color": "red",
+      "raw_images": [
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55197/short-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55786/short-daz-para-mujer.jpg?camera_label=person-front",
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55813/short-daz-para-mujer.jpg?camera_label=person-back"
+      ],
+      "variant_map": {
+        "XS": 86201,
+        "S": 86202,
+        "M": 86203,
+        "L": 86204,
+        "XL": 86205,
+        "2XL": 86206
+      },
+      "skus": [
+        "11031233810904954831",
+        "15714254323846763383",
+        "28007436738041725324",
+        "70052377526031022773",
+        "33087317859942913488",
+        "19999685884144908410"
+      ],
+      "draft": false,
+      "supplier_product_id": "668eac084542f0d6d6052014",
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Short DAZ para mujer shorts red 95% poliéster, 5% spandex    Estos pantalones cortos personalizados fueron hechos para soportar el calor como campeones gracias a su tela que absorbe la humedad. Confeccionados con 95% poli&eacute;ster y 5% spandex, equilibran perfectamente la comodidad y la elasticidad sin dejar de ser s&uacute;per suaves al tacto. Cada par viene con costura de color blanco y capacidad de impresi&oacute;n completa.   \n &nbsp; \n  .: Material: 95% poli&eacute;ster que absorbe la humedad, 5% spandex  \n  .: Acabado de ante sint&eacute;tico cepillado  \n  .: Color hilo blanco  \n  .: Etiqueta de tama&ntilde;o y cuidado impresa  \n  .: Ce&ntil",
+      "name_es": "Pantalón corto de alto rendimiento",
+      "name_en": "High performance luxury shorts",
+      "desc_es": "Diseñados para combinar funcionalidad superior y elegancia moderna. Confeccionados con un tejido avanzado que absorbe la humedad, estos pantalones cortos ofrecen una comodidad excepcional y una elasticidad precisa. El acabado de ante sintético cepillado aporta una textura refinada al tacto. Una pieza versátil y sofisticada para la colección contemporánea. Cada prenda es confeccionada bajo demanda con disponibilidad de envío global.",
+      "desc_en": "Designed to combine superior functionality with modern elegance. Crafted from an advanced moisture-wicking fabric, these shorts offer exceptional comfort and precise elasticity. The brushed synthetic suede finish provides a refined texture to the touch. A versatile and sophisticated piece for the contemporary collection. Each garment is made to order with global shipping available.",
+      "price_usd": 41.99,
+      "margin_pct": 27.8,
+      "images_original": [
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55197/short-daz-para-mujer.jpg?camera_label=back",
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55786/short-daz-para-mujer.jpg?camera_label=person-front",
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55813/short-daz-para-mujer.jpg?camera_label=person-back"
+      ],
+      "images_model": [
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55786/short-daz-para-mujer.jpg?camera_label=person-front",
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55813/short-daz-para-mujer.jpg?camera_label=person-back"
+      ],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
+        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55197/short-daz-para-mujer.jpg?camera_label=back"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-19": 47.99,
+        "2026-11-20": 47.99,
+        "2026-11-21": 47.99,
+        "2026-11-22": 41.99,
+        "2026-11-23": 41.99,
+        "2026-11-24": 41.99,
+        "2026-11-25": 41.99
+      },
+      "hidden": false,
+      "score": 14.83,
+      "rank": 2025,
+      "badge": "new",
+      "look": [
+        "printful-383192424-black",
+        "printful-338164153",
+        "printful-337647274-dusty-rose",
+        "printful-350906743"
+      ],
+      "page": true,
+      "shipping_usd": 6.09,
+      "shipping_worst_usd": 15.49,
+      "fam": "short-mujer",
+      "stripe_product_id": "prod_VfCoReSA99RkYy",
+      "size_values": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/7sYeVebjm12c1Ma5em1gV04",
+      "stripe_link_id": "plink_1UevDrLJVU4oTPuXHbXsAXtr",
+      "stripe_price_cents": 4199,
+      "stripe_site": "https://dazmond.com",
+      "cg": "printify-668eac084542f0d6d6052014",
+      "shop_category": "",
+      "img_checked": "2026-11-23",
+      "art_score": 5,
+      "art_note": "Clean studio product shots, but lifestyle images feature standard template mockups.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55197/short-daz-para-mujer.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55786/short-daz-para-mujer.jpg?camera_label=person-front",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55813/short-daz-para-mujer.jpg?camera_label=person-back",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "shorts",
+      "ai_gender": "women",
+      "ai_color": "red",
+      "ai_material": "95% poliéster, 5% spandex",
+      "ai_cats": [
+        "mujer/pantalones-cortos"
+      ],
+      "details_es": "· 95% poliéster que absorbe la humedad, 5% spandex\n· Acabado de ante sintético cepillado\n· Color hilo blanco\n· Etiqueta de tamaño y cuidado impresa\n· Confección bajo demanda y envío mundial",
+      "details_en": "· 95% moisture-wicking polyester, 5% spandex\n· Brushed synthetic suede finish\n· White thread color\n· Printed size and care label\n· Made to order and worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true,
+      "gender": "women"
+    },
+    {
       "id": "printify-668eaa0ce8327b730b0bcac2",
       "supplier": "Printify",
       "supplier_id": "668eaa0ce8327b730b0bcac2",
@@ -278819,7 +279125,7 @@
       },
       "hidden": false,
       "score": 14.78,
-      "rank": 2024,
+      "rank": 2026,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -278971,7 +279277,7 @@
       },
       "hidden": false,
       "score": 14.78,
-      "rank": 2025,
+      "rank": 2027,
       "badge": "new",
       "look": [
         "printful-383192424-black",
@@ -279037,310 +279343,6 @@
       ],
       "details_es": "· 95% poliéster que absorbe la humedad\n· 5% spandex\n· Acabado de ante sintético cepillado\n· Color hilo blanco\n· Etiqueta de tamaño y cuidado impresa\n· Hecho a medida",
       "details_en": "· 95% moisture-wicking polyester\n· 5% spandex\n· Brushed faux suede finish\n· White thread color\n· Printed size and care label\n· Made to order",
-      "ai_copy": true,
-      "ai_done": true,
-      "gender": "women"
-    },
-    {
-      "id": "printify-668eab5af72a45d14c0529a4",
-      "supplier": "Printify",
-      "supplier_id": "668eab5af72a45d14c0529a4",
-      "source_title": "Short DAZ Luxury para mujer",
-      "categories": [
-        "mujer/pantalones-cortos"
-      ],
-      "cost_usd": 22.04,
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL"
-      ],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "95% poliéster, 5% spandex",
-      "color": "yellow",
-      "raw_images": [
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55197/short-daz-luxury-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55786/short-daz-luxury-para-mujer.jpg?camera_label=person-front",
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55813/short-daz-luxury-para-mujer.jpg?camera_label=person-back"
-      ],
-      "variant_map": {
-        "XS": 86201,
-        "S": 86202,
-        "M": 86203,
-        "L": 86204,
-        "XL": 86205,
-        "2XL": 86206
-      },
-      "skus": [
-        "12543894064836236311",
-        "13800598904511942188",
-        "39225022156213447545",
-        "84235944005396363338",
-        "13970339790059951317",
-        "20736218260775346937"
-      ],
-      "draft": false,
-      "supplier_product_id": "668eab5af72a45d14c0529a4",
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null,
-      "source_text": "Short DAZ Luxury para mujer shorts yellow 95% poliéster, 5% spandex    Estos pantalones cortos personalizados fueron hechos para soportar el calor como campeones gracias a su tela que absorbe la humedad. Confeccionados con 95% poli&eacute;ster y 5% spandex, equilibran perfectamente la comodidad y la elasticidad sin dejar de ser s&uacute;per suaves al tacto. Cada par viene con costura de color blanco y capacidad de impresi&oacute;n completa.   \n &nbsp; \n  .: Material: 95% poli&eacute;ster que absorbe la humedad, 5% spandex  \n  .: Acabado de ante sint&eacute;tico cepillado  \n  .: Color hilo blanco  \n  .: Etiqueta de tama&ntilde;o y cuidado impresa  \n  .: Ce&ntil",
-      "name_es": "Shorts DAZ Luxury",
-      "name_en": "DAZ Luxury Shorts",
-      "desc_es": "Una declaración de diseño contemporáneo. Confeccionados para combinar ligereza y elasticidad, estos shorts ofrecen un tacto ultrasuave. Su tejido técnico absorbe la humedad con eficacia. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponibles con envío a todo el mundo.",
-      "desc_en": "A contemporary design statement. Engineered to balance lightweight performance and stretch, these shorts offer an ultra-soft touch. The technical fabric effectively absorbs moisture. Each piece is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
-      "price_usd": 41.99,
-      "margin_pct": 27.8,
-      "images_original": [
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55197/short-daz-luxury-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55786/short-daz-luxury-para-mujer.jpg?camera_label=person-front",
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55813/short-daz-luxury-para-mujer.jpg?camera_label=person-back"
-      ],
-      "images_model": [
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55786/short-daz-luxury-para-mujer.jpg?camera_label=person-front",
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55813/short-daz-luxury-para-mujer.jpg?camera_label=person-back"
-      ],
-      "visual_verified": false,
-      "display_images": [
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55197/short-daz-luxury-para-mujer.jpg?camera_label=back"
-      ],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 47.99,
-        "2026-11-20": 47.99,
-        "2026-11-21": 47.99,
-        "2026-11-22": 41.99,
-        "2026-11-23": 41.99,
-        "2026-11-24": 41.99,
-        "2026-11-25": 41.99
-      },
-      "hidden": false,
-      "score": 14.78,
-      "rank": 2026,
-      "badge": "new",
-      "look": [
-        "printful-383192424-black",
-        "printful-338164153",
-        "printful-337647274-dusty-rose",
-        "printful-350906743"
-      ],
-      "page": true,
-      "shipping_usd": 6.09,
-      "shipping_worst_usd": 15.49,
-      "fam": "short-luxury-mujer",
-      "stripe_product_id": "prod_VfCoVGXwSp0lsy",
-      "size_values": {
-        "XS": "XS",
-        "S": "S",
-        "M": "M",
-        "L": "L",
-        "XL": "XL",
-        "2XL": "2XL"
-      },
-      "stripe_payment_link": "https://buy.stripe.com/bJe14o0EI3akeyW22a1gV03",
-      "stripe_link_id": "plink_1UevDqLJVU4oTPuXaas7lLRv",
-      "stripe_price_cents": 4199,
-      "stripe_site": "https://dazmond.com",
-      "cg": "printify-668eab5af72a45d14c0529a4",
-      "shop_category": "",
-      "img_checked": "2026-11-23",
-      "art_score": 5,
-      "art_note": "Clean studio presentation, but the digital placement on model shots lacks high-end campaign atmosphere.",
-      "needs_studio": true,
-      "ai_ver": 2,
-      "ai_images": {
-        "keep": [
-          {
-            "u": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
-            "k": "product",
-            "q": "ok"
-          },
-          {
-            "u": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55197/short-daz-luxury-para-mujer.jpg?camera_label=back",
-            "k": "product",
-            "q": "ok"
-          },
-          {
-            "u": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55786/short-daz-luxury-para-mujer.jpg?camera_label=person-front",
-            "k": "model",
-            "q": "cheap"
-          },
-          {
-            "u": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55813/short-daz-luxury-para-mujer.jpg?camera_label=person-back",
-            "k": "model",
-            "q": "cheap"
-          }
-        ],
-        "guides": []
-      },
-      "ai_type": "shorts",
-      "ai_gender": "women",
-      "ai_color": "yellow",
-      "ai_material": "95% poliéster, 5% spandex",
-      "ai_cats": [
-        "mujer/pantalones-cortos"
-      ],
-      "details_es": "· 95% poliéster, 5% spandex\n· Acabado de ante sintético cepillado\n· Costura de hilo blanco\n· Etiqueta de tamaño y cuidado impresa\n· Confeccionado bajo demanda\n· Envío mundial disponible",
-      "details_en": "· 95% polyester, 5% spandex\n· Brushed faux suede finish\n· White thread stitching\n· Printed size and care label\n· Made to order\n· Worldwide shipping available",
-      "ai_copy": true,
-      "ai_done": true,
-      "gender": "women"
-    },
-    {
-      "id": "printify-668eac084542f0d6d6052014",
-      "supplier": "Printify",
-      "supplier_id": "668eac084542f0d6d6052014",
-      "source_title": "Short DAZ para mujer",
-      "categories": [
-        "mujer/pantalones-cortos"
-      ],
-      "cost_usd": 22.04,
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL"
-      ],
-      "needs_review": false,
-      "created": "2026-11-19",
-      "material": "95% poliéster, 5% spandex",
-      "color": "red",
-      "raw_images": [
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55197/short-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55786/short-daz-para-mujer.jpg?camera_label=person-front",
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55813/short-daz-para-mujer.jpg?camera_label=person-back"
-      ],
-      "variant_map": {
-        "XS": 86201,
-        "S": 86202,
-        "M": 86203,
-        "L": 86204,
-        "XL": 86205,
-        "2XL": 86206
-      },
-      "skus": [
-        "11031233810904954831",
-        "15714254323846763383",
-        "28007436738041725324",
-        "70052377526031022773",
-        "33087317859942913488",
-        "19999685884144908410"
-      ],
-      "draft": false,
-      "supplier_product_id": "668eac084542f0d6d6052014",
-      "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null,
-      "source_text": "Short DAZ para mujer shorts red 95% poliéster, 5% spandex    Estos pantalones cortos personalizados fueron hechos para soportar el calor como campeones gracias a su tela que absorbe la humedad. Confeccionados con 95% poli&eacute;ster y 5% spandex, equilibran perfectamente la comodidad y la elasticidad sin dejar de ser s&uacute;per suaves al tacto. Cada par viene con costura de color blanco y capacidad de impresi&oacute;n completa.   \n &nbsp; \n  .: Material: 95% poli&eacute;ster que absorbe la humedad, 5% spandex  \n  .: Acabado de ante sint&eacute;tico cepillado  \n  .: Color hilo blanco  \n  .: Etiqueta de tama&ntilde;o y cuidado impresa  \n  .: Ce&ntil",
-      "name_es": "Pantalón corto de alto rendimiento",
-      "name_en": "High performance luxury shorts",
-      "desc_es": "Diseñados para combinar funcionalidad superior y elegancia moderna. Confeccionados con un tejido avanzado que absorbe la humedad, estos pantalones cortos ofrecen una comodidad excepcional y una elasticidad precisa. El acabado de ante sintético cepillado aporta una textura refinada al tacto. Una pieza versátil y sofisticada para la colección contemporánea. Cada prenda es confeccionada bajo demanda con disponibilidad de envío global.",
-      "desc_en": "Designed to combine superior functionality with modern elegance. Crafted from an advanced moisture-wicking fabric, these shorts offer exceptional comfort and precise elasticity. The brushed synthetic suede finish provides a refined texture to the touch. A versatile and sophisticated piece for the contemporary collection. Each garment is made to order with global shipping available.",
-      "price_usd": 41.99,
-      "margin_pct": 27.8,
-      "images_original": [
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55197/short-daz-para-mujer.jpg?camera_label=back",
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55786/short-daz-para-mujer.jpg?camera_label=person-front",
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55813/short-daz-para-mujer.jpg?camera_label=person-back"
-      ],
-      "images_model": [
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55786/short-daz-para-mujer.jpg?camera_label=person-front",
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55813/short-daz-para-mujer.jpg?camera_label=person-back"
-      ],
-      "visual_verified": false,
-      "display_images": [
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
-        "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55197/short-daz-para-mujer.jpg?camera_label=back"
-      ],
-      "available": true,
-      "price_history": {
-        "2026-11-19": 47.99,
-        "2026-11-20": 47.99,
-        "2026-11-21": 47.99,
-        "2026-11-22": 41.99,
-        "2026-11-23": 41.99,
-        "2026-11-24": 41.99,
-        "2026-11-25": 41.99
-      },
-      "hidden": false,
-      "score": 14.78,
-      "rank": 2027,
-      "badge": "new",
-      "look": [
-        "printful-383192424-black",
-        "printful-338164153",
-        "printful-337647274-dusty-rose",
-        "printful-350906743"
-      ],
-      "page": true,
-      "shipping_usd": 6.09,
-      "shipping_worst_usd": 15.49,
-      "fam": "short-mujer",
-      "stripe_product_id": "prod_VfCoReSA99RkYy",
-      "size_values": {
-        "XS": "XS",
-        "S": "S",
-        "M": "M",
-        "L": "L",
-        "XL": "XL",
-        "2XL": "2XL"
-      },
-      "stripe_payment_link": "https://buy.stripe.com/7sYeVebjm12c1Ma5em1gV04",
-      "stripe_link_id": "plink_1UevDrLJVU4oTPuXHbXsAXtr",
-      "stripe_price_cents": 4199,
-      "stripe_site": "https://dazmond.com",
-      "cg": "printify-668eac084542f0d6d6052014",
-      "shop_category": "",
-      "img_checked": "2026-11-23",
-      "art_score": 5,
-      "art_note": "Clean studio product shots, but lifestyle images feature standard template mockups.",
-      "needs_studio": true,
-      "ai_ver": 2,
-      "ai_images": {
-        "keep": [
-          {
-            "u": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
-            "k": "product",
-            "q": "ok"
-          },
-          {
-            "u": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55197/short-daz-para-mujer.jpg?camera_label=back",
-            "k": "product",
-            "q": "ok"
-          },
-          {
-            "u": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55786/short-daz-para-mujer.jpg?camera_label=person-front",
-            "k": "model",
-            "q": "cheap"
-          },
-          {
-            "u": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55813/short-daz-para-mujer.jpg?camera_label=person-back",
-            "k": "model",
-            "q": "cheap"
-          }
-        ],
-        "guides": []
-      },
-      "ai_type": "shorts",
-      "ai_gender": "women",
-      "ai_color": "red",
-      "ai_material": "95% poliéster, 5% spandex",
-      "ai_cats": [
-        "mujer/pantalones-cortos"
-      ],
-      "details_es": "· 95% poliéster que absorbe la humedad, 5% spandex\n· Acabado de ante sintético cepillado\n· Color hilo blanco\n· Etiqueta de tamaño y cuidado impresa\n· Confección bajo demanda y envío mundial",
-      "details_en": "· 95% moisture-wicking polyester, 5% spandex\n· Brushed synthetic suede finish\n· White thread color\n· Printed size and care label\n· Made to order and worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
       "gender": "women"

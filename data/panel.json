@@ -1,7 +1,7 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-25 02:41 UTC",
+  "updated": "2026-11-25 03:41 UTC",
   "totals": {
     "catalogo": 2451,
     "a_la_vista": 2089,
@@ -13,7 +13,7 @@
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 11,
     "ventas_30_dias": 0,
-    "visitas_30_dias": 2021,
+    "visitas_30_dias": 2023,
     "fotos_de_campana": 0
   },
   "reasons": {
@@ -3831,13 +3831,13 @@
     "Productos en catálogo: 2451 · a la vista: 2092 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
-    "Firebase: visitas leídas de 2000 piezas",
+    "Firebase: visitas leídas de 2002 piezas",
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con printify-6b06455a9a7ef0f8180cc7f3: gemini-flash-latest: The read operation timed out",
+    "IA: fallo con printify-6b06455a9a7ef0f8180cc7f3: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 2 productos revisados (fotos, guía de tallas y textos) · quedan 1717",
-    "⏱ revisión con IA: 364 s",
+    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1717",
+    "⏱ revisión con IA: 322 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
