@@ -1,25 +1,26 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-24 23:41 UTC",
+  "updated": "2026-11-25 00:41 UTC",
   "totals": {
     "catalogo": 2438,
     "a_la_vista": 2074,
     "disenos_a_la_vista": 845,
     "ocultos": 364,
-    "ia_revisados": 954,
-    "ia_pendientes": 1483,
+    "ia_revisados": 955,
+    "ia_pendientes": 1482,
     "con_boton_de_pago": 2074,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 11,
     "ventas_30_dias": 0,
-    "visitas_30_dias": 2013,
+    "visitas_30_dias": 2015,
     "fotos_de_campana": 0
   },
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 360
+    "Borrador": 359,
+    "Oculto": 1
   },
   "suppliers": {
     "Printful": {
@@ -370,6 +371,11 @@
         "Gorro de Punto con Pompón · Rojo: inspección IA: era beanie (unisex) → hombre/gorro-bufanda, mujer/gorros-bufandas",
         "Traje de Baño Halter Negro: oculto: repetido de shopify-design-swimsuit-set-front-side-printingmade-in-usa-azul-medio-profundo"
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "n": 0,
+      "fixes": []
     }
   ],
   "top_sales": [],
@@ -1994,7 +2000,7 @@
       "img": "assets/products/shop/080cc28bac475314977f.jpg",
       "c": "hombre/conjuntos",
       "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
+      "why": "Oculto"
     },
     {
       "id": "interestprint-design-3-4-sleeve-jumpsuit-8",
@@ -3840,18 +3846,20 @@
     "CSV leído: telegram.csv",
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 16 s",
+    "⏱ lectura de proveedores: 12 s",
     "Productos en catálogo: 2438 · a la vista: 2077 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
-    "Firebase: visitas leídas de 1996 piezas",
-    "⏱ ventas, visitas y cupones: 3 s",
+    "Firebase: visitas leídas de 1998 piezas",
+    "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: fallo con interestprint-design-3-4-sleeve-jumpsuit-7: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
     "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1708",
-    "⏱ revisión con IA: 198 s",
+    "⏱ revisión con IA: 208 s",
     "⏱ vigilante: 0 s",
+    "Estudio de fotos: Google no permite crear imágenes con esta clave gratuita hoy. Se reintenta mañana.",
+    "Estudio de fotos: 0 fotos de campaña nuevas (de 1 intentos)",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9122 EUR",

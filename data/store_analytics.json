@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T23:41:58Z",
+  "updated": "2026-11-25T00:41:50Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -5659,7 +5659,7 @@
     "shopify-colorful-pop-art-grenades-seamless-pattern-background-wallpaper-565021177-jpg-mens-blazer-model-h64": {
       "views": 2,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -21956,7 +21956,7 @@
       "revenue_30d": 0.0
     },
     "printify-669f89290086155073058730": {
-      "views": 0,
+      "views": 1,
       "clicks": 0,
       "views_today": 0,
       "sales_30d": 0,
@@ -21965,9 +21965,9 @@
       "revenue_30d": 0.0
     },
     "printify-669f87936b62c2d4940ddfd7": {
-      "views": 0,
+      "views": 1,
       "clicks": 0,
-      "views_today": 0,
+      "views_today": 1,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -28411,7 +28411,7 @@
     "printful-345759651": {
       "views": 4,
       "clicks": 1,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
