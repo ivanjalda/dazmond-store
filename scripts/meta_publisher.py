@@ -54,20 +54,23 @@ def api(path, params, method="POST"):
         raise RuntimeError(e.read().decode()[:400])
 
 
-def image_url(p, site):
+def image_url(p, site, ig=False):
+    """Primera foto pública del producto. Para Instagram solo valen JPG/PNG (no WEBP)."""
+    cands = []
     for src in (p.get("display_images") or []) + (p.get("images_original") or []) + (p.get("raw_images") or []):
         if not src:
             continue
-        if src.startswith("http"):
-            return src
-        return f"{site}/{src.lstrip('/')}"
-    return None
+        cands.append(src if src.startswith("http") else f"{site}/{src.lstrip('/')}")
+    if ig:
+        good = [u for u in cands if u.split("?")[0].lower().endswith((".jpg", ".jpeg", ".png"))]
+        return good[0] if good else None
+    return cands[0] if cands else None
 
 
 def pick(products, state, n, rng):
     used = set(state.get("used", [])[-600:])
     ok = [p for p in products if p.get("available", True) and not p.get("hidden") and not p.get("draft")
-          and p.get("price_usd", 0) > 0]
+          and p.get("price_usd", 0) > 0 and image_url(p, "https://dazmond.com", ig=True)]
     fresh = [p for p in ok if p["id"] not in used]
     if len(fresh) < n:
         state["used"] = []
@@ -99,7 +102,7 @@ def caption(items, site):
 
 
 def publish_instagram(ig, token, items, site):
-    urls = [u for u in (image_url(p, site) for p in items) if u]
+    urls = [u for u in (image_url(p, site, ig=True) for p in items) if u]
     if not urls:
         raise RuntimeError("ningún producto tiene foto pública")
     cap = caption(items, site)
@@ -125,7 +128,24 @@ def publish_instagram(ig, token, items, site):
     return r.get("id")
 
 
+def page_token(page, token):
+    """Facebook solo deja publicar en la página con la llave DE LA PÁGINA. Si la guardada es la de la
+    persona, se saca aquí la de la página (y no caduca)."""
+    try:
+        me = api("me", {"fields": "id", "access_token": token}, "GET")
+        if str(me.get("id")) == str(page):
+            return token
+        acc = api("me/accounts", {"fields": "id,access_token", "limit": 100, "access_token": token}, "GET")
+        for a in acc.get("data", []):
+            if str(a.get("id")) == str(page):
+                return a["access_token"]
+    except Exception as e:
+        log(f"No pude sacar la llave de la página: {str(e)[:150]}")
+    return token
+
+
 def publish_facebook(page, token, p, site):
+    token = page_token(page, token)
     url = image_url(p, site)
     link = f"{site}/p/{p['id']}/?lang=en&cur=USD"
     msg = (f"{p.get('name_en', 'DAZMOND')} — ${round(p.get('price_usd', 0))}\n"
@@ -148,11 +168,24 @@ def main():
         return 0
     site = (cfg.get("site_url") or "https://dazmond.com").rstrip("/")
     now = datetime.now(timezone.utc)
-    slot = f"{now:%Y-%m-%d}-{now.hour}"
+    today = f"{now:%Y-%m-%d}"
     state = load_json("meta_publisher.json", {"done": [], "used": [], "log": []})
-    force = os.environ.get("META_FORCE") == "1"
-    if not force and (now.hour not in conf["slots_utc"] or slot in state["done"]):
+    # Turno que toca: la última hora elegida que ya pasó hoy (si una ejecución se salta la hora exacta, publica en la siguiente)
+    passed = [h for h in sorted(conf["slots_utc"]) if h <= now.hour]
+    if not passed:
         log(f"No toca publicar ahora (hora UTC {now.hour}).")
+        return 0
+    slot = f"{today}-{passed[-1]}"
+    if slot in state["done"]:
+        log("Este turno ya está publicado.")
+        return 0
+    today_posts = [x for x in state.get("log", []) if str(x.get("slot", "")).startswith(today)]
+    if len(today_posts) >= conf.get("max_per_day", 2):
+        log("Ya se hicieron las publicaciones de hoy.")
+        return 0
+    last = state.get("last_ts", 0)
+    if time.time() - last < conf.get("min_gap_hours", 5) * 3600:
+        log("La última publicación fue hace poco; espero al siguiente turno.")
         return 0
     products = load_json("products.json", {"products": []}).get("products", [])
     rng = random.Random(slot)
@@ -174,12 +207,20 @@ def main():
         result["facebook_error"] = str(e)[:300]
         log(f"Facebook falló: {e}")
     state["done"] = (state["done"] + [slot])[-200:]
+    state["last_ts"] = time.time()
     state["used"] = (state.get("used", []) + result["ids"])[-600:]
     state["log"] = (state.get("log", []) + [result])[-100:]
     save_json("meta_publisher.json", state)
-    if "instagram_error" in result or "facebook_error" in result:
-        notify("⚠️ Redes: " + "; ".join(f"{k}: {v[:150]}" for k, v in result.items() if k.endswith("_error")))
+    errs = "; ".join(f"{k}: {v[:150]}" for k, v in result.items() if k.endswith("_error"))
+    if errs and errs == state.get("last_err"):
+        pass  # mismo fallo que la vez anterior: no repito el aviso
+    elif errs:
+        state["last_err"] = errs
+        save_json("meta_publisher.json", state)
+        notify("⚠️ Redes: " + errs)
     else:
+        state["last_err"] = ""
+        save_json("meta_publisher.json", state)
         notify(f"✦ Publicado en Instagram y Facebook: {', '.join(p.get('name_es', p['id']) for p in items)}")
     return 0
 
