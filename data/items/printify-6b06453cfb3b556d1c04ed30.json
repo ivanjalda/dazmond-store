@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Standard studio product shots against a plain background, lacking high-end editorial atmosphere or model context.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,14 +21,15 @@
  "cg": "printify-6b06453cfb3b556d1c04ed30",
  "color": "Black",
  "created": "2026-11-25",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Contemporary silhouette meets graphic precision in this essential piece. Designed for versatile and sophisticated wear, it offers an effortless yet commanding presence. Tonal contrast defines a modern and refined aesthetic. Each garment is crafted exclusively to order in our workshops. Available with worldwide shipping.",
+ "desc_es": "La silueta contemporánea se encuentra con la precisión gráfica en esta pieza esencial. Diseñada para un uso versátil y sofisticado, ofrece una presencia imponente sin esfuerzo. El contraste tonal define una estética moderna y depurada. Cada prenda se confecciona exclusivamente bajo pedido en nuestros talleres. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a medida\n· Envíos a todo el mundo",
  "display_images": [
   "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98424/baroque-mirror-hoodie.jpg?camera_label=front",
   "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98425/baroque-mirror-hoodie.jpg?camera_label=back",
   "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98426/baroque-mirror-hoodie.jpg?camera_label=back-2",
-  "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98432/baroque-mirror-hoodie.jpg?camera_label=folded",
-  "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/110151/baroque-mirror-hoodie.jpg?camera_label=size-chart"
+  "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98432/baroque-mirror-hoodie.jpg?camera_label=folded"
  ],
  "draft": false,
  "fam": "baroque-mirror-hoodie",
@@ -30,17 +43,123 @@
   "printify-6b064539fb3b556d1c04ed2a"
  ],
  "material": "",
- "name_en": "Baroque Mirror Sweatshirt · Black",
- "name_es": "Sudadera Baroque Mirror · Negro",
+ "name_en": "Baroque Mirror Black Hoodie",
+ "name_es": "Sudadera Baroque Mirror Negro",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 46.99,
  "rank": 10,
  "shipping_usd": 8.79,
  "shipping_worst_usd": 8.79,
  "shop_category": "",
  "shop_verified": false,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación.",
+  "rows": [
+   [
+    "Width (Imperial)",
+    "-",
+    "20.0",
+    "22.0",
+    "24.0",
+    "26.0",
+    "28.0",
+    "30.0",
+    "32.0",
+    "34.0"
+   ],
+   [
+    "Length (Imperial)",
+    "-",
+    "27.1",
+    "28.0",
+    "29.1",
+    "30.0",
+    "31.0",
+    "32.0",
+    "33.0",
+    "34.0"
+   ],
+   [
+    "Sleeve length (Imperial)",
+    "-",
+    "33.5",
+    "34.5",
+    "35.5",
+    "36.5",
+    "37.5",
+    "38.5",
+    "39.5",
+    "40.5"
+   ],
+   [
+    "Width (Metric)",
+    "-",
+    "51.0",
+    "56.0",
+    "61.0",
+    "66.0",
+    "71.1",
+    "76.2",
+    "81.3",
+    "86.0"
+   ],
+   [
+    "Length (Metric)",
+    "-",
+    "69.0",
+    "71.1",
+    "74.0",
+    "76.0",
+    "79.0",
+    "81.0",
+    "84.0",
+    "86.0"
+   ],
+   [
+    "Sleeve length (Metric)",
+    "-",
+    "85.0",
+    "87.6",
+    "90.2",
+    "92.7",
+    "95.3",
+    "98.0",
+    "100.3",
+    "102.9"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/110151/baroque-mirror-hoodie.jpg?camera_label=size-chart"
+ ],
  "sizes": [
   "M",
   "L",

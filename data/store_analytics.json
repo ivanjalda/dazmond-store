@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T02:18:12Z",
+  "updated": "2026-11-25T02:41:47Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -22001,9 +22001,9 @@
       "revenue_30d": 0.0
     },
     "printify-668eb21afc9e2d84f00ecdc1": {
-      "views": 0,
+      "views": 1,
       "clicks": 0,
-      "views_today": 0,
+      "views_today": 1,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,

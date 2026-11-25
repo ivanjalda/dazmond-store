@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T02:18:12Z",
+  "updated": "2026-11-25T02:41:47Z",
   "products": [
     {
       "id": "printful-365090873",
@@ -1201,13 +1201,117 @@
       "draft": false,
       "supplier_product_id": "6b06453cfb3b556d1c04ed30",
       "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/110151/baroque-mirror-hoodie.jpg?camera_label=size-chart"
+      ],
+      "size_chart": {
+        "unit": "inches / centimeters",
+        "headers": [
+          "Size",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "headers_es": [
+          "Talla",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "rows": [
+          [
+            "Width (Imperial)",
+            "-",
+            "20.0",
+            "22.0",
+            "24.0",
+            "26.0",
+            "28.0",
+            "30.0",
+            "32.0",
+            "34.0"
+          ],
+          [
+            "Length (Imperial)",
+            "-",
+            "27.1",
+            "28.0",
+            "29.1",
+            "30.0",
+            "31.0",
+            "32.0",
+            "33.0",
+            "34.0"
+          ],
+          [
+            "Sleeve length (Imperial)",
+            "-",
+            "33.5",
+            "34.5",
+            "35.5",
+            "36.5",
+            "37.5",
+            "38.5",
+            "39.5",
+            "40.5"
+          ],
+          [
+            "Width (Metric)",
+            "-",
+            "51.0",
+            "56.0",
+            "61.0",
+            "66.0",
+            "71.1",
+            "76.2",
+            "81.3",
+            "86.0"
+          ],
+          [
+            "Length (Metric)",
+            "-",
+            "69.0",
+            "71.1",
+            "74.0",
+            "76.0",
+            "79.0",
+            "81.0",
+            "84.0",
+            "86.0"
+          ],
+          [
+            "Sleeve length (Metric)",
+            "-",
+            "85.0",
+            "87.6",
+            "90.2",
+            "92.7",
+            "95.3",
+            "98.0",
+            "100.3",
+            "102.9"
+          ]
+        ],
+        "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
+        "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
+      },
       "source_text": "Baroque Mirror Hoodie Black DAZMOND & Co. — Baroque Mirror. Made to order.",
-      "name_es": "Sudadera Baroque Mirror · Negro",
-      "name_en": "Baroque Mirror Sweatshirt · Black",
-      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "name_es": "Sudadera Baroque Mirror Negro",
+      "name_en": "Baroque Mirror Black Hoodie",
+      "desc_es": "La silueta contemporánea se encuentra con la precisión gráfica en esta pieza esencial. Diseñada para un uso versátil y sofisticado, ofrece una presencia imponente sin esfuerzo. El contraste tonal define una estética moderna y depurada. Cada prenda se confecciona exclusivamente bajo pedido en nuestros talleres. Disponible con envíos a todo el mundo.",
+      "desc_en": "Contemporary silhouette meets graphic precision in this essential piece. Designed for versatile and sophisticated wear, it offers an effortless yet commanding presence. Tonal contrast defines a modern and refined aesthetic. Each garment is crafted exclusively to order in our workshops. Available with worldwide shipping.",
       "price_usd": 46.99,
       "margin_pct": 21.4,
       "shipping_usd": 8.79,
@@ -1225,8 +1329,7 @@
         "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98424/baroque-mirror-hoodie.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98425/baroque-mirror-hoodie.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98426/baroque-mirror-hoodie.jpg?camera_label=back-2",
-        "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98432/baroque-mirror-hoodie.jpg?camera_label=folded",
-        "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/110151/baroque-mirror-hoodie.jpg?camera_label=size-chart"
+        "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98432/baroque-mirror-hoodie.jpg?camera_label=folded"
       ],
       "available": true,
       "price_history": {
@@ -1261,7 +1364,49 @@
       "stripe_link_id": "plink_1UfVpBLJVU4oTPuXFM7Rjjdn",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "art_score": 5,
+      "art_note": "Standard studio product shots against a plain background, lacking high-end editorial atmosphere or model context.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98424/baroque-mirror-hoodie.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98425/baroque-mirror-hoodie.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98426/baroque-mirror-hoodie.jpg?camera_label=back-2",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98432/baroque-mirror-hoodie.jpg?camera_label=folded",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/110151/baroque-mirror-hoodie.jpg?camera_label=size-chart"
+        ]
+      },
+      "ai_type": "hoodie",
+      "ai_gender": "unisex",
+      "ai_color": "Black",
+      "ai_cats": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "details_es": "· Hecho a medida\n· Envíos a todo el mundo",
+      "details_en": "· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printify-6b06454bfb3b556d1c04ed46",
@@ -1318,13 +1463,81 @@
       "draft": false,
       "supplier_product_id": "6b06454bfb3b556d1c04ed46",
       "shop_verified": false,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/110151/gatsby-fan-hoodie.jpg?camera_label=size-chart"
+      ],
+      "size_chart": {
+        "unit": "inches / centimeters",
+        "headers": [
+          "Size",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "headers_es": [
+          "Talla",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "rows": [
+          [
+            "Width",
+            "-",
+            "20.0",
+            "22.0",
+            "24.0",
+            "26.0",
+            "28.0",
+            "30.0",
+            "32.0",
+            "34.0"
+          ],
+          [
+            "Length",
+            "-",
+            "27.1",
+            "28.0",
+            "29.1",
+            "30.0",
+            "31.0",
+            "32.0",
+            "33.0",
+            "34.0"
+          ],
+          [
+            "Sleeve length",
+            "-",
+            "33.5",
+            "34.5",
+            "35.5",
+            "36.5",
+            "37.5",
+            "38.5",
+            "39.5",
+            "40.5"
+          ]
+        ],
+        "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
+        "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
+      },
       "source_text": "Gatsby Fan Hoodie Black DAZMOND & Co. — Gatsby Fan. Made to order.",
-      "name_es": "Sudadera Gatsby Fan · Negro",
-      "name_en": "Gatsby Fan Sweatshirt · Black",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "name_es": "Sudadera Gatsby Fan",
+      "name_en": "Gatsby Fan Hoodie",
+      "desc_es": "Diseño depurado y silueta imponente para la temporada moderna. Esta pieza combina un tono negro profundo con una presencia gráfica refinada inspirada en la elegancia clásica. Confeccionada bajo pedido para asegurar una exclusividad absoluta. Cada detalle ha sido pensado para el guardarropa contemporáneo que valora la discreción y el poder visual. Una prenda versátil de líneas limpias que trasciende las tendencias pasajeras. Disponible con envío a todo el mundo.",
+      "desc_en": "A refined silhouette and commanding presence for the modern wardrobe. This piece pairs a deep black tone with a sophisticated graphic print inspired by classic elegance. Crafted to order to ensure absolute exclusivity. Every line is tailored for the contemporary individual who values understated luxury and visual power. A versatile garment that transcends fleeting trends. Available with worldwide shipping.",
       "price_usd": 46.99,
       "margin_pct": 21.4,
       "shipping_usd": 8.79,
@@ -1342,8 +1555,7 @@
         "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98424/gatsby-fan-hoodie.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98425/gatsby-fan-hoodie.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98426/gatsby-fan-hoodie.jpg?camera_label=back-2",
-        "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98432/gatsby-fan-hoodie.jpg?camera_label=folded",
-        "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/110151/gatsby-fan-hoodie.jpg?camera_label=size-chart"
+        "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98432/gatsby-fan-hoodie.jpg?camera_label=folded"
       ],
       "available": true,
       "price_history": {
@@ -1378,7 +1590,49 @@
       "stripe_link_id": "plink_1UfVpCLJVU4oTPuX5kf2bDFd",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "art_score": 6,
+      "art_note": "Clean product photography against a plain background, lacking lifestyle context or high-end model campaigns.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98424/gatsby-fan-hoodie.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98425/gatsby-fan-hoodie.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98426/gatsby-fan-hoodie.jpg?camera_label=back-2",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98432/gatsby-fan-hoodie.jpg?camera_label=folded",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/110151/gatsby-fan-hoodie.jpg?camera_label=size-chart"
+        ]
+      },
+      "ai_type": "hoodie",
+      "ai_gender": "unisex",
+      "ai_color": "black",
+      "ai_cats": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "details_es": "· Hecho a pedido",
+      "details_en": "· Made to order",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printify-6b06455a9a7ef0f8180cc7f3",
@@ -1495,7 +1749,8 @@
       "stripe_link_id": "plink_1UfVpDLJVU4oTPuXRdkaNdsN",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "ai_fail": 1
     },
     {
       "id": "printify-6b0645629a7ef0f8180cc800",
@@ -279174,7 +279429,7 @@
         "2026-11-25": 42.99
       },
       "hidden": false,
-      "score": 14.71,
+      "score": 14.76,
       "rank": 2028,
       "badge": "new",
       "look": [

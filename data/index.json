@@ -171,16 +171,16 @@
       "available": true,
       "rank": 9,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b06455171915c76bb027d03",
       "fam": "gatsby-fan-art",
       "cg": "printify-6b06455171915c76bb027d03",
-      "img": "https://images.printify.com/mockup/6b06455171915c76bb027d03/43135/94677/gatsby-fan-art-print.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b06455171915c76bb027d03/43135/94677/gatsby-fan-art-print.jpg?camera_label=front"
     },
     {
       "id": "printify-6b06453cfb3b556d1c04ed30",
-      "name_es": "Sudadera Baroque Mirror · Negro",
-      "name_en": "Baroque Mirror Sweatshirt · Black",
+      "name_es": "Sudadera Baroque Mirror Negro",
+      "name_en": "Baroque Mirror Black Hoodie",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -190,17 +190,18 @@
       "available": true,
       "rank": 10,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b06453cfb3b556d1c04ed30",
       "fam": "baroque-mirror-hoodie",
       "cg": "printify-6b06453cfb3b556d1c04ed30",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98424/baroque-mirror-hoodie.jpg?camera_label=front",
-      "page": true
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98424/baroque-mirror-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b06454bfb3b556d1c04ed46",
-      "name_es": "Sudadera Gatsby Fan · Negro",
-      "name_en": "Gatsby Fan Sweatshirt · Black",
+      "name_es": "Sudadera Gatsby Fan",
+      "name_en": "Gatsby Fan Hoodie",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -210,12 +211,13 @@
       "available": true,
       "rank": 11,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b06454bfb3b556d1c04ed46",
       "fam": "gatsby-fan-hoodie",
       "cg": "printify-6b06454bfb3b556d1c04ed46",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98424/gatsby-fan-hoodie.jpg?camera_label=front",
-      "page": true
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98424/gatsby-fan-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b06455a9a7ef0f8180cc7f3",
@@ -230,12 +232,12 @@
       "available": true,
       "rank": 12,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b06455a9a7ef0f8180cc7f3",
       "fam": "house-seal-hoodie",
       "cg": "printify-6b06455a9a7ef0f8180cc7f3",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b06455a9a7ef0f8180cc7f3/32920/98424/house-seal-hoodie.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b06455a9a7ef0f8180cc7f3/32920/98424/house-seal-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0645629a7ef0f8180cc800",
@@ -249,11 +251,11 @@
       "available": true,
       "rank": 13,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b0645629a7ef0f8180cc800",
       "fam": "house-seal-mug",
       "cg": "printify-6b0645629a7ef0f8180cc800",
-      "img": "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62327/3387/house-seal-mug.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62327/3387/house-seal-mug.jpg?camera_label=front"
     },
     {
       "id": "printify-6b06455efb3b556d1c04ed5f",
@@ -268,12 +270,12 @@
       "available": true,
       "rank": 14,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b06455efb3b556d1c04ed5f",
       "fam": "house-seal-crewneck",
       "cg": "printify-6b06455efb3b556d1c04ed5f",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b06455efb3b556d1c04ed5f/25459/98502/house-seal-crewneck.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b06455efb3b556d1c04ed5f/25459/98502/house-seal-crewneck.jpg?camera_label=front"
     },
     {
       "id": "printify-6b064539fb3b556d1c04ed2a",
@@ -288,12 +290,12 @@
       "available": true,
       "rank": 15,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b064539fb3b556d1c04ed2a",
       "fam": "baroque-mirror-tee",
       "cg": "printify-6b064539fb3b556d1c04ed2a",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b064539fb3b556d1c04ed2a/12124/102005/baroque-mirror-tee.jpg?camera_label=front-2",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b064539fb3b556d1c04ed2a/12124/102005/baroque-mirror-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b06453fc873c9091302bc50",
@@ -307,11 +309,11 @@
       "available": true,
       "rank": 16,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b06453fc873c9091302bc50",
       "fam": "baroque-mirror-cushion",
       "cg": "printify-6b06453fc873c9091302bc50",
-      "img": "https://images.printify.com/mockup/6b06453fc873c9091302bc50/41521/47613/baroque-mirror-cushion.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b06453fc873c9091302bc50/41521/47613/baroque-mirror-cushion.jpg?camera_label=front"
     },
     {
       "id": "printify-6b064548c873c9091302bc5b",
@@ -326,12 +328,12 @@
       "available": true,
       "rank": 17,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b064548c873c9091302bc5b",
       "fam": "gatsby-fan-tee",
       "cg": "printify-6b064548c873c9091302bc5b",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b064548c873c9091302bc5b/12124/102005/gatsby-fan-tee.jpg?camera_label=front-2",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b064548c873c9091302bc5b/12124/102005/gatsby-fan-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b06454e71915c76bb027cfe",
@@ -345,11 +347,11 @@
       "available": true,
       "rank": 18,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b06454e71915c76bb027cfe",
       "fam": "gatsby-fan-cushion",
       "cg": "printify-6b06454e71915c76bb027cfe",
-      "img": "https://images.printify.com/mockup/6b06454e71915c76bb027cfe/41521/47613/gatsby-fan-cushion.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b06454e71915c76bb027cfe/41521/47613/gatsby-fan-cushion.jpg?camera_label=front"
     },
     {
       "id": "printify-6b06455643cb7ee2d4028d25",
@@ -364,12 +366,12 @@
       "available": true,
       "rank": 19,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b06455643cb7ee2d4028d25",
       "fam": "house-seal-tee",
       "cg": "printify-6b06455643cb7ee2d4028d25",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b06455643cb7ee2d4028d25/12124/102005/house-seal-tee.jpg?camera_label=front-2",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b06455643cb7ee2d4028d25/12124/102005/house-seal-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b06454243cb7ee2d4028d0f-black",
@@ -384,12 +386,12 @@
       "available": true,
       "rank": 20,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b06454243cb7ee2d4028d0f-black",
       "fam": "baroque-mirror-tote",
       "cg": "printify-6b06454243cb7ee2d4028d0f",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b06454243cb7ee2d4028d0f/119445/109797/baroque-mirror-tote.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b06454243cb7ee2d4028d0f/119445/109797/baroque-mirror-tote.jpg?camera_label=front"
     },
     {
       "id": "printify-6b06454243cb7ee2d4028d0f-oyster",
@@ -404,12 +406,12 @@
       "available": true,
       "rank": 21,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "6b06454243cb7ee2d4028d0f-oyster",
       "fam": "baroque-mirror-tote",
       "cg": "printify-6b06454243cb7ee2d4028d0f",
       "color": "Oyster",
-      "img": "https://images.printify.com/mockup/6b06454243cb7ee2d4028d0f/119446/109797/baroque-mirror-tote.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b06454243cb7ee2d4028d0f/119446/109797/baroque-mirror-tote.jpg?camera_label=front"
     },
     {
       "id": "printful-345759651",
