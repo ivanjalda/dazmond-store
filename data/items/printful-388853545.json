@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Flat lay mockup style typical of print-on-demand suppliers, lacking the dimensional luxury presentation required for high-end e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-388853545",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Essential silhouette defined by clean lines and refined proportions. This classic cut bikini features an all-over design with an immaculate finish. A piece conceived for summer leisure, crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Silueta esencial definida por líneas limpias y proporciones depuradas. Este bikini de corte clásico se presenta con un diseño integral y acabado impecable. Una pieza concebida para el descanso estival, elaborada bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/2e4/2e4b123dc0508509ddaac921bcc7384f_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Triángulo Daz Swimwear · White",
- "name_es": "Bañador Triángulo Daz · Blanco",
+ "name_en": "All-Over Recycled String Bikini",
+ "name_es": "Bikini de Cuerdas Reciclado All-Over",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 235,

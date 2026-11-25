@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce model shot with flat lighting and generic mockup appearance, lacking true luxury campaign ambiance.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-338109422",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Dive into coastal elegance with the Oceanic Flora bikini. This high-waisted design enhances the silhouette with subtle sophistication. The all-over print brings a touch of timeless refinement to your days by the sea. Crafted on demand to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Sumérgete en la elegancia costera con el bikini Oceanic Flora. Este diseño de talle alto realza la silueta con una sofisticación sutil. Su estampado integral aporta un aire de refinamiento atemporal a tus jornadas junto al mar. Confeccionado bajo demanda para garantizar exclusividad. Disponible con envío internacional.",
+ "details_en": "· Made to order.\n· Worldwide shipping available.",
+ "details_es": "· Hecho bajo pedido.\n· Envío mundial disponible.",
  "display_images": [
   "https://files.cdn.printful.com/files/36f/36fbe497bd862c3b4eed05f70a790657_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Oceanic Flora High Swimwear · White",
- "name_es": "Bañador Oceanic Flora High · Blanco",
+ "name_en": "Oceanic Flora High-Waisted Bikini",
+ "name_es": "Bikini de talle alto Oceanic Flora",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 63.99,
  "rank": 277,

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/8e228059d8d67fcccf41.jpg",
+  "assets/products/shop/9b00987995eed7901e23.jpg",
+  "assets/products/shop/299dbfb997951365533b.jpg",
+  "assets/products/shop/15a9b5c7bdd83bc89cf9.jpg"
+ ],
  "ai_cats": [
   "mujer/falda"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "falda-skater-premium",
+ "gender": "women",
  "hidden": false,
  "id": "printful-375123306",
  "img_checked": "2026-11-22",

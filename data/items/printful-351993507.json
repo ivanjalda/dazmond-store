@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/mallas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "The image features a flatly composited print on a headless mannequin-like body, lacking the refinement expected of a luxury house.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351993507",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold expression of contemporary design. The Shadow Eclipse leggings redefine the masculine silhouette with an immersive monochrome aesthetic. Each piece is crafted to order to ensure ultimate exclusivity. Worldwide shipping available.",
+ "desc_es": "Una expresion audaz de diseno contemporaneo. Las mallas Shadow Eclipse redefinen la silueta masculina con una estetica monocromatica y envolvente. Cada pieza se confecciona bajo pedido para garantizar la maxima exclusividad. Envio mundial disponible.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado bajo pedido\n· Disponible con envio mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/aa7/aa7beaae76d522b715e65c13368f3d43_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Shadow Eclipse Leggings · White",
- "name_es": "Leggings Shadow Eclipse · Blanco",
+ "name_en": "Shadow Eclipse Leggings",
+ "name_es": "Mallas Shadow Eclipse",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 56.99,
  "rank": 316,

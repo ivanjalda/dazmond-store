@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and clear garment visibility, though standard e-commerce presentation lacks high editorial atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351065513",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential piece for the sophisticated summer. This high-waisted bikini presents a refined silhouette and clean lines. The design enhances the figure with natural elegance. Created for the confident woman seeking distinction by the sea. Made to order with worldwide shipping.",
+ "desc_es": "Una pieza esencial para el verano sofisticado. Este bikini de talle alto presenta una silueta depurada y líneas depuradas. Su diseño realza la figura con elegancia natural. Pensado para la mujer segura que busca distinción junto al mar. Confección bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/8bb/8bb913d1d08e2d73bddbe5c3d83fda2b_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Shapes High Waisted Swimwear · White",
- "name_es": "Bañador Shapes High Waisted · Blanco",
+ "name_en": "Organic Shapes High-Waisted Bikini",
+ "name_es": "Bikini Tiro Alto Organic Shapes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 63.99,
  "rank": 304,

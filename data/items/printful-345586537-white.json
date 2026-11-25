@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "windbreaker",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style against a plain background lacking high-end luxury editorial styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-345586537",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Designed for the transition between elements, this windbreaker combines a clean aesthetic with impeccable technical performance. Its structured silhouette offers lightweight protection against the elements without compromising contemporary elegance. Each piece is meticulously crafted to order in DAZMOND workshops and shipped worldwide. Precision in tailoring defines a sophisticated presence, curated for the modern masculine wardrobe.",
+ "desc_es": "Diseñado para la transición entre elementos, este cortavientos combina una estética limpia con un rendimiento técnico impecable. Su silueta estructurada ofrece una protección ligera frente a la intemperie sin comprometer la elegancia contemporánea. Cada pieza se elabora meticulosamente bajo pedido en los talleres de DAZMOND y se envía a todo el mundo. La precisión en el corte define una presencia sofisticada, pensada para el guardarropa masculino moderno.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Disponible envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/98d/98d4fbb14447ffd8d6eb1a7082462d79_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Aura Shield Performance Jacket · White",
- "name_es": "Chaqueta Aura Shield Performance · Blanco",
+ "name_en": "Aura Shield Windbreaker · White",
+ "name_es": "Rompevientos Aura Shield · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 69.99,
  "rank": 243,

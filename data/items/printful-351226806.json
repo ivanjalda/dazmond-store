@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Flat supplier mockup against a plain background lacking editorial depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351226806",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined vision of summer luxury. The Eclipse Dots string bikini merges minimalist lines with bold graphic contrast. Crafted on demand to ensure absolute exclusivity. Designed to accompany the most sophisticated moments by the water with flawless presence. Available for worldwide shipping.",
+ "desc_es": "Una visión depurada del lujo estival. El bikini de cuerdas Eclipse Dots combina líneas minimalistas con un contraste gráfico audaz. Confeccionado bajo demanda para asegurar una exclusividad absoluta. Diseñado para acompañar los momentos más sofisticados junto al agua con una presencia impecable. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b3a/b3aa06146ed2de645fe625d5ec9ae8f4_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Eclipse Dots Triangle Swimwear · White",
- "name_es": "Bañador Eclipse Dots Triangle · Blanco",
+ "name_en": "Eclipse Dots String Bikini",
+ "name_es": "Bikini de Cuerdas Eclipse Dots",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 206,

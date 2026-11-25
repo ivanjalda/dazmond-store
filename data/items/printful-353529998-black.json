@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Fleece",
+ "ai_type": "Shorts",
+ "ai_ver": 2,
+ "art_note": "Flat studio product shot against a plain background, lacking high-end lighting and editorial styling.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-353529998",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential silhouette defined by effortless comfort. Crafted from fleece fabric for a relaxed yet sophisticated presence. Designed for contemporary and versatile styling in deep black. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Silueta esencial definida por una comodidad sin esfuerzo. Confeccionadas con tejido de felpa para una presencia relajada pero sofisticada. Diseñadas para un estilo contemporáneo y versátil en color negro profundo. Cada pieza se elabora bajo pedido y cuenta con envío mundial.",
+ "details_en": "· Fleece fabric\n· Made to order",
+ "details_es": "· Tejido fleece\n· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/8ba/8bac5d9ad55ac81f0ce5851bfcef2483_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Blessed Shorts · Black",
- "name_es": "Bermuda Blessed · Negro",
+ "name_en": "Blessed Fleece Shorts · Black",
+ "name_es": "Bermudas Fleece Blessed · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 334,

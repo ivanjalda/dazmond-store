@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/8731e6d53ef0feaf4bc0.jpg",
+  "assets/products/shop/03187768ea2e146e212e.jpg",
+  "assets/products/shop/c90d0ab29f10cba7a1b2.jpg",
+  "assets/products/shop/ca7e1b542b12df928e03.jpg",
+  "assets/products/shop/c31ba33495404a495bd6.jpg",
+  "assets/products/shop/20ad5b457ebc65e48dda.jpg",
+  "assets/products/shop/0d3bb9abf42aa22458a2.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +36,7 @@
  ],
  "draft": false,
  "fam": "midnight-stripe-silhouette",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351513069",
  "img_checked": "2026-11-22",

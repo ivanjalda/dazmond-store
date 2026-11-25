@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Camiseta",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style resembling a marketplace seller, lacking luxury lighting and editorial atmosphere.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-382652279",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The boxy silhouette redefines the concept of relaxed elegance. Designed with a structured cut and an immaculate white tone, this piece offers a sophisticated and timeless presence. Each garment is crafted to order in our ateliers and features worldwide shipping. An essential design that brings modernity and distinction to any contemporary wardrobe, maintaining clean lines and an impeccable aesthetic.",
+ "desc_es": "La silueta boxy redefine el concepto de elegancia relajada. Diseñada con un corte estructurado y un tono blanco impoluto, esta pieza ofrece una presencia sofisticada y atemporal. Cada prenda se confecciona bajo pedido en nuestros talleres y cuenta con envíos a todo el mundo. Un diseño esencial que aporta modernidad y distinción a cualquier guardarropa contemporáneo, manteniendo líneas depuradas y una estética impecable.",
+ "details_en": "· Made to order.\n· Worldwide shipping.",
+ "details_es": "· Confección bajo pedido.\n· Envío a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/799/7994c96fe81e0fdd967fa0d401a067c9_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Boxy Gruesa Daz Tee · White",
- "name_es": "Camiseta Boxy Gruesa Daz · Blanco",
+ "name_en": "DAZ Luxury Boxy T-Shirt · White",
+ "name_es": "Camiseta Boxy DAZ Luxury · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 32.99,
  "rank": 271,

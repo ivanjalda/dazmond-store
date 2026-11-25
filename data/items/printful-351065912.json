@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Flat supplier mockup lacking luxury atmosphere and professional styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351065912",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold swimwear statement that rewrites the codes of summer elegance. This high-waisted set features a vibrant expressionist print, designed to catch the light under the sun. Each piece is crafted on demand to ensure absolute exclusivity. The design embraces the silhouette with precision, offering a sophisticated and contemporary aesthetic. Available for worldwide shipping.",
+ "desc_es": "Una pieza de baño audaz que reescribe los códigos de la elegancia estival. Este conjunto de talle alto presenta un estampado expresionista vibrante, concebido para destacar bajo la luz del sol. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. El diseño abraza la silueta con precisión, ofreciendo una estética sofisticada y contemporánea. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/646/646fefd0a5a5564a66de3e21d2e750b8_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Expressionist Fire High Swimwear · White",
- "name_es": "Bañador Expressionist Fire High · Blanco",
+ "name_en": "Expressionist Fire High-Waisted Bikini",
+ "name_es": "Bikini de talle alto Expressionist Fire",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 63.99,
  "rank": 305,

@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/b7ad6c69224ee65f1c62.jpg",
+  "assets/products/shop/8e93ccc9a56963df2542.jpg",
+  "assets/products/shop/ca0ed2140a50cdaab9ab.jpg",
+  "assets/products/shop/a4742f7a11932cac8041.jpg",
+  "assets/products/shop/87fa3b30e269c096c443.jpg",
+  "assets/products/shop/c279de1bca079479ef93.jpg",
+  "assets/products/shop/5aca7e0fa673895e55d6.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +36,7 @@
  ],
  "draft": false,
  "fam": "premium-starlight-night",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351528219",
  "img_checked": "2026-11-22",

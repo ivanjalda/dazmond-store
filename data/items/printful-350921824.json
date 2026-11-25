@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "capri leggings",
+ "ai_ver": 2,
+ "art_note": "Flat lay product shot lacks editorial depth and a high-end luxury staging context.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350921824",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Refined and contemporary silhouette. The Prism Zen capri leggings define the aesthetic of mindful movement. Featuring a vibrant geometric print, this piece fuses precise design with absolute comfort. Each creation is crafted on demand with worldwide shipping available. The purity of the lines accompanies the body with natural elegance.",
+ "desc_es": "Silueta depurada y contemporánea. Las mallas capri Prism Zen definen la estética del movimiento consciente. Con un estampado geométrico vibrante, esta pieza fusiona diseño preciso y confort absoluto. Cada creación se elabora bajo demanda en nuestros talleres con disponibilidad de envío internacional. La pureza de las líneas acompaña el cuerpo con naturalidad y elegancia.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a medida\n· Disponible envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/6d2/6d24dc50ec1b5486580c5102d45f66bc_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Prism Zen Yoga Leggings · White",
- "name_es": "Leggings Prism Zen Yoga · Blanco",
+ "name_en": "Prism Zen Capri Leggings",
+ "name_es": "Mallas Capri Prism Zen",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 48.99,
  "rank": 202,

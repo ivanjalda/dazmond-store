@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/38abc38780d8ea1b97a3.jpg",
+  "assets/products/shop/691047de2316f18ddd7a.jpg",
+  "assets/products/shop/69d71b6c1bff26479ccc.jpg"
+ ],
  "ai_cats": [
   "mujer/camisetas-blusas-tops"
  ],
@@ -27,6 +32,7 @@
  ],
  "draft": false,
  "fam": "abstract-canvas-camiseta",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351972560",
  "img_checked": "2026-11-22",

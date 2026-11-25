@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Orchid",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "T-shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, though presented in a standard e-commerce mock-up style rather than high luxury campaign lighting.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-382652279",
  "color": "Orchid",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A relaxed silhouette defines this contemporary boxy t-shirt. The orchid hue brings a subtle and sophisticated presence to the everyday wardrobe. Made to order to ensure absolute exclusivity. Worldwide shipping available.",
+ "desc_es": "Una silueta relajada define esta camiseta boxy de corte contemporáneo. El tono orquídea aporta una presencia sutil y sofisticada al fondo de armario diario. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo.",
+ "details_en": "· Relaxed boxy fit\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Corte boxy relajado\n· Confección bajo demanda\n· Envío internacional disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/44e/44e7ba40b1805d480dd77dfb1297bd6d_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Boxy Gruesa Daz Tee · Orchid",
- "name_es": "Camiseta Boxy Gruesa Daz · Orchid",
+ "name_en": "DAZ Luxury Boxy T-Shirt · Orchid",
+ "name_es": "Camiseta Boxy DAZ Luxury · Orchid",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 32.99,
  "rank": 270,

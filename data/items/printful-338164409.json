@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/d290ac9bd33ffc886d91.jpg",
+  "assets/products/shop/000dc17f30fa3ab5e7b6.jpg",
+  "assets/products/shop/bbfa003371e597920671.jpg",
+  "assets/products/shop/52b9ef3f4d6631480f98.jpg",
+  "assets/products/shop/025e8e16d898c00adef5.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "artisan-lace-sculpt",
+ "gender": "women",
  "hidden": false,
  "id": "printful-338164409",
  "img_checked": "2026-11-22",

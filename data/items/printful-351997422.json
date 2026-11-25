@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/mallas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "The image shows a headless model with flat-looking graphics typical of generic print-on-demand marketplaces, failing to meet luxury e-commerce standards.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351997422",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Abstract art meets contemporary design in this piece of monochrome expression. Each silhouette is meticulously crafted through a made-to-order process. The visual aesthetic plays with the absolute contrast of black and white, projecting a magnetic and defined presence. Precision-tailored for the menswear collection, these leggings deliver a sophisticated silhouette without compromise. Available with worldwide shipping to satisfy the most demanding standards of global luxury.",
+ "desc_es": "El arte abstracto se une al diseño contemporáneo en esta pieza de expresión monocromática. Cada silueta se elabora meticulosamente mediante un proceso de creación bajo pedido. La estética visual juega con el contraste absoluto del blanco y el negro, proyectando una presencia magnética y definida. Confeccionadas con precisión para la colección masculina, estas mallas ofrecen un perfil sofisticado sin concesiones. Disponibles con envío internacional para satisfacer los estándares más exigentes del lujo global.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/04d/04db424795f9bde96f516ab6fed6084f_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Monochrome Splatter Tights · White",
- "name_es": "Mallas Monochrome Splatter · Blanco",
+ "name_en": "Monochrome Splatter Leggings",
+ "name_es": "Mallas Monochrome Splatter",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 56.99,
  "rank": 320,

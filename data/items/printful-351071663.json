@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Flat, generic supplier mockup style lacking high-end editorial atmosphere.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351071663",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined vision of summer elegance. This high-waisted bikini features an all-over, high-contrast print that sculpts the silhouette with geometric precision. Designed for an imposing presence by the water, it combines a minimalist aesthetic with flawless execution. Available through made-to-order production and worldwide shipping, this piece embodies contemporary luxury in its most distilled expression.",
+ "desc_es": "Una visión depurada de la elegancia estival. Este bikini de talle alto presenta un estampado integral de alto contraste que esculpe la silueta con precisión geométrica. Diseñado para ofrecer una presencia imponente junto al agua, combina una estética minimalista con una ejecución impecable. Disponible mediante producción bajo demanda y con servicio de envío a todo el mundo, esta pieza encarna el lujo contemporáneo en su expresión más depurada.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/631/631ad58c84f8d679fc921546a3155aee_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Floral Splash High Swimwear · White",
- "name_es": "Bañador Floral Splash High · Blanco",
+ "name_en": "Floral Splash High-Waisted Bikini",
+ "name_es": "Bikini de Talle Alto Floral Splash",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 63.99,
  "rank": 312,

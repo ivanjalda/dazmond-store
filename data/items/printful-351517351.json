@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/1c0efb0bd89cfa765744.jpg",
+  "assets/products/shop/e10891a8d729a6b55caf.jpg",
+  "assets/products/shop/7fe09d9235d18d2e0e8e.jpg",
+  "assets/products/shop/84429800edf2cbd1d26c.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "luxury-art-celestial",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351517351",
  "img_checked": "2026-11-22",

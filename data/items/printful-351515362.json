@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/f68f3fe11740d3bf1ef0.jpg",
+  "assets/products/shop/ce0dd2a851fef312bf40.jpg",
+  "assets/products/shop/4a4b823d83dd72a17f7d.jpg",
+  "assets/products/shop/d98cdde77446296d3dab.jpg",
+  "assets/products/shop/d5e56beb5446f1610bbe.jpg",
+  "assets/products/shop/88ec6f50891cf39c19d7.jpg",
+  "assets/products/shop/f7e5bd208fb3910b942b.jpg",
+  "assets/products/shop/9a24a4c8182d2f4c09ad.jpg",
+  "assets/products/shop/f19be1988a5d28ea6e18.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +38,7 @@
  ],
  "draft": false,
  "fam": "luxury-crimson-hex",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351515362",
  "img_checked": "2026-11-22",

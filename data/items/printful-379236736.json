@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "The image features an awkward headless crop and a flat digital print-on-demand mockup aesthetic that lacks high-end luxury appeal.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-379236736",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Define your silhouette with a piece designed for the modern woman. These leggings combine a refined design with a striking presence. Each garment is meticulously crafted on order to ensure absolute exclusivity. The all-over print introduces visual depth and a distinct character. Ideal for a sophisticated wardrobe. Available with worldwide shipping.",
+ "desc_es": "Defina su silueta con una pieza diseñada para la mujer moderna. Estos leggings combinan un diseño depurado con una presencia imponente. Cada prenda se elabora meticulosamente bajo pedido para garantizar la máxima exclusividad. El estampado integral aporta profundidad visual y un carácter distintivo. Ideales para un fondo de armario sofisticado. Disponibles con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/a90/a90ad9f713c7b741cad752fc08cdb735_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Leggings · White",
- "name_es": "Leggings Daz · Blanco",
+ "name_en": "DAZ All-Over Print Leggings",
+ "name_es": "Leggings All-Over Print DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 232,

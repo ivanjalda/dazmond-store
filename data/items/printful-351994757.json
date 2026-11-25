@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/mallas"
+ ],
+ "ai_color": "blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "The image features a standard template composite with headless framing and a flat print texture, failing to meet luxury visual standards.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351994757",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A design conceived for contemporary expression. The Cobalt Pulse leggings define the silhouette with architectural precision. Dynamic lines and a deep tone compose a piece of magnetic character. Each garment is exclusively crafted upon request. Available with worldwide shipping.",
+ "desc_es": "Un diseño concebido para la expresión contemporánea. Las mallas Cobalt Pulse definen la silueta con precisión arquitectónica. Líneas dinámicas y un tono profundo componen una pieza de carácter magnético. Cada prenda se elabora de forma exclusiva bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/973/9731c15b648396cf371c2a26948b78f1_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Cobalt Pulse Leggings · White",
- "name_es": "Leggings Cobalt Pulse · Blanco",
+ "name_en": "Cobalt Pulse Leggings",
+ "name_es": "Mallas Cobalt Pulse",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 56.99,
  "rank": 318,

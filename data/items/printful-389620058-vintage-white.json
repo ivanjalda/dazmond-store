@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/7ece164112bc0e02c66d.jpg",
+  "assets/products/shop/7ece164112bc0e02c66d.jpg",
+  "assets/products/shop/7ece164112bc0e02c66d.jpg",
+  "assets/products/shop/7ece164112bc0e02c66d.jpg",
+  "assets/products/shop/7ece164112bc0e02c66d.jpg",
+  "assets/products/shop/7ece164112bc0e02c66d.jpg",
+  "assets/products/shop/7ece164112bc0e02c66d.jpg",
+  "assets/products/shop/8cc656c95045c9bbeb75.jpg",
+  "assets/products/shop/8fcdeb118583bd01469e.jpg",
+  "assets/products/shop/af873a2e0282b71e13e7.jpg",
+  "assets/products/shop/741ff48f955d92b8e0b4.jpg",
+  "assets/products/shop/162c8a422579c464a87c.jpg",
+  "assets/products/shop/85f513102aa9f920d0bb.jpg",
+  "assets/products/shop/280aecde2c3a8eba65b2.jpg"
+ ],
  "ai_cats": [
   "hombre/camiseta"
  ],
@@ -28,6 +44,7 @@
  ],
  "draft": false,
  "fam": "camiseta-boxy-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-389620058-vintage-white",
  "img_checked": "2026-11-22",
@@ -37,7 +54,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "Cotton Heritage MC1087",
  "name_en": "DAZ Luxury Boxy T-Shirt · Vintage White",
  "name_es": "Camiseta Boxy DAZ Luxury · Vintage White",
  "needs_review": false,

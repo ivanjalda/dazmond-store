@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "Generic supplier mockup flat lay with casual props undermines luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-345378939",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A definitive cornerstone for the modern wardrobe. The Iconic Essential tee delivers an impeccably tailored silhouette, defined by clean lines and precise proportions. Designed with a premium fitted cut, classic short sleeves, and a sculpted crew neckline, this piece captures effortless architectural elegance. Discreet branding accents detail the chest and sleeve for a quiet statement of distinction. Built for refined daily wear. Each garment is crafted to order to uphold uncompromising standards, complemented by worldwide shipping.",
+ "desc_es": "Una pieza fundamental en el armario contemporáneo. La camiseta Iconic Essential ofrece una silueta impecable, definida por líneas depuradas y proporciones precisas. Diseñada con un corte entallado, mangas cortas y cuello redondo estructurado, encarna una elegancia moderna y sobria. Los discretos emblemas en el pecho y las mangas aportan una distinción sutil pero contundente. Una prenda versátil concebida para elevar atuendos cotidianos con sofisticación absoluta. Cada diseño se realiza bajo pedido exclusivo, disponible con envío a todo el mundo.",
+ "details_en": "· Premium fitted cut\n· Classic crew neck\n· Short sleeves\n· Tear-away label\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Corte entallado premium\n· Cuello redondo clásico\n· Manga corta\n· Etiqueta desprendible\n· Confección bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/36a/36a1323b6314e99cf1675d5617306548_preview.png"
  ],
@@ -27,6 +40,7 @@
  "name_en": "Iconic Essential Tee · White",
  "name_es": "Camiseta Esencial Icónica · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 198,

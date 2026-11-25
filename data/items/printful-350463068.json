@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Enhanced Matte Paper",
+ "ai_type": "Framed Poster",
+ "ai_ver": 2,
+ "art_note": "Clean, sophisticated studio presentation with a minimal black frame that elevates the artwork.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-350463068",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Soul’s Awakening represents a profound visual exploration of form and abstraction. This piece embodies the aesthetic of DAZMOND & Co., fusing mystery with refined elegance. Every detail is rendered with exceptional clarity on enhanced matte paper, precisely framed in a deep black finish. Designed to transform spaces with a quiet yet magnetic presence. Available as an exclusive made-to-order piece. Offered with worldwide shipping for collectors and lovers of contemporary design.",
+ "desc_es": "The Soul’s Awakening representa una exploración visual profunda de la forma y la abstracción. Esta pieza encarna la estética de DAZMOND & Co., fusionando el misterio y la elegancia refinada. Cada detalle se presenta con una claridad excepcional sobre papel mate mejorado, enmarcado con precisión en un acabado negro profundo. Diseñado para transformar espacios con una presencia silenciosa pero magnética. Disponible como pieza exclusiva hecha bajo demanda. Con envíos a todo el mundo para coleccionistas y amantes del diseño contemporáneo.",
+ "details_en": "· Enhanced matte paper\n· Black framed finish\n· Made to order",
+ "details_es": "· Papel mate mejorado\n· Enmarcado en color negro\n· Hecho bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/203/203d5e0d95f7fdd840ee3b5a9c869b80_preview.png"
  ],
@@ -21,9 +35,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Art Soul Awakening Art Print · Black",
- "name_es": "Lámina Art Soul Awakening · Negro",
+ "name_en": "The Soul’s Awakening Framed Poster",
+ "name_es": "The Soul’s Awakening Póster Enmarcado",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 50.99,
  "rank": 288,

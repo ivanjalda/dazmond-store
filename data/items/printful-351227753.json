@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White / Golden Zebra",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle campaign shot with warm lighting and natural posing, aligned with high-end luxury standards.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351227753",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined vision of summer luxury. This bikini presents a sophisticated wild-inspired print upon a clean, structured silhouette. Crafted made-to-order to ensure absolute exclusivity. Worldwide shipping available to accompany you to any destination.",
+ "desc_es": "Una visión depurada del lujo estival. Este bikini presenta un sofisticado estampado de inspiración salvaje sobre una silueta limpia y estructurada. Confeccionado bajo demanda para asegurar una exclusividad absoluta. Envío mundial disponible para acompañarle en cualquier destino.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/e93/e9349b8884c2b551f137efbed7198c5e_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Golden Zebra Wild Swimwear · White",
- "name_es": "Bañador Golden Zebra Wild · Blanco",
+ "name_en": "Golden Zebra Bikini",
+ "name_es": "Bikini Golden Zebra",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 60.99,
  "rank": 215,

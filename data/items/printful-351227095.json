@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Flat-lay product image with a digital render aesthetic, lacking luxury mood or proper styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351227095",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined vision of summer elegance. This swimwear set presents a fluid and enveloping design. The geometric lines evoke the serenity of sunset. Each piece is crafted on demand to ensure absolute exclusivity. Available for worldwide shipping. The silhouette is defined with millimeter precision. An essential item for the sun-drenched season.",
+ "desc_es": "Una visión depurada de la elegancia estival. Este conjunto de baño presenta un diseño fluido y envolvente. Las líneas geométricas evocan la serenidad del atardecer. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo. La silueta se define con precisión milimétrica. Un artículo esencial para la temporada de sol.",
+ "details_en": "· Exclusive made-to-order production\n· Worldwide shipping available",
+ "details_es": "· Confección exclusiva bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b8e/b8edd09bc275573ae089ecc8a999ba1c_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Aura Geometric Sunset Swimwear · White",
- "name_es": "Bañador Aura Geometric Sunset · Blanco",
+ "name_en": "Aura Lavender Bikini",
+ "name_es": "Bikini Aura Lavender",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 210,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "The image features a standard supplier mockup style with a headless model crop, lacking the refined lighting and atmosphere of a luxury fashion house.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-379234884",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Redefine your silhouette with an impeccable presence. The DAZ Luxury All-Over Print leggings combine a refined design with a bold, modern aesthetic. Each piece is meticulously crafted to order to ensure an exclusive finish. Designed for the contemporary woman who seeks effortless sophistication in every movement. Available with worldwide shipping.",
+ "desc_es": "Redefina su silueta con una presencia impecable. Las mallas DAZ Luxury All-Over Print combinan un diseño depurado con una estética moderna y audaz. Cada pieza se elabora meticulosamente bajo pedido para asegurar un acabado exclusivo. Diseñadas para la mujer contemporánea que busca sofisticación sin esfuerzo en cada movimiento. Disponibles con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/582/5824e8420c071c13e57b2b8dfbed3fc1_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Leggings · White",
- "name_es": "Leggings Daz · Blanco",
+ "name_en": "DAZ Luxury All-Over Print Leggings",
+ "name_es": "Mallas Estampadas DAZ Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 231,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Journal",
+ "ai_ver": 2,
+ "art_note": "Clean, sophisticated studio presentation with accurate lighting and professional shadow depth.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350468176",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A dedicated space for clarity and vision. This hardcover notebook embodies functional sophistication. Designed to accompany the most demanding thoughts. Each piece is crafted exclusively on request. Available with worldwide shipping.",
+ "desc_es": "Un espacio dedicado a la claridad y la visión. Este cuaderno de tapa dura encarna la sofisticación funcional. Diseñado para acompañar los pensamientos más exigentes. Cada pieza se elabora exclusivamente bajo pedido. Disponible con envío internacional.",
+ "details_en": "· 5.5 x 8.5 inches\n· Made to order",
+ "details_es": "· 5.5 x 8.5 pulgadas\n· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/6ce/6ce66641d5847465370cc635d818c79e_preview.png"
  ],
@@ -21,9 +34,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Visionary Hardcover Journal Notebook · Black",
- "name_es": "Cuaderno Visionary Hardcover Journal · Negro",
+ "name_en": "Visionary Hardcover Journal · Black",
+ "name_es": "Cuaderno Visionary Hardcover · Negro",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 27.99,
  "rank": 176,

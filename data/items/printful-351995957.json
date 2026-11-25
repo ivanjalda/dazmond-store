@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/mallas"
+ ],
+ "ai_color": "Emerald",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "The image features a generic mockup style with an awkward headless crop and flat print application, failing to meet luxury e-commerce standards.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351995957",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reinterpretation of classic tailoring. These men leggings feature a bold emerald tartan motif that balances heritage with modernity. Designed for a precise, sculpted silhouette, they offer a striking visual presence. Each piece is meticulously crafted to order in the house ateliers, ensuring exclusivity and an absolute commitment to luxury craftsmanship. Available for worldwide shipping.",
+ "desc_es": "Una reinterpretación contemporánea de la sastrería clásica. Estos leggings para hombre presentan un audaz motivo de tartán esmeralda que equilibra la tradición con la modernidad. Diseñados para una silueta esculpida y precisa, ofrecen una presencia visual impactante. Cada pieza se confecciona meticulosamente bajo demanda en los talleres de la casa, garantizando exclusividad y un compromiso absoluto con la artesanía de lujo. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order.\n· Worldwide shipping.",
+ "details_es": "· Confección bajo demanda.\n· Envío a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/ed7/ed7126949acc62b8a692023a71f51e87_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Emerald Tartan Leggings · White",
- "name_es": "Leggings Emerald Tartan · Blanco",
+ "name_en": "Emerald Tartan Leggings",
+ "name_es": "Leggings Emerald Tartan",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 56.99,
  "rank": 319,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Windbreaker",
+ "ai_ver": 2,
+ "art_note": "Flat studio product mockup with generic lighting, lacking true luxury campaign depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-345586537",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Aura Shield windbreaker redefines urban functionality with an imposing presence. Designed to offer protection against the elements without sacrificing elegance. Clean lines and an all-over print define a modern silhouette. Each piece is crafted to order in our workshops. Available with worldwide shipping for discerning clients.",
+ "desc_es": "El rompevientos Aura Shield redefine la funcionalidad urbana con una presencia imponente. Diseñado para ofrecer protección contra los elementos sin sacrificar la elegancia. Líneas depuradas y un estampado integral que define una silueta moderna. Cada pieza se confecciona bajo pedido en nuestros talleres. Disponible con envío internacional para clientes exclusivos.",
+ "details_en": "· Exclusive made-to-order craftsmanship\n· Available with worldwide shipping",
+ "details_es": "· Confección exclusiva bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/705/70515d88b8ed808de865c770d13a2c36_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Aura Shield Performance Jacket · Black",
- "name_es": "Chaqueta Aura Shield Performance · Negro",
+ "name_en": "Aura Shield Windbreaker · Black",
+ "name_es": "Rompevientos Aura Shield · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 69.99,
  "rank": 242,

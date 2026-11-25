@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Flat, floating product shot on plain white background lacks luxury mood and lighting depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351227996",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A classic silhouette reimagined with a bold feline-inspired print. This triangle bikini features clean lines and adjustable ties for an effortless fit. Crafted responsibly utilizing recycled materials. Each piece is crafted exclusively made-to-order and available with worldwide shipping.",
+ "desc_es": "Una silueta clásica reinterpretada con un audaz estampado de inspiración felina. Este bikini de triángulo presenta líneas depuradas y tirantes ajustables para un ajuste impecable. Confeccionado mediante prácticas responsables con materiales reciclados. Cada pieza se elabora exclusivamente bajo demanda y cuenta con envío a todo el mundo.",
+ "details_en": "· Made-to-order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/283/283e8c29e4b624762c363888aadc1e13_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Wild Leopard Ochre Swimwear · White",
- "name_es": "Bañador Wild Leopard Ochre · Blanco",
+ "name_en": "Printed Triangle Bikini",
+ "name_es": "Bikini de Triángulo Estampado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 217,

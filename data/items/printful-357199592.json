@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Transparent",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Clear Case",
+ "ai_type": "Phone Case",
+ "ai_ver": 2,
+ "art_note": "Clean product presentation set against a sculptural white backdrop, though slightly stylized.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-357199592",
  "color": "",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Pure Reflection case merges absolute clarity with a distinctive graphic design. This essential piece protects your device with millimeter precision while exhibiting a refined profile. Conceived for daily wear, it maintains intact elegance and reflects a modern aesthetic. Available made to order with worldwide shipping.",
+ "desc_es": "La funda Pure Reflection combina una claridad absoluta con un diseño gráfico distintivo. Esta pieza esencial protege su dispositivo con precisión milimétrica mientras exhibe un perfil refinado. Concebida para el uso diario, mantiene la elegancia intacta y refleja una estética moderna. Disponible bajo demanda con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/6a7/6a77fbaf89e6ce1cf0a854234e0df7cb_preview.png",
   "https://files.cdn.printful.com/files/dc9/dc9088313bf79dfc6fab446c376cc8ec_preview.png",
@@ -24,9 +38,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Funda Pure Reflection Case",
- "name_es": "Funda Funda Pure Reflection",
+ "name_en": "Pure Reflection Case",
+ "name_es": "Funda Pure Reflection",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 81,

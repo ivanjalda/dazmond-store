@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Flat, template-style product render with an obvious digital print application lacking luxury depth and presentation.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351071058",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A modern vision of coastal elegance. This high-waisted bikini features an all-over print that evokes the serenity of the ocean. Each piece is made to order to ensure absolute exclusivity. Designed for the sophisticated woman seeking a refined silhouette and impeccable style by the sea. Available with worldwide shipping.",
+ "desc_es": "Una vision moderna de la elegancia costera. Este bikini de talle alto presenta un estampado integral que evoca la serenidad del oceano. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Diseñado para la mujer sofisticada que busca una silueta depurada y un estilo impecable junto al mar. Disponible con envio mundial.",
+ "details_en": "· Made to order\n· High-waisted design",
+ "details_es": "· Confeccionado bajo demanda\n· Diseño de talle alto",
  "display_images": [
   "https://files.cdn.printful.com/files/d19/d19903de68bc45fdf7be1d5a96f7f4f1_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Ocean Whisper High Swimwear · White",
- "name_es": "Bañador Ocean Whisper High · Blanco",
+ "name_en": "Ocean Whisper High-Waisted Bikini",
+ "name_es": "Bikini de Talle Alto Ocean Whisper",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 63.99,
  "rank": 311,

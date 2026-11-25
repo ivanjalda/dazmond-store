@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Ivory",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "Standard flat studio product shot on plain background, lacking luxury editorial lighting.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-382652279",
  "color": "Ivory",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Structured boxy silhouette redefining contemporary volume. Tailored with precision to deliver an impeccable drape and sophisticated presence. An essential design balancing modern comfort with refined aesthetics. Made-to-order piece with worldwide shipping available.",
+ "desc_es": "Silueta estructurada de corte boxy que redefine el volumen contemporáneo. Confeccionada con precisión para ofrecer una caída impecable y una presencia sofisticada. Un diseño esencial que equilibra la comodidad moderna con una estética depurada. Pieza elaborada bajo demanda con envío mundial disponible.",
+ "details_en": "· Structured boxy fit\n· Made-to-order piece",
+ "details_es": "· Corte boxy estructurado\n· Elaborado bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/e74/e7427b1b0ca29369efecddb2122ad7b2_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Boxy Gruesa Daz Tee · Ivory",
- "name_es": "Camiseta Boxy Gruesa Daz · Marfil",
+ "name_en": "DAZ Luxury Boxy T-Shirt · Ivory",
+ "name_es": "Camiseta Boxy DAZ Luxury · Marfil",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 32.99,
  "rank": 269,

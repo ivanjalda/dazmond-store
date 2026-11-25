@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/5a7cc591ce8027657aca.jpg",
+  "assets/products/shop/c9f06646c96fc40e824d.jpg",
+  "assets/products/shop/b4e9ff815c2b96cd50c5.jpg",
+  "assets/products/shop/c628d2a8cdabb5fce042.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "premium-cyber-emerald",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351513689",
  "img_checked": "2026-11-22",

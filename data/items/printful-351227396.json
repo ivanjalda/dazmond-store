@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "recycled string",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Flat lay mockup on plain background lacks luxury campaign atmosphere and appears generic.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351227396",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A coastal vision defined by pure lines and a minimalist silhouette. This string bikini evokes the serenity of infinite horizons. The design blends subtle tones with contrasting color accents. Each piece is meticulously crafted to order in our ateliers. We offer worldwide shipping for your convenience.",
+ "desc_es": "Una visión costera definida por líneas puras y una silueta minimalista. Este bikini de cintas evoca la serenidad de los horizontes infinitos. El diseño combina tonos sutiles con acentos de color contrastantes. Cada pieza se elabora meticulosamente bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/f3c/f3cc05864fb82cedbb5db0f85d0de405_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Spectrum Celestial Azure Swimwear · White",
- "name_es": "Bañador Spectrum Celestial Azure · Blanco",
+ "name_en": "Celestial String Bikini",
+ "name_es": "Bikini de Cintas Celestial",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 212,

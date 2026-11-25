@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/e49ae667857f466be14f.jpg",
+  "assets/products/shop/adf7549b23f141035a9a.jpg",
+  "assets/products/shop/bf4f2024ecb0d52a79d7.jpg",
+  "assets/products/shop/23185f53d23ae8c386d4.jpg",
+  "assets/products/shop/6271bdc3549d1a42f806.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "cobalt-sketch-silhouette",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351511771",
  "img_checked": "2026-11-22",

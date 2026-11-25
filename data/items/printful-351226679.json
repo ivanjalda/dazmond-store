@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Flat lay mockup style with flat print placement, lacks luxury studio staging.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351226679",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A design that defies convention. The classic triangle silhouette is redefined with a striking graphic contrast of roses and bone motifs. Made-to-order piece. Available with worldwide shipping.",
+ "desc_es": "Un diseño que desafía lo convencional. La silueta de triángulo clásica se redefine con un contraste gráfico de rosas y motivos óseos. Pieza confeccionada bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Made-to-order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/80e/80e3226b11cc4fd0669ceba48fc56bc4_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Gothic Rose Bone Swimwear · White",
- "name_es": "Bañador Gothic Rose Bone · Blanco",
+ "name_en": "Gothic Rose Triangle Bikini",
+ "name_es": "Bikini Triángulo Gothic Rose",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 205,

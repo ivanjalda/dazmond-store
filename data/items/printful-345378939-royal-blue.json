@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Royal Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Tee",
+ "ai_ver": 2,
+ "art_note": "Flat lay composition with distracting accessories resembling a generic marketplace lifestyle shot rather than high-end minimalist luxury.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-345378939",
  "color": "Royal Blue",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette defines this essential piece in royal blue. Designed to offer an impeccable presence and absolute comfort for any occasion. Each piece is meticulously crafted to order in our ateliers. We offer worldwide shipping to ensure this exclusivity reaches your hands directly. Simplicity elevated to its highest expression.",
+ "desc_es": "Una silueta depurada define esta prenda esencial en azul real. Diseñada para ofrecer una presencia impecable y una comodidad absoluta en cualquier ocasión. Cada pieza se elabora meticulosamente bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo para garantizar que esta exclusividad llegue directamente a sus manos. La sencillez elevada a su máxima expresión.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/451/45189da0948f0d2f0bad8abc39e358a1_preview.png"
  ],
@@ -27,6 +40,7 @@
  "name_en": "Iconic Essential Tee · Royal Blue",
  "name_es": "Camiseta Esencial Icónica · Royal Blue",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 197,

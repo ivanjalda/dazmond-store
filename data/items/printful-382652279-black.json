@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "The image features a flat-lay composite on a mannequin template, lacking the sophisticated lighting and atmospheric depth required for luxury e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-382652279",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A structured boxy silhouette defines this essential t-shirt. The substantial fabric weight ensures a clean and deliberate drape. Deep dark tones evoke a nocturnal, minimalist elegance. Each piece is meticulously crafted to order in our studios. The design prioritizes comfort while maintaining contemporary sophistication. Ideal for building a refined and versatile wardrobe. Available for worldwide shipping.",
+ "desc_es": "Una silueta boxy define esta camiseta de diseño esencial. La estructura robusta aporta presencia y una caída impecable. Tonos oscuros que evocan una elegancia nocturna y minimalista. Cada pieza se elabora meticulosamente bajo demanda en nuestros talleres. El diseño prioriza la comodidad sin sacrificar la sofisticación contemporánea. Ideal para construir un guardarropa depurado y versátil. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a medida bajo demanda\n· Envío a todo el mundo disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/a2c/a2cda22a261a6203f6105321be7ed1bd_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Boxy Gruesa Daz Tee · Black",
- "name_es": "Camiseta Boxy Gruesa Daz · Negro",
+ "name_en": "DAZ Luxury Boxy T-Shirt · Black",
+ "name_es": "Camiseta Boxy DAZ Luxury · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 32.99,
  "rank": 268,

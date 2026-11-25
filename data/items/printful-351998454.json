@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/mallas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style with headless model, lacks luxury campaign lighting and styling.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351998454",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A bold reinterpretation of utilitarian aesthetics. These leggings feature an all-over camouflage print that defines a commanding presence. Designed for those who demand distinction in every movement, they combine a form-fitting silhouette with an unmistakable graphic character. Each piece is crafted strictly to order and available with worldwide shipping.",
+ "desc_es": "Una reinterpretación audaz de la estética utilitaria. Estos leggings presentan un estampado de camuflaje integral que define una presencia dominante. Diseñados para quienes exigen distinción en cada movimiento, combinan una silueta ceñida con un carácter gráfico inconfundible. Cada pieza se confecciona exclusivamente bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Crafted exclusively to order",
+ "details_es": "· Confección exclusiva bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/728/7288e478fc80d64737dfad79779bfac7_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Jungle Camo Tights · White",
- "name_es": "Mallas Jungle Camo · Blanco",
+ "name_en": "Jungle Camo Leggings",
+ "name_es": "Leggings Jungle Camo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 56.99,
  "rank": 322,

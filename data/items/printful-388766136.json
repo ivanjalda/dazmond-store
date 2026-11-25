@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle image with natural lighting and editorial styling that elevates the swimwear.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-388766136",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Refined and contemporary silhouette designed for the summer season. This triangle bikini combines an impeccable cut with an exclusive all-over print. Each piece is crafted on demand to ensure absolute exclusivity. Available with worldwide shipping. An essential garment to define elegance under the sun.",
+ "desc_es": "Silueta depurada y contemporánea diseñada para la temporada estival. Este bikini de triángulo combina un corte impecable con un estampado exclusivo. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo. Una prenda esencial para definir la elegancia bajo el sol.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/8d0/8d0e585666378bc00a7c9ca27fac1324_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Triángulo Daz Swimwear · White",
- "name_es": "Bañador Triángulo Daz · Blanco",
+ "name_en": "All-Over Print Triangle Bikini",
+ "name_es": "Bikini de Triángulo All-Over Print",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 60.99,
  "rank": 234,

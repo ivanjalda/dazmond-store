@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/fea5a34ecabb8444bb4b.jpg",
+  "assets/products/shop/6a11e30509922ad31d12.jpg",
+  "assets/products/shop/bcc6fd99ec481e053c2c.jpg",
+  "assets/products/shop/183ac7a91d6bc0155ef6.jpg",
+  "assets/products/shop/3ef7a460b5bad443768f.jpg",
+  "assets/products/shop/200311fed72761eab94d.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +35,7 @@
  ],
  "draft": false,
  "fam": "star-spangled-sculpt",
+ "gender": "women",
  "hidden": false,
  "id": "printful-338164153",
  "img_checked": "2026-11-22",

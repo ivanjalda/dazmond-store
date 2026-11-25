@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Flat studio product presentation lacks atmospheric lighting and model context required for top-tier luxury positioning.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351069243",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The essence of coastal sophistication defines this high-waisted bikini. The monochromatic contrast evokes nocturnal brushstrokes upon pure canvas. A piece crafted for commanding presence by the sea, balancing graphic boldness with a refined silhouette. Made-to-order execution with sustainable commitment and worldwide shipping. The luxury of exclusivity manifests in every line.",
+ "desc_es": "La esencia de la sofisticación costera se define en este bikini de talle alto. El contraste monocromático evoca trazos nocturnos sobre lienzo puro. Una pieza diseñada para la presencia imponente junto al mar, que equilibra la audacia gráfica con una silueta depurada. Confección bajo demanda con compromiso sostenible y envíos a todo el mundo. El lujo de lo exclusivo se manifiesta en cada línea.",
+ "details_en": "· High-waisted design\n· All-over contrast print\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Diseño de talle alto\n· Estampado integral en contraste\n· Hecho bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/90d/90d8589f4fb1922ead123c59ac5ee59a_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Midnight Strokes High Swimwear · White",
- "name_es": "Bañador Midnight Strokes High · Blanco",
+ "name_en": "Midnight Strokes Bikini",
+ "name_es": "Bikini Midnight Strokes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 63.99,
  "rank": 309,

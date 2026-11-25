@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/2ea9c359a5b1257b0df8.jpg",
+  "assets/products/shop/b9f6e60e3794d55cda31.jpg",
+  "assets/products/shop/4a3fde43f72e30edaf0b.jpg"
+ ],
  "ai_cats": [
   "decor"
  ],
@@ -30,13 +35,14 @@
  ],
  "draft": false,
  "fam": "taza-blanca-brillante",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382734259",
  "img_checked": "2026-11-22",
  "look": [
   "printful-382149130"
  ],
- "material": "",
+ "material": "White Glossy Ceramic",
  "name_en": "DAZ Luxury White Mug",
  "name_es": "Taza DAZ Luxury Blanca",
  "needs_review": false,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "tank top",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, lacking high-end lighting drama.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-383192424",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Streamlined and essential silhouette designed to define the figure with natural elegance. This garment embodies contemporary sophistication through precise tailoring and clean lines. A versatile piece that transitions effortlessly between relaxed tailoring and everyday luxury. Each item is meticulously crafted to order with worldwide shipping available.",
+ "desc_es": "Silueta depurada y esencial diseñada para definir la figura con elegancia natural. Esta prenda encarna la sofisticación contemporánea mediante un corte preciso y líneas limpias. Una pieza versátil que transita sin esfuerzo entre la sastrería relajada y el lujo cotidiano. Cada artículo se elabora meticulosamente bajo demanda y cuenta con envío internacional disponible.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/88c/88c28b7efd705331d00ca286cfdb39d6_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "DAZ Luxury Fitted Tank Top · White",
- "name_es": "Camiseta de tirantes ajustada DAZ Luxury · Blanco",
+ "name_en": "DAZ Fitted Tank Top · White",
+ "name_es": "Camiseta de tirantes ajustada DAZ · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 76,

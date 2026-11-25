@@ -1,7 +1,6 @@
 {
  "ai_cats": [
-  "hombre/chandal-sudaderas",
-  "mujer/chaqueta-sudadera-sueter"
+  "decor"
  ],
  "ai_color": "Cream",
  "ai_copy": true,
@@ -9,15 +8,15 @@
  "ai_gender": "unisex",
  "ai_material": "100% polyester",
  "ai_priority": true,
- "ai_type": "Hooded Blanket",
+ "ai_type": "hooded blanket",
  "ai_ver": 2,
  "art_note": "Standard mockup photography with flat digital composites, lacking high-end luxury editorial atmosphere.",
  "art_score": 3,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/chandal-sudaderas",
-  "mujer/chaqueta-sudadera-sueter"
+  "decor"
  ],
  "cg": "printify-6b06756110baa70da60745da",
  "color": "Cream",
@@ -38,10 +37,7 @@
  "id": "printify-6b06756110baa70da60745da",
  "img_checked": "2026-11-25",
  "look": [
-  "printify-6b06675510baa70da607308a",
-  "printful-365090873",
-  "printful-351492575-black",
-  "printful-361906822"
+  "printful-382149130"
  ],
  "material": "100% polyester",
  "name_en": "Cream Hooded Polar Blanket",

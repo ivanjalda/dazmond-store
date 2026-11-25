@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/70c62456846a021fd4d1.jpg",
+  "assets/products/shop/1ae7a65bc79a5d0a1bd7.jpg",
+  "assets/products/shop/c9bc2b3d4117bc2dda8b.jpg",
+  "assets/products/shop/93a41812208ac2c45a3d.jpg"
+ ],
  "ai_cats": [
   "mujer/falda"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "golden-azure-skater",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350911919",
  "img_checked": "2026-11-22",

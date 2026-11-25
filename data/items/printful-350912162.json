@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/ae8f50eedfb25e0b58ea.jpg",
+  "assets/products/shop/d2bee5340cec5e01185e.jpg",
+  "assets/products/shop/fcf0b267f4e1d717eeeb.jpg",
+  "assets/products/shop/886372c23ccf518ee747.jpg"
+ ],
  "ai_cats": [
   "mujer/falda"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "vibrant-pop-skater",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350912162",
  "img_checked": "2026-11-22",

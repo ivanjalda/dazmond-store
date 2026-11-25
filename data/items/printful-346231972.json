@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Recycled",
+ "ai_type": "athletic shorts",
+ "ai_ver": 2,
+ "art_note": "Image features distracting Halloween decorative cutouts and low-end marketplace composition.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-346231972",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Precision meets performance in this essential piece. Tailored for effortless movement and an impeccable presence. Each piece is crafted exclusively upon demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "La precisión se une al rendimiento en esta pieza esencial. Diseñado para el movimiento sin esfuerzo y una presencia impecable. Cada prenda se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/dbb/dbb39dff67cd9d595dbb47e622294cbd_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Omni Sport Recycled Shorts · White",
- "name_es": "Bermuda Omni Sport Recycled · Blanco",
+ "name_en": "Omni-Sport Athletic Shorts",
+ "name_es": "Pantalón Corto Deportivo Omni-Sport",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 64.99,
  "rank": 282,

@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/0a3312826e08715a8111.jpg",
+  "assets/products/shop/ca471000949bcf8f581f.jpg",
+  "assets/products/shop/afc46f4356b19c5c7cc8.jpg",
+  "assets/products/shop/7147a68666363de8eea1.jpg",
+  "assets/products/shop/25d7bd26dce57fc2e659.jpg",
+  "assets/products/shop/86237290946b6b5bc2df.jpg"
+ ],
  "ai_cats": [
   "hombre/camiseta"
  ],
@@ -28,6 +36,7 @@
  ],
  "draft": false,
  "fam": "camiseta-algodon-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-400730106",
  "img_checked": "2026-11-22",
@@ -37,7 +46,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "algodón",
  "name_en": "All-Over Print Cotton T-Shirt",
  "name_es": "Camiseta de Algodón All-Over Print",
  "needs_review": false,

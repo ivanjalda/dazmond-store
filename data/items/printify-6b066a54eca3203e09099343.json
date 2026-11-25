@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "pajama set",
+ "ai_ver": 2,
+ "art_note": "Flat lay product shots are clean, but the lifestyle model mockups look composited and reduce the luxury perception.",
+ "art_score": 4,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "printify-6b066a54eca3203e09099343",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A fusion of comfort and sophistication for repose. This two-piece set presents a relaxed silhouette featuring a ribbed collar and an all-over graphic design. Crafted to offer freedom of movement without compromising elegance at home. Available made to order with worldwide shipping.",
+ "desc_es": "Una fusión de comodidad y sofisticación para el descanso. Este conjunto de dos piezas presenta una silueta relajada con cuello acanalado y un diseño gráfico integral. Confeccionado para ofrecer libertad de movimiento sin comprometer la elegancia en el hogar. Disponible bajo pedido con envío mundial.",
+ "details_en": "· 95% polyester, 5% elastane\n· Relaxed fit\n· Ribbed collar\n· Seamless sleeves\n· Sewn-in label on inner side seam",
+ "details_es": "· 95 % poliéster, 5 % elastano\n· Ajuste relajado\n· Cuello acanalado\n· Sin costuras en las mangas\n· Etiqueta cosida en la costura lateral interna",
  "display_images": [
   "https://images-api.printify.com/mockup/6b066a54eca3203e09099343/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a54eca3203e09099343/75685/24433/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=back",
@@ -26,9 +41,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Conjunto Pijama Corto Loungewear · White",
- "name_es": "Pijama Conjunto Pijama Corto · Blanco",
+ "name_en": "Diamond Short Pajama Set",
+ "name_es": "Conjunto de Pijama Corto Diamantes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 48.99,
  "rank": 52,

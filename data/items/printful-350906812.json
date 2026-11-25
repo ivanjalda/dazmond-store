@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/091fc1b9e7b50b816c5f.jpg",
+  "assets/products/shop/e51529dd44d5e189fb5e.jpg",
+  "assets/products/shop/e4dbe8e927654628b0bd.jpg"
+ ],
  "ai_cats": [
   "mujer/falda"
  ],
@@ -27,6 +32,7 @@
  ],
  "draft": false,
  "fam": "aura-swing-skater",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350906812",
  "img_checked": "2026-11-22",

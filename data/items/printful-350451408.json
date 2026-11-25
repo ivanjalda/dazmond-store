@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/dbb918e9dcc7d99b7dc1.jpg",
+  "assets/products/shop/cd71a027acefe3a5ba3e.jpg",
+  "assets/products/shop/f6a1d4ec55cff8bd5a1e.jpg"
+ ],
  "ai_cats": [
   "decor"
  ],
@@ -30,13 +35,14 @@
  ],
  "draft": false,
  "fam": "art-stardust-union",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350451408",
  "img_checked": "2026-11-22",
  "look": [
   "printful-382149130"
  ],
- "material": "",
+ "material": "ceramic",
  "name_en": "Stardust Union Mug",
  "name_es": "Taza Stardust Union",
  "needs_review": false,

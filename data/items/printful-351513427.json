@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The image features a flat-looking digital all-over print on a standard mockup model against a plain white background, lacking high-end luxury editorial styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351513427",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A visual exploration of movement and form. This dress features a graphic contour wave design set against a pure white canvas. Each piece is crafted to order. We offer worldwide shipping to accommodate your global lifestyle. A defined silhouette that embraces the figure with understated elegance. A minimalist concept designed for the contemporary woman who seeks effortless distinction.",
+ "desc_es": "Una exploracion visual del movimiento y la forma. Este vestido presenta un diseño grafico de ondas contorneadas sobre un lienzo blanco puro. Cada pieza se confecciona bajo pedido en nuestras instalaciones. Ofrecemos envios a todo el mundo para satisfacer sus necesidades globales. Silueta definida que acompaña la figura con elegancia sobria. Un concepto minimalista pensado para la mujer contemporanea que busca distincion sin esfuerzo.",
+ "details_en": "· Made to order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío a todo el mundo disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/040/040694068d4525790a2e742c3a48f335_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Contour Waves Silhouette Dress · White",
- "name_es": "Vestido Contour Waves Silhouette · Blanco",
+ "name_en": "Contour Waves Silhouette Dress",
+ "name_es": "Vestido Silueta Contour Waves",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 115,

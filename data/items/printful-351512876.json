@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/c6b78d4643e5766e98db.jpg",
+  "assets/products/shop/940861f8fb41a288df71.jpg",
+  "assets/products/shop/b097e3f36d561c289ae3.jpg",
+  "assets/products/shop/0b3d5ca48cc5a8e186cd.jpg",
+  "assets/products/shop/8c5333669a318fa3d844.jpg",
+  "assets/products/shop/49b097a01ecad5cb4078.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +35,7 @@
  ],
  "draft": false,
  "fam": "solar-lattice-silhouette",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351512876",
  "img_checked": "2026-11-22",

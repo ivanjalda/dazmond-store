@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Flat lay render lacks the sophistication and dimension required for luxury e-commerce presentation.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351226891",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential swimwear piece defined by a striking and contemporary aesthetic. The design features an exclusive graphic all-over print that brings character to the classic triangle silhouette. Crafted with meticulous attention to detail, this model incorporates thin adjustable ties to ensure a clean and flattering profile. Each creation is crafted exclusively on demand to guarantee absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una pieza de baño esencial definida por una estética moderna y contundente. El diseño presenta un estampado gráfico exclusivo que aporta carácter a la silueta clásica de triángulo. Confeccionado con atención meticulosa al detalle, este modelo incorpora finos tirantes ajustables para asegurar un perfil limpio y favorecedor. Cada creación se elabora exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/835/835507cc5b7d4532ed79cf3718b3726d_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Urban Love Typography Swimwear · White",
- "name_es": "Bañador Urban Love Typography · Blanco",
+ "name_en": "Urban Love String Bikini",
+ "name_es": "Bikini de Cuerdas Urban Love",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 207,

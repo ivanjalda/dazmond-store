@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "Heather Grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "The image features a generic mockup style with an awkward crop and unnatural placement, failing to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-345761844",
  "color": "Heather Grey",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in soft fleece, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en felpa suave, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Luxury meets relaxation in its purest form. This piece redefines everyday comfort with an impeccable silhouette and an enveloping texture. Designed for those who demand elegance even in moments of repose. Crafted to order to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "El lujo encuentra el descanso en su máxima expresión. Esta pieza redefine el confort cotidiano con una silueta impecable y una textura envolvente. Diseñado para quienes exigen elegancia incluso en los momentos de relajación. Confeccionado bajo pedido para garantizar exclusividad. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e55/e559c4a18b315ff7bd2658e813bbbb1f_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Lounge Elite Sweatshirt · Heather Grey",
- "name_es": "Sudadera Lounge Elite · Heather Grey",
+ "name_en": "Lounge Elite Fleece Shorts · Heather Grey",
+ "name_es": "Pantalón corto de felpa Lounge Elite · Heather Grey",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 280,

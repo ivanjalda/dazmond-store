@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Flat lay product shot with a generic digital mockup appearance, lacking true luxury studio depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351227475",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Light and geometry converge in this classic silhouette. The adjustable string design offers an impeccable adaptation to the body. Warm tones evoke the serenity of sunset on the skin. Each piece is crafted to order with rigorous attention to detail. Available with worldwide shipping for borderless style.",
+ "desc_es": "Luz y geometría convergen en esta silueta clásica. El diseño de tiras ajustables ofrece una adaptación impecable al cuerpo. Los tonos cálidos evocan la serenidad del atardecer sobre la piel. Cada pieza se elabora bajo pedido con atención rigurosa al detalle. Disponible con envío internacional para un estilo sin fronteras.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/506/50696c3250e4eb54b62346bd82975dd5_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Solar Amber Geometric Swimwear · White",
- "name_es": "Bañador Solar Amber Geometric · Blanco",
+ "name_en": "Solar Amber Triangle Bikini",
+ "name_es": "Bikini Triángulo Solar Amber",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 213,

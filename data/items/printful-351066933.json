@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled material",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Clean flat-lay product presentation against a neutral background, though lacking editorial depth.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351066933",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An effortless statement of modern coastal elegance. This high-waisted bikini showcases a sophisticated graphic print that evokes fluid motion. Crafted from recycled materials for a conscious approach to contemporary luxury. A refined silhouette and flattering lines redefine summer dressing with absolute distinction. Available exclusively made to order, with worldwide shipping.",
+ "desc_es": "Una declaración de elegancia moderna junto al mar. Este bikini de talle alto presenta un diseño gráfico sofisticado que evoca movimiento y fluidez. Confeccionado con materiales reciclados para un compromiso consciente con el lujo contemporáneo. Silueta depurada y líneas favorecedoras que redefinen el estilo estival con absoluta distinción. Disponible exclusivamente bajo demanda, con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/6ca/6ca2fdfac9a02db4760240891a931e74_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Fluid Current High Swimwear · White",
- "name_es": "Bañador Fluid Current High · Blanco",
+ "name_en": "Fluid Current High-Waisted Bikini",
+ "name_es": "Bikini de Talle Alto Fluid Current",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 63.99,
  "rank": 307,

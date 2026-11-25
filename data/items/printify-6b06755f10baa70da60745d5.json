@@ -14,7 +14,7 @@
   "decor"
  ],
  "cg": "printify-6b06755f10baa70da60745d5",
- "color": "",
+ "color": "white",
  "created": "2026-11-25",
  "desc_en": "A piece designed for absolute rest. This comforter combines a lightweight touch with a warm structure to envelop the space in quiet elegance. Its fluid design brings serenity to the bedroom, creating an immaculate and sophisticated refuge of comfort. Every detail is crafted to accompany the quietest mornings with a refined and embracing presence.",
  "desc_es": "Una pieza diseñada para el descanso absoluto. Este edredón combina un tacto ligero y una estructura cálida para envolver el espacio en una elegancia silenciosa. Su diseño fluido aporta serenidad a la habitación, creando un refugio de confort impecable y sofisticado. Cada detalle está pensado para acompañar las mañanas más tranquilas con una presencia depurada y envolvente.",
@@ -28,13 +28,14 @@
  ],
  "draft": false,
  "fam": "edredon",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-6b06755f10baa70da60745d5",
  "img_checked": "2026-11-25",
  "look": [
   "printful-382149130"
  ],
- "material": "",
+ "material": "polyester",
  "name_en": "Essential White Comforter",
  "name_es": "Edredón Essential Blanco",
  "needs_review": false,

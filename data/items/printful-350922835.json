@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "Flat studio product shot with a generic digital placement style.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350922835",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined expression of movement and color. These capri leggings feature a geometric sunrise-inspired print. Each piece is crafted to order with meticulous attention to detail. Available with worldwide shipping.",
+ "desc_es": "Una expresión depurada de movimiento y color. Estas mallas capri presentan un estampado geométrico inspirado en el amanecer. Cada pieza se confecciona bajo demanda con atención meticulosa al detalle. Disponibles con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/cf9/cf9f76418094eefbf80ff6907a69e8ac_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Geometric Sunrise Yoga Leggings · White",
- "name_es": "Leggings Geometric Sunrise Yoga · Blanco",
+ "name_en": "Geometric Sunrise Capri Leggings",
+ "name_es": "Mallas Capri Geometric Sunrise",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 48.99,
  "rank": 203,

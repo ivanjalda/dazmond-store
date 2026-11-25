@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Flat, digital cutout presentation lacking luxury studio lighting and tactile depth.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351512378",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette defines this patterned dress. The streamlined cut enhances the form with a striking graphic presence. Crafted to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada define esta pieza con motivo de cuadros. El diseño de corte ajustado realza la figura con una presencia gráfica rotunda. Confeccionada bajo pedido para asegurar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/5f7/5f7913754477b96b71b084eb0c2cc80f_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Crimson Tartan Silhouette Dress · White",
- "name_es": "Vestido Crimson Tartan Silhouette · Blanco",
+ "name_en": "Crimson Tartan Dress",
+ "name_es": "Vestido Crimson Tartan",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 110,

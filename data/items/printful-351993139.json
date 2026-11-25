@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/mallas"
+ ],
+ "ai_color": "Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "The image features a flat digital mockup on a headless model with unnatural lighting, characteristic of marketplace print-on-demand rather than a luxury fashion",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351993139",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold statement of contemporary design and commanding presence. These men's leggings feature a distinctive graphic motif in high contrast upon a sleek silhouette. Crafted for the modern wardrobe demanding distinction and character. Each piece is meticulously made to order. We offer worldwide shipping.",
+ "desc_es": "Una audaz declaración de diseño contemporáneo y presencia imponente. Estos leggings para hombre presentan un distintivo motivo gráfico en contraste sobre una silueta ceñida. Creados para el guardarropa moderno que exige distinción y carácter. Cada pieza se elabora meticulosamente bajo pedido en nuestras instalaciones. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Made to order\n· Available for worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Disponible para envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/9b6/9b664ddaf0e061df79580f0d87730e19_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Crimson Prestige Leggings · White",
- "name_es": "Leggings Crimson Prestige · Blanco",
+ "name_en": "Crimson Prestige Men's Leggings",
+ "name_es": "Leggings Crimson Prestige para Hombre",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 56.99,
  "rank": 315,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Canvas",
+ "ai_type": "Slip-On Shoes",
+ "ai_ver": 2,
+ "art_note": "Flat, floating mockup on a pure white background typical of basic supplier catalogs, lacking true luxury styling.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-350210408",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in canvas, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en lona, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined and essential silhouette. Designed for effortless daily movement with an uncompromising presence. Each pair is made to order in our ateliers. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada y esencial. Diseñada para el movimiento cotidiano con una presencia impecable. Cada par se elabora bajo pedido en los talleres de la casa. Disponible con envío internacional.",
+ "details_en": "· Durable canvas\n· Slip-on construction\n· Made to order",
+ "details_es": "· Lona de alta resistencia\n· Diseño slip-on\n· Elaborado bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/b7d/b7d73215333c96dbd932794007cb9415_preview.png"
  ],
@@ -21,9 +35,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Grace Glide Slip Art Print · White",
- "name_es": "Lámina Grace Glide Slip · Blanco",
+ "name_en": "Grace Glide Slip-On Shoe",
+ "name_es": "Zapatilla Slip-On Grace Glide",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 65.99,
  "rank": 245,

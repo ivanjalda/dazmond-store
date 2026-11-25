@@ -17,7 +17,7 @@
   "decor"
  ],
  "cg": "printify-6b06756a790d678f870371d0",
- "color": "",
+ "color": "clear",
  "created": "2026-11-25",
  "desc_en": "A refined silhouette designed for the most exclusive after-dinner moments. This whiskey glass combines absolute glass transparency with a timeless design, created to elevate the character of every spirit. Each piece is made to order and shipped worldwide, ensuring a distinguished presence in any private collection.",
  "desc_es": "Una silueta depurada diseñada para los momentos de sobremesa más selectos. Este vaso de whisky combina la transparencia absoluta del vidrio con un diseño atemporal, pensado para realzar el carácter de cada destilado. Cada pieza se elabora bajo pedido y se envía a todo el mundo, asegurando una presencia distinguida en cualquier colección privada.",
@@ -31,13 +31,14 @@
  ],
  "draft": false,
  "fam": "vaso-whisky",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-6b06756a790d678f870371d0",
  "img_checked": "2026-11-25",
  "look": [
   "printful-382149130"
  ],
- "material": "",
+ "material": "glass",
  "name_en": "Whiskey glass",
  "name_es": "Vaso de whisky",
  "needs_review": false,

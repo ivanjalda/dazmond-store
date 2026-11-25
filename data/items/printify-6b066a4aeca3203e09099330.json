@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White and Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Cushion",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with crisp close-ups of the hardware, maintaining a refined aesthetic.",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printify-6b066a4aeca3203e09099330",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Refined elegance for the contemporary interior. This cushion features a subtle geometric motif evoking classic opulence through a minimalist lens. Each piece is made to order in our workshops, ensuring exclusivity and obsessive attention to detail. Available with worldwide shipping, this creation redefines residential spaces with a sophisticated and commanding presence.",
+ "desc_es": "Elegancia depurada para el hogar contemporáneo. Este cojín de diseño sobrio presenta un motivo geométrico sutil que evoca la opulencia clásica bajo un prisma minimalista. Cada pieza es elaborada bajo pedido en nuestros talleres, garantizando exclusividad y atención obsesiva al detalle. Disponible con envío a todo el mundo, esta creación redefine los espacios residenciales con una presencia sofisticada y rotunda.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b066a4aeca3203e09099330/41521/47613/baroque-mirror-cushion.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b066a4aeca3203e09099330/41521/47617/baroque-mirror-cushion.jpg?camera_label=back",
@@ -28,9 +41,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Baroque Mirror Cushion Cushion",
- "name_es": "Cojín Baroque Mirror Cushion",
+ "name_en": "Baroque Mirror Cushion",
+ "name_es": "Cojín Baroque Mirror",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 82.99,
  "rank": 63,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Capri Leggings",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery with warm sunset lighting and coastal atmosphere.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-379325480",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your active wardrobe with these exclusive capri leggings. Crafted to deliver a streamlining silhouette and exceptional comfort, they feature an all-over print that brings a distinctive character to your presence. Each piece is meticulously crafted to order, ensuring absolute exclusivity and a commitment to sustainability. Available for worldwide shipping.",
+ "desc_es": "Eleve su guardarropa activo con estos leggings capri de diseño exclusivo. Confeccionados para ofrecer una silueta estilizadora y un confort excepcional, presentan un estampado integral que aporta un carácter distintivo a su presencia. Cada pieza se elabora meticulosamente bajo demanda, asegurando una exclusividad absoluta y un compromiso con la sostenibilidad. Disponibles para envío mundial.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a medida\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/174/174b2071a06dda34bb93b71e396d36e4_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Leggings · White",
- "name_es": "Leggings Daz · Blanco",
+ "name_en": "DAZ Printed Capri Leggings",
+ "name_es": "Leggings Capri Estampados DAZ",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 48.99,
  "rank": 233,

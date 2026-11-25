@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/093915f7f3e8489e367d.jpg",
+  "assets/products/shop/15c22cc79b785eaffd26.jpg",
+  "assets/products/shop/f6b8e2fd49b93a45290c.jpg",
+  "assets/products/shop/cb68797010bef967457e.jpg",
+  "assets/products/shop/e31387dcc303faffcc17.jpg",
+  "assets/products/shop/412082e532237fb6eb2d.jpg",
+  "assets/products/shop/1aedc99747171d0eef2c.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +36,7 @@
  ],
  "draft": false,
  "fam": "luxury-equine-silhouette",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351516227",
  "img_checked": "2026-11-22",

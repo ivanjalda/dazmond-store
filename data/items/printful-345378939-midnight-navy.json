@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Midnight Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Tee",
+ "ai_ver": 2,
+ "art_note": "Flat lay styled with props looks cluttered and resembles a marketplace seller aesthetic rather than a luxury fashion house.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-345378939",
  "color": "Midnight Navy",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The definitive silhouette for the contemporary wardrobe. Crafted with clean lines and a precise fit that defines modern elegance. A versatile piece designed for effortless transition between relaxed formality and nocturnal sophistication. Made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "La silueta definitiva para el guardarropa contemporáneo. Creada con líneas depuradas y un ajuste preciso que define la elegancia moderna. Una pieza versátil diseñada para la transición sin esfuerzo entre la formalidad relajada y la sofisticación nocturna. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Size XS\n· Midnight Navy color\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Talla XS\n· Color Midnight Navy\n· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/7e3/7e33bf949553ba6e67203d16941dc632_preview.png"
  ],
@@ -27,6 +40,7 @@
  "name_en": "Iconic Essential Tee · Midnight Navy",
  "name_es": "Camiseta Esencial Icónica · Midnight Navy",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 195,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/mallas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "The image features a headless model with a flat, digitally composited print typical of marketplace dropshipping, failing to meet luxury house standards.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-352001765",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Discover the graphic elegance of the DAZMOND & Co. Scripture Calligraphy leggings. Tailored for the contemporary man, these pieces feature an all-over print that defines the silhouette with a bold yet refined character. Each piece is crafted individually on demand, ensuring absolute exclusivity. Available with worldwide shipping, they embody a sleek and modern aesthetic.",
+ "desc_es": "Descubra la elegancia gráfica de las mallas Scripture Calligraphy de DAZMOND & Co. Diseñadas para el hombre contemporáneo, estas piezas presentan un estampado integral que redefinen la silueta con un carácter audaz y refinado. Cada prenda se elabora de manera individual bajo demanda, asegurando una exclusividad absoluta. Disponibles con envíos a todo el mundo, consolidan una estética depurada y moderna.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b48/b4878a77022d66f5635e50e53a2152a3_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Scripture Calligraphy Tights · White",
- "name_es": "Mallas Scripture Calligraphy · Blanco",
+ "name_en": "Scripture Calligraphy Leggings",
+ "name_es": "Mallas Scripture Calligraphy",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 56.99,
  "rank": 324,

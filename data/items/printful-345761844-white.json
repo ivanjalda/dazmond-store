@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Fleece",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Generic mockup style with cropped head and flat lighting failing luxury standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-345761844",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in soft fleece, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en felpa suave, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined expression of contemporary comfort. Tailored with precision to deliver an immaculate silhouette. Each piece is crafted to order in our ateliers. Designed for sophisticated leisure and movement. Worldwide shipping is available for this exclusive creation.",
+ "desc_es": "Una expresión depurada del confort contemporáneo. Confeccionados con precisión para ofrecer una silueta impecable. Cada pieza se elabora bajo demanda en nuestros talleres. Diseñados para el descanso sofisticado y la vida en movimiento. Envío mundial disponible para esta exclusiva creación.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/f65/f658f0a2fdc399be9b738eaf50c79a41_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Lounge Elite Sweatshirt · White",
- "name_es": "Sudadera Lounge Elite · Blanco",
+ "name_en": "Lounge Elite Fleece Shorts · White",
+ "name_es": "Pantalón corto de felpa Lounge Elite · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 281,
