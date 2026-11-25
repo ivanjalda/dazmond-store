@@ -51,6 +51,9 @@ jobs:
       - name: 1c. Copiar a la web las fotos que siguen en Shopify (por tandas)
         run: python scripts/mirror_shopify_images.py
 
+      - name: 1d. Estudio de diseño (crea diseños propios nuevos cada día)
+        run: python scripts/design_studio.py
+
       - name: 2. Convertir diseños nuevos en productos de Printify
         run: python scripts/design_factory.py
 
