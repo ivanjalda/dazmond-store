@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/banador"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "recycled swim trunks",
+ "ai_type": "swim trunks",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, standard e-commerce presentation lacking atmospheric luxury styling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351239571",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined vision of summer luxury. These swim trunks showcase an abstract graphic design in monochrome tones with the house emblem. Crafted for elegance by the water. Made-to-order creation with worldwide shipping.",
+ "desc_es": "Una visión depurada del lujo estival. Estos bañadores presentan un diseño gráfico abstracto en tonos monocromos con el emblema de la casa. Creados para la elegancia junto al agua. Confección artesanal bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/aec/aec9c9526387b2355321b9182f700d07_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Monochrome Abstract Spots Swimwear · White",
- "name_es": "Bañador Monochrome Abstract Spots · Blanco",
+ "name_en": "Monochrome Print Swim Trunks",
+ "name_es": "Bañador Estampado Monocromo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 75.99,
  "rank": 383,

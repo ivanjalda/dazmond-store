@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/e1da8eee8400f56d3937.jpg",
+  "assets/products/shop/40a1b9cb71b2932f6b52.jpg",
+  "assets/products/shop/0001b626fc188f0c50d6.jpg",
+  "assets/products/shop/d905f0cea0de3f0ed7c6.jpg",
+  "assets/products/shop/84468d328e00de2f66b3.jpg",
+  "assets/products/shop/c7762e2bc07f1df21a31.jpg"
+ ],
  "ai_cats": [
   "hombre/banador"
  ],
@@ -28,6 +36,7 @@
  ],
  "draft": false,
  "fam": "luxury-geometric-chevron",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351238617",
  "img_checked": "2026-11-23",
@@ -37,7 +46,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "recycled swim trunks",
  "name_en": "Chevron Crest Swim Trunks",
  "name_es": "Bañador Chevron Crest",
  "needs_review": false,

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/49798b5f082ae93f0aab.jpg",
+  "assets/products/shop/0d65af5a0d4daddf8c66.jpg",
+  "assets/products/shop/b436f68b0ffd22772471.jpg",
+  "assets/products/shop/a6e817b46ab85fdc56f3.jpg"
+ ],
  "ai_cats": [
   "hombre/banador"
  ],
@@ -28,6 +34,7 @@
  ],
  "draft": false,
  "fam": "luxury-buffalo-plaid",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351239057",
  "img_checked": "2026-11-23",
@@ -37,7 +44,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Buffalo Plaid Crest Jewel Swim Trunks",
  "name_es": "Bañador Buffalo Plaid Crest Jewel",
  "needs_review": false,
