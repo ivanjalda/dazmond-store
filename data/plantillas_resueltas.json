@@ -1,0 +1,109 @@
+{
+  "camiseta": {
+    "blueprint_id": 6,
+    "blueprint": "Unisex Heavy Cotton Tee",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      12124,
+      12125,
+      12126,
+      12127,
+      12128,
+      12129,
+      24039,
+      24171
+    ],
+    "position": "front"
+  },
+  "sudadera-capucha": {
+    "blueprint_id": 77,
+    "blueprint": "Unisex Heavy Blend™ Hooded Sweatshirt",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      32918,
+      32919,
+      32920,
+      32921,
+      32922,
+      32923,
+      32924,
+      32925
+    ],
+    "position": "front"
+  },
+  "cojin": {
+    "blueprint_id": 220,
+    "blueprint": "Spun Polyester Square Pillow",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      41521,
+      41524,
+      41527,
+      41530,
+      244992,
+      244993,
+      244994
+    ],
+    "position": "front"
+  },
+  "bolso": {
+    "blueprint_id": 1920,
+    "blueprint": "Eco Tote Bag",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      119445,
+      119446
+    ],
+    "position": "front"
+  },
+  "lamina": {
+    "blueprint_id": 282,
+    "blueprint": "Matte Vertical Posters",
+    "provider_id": 234,
+    "provider": "Today's Graphics",
+    "variant_ids": [
+      43135,
+      43138,
+      43141,
+      43144,
+      43147,
+      43150,
+      62103,
+      101113,
+      114557
+    ],
+    "position": "front"
+  },
+  "sudadera": {
+    "blueprint_id": 49,
+    "blueprint": "Unisex Heavy Blend™ Crewneck Sweatshirt",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      25397,
+      25428,
+      25459,
+      25490,
+      25521,
+      25552,
+      25583,
+      25614
+    ],
+    "position": "front"
+  },
+  "taza": {
+    "blueprint_id": 441,
+    "blueprint": "Ceramic Mug (EU)",
+    "provider_id": 30,
+    "provider": "OPT OnDemand",
+    "variant_ids": [
+      62327,
+      62328
+    ],
+    "position": "front"
+  }
+}

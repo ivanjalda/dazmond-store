@@ -1,3 +1,37 @@
 {
-  "files": {}
+  "files": {
+    "baroque-mirror__camiseta-sudadera-capucha-cojin-bolso.png": {
+      "status": "hecho",
+      "products": {
+        "camiseta": "6b064539fb3b556d1c04ed2a",
+        "sudadera-capucha": "6b06453cfb3b556d1c04ed30",
+        "cojin": "6b06453fc873c9091302bc50",
+        "bolso": "6b06454243cb7ee2d4028d0f"
+      },
+      "image_id": "6b064537040a669b08a96a7b",
+      "date": "2026-11-25"
+    },
+    "gatsby-fan__camiseta-sudadera-capucha-cojin-lamina.png": {
+      "status": "hecho",
+      "products": {
+        "camiseta": "6b064548c873c9091302bc5b",
+        "sudadera-capucha": "6b06454bfb3b556d1c04ed46",
+        "cojin": "6b06454e71915c76bb027cfe",
+        "lamina": "6b06455171915c76bb027d03"
+      },
+      "image_id": "6b0645454b584ee102bf8088",
+      "date": "2026-11-25"
+    },
+    "house-seal__camiseta-sudadera-capucha-sudadera-taza.png": {
+      "status": "hecho",
+      "products": {
+        "camiseta": "6b06455643cb7ee2d4028d25",
+        "sudadera-capucha": "6b06455a9a7ef0f8180cc7f3",
+        "sudadera": "6b06455efb3b556d1c04ed5f",
+        "taza": "6b0645629a7ef0f8180cc800"
+      },
+      "image_id": "6b0645546c46c204ee0c87be",
+      "date": "2026-11-25"
+    }
+  }
 }
