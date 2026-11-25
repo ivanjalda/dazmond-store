@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/5cb889ff2062bdfd14cd.jpg",
+  "assets/products/shop/6b5bb3eeb5ad116f5a65.jpg",
+  "assets/products/shop/c18b222fc970c6374d1a.jpg",
+  "assets/products/shop/2387deaca5267fb32578.jpg",
+  "assets/products/shop/65330b28b9d249397416.jpg",
+  "assets/products/shop/c90ae8bb1fe755045652.jpg",
+  "assets/products/shop/222050cf800db0ee93bd.jpg"
+ ],
  "ai_cats": [
   "hombre/banador"
  ],
@@ -28,6 +37,7 @@
  ],
  "draft": false,
  "fam": "luxury-geometric-chevron",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351237348",
  "img_checked": "2026-11-22",
@@ -37,7 +47,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Navy Geometric Swim Trunks",
  "name_es": "Bañador Geométrico Navy",
  "needs_review": false,

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T20:11:42Z",
+  "updated": "2026-11-25T20:41:49Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -53036,7 +53036,7 @@
       ],
       "needs_review": false,
       "created": "2026-11-22",
-      "material": "",
+      "material": "Recycled",
       "color": "White",
       "raw_images": [
         "https://files.cdn.printful.com/files/2e4/2e41fd31271c542e0f91c309b3169c01_preview.png"
@@ -53072,7 +53072,7 @@
       "shop_verified": true,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DAZMOND® Luxury \"Navy Geometric Chevron & Line Art\" Premium Men's Swim Trunks All-Over Print Recycled Swim Trunks (White / 2XS) White",
+      "source_text": "DAZMOND® Luxury \"Navy Geometric Chevron & Line Art\" Premium Men's Swim Trunks All-Over Print Recycled Swim Trunks (White / 2XS) swim trunks White Recycled",
       "name_es": "Bañador Geométrico Navy",
       "name_en": "Navy Geometric Swim Trunks",
       "desc_es": "Una expresión depurada de diseño contemporáneo. Este modelo presenta un motivo geométrico de líneas depuradas sobre un fondo de tono profundo. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
@@ -53083,13 +53083,6 @@
       "shipping_worst_usd": 7.0,
       "details_src": "Geometría Dinámica — Estructura Náutica de Vanguardia \n El vestuario de baño masculino de alto nivel adopta un enfoque arquitectónico moderno con líneas geométricas de precisión. El bañador DAZMOND® presenta una composición visual sofisticada basada en finas rayas horizontales combinadas con bloques de chevrón y ángulos intersectados en tonos azul marino profundo y azul acero. En el bajo de la pierna izquierda, el distintivo escudo enjoyado \"DAZ\" en acabado tridimensional autentifica la pieza con el sello inconfundible de alta moda de la firma.\n La Experiencia del Tejido\n Diseñado por DAZMOND® , marca de lujo registrada en Estados Unidos, este bañador está confeccionado en un tejido técnico de microfibra de poliéster reciclado (91%) y spandex (9%), caracterizado por su secado ultra rápido, transpirabilidad superior y acabado repelente al agua. Su elasticidad en cuatro direcciones ( 4-way stretch ) garantiza una libertad de movimiento impecable. En el interior, incorpora un forro de malla técnico (92% poliéster, 8% spandex) de tacto sedoso y diseño antirrozaduras. Cuenta con certificación de protección solar UPF 50+ (FPU 50+), protegiendo la piel y manteniendo la definición geométrica bajo la luz solar directa.\n Silueta, Estructura y Versatilidad\n Pensado para el hombre contemporáneo que busca dinamismo y sofisticación, este modelo cuenta con una cintura elástica con cordón de ajuste regulable que se adapta con soltura al cuerpo. Incorpora bolsillos laterales con fondo de mall",
       "images_original": [
-        "assets/products/shop/5cb889ff2062bdfd14cd.jpg",
-        "assets/products/shop/6b5bb3eeb5ad116f5a65.jpg",
-        "assets/products/shop/c18b222fc970c6374d1a.jpg",
-        "assets/products/shop/2387deaca5267fb32578.jpg",
-        "assets/products/shop/65330b28b9d249397416.jpg",
-        "assets/products/shop/c90ae8bb1fe755045652.jpg",
-        "assets/products/shop/222050cf800db0ee93bd.jpg",
         "https://files.cdn.printful.com/files/2e4/2e41fd31271c542e0f91c309b3169c01_preview.png"
       ],
       "images_model": [],
@@ -53162,7 +53155,17 @@
       "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
       "details_en": "· Made to order\n· Worldwide shipping",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "men",
+      "_shop_photos": [
+        "assets/products/shop/5cb889ff2062bdfd14cd.jpg",
+        "assets/products/shop/6b5bb3eeb5ad116f5a65.jpg",
+        "assets/products/shop/c18b222fc970c6374d1a.jpg",
+        "assets/products/shop/2387deaca5267fb32578.jpg",
+        "assets/products/shop/65330b28b9d249397416.jpg",
+        "assets/products/shop/c90ae8bb1fe755045652.jpg",
+        "assets/products/shop/222050cf800db0ee93bd.jpg"
+      ]
     },
     {
       "id": "printful-351238171",
@@ -53379,10 +53382,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "DAZMOND® Luxury \"Olive Geometric Chevron & Crest Jewel\" Premium Men's Swim Trunks All-Over Print Recycled Swim Trunks (White / 2XS) White",
-      "name_es": "Bañador Geometric Chevron Crest · Blanco",
-      "name_en": "Geometric Chevron Crest Swimwear · White",
-      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "name_es": "Bañador Chevron Crest",
+      "name_en": "Chevron Crest Swim Trunks",
+      "desc_es": "Defina su presencia junto al agua con este bañador de corte impecable. El diseño incorpora motivos geométricos con un emblema distintivo. Confeccionados para el hombre exigente que valora la sofisticación en cada detalle. Cada pieza se elabora bajo pedido con materiales reciclados. Disponible con envío internacional.",
+      "desc_en": "Define your presence by the water with these impeccably tailored swim trunks. The design features geometric motifs alongside a signature crest emblem. Crafted for the discerning man who values sophistication in every detail. Each piece is made to order using recycled materials. Available with worldwide shipping.",
       "price_usd": 75.99,
       "margin_pct": 20.9,
       "shipping_usd": 7.0,
@@ -53441,7 +53444,32 @@
       "stripe_site": "https://dazmond.com",
       "cg": "printful-351238617",
       "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño",
-      "img_checked": "2026-11-23"
+      "img_checked": "2026-11-23",
+      "art_score": 3,
+      "art_note": "Flat mockup style with artificial lighting and generic placement.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://files.cdn.printful.com/files/c7a/c7aa1160ac1e9fbdc812d35f66441e57_preview.png",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "swim trunks",
+      "ai_gender": "men",
+      "ai_color": "olive",
+      "ai_material": "recycled swim trunks",
+      "ai_cats": [
+        "hombre/banador"
+      ],
+      "details_es": "· Confección bajo pedido\n· Envío a todo el mundo",
+      "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printful-351239057",
@@ -53504,10 +53532,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "DAZMOND® Luxury \"Green & Black Buffalo Plaid Crest Jewel\" Premium Men's Swim Trunks All-Over Print Recycled Swim Trunks (White / 2XS) White",
-      "name_es": "Bañador Buffalo Plaid Crest · Negro",
-      "name_en": "Buffalo Plaid Crest Swimwear · Black",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "name_es": "Bañador Buffalo Plaid Crest Jewel",
+      "name_en": "Buffalo Plaid Crest Jewel Swim Trunks",
+      "desc_es": "Silueta esencial diseñada para la sofisticación estival. Confeccionado en tejido reciclado con un distintivo estampado de cuadros y emblema joya. Líneas limpias que definen una elegancia relajada junto al agua. Cada pieza se elabora bajo demanda en nuestros talleres. Disponible con envío internacional.",
+      "desc_en": "Essential silhouette tailored for summer sophistication. Crafted from recycled fabric featuring a distinctive check pattern and jewel emblem. Clean lines define a relaxed elegance by the water. Each piece is made to order in our ateliers. Available with worldwide shipping.",
       "price_usd": 75.99,
       "margin_pct": 20.9,
       "shipping_usd": 7.0,
@@ -53564,7 +53592,32 @@
       "stripe_site": "https://dazmond.com",
       "cg": "printful-351239057",
       "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Shorts de baño",
-      "img_checked": "2026-11-23"
+      "img_checked": "2026-11-23",
+      "art_score": 6,
+      "art_note": "Clean flat lay product shot on a neutral background, but lacks high-end lighting and environmental context.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://files.cdn.printful.com/files/7de/7deac04c48c96317128a428d53c96c5c_preview.png",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "swim trunks",
+      "ai_gender": "men",
+      "ai_color": "Green / Black",
+      "ai_material": "Recycled",
+      "ai_cats": [
+        "hombre/banador"
+      ],
+      "details_es": "· Confeccionado con tejido reciclado\n· Elaborado bajo pedido\n· Disponible con envío a todo el mundo",
+      "details_en": "· Crafted from recycled fabric\n· Made to order\n· Available with worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printful-351239571",

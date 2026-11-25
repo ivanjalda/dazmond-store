@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/banador"
+ ],
+ "ai_color": "Green / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Recycled",
+ "ai_type": "swim trunks",
+ "ai_ver": 2,
+ "art_note": "Clean flat lay product shot on a neutral background, but lacks high-end lighting and environmental context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351239057",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Essential silhouette tailored for summer sophistication. Crafted from recycled fabric featuring a distinctive check pattern and jewel emblem. Clean lines define a relaxed elegance by the water. Each piece is made to order in our ateliers. Available with worldwide shipping.",
+ "desc_es": "Silueta esencial diseñada para la sofisticación estival. Confeccionado en tejido reciclado con un distintivo estampado de cuadros y emblema joya. Líneas limpias que definen una elegancia relajada junto al agua. Cada pieza se elabora bajo demanda en nuestros talleres. Disponible con envío internacional.",
+ "details_en": "· Crafted from recycled fabric\n· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Confeccionado con tejido reciclado\n· Elaborado bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/7de/7deac04c48c96317128a428d53c96c5c_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Buffalo Plaid Crest Swimwear · Black",
- "name_es": "Bañador Buffalo Plaid Crest · Negro",
+ "name_en": "Buffalo Plaid Crest Jewel Swim Trunks",
+ "name_es": "Bañador Buffalo Plaid Crest Jewel",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 75.99,
  "rank": 382,
