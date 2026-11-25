@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/d786a52b27c777228e9c.jpg",
+  "assets/products/shop/fa544f67f5e541c4cffc.jpg",
+  "assets/products/shop/a9bbb48d66b00a82e3b6.jpg",
+  "assets/products/shop/08711bb1a7590c4e868e.jpg",
+  "assets/products/shop/2b62770bf004fd574fa8.jpg",
+  "assets/products/shop/6fe74fd9d8f36a02aed7.jpg",
+  "assets/products/shop/9f2c352977d77f33dbe6.jpg"
+ ],
  "ai_cats": [
   "hombre/banador"
  ],
@@ -28,6 +37,7 @@
  ],
  "draft": false,
  "fam": "luxury-buffalo-plaid",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351238171",
  "img_checked": "2026-11-22",
@@ -37,7 +47,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "Recycled fabric",
  "name_en": "Buffalo Plaid Jewel Emblem Swim Trunks",
  "name_es": "Bañador Buffalo Plaid con Emblema",
  "needs_review": false,
