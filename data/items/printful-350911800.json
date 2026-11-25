@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/7ca3400d90860788bd20.jpg",
+  "assets/products/shop/552f69a50a6a5f011a8d.jpg",
+  "assets/products/shop/0c711438e7857978353d.jpg",
+  "assets/products/shop/894fb3772830c2079a37.jpg",
+  "assets/products/shop/5529dbfc0116b0798eb0.jpg"
+ ],
  "ai_cats": [
   "mujer/falda"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "nebula-dream-skater",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350911800",
  "img_checked": "2026-11-22",

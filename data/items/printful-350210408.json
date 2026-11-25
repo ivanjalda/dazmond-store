@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/8ca818328d9a4845f5ff.jpg",
+  "assets/products/shop/3b88195cb50370d7c63d.jpg",
+  "assets/products/shop/ba1e76161720c82faaeb.jpg",
+  "assets/products/shop/9008dfa8e52e6481129d.jpg",
+  "assets/products/shop/e3aaed406fb5efd50696.jpg",
+  "assets/products/shop/9c62738c8bf2e97c4d64.jpg"
+ ],
  "ai_cats": [
   "decor"
  ],
@@ -28,13 +36,14 @@
  ],
  "draft": false,
  "fam": "grace-glide-slip",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350210408",
  "img_checked": "2026-11-22",
  "look": [
   "printful-382149130"
  ],
- "material": "",
+ "material": "Canvas",
  "name_en": "Grace Glide Slip-On Shoe",
  "name_es": "Zapatilla Slip-On Grace Glide",
  "needs_review": false,

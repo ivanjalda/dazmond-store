@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/97c5eb3400cc3fe7f2cf.jpg",
+  "assets/products/shop/45da21044a7d7953affc.jpg",
+  "assets/products/shop/3d07c744bb8944740aaa.jpg",
+  "assets/products/shop/d6878f40494916b02ce1.jpg",
+  "assets/products/shop/9e990b39bf1ee94c6f52.jpg"
+ ],
  "ai_cats": [
   "hombre/mallas"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "shadow-eclipse-men",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351993507",
  "img_checked": "2026-11-22",

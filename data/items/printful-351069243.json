@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/f168f92ca82c921169f9.jpg",
+  "assets/products/shop/918776ec9bc166337664.jpg",
+  "assets/products/shop/4ea810604511170567e1.jpg",
+  "assets/products/shop/82c00c44f8ce2b8b78a7.jpg",
+  "assets/products/shop/385f978c986ad431bd63.jpg",
+  "assets/products/shop/c579cfb534da66d532f3.jpg",
+  "assets/products/shop/73421db327707bce9a84.jpg",
+  "assets/products/shop/6ee2bea1c7302128425e.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +38,7 @@
  ],
  "draft": false,
  "fam": "midnight-strokes-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351069243",
  "img_checked": "2026-11-22",
@@ -37,7 +48,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Midnight Strokes Bikini",
  "name_es": "Bikini Midnight Strokes",
  "needs_review": false,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Clean flat lay composition with lifestyle props, though slightly generic due to supplier staging.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351227846",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined vision of summer elegance. This string bikini features an all-over print evoking coastal sophistication. Clean lines and a minimalist silhouette define a polished aesthetic. Each piece is crafted exclusively upon request to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una visión depurada de la elegancia estival. Este bikini de cuerdas presenta un estampado integral que evoca la sofisticación de la costa. Las líneas limpias y la silueta minimalista definen una estética depurada. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/560/560066547e451bbec87a784a8350c94d_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Crimson Orchid Midnight Swimwear · White",
- "name_es": "Bañador Crimson Orchid Midnight · Blanco",
+ "name_en": "Crimson Orchid String Bikini",
+ "name_es": "Bikini de Cuerdas Crimson Orchid",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 216,

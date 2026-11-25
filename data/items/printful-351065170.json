@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/9ecbb0f868faf5a128c5.jpg",
+  "assets/products/shop/e9d5e2b1aae88c78f5a9.jpg",
+  "assets/products/shop/638da0f15c32c0913e67.jpg",
+  "assets/products/shop/0fd9db76c7da49e5ed7b.jpg",
+  "assets/products/shop/ffac2ed2d09e3ce33800.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "neon-lines-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351065170",
  "img_checked": "2026-11-22",

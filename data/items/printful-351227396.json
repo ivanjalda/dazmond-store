@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/93a39ad2b1f572089431.jpg",
+  "assets/products/shop/3509a2a1168193a80bb6.jpg",
+  "assets/products/shop/ffc4da036c4272423e5f.jpg",
+  "assets/products/shop/9f97618db34715fbcf17.jpg",
+  "assets/products/shop/7d5cfb06d7240fc73f12.jpg",
+  "assets/products/shop/8a4cac630a200438be0a.jpg",
+  "assets/products/shop/28eb35ddb9983ed0b260.jpg",
+  "assets/products/shop/2033de1061024784f192.jpg",
+  "assets/products/shop/7c3c85949e3071a2bfec.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +39,7 @@
  ],
  "draft": false,
  "fam": "luxury-spectrum-celestial",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351227396",
  "img_checked": "2026-11-22",
@@ -37,7 +49,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "recycled string",
  "name_en": "Celestial String Bikini",
  "name_es": "Bikini de Cintas Celestial",
  "needs_review": false,

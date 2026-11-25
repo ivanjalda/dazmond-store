@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/9bbb7765b702c712a57b.jpg",
+  "assets/products/shop/6d9de5b1ee21145813c1.jpg",
+  "assets/products/shop/a9365f71bed3ab1677bd.jpg",
+  "assets/products/shop/37fc1b748f15e34ab30c.jpg",
+  "assets/products/shop/fabaaf4a5049ed322e06.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "luxury-golden-zebra",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351227753",
  "img_checked": "2026-11-22",

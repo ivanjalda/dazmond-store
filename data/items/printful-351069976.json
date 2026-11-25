@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/f25ba64621287b4a1ad9.jpg",
+  "assets/products/shop/ccd5a50d6150f06ba6c5.jpg",
+  "assets/products/shop/2fde8ccf9044a082889a.jpg",
+  "assets/products/shop/7b92fbb5cdf35e35f718.jpg",
+  "assets/products/shop/fe64889e954442c781f8.jpg",
+  "assets/products/shop/2ae74df1904387cc22f6.jpg",
+  "assets/products/shop/f441aeb5078b945c3a02.jpg",
+  "assets/products/shop/0a10519a172f3908690d.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +38,7 @@
  ],
  "draft": false,
  "fam": "zen-lines-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351069976",
  "img_checked": "2026-11-22",
@@ -37,7 +48,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "recycled material",
  "name_en": "Zen Lines High-Waisted Bikini",
  "name_es": "Bikini de Tiro Alto Zen Lines",
  "needs_review": false,

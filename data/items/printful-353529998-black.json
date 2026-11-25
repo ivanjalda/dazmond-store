@@ -1,4 +1,16 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/a757c10b4b57cfd792d3.jpg",
+  "assets/products/shop/a757c10b4b57cfd792d3.jpg",
+  "assets/products/shop/a757c10b4b57cfd792d3.jpg",
+  "assets/products/shop/a757c10b4b57cfd792d3.jpg",
+  "assets/products/shop/a757c10b4b57cfd792d3.jpg",
+  "assets/products/shop/a2694bde4bc90fac31dd.jpg",
+  "assets/products/shop/7b0538ede83200acc6d0.jpg",
+  "assets/products/shop/78ee328ee53393c869a6.jpg",
+  "assets/products/shop/13f31e788b071f3b0956.jpg",
+  "assets/products/shop/9ad153b03a46d1e0c434.jpg"
+ ],
  "ai_cats": [
   "hombre/pantalones-cortos"
  ],
@@ -28,6 +40,7 @@
  ],
  "draft": false,
  "fam": "shorts-blessed-hombre",
+ "gender": "men",
  "hidden": false,
  "id": "printful-353529998-black",
  "img_checked": "2026-11-22",
@@ -37,7 +50,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "Fleece",
  "name_en": "Blessed Fleece Shorts · Black",
  "name_es": "Bermudas Fleece Blessed · Negro",
  "needs_review": false,

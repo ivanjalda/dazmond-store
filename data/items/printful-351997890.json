@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/233e616cf99027bd81e5.jpg",
+  "assets/products/shop/a15fa0b220a54085dd65.jpg",
+  "assets/products/shop/bb728902840bd5f54f34.jpg",
+  "assets/products/shop/cacc646098e43b341510.jpg"
+ ],
  "ai_cats": [
   "hombre/mallas"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "terracotta-ember",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351997890",
  "img_checked": "2026-11-22",

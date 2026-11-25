@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/6896fb3e2bda793e7518.jpg",
+  "assets/products/shop/59ddc57e66f04702e714.jpg",
+  "assets/products/shop/b16ddcd0970d29ab3d9e.jpg",
+  "assets/products/shop/c95c6c06f784098a760e.jpg",
+  "assets/products/shop/bcb9e1d42d7f7e008ab1.jpg",
+  "assets/products/shop/51e15e5bf641d6237e7e.jpg",
+  "assets/products/shop/d274d59c70a71206562e.jpg",
+  "assets/products/shop/1257c0bf80e431101bd7.jpg",
+  "assets/products/shop/cf5eeea447d386dce7db.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -27,6 +38,7 @@
  ],
  "draft": false,
  "fam": "unity-diversity-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351068704",
  "img_checked": "2026-11-22",

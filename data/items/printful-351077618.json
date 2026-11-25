@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/8b06e4cbdc391e40d795.jpg",
+  "assets/products/shop/c22f447443b1fad527ac.jpg",
+  "assets/products/shop/d4ec94ad4d3c507b8671.jpg",
+  "assets/products/shop/823526a1b38bc95d73b7.jpg",
+  "assets/products/shop/8da4730010d0a7eafb71.jpg",
+  "assets/products/shop/5ff1dc15624cb2e03796.jpg",
+  "assets/products/shop/2755509e79b129814b5a.jpg",
+  "assets/products/shop/32e7b32927674f3bbe85.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -27,6 +37,7 @@
  ],
  "draft": false,
  "fam": "luxury-imperial-dragon",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351077618",
  "img_checked": "2026-11-22",

@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/83b981201b467b0e7654.jpg",
+  "assets/products/shop/b430ed23364eb153c73e.jpg",
+  "assets/products/shop/42de076a5cbc8d567ce0.jpg",
+  "assets/products/shop/049b3ea6740ddd0ec86f.jpg",
+  "assets/products/shop/7a461260f816c15588b8.jpg",
+  "assets/products/shop/61ed8f0f3db12fa44913.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -27,6 +35,7 @@
  ],
  "draft": false,
  "fam": "bikini-triangulo-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-388766136",
  "img_checked": "2026-11-22",

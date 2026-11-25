@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/fbd1a7a97ce5495401c0.jpg",
+  "assets/products/shop/d8332bc3553d00dee5da.jpg",
+  "assets/products/shop/c9992236fea8a85f9a02.jpg",
+  "assets/products/shop/92a27a4df37716567227.jpg"
+ ],
  "ai_cats": [
   "decor"
  ],
@@ -28,13 +34,14 @@
  ],
  "draft": false,
  "fam": "swift-glide-slip",
+ "gender": "men",
  "hidden": false,
  "id": "printful-350206066",
  "img_checked": "2026-11-22",
  "look": [
   "printful-382149130"
  ],
- "material": "",
+ "material": "Canvas",
  "name_en": "Swift Glide Canvas Slip-On",
  "name_es": "Mocasín Swift Glide de Lona",
  "needs_review": false,

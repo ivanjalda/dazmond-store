@@ -1,4 +1,16 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/0fd94757909bb63f2f8e.jpg",
+  "assets/products/shop/3acca1f1001238bb0773.jpg",
+  "assets/products/shop/925ef1742a6f92569bac.jpg",
+  "assets/products/shop/50e27f989435a8c64e7c.jpg",
+  "assets/products/shop/bb6e3f524e129a9258ee.jpg",
+  "assets/products/shop/3d152fe9d71bf7128333.jpg",
+  "assets/products/shop/75ad27733d433fe103c4.jpg",
+  "assets/products/shop/9b966bb3e8eeb5825060.jpg",
+  "assets/products/shop/5b7ed1785d4d39d91558.jpg",
+  "assets/products/shop/3e6b4358de22b7854770.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -27,6 +39,7 @@
  ],
  "draft": false,
  "fam": "luxury-solar-amber",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351227475",
  "img_checked": "2026-11-22",

@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/500f9722d2cee3c70b3d.jpg",
+  "assets/products/shop/ae738edd592de0a6e60b.jpg",
+  "assets/products/shop/857b028c917b4cbc7798.jpg",
+  "assets/products/shop/57067affad0e16a1bca5.jpg",
+  "assets/products/shop/1671bd9449b469409436.jpg",
+  "assets/products/shop/62871d981572d5d55085.jpg",
+  "assets/products/shop/efe513adf28a5642c3c9.jpg",
+  "assets/products/shop/96a841c23a6640bc4683.jpg",
+  "assets/products/shop/bf2c492b477e1451189c.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -27,6 +38,7 @@
  ],
  "draft": false,
  "fam": "dead-inside-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351073439",
  "img_checked": "2026-11-22",

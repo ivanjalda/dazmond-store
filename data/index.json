@@ -1275,6 +1275,7 @@
       "supplier_id": "6b066a4aeca3203e09099330",
       "fam": "baroque-mirror-cushion",
       "cg": "printify-6b066a4aeca3203e09099330",
+      "color": "White and Gold",
       "art_score": 7,
       "img": "https://images-api.printify.com/mockup/6b066a4aeca3203e09099330/41521/47613/baroque-mirror-cushion.jpg?camera_label=front"
     },
@@ -1416,6 +1417,7 @@
       "supplier_id": "350465229",
       "fam": "artful-comfort-premium",
       "cg": "printful-350465229",
+      "color": "black",
       "art_score": 6,
       "img": "https://files.cdn.printful.com/files/47e/47e39ef4f37b25a1952333dfd4455abd_preview.png"
     },
@@ -1635,6 +1637,7 @@
       "supplier_id": "357199592",
       "fam": "funda-pure-reflection",
       "cg": "printful-357199592",
+      "color": "Transparent",
       "art_score": 6,
       "img": "https://files.cdn.printful.com/files/6a7/6a77fbaf89e6ce1cf0a854234e0df7cb_preview.png"
     },
@@ -4201,8 +4204,8 @@
     },
     {
       "id": "printful-351226999",
-      "name_es": "Bañador Monochrome Avant Garde · Blanco",
-      "name_en": "Monochrome Avant Garde Swimwear · White",
+      "name_es": "Bikini Triángulo Monochrome Avant-Garde",
+      "name_en": "Monochrome Avant-Garde Triangle Bikini",
       "price_usd": 60.99,
       "badge": "new",
       "categories": [
@@ -4216,6 +4219,7 @@
       "fam": "luxury-monochrome-avant",
       "cg": "printful-351226999",
       "color": "White",
+      "art_score": 2,
       "img": "https://files.cdn.printful.com/files/093/09335d2d5f6d207172bea0711c81610d_preview.png"
     },
     {
@@ -4340,8 +4344,8 @@
     },
     {
       "id": "printful-351227846",
-      "name_es": "Bañador Crimson Orchid Midnight · Blanco",
-      "name_en": "Crimson Orchid Midnight Swimwear · White",
+      "name_es": "Bikini de Cuerdas Crimson Orchid",
+      "name_en": "Crimson Orchid String Bikini",
       "price_usd": 60.99,
       "badge": "new",
       "categories": [
@@ -4355,6 +4359,7 @@
       "fam": "luxury-crimson-orchid",
       "cg": "printful-351227846",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/560/560066547e451bbec87a784a8350c94d_preview.png"
     },
     {
@@ -4379,8 +4384,8 @@
     },
     {
       "id": "printful-351228269",
-      "name_es": "Bañador Cyber Matrix Deep · Blanco",
-      "name_en": "Cyber Matrix Deep Swimwear · White",
+      "name_es": "Bikini de Cintas Cyber Matrix",
+      "name_en": "Cyber Matrix String Bikini",
       "price_usd": 60.99,
       "badge": "new",
       "categories": [
@@ -4394,6 +4399,7 @@
       "fam": "luxury-cyber-matrix",
       "cg": "printful-351228269",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/84e/84e604b668b90abf96da83271eaaa205_preview.png"
     },
     {

@@ -1,4 +1,16 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/b774eda29091f675a662.jpg",
+  "assets/products/shop/6632dbbd62d2ecc5adbe.jpg",
+  "assets/products/shop/8c9ff4e243e37056650c.jpg",
+  "assets/products/shop/6b036da36821dd77e62b.jpg",
+  "assets/products/shop/16e44299c1169ab054ff.jpg",
+  "assets/products/shop/62b8308eada11f0d6218.jpg",
+  "assets/products/shop/dd631a2537fc7810e128.jpg",
+  "assets/products/shop/696fdca924f0a1765145.jpg",
+  "assets/products/shop/391afbdaaaafceb83796.jpg",
+  "assets/products/shop/784f9e2de79d98206115.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +40,7 @@
  ],
  "draft": false,
  "fam": "luxury-wild-leopard",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351227996",
  "img_checked": "2026-11-22",
@@ -37,7 +50,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Printed Triangle Bikini",
  "name_es": "Bikini de Triángulo Estampado",
  "needs_review": false,

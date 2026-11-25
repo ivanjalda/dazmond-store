@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/bc526e6f245ffbaed371.jpg",
+  "assets/products/shop/90b1277f3dc0e647abbe.jpg",
+  "assets/products/shop/72c708ecc1c0e828398a.jpg",
+  "assets/products/shop/91c229429f69c2258f40.jpg",
+  "assets/products/shop/b116a4316c4e33eca51b.jpg",
+  "assets/products/shop/5cd951cc22007f4318df.jpg",
+  "assets/products/shop/7dd5d72f7edf3adddef2.jpg",
+  "assets/products/shop/5aab2c4f9383f9aaccd6.jpg",
+  "assets/products/shop/daf21e2bf67597b5c9ae.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +39,7 @@
  ],
  "draft": false,
  "fam": "bikini-triangulo-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-388853545",
  "img_checked": "2026-11-22",
@@ -37,7 +49,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "All-Over Recycled String Bikini",
  "name_es": "Bikini de Cuerdas Reciclado All-Over",
  "needs_review": false,

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/05d609814684ebcdf233.jpg",
+  "assets/products/shop/9a752627a82e6faf3a4a.jpg",
+  "assets/products/shop/1c88d92f04af19ccf3f7.jpg",
+  "assets/products/shop/751ad77dfb60ba794177.jpg"
+ ],
  "ai_cats": [
   "calzado-mujer/zapatillas"
  ],
@@ -28,6 +34,7 @@
  ],
  "draft": false,
  "fam": "grace-glide-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350217428",
  "img_checked": "2026-11-22",
@@ -37,7 +44,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "canvas",
  "name_en": "Grace Glide Slip-On Shoes",
  "name_es": "Zapatillas Slip-On Grace Glide",
  "needs_review": false,

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/78701fa41db37b0afc06.jpg",
+  "assets/products/shop/71061b0343cf3fd05c73.jpg",
+  "assets/products/shop/1dd30eef355d3b3d3f5d.jpg",
+  "assets/products/shop/ac6a98a4cc311634ab30.jpg"
+ ],
  "ai_cats": [
   "mujer/falda"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "midnight-dalmatian-skater",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350912308",
  "img_checked": "2026-11-22",

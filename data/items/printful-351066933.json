@@ -1,4 +1,16 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/700d5b6db53170581815.jpg",
+  "assets/products/shop/2c98886a15677d6564b5.jpg",
+  "assets/products/shop/f6b0bd19d3e0061167da.jpg",
+  "assets/products/shop/50981308d1ad4b2038a5.jpg",
+  "assets/products/shop/ef23543b2a509a3a8cf3.jpg",
+  "assets/products/shop/46559c0f81e0fad603ec.jpg",
+  "assets/products/shop/dd704a6a9782cd006ded.jpg",
+  "assets/products/shop/5ec685c79f4b496d4b4e.jpg",
+  "assets/products/shop/6ecdc9d380485fe78d9d.jpg",
+  "assets/products/shop/c8a73b91ff426deea443.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +40,7 @@
  ],
  "draft": false,
  "fam": "fluid-current-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351066933",
  "img_checked": "2026-11-22",
@@ -37,7 +50,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled material",
  "name_en": "Fluid Current High-Waisted Bikini",
  "name_es": "Bikini de Talle Alto Fluid Current",
  "needs_review": false,

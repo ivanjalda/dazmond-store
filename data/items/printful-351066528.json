@@ -1,4 +1,16 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/84fc22f281b357461a66.jpg",
+  "assets/products/shop/a183bfac3034e51f6836.jpg",
+  "assets/products/shop/437aea8bb5e4c55b8027.jpg",
+  "assets/products/shop/4ef4a6aca10f9a2bf826.jpg",
+  "assets/products/shop/0ccf2e1b5c947486fab7.jpg",
+  "assets/products/shop/b200cb4490aed7489192.jpg",
+  "assets/products/shop/8ed9ab59c580343a80ce.jpg",
+  "assets/products/shop/fa317f57612f9528a8bd.jpg",
+  "assets/products/shop/4186d8284a789ae68208.jpg",
+  "assets/products/shop/b15ea8809db971019f1f.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +40,7 @@
  ],
  "draft": false,
  "fam": "golden-geometry-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351066528",
  "img_checked": "2026-11-22",
@@ -37,7 +50,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled fabric",
  "name_en": "Golden Geometry High-Waisted Bikini",
  "name_es": "Bikini de talle alto Golden Geometry",
  "needs_review": false,

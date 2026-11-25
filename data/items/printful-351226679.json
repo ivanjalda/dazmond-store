@@ -1,4 +1,17 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/771230cfe4cc51ef7414.jpg",
+  "assets/products/shop/04a9db87a4f19f9128c6.jpg",
+  "assets/products/shop/3a3b50bbae72f5e488a6.jpg",
+  "assets/products/shop/9e697330492865f9ec08.jpg",
+  "assets/products/shop/f7efdcb24ae668bd1381.jpg",
+  "assets/products/shop/40c3e2bf56101fbf3079.jpg",
+  "assets/products/shop/5d041033a20fae67eb2b.jpg",
+  "assets/products/shop/52e4096dc1208817059f.jpg",
+  "assets/products/shop/acf817d7c29129c3fb53.jpg",
+  "assets/products/shop/d7f1e84c35a2ac508858.jpg",
+  "assets/products/shop/e35836bf31b59b70dd3a.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +41,7 @@
  ],
  "draft": false,
  "fam": "luxury-gothic-rose",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351226679",
  "img_checked": "2026-11-22",
@@ -37,7 +51,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Gothic Rose Triangle Bikini",
  "name_es": "Bikini Triángulo Gothic Rose",
  "needs_review": false,

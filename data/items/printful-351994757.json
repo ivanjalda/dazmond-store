@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/eb8f5e546a937ce55d53.jpg",
+  "assets/products/shop/ca14c396f97c7bd8970a.jpg",
+  "assets/products/shop/f8810c9c338cbb488611.jpg"
+ ],
  "ai_cats": [
   "hombre/mallas"
  ],
@@ -27,6 +32,7 @@
  ],
  "draft": false,
  "fam": "cobalt-pulse-men",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351994757",
  "img_checked": "2026-11-22",

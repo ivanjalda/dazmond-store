@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/8d0f19b7f26a712449e2.jpg",
+  "assets/products/shop/68351d1e9c632bc2ecc4.jpg",
+  "assets/products/shop/b53f107e31317067fa92.jpg"
+ ],
  "ai_cats": [
   "hombre/mallas"
  ],
@@ -27,6 +32,7 @@
  ],
  "draft": false,
  "fam": "vanguard-men-s",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351994215",
  "img_checked": "2026-11-22",

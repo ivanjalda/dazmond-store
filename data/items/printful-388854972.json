@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/ccd188a4cc86ba117559.jpg",
+  "assets/products/shop/203bf7adbacc3034f505.jpg",
+  "assets/products/shop/b8adc30a07215b4b6798.jpg",
+  "assets/products/shop/aff7fa80909cf4f2dcd7.jpg",
+  "assets/products/shop/8080ffcc8e4714474377.jpg",
+  "assets/products/shop/53ab2dc399c92a7a8e94.jpg",
+  "assets/products/shop/ef472d26f6cbee4173bf.jpg",
+  "assets/products/shop/64b5db01fbfbafd51e4e.jpg",
+  "assets/products/shop/dd86debbb56e0247c0d0.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +39,7 @@
  ],
  "draft": false,
  "fam": "bikini-triangulo-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-388854972",
  "img_checked": "2026-11-22",
@@ -37,7 +49,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "All-over print triangle bikini",
  "name_es": "Bikini de triángulo all-over print",
  "needs_review": false,

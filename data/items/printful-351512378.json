@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/cd5a09cf9381150c5d49.jpg",
+  "assets/products/shop/ae51e226ad9bf360391c.jpg",
+  "assets/products/shop/bbb3652484ed7cf3f377.jpg",
+  "assets/products/shop/88e15eb2573df91be3e4.jpg",
+  "assets/products/shop/b6dd6af1ed131504f0db.jpg",
+  "assets/products/shop/96deb254b934932e6642.jpg",
+  "assets/products/shop/4fa460f8f5c1c8a793e1.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +36,7 @@
  ],
  "draft": false,
  "fam": "crimson-tartan-silhouette",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351512378",
  "img_checked": "2026-11-22",

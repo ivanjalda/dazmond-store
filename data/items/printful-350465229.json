@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/ffcb38540d8ff205fffe.jpg",
+  "assets/products/shop/c7d435de5f54dd70a461.jpg",
+  "assets/products/shop/1340e1b7225dc150b8c4.jpg",
+  "assets/products/shop/3c99ae75723f7fce8113.jpg",
+  "assets/products/shop/2f41745266b07d3fdb91.jpg",
+  "assets/products/shop/c2bbf5a39f9e2a319c7c.jpg",
+  "assets/products/shop/b406caad39a582c4b255.jpg"
+ ],
  "ai_cats": [
   "decor"
  ],
@@ -16,7 +25,7 @@
   "decor"
  ],
  "cg": "printful-350465229",
- "color": "",
+ "color": "black",
  "created": "2026-11-22",
  "desc_en": "Elevate everyday spaces with a refined presence. This pillow merges clean aesthetics with the house insignia. A design conceived to integrate into discerning interiors. Each piece is crafted upon order in the house ateliers. Available with worldwide shipping.",
  "desc_es": "Eleve los espacios cotidianos con una presencia refinada. Este cojín combina una estética depurada con el distintivo de la casa. Un diseño concebido para integrarse en interiores exigentes. Cada pieza se confecciona bajo pedido en los talleres de la marca. Disponible con envío a todo el mundo.",
@@ -29,6 +38,7 @@
  ],
  "draft": false,
  "fam": "artful-comfort-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350465229",
  "img_checked": "2026-11-22",

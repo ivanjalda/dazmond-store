@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/b4efec0c415434683318.jpg",
+  "assets/products/shop/af0e4262bc86d2488f10.jpg",
+  "assets/products/shop/5c810d214e22591e932e.jpg"
+ ],
  "ai_cats": [
   "hombre/mallas"
  ],
@@ -27,6 +32,7 @@
  ],
  "draft": false,
  "fam": "emerald-tartan-men",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351995957",
  "img_checked": "2026-11-22",

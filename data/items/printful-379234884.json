@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/1c593737e33a96edd211.jpg",
+  "assets/products/shop/5781a1628256c0fc65b8.jpg",
+  "assets/products/shop/d42ce98c8040faa16809.jpg",
+  "assets/products/shop/862ac82febd9eae72ea9.jpg",
+  "assets/products/shop/635121abdf48e4e5c996.jpg",
+  "assets/products/shop/c990a378db9e9a5a6e12.jpg"
+ ],
  "ai_cats": [
   "mujer/leggings"
  ],
@@ -27,6 +35,7 @@
  ],
  "draft": false,
  "fam": "leggings-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-379234884",
  "img_checked": "2026-11-22",

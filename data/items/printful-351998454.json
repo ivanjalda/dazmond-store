@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/5db761151e23d41065de.jpg",
+  "assets/products/shop/740e55aa847f7de209e1.jpg",
+  "assets/products/shop/8eb4332843d3720568b1.jpg",
+  "assets/products/shop/136c0be09c666e947f50.jpg",
+  "assets/products/shop/930581262dd78c686a22.jpg"
+ ],
  "ai_cats": [
   "hombre/mallas"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "jungle-camo",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351998454",
  "img_checked": "2026-11-22",

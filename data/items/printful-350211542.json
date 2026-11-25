@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/673d8ecd7375502d8af4.jpg",
+  "assets/products/shop/5804a2e75cf367103bd9.jpg",
+  "assets/products/shop/37ff7b0332779f288dd2.jpg",
+  "assets/products/shop/b1bc77c951d234decee2.jpg"
+ ],
  "ai_cats": [
   "calzado-hombre/zapatillas-hombre"
  ],
@@ -28,6 +34,7 @@
  ],
  "draft": false,
  "fam": "swift-glide-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-350211542",
  "img_checked": "2026-11-22",
@@ -37,7 +44,7 @@
   "printful-361906822",
   "printify-6b0667526db425f6b50b967a-black"
  ],
- "material": "",
+ "material": "Canvas",
  "name_en": "Swift Glide Slip-On Sneakers",
  "name_es": "Zapatillas Slip-On Swift Glide",
  "needs_review": false,

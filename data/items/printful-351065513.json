@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/6f683a24245472725937.jpg",
+  "assets/products/shop/08912399f943c41c495a.jpg",
+  "assets/products/shop/eee01687b57ee05e8a0a.jpg",
+  "assets/products/shop/6d74a57a8d4b86eab683.jpg",
+  "assets/products/shop/823af61828bbd81e1cc6.jpg",
+  "assets/products/shop/147e806ec3d897c4631c.jpg",
+  "assets/products/shop/5dce33cf17393ca2e375.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +37,7 @@
  ],
  "draft": false,
  "fam": "organic-shapes-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351065513",
  "img_checked": "2026-11-22",
@@ -37,7 +47,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Organic Shapes High-Waisted Bikini",
  "name_es": "Bikini Tiro Alto Organic Shapes",
  "needs_review": false,

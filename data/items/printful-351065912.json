@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/5b27cb17e21f82a3c3e6.jpg",
+  "assets/products/shop/38459b2f8c21593f32c6.jpg",
+  "assets/products/shop/e79be4d0aaa599f3b983.jpg",
+  "assets/products/shop/a876e301ada3f6b7bde1.jpg",
+  "assets/products/shop/6daf72ff331d3373b74b.jpg",
+  "assets/products/shop/6d61b144e70c44bf2ac0.jpg",
+  "assets/products/shop/eec940fd04f70f8682b3.jpg",
+  "assets/products/shop/0768684244527d75d7ec.jpg",
+  "assets/products/shop/ba6f7e089e71ef35a686.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +39,7 @@
  ],
  "draft": false,
  "fam": "expressionist-fire-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351065912",
  "img_checked": "2026-11-22",
@@ -37,7 +49,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Expressionist Fire High-Waisted Bikini",
  "name_es": "Bikini de talle alto Expressionist Fire",
  "needs_review": false,

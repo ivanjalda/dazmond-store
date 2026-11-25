@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/003e4b4f5ab22c834519.jpg",
+  "assets/products/shop/568d4ac393687d8f6581.jpg",
+  "assets/products/shop/77a6ff9981c5d512d3e6.jpg",
+  "assets/products/shop/aaa105e3eee9062168a3.jpg",
+  "assets/products/shop/2cfc6f26b78c7f8df5fe.jpg",
+  "assets/products/shop/bc306c0b3ec4c0de0d97.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +36,7 @@
  ],
  "draft": false,
  "fam": "luxury-cyan-radiance",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351227569",
  "img_checked": "2026-11-22",
@@ -37,7 +46,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Cyan Radiance Triangle Bikini",
  "name_es": "Bikini de Triángulo Cyan Radiance",
  "needs_review": false,

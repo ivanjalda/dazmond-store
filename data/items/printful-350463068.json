@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/c72083622def4f84c1db.jpg",
+  "assets/products/shop/a5e8490c5208c29e8c8e.jpg",
+  "assets/products/shop/b1f4d414cb1f5c77baab.jpg",
+  "assets/products/shop/9a5ab398d4738ce661b1.jpg"
+ ],
  "ai_cats": [
   "decor"
  ],
@@ -28,13 +34,14 @@
  ],
  "draft": false,
  "fam": "art-soul-s",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-350463068",
  "img_checked": "2026-11-22",
  "look": [
   "printful-382149130"
  ],
- "material": "",
+ "material": "Enhanced Matte Paper",
  "name_en": "The Soul’s Awakening Framed Poster",
  "name_es": "The Soul’s Awakening Póster Enmarcado",
  "needs_review": false,

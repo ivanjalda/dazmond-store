@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/f87f36b1be3de66796a7.jpg",
+  "assets/products/shop/ca510914d9eda61c2e93.jpg",
+  "assets/products/shop/6281dcde7e2cc9f1e8bf.jpg",
+  "assets/products/shop/59562b335f3ca14b6938.jpg",
+  "assets/products/shop/cc5e69527aafacc6a6fc.jpg"
+ ],
  "ai_cats": [
   "mujer/leggings"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "geometric-sunrise-yoga",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350922835",
  "img_checked": "2026-11-22",

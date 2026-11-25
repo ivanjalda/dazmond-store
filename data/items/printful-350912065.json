@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/08db42e3e735cf42c134.jpg",
+  "assets/products/shop/0eb707f64121e6b87fa8.jpg",
+  "assets/products/shop/5ba5b8cee76a1a9553fa.jpg",
+  "assets/products/shop/626b3bcc78ee375c600c.jpg"
+ ],
  "ai_cats": [
   "mujer/falda"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "sapphire-blossom-skater",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350912065",
  "img_checked": "2026-11-22",

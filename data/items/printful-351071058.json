@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/c77ec10b9695eb0da0af.jpg",
+  "assets/products/shop/d06bdd1a7b75deba4180.jpg",
+  "assets/products/shop/09776a0e77fae86914e0.jpg",
+  "assets/products/shop/d90eb6a975185a4546fe.jpg",
+  "assets/products/shop/6a7975c022f6c03ede52.jpg",
+  "assets/products/shop/3e066a0f7e595e8ff32d.jpg",
+  "assets/products/shop/e66960f4c32e792bbb72.jpg",
+  "assets/products/shop/e28743c734e8c720ac58.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -27,6 +37,7 @@
  ],
  "draft": false,
  "fam": "ocean-whisper-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351071058",
  "img_checked": "2026-11-22",

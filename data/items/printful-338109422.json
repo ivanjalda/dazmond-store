@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/2c0bfda496b70cd76f80.jpg",
+  "assets/products/shop/144c865a8f8fafdee995.jpg",
+  "assets/products/shop/ca385daf411fbd5ab36e.jpg",
+  "assets/products/shop/ec10f29f38b2ad044c17.jpg",
+  "assets/products/shop/61db68afe0a6a99b6cb3.jpg",
+  "assets/products/shop/23bf59af722d7dfa4bd1.jpg",
+  "assets/products/shop/fdb81329615b01bcec9d.jpg",
+  "assets/products/shop/23b1fbc020c0b50d0966.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +38,7 @@
  ],
  "draft": false,
  "fam": "oceanic-flora-high",
+ "gender": "women",
  "hidden": false,
  "id": "printful-338109422",
  "img_checked": "2026-11-22",
@@ -37,7 +48,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Oceanic Flora High-Waisted Bikini",
  "name_es": "Bikini de talle alto Oceanic Flora",
  "needs_review": false,

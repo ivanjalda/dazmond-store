@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/d0fe342f47b3985051c1.jpg",
+  "assets/products/shop/f1568a3bf4d5bca263c1.jpg",
+  "assets/products/shop/c671a9dd5f5ee2818e25.jpg",
+  "assets/products/shop/d89f90f4c48628334773.jpg",
+  "assets/products/shop/437e4f7dd4c6188ee8fa.jpg",
+  "assets/products/shop/0c67ba7a8dc58040e0e8.jpg",
+  "assets/products/shop/447eff0113c4fec8359f.jpg",
+  "assets/products/shop/2165a2b8d3fbefadb0de.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -27,6 +37,7 @@
  ],
  "draft": false,
  "fam": "luxury-crimson-orchid",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351227258",
  "img_checked": "2026-11-22",

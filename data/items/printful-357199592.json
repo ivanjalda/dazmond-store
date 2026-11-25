@@ -1,4 +1,18 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/aba81e63d1fb6fe697ba.jpg",
+  "assets/products/shop/b1e480097f744730a65b.jpg",
+  "assets/products/shop/b51b37304af95f62baff.jpg",
+  "assets/products/shop/f27aa2159ec0f22d79c0.jpg",
+  "assets/products/shop/8185b32a777856015fbd.jpg",
+  "assets/products/shop/07b24ac7970894b0a6d9.jpg",
+  "assets/products/shop/d25468cc13d71aa34052.jpg",
+  "assets/products/shop/2d5b35edeb11e6d8d24a.jpg",
+  "assets/products/shop/c8703ceb00294c5f1082.jpg",
+  "assets/products/shop/469b9056add7de89a1a7.jpg",
+  "assets/products/shop/0e367e04ab1f825a1c89.jpg",
+  "assets/products/shop/64f9bbd6ac5766f99d90.jpg"
+ ],
  "ai_cats": [
   "decor"
  ],
@@ -17,7 +31,7 @@
   "decor"
  ],
  "cg": "printful-357199592",
- "color": "",
+ "color": "Transparent",
  "created": "2026-11-22",
  "desc_en": "The Pure Reflection case merges absolute clarity with a distinctive graphic design. This essential piece protects your device with millimeter precision while exhibiting a refined profile. Conceived for daily wear, it maintains intact elegance and reflects a modern aesthetic. Available made to order with worldwide shipping.",
  "desc_es": "La funda Pure Reflection combina una claridad absoluta con un diseño gráfico distintivo. Esta pieza esencial protege su dispositivo con precisión milimétrica mientras exhibe un perfil refinado. Concebida para el uso diario, mantiene la elegancia intacta y refleja una estética moderna. Disponible bajo demanda con envío internacional.",
@@ -31,13 +45,14 @@
  ],
  "draft": false,
  "fam": "funda-pure-reflection",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-357199592",
  "img_checked": "2026-11-22",
  "look": [
   "printful-382149130"
  ],
- "material": "",
+ "material": "Clear Case",
  "name_en": "Pure Reflection Case",
  "name_es": "Funda Pure Reflection",
  "needs_review": false,

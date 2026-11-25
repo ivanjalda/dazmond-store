@@ -1,4 +1,16 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/5ab606512a6c0ef15bd5.jpg",
+  "assets/products/shop/f33506ea8524286221db.jpg",
+  "assets/products/shop/5c2e24cec3e8246b5a1c.jpg",
+  "assets/products/shop/c0a033c1be87aa42b97b.jpg",
+  "assets/products/shop/7aef08136ee33847ab14.jpg",
+  "assets/products/shop/a1c809c5091a67b11e2e.jpg",
+  "assets/products/shop/28111f945004643664a0.jpg",
+  "assets/products/shop/d6b5aa5bf0af941c68d4.jpg",
+  "assets/products/shop/1bfb7c0fc8b9e99f9a7b.jpg",
+  "assets/products/shop/5fccf4c0970053f96c5e.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +40,7 @@
  ],
  "draft": false,
  "fam": "luxury-eclipse-dots",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351226806",
  "img_checked": "2026-11-22",
@@ -37,7 +50,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Eclipse Dots String Bikini",
  "name_es": "Bikini de Cuerdas Eclipse Dots",
  "needs_review": false,
