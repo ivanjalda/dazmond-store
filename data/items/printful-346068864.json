@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/a937e06dfdce511d9391.jpg",
+  "assets/products/shop/a1a221f7f0c6879226d8.jpg",
+  "assets/products/shop/177237765547a40547b7.jpg",
+  "assets/products/shop/40c24071858ca409f863.jpg",
+  "assets/products/shop/d1fc0849f24e9cf396d7.jpg",
+  "assets/products/shop/8be0d4abd2d1816859b8.jpg",
+  "assets/products/shop/17e42921748c880bb7ae.jpg",
+  "assets/products/shop/fcd8d1c311b7851772ab.jpg",
+  "assets/products/shop/b0d182cc7eb82db59c65.jpg"
+ ],
  "ai_cats": [
   "hombre/ropa-interior"
  ],
@@ -27,6 +38,7 @@
  ],
  "draft": false,
  "fam": "abstract-vision-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-346068864",
  "img_checked": "2026-11-22",

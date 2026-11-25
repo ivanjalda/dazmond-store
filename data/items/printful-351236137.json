@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/2df14a21b549711ff1e1.jpg",
+  "assets/products/shop/c8b284df0ae91bec626e.jpg",
+  "assets/products/shop/2f2533a7b8e13f06e5d9.jpg",
+  "assets/products/shop/395d184a78621b49995a.jpg",
+  "assets/products/shop/c3333d710b3d3a8040b0.jpg",
+  "assets/products/shop/9ec268adb1ce05d5ea01.jpg"
+ ],
  "ai_cats": [
   "hombre/banador"
  ],
@@ -28,6 +36,7 @@
  ],
  "draft": false,
  "fam": "luxury-royal-cobalt",
+ "gender": "men",
  "hidden": false,
  "id": "printful-351236137",
  "img_checked": "2026-11-22",
@@ -37,7 +46,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "recycled materials",
  "name_en": "Royal Cobalt Emblem Swim Trunks",
  "name_es": "Bañador Royal Cobalt Emblem",
  "needs_review": false,
