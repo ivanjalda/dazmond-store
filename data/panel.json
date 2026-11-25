@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-25 01:04 UTC",
+  "updated": "2026-11-25 01:42 UTC",
   "totals": {
     "catalogo": 2438,
-    "a_la_vista": 2075,
+    "a_la_vista": 2076,
     "disenos_a_la_vista": 845,
-    "ocultos": 363,
-    "ia_revisados": 955,
-    "ia_pendientes": 1482,
-    "con_boton_de_pago": 2075,
+    "ocultos": 362,
+    "ia_revisados": 956,
+    "ia_pendientes": 1481,
+    "con_boton_de_pago": 2076,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 11,
     "ventas_30_dias": 0,
@@ -19,7 +19,7 @@
   "reasons": {
     "Vigilante": 3,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 359
+    "Borrador": 358
   },
   "suppliers": {
     "Printful": {
@@ -35,8 +35,8 @@
       "ocultos": 13
     },
     "InterestPrint": {
-      "visibles": 107,
-      "ocultos": 350
+      "visibles": 108,
+      "ocultos": 349
     }
   },
   "guard": [
@@ -2002,15 +2002,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-3-4-sleeve-jumpsuit-9",
-      "n": "Mono Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/bed15188609f77406750.jpg",
-      "c": "hombre/conjuntos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-all-over-print-midi-skirt",
       "n": "Falda Hudson · Blanco",
       "s": "InterestPrint",
@@ -3836,16 +3827,17 @@
     "CSV leído: telegram.csv",
     "Printify: 87 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 11 s",
+    "⏱ lectura de proveedores: 10 s",
     "Productos en catálogo: 2438 · a la vista: 2078 · archivados: 1",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 1998 piezas",
-    "⏱ ventas, visitas y cupones: 3 s",
+    "⏱ ventas, visitas y cupones: 2 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1707",
-    "⏱ revisión con IA: 125 s",
+    "IA: fallo con interestprint-design-3-4-sleeve-jumpsuit-8: gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For ",
+    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-lite-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details.)",
+    "IA: 1 productos revisados (fotos, guía de tallas y textos) · quedan 1706",
+    "⏱ revisión con IA: 203 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
