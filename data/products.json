@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:41:49Z",
+  "updated": "2026-11-26T03:05:03Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -4059,7 +4059,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Essential Logo Hoodie Black DAZMOND & Co. — Essential Logo. Made to order.",
+      "source_text": "Essential Logo Hoodie hoodie Black DAZMOND & Co. — Essential Logo. Made to order.",
       "name_es": "Sudadera Essential Logo Negra",
       "name_en": "Essential Logo Black Hoodie",
       "desc_es": "Una silueta depurada que redefine el lujo cotidiano. Confeccionada con precisión bajo demanda. El negro profundo se funde con el distintivo de la casa en el pecho. Comodidad absoluta sin renunciar a la elegancia arquitectónica. Disponible exclusivamente mediante envíos a todo el mundo. Una prenda esencial para el guardarropa contemporáneo.",
@@ -4074,7 +4074,9 @@
         "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98426/essential-logo-hoodie.jpg?camera_label=back-2",
         "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98432/essential-logo-hoodie.jpg?camera_label=folded",
         "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/100685/essential-logo-hoodie.jpg?camera_label=front-collar-closeup",
-        "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/127738/essential-logo-hoodie.jpg?camera_label=front-2"
+        "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/127738/essential-logo-hoodie.jpg?camera_label=front-2",
+        "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/127688/essential-logo-hoodie.jpg?camera_label=lifestyle-2",
+        "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98427/essential-logo-hoodie.jpg?camera_label=person-1"
       ],
       "images_model": [
         "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/127688/essential-logo-hoodie.jpg?camera_label=lifestyle-2",
@@ -4176,7 +4178,8 @@
       "details_es": "· Hecho a pedido\n· Envío mundial disponible",
       "details_en": "· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b07806ad144ea48ec08051d",
