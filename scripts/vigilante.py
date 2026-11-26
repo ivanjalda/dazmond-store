@@ -123,8 +123,17 @@ def main():
                 fixes.append(f"foto rota sustituida en «{p.get('name_es') or p['id']}»")
             else:
                 hide(p, "todas las fotos rotas")
+    for p in products:
+        if p.get("hidden"):
+            p["available"] = False
     data["products"] = products
     save_json("products.json", data)
+    # Lo que se oculta tiene que desaparecer YA de la web: se rehace la lista que lee la tienda
+    try:
+        from autonomous_store_engine import write_web_files
+        write_web_files(products)
+    except Exception as e:
+        log(f"no pude rehacer la lista de la web: {str(e)[:80]}")
 
     # 3) Avisos (no se tocan)
     alerts = []
