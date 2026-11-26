@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "Generic supplier mockups with flat lighting and unnatural placement diminish the luxury feel.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,17 @@
  "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Relaxed silhouette designed for fluid daily movement. Crafted from soft polyester. Features a round neckline adorned with delicate front buttons. The pleated hem adds subtle volume and effortless elegance. Made-to-order pieces with worldwide shipping.",
+ "desc_es": "Silueta holgada diseñada para la fluidez y el movimiento diario. Confeccionada en suave poliéster. Cuenta con un escote redondo adornado con delicados botones frontales. El dobladillo plisado añade un sutil volumen y elegancia informal. Confección bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Composition: polyester\n· Relaxed fit\n· Front button closure\n· Machine wash with cold water and neutral detergent\n· Made-to-order",
+ "details_es": "· Composición: poliéster\n· Corte holgado\n· Cierre con botones frontales\n· Lavado a máquina con agua fría y detergente neutro\n· Confección bajo pedido",
  "display_images": [
   "assets/products/shop/86b43325fab6d9d33c52.jpg",
   "assets/products/shop/4ae8707576211b95f6a2.jpg",
   "assets/products/shop/b327409d064b9af69f27.jpg",
   "assets/products/shop/47b0e4bd203c62b16f5d.jpg",
-  "assets/products/shop/d0e6241f83a3327bb1c5.jpg",
   "assets/products/shop/4793f28c36f493ed9219.jpg",
-  "assets/products/shop/19fb5aaa5ec6bb14212e.jpg",
-  "assets/products/shop/00ea45ac91e51b34df34.jpg"
+  "assets/products/shop/19fb5aaa5ec6bb14212e.jpg"
  ],
  "draft": false,
  "fam": "blusa-suelta-premium",
@@ -34,6 +46,7 @@
  "name_en": "Blusa Suelta Daz Blouse",
  "name_es": "Blusa Blusa Suelta Daz",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1083,
@@ -41,8 +54,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Waist",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Cintura",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "95cm (37.4\")",
+    "85cm (33.5\")",
+    "72cm (28.4\")"
+   ],
+   [
+    "M",
+    "100cm (39.4\")",
+    "90cm (35.4\")",
+    "74m (29.2\")"
+   ],
+   [
+    "L",
+    "105cm (41.4\")",
+    "95cm (37.4\")",
+    "76cm (30\")"
+   ],
+   [
+    "XL",
+    "113cm (44.4\")",
+    "103cm (40.4\")",
+    "79cm (31.1\")"
+   ],
+   [
+    "2XL",
+    "123cm (48.4\")",
+    "113cm (44.4\")",
+    "82cm (32.3\")"
+   ],
+   [
+    "3XL",
+    "133cm (52.4\")",
+    "123cm (48.4\")",
+    "85cm (33.5\")"
+   ],
+   [
+    "4XL",
+    "143cm (56.4\")",
+    "133cm (52.4\")",
+    "88cm (34.7\")"
+   ],
+   [
+    "5XL",
+    "153cm (60.2\")",
+    "143cm (56.3\")",
+    "91cm (35.8\")"
+   ],
+   [
+    "6XL",
+    "163cm (64.2\")",
+    "153cm (60.2\")",
+    "94cm (37\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/00ea45ac91e51b34df34.jpg"
+ ],
  "sizes": [
   "S",
   "M",
