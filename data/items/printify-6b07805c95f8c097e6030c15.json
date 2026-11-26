@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/polos",
+  "mujer/polo"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Polo Shirt",
+ "ai_ver": 2,
+ "art_note": "Flat vector-like technical illustrations instead of high-end luxury photography.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printify-6b07805c95f8c097e6030c15",
  "color": "Black",
  "created": "2026-11-26",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Contemporary elegance defines this clean-lined polo shirt. Crafted for those who appreciate sophisticated discretion, it features the subtle logo seamlessly integrated into the design. A versatile piece that transcends seasonal trends. Tailored with an impeccable silhouette that brings instant distinction to any refined wardrobe. Made to order and available with worldwide shipping to ensure exclusivity and precision in every single detail.",
+ "desc_es": "La elegancia contemporánea define este polo de líneas depuradas. Confeccionado para quienes aprecian la discreción sofisticada, presenta el logotipo sutilmente integrado en el diseño. Una pieza versátil que trasciende las tendencias estacionales. Diseñado con una silueta impecable que aporta distinción instantánea a cualquier guardarropa refinado. Fabricado bajo demanda y disponible con envío a todo el mundo para garantizar exclusividad y precisión en cada detalle.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b07805c95f8c097e6030c15/403971/147924/essential-logo-polo.jpg?camera_label=left-chest",
   "https://images-api.printify.com/mockup/6b07805c95f8c097e6030c15/403971/147926/essential-logo-polo.jpg?camera_label=right-chest",
@@ -30,9 +44,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Logo Polo · Black",
- "name_es": "Polo Logo · Negro",
+ "name_en": "Essential Logo Polo",
+ "name_es": "Polo Logo Esencial",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 52.99,
  "rank": 29,
