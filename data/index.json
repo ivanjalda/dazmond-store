@@ -227,7 +227,7 @@
       "id": "printify-6b066740eca3203e09098ed4",
       "name_es": "Conjunto de Pijama Estelar",
       "name_en": "Stellar Pajama Set",
-      "price_usd": 48.99,
+      "price_usd": 55.99,
       "badge": "new",
       "categories": [
         "mujer/batas-pijamas"
@@ -21680,8 +21680,8 @@
     },
     {
       "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-1",
-      "name_es": "Blusa Blusa Suelta Daz",
-      "name_en": "Blusa Suelta Daz Blouse",
+      "name_es": "Blusa Blusa Suelta Daz · Negro",
+      "name_en": "Blusa Suelta Daz Blouse · Black",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -21694,6 +21694,7 @@
       "supplier_id": "blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-1",
       "fam": "blusa-suelta-premium",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
+      "color": "Black",
       "art_score": 4,
       "img": "assets/products/shop/fcc800326ca730a7ede2.jpg"
     },
@@ -21719,8 +21720,8 @@
     },
     {
       "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-11",
-      "name_es": "Blusa Blusa Suelta Daz",
-      "name_en": "Blusa Suelta Daz Blouse",
+      "name_es": "Blusa Blusa Suelta Daz · Verde",
+      "name_en": "Blusa Suelta Daz Blouse · Green",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -21733,6 +21734,7 @@
       "supplier_id": "blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-11",
       "fam": "blusa-suelta-premium",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
+      "color": "Green",
       "art_score": 4,
       "img": "assets/products/shop/59e3caf72979a8d96213.jpg"
     },
@@ -21752,12 +21754,13 @@
       "supplier_id": "blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-12",
       "fam": "blusa-suelta-premium",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
-      "img": "assets/products/shop/838eb48c9b2cd23b2831.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/5730dfb509acf7a935df.jpg"
     },
     {
       "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-13",
-      "name_es": "Blusa Blusa Suelta Daz",
-      "name_en": "Blusa Suelta Daz Blouse",
+      "name_es": "Blusa Blusa Suelta Daz · White / Floral Print",
+      "name_en": "Blusa Suelta Daz Blouse · White / Floral Print",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -21770,6 +21773,7 @@
       "supplier_id": "blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-13",
       "fam": "blusa-suelta-premium",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
+      "color": "White / Floral Print",
       "art_score": 4,
       "img": "assets/products/shop/955348990194016d5ab2.jpg"
     },
