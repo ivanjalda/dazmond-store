@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:41:57Z",
+  "updated": "2026-11-26T00:42:35Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -394,7 +394,7 @@
     "shopify-design-all-over-print-womens-overall": {
       "views": 2,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1087,7 +1087,7 @@
     "interestprint-design-lace-trim-thong-9": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1114,7 +1114,7 @@
     "interestprint-design-lace-trim-thong-8": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1123,7 +1123,7 @@
     "interestprint-design-lace-trim-thong-7": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1132,7 +1132,7 @@
     "interestprint-design-lace-trim-thong-6": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1141,7 +1141,7 @@
     "interestprint-design-lace-trim-thong-5": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1150,7 +1150,7 @@
     "interestprint-design-lace-trim-thong-4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1159,7 +1159,7 @@
     "interestprint-design-lace-trim-thong-3": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1168,7 +1168,7 @@
     "interestprint-design-lace-trim-thong-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1177,7 +1177,7 @@
     "interestprint-design-lace-trim-thong-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1204,7 +1204,7 @@
     "interestprint-design-lace-trim-thong": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1627,7 +1627,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-11": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1654,7 +1654,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-10": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1663,7 +1663,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-9": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1672,7 +1672,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-8": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1681,7 +1681,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-7": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1690,7 +1690,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-6": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1699,7 +1699,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-5": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1708,7 +1708,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1717,7 +1717,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-3": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1726,7 +1726,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1744,7 +1744,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1753,7 +1753,7 @@
     "interestprint-design-3-4-sleeve-jumpsuit": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1924,7 +1924,7 @@
     "interestprint-design-lace-trim-camisole-nightgown-4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1942,7 +1942,7 @@
     "interestprint-design-lace-trim-camisole-nightgown-3": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1951,7 +1951,7 @@
     "interestprint-design-lace-trim-camisole-nightgown-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1960,7 +1960,7 @@
     "interestprint-design-lace-trim-camisole-nightgown-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -1987,7 +1987,7 @@
     "interestprint-design-lace-trim-camisole-nightgown": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -2347,7 +2347,7 @@
     "interestprint-design-all-over-print-cropped-shirt-3": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -2356,7 +2356,7 @@
     "interestprint-design-all-over-print-cropped-shirt-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -2365,7 +2365,7 @@
     "interestprint-design-all-over-print-cropped-shirt-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -2392,7 +2392,7 @@
     "interestprint-design-all-over-print-cropped-shirt": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -2707,7 +2707,7 @@
     "interestprint-design-yoga-pants-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -2752,7 +2752,7 @@
     "interestprint-design-yoga-pants": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3139,7 +3139,7 @@
     "interestprint-design-long-sleeve-mesh-top-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3148,7 +3148,7 @@
     "interestprint-design-long-sleeve-mesh-top-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3157,7 +3157,7 @@
     "interestprint-design-long-sleeve-mesh-top": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3751,7 +3751,7 @@
     "interestprint-design-spaghetti-strap-tank-top-9": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3760,7 +3760,7 @@
     "interestprint-design-spaghetti-strap-tank-top-8": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3769,7 +3769,7 @@
     "interestprint-design-spaghetti-strap-tank-top-7": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3778,7 +3778,7 @@
     "interestprint-design-spaghetti-strap-tank-top-6": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3787,7 +3787,7 @@
     "interestprint-design-spaghetti-strap-tank-top-5": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3796,7 +3796,7 @@
     "interestprint-design-spaghetti-strap-tank-top-4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3805,7 +3805,7 @@
     "interestprint-design-spaghetti-strap-tank-top-3": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3814,7 +3814,7 @@
     "interestprint-design-spaghetti-strap-tank-top-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3823,7 +3823,7 @@
     "interestprint-design-spaghetti-strap-tank-top-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3832,7 +3832,7 @@
     "interestprint-design-spaghetti-strap-tank-top": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3868,7 +3868,7 @@
     "interestprint-design-criss-cross-back-one-piece-swimsuit-4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3895,7 +3895,7 @@
     "interestprint-design-criss-cross-back-one-piece-swimsuit-3": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3904,7 +3904,7 @@
     "interestprint-design-criss-cross-back-one-piece-swimsuit-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3913,7 +3913,7 @@
     "interestprint-design-criss-cross-back-one-piece-swimsuit-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3940,7 +3940,7 @@
     "interestprint-design-criss-cross-back-one-piece-swimsuit": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4030,7 +4030,7 @@
     "interestprint-design-new-sleeveless-polo-tank-top-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4039,7 +4039,7 @@
     "interestprint-design-new-sleeveless-polo-tank-top": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4057,7 +4057,7 @@
     "interestprint-design-ruffled-plunge-one-piece-swimwear-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4066,7 +4066,7 @@
     "interestprint-design-ruffled-plunge-one-piece-swimwear-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4075,7 +4075,7 @@
     "interestprint-design-ruffled-plunge-one-piece-swimwear": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4174,7 +4174,7 @@
     "interestprint-design-short-sleeve-zip-polo-shirtb470-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4183,7 +4183,7 @@
     "interestprint-design-short-sleeve-zip-polo-shirtb470-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4192,7 +4192,7 @@
     "interestprint-design-short-sleeve-zip-polo-shirtb470": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4201,7 +4201,7 @@
     "interestprint-design-long-sleeve-zip-polo-shirt-rl-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4210,7 +4210,7 @@
     "interestprint-design-long-sleeve-zip-polo-shirt-rl-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4219,7 +4219,7 @@
     "interestprint-design-long-sleeve-zip-polo-shirt-rl": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4255,7 +4255,7 @@
     "interestprint-design-all-over-print-tank-top-bkrev1-4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4264,7 +4264,7 @@
     "interestprint-design-all-over-print-tank-top-bkrev1-3": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4282,7 +4282,7 @@
     "interestprint-design-all-over-print-tank-top-bkrev1-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4291,7 +4291,7 @@
     "interestprint-design-all-over-print-tank-top-bkrev1-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4300,7 +4300,7 @@
     "interestprint-design-all-over-print-tank-top-bkrev1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4309,7 +4309,7 @@
     "interestprint-design-washed-drop-shoulder-t-shirt": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4876,7 +4876,7 @@
     "shopify-zapatillas-de-cana-alta-dazmond-art-negro": {
       "views": 2,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -4957,7 +4957,7 @@
     "shopify-camisetas-de-manga-larga-y-cuello-redondo-dazmond": {
       "views": 2,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -21967,7 +21967,7 @@
     "printify-669f87936b62c2d4940ddfd7": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -21976,7 +21976,7 @@
     "printify-669f857d202b3fb01407bf9c": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -22003,7 +22003,7 @@
     "printify-668eb21afc9e2d84f00ecdc1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -22012,7 +22012,7 @@
     "printify-668eac084542f0d6d6052014": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -22021,7 +22021,7 @@
     "printify-668eab5af72a45d14c0529a4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -22030,7 +22030,7 @@
     "printify-668eaac5f88774f5bd03c22e": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -22039,7 +22039,7 @@
     "printify-668eaa0ce8327b730b0bcac2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -22120,7 +22120,7 @@
     "printify-6682f7eaabc218c5680b99db": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -22138,7 +22138,7 @@
     "printify-667ff286278e297032061cca": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -27871,7 +27871,7 @@
     "printful-350464341": {
       "views": 2,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -29257,7 +29257,7 @@
     "printify-6b06453cfb3b556d1c04ed30": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29266,7 +29266,7 @@
     "printify-6b064539fb3b556d1c04ed2a": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29563,7 +29563,7 @@
     "printify-6b06675510baa70da607308a": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -29572,7 +29572,7 @@
     "printify-6b0667526db425f6b50b967a-black": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -29581,7 +29581,7 @@
     "printify-6b0667526db425f6b50b967a-white": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29590,7 +29590,7 @@
     "printify-6b06674fd3c2aadbe1007e0e": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -29678,6 +29678,114 @@
       "revenue_30d": 0.0
     },
     "printify-6b06673310baa70da6073058": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0780794ea7c13753013021": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0780764ca2a016cf0642d2": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0780734ca2a016cf0642bb": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b07806fb4135d2dee0d5e31": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b07806db4135d2dee0d5e27-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b07806db4135d2dee0d5e27-oyster": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b07806ad144ea48ec08051d": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0780679a95a3a4b10eeb18": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b07806295f8c097e6030c21": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b07805f62cb66c9780a1afd": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b07805c95f8c097e6030c15": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b07805807194ce1550beb5d": {
       "views": 0,
       "clicks": 0,
       "views_today": 0,

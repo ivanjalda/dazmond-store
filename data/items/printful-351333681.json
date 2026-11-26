@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/6945c7ffffaaafa6efda.jpg",
+  "assets/products/shop/0427e578484da188ed80.jpg",
+  "assets/products/shop/da2d41c5061f95126266.jpg",
+  "assets/products/shop/18c2b0d0e18cee52d6ed.jpg"
+ ],
  "ai_color": "white",
  "ai_copy": true,
  "ai_done": true,
@@ -24,6 +30,7 @@
  ],
  "draft": false,
  "fam": "monochrome-jewel-oz",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-351333681",
  "img_checked": "2026-11-23",
@@ -37,7 +44,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
- "rank": 385,
+ "rank": 397,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Casa y jardín > Cocina y comedor > Objetos para llevar comida y bebida > Termos",

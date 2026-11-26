@@ -105,5 +105,40 @@
       62328
     ],
     "position": "front"
+  },
+  "camiseta-premium": {
+    "blueprint_id": 12,
+    "blueprint": "Unisex Jersey Short Sleeve Tee",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      18099,
+      18100,
+      18101,
+      18102,
+      18103,
+      18104,
+      18105,
+      18106,
+      101666
+    ],
+    "position": "front"
+  },
+  "polo": {
+    "blueprint_id": 11005,
+    "blueprint": "Chad Polo",
+    "provider_id": 217,
+    "provider": "Fulfill Engine",
+    "variant_ids": [
+      403969,
+      403970,
+      403971,
+      403972,
+      403973,
+      403974,
+      403975,
+      403976
+    ],
+    "position": "left_chest_dtf"
   }
 }

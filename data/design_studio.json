@@ -17,9 +17,28 @@
    "style": "caleido",
    "file": "baroque-mirror__camiseta-sudadera-capucha-cojin-bolso.png",
    "date": "2026-11-25"
+  },
+  {
+   "name": "Essential Logo",
+   "style": "minimal",
+   "file": "essential-logo__camiseta-premium-polo-sudadera-capucha-sudadera.png",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Gold Plaque",
+   "style": "plaque",
+   "file": "gold-plaque__camiseta-sudadera-capucha-bolso-taza.png",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Rare By Design",
+   "style": "frase",
+   "file": "rare-by-design__camiseta-sudadera-capucha-sudadera.png",
+   "date": "2026-11-26"
   }
  ],
  "days": {
-  "2026-11-25": 3
+  "2026-11-25": 3,
+  "2026-11-26": 3
  }
 }
