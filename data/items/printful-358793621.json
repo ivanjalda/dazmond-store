@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Flat supplier mockup with digital graphic pasted on the garment, lacks luxury e-commerce staging.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358793621",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Modern art meets essential comfort in this exclusive piece from DAZMOND & Co. The relaxed silhouette offers effortless movement and a refined presence. Each piece is crafted exclusively upon demand to ensure absolute exclusivity. The all-over graphic design introduces a unique and sophisticated visual character. Ideal for elevating everyday aesthetics with a bold, contemporary approach. Available with worldwide shipping.",
+ "desc_es": "El arte moderno se encuentra con la comodidad esencial en esta pieza exclusiva de DAZMOND & Co. La silueta relajada ofrece un movimiento sin esfuerzo y una presencia refinada. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. El diseño gráfico integral aporta un carácter visual único y sofisticado. Ideal para elevar la estética cotidiana con un enfoque contemporáneo y audaz. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made-to-order craftsmanship",
+ "details_es": "· Confección exclusiva bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/64b/64bbc93c92cd76f1a0eb72caae277924_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Art Sweatshirt · White",
- "name_es": "Sudadera Pantalón Daz Art · Blanco",
+ "name_en": "DAZ Art Joggers",
+ "name_es": "Pantalón de chándal Art de DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 482,

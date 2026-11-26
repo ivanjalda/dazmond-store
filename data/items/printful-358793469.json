@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Clean isolated product shot against a neutral background, but lacks high-end editorial styling.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358793469",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A relaxed silhouette defined by an expressive all-over print. This design merges refined comfort with a contemporary aesthetic. The piece is conceived for effortless versatility in any urban setting. Each garment is individually crafted on demand. We offer worldwide shipping to meet the expectations of our most discerning clients.",
+ "desc_es": "Una silueta relajada definida por un estampado integral expresivo. Este diseño combina comodidad refinada con una estética contemporánea. La pieza está concebida para una versatilidad sin esfuerzo en cualquier entorno urbano. Cada prenda se elabora de forma individual bajo demanda. Ofrecemos envíos a todo el mundo para satisfacer las expectativas de nuestros clientes más exigentes.",
+ "details_en": "· Made-to-order piece\n· Available with worldwide shipping",
+ "details_es": "· Pieza confeccionada bajo demanda\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e4b/e4b9d2fed561a7adb43b0c03060c2214_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · White",
- "name_es": "Sudadera Pantalón Daz Chándal · Blanco",
+ "name_en": "All-Over Print Joggers",
+ "name_es": "Pantalón de chándal All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 481,

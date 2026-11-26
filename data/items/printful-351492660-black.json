@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/polo"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "polo shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot against a neutral background, but lacks the dramatic lighting and moody atmosphere of an elite luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351492660",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A streamlined silhouette that redefines casual elegance. Tailored with precision to offer an impeccable drape and a sophisticated presence. This black polo combines clean lines with understated details, ideal for a refined wardrobe. Each piece is crafted to order to ensure ultimate exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine la elegancia casual. Confeccionada con precisión para ofrecer una caída impecable y una presencia sofisticada. Este polo negro combina líneas limpias con detalles discretos, ideal para un guardarropa refinado. Cada pieza se elabora bajo pedido para garantizar la máxima exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/d01/d01a8489f4e2f55483d3d889d0698eff_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Under Armour Colaboración Polo · Black",
- "name_es": "Polo Under Armour Colaboración · Negro",
+ "name_en": "Classic Black Polo · Black",
+ "name_es": "Polo Clásico Negro · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 81.99,
  "rank": 464,

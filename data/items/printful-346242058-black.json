@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "slides",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, though presented in a standard e-commerce style rather than a high-end luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-346242058",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined by a streamlined silhouette, these slides unite contemporary aesthetics with a distinctive graphic design. Crafted to order with meticulous attention to detail, they offer a commanding and sophisticated presence for everyday wear. The deep black base contrasts with precise graphic elements across the front strap. Available exclusively through our online store, with worldwide shipping.",
+ "desc_es": "Definidas por una silueta depurada, estas sandalias combinan la estética contemporánea con un diseño distintivo. Confeccionadas bajo pedido con meticulosa atención al detalle, ofrecen una presencia imponente y sofisticada para el día a día. La base negra profunda contrasta con elementos gráficos precisos sobre la tira frontal. Disponibles exclusivamente a través de nuestra tienda online, con envíos a todo el mundo.",
+ "details_en": "· Made to order.\n· Worldwide shipping.",
+ "details_es": "· Hecho bajo pedido.\n· Envío a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/047/047c3f493e41d2b194d44070d0a23f38_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "América Slides Sandals · Black",
- "name_es": "Sandalias América Slides · Negro",
+ "name_en": "América Black Slides · Black",
+ "name_es": "Sandalias América Black · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 53.99,
  "rank": 579,

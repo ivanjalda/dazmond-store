@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "long sleeve shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and clear garment detail, yet standard e-commerce presentation lacks high-fashion atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359396971",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential presence defined by clean lines and a relaxed silhouette. This long sleeve piece offers effortless elegance for everyday wear. Made to order with worldwide shipping available.",
+ "desc_es": "Una presencia esencial definida por líneas puras y una silueta relajada. Esta prenda de manga larga ofrece una elegancia despreocupada para el día a día. Confección bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/fe3/fe356d2856c935186f97c388d6f4a9ea_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Gruesa Daz Teñida Tee · White",
- "name_es": "Camiseta Gruesa Daz Teñida · Blanco",
+ "name_en": "Heavyweight long sleeve shirt · White",
+ "name_es": "Camiseta de manga larga pesada · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 426,

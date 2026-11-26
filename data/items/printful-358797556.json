@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "track pants",
+ "ai_ver": 2,
+ "art_note": "Flat lay mockup style lacks the sophistication and dimensional depth expected of a luxury house.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358797556",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Relaxed tailoring meets contemporary graphic expression. These track pants redefine everyday luxury with a fluid silhouette and a distinctive all-over print. Each piece is made to order in our ateliers. Available for worldwide shipping.",
+ "desc_es": "La sastrería relajada se encuentra con la expresión gráfica contemporánea. Este pantalón de chándal redefine el lujo cotidiano con una silueta fluida y un distintivo estampado integral. Cada pieza se elabora bajo demanda en nuestros talleres. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order.\n· Worldwide shipping.",
+ "details_es": "· Hecho a medida.\n· Envío a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/dad/dad63e31c232978dfe2532a58553c7e7_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
- "name_es": "Sudadera Pantalón Daz Chándal · Negro",
+ "name_en": "All-Over Print Track Pants",
+ "name_es": "Pantalón de chándal estampado All-Over",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 540,

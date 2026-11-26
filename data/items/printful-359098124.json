@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "track pants",
+ "ai_ver": 2,
+ "art_note": "Clean flat lay product shot, but lacks atmospheric luxury staging.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359098124",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined design redefining contemporary comfort. These track pants feature an all-over print that delivers a striking visual presence. Crafted with meticulous attention to proportions, offering a relaxed yet structured silhouette. Each piece is crafted exclusively upon demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Un diseño depurado que redefine la comodidad contemporánea. Este pantalón de chándal presenta un estampado integral que aporta una presencia visual rotunda. Confeccionado con atención meticulosa a las proporciones, ofrece una silueta relajada pero estructurada. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made-to-order production.\n· Worldwide shipping available.",
+ "details_es": "· Confección bajo demanda.\n· Envío disponible a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/90d/90de7ed9eb0d70e71b433df04339c58e_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
- "name_es": "Sudadera Pantalón Daz Chándal · Negro",
+ "name_en": "All-Over Print Track Pants",
+ "name_es": "Pantalón de chándal estampado All-Over",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 552,

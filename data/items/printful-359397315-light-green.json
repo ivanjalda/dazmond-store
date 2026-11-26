@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Light Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "long sleeve shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait, but lacks high-end luxury campaign atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359397315",
  "color": "Light Green",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The essential silhouette assumes a relaxed presence. This long sleeve piece redefines the contemporary wardrobe with a refined approach. The light green tone introduces a subtle earthy sophistication. Made to order and worldwide shipping. Each piece is crafted exclusively for you.",
+ "desc_es": "La silueta esencial adquiere una presencia relajada. Esta prenda de manga larga redefine el fondo de armario contemporáneo con un enfoque depurado. El tono verde claro aporta una sutil sofisticación terrenal. Confección bajo demanda y envíos a todo el mundo. Cada pieza se elabora exclusivamente para usted.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/874/8741ed3e471e66217787fa00868a4d52_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Gruesa Daz Teñida Tee · Light Green",
- "name_es": "Camiseta Gruesa Daz Teñida · Light Green",
+ "name_en": "Heavyweight long sleeve shirt · Light Green",
+ "name_es": "Camiseta de manga larga gruesa · Light Green",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 430,

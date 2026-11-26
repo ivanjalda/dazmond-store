@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Clean studio shot with a model, but feels slightly generic and lacks high-end luxury lighting depth.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358792886",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefining relaxed luxury. These joggers combine absolute comfort with a refined aesthetic. Designed for the contemporary woman who values both ease and distinction. Crafted on demand to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Redefiniendo el lujo relajado. Este pantalón de chándal combina comodidad absoluta con una estética depurada. Diseñado para la mujer contemporánea que valora tanto el confort como la distinción. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b55/b55c6ed8067907beb203e4f628b376e0_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · White",
- "name_es": "Sudadera Pantalón Daz Chándal · Blanco",
+ "name_en": "DAZ All-Over Print Joggers",
+ "name_es": "Pantalón de Chándal DAZ Estampado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 477,

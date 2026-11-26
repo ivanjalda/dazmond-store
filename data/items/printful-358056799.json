@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "The image presents a flat layout style typical of template mockup generators rather than an authentic luxury studio campaign.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358056799",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Contemporary men's joggers defined by a bold all-over black and white graphic pattern. A piece designed for daily ease while maintaining a striking visual stance. Each item is crafted individually upon order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Pantalón de chándal para hombre de corte contemporáneo, definido por un diseño gráfico integral en blanco y negro. Una pieza concebida para la comodidad diaria sin renunciar a una estética rotunda. Cada prenda se confecciona bajo demanda para asegurar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío internacional disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/933/93335a9c2f126366613a2a60c16bac61_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Pantalones Chándal Daz Sweatshirt · White",
- "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
+ "name_en": "DAZ All-Over Print Joggers",
+ "name_es": "Pantalón de chándal estampado DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 475,

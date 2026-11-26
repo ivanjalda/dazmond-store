@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-mujer/sandalias-chanclas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "slides",
+ "ai_ver": 2,
+ "art_note": "Clean lifestyle shot presenting the slides worn by a model in a minimal setting.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-353393584",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Serenity slides redefine relaxed luxury with a refined and versatile silhouette. Designed to accompany every step with absolute comfort and understated elegance. Each pair is meticulously crafted to order to ensure ultimate exclusivity. Available with worldwide shipping, establishing a timeless style that transcends seasons. An essential piece for the contemporary wardrobe.",
+ "desc_es": "Las sandalias Serenity redefinen el lujo relajado con una silueta depurada y versátil. Diseñadas para acompañar cada paso con absoluta comodidad y elegancia discreta. Cada par se elabora meticulosamente bajo pedido para garantizar la máxima exclusividad. Disponibles con envíos a todo el mundo, consolidando un estilo atemporal que trasciende las temporadas. Una pieza esencial para el armario contemporáneo.",
+ "details_en": "· Made to order.\n· Worldwide shipping.",
+ "details_es": "· Hecho bajo pedido.\n· Envío a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/274/274991615acc0796896c064184079150_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Sandalias Serenity Sandals · Black",
- "name_es": "Sandalias Sandalias Serenity · Negro",
+ "name_en": "Serenity Slides",
+ "name_es": "Sandalias Serenity",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 53.99,
  "rank": 591,

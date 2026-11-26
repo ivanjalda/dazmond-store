@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle photography with warm, natural lighting and elevated interior styling.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-384504359",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Minimalist elegance defines this essential swimwear piece. Designed with a streamlined bandeau silhouette, this model offers a sophisticated aesthetic for sunlit days. Crafted from high-grade recycled materials, the garment embraces the silhouette with subtlety and comfort. A refined proposition for the contemporary woman. Each piece is made to order in our ateliers. We offer worldwide shipping.",
+ "desc_es": "La elegancia minimalista define esta pieza de baño esencial. Diseñado con una silueta bandeau depurada, este modelo ofrece una estética sofisticada para los días de sol. Confeccionada con materiales reciclados de alta calidad, la prenda abraza la silueta con sutileza y confort. Una propuesta depurada para la mujer contemporánea. Cada pieza se confecciona bajo pedido en nuestros talleres. Realizamos envíos a todo el mundo.",
+ "details_en": "· Crafted from recycled materials\n· Bandeau design\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confeccionado con materiales reciclados\n· Diseño bandeau\n· Confección bajo pedido\n· Disponible envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/4df/4dfbca052561ba752dd758dc45ec1cfe_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Swimwear · White",
- "name_es": "Bañador Daz · Blanco",
+ "name_en": "Recycled Bandeau Bikini",
+ "name_es": "Bikini Bandeau Reciclado",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 63.99,
  "rank": 571,

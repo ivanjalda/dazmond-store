@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "skater dress",
+ "ai_ver": 2,
+ "art_note": "Flat template mockup lacking luxury lighting and physical volume.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-337543998",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece defining contemporary elegance. Fluid silhouette tailored for modern sophistication. Exclusive made-to-order creation with worldwide shipping. Refined lines redefining everyday luxury with absolute precision and distinction.",
+ "desc_es": "Una pieza esencial que define la elegancia contemporánea. Silueta fluida diseñada para la sofisticación moderna. Confección exclusiva bajo pedido con envíos a todo el mundo. Líneas depuradas que redefinen el lujo cotidiano con absoluta precisión y distinción.",
+ "details_en": "· Made-to-order construction.\n· Worldwide shipping available.",
+ "details_es": "· Confección bajo pedido.\n· Envío disponible a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/972/972ac5ac104b53dca35a0d2012f5fa6e_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Soleil Aria Skater Dress · White",
- "name_es": "Vestido Soleil Aria Skater · Blanco",
+ "name_en": "Soleil d'Or Aria Dress",
+ "name_es": "Vestido Aria Soleil d'Or",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 446,

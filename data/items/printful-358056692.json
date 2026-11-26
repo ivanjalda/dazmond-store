@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, though presented as a flat mockup.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358056692",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A bold silhouette defined by contemporary graphic aesthetics. These joggers deliver an unmistakable visual presence with their all-over print motif. Designed for effortless comfort and modern versatility, they blend relaxed lines with distinctive detailing. Each piece is crafted exclusively on demand in the United States. Available with worldwide shipping.",
+ "desc_es": "Una silueta audaz definida por una estética gráfica contemporánea. Estos pantalones jogger ofrecen una presencia visual inconfundible con su motivo estampado integral. Diseñados para un confort sin esfuerzo y una versatilidad moderna, combinan líneas relajadas con detalles distintivos. Cada pieza se confecciona exclusivamente bajo demanda en Estados Unidos. Disponible con envío a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/afe/afe79f5d34632b8130faec04052b73f1_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Pantalones Chándal Daz Sweatshirt · White",
- "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
+ "name_en": "DAZ All-Over Print Joggers",
+ "name_es": "Pantalones Jogger All-Over Print DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 474,

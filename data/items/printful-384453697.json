@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Clean lifestyle photography with natural lighting, lacking the sharp dramatic edge of high-end luxury editorial campaigns.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-384453697",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette that redefines summer elegance. This white bandeau bikini offers a minimalist and clean aesthetic. Designed for the contemporary woman seeking effortless sophistication by the sea. Each piece is crafted exclusively upon demand to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine la elegancia estival. Este bikini bandeau en tono blanco ofrece una estética minimalista y depurada. Diseñado para la mujer contemporánea que busca sofisticación sin esfuerzo junto al mar. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo demanda\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e96/e96d695d167a022538c4981d9196ccae_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Swimwear · White",
- "name_es": "Bañador Daz · Blanco",
+ "name_en": "Recycled Bandeau Bikini",
+ "name_es": "Bikini Bandeau Reciclado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 63.99,
  "rank": 569,

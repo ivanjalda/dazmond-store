@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "tote bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on a plain white background, standard e-commerce presentation without lifestyle context.",
+ "art_score": 5,
+ "audited": "2026-11-26",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-6b07806db4135d2dee0d5e27",
  "color": "Black",
  "created": "2026-11-26",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Defined by structured lines and an impeccable silhouette, this tote bag embodies the modern elegance of the house. Crafted to accompany the daily routine with understated sophistication, it features a distinctive gold plaque detail contrasting against the dark finish. Its spacious design offers versatility without compromising the refined aesthetic signature of the brand. Each piece is meticulously made to order in the United States, ensuring exclusivity and worldwide shipping availability for the contemporary wardrobe.",
+ "desc_es": "Definido por líneas estructuradas y una silueta impecable, este bolso tote encarna la elegancia moderna de la casa. Confeccionado para acompañar la jornada diaria con sofisticación discreta, presenta un distintivo detalle de placa dorada que contrasta con el acabado oscuro. Su diseño espacioso ofrece versatilidad sin comprometer la estética refinada característica de la marca. Cada pieza se elabora meticulosamente bajo pedido en los Estados Unidos, garantizando exclusividad y disponibilidad de envío internacional para el guardarropa contemporáneo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b07806db4135d2dee0d5e27/119445/109797/gold-plaque-tote.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b07806db4135d2dee0d5e27/119445/109798/gold-plaque-tote.jpg?camera_label=back"
@@ -27,9 +42,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Plaque Bag · Black",
- "name_es": "Bolso Plaque · Negro",
+ "name_en": "Gold Plaque Tote Bag · Black",
+ "name_es": "Bolso Tote Placa Dorada · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 36,

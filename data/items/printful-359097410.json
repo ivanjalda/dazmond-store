@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "track pants",
+ "ai_ver": 2,
+ "art_note": "Flat, template-style product shot lacking depth, studio lighting, and high-end texture definition.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359097410",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A streamlined silhouette redefining informal luxury. Tailored construction for an impeccable drape. Essential aesthetics in deep black. Made to order with worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine el lujo informal. Confección a medida para una caída impecable. Estética esencial en color negro profundo. Hecho bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/5dd/5ddd3ca1c94a50f14ee8bcba33def0ed_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
- "name_es": "Sudadera Pantalón Daz Chándal · Negro",
+ "name_en": "DAZ Lined Track Pants",
+ "name_es": "Pantalón de chándal forrado DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 545,

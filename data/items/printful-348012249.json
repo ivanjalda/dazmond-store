@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Ceramic",
+ "ai_type": "Mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain white background, though standard mockup style prevents a higher luxury tier.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-348012249",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your morning rituals with this refined design piece. The glossy black silhouette delivers a sophisticated and commanding presence in any setting. Every graphic detail evokes an aesthetic of contemporary refinement and distinction. Crafted for those who value functional elegance in their daily lives. Available with worldwide shipping and made to order to ensure absolute exclusivity.",
+ "desc_es": "Eleve sus rituales matutinos con esta pieza de diseño depurado. La silueta en negro brillante ofrece una presencia sofisticada y rotunda en cualquier entorno. Cada detalle gráfico evoca una estética de refinamiento contemporáneo y distinción. Pensada para quienes valoran la elegancia funcional en su día a día. Disponible con envíos a todo el mundo y confeccionada bajo demanda para garantizar una exclusividad absoluta.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/dcf/dcfef60ed8f70733331587c8b8006fe1_preview.png",
   "https://files.cdn.printful.com/files/318/318e72df1f483a60fcbbed27ff5cc5be_preview.png"
@@ -22,9 +36,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Gloss Mug · Black",
- "name_es": "Taza Gloss · Negro",
+ "name_en": "Obsidian Gloss Mug",
+ "name_es": "Taza Obsidian Gloss",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
  "rank": 462,

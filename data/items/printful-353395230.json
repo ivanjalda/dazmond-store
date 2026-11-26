@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-mujer/sandalias-chanclas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "slides",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, yet lacks advanced luxury staging and depth.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-353395230",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Relaxed elegance for moments of repose. These slides pair a minimalist design with a distinct presence. Each pair is made to order with worldwide shipping. The refined silhouette offers essential comfort without sacrificing sophistication. A versatile piece designed to elevate the summer wardrobe with a polished, contemporary aesthetic.",
+ "desc_es": "Elegancia relajada para los dias de descanso. Estas sandalias combinan un diseño minimalista con una presencia marcada. Cada par es elaborado bajo pedido con envíos a todo el mundo. La silueta depurada ofrece comodidad esencial sin sacrificar sofisticación. Una pieza versátil diseñada para elevar el guardarropa estival con una estética pulida y contemporánea.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Elaborado bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/055/0556cd183587f543b38dc5e98c56ecdb_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Sandalias Sun Sandals · Black",
- "name_es": "Sandalias Sandalias Sun · Negro",
+ "name_en": "Sun DAZMOND Slides",
+ "name_es": "Sandalias Sun DAZMOND",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 53.99,
  "rank": 594,

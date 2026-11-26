@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-mujer/sandalias-chanclas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "slides",
+ "ai_ver": 2,
+ "art_note": "Clean studio composition showing the footwear worn, though lacking dramatic high-fashion lighting.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-353393894",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Essential silhouette defined by clean lines. A design conceived for everyday sophistication. Each pair is crafted to order with rigorous attention to detail. Available exclusively through our online store with worldwide shipping.",
+ "desc_es": "Silueta esencial definida por líneas depuradas. Un diseño pensado para la sofisticación cotidiana. Cada par se elabora bajo pedido con atención rigurosa al detalle. Disponible exclusivamente en nuestra tienda online con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Elaboración bajo pedido\n· Envío internacional disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/aff/affa0f1a64377c85c6b7957cb3cc4896_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Sandalias Daz Art Sandals · Black",
- "name_es": "Sandalias Sandalias Daz Art · Negro",
+ "name_en": "DAZ Luxury Art Slides",
+ "name_es": "Sandalias DAZ Luxury Art",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 53.99,
  "rank": 592,

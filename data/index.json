@@ -596,8 +596,8 @@
     },
     {
       "id": "printify-6b07806fb4135d2dee0d5e31",
-      "name_es": "Taza Plaque · Oro",
-      "name_en": "Plaque Mug · Gold",
+      "name_es": "Taza Gold Plaque",
+      "name_en": "Gold Plaque Mug",
       "price_usd": 51.99,
       "badge": "new",
       "categories": [
@@ -610,12 +610,13 @@
       "supplier_id": "6b07806fb4135d2dee0d5e31",
       "fam": "plaque-mug",
       "cg": "printify-6b07806fb4135d2dee0d5e31",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b07806fb4135d2dee0d5e31/62327/3387/gold-plaque-mug.jpg?camera_label=front"
     },
     {
       "id": "printify-6b07806295f8c097e6030c21",
-      "name_es": "Sudadera Logo · Negro",
-      "name_en": "Logo Sweatshirt · Black",
+      "name_es": "Sudadera Essential Logo Negra",
+      "name_en": "Essential Logo Black Sweatshirt",
       "price_usd": 45.99,
       "badge": "new",
       "categories": [
@@ -630,12 +631,13 @@
       "fam": "essential-logo-crewneck",
       "cg": "printify-6b07806295f8c097e6030c21",
       "color": "Black",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b07806295f8c097e6030c21/25459/98502/essential-logo-crewneck.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0780794ea7c13753013021",
-      "name_es": "Sudadera Rare · Negro",
-      "name_en": "Rare Sweatshirt · Black",
+      "name_es": "Sudadera Rare By Design Negra",
+      "name_en": "Rare By Design Black Sweatshirt",
       "price_usd": 45.99,
       "badge": "new",
       "categories": [
@@ -650,12 +652,13 @@
       "fam": "rare-by-crewneck",
       "cg": "printify-6b0780794ea7c13753013021",
       "color": "Black",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b0780794ea7c13753013021/25459/98502/rare-by-design-crewneck.jpg?camera_label=front"
     },
     {
       "id": "printify-6b07805807194ce1550beb5d",
-      "name_es": "Camiseta Logo · Negro",
-      "name_en": "Logo Tee · Black",
+      "name_es": "Camiseta Esencial con Logotipo",
+      "name_en": "Essential Logo T-Shirt",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -670,12 +673,13 @@
       "fam": "essential-logo-jersey",
       "cg": "printify-6b07805807194ce1550beb5d",
       "color": "Black",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b07805807194ce1550beb5d/18102/102044/essential-logo-jersey-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b0780679a95a3a4b10eeb18",
-      "name_es": "Camiseta Plaque · Negro",
-      "name_en": "Plaque Tee · Black",
+      "name_es": "Camiseta Gold Plaque",
+      "name_en": "Gold Plaque Tee",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -690,12 +694,13 @@
       "fam": "plaque-tee",
       "cg": "printify-6b0780679a95a3a4b10eeb18",
       "color": "Black",
+      "art_score": 5,
       "img": "https://images-api.printify.com/mockup/6b0780679a95a3a4b10eeb18/12124/102005/gold-plaque-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b0780734ca2a016cf0642bb",
-      "name_es": "Camiseta Rare · Negro",
-      "name_en": "Rare Tee · Black",
+      "name_es": "Camiseta Rare By Design Negra",
+      "name_en": "Rare By Design Black Tee",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -710,12 +715,13 @@
       "fam": "rare-by-tee",
       "cg": "printify-6b0780734ca2a016cf0642bb",
       "color": "Black",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b0780734ca2a016cf0642bb/12124/102005/rare-by-design-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b07806db4135d2dee0d5e27-black",
-      "name_es": "Bolso Plaque · Negro",
-      "name_en": "Plaque Bag · Black",
+      "name_es": "Bolso Tote Placa Dorada · Negro",
+      "name_en": "Gold Plaque Tote Bag · Black",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -730,12 +736,13 @@
       "fam": "plaque-tote",
       "cg": "printify-6b07806db4135d2dee0d5e27",
       "color": "Black",
+      "art_score": 5,
       "img": "https://images-api.printify.com/mockup/6b07806db4135d2dee0d5e27/119445/109797/gold-plaque-tote.jpg?camera_label=front"
     },
     {
       "id": "printify-6b07806db4135d2dee0d5e27-oyster",
-      "name_es": "Bolso Plaque · Oyster",
-      "name_en": "Plaque Bag · Oyster",
+      "name_es": "Bolso Tote Placa Dorada · Oyster",
+      "name_en": "Gold Plaque Tote Bag · Oyster",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -750,6 +757,7 @@
       "fam": "plaque-tote",
       "cg": "printify-6b07806db4135d2dee0d5e27",
       "color": "Oyster",
+      "art_score": 5,
       "img": "https://images-api.printify.com/mockup/6b07806db4135d2dee0d5e27/119446/109797/gold-plaque-tote.jpg?camera_label=front"
     },
     {
@@ -7965,8 +7973,8 @@
     },
     {
       "id": "printful-351333867",
-      "name_es": "Taza América Crest · Blanco",
-      "name_en": "América Crest Mug · White",
+      "name_es": "Taza de Viaje América Crest",
+      "name_en": "América Crest Travel Mug",
       "price_usd": 39.99,
       "badge": "new",
       "categories": [
@@ -7980,12 +7988,13 @@
       "fam": "america-crest-oz",
       "cg": "printful-351333867",
       "color": "White",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/b57/b573560cce26db5af6801b497d045a4e_preview.png"
     },
     {
       "id": "printful-351334169",
-      "name_es": "Taza Aztec Diamond · Blanco",
-      "name_en": "Aztec Diamond Mug · White",
+      "name_es": "Taza de Viaje Aztec Diamond",
+      "name_en": "Aztec Diamond Travel Mug",
       "price_usd": 39.99,
       "badge": "new",
       "categories": [
@@ -7999,6 +8008,7 @@
       "fam": "aztec-diamond-oz",
       "cg": "printful-351334169",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/bd4/bd4e0cf064277c4b024b558b15e4645e_preview.png"
     },
     {
@@ -8203,8 +8213,8 @@
     },
     {
       "id": "printful-355736667",
-      "name_es": "Camisa Camisa Daz Manga · Blanco",
-      "name_en": "Camisa Daz Manga Shirt · White",
+      "name_es": "Camisa DAZ Luxury de Manga Corta",
+      "name_en": "DAZ Luxury Short Sleeve Shirt",
       "price_usd": 64.99,
       "badge": "new",
       "categories": [
@@ -8218,6 +8228,7 @@
       "fam": "camisa-luxury-manga",
       "cg": "printful-355736667",
       "color": "White",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/f4c/f4cd4380560a4308fc33f12ef3475f8a_preview.png"
     },
     {
@@ -8402,8 +8413,8 @@
     },
     {
       "id": "printful-359396971-black",
-      "name_es": "Camiseta Gruesa Daz Teñida · Negro",
-      "name_en": "Gruesa Daz Teñida Tee · Black",
+      "name_es": "Camiseta de manga larga pesada · Negro",
+      "name_en": "Heavyweight long sleeve shirt · Black",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8417,12 +8428,13 @@
       "fam": "camiseta-gruesa-tenida",
       "cg": "printful-359396971",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/328/328593ce3fb7f4896a3be9fcc165703c_preview.png"
     },
     {
       "id": "printful-359396971-blue-jean",
-      "name_es": "Camiseta Gruesa Daz Teñida · Blue Jean",
-      "name_en": "Gruesa Daz Teñida Tee · Blue Jean",
+      "name_es": "Camiseta de manga larga pesada · Blue Jean",
+      "name_en": "Heavyweight long sleeve shirt · Blue Jean",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8436,12 +8448,13 @@
       "fam": "camiseta-gruesa-tenida",
       "cg": "printful-359396971",
       "color": "Blue Jean",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/2af/2af1fe4bd4d5f0bc6551359481f7a501_preview.png"
     },
     {
       "id": "printful-359396971-grey",
-      "name_es": "Camiseta Gruesa Daz Teñida · Gris",
-      "name_en": "Gruesa Daz Teñida Tee · Grey",
+      "name_es": "Camiseta de manga larga pesada · Gris",
+      "name_en": "Heavyweight long sleeve shirt · Grey",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8455,12 +8468,13 @@
       "fam": "camiseta-gruesa-tenida",
       "cg": "printful-359396971",
       "color": "Grey",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/bf5/bf5656f794b052f14b6a7869ad4b11aa_preview.png"
     },
     {
       "id": "printful-359396971-light-green",
-      "name_es": "Camiseta Gruesa Daz Teñida · Light Green",
-      "name_en": "Gruesa Daz Teñida Tee · Light Green",
+      "name_es": "Camiseta de manga larga pesada · Light Green",
+      "name_en": "Heavyweight long sleeve shirt · Light Green",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8474,12 +8488,13 @@
       "fam": "camiseta-gruesa-tenida",
       "cg": "printful-359396971",
       "color": "Light Green",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/e93/e93ca63aad4c56bf3d457ebd4d9e80b0_preview.png"
     },
     {
       "id": "printful-359396971-navy",
-      "name_es": "Camiseta Gruesa Daz Teñida · Azul Marino",
-      "name_en": "Gruesa Daz Teñida Tee · Navy",
+      "name_es": "Camiseta de manga larga pesada · Azul Marino",
+      "name_en": "Heavyweight long sleeve shirt · Navy",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8493,12 +8508,13 @@
       "fam": "camiseta-gruesa-tenida",
       "cg": "printful-359396971",
       "color": "Navy",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/967/967cbcab68f02385afec9fecc785d5bd_preview.png"
     },
     {
       "id": "printful-359396971-violet",
-      "name_es": "Camiseta Gruesa Daz Teñida · Violet",
-      "name_en": "Gruesa Daz Teñida Tee · Violet",
+      "name_es": "Camiseta de manga larga pesada · Violet",
+      "name_en": "Heavyweight long sleeve shirt · Violet",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8512,12 +8528,13 @@
       "fam": "camiseta-gruesa-tenida",
       "cg": "printful-359396971",
       "color": "Violet",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/0f7/0f7e7d0761945a88f2aa4c0b70ca5a7c_preview.png"
     },
     {
       "id": "printful-359396971-white",
-      "name_es": "Camiseta Gruesa Daz Teñida · Blanco",
-      "name_en": "Gruesa Daz Teñida Tee · White",
+      "name_es": "Camiseta de manga larga pesada · Blanco",
+      "name_en": "Heavyweight long sleeve shirt · White",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8531,12 +8548,13 @@
       "fam": "camiseta-gruesa-tenida",
       "cg": "printful-359396971",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/fe3/fe356d2856c935186f97c388d6f4a9ea_preview.png"
     },
     {
       "id": "printful-359397315-black",
-      "name_es": "Camiseta Gruesa Daz Teñida · Negro",
-      "name_en": "Gruesa Daz Teñida Tee · Black",
+      "name_es": "Camiseta de manga larga gruesa · Negro",
+      "name_en": "Heavyweight long sleeve shirt · Black",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8550,12 +8568,13 @@
       "fam": "camiseta-gruesa-luxury",
       "cg": "printful-359397315",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/a94/a94a1e181aa9f8ad933df3e2c671767c_preview.png"
     },
     {
       "id": "printful-359397315-blue-jean",
-      "name_es": "Camiseta Gruesa Daz Teñida · Blue Jean",
-      "name_en": "Gruesa Daz Teñida Tee · Blue Jean",
+      "name_es": "Camiseta de manga larga gruesa · Blue Jean",
+      "name_en": "Heavyweight long sleeve shirt · Blue Jean",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8569,12 +8588,13 @@
       "fam": "camiseta-gruesa-luxury",
       "cg": "printful-359397315",
       "color": "Blue Jean",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/bbb/bbb559dd139dd278599f5bfb1e183488_preview.png"
     },
     {
       "id": "printful-359397315-grey",
-      "name_es": "Camiseta Gruesa Daz Teñida · Gris",
-      "name_en": "Gruesa Daz Teñida Tee · Grey",
+      "name_es": "Camiseta de manga larga gruesa · Gris",
+      "name_en": "Heavyweight long sleeve shirt · Grey",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8588,12 +8608,13 @@
       "fam": "camiseta-gruesa-luxury",
       "cg": "printful-359397315",
       "color": "Grey",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/6cb/6cbdd5de3b9f9449389d3cc656c256a1_preview.png"
     },
     {
       "id": "printful-359397315-light-green",
-      "name_es": "Camiseta Gruesa Daz Teñida · Light Green",
-      "name_en": "Gruesa Daz Teñida Tee · Light Green",
+      "name_es": "Camiseta de manga larga gruesa · Light Green",
+      "name_en": "Heavyweight long sleeve shirt · Light Green",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8607,12 +8628,13 @@
       "fam": "camiseta-gruesa-luxury",
       "cg": "printful-359397315",
       "color": "Light Green",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/874/8741ed3e471e66217787fa00868a4d52_preview.png"
     },
     {
       "id": "printful-359397315-navy",
-      "name_es": "Camiseta Gruesa Daz Teñida · Azul Marino",
-      "name_en": "Gruesa Daz Teñida Tee · Navy",
+      "name_es": "Camiseta de manga larga gruesa · Azul Marino",
+      "name_en": "Heavyweight long sleeve shirt · Navy",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8626,12 +8648,13 @@
       "fam": "camiseta-gruesa-luxury",
       "cg": "printful-359397315",
       "color": "Navy",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/f29/f290815ae207f33b6f169573e5a61d34_preview.png"
     },
     {
       "id": "printful-359397315-violet",
-      "name_es": "Camiseta Gruesa Daz Teñida · Violet",
-      "name_en": "Gruesa Daz Teñida Tee · Violet",
+      "name_es": "Camiseta de manga larga gruesa · Violet",
+      "name_en": "Heavyweight long sleeve shirt · Violet",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8645,12 +8668,13 @@
       "fam": "camiseta-gruesa-luxury",
       "cg": "printful-359397315",
       "color": "Violet",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/8c3/8c330787611688e95233ea55bf1267d5_preview.png"
     },
     {
       "id": "printful-359397315-white",
-      "name_es": "Camiseta Gruesa Daz Teñida · Blanco",
-      "name_en": "Gruesa Daz Teñida Tee · White",
+      "name_es": "Camiseta de manga larga gruesa · Blanco",
+      "name_en": "Heavyweight long sleeve shirt · White",
       "price_usd": 41.99,
       "badge": "new",
       "categories": [
@@ -8664,6 +8688,7 @@
       "fam": "camiseta-gruesa-luxury",
       "cg": "printful-359397315",
       "color": "White",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/728/72816c52bcb21b1f0af0ca75d2541eb0_preview.png"
     },
     {
@@ -8729,8 +8754,8 @@
     },
     {
       "id": "printful-382723198-anthracite",
-      "name_es": "Camiseta Daz Gruesa Orgánica · Anthracite",
-      "name_en": "Daz Gruesa Orgánica Tee · Anthracite",
+      "name_es": "Camiseta Orgánica DAZ Anthracite · Anthracite",
+      "name_en": "DAZ Anthracite Organic T-Shirt · Anthracite",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -8744,12 +8769,13 @@
       "fam": "camiseta-luxury-gruesa",
       "cg": "printful-382723198",
       "color": "Anthracite",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/a85/a85aa32596572c48f0a2646b2a4fed96_preview.png"
     },
     {
       "id": "printful-382723198-french-navy",
-      "name_es": "Camiseta Daz Gruesa Orgánica · French Navy",
-      "name_en": "Daz Gruesa Orgánica Tee · French Navy",
+      "name_es": "Camiseta Orgánica DAZ Anthracite · French Navy",
+      "name_en": "DAZ Anthracite Organic T-Shirt · French Navy",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -8763,12 +8789,13 @@
       "fam": "camiseta-luxury-gruesa",
       "cg": "printful-382723198",
       "color": "French Navy",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/fea/feab91b3133108504d1a28fb4a5c55b6_preview.png"
     },
     {
       "id": "printful-382723198-white",
-      "name_es": "Camiseta Daz Gruesa Orgánica · Blanco",
-      "name_en": "Daz Gruesa Orgánica Tee · White",
+      "name_es": "Camiseta Orgánica DAZ Anthracite · Blanco",
+      "name_en": "DAZ Anthracite Organic T-Shirt · White",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -8782,6 +8809,7 @@
       "fam": "camiseta-luxury-gruesa",
       "cg": "printful-382723198",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/f76/f76660355b765970beb84e08fe574432_preview.png"
     },
     {
@@ -8904,8 +8932,8 @@
     },
     {
       "id": "printful-337543998",
-      "name_es": "Vestido Soleil Aria Skater · Blanco",
-      "name_en": "Soleil Aria Skater Dress · White",
+      "name_es": "Vestido Aria Soleil d'Or",
+      "name_en": "Soleil d'Or Aria Dress",
       "price_usd": 60.99,
       "badge": "new",
       "categories": [
@@ -8919,12 +8947,13 @@
       "fam": "soleil-d-or",
       "cg": "printful-337543998",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/972/972ac5ac104b53dca35a0d2012f5fa6e_preview.png"
     },
     {
       "id": "printful-338163690",
-      "name_es": "Vestido Polka Aura Skater · Blanco",
-      "name_en": "Polka Aura Skater Dress · White",
+      "name_es": "Vestido Skater Polka Aura",
+      "name_en": "Polka Aura Skater Dress",
       "price_usd": 60.99,
       "badge": "new",
       "categories": [
@@ -8938,6 +8967,7 @@
       "fam": "polka-aura-luxury",
       "cg": "printful-338163690",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/390/3902aa593e33b259813c1a5cb92df5ea_preview.png"
     },
     {
@@ -9202,8 +9232,8 @@
     },
     {
       "id": "printful-345763591",
-      "name_es": "Sudadera Eco Glide Joggers · Blanco",
-      "name_en": "Eco Glide Joggers Sweatshirt · White",
+      "name_es": "Pantalón Jogger Eco-Glide",
+      "name_en": "Eco-Glide Luxury Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9217,12 +9247,13 @@
       "fam": "eco-glide-luxury",
       "cg": "printful-345763591",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/f95/f95f03cff8a20c5b13fc2819121458f8_preview.png"
     },
     {
       "id": "printful-348012249",
-      "name_es": "Taza Gloss · Negro",
-      "name_en": "Gloss Mug · Black",
+      "name_es": "Taza Obsidian Gloss",
+      "name_en": "Obsidian Gloss Mug",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -9236,12 +9267,13 @@
       "fam": "obsidian-gloss-luxury",
       "cg": "printful-348012249",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/dcf/dcfef60ed8f70733331587c8b8006fe1_preview.png"
     },
     {
       "id": "printful-350460816",
-      "name_es": "Taza Art Noir Soul · Negro",
-      "name_en": "Art Noir Soul Mug · Black",
+      "name_es": "Taza Noir Soul Manifest",
+      "name_en": "Noir Soul Manifest Mug",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -9255,12 +9287,13 @@
       "fam": "art-noir-soul",
       "cg": "printful-350460816",
       "color": "Black",
+      "art_score": 7,
       "img": "https://files.cdn.printful.com/files/390/3906a495346187bca08cb3c3dda8c0f4_preview.png"
     },
     {
       "id": "printful-351492660-black",
-      "name_es": "Polo Under Armour Colaboración · Negro",
-      "name_en": "Under Armour Colaboración Polo · Black",
+      "name_es": "Polo Clásico Negro · Negro",
+      "name_en": "Classic Black Polo · Black",
       "price_usd": 81.99,
       "badge": "new",
       "categories": [
@@ -9274,12 +9307,13 @@
       "fam": "x-under-armour",
       "cg": "printful-351492660",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/d01/d01a8489f4e2f55483d3d889d0698eff_preview.png"
     },
     {
       "id": "printful-351492660-white",
-      "name_es": "Polo Under Armour Colaboración · Blanco",
-      "name_en": "Under Armour Colaboración Polo · White",
+      "name_es": "Polo Clásico Negro · Blanco",
+      "name_en": "Classic Black Polo · White",
       "price_usd": 81.99,
       "badge": "new",
       "categories": [
@@ -9293,12 +9327,13 @@
       "fam": "x-under-armour",
       "cg": "printful-351492660",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/be6/be6e11bbb4533c1904becb1fc3719dac_preview.png"
     },
     {
       "id": "printful-351512008",
-      "name_es": "Vestido Amber Geometry Silhouette · Blanco",
-      "name_en": "Amber Geometry Silhouette Dress · White",
+      "name_es": "Vestido Amber Geometry",
+      "name_en": "Amber Geometry Dress",
       "price_usd": 60.99,
       "badge": "new",
       "categories": [
@@ -9312,6 +9347,7 @@
       "fam": "amber-geometry-silhouette",
       "cg": "printful-351512008",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/57c/57c35f37072f73f7702b96a6e230eecb_preview.png"
     },
     {
@@ -9337,8 +9373,8 @@
     },
     {
       "id": "printful-358054481",
-      "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
-      "name_en": "Pantalones Chándal Daz Sweatshirt · White",
+      "name_es": "Pantalones de chándal estampados",
+      "name_en": "Printed joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9352,12 +9388,13 @@
       "fam": "pantalones-chandal-hombre",
       "cg": "printful-358054481",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/c32/c320183b96ee12defe60514ca061d596_preview.png"
     },
     {
       "id": "printful-358054769",
-      "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
-      "name_en": "Pantalones Chándal Daz Sweatshirt · White",
+      "name_es": "Pantalón Jogger All-Over Print DAZ",
+      "name_en": "DAZ All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9371,12 +9408,13 @@
       "fam": "pantalones-chandal-hombre",
       "cg": "printful-358054769",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/811/811e610623d1b3f4a2b0d42ccd17cc4a_preview.png"
     },
     {
       "id": "printful-358054864",
-      "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
-      "name_en": "Pantalones Chándal Daz Sweatshirt · White",
+      "name_es": "Pantalón de chándal estampado DAZ",
+      "name_en": "DAZ All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9390,12 +9428,13 @@
       "fam": "pantalones-chandal-hombre",
       "cg": "printful-358054864",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/28c/28c46b0300a449c9c16b26081dbfe834_preview.png"
     },
     {
       "id": "printful-358055021",
-      "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
-      "name_en": "Pantalones Chándal Daz Sweatshirt · White",
+      "name_es": "Pantalón de chándal All-Over Print",
+      "name_en": "All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9409,12 +9448,13 @@
       "fam": "pantalones-chandal-hombre",
       "cg": "printful-358055021",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/f31/f3176555c6432d4b52aee7446a8ceb67_preview.png"
     },
     {
       "id": "printful-358055382",
-      "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
-      "name_en": "Pantalones Chándal Daz Sweatshirt · White",
+      "name_es": "Pantalón de chándal All-Over Print",
+      "name_en": "All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9428,12 +9468,13 @@
       "fam": "pantalones-chandal-hombre",
       "cg": "printful-358055382",
       "color": "White",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/e3b/e3b8f8da97b79faca84f3f6e4f28630a_preview.png"
     },
     {
       "id": "printful-358056492",
-      "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
-      "name_en": "Pantalones Chándal Daz Sweatshirt · White",
+      "name_es": "Pantalones de chándal DAZ All-Over",
+      "name_en": "DAZ All-Over Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9447,12 +9488,13 @@
       "fam": "pantalones-chandal-hombre",
       "cg": "printful-358056492",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/9f3/9f3c1477d3f071359631c1be1d8575c3_preview.png"
     },
     {
       "id": "printful-358056692",
-      "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
-      "name_en": "Pantalones Chándal Daz Sweatshirt · White",
+      "name_es": "Pantalones Jogger All-Over Print DAZ",
+      "name_en": "DAZ All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9466,12 +9508,13 @@
       "fam": "pantalones-chandal-hombre",
       "cg": "printful-358056692",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/afe/afe79f5d34632b8130faec04052b73f1_preview.png"
     },
     {
       "id": "printful-358056799",
-      "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
-      "name_en": "Pantalones Chándal Daz Sweatshirt · White",
+      "name_es": "Pantalón de chándal estampado DAZ",
+      "name_en": "DAZ All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9485,12 +9528,13 @@
       "fam": "pantalones-chandal-hombre",
       "cg": "printful-358056799",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/933/93335a9c2f126366613a2a60c16bac61_preview.png"
     },
     {
       "id": "printful-358058041",
-      "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
-      "name_en": "Pantalones Chándal Daz Sweatshirt · White",
+      "name_es": "Pantalón Jogger All-Over DAZ",
+      "name_en": "DAZ All-Over Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9504,12 +9548,13 @@
       "fam": "pantalones-chandal-hombre",
       "cg": "printful-358058041",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/5d8/5d866c4a67d786fc840414b7d6422872_preview.png"
     },
     {
       "id": "printful-358792886",
-      "name_es": "Sudadera Pantalón Daz Chándal · Blanco",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · White",
+      "name_es": "Pantalón de Chándal DAZ Estampado",
+      "name_en": "DAZ All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9523,12 +9568,13 @@
       "fam": "pantalon-chandal-mujer",
       "cg": "printful-358792886",
       "color": "White",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/b55/b55c6ed8067907beb203e4f628b376e0_preview.png"
     },
     {
       "id": "printful-358793153",
-      "name_es": "Sudadera Pantalón Daz Chándal · Blanco",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · White",
+      "name_es": "Pantalón de Chándal All-Over Print",
+      "name_en": "All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9542,12 +9588,13 @@
       "fam": "pantalon-chandal-mujer",
       "cg": "printful-358793153",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/d8a/d8ad38fb1efd718ae448e75553ea0ba9_preview.png"
     },
     {
       "id": "printful-358793215",
-      "name_es": "Sudadera Pantalón Daz Chándal · Blanco",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · White",
+      "name_es": "Pantalón de chándal All-Over Print",
+      "name_en": "All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9561,12 +9608,13 @@
       "fam": "pantalon-chandal-mujer",
       "cg": "printful-358793215",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/484/484214810644216ab875fa5ec0a58cbc_preview.png"
     },
     {
       "id": "printful-358793289",
-      "name_es": "Sudadera Pantalón Daz Chándal · Blanco",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · White",
+      "name_es": "Pantalón de chándal All-Over DAZ",
+      "name_en": "DAZ All-Over Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9580,12 +9628,13 @@
       "fam": "pantalon-chandal-mujer",
       "cg": "printful-358793289",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/71d/71dae590674cdb81755cf59a268c1604_preview.png"
     },
     {
       "id": "printful-358793469",
-      "name_es": "Sudadera Pantalón Daz Chándal · Blanco",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · White",
+      "name_es": "Pantalón de chándal All-Over Print",
+      "name_en": "All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9599,12 +9648,13 @@
       "fam": "pantalon-chandal-mujer",
       "cg": "printful-358793469",
       "color": "White",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/e4b/e4b9d2fed561a7adb43b0c03060c2214_preview.png"
     },
     {
       "id": "printful-358793621",
-      "name_es": "Sudadera Pantalón Daz Art · Blanco",
-      "name_en": "Pantalón Daz Art Sweatshirt · White",
+      "name_es": "Pantalón de chándal Art de DAZ",
+      "name_en": "DAZ Art Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9618,12 +9668,13 @@
       "fam": "pantalon-art-chandal",
       "cg": "printful-358793621",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/64b/64bbc93c92cd76f1a0eb72caae277924_preview.png"
     },
     {
       "id": "printful-358793701",
-      "name_es": "Sudadera Pantalón Daz Chándal · Blanco",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · White",
+      "name_es": "Pantalón de chándal DAZ All-Over",
+      "name_en": "DAZ All-Over Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9637,12 +9688,13 @@
       "fam": "pantalon-chandal-mujer",
       "cg": "printful-358793701",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/ce6/ce6950e1bcee1904044ab4b698935fa6_preview.png"
     },
     {
       "id": "printful-358793792",
-      "name_es": "Sudadera Pantalón Daz Art · Blanco",
-      "name_en": "Pantalón Daz Art Sweatshirt · White",
+      "name_es": "Pantalón de chándal All-Over Print",
+      "name_en": "All-Over Print Joggers",
       "price_usd": 67.99,
       "badge": "new",
       "categories": [
@@ -9656,6 +9708,7 @@
       "fam": "pantalon-art-chandal",
       "cg": "printful-358793792",
       "color": "White",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/302/3024710c48d9cdf514d4fe8f4d354720_preview.png"
     },
     {
@@ -9807,8 +9860,8 @@
     },
     {
       "id": "printful-383435466",
-      "name_es": "Suéter Recto Punto Daz",
-      "name_en": "Recto Punto Daz Sweater",
+      "name_es": "Jersey de Punto Recto DAZ Luxury",
+      "name_en": "DAZ Luxury Straight Knitted Sweater",
       "price_usd": 81.99,
       "badge": "new",
       "categories": [
@@ -9822,6 +9875,7 @@
       "fam": "jersey-recto-punto",
       "cg": "printful-383435466",
       "color": "Custom",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/f38/f3859833e629593c3411eecbda867f6d_preview.png"
     },
     {
@@ -10141,8 +10195,8 @@
     },
     {
       "id": "printful-351736305",
-      "name_es": "Pantalón Cloud Tie Dye · Blanco",
-      "name_en": "Cloud Tie Dye Trousers · White",
+      "name_es": "Pantalón de Chándal Pink Cloud",
+      "name_en": "Pink Cloud Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10156,6 +10210,7 @@
       "fam": "cloud-tie-dye",
       "cg": "printful-351736305",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/5dd/5dde4ab2df8094cf3f4243a8688a680b_preview.png"
     },
     {
@@ -10403,8 +10458,8 @@
     },
     {
       "id": "printful-355272517",
-      "name_es": "Camiseta Infinity · Blanco",
-      "name_en": "Infinity Tee · White",
+      "name_es": "Camiseta Infinity Cuello Redondo",
+      "name_en": "Infinity Crew Neck T-Shirt",
       "price_usd": 42.99,
       "badge": "new",
       "categories": [
@@ -10418,12 +10473,13 @@
       "fam": "infinity-4d",
       "cg": "printful-355272517",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/1cf/1cfb3c2be96c6d1cafbabc84f0bfa6f3_preview.png"
     },
     {
       "id": "printful-355273549",
-      "name_es": "Camiseta Kinetic Way · Blanco",
-      "name_en": "Kinetic Way Tee · White",
+      "name_es": "Camiseta Kinetic con Estampado Completo",
+      "name_en": "Kinetic All-Over Print T-Shirt",
       "price_usd": 42.99,
       "badge": "new",
       "categories": [
@@ -10437,12 +10493,13 @@
       "fam": "kinetic-way",
       "cg": "printful-355273549",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/be1/be18467d26fa106e83231916809c76e9_preview.png"
     },
     {
       "id": "printful-355274608",
-      "name_es": "Camiseta Azure Flux · Blanco",
-      "name_en": "Azure Flux Tee · White",
+      "name_es": "Camiseta Azure Flux",
+      "name_en": "Azure Flux T-Shirt",
       "price_usd": 42.99,
       "badge": "new",
       "categories": [
@@ -10456,6 +10513,7 @@
       "fam": "azure-flux",
       "cg": "printful-355274608",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/5ec/5ec51439ba7ce39a40733ee56e3f6eb3_preview.png"
     },
     {
@@ -10586,8 +10644,8 @@
     },
     {
       "id": "printful-355649466",
-      "name_es": "Camiseta Kyoto Collage · Blanco",
-      "name_en": "Kyoto Collage Tee · White",
+      "name_es": "Camiseta Kyoto Collage",
+      "name_en": "Kyoto Collage T-Shirt",
       "price_usd": 42.99,
       "badge": "new",
       "categories": [
@@ -10601,12 +10659,13 @@
       "fam": "kyoto-collage",
       "cg": "printful-355649466",
       "color": "White",
+      "art_score": 2,
       "img": "https://files.cdn.printful.com/files/1c9/1c9440df119eb3ca3228f0ff98dec471_preview.png"
     },
     {
       "id": "printful-358048607-pigment-alpine-green",
-      "name_es": "Pantalón Pantalón Daz Deporte · Pigment Alpine Green",
-      "name_en": "Pantalón Daz Deporte Trousers · Pigment Alpine Green",
+      "name_es": "Pantalón de deporte teñido DAZ · Pigment Alpine Green",
+      "name_en": "DAZ Pigment Dyed Sweatpants · Pigment Alpine Green",
       "price_usd": 74.99,
       "badge": "new",
       "categories": [
@@ -10620,12 +10679,13 @@
       "fam": "pantalon-deporte-tenido",
       "cg": "printful-358048607",
       "color": "Pigment Alpine Green",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/815/8158103bd289875e986f4cdfecb14386_preview.png"
     },
     {
       "id": "printful-358048607-pigment-black",
-      "name_es": "Pantalón Pantalón Daz Deporte · Pigment Black",
-      "name_en": "Pantalón Daz Deporte Trousers · Pigment Black",
+      "name_es": "Pantalón de deporte teñido DAZ · Pigment Black",
+      "name_en": "DAZ Pigment Dyed Sweatpants · Pigment Black",
       "price_usd": 74.99,
       "badge": "new",
       "categories": [
@@ -10639,12 +10699,13 @@
       "fam": "pantalon-deporte-tenido",
       "cg": "printful-358048607",
       "color": "Pigment Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/5c5/5c551f644685d75740147eee154c03b3_preview.png"
     },
     {
       "id": "printful-358048607-pigment-light-blue",
-      "name_es": "Pantalón Pantalón Daz Deporte · Pigment Light Blue",
-      "name_en": "Pantalón Daz Deporte Trousers · Pigment Light Blue",
+      "name_es": "Pantalón de deporte teñido DAZ · Pigment Light Blue",
+      "name_en": "DAZ Pigment Dyed Sweatpants · Pigment Light Blue",
       "price_usd": 74.99,
       "badge": "new",
       "categories": [
@@ -10658,12 +10719,13 @@
       "fam": "pantalon-deporte-tenido",
       "cg": "printful-358048607",
       "color": "Pigment Light Blue",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/33f/33fae1181e52c140e240a0e4bdd5f604_preview.png"
     },
     {
       "id": "printful-358048607-pigment-maroon",
-      "name_es": "Pantalón Pantalón Daz Deporte · Pigment Maroon",
-      "name_en": "Pantalón Daz Deporte Trousers · Pigment Maroon",
+      "name_es": "Pantalón de deporte teñido DAZ · Pigment Maroon",
+      "name_en": "DAZ Pigment Dyed Sweatpants · Pigment Maroon",
       "price_usd": 74.99,
       "badge": "new",
       "categories": [
@@ -10677,12 +10739,13 @@
       "fam": "pantalon-deporte-tenido",
       "cg": "printful-358048607",
       "color": "Pigment Maroon",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/9f5/9f50b4adc49a186868b51dc40b01a301_preview.png"
     },
     {
       "id": "printful-358048607-pigment-pink",
-      "name_es": "Pantalón Pantalón Daz Deporte · Pigment Pink",
-      "name_en": "Pantalón Daz Deporte Trousers · Pigment Pink",
+      "name_es": "Pantalón de deporte teñido DAZ · Pigment Pink",
+      "name_en": "DAZ Pigment Dyed Sweatpants · Pigment Pink",
       "price_usd": 74.99,
       "badge": "new",
       "categories": [
@@ -10696,12 +10759,13 @@
       "fam": "pantalon-deporte-tenido",
       "cg": "printful-358048607",
       "color": "Pigment Pink",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/690/6901c35aa07eacb3477cd5ea0b638742_preview.png"
     },
     {
       "id": "printful-358048607-pigment-slate-blue",
-      "name_es": "Pantalón Pantalón Daz Deporte · Pigment Slate Blue",
-      "name_en": "Pantalón Daz Deporte Trousers · Pigment Slate Blue",
+      "name_es": "Pantalón de deporte teñido DAZ · Pigment Slate Blue",
+      "name_en": "DAZ Pigment Dyed Sweatpants · Pigment Slate Blue",
       "price_usd": 74.99,
       "badge": "new",
       "categories": [
@@ -10715,12 +10779,13 @@
       "fam": "pantalon-deporte-tenido",
       "cg": "printful-358048607",
       "color": "Pigment Slate Blue",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/4e5/4e57f7fb68a0b51cbde8a204e0909b03_preview.png"
     },
     {
       "id": "printful-358793005",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal estampado All-Over",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10734,12 +10799,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-358793005",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/cd2/cd296111ef77680eb51fd3ec4826be80_preview.png"
     },
     {
       "id": "printful-358796935",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal estampado All-Over",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10753,12 +10819,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-358796935",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/fbb/fbb60633b895c334efffb6dfe8fa71d6_preview.png"
     },
     {
       "id": "printful-358797146",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal estampado All-Over",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10772,12 +10839,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-358797146",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/07d/07dbcc859497a89632f3ad035a72696d_preview.png"
     },
     {
       "id": "printful-358797556",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal estampado All-Over",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10791,12 +10859,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-358797556",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/dad/dad63e31c232978dfe2532a58553c7e7_preview.png"
     },
     {
       "id": "printful-358797822",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal estampado All-Over",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10810,12 +10879,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-358797822",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/f6a/f6a4ff0ac51d3e47f6f74b30ea76f102_preview.png"
     },
     {
       "id": "printful-358798486",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal All-Over",
+      "name_en": "All-Over Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10829,12 +10899,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-358798486",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/f03/f038ea2ef8c8f4a421f28864e968fc78_preview.png"
     },
     {
       "id": "printful-359095524",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal estampado All-Over",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10848,12 +10919,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-359095524",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/0a0/0a0ce7cd1f984dc51091443e650d9070_preview.png"
     },
     {
       "id": "printful-359097373",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal DAZ",
+      "name_en": "DAZ Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10867,12 +10939,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-359097373",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/de9/de928b3d0dbec66371b070c751948bff_preview.png"
     },
     {
       "id": "printful-359097410",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal forrado DAZ",
+      "name_en": "DAZ Lined Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10886,12 +10959,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-359097410",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/5dd/5ddd3ca1c94a50f14ee8bcba33def0ed_preview.png"
     },
     {
       "id": "printful-359097459",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de Chándal All-Over Print",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10905,12 +10979,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-359097459",
       "color": "Black",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/73f/73f0b96adeccfaea32f0c740f4071522_preview.png"
     },
     {
       "id": "printful-359097537",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de Chándal All-Over Print",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10924,12 +10999,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-359097537",
       "color": "Black",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/4d3/4d3812df89d656259ba0f08e66383c05_preview.png"
     },
     {
       "id": "printful-359097614",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de Chándal con Forro All-Over",
+      "name_en": "All-Over Print Lined Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10943,12 +11019,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-359097614",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/959/9591c95fabcfcff53a5eb2924d4d83bc_preview.png"
     },
     {
       "id": "printful-359097921",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal All-Over Print",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10962,12 +11039,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-359097921",
       "color": "Black",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/976/976358f4c98f63bad592309fbdb86eed_preview.png"
     },
     {
       "id": "printful-359098026",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de Chándal All-Over Print",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -10981,12 +11059,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-359098026",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/9c6/9c6443b4fb2abb65aca19d0ca7166aa3_preview.png"
     },
     {
       "id": "printful-359098063",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal estampado",
+      "name_en": "All-over print track pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -11000,12 +11079,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-359098063",
       "color": "Black",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/350/350a62f80a21e7adbec2ec66a9ae5dee_preview.png"
     },
     {
       "id": "printful-359098124",
-      "name_es": "Sudadera Pantalón Daz Chándal · Negro",
-      "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
+      "name_es": "Pantalón de chándal estampado All-Over",
+      "name_en": "All-Over Print Track Pants",
       "price_usd": 55.99,
       "badge": "new",
       "categories": [
@@ -11019,12 +11099,13 @@
       "fam": "pantalon-chandal-forro",
       "cg": "printful-359098124",
       "color": "Black",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/90d/90de7ed9eb0d70e71b433df04339c58e_preview.png"
     },
     {
       "id": "printful-368904495-athletic-heather",
-      "name_es": "Camiseta Daz Tirantes Canalé · Athletic Heather",
-      "name_en": "Daz Tirantes Canalé Tee · Athletic Heather",
+      "name_es": "Camiseta de tirantes DAZ Luxury · Athletic Heather",
+      "name_en": "DAZ Luxury Ribbed Tank Top · Athletic Heather",
       "price_usd": 33.99,
       "badge": "new",
       "categories": [
@@ -11038,12 +11119,13 @@
       "fam": "camiseta-luxury-tirantes",
       "cg": "printful-368904495",
       "color": "Athletic Heather",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/819/819a73dbeb5ba4aaa8af545a628df77c_preview.png"
     },
     {
       "id": "printful-368904495-solid-baby-blue-blend",
-      "name_es": "Camiseta Daz Tirantes Canalé · Solid Baby Blue Blend",
-      "name_en": "Daz Tirantes Canalé Tee · Solid Baby Blue Blend",
+      "name_es": "Camiseta de tirantes DAZ Luxury · Solid Baby Blue Blend",
+      "name_en": "DAZ Luxury Ribbed Tank Top · Solid Baby Blue Blend",
       "price_usd": 33.99,
       "badge": "new",
       "categories": [
@@ -11057,12 +11139,13 @@
       "fam": "camiseta-luxury-tirantes",
       "cg": "printful-368904495",
       "color": "Solid Baby Blue Blend",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/7ae/7aea48261896006389176a9086e3565a_preview.png"
     },
     {
       "id": "printful-368904495-solid-black-blend",
-      "name_es": "Camiseta Daz Tirantes Canalé · Solid Black Blend",
-      "name_en": "Daz Tirantes Canalé Tee · Solid Black Blend",
+      "name_es": "Camiseta de tirantes DAZ Luxury · Solid Black Blend",
+      "name_en": "DAZ Luxury Ribbed Tank Top · Solid Black Blend",
       "price_usd": 33.99,
       "badge": "new",
       "categories": [
@@ -11076,12 +11159,13 @@
       "fam": "camiseta-luxury-tirantes",
       "cg": "printful-368904495",
       "color": "Solid Black Blend",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/e99/e99bac9c051614b92d08340f587bac75_preview.png"
     },
     {
       "id": "printful-368904495-solid-navy-blend",
-      "name_es": "Camiseta Daz Tirantes Canalé · Solid Navy Blend",
-      "name_en": "Daz Tirantes Canalé Tee · Solid Navy Blend",
+      "name_es": "Camiseta de tirantes DAZ Luxury · Solid Navy Blend",
+      "name_en": "DAZ Luxury Ribbed Tank Top · Solid Navy Blend",
       "price_usd": 33.99,
       "badge": "new",
       "categories": [
@@ -11095,12 +11179,13 @@
       "fam": "camiseta-luxury-tirantes",
       "cg": "printful-368904495",
       "color": "Solid Navy Blend",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/0e4/0e40f806859e46fabe48ea7398de6f5d_preview.png"
     },
     {
       "id": "printful-368904495-solid-pink-blend",
-      "name_es": "Camiseta Daz Tirantes Canalé · Solid Pink Blend",
-      "name_en": "Daz Tirantes Canalé Tee · Solid Pink Blend",
+      "name_es": "Camiseta de tirantes DAZ Luxury · Solid Pink Blend",
+      "name_en": "DAZ Luxury Ribbed Tank Top · Solid Pink Blend",
       "price_usd": 33.99,
       "badge": "new",
       "categories": [
@@ -11114,12 +11199,13 @@
       "fam": "camiseta-luxury-tirantes",
       "cg": "printful-368904495",
       "color": "Solid Pink Blend",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/6a7/6a7c944d93ad37fb4829a5b1ebd9b9bf_preview.png"
     },
     {
       "id": "printful-368904495-solid-white-blend",
-      "name_es": "Camiseta Daz Tirantes Canalé · Solid White Blend",
-      "name_en": "Daz Tirantes Canalé Tee · Solid White Blend",
+      "name_es": "Camiseta de tirantes DAZ Luxury · Solid White Blend",
+      "name_en": "DAZ Luxury Ribbed Tank Top · Solid White Blend",
       "price_usd": 33.99,
       "badge": "new",
       "categories": [
@@ -11133,12 +11219,13 @@
       "fam": "camiseta-luxury-tirantes",
       "cg": "printful-368904495",
       "color": "Solid White Blend",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/493/493b5d235f26af617160adfd8421b4c2_preview.png"
     },
     {
       "id": "printful-375122880",
-      "name_es": "Vestido Daz · Blanco",
-      "name_en": "Daz Dress · White",
+      "name_es": "Vestido Camiseta All-Over Print",
+      "name_en": "All-Over Print T-Shirt Dress",
       "price_usd": 61.99,
       "badge": "new",
       "categories": [
@@ -11152,6 +11239,7 @@
       "fam": "vestido-camiseta",
       "cg": "printful-375122880",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/66d/66dc82512743130eab886c563db2a616_preview.png"
     },
     {
@@ -11303,8 +11391,8 @@
     },
     {
       "id": "printful-383479826",
-      "name_es": "Camiseta Daz · Blanco",
-      "name_en": "Daz Tee · White",
+      "name_es": "Camiseta All-Over DAZ Luxury",
+      "name_en": "DAZ Luxury All-Over T-Shirt",
       "price_usd": 42.99,
       "badge": "new",
       "categories": [
@@ -11318,12 +11406,13 @@
       "fam": "camiseta-luxury",
       "cg": "printful-383479826",
       "color": "White",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/303/303876635d56606998b7584cf2b4a7e6_preview.png"
     },
     {
       "id": "printful-383480040",
-      "name_es": "Camiseta Daz · Blanco",
-      "name_en": "Daz Tee · White",
+      "name_es": "Camiseta Estampada All-Over DAZ",
+      "name_en": "DAZ All-Over Print T-Shirt",
       "price_usd": 42.99,
       "badge": "new",
       "categories": [
@@ -11337,12 +11426,13 @@
       "fam": "camiseta-luxury",
       "cg": "printful-383480040",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/a7c/a7ccf49ebaa533827e32e76fc743c6aa_preview.png"
     },
     {
       "id": "printful-384453697",
-      "name_es": "Bañador Daz · Blanco",
-      "name_en": "Daz Swimwear · White",
+      "name_es": "Bikini Bandeau Reciclado",
+      "name_en": "Recycled Bandeau Bikini",
       "price_usd": 63.99,
       "badge": "new",
       "categories": [
@@ -11356,12 +11446,13 @@
       "fam": "bikini-luxury",
       "cg": "printful-384453697",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/e96/e96d695d167a022538c4981d9196ccae_preview.png"
     },
     {
       "id": "printful-384503653",
-      "name_es": "Bañador Daz · Blanco",
-      "name_en": "Daz Swimwear · White",
+      "name_es": "Bikini Bandeau Reciclado",
+      "name_en": "Recycled Bandeau Bikini",
       "price_usd": 63.99,
       "badge": "new",
       "categories": [
@@ -11375,12 +11466,13 @@
       "fam": "bikini-luxury",
       "cg": "printful-384503653",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/dc3/dc3077eb3062273a0c00dec3e923e817_preview.png"
     },
     {
       "id": "printful-384504359",
-      "name_es": "Bañador Daz · Blanco",
-      "name_en": "Daz Swimwear · White",
+      "name_es": "Bikini Bandeau Reciclado",
+      "name_en": "Recycled Bandeau Bikini",
       "price_usd": 63.99,
       "badge": "new",
       "categories": [
@@ -11394,12 +11486,13 @@
       "fam": "bikini-luxury",
       "cg": "printful-384504359",
       "color": "White",
+      "art_score": 8,
       "img": "https://files.cdn.printful.com/files/4df/4dfbca052561ba752dd758dc45ec1cfe_preview.png"
     },
     {
       "id": "printful-384506401",
-      "name_es": "Bañador Daz · Blanco",
-      "name_en": "Daz Swimwear · White",
+      "name_es": "Bikini Bandeau Reciclado DAZ",
+      "name_en": "DAZ Recycled Bandeau Bikini",
       "price_usd": 63.99,
       "badge": "new",
       "categories": [
@@ -11413,6 +11506,7 @@
       "fam": "bikini-luxury",
       "cg": "printful-384506401",
       "color": "White",
+      "art_score": 8,
       "img": "https://files.cdn.printful.com/files/c14/c14c90fea8fe54320e362d0908a631e6_preview.png"
     },
     {
@@ -11455,8 +11549,8 @@
     },
     {
       "id": "printful-346241204-black",
-      "name_es": "Sandalias América Slides · Negro",
-      "name_en": "América Slides Sandals · Black",
+      "name_es": "Sandalias América · Negro",
+      "name_en": "América Slides · Black",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11470,12 +11564,13 @@
       "fam": "america-luxury-slides",
       "cg": "printful-346241204",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/ac7/ac74aa5b71b8b9e77ceaaee17148a5d4_preview.png"
     },
     {
       "id": "printful-346241204-white",
-      "name_es": "Sandalias América Slides · Blanco",
-      "name_en": "América Slides Sandals · White",
+      "name_es": "Sandalias América · Blanco",
+      "name_en": "América Slides · White",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11489,12 +11584,13 @@
       "fam": "america-luxury-slides",
       "cg": "printful-346241204",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/25d/25d973f49daf014d5ff0c0a983843b54_preview.png"
     },
     {
       "id": "printful-346241861-black",
-      "name_es": "Sandalias América Core Slides · Negro",
-      "name_en": "América Core Slides Sandals · Black",
+      "name_es": "Sandalias América · Negro",
+      "name_en": "América Slides · Black",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11508,12 +11604,13 @@
       "fam": "america-core-slides",
       "cg": "printful-346241861",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/f66/f6600c12f229ff5fe8cad271220fb186_preview.png"
     },
     {
       "id": "printful-346241861-white",
-      "name_es": "Sandalias América Core Slides · Blanco",
-      "name_en": "América Core Slides Sandals · White",
+      "name_es": "Sandalias América · Blanco",
+      "name_en": "América Slides · White",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11527,12 +11624,13 @@
       "fam": "america-core-slides",
       "cg": "printful-346241861",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/2c3/2c31faa9ab4bd581a642987b53dad76e_preview.png"
     },
     {
       "id": "printful-346242058-black",
-      "name_es": "Sandalias América Slides · Negro",
-      "name_en": "América Slides Sandals · Black",
+      "name_es": "Sandalias América Black · Negro",
+      "name_en": "América Black Slides · Black",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11546,12 +11644,13 @@
       "fam": "america-luxury-slides",
       "cg": "printful-346242058",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/047/047c3f493e41d2b194d44070d0a23f38_preview.png"
     },
     {
       "id": "printful-346242058-white",
-      "name_es": "Sandalias América Slides · Blanco",
-      "name_en": "América Slides Sandals · White",
+      "name_es": "Sandalias América Black · Blanco",
+      "name_en": "América Black Slides · White",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11565,12 +11664,13 @@
       "fam": "america-luxury-slides",
       "cg": "printful-346242058",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/437/437692c20141ff9439e6d297d2699ac1_preview.png"
     },
     {
       "id": "printful-353391864-black",
-      "name_es": "Sandalias Sandalias Daz · Negro",
-      "name_en": "Sandalias Daz Sandals · Black",
+      "name_es": "Sandalias DAZ para Hombre · Negro",
+      "name_en": "DAZ Men's Slides · Black",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11584,12 +11684,13 @@
       "fam": "sandalias-hombre",
       "cg": "printful-353391864",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/85a/85a6983b28b13959454c921265eb0caf_preview.png"
     },
     {
       "id": "printful-353391864-white",
-      "name_es": "Sandalias Sandalias Daz · Blanco",
-      "name_en": "Sandalias Daz Sandals · White",
+      "name_es": "Sandalias DAZ para Hombre · Blanco",
+      "name_en": "DAZ Men's Slides · White",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11603,12 +11704,13 @@
       "fam": "sandalias-hombre",
       "cg": "printful-353391864",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/9dd/9dd0b13637f2ce3997ab5a3089c63f6b_preview.png"
     },
     {
       "id": "printful-353392098-black",
-      "name_es": "Sandalias Sandalias Daz · Negro",
-      "name_en": "Sandalias Daz Sandals · Black",
+      "name_es": "Sandalias DAZ para hombre · Negro",
+      "name_en": "DAZ Men's Slides · Black",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11622,12 +11724,13 @@
       "fam": "sandalias-hombre",
       "cg": "printful-353392098",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/6fb/6fbb4e21a3002372eb5d866977c5a997_preview.png"
     },
     {
       "id": "printful-353392098-white",
-      "name_es": "Sandalias Sandalias Daz · Blanco",
-      "name_en": "Sandalias Daz Sandals · White",
+      "name_es": "Sandalias DAZ para hombre · Blanco",
+      "name_en": "DAZ Men's Slides · White",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11641,12 +11744,13 @@
       "fam": "sandalias-hombre",
       "cg": "printful-353392098",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/9ed/9edbb932b2174184bf7db590d31944ab_preview.png"
     },
     {
       "id": "printful-353392150-black",
-      "name_es": "Sandalias Sandalias Daz · Negro",
-      "name_en": "Sandalias Daz Sandals · Black",
+      "name_es": "Sandalias DAZ para Hombre · Negro",
+      "name_en": "DAZ Men's Slides · Black",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11660,12 +11764,13 @@
       "fam": "sandalias-hombre",
       "cg": "printful-353392150",
       "color": "Black",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/c06/c06686faca8f9bd4a17baf74fc4d7b38_preview.png"
     },
     {
       "id": "printful-353392150-white",
-      "name_es": "Sandalias Sandalias Daz · Blanco",
-      "name_en": "Sandalias Daz Sandals · White",
+      "name_es": "Sandalias DAZ para Hombre · Blanco",
+      "name_en": "DAZ Men's Slides · White",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11679,12 +11784,13 @@
       "fam": "sandalias-hombre",
       "cg": "printful-353392150",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/4d7/4d7187aff03caeec366d8550c61ef646_preview.png"
     },
     {
       "id": "printful-353392940-black",
-      "name_es": "Sandalias Sandalias Daz · Negro",
-      "name_en": "Sandalias Daz Sandals · Black",
+      "name_es": "Sandalias DAZ para Hombre · Negro",
+      "name_en": "DAZ Men's Slides · Black",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11698,12 +11804,13 @@
       "fam": "sandalias-hombre",
       "cg": "printful-353392940",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/4a4/4a497127e7361ed3a602481522fc36d7_preview.png"
     },
     {
       "id": "printful-353392940-white",
-      "name_es": "Sandalias Sandalias Daz · Blanco",
-      "name_en": "Sandalias Daz Sandals · White",
+      "name_es": "Sandalias DAZ para Hombre · Blanco",
+      "name_en": "DAZ Men's Slides · White",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11717,12 +11824,13 @@
       "fam": "sandalias-hombre",
       "cg": "printful-353392940",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/c4e/c4e2ab8f6ffde7defb4966dd95a8943c_preview.png"
     },
     {
       "id": "printful-353393118-black",
-      "name_es": "Sandalias Sandalias Daz · Negro",
-      "name_en": "Sandalias Daz Sandals · Black",
+      "name_es": "Sandalias DAZ de hombre · Negro",
+      "name_en": "DAZ Men's Slides · Black",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11736,12 +11844,13 @@
       "fam": "sandalias-hombre",
       "cg": "printful-353393118",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/f28/f28fa678af2f241203f7c83784f684d7_preview.png"
     },
     {
       "id": "printful-353393118-white",
-      "name_es": "Sandalias Sandalias Daz · Blanco",
-      "name_en": "Sandalias Daz Sandals · White",
+      "name_es": "Sandalias DAZ de hombre · Blanco",
+      "name_en": "DAZ Men's Slides · White",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11755,12 +11864,13 @@
       "fam": "sandalias-hombre",
       "cg": "printful-353393118",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/6ae/6aec43854e21120f2d38e5770c051c80_preview.png"
     },
     {
       "id": "printful-353393584",
-      "name_es": "Sandalias Sandalias Serenity · Negro",
-      "name_en": "Sandalias Serenity Sandals · Black",
+      "name_es": "Sandalias Serenity",
+      "name_en": "Serenity Slides",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11774,12 +11884,13 @@
       "fam": "sandalias-serenity",
       "cg": "printful-353393584",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/274/274991615acc0796896c064184079150_preview.png"
     },
     {
       "id": "printful-353393894",
-      "name_es": "Sandalias Sandalias Daz Art · Negro",
-      "name_en": "Sandalias Daz Art Sandals · Black",
+      "name_es": "Sandalias DAZ Luxury Art",
+      "name_en": "DAZ Luxury Art Slides",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11793,12 +11904,13 @@
       "fam": "sandalias-luxury-art",
       "cg": "printful-353393894",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/aff/affa0f1a64377c85c6b7957cb3cc4896_preview.png"
     },
     {
       "id": "printful-353394148",
-      "name_es": "Sandalias Sandalias Daz · Negro",
-      "name_en": "Sandalias Daz Sandals · Black",
+      "name_es": "Sandalias Daz Luxury",
+      "name_en": "Daz Luxury Slides",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11812,12 +11924,13 @@
       "fam": "sandalias-luxury-mujer",
       "cg": "printful-353394148",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/852/852c9f0424aa1bbe355033d619bd3e29_preview.png"
     },
     {
       "id": "printful-353395230",
-      "name_es": "Sandalias Sandalias Sun · Negro",
-      "name_en": "Sandalias Sun Sandals · Black",
+      "name_es": "Sandalias Sun DAZMOND",
+      "name_en": "Sun DAZMOND Slides",
       "price_usd": 53.99,
       "badge": "new",
       "categories": [
@@ -11831,6 +11944,7 @@
       "fam": "sandalias-sun-luxury",
       "cg": "printful-353395230",
       "color": "Black",
+      "art_score": 5,
       "img": "https://files.cdn.printful.com/files/055/0556cd183587f543b38dc5e98c56ecdb_preview.png"
     },
     {
@@ -11916,8 +12030,8 @@
     },
     {
       "id": "printful-374547366-black",
-      "name_es": "Camiseta Crop Daz · Negro",
-      "name_en": "Crop Daz Tee · Black",
+      "name_es": "Crop Top DAZ Luxury · Negro",
+      "name_en": "DAZ Luxury Crop Top · Black",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -11931,12 +12045,13 @@
       "fam": "crop-top-luxury",
       "cg": "printful-374547366",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/7f1/7f1f01438458d427b6a26f0868a3281c_preview.png"
     },
     {
       "id": "printful-374547366-bubblegum",
-      "name_es": "Camiseta Crop Daz · Bubblegum",
-      "name_en": "Crop Daz Tee · Bubblegum",
+      "name_es": "Crop Top DAZ Luxury · Bubblegum",
+      "name_en": "DAZ Luxury Crop Top · Bubblegum",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -11950,12 +12065,13 @@
       "fam": "crop-top-luxury",
       "cg": "printful-374547366",
       "color": "Bubblegum",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/d22/d223a33c55fd19c3c34b3315567c0750_preview.png"
     },
     {
       "id": "printful-374547366-hazy-pink",
-      "name_es": "Camiseta Crop Daz · Hazy Pink",
-      "name_en": "Crop Daz Tee · Hazy Pink",
+      "name_es": "Crop Top DAZ Luxury · Hazy Pink",
+      "name_en": "DAZ Luxury Crop Top · Hazy Pink",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -11969,12 +12085,13 @@
       "fam": "crop-top-luxury",
       "cg": "printful-374547366",
       "color": "Hazy Pink",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/aed/aedc679ddcb0b52461614146a1d38c6b_preview.png"
     },
     {
       "id": "printful-374547366-orchid",
-      "name_es": "Camiseta Crop Daz · Orchid",
-      "name_en": "Crop Daz Tee · Orchid",
+      "name_es": "Crop Top DAZ Luxury · Orchid",
+      "name_en": "DAZ Luxury Crop Top · Orchid",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -11988,12 +12105,13 @@
       "fam": "crop-top-luxury",
       "cg": "printful-374547366",
       "color": "Orchid",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/12e/12ec53456b03ec16f4148206ae18176b_preview.png"
     },
     {
       "id": "printful-379325836",
-      "name_es": "Leggings Daz · Blanco",
-      "name_en": "Daz Leggings · White",
+      "name_es": "Leggings All-Over Print",
+      "name_en": "All-Over Print Leggings",
       "price_usd": 49.99,
       "badge": "new",
       "categories": [
@@ -12007,6 +12125,7 @@
       "fam": "leggings-luxury",
       "cg": "printful-379325836",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/e73/e73d0abf9de6e8072170eb6fb5d6b244_preview.png"
     },
     {
@@ -12175,8 +12294,8 @@
     },
     {
       "id": "printful-387730180",
-      "name_es": "Vestido Daz Tirantes Ajustables · Negro",
-      "name_en": "Daz Tirantes Ajustables Dress · Black",
+      "name_es": "Vestido Midi Con Estampado All-Over",
+      "name_en": "All-Over Print Midi Slip Dress",
       "price_usd": 59.99,
       "badge": "new",
       "categories": [
@@ -12190,12 +12309,13 @@
       "fam": "vestido-midi-luxury",
       "cg": "printful-387730180",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/580/5801d4a9e5b84fe342edabf512bceef9_preview.png"
     },
     {
       "id": "printful-387730385",
-      "name_es": "Vestido Daz Tirantes Ajustables · Negro",
-      "name_en": "Daz Tirantes Ajustables Dress · Black",
+      "name_es": "Vestido Midi Estampado",
+      "name_en": "All-Over Print Midi Dress",
       "price_usd": 59.99,
       "badge": "new",
       "categories": [
@@ -12209,6 +12329,7 @@
       "fam": "vestido-midi-luxury",
       "cg": "printful-387730385",
       "color": "Black",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/0d3/0d3ed6c9e7783ee5f4f80066a481b87f_preview.png"
     },
     {
@@ -12232,8 +12353,8 @@
     },
     {
       "id": "printful-387730756",
-      "name_es": "Vestido Daz Tirantes Ajustables · Negro",
-      "name_en": "Daz Tirantes Ajustables Dress · Black",
+      "name_es": "Vestido Midi Estampado DAZ",
+      "name_en": "DAZ All-Over Print Midi Dress",
       "price_usd": 59.99,
       "badge": "new",
       "categories": [
@@ -12247,12 +12368,13 @@
       "fam": "vestido-midi-luxury",
       "cg": "printful-387730756",
       "color": "Black",
+      "art_score": 2,
       "img": "https://files.cdn.printful.com/files/346/346e99d6895d5470fa5b922a7ed9adf4_preview.png"
     },
     {
       "id": "printful-339928791",
-      "name_es": "Camiseta Hydra Flow Crop · Blanco",
-      "name_en": "Hydra Flow Crop Tee · White",
+      "name_es": "Top corto de manga larga Hydra-Flow",
+      "name_en": "Hydra-Flow Long Sleeve Crop Top",
       "price_usd": 65.99,
       "badge": "new",
       "categories": [
@@ -12266,6 +12388,7 @@
       "fam": "hydra-flow-long",
       "cg": "printful-339928791",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/263/2633a5ab0c424a1faa1680a996c777c1_preview.png"
     },
     {
@@ -12557,8 +12680,8 @@
     },
     {
       "id": "printful-350700978",
-      "name_es": "Bermuda Sunset Gradient Art · Blanco",
-      "name_en": "Sunset Gradient Art Shorts · White",
+      "name_es": "Shorts Deportivos Sunset Gradient",
+      "name_en": "Sunset Gradient Athletic Shorts",
       "price_usd": 54.99,
       "badge": "new",
       "categories": [
@@ -12572,12 +12695,13 @@
       "fam": "sunset-gradient-art",
       "cg": "printful-350700978",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/6d0/6d08069174edfc323eed4757ff89f5b1_preview.png"
     },
     {
       "id": "printful-350701037",
-      "name_es": "Bermuda Emerald Core Sport · Blanco",
-      "name_en": "Emerald Core Sport Shorts · White",
+      "name_es": "Shorts Deportivos Emerald Core",
+      "name_en": "Emerald Core Athletic Shorts",
       "price_usd": 54.99,
       "badge": "new",
       "categories": [
@@ -12591,12 +12715,13 @@
       "fam": "emerald-core-premium",
       "cg": "printful-350701037",
       "color": "White",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/0c7/0c7d8428c1a320ad41567e82f635c667_preview.png"
     },
     {
       "id": "printful-351334261",
-      "name_es": "Bermuda Scarlet Jewel · Blanco",
-      "name_en": "Scarlet Jewel Shorts · White",
+      "name_es": "Pantalón corto Scarlet Jewel",
+      "name_en": "Scarlet Jewel Shorts",
       "price_usd": 54.99,
       "badge": "new",
       "categories": [
@@ -12610,12 +12735,13 @@
       "fam": "scarlet-jewel-edition",
       "cg": "printful-351334261",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/81d/81d1124dc0bc86c9d4a7bdd8d6ccf3d2_preview.png"
     },
     {
       "id": "printful-351334297",
-      "name_es": "Bermuda Sapphire · Blanco",
-      "name_en": "Sapphire Shorts · White",
+      "name_es": "Shorts Deportivos Royal Sapphire",
+      "name_en": "Royal Sapphire Athletic Shorts",
       "price_usd": 54.99,
       "badge": "new",
       "categories": [
@@ -12629,6 +12755,7 @@
       "fam": "royal-sapphire",
       "cg": "printful-351334297",
       "color": "White",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/565/56538d129a8813d42bc86ddfbfed2e1c_preview.png"
     },
     {

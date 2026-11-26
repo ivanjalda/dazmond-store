@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Skater Dress",
+ "ai_ver": 2,
+ "art_note": "The image features a standard flat-composite mockup on a headless model style, failing to meet the elevated aesthetic standards of a luxury fashion house.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351512008",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Silhouette meets precision in this essential piece. The design features a contrasting geometric print flowing effortlessly across the structure. Tailored for a sophisticated and commanding presence. Each piece is meticulously crafted to order and shipped worldwide. A creation that redefines contemporary codes of elegance with a refined and essential approach.",
+ "desc_es": "La silueta encuentra la precisión en esta pieza esencial. El diseño presenta un estampado geométrico contrastado que recorre la estructura con fluidez. Pensado para una presencia sofisticada y rotunda. Cada ejemplar se elabora cuidadosamente bajo pedido y se envía a todo el mundo. Una propuesta que redefine los códigos de la elegancia contemporánea con un enfoque depurado y esencial.",
+ "details_en": "· Exclusive made-to-order production.\n· Worldwide shipping available.",
+ "details_es": "· Confección exclusiva bajo pedido.\n· Envío disponible a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/57c/57c35f37072f73f7702b96a6e230eecb_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Amber Geometry Silhouette Dress · White",
- "name_es": "Vestido Amber Geometry Silhouette · Blanco",
+ "name_en": "Amber Geometry Dress",
+ "name_es": "Vestido Amber Geometry",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 466,

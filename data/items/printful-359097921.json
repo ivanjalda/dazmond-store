@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "track pants",
+ "ai_ver": 2,
+ "art_note": "Clean flat lay style product shot on a neutral background, but lacks high-end editorial atmosphere or lighting depth.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359097921",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined expression of contemporary aesthetics. These track pants redefine comfort through clean lines and a distinctive graphic presence. Designed to accompany movement with natural fluidity and precision. Each piece is crafted to order. We offer worldwide shipping to ensure exclusivity and dedication with every delivery. An essential garment that transcends seasons.",
+ "desc_es": "Una expresión depurada de la estética contemporánea. Este pantalón de chándal redefine el confort mediante líneas limpias y una presencia gráfica distintiva. Diseñado para acompañar el movimiento con naturalidad y precisión. Cada pieza se confecciona bajo pedido en nuestras instalaciones. Ofrecemos envíos a todo el mundo para garantizar exclusividad y dedicación en cada entrega. Una prenda esencial que trasciende las temporadas.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/976/976358f4c98f63bad592309fbdb86eed_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
- "name_es": "Sudadera Pantalón Daz Chándal · Negro",
+ "name_en": "All-Over Print Track Pants",
+ "name_es": "Pantalón de chándal All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 549,

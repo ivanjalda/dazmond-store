@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Joggers",
+ "ai_ver": 2,
+ "art_note": "Clean isolated product shot against a neutral background, but lacks the sophisticated lighting and styling required for luxury e-commerce.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358055382",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A contemporary silhouette defined by an all-over graphic design. The construction prioritizes comfort without compromising a refined aesthetic. Designed for the modern wardrobe seeking urban distinction. Each piece is crafted exclusively upon request in the United States. Available with worldwide shipping.",
+ "desc_es": "Una silueta contemporánea definida por un diseño gráfico integral. La confección prioriza la comodidad sin renunciar a una estética depurada. Diseñado para el guardarropa moderno que busca distinción urbana. Cada pieza se elabora exclusivamente bajo pedido en Estados Unidos. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Elaboración bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e3b/e3b8f8da97b79faca84f3f6e4f28630a_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Pantalones Chándal Daz Sweatshirt · White",
- "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
+ "name_en": "All-Over Print Joggers",
+ "name_es": "Pantalón de chándal All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 472,

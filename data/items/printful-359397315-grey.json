@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "long sleeve shirt",
+ "ai_ver": 2,
+ "art_note": "The studio portrait lacks the moody sophistication and lighting control expected of a luxury fashion house.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359397315",
  "color": "Grey",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The essential silhouette is redefined with quiet presence. This long sleeve garment offers an impeccable drape and a substantial texture that brings structure to everyday dressing. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "La silueta esencial se redefine con una presencia sobria. Esta prenda de manga larga ofrece una caída impecable y una textura densa que aporta estructura al vestir diario. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/6cb/6cbdd5de3b9f9449389d3cc656c256a1_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Gruesa Daz Teñida Tee · Grey",
- "name_es": "Camiseta Gruesa Daz Teñida · Gris",
+ "name_en": "Heavyweight long sleeve shirt · Grey",
+ "name_es": "Camiseta de manga larga gruesa · Gris",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 429,

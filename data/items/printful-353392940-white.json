@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "slides",
+ "ai_ver": 2,
+ "art_note": "Clean product presentation with floating composition, though slightly commercial.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-353392940",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette for contemporary leisure. These slides combine an essential shape with a distinctive front graphic. Designed for everyday wear with a relaxed yet sophisticated approach. Each pair is made to order and shipped worldwide. A versatile design that effortlessly accompanies moments of leisure.",
+ "desc_es": "Una propuesta depurada para el descanso contemporaneo. Estas sandalias combinan una silueta esencial con un distintivo grafico frontal. Pensadas para el dia a dia con un enfoque relajado y sofisticado. Cada par se elabora bajo pedido y se envia a todo el mundo. Diseno versatil que acompanan con naturalidad los momentos de ocio.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/c4e/c4e2ab8f6ffde7defb4966dd95a8943c_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Sandalias Daz Sandals · White",
- "name_es": "Sandalias Sandalias Daz · Blanco",
+ "name_en": "DAZ Men's Slides · White",
+ "name_es": "Sandalias DAZ para Hombre · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 53.99,
  "rank": 588,

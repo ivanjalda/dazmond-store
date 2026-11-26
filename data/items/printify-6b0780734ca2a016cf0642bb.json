@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation with a balanced minimalist aesthetic, adhering to modern luxury e-commerce standards.",
+ "art_score": 6,
+ "audited": "2026-11-26",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,16 +22,16 @@
  "cg": "printify-6b0780734ca2a016cf0642bb",
  "color": "Black",
  "created": "2026-11-26",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The essential silhouette is redefined with sober and deliberate elegance. Tailored for the contemporary wardrobe, this piece presents an immaculate monochromatic presence that balances relaxed comfort with sophisticated refinement. Every detail is crafted to convey quiet authority and timeless versatility. Available made to order with worldwide shipping.",
+ "desc_es": "La silueta esencial se redefine con una elegancia sobria y decidida. Confeccionada para el guardarropa contemporáneo, esta pieza presenta una presencia monocromática impecable que equilibra la comodidad relajada con un refinamiento sofisticado. Cada detalle está pensado para transmitir una autoridad discreta y una versatilidad atemporal. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0780734ca2a016cf0642bb/12124/102005/rare-by-design-tee.jpg?camera_label=front-2",
   "https://images-api.printify.com/mockup/6b0780734ca2a016cf0642bb/12124/102006/rare-by-design-tee.jpg?camera_label=back-2",
   "https://images-api.printify.com/mockup/6b0780734ca2a016cf0642bb/12124/102001/rare-by-design-tee.jpg?camera_label=folded",
-  "https://images-api.printify.com/mockup/6b0780734ca2a016cf0642bb/12124/127735/rare-by-design-tee.jpg?camera_label=folded-2",
   "https://images-api.printify.com/mockup/6b0780734ca2a016cf0642bb/12124/102002/rare-by-design-tee.jpg?camera_label=hanging-1",
-  "https://images-api.printify.com/mockup/6b0780734ca2a016cf0642bb/12124/102003/rare-by-design-tee.jpg?camera_label=hanging-2",
-  "https://images-api.printify.com/mockup/6b0780734ca2a016cf0642bb/12124/102004/rare-by-design-tee.jpg?camera_label=hanging-3"
+  "https://images-api.printify.com/mockup/6b0780734ca2a016cf0642bb/12124/102003/rare-by-design-tee.jpg?camera_label=hanging-2"
  ],
  "draft": false,
  "fam": "rare-by-tee",
@@ -32,9 +45,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Rare Tee · Black",
- "name_es": "Camiseta Rare · Negro",
+ "name_en": "Rare By Design Black Tee",
+ "name_es": "Camiseta Rare By Design Negra",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 35,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "long sleeve shirt",
+ "ai_ver": 2,
+ "art_note": "The image features a clean lifestyle shot of a model wearing the garment, but standard ecommerce lighting and composition prevent it from reaching true luxury c",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359397315",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette designed for seasonal transitions. This pure white long-sleeve piece delivers versatile and sophisticated presence. Crafted-to-order to ensure absolute exclusivity, each unit reflects the house's commitment to streamlined design. Subtle detailing completes a minimalist aesthetic tailored for the contemporary wardrobe. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada diseñada para la transición entre temporadas. Esta pieza de manga larga en tono blanco puro ofrece una presencia versátil y sofisticada. Confeccionada bajo demanda para asegurar una exclusividad absoluta, cada unidad refleja el compromiso de la casa con el diseño depurado. Los detalles sutiles completan una estética minimalista pensada para el fondo de armario contemporáneo. Disponible con envío internacional.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/728/72816c52bcb21b1f0af0ca75d2541eb0_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Gruesa Daz Teñida Tee · White",
- "name_es": "Camiseta Gruesa Daz Teñida · Blanco",
+ "name_en": "Heavyweight long sleeve shirt · White",
+ "name_es": "Camiseta de manga larga gruesa · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 433,

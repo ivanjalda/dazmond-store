@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "midi dress",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking realistic depth and high-end luxury campaign standards.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-387730756",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A fluid silhouette crafted for contemporary elegance. This midi dress featuring adjustable straps showcases a distinctive all-over graphic motif that brings movement and character to the piece. Crafted to order to ensure absolute exclusivity. Each piece reflects the mastery of the house. Available for worldwide shipping.",
+ "desc_es": "Una silueta fluida diseñada para la elegancia contemporánea. Este vestido midi con tirantes ajustables presenta un motivo gráfico exclusivo que aporta movimiento y carácter a la prenda. Confeccionado bajo demanda para asegurar una exclusividad absoluta. Cada pieza refleja la maestría de la casa. Disponible para envío a todo el mundo.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/346/346e99d6895d5470fa5b922a7ed9adf4_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Tirantes Ajustables Dress · Black",
- "name_es": "Vestido Daz Tirantes Ajustables · Negro",
+ "name_en": "DAZ All-Over Print Midi Dress",
+ "name_es": "Vestido Midi Estampado DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 59.99,
  "rank": 615,

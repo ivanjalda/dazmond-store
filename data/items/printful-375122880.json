@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "T-shirt dress",
+ "ai_ver": 2,
+ "art_note": "The image features a generic supplier mockup with a flat-looking print, failing to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-375122880",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A contemporary design piece that redefines the relaxed silhouette. This t-shirt dress combines a striking visual presence with essential everyday comfort. Crafted on demand to ensure absolute exclusivity, this model features an all-over graphic pattern reflecting an urban and modern aesthetic. Each piece is meticulously crafted and shipped worldwide, reinforcing the house commitment to modern craftsmanship and uncompromising style.",
+ "desc_es": "Una pieza de diseño contemporáneo que redefine la silueta relajada. Este vestido camiseta combina una presencia visual imponente con la comodidad esencial para el día a día. Confeccionado bajo demanda para asegurar una exclusividad absoluta, este modelo incorpora un patrón gráfico integral que refleja una estética urbana y moderna. Cada pieza se elabora con precisión y se envía a todo el mundo, consolidando el compromiso de la casa con la artesanía moderna y el estilo sin concesiones.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/66d/66dc82512743130eab886c563db2a616_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Dress · White",
- "name_es": "Vestido Daz · Blanco",
+ "name_en": "All-Over Print T-Shirt Dress",
+ "name_es": "Vestido Camiseta All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 61.99,
  "rank": 559,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "track pants",
+ "ai_ver": 2,
+ "art_note": "Flat, composited mockup look with a generic print-on-demand aesthetic, lacking luxury lighting and depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358797146",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary expression of bold design. These unisex track pants feature an all-over graphic pattern that defies traditional aesthetic conventions. Crafted with meticulous attention to detail, they offer a relaxed silhouette ideal for daily wear. Each piece is made to order and available with worldwide shipping. An essential garment for those seeking to stand out with a distinct and avant-garde style.",
+ "desc_es": "Una expresión contemporánea de diseño audaz. Este pantalón de chándal unisex presenta un patrón gráfico integral que desafía las convenciones estéticas tradicionales. Confeccionado con atención al detalle, ofrece una silueta relajada ideal para el día a día. Cada pieza se elabora bajo demanda en Estados Unidos y cuenta con envíos a todo el mundo. Una prenda esencial para quienes buscan destacar con un estilo propio y vanguardista.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/07d/07dbcc859497a89632f3ad035a72696d_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
- "name_es": "Sudadera Pantalón Daz Chándal · Negro",
+ "name_en": "All-Over Print Track Pants",
+ "name_es": "Pantalón de chándal estampado All-Over",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 539,

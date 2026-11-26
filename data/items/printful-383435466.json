@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Sweater",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shot with consistent lighting, presenting the garment clearly on a neutral background.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-383435466",
  "color": "Custom",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Defined by a streamlined silhouette and an enveloping touch, this knitted sweater embodies the modern elegance of the house. Crafted with attention to detail, it features a straight bottom design and subtle contrasts that elevate its sophisticated character. A versatile piece designed for seasonal transitions, bringing a sober and refined presence to any contemporary wardrobe. Available made-to-order with worldwide shipping.",
+ "desc_es": "Definido por una silueta depurada y un tacto envolvente, este jersey de punto encarna la elegancia moderna de la casa. Confeccionado con atención al detalle, presenta un diseño de bajo recto y sutiles contrastes que realzan su carácter sofisticado. Una pieza versátil diseñada para la transición entre temporadas, que aporta una presencia sobria y refinada a cualquier guardarropa contemporáneo. Disponible bajo pedido con envío a todo el mundo.",
+ "details_en": "· Made-to-order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/f38/f3859833e629593c3411eecbda867f6d_preview.png",
   "https://files.cdn.printful.com/files/b46/b4657e8b27d5dd1107e78e2f405caccf_preview.png",
@@ -31,9 +44,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Recto Punto Daz Sweater",
- "name_es": "Suéter Recto Punto Daz",
+ "name_en": "DAZ Luxury Straight Knitted Sweater",
+ "name_es": "Jersey de Punto Recto DAZ Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 81.99,
  "rank": 492,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio model shot with neutral background, but generic apparel mockup styling prevents high-end luxury feel.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-383480040",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette designed for the contemporary wardrobe. This classic-cut design features a continuous all-over pattern. Crafted on demand with meticulous attention to detail. Available for worldwide shipping.",
+ "desc_es": "Una silueta depurada diseñada para el fondo de armario contemporáneo. Este diseño de corte clásico presenta un patrón integral continuo. Confeccionada bajo demanda con atención meticulosa a los detalles. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/a7c/a7ccf49ebaa533827e32e76fc743c6aa_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Daz Tee · White",
- "name_es": "Camiseta Daz · Blanco",
+ "name_en": "DAZ All-Over Print T-Shirt",
+ "name_es": "Camiseta Estampada All-Over DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 568,

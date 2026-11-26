@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/pantalones"
+ ],
+ "ai_color": "Pink / White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Track Pants",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, though it lacks editorial depth.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351736305",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reinterpretation of urban comfort. This design features a diffuse tie-dye motif in pink tones over a light base. Each piece is meticulously crafted to order in our workshops. The silhouette offers fluidity and a sophisticated presence for everyday wear. Available with worldwide shipping for discerning clients.",
+ "desc_es": "Una reinterpretación contemporánea de la comodidad urbana. Este diseño presenta un motivo tie-dye difuso en tonos rosados sobre una base clara. Cada pieza se elabora meticulosamente bajo pedido en nuestros talleres. La silueta ofrece fluidez y una presencia sofisticada para el día a día. Disponible con envío internacional para clientes exclusivos.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/5dd/5dde4ab2df8094cf3f4243a8688a680b_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Cloud Tie Dye Trousers · White",
- "name_es": "Pantalón Cloud Tie Dye · Blanco",
+ "name_en": "Pink Cloud Track Pants",
+ "name_es": "Pantalón de Chándal Pink Cloud",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 508,

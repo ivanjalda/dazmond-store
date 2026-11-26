@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking luxury atmosphere and dimension.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358054481",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Refined and contemporary silhouette. Made-to-order construction defining new standards of urban elegance. Each piece is individually crafted to ensure exclusivity. Worldwide shipping available for discerning clients. Versatile design balancing comfort and sophisticated presence in any environment.",
+ "desc_es": "Silueta depurada y contemporánea. Confección bajo pedido que define nuevos estándares de elegancia urbana. Cada pieza se elabora de manera individual para asegurar exclusividad. Envío mundial disponible para clientes exigentes. Diseño versátil que equilibra comodidad y presencia sofisticada en cualquier entorno.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/c32/c320183b96ee12defe60514ca061d596_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Pantalones Chándal Daz Sweatshirt · White",
- "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
+ "name_en": "Printed joggers",
+ "name_es": "Pantalones de chándal estampados",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 468,

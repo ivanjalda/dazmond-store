@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "The image shows a digital composite with flat-printed patterns pasted onto a mannequin-like model template, lacking true luxury campaign lighting and depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-379325836",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "DAZMOND & Co. presents an essential piece conceived for the contemporary silhouette. Designed with a high-definition all-over print, these leggings offer a refined aesthetic and a bold presence. Each piece is individually crafted made-to-order, ensuring exclusivity. Available with worldwide shipping, this creation redefines everyday luxury through a minimalist and sophisticated approach.",
+ "desc_es": "DAZMOND & Co. presenta una pieza esencial concebida para la silueta contemporánea. Diseñados con un estampado integral de alta definición, estos leggings ofrecen una estética depurada y una presencia audaz. Cada pieza se confecciona de manera individual bajo demanda, asegurando exclusividad. Disponibles con envíos a todo el mundo, esta creación redefine el lujo cotidiano a través de un enfoque minimalista y sofisticado.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e73/e73d0abf9de6e8072170eb6fb5d6b244_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Leggings · White",
- "name_es": "Leggings Daz · Blanco",
+ "name_en": "All-Over Print Leggings",
+ "name_es": "Leggings All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
  "rank": 603,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "slides",
+ "ai_ver": 2,
+ "art_note": "Clean minimalist studio lighting and neutral background, but lacks human context or high-end campaign styling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-346241204",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The América slides redefine casual luxury footwear with a refined silhouette and a distinctive design. Conceived for summer relaxation and sophisticated leisure moments, they combine a striking visual presence with essential comfort. Each pair is meticulously crafted to order, ensuring absolute exclusivity. Available with worldwide shipping, they represent the ultimate expression of relaxed elegance for the contemporary man.",
+ "desc_es": "Las sandalias América redefinen el calzado informal de lujo con una silueta depurada y un diseño distintivo. Concebidas para el descanso estival y los momentos de ocio sofisticado, combinan una presencia visual rotunda con una comodidad esencial. Cada par se elabora meticulosamente bajo demanda, asegurando exclusividad absoluta. Disponibles con envíos a todo el mundo, representan la máxima expresión de la elegancia relajada para el hombre contemporáneo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/25d/25d973f49daf014d5ff0c0a983843b54_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "América Slides Sandals · White",
- "name_es": "Sandalias América Slides · Blanco",
+ "name_en": "América Slides · White",
+ "name_es": "Sandalias América · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 53.99,
  "rank": 576,

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate lighting, though lifestyle and mockup images lack high-end luxury editorial curation.",
+ "art_score": 6,
+ "audited": "2026-11-26",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,13 +22,14 @@
  "cg": "printify-6b0780794ea7c13753013021",
  "color": "Black",
  "created": "2026-11-26",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette defining modern luxury with a striking yet understated presence. Tailored with meticulous precision, this piece embodies effortless elegance and absolute comfort. The deep black tone contrasts with a sophisticated golden front motif, introducing a distinctive accent of distinction. Crafted to order to ensure absolute exclusivity with every single unit. An essential garment for those who value sophisticated discretion and flawless design.",
+ "desc_es": "Una silueta depurada que define el lujo moderno con una presencia rotunda y discreta. Confeccionada con precisión milimétrica, esta pieza encarna la elegancia sin esfuerzo y la comodidad absoluta. El tono negro profundo contrasta con un motivo frontal sofisticado en tonos dorados, aportando un acento distintivo de distinción. Diseñada bajo demanda para garantizar una exclusividad absoluta en cada unidad. Una prenda esencial para quienes valoran la discreción sofisticada y el diseño impecable.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0780794ea7c13753013021/25459/98502/rare-by-design-crewneck.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b0780794ea7c13753013021/25459/98503/rare-by-design-crewneck.jpg?camera_label=back",
-  "https://images-api.printify.com/mockup/6b0780794ea7c13753013021/25459/100648/rare-by-design-crewneck.jpg?camera_label=folded",
-  "https://images-api.printify.com/mockup/6b0780794ea7c13753013021/25459/128101/rare-by-design-crewneck.jpg?camera_label=folded-2"
+  "https://images-api.printify.com/mockup/6b0780794ea7c13753013021/25459/100648/rare-by-design-crewneck.jpg?camera_label=folded"
  ],
  "draft": false,
  "fam": "rare-by-crewneck",
@@ -29,9 +43,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Rare Sweatshirt · Black",
- "name_es": "Sudadera Rare · Negro",
+ "name_en": "Rare By Design Black Sweatshirt",
+ "name_es": "Sudadera Rare By Design Negra",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 45.99,
  "rank": 32,

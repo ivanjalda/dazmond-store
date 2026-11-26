@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Flat-lay product mock-up with composited graphics, lacking luxury e-commerce standards.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-355649466",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A bold expression of contemporary design. This piece features an all-over print inspired by traditional Japanese craftsmanship. Crafted to order to ensure absolute exclusivity. Available for worldwide shipping. Clean lines and a relaxed silhouette define this essential garment for the modern wardrobe.",
+ "desc_es": "Una expresion audaz de diseño contemporaneo. Esta pieza presenta un estampado integral inspirado en la artesania tradicional japonesa. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible para envio mundial. Lineas limpias y una silueta relajada definen esta prenda esencial para el armario moderno.",
+ "details_en": "· Made to order.\n· Available with worldwide shipping.",
+ "details_es": "· Hecho bajo pedido.\n· Disponible con envio mundial.",
  "display_images": [
   "https://files.cdn.printful.com/files/1c9/1c9440df119eb3ca3228f0ff98dec471_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Kyoto Collage Tee · White",
- "name_es": "Camiseta Kyoto Collage · Blanco",
+ "name_en": "Kyoto Collage T-Shirt",
+ "name_es": "Camiseta Kyoto Collage",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 530,

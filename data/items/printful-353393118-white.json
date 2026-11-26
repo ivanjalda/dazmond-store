@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Slides",
+ "ai_ver": 2,
+ "art_note": "Clean top-down product shot on white background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-353393118",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential silhouette designed for refined leisure. This piece combines a streamlined design with a distinctive graphic appeal. Crafted on demand with worldwide shipping, reflecting the house commitment to exclusivity and detail.",
+ "desc_es": "Una silueta esencial diseñada para el descanso refinado. Esta pieza combina un diseño depurado con un atractivo gráfico distintivo. Creadas bajo demanda y con envío a todo el mundo, reflejan el compromiso de la casa con la exclusividad y el detalle.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/6ae/6aec43854e21120f2d38e5770c051c80_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Sandalias Daz Sandals · White",
- "name_es": "Sandalias Sandalias Daz · Blanco",
+ "name_en": "DAZ Men's Slides · White",
+ "name_es": "Sandalias DAZ de hombre · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 53.99,
  "rank": 590,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/pantalones"
+ ],
+ "ai_color": "Pigment Slate Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "sweatpants",
+ "ai_ver": 2,
+ "art_note": "Clean studio lifestyle shot, adequately captures the silhouette and color tone.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358048607",
  "color": "Pigment Slate Blue",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A relaxed silhouette conceived for contemporary leisure. The pigment-dyed tone brings depth and character to the design. Crafted made-to-order with worldwide shipping. Absolute comfort without compromising the essential elegance of the house.",
+ "desc_es": "Una silueta relajada concebida para el descanso contemporáneo. El tono pigmentado aporta profundidad y carácter al diseño. Confección bajo demanda con envíos a todo el mundo. Comodidad absoluta sin renunciar a la elegancia esencial de la casa.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/4e5/4e57f7fb68a0b51cbde8a204e0909b03_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Deporte Trousers · Pigment Slate Blue",
- "name_es": "Pantalón Pantalón Daz Deporte · Pigment Slate Blue",
+ "name_en": "DAZ Pigment Dyed Sweatpants · Pigment Slate Blue",
+ "name_es": "Pantalón de deporte teñido DAZ · Pigment Slate Blue",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 74.99,
  "rank": 536,

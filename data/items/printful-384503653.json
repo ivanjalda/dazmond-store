@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "recycled",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "Clean studio model shot against a white background, though composition and lighting feel slightly standard commercial rather than haute couture.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-384503653",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece for the sun-drenched season, designed with clean lines and a minimalist aesthetic. This bandeau bikini offers an impeccable silhouette that enhances the figure with natural elegance. Crafted from select recycled materials, it combines contemporary commitment with sophisticated design. Ideal for moments of seaside repose, this exclusive creation is made to order and available with worldwide shipping.",
+ "desc_es": "Una pieza esencial para la temporada de sol, diseñada con líneas depuradas y una estética minimalista. Este bikini bandeau ofrece una silueta impecable que realza la figura con elegancia natural. Confeccionado con materiales reciclados selectos, combina un compromiso contemporáneo con el diseño sofisticado. Ideal para momentos de descanso junto al mar, esta creación exclusiva se elabora bajo pedido y cuenta con envío mundial.",
+ "details_en": "· Made-to-order piece\n· Bandeau design\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Diseño bandeau\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/dc3/dc3077eb3062273a0c00dec3e923e817_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Swimwear · White",
- "name_es": "Bañador Daz · Blanco",
+ "name_en": "Recycled Bandeau Bikini",
+ "name_es": "Bikini Bandeau Reciclado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 63.99,
  "rank": 570,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "Yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "track pants",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot against a plain background, but lacks a high-end editorial model presentation.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359097459",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined silhouette that redefines casual luxury. Crafted for contemporary everyday wear, these track pants combine absolute comfort with a sophisticated aesthetic. Each piece is crafted to order in our ateliers. Available with worldwide shipping. Modern elegance meets essential functionality in this versatile garment.",
+ "desc_es": "Una silueta depurada que redefine el lujo informal. Confeccionados para el día a día contemporáneo, estos pantalones de chándal combinan comodidad absoluta con una estética sofisticada. Cada pieza se confecciona bajo pedido en nuestros talleres. Disponibles con envíos a todo el mundo. La elegancia moderna se encuentra con la funcionalidad esencial en esta prenda versátil.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Pieza confeccionada bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/73f/73f0b96adeccfaea32f0c740f4071522_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
- "name_es": "Sudadera Pantalón Daz Chándal · Negro",
+ "name_en": "All-Over Print Track Pants",
+ "name_es": "Pantalón de Chándal All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 546,

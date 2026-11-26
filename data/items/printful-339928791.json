@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Crop Top",
+ "ai_ver": 2,
+ "art_note": "Clean lifestyle photography with natural lighting, though slightly standard commercial styling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-339928791",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette that redefines modern elegance. This long sleeve crop top features a fluid, enveloping design with an all-over print that subtly enhances the form. Tailored for a precise fit, it balances contemporary sophistication with essential versatility. Each piece is meticulously crafted to order in our facilities. Available with worldwide shipping for global clients.",
+ "desc_es": "Una silueta depurada que redefine la elegancia moderna. Este top corto de manga larga presenta un diseño fluido y envolvente con un estampado integral que resalta la forma con sutileza. Confeccionado para ofrecer un ajuste preciso, equilibra la sofisticación contemporánea con la versatilidad esencial. Cada pieza se elabora meticulosamente bajo pedido en nuestras instalaciones. Disponible con envío internacional para clientes globales.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/263/2633a5ab0c424a1faa1680a996c777c1_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Hydra Flow Crop Tee · White",
- "name_es": "Camiseta Hydra Flow Crop · Blanco",
+ "name_en": "Hydra-Flow Long Sleeve Crop Top",
+ "name_es": "Top corto de manga larga Hydra-Flow",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 65.99,
  "rank": 616,

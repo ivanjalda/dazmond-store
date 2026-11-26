@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "long sleeve shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and sharp focus, though standard ecommerce styling lacks high editorial distinction.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359396971",
  "color": "Grey",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential silhouette for the contemporary wardrobe. Crafted with a heavyweight structure and a garment-dyed process that brings unique nuances to the grey tone. Long sleeve design with refined lines. A versatile piece that balances relaxed comfort with the house's aesthetic precision. Made to order. Worldwide shipping.",
+ "desc_es": "Silueta esencial para el fondo de armario contemporáneo. Confeccionada con una estructura de gran peso y un proceso de teñido en prenda que aporta matices únicos al tono gris. Diseño de manga larga con líneas depuradas. Una prenda versátil que equilibra la comodidad relajada con la precisión estética de la casa. Made to order. Worldwide shipping.",
+ "details_en": "· Made to order",
+ "details_es": "· Made to order",
  "display_images": [
   "https://files.cdn.printful.com/files/bf5/bf5656f794b052f14b6a7869ad4b11aa_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Gruesa Daz Teñida Tee · Grey",
- "name_es": "Camiseta Gruesa Daz Teñida · Gris",
+ "name_en": "Heavyweight long sleeve shirt · Grey",
+ "name_es": "Camiseta de manga larga pesada · Gris",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 422,

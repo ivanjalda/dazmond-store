@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/pantalones"
+ ],
+ "ai_color": "Pigment Maroon",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "sweatpants",
+ "ai_ver": 2,
+ "art_note": "Standard lifestyle studio shot with acceptable sharpness, but lacks high-end luxury campaign atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358048607",
  "color": "Pigment Maroon",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined expression of contemporary comfort. These sweatpants redefine downtime with a relaxed silhouette and a subtly sophisticated character. The pigment dyeing process imparts deep tonalities to the fabric, creating a unique visual texture that evolves with wear. Designed to offer freedom of movement without compromising elegance. Made to order with worldwide shipping.",
+ "desc_es": "Una expresión depurada de la comodidad contemporánea. Este pantalón de deporte redefine el tiempo de descanso con una silueta relajada y un carácter sutilmente sofisticado. El proceso de teñido aporta matices profundos al tejido, creando una textura visual única que evoluciona con el uso. Diseñado para ofrecer libertad de movimiento sin comprometer la elegancia. Confección bajo demanda y disponible con envío mundial.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/9f5/9f50b4adc49a186868b51dc40b01a301_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Deporte Trousers · Pigment Maroon",
- "name_es": "Pantalón Pantalón Daz Deporte · Pigment Maroon",
+ "name_en": "DAZ Pigment Dyed Sweatpants · Pigment Maroon",
+ "name_es": "Pantalón de deporte teñido DAZ · Pigment Maroon",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 74.99,
  "rank": 534,

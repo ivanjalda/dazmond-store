@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "recycled athletic",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "The image features a standard mockup style with a headless model crop, lacking the atmospheric sophistication required for luxury e-commerce.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-350701037",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefining contemporary athleisure. These athletic shorts combine a refined silhouette with impeccable functionality. Designed for the modern woman who demands sophistication in every movement. The construction prioritizes absolute comfort without sacrificing elegance. An essential piece for the most exclusive active wardrobe. Each garment is crafted to order in the United States. Available with worldwide shipping.",
+ "desc_es": "Redefinición del athleisure contemporáneo. Estos shorts atléticos combinan una silueta depurada con una funcionalidad impecable. Diseñados para la mujer moderna que exige sofisticación en cada movimiento. La confección prioriza el confort absoluto sin sacrificar la elegancia. Una pieza esencial para el guardarropa activo más exclusivo. Cada prenda se elabora bajo pedido en Estados Unidos. Disponibles con envíos internacionales a todo el mundo.",
+ "details_en": "· Made-to-order piece.\n· Worldwide shipping available.",
+ "details_es": "· Confección bajo pedido.\n· Envío mundial disponible.",
  "display_images": [
   "https://files.cdn.printful.com/files/0c7/0c7d8428c1a320ad41567e82f635c667_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Emerald Core Sport Shorts · White",
- "name_es": "Bermuda Emerald Core Sport · Blanco",
+ "name_en": "Emerald Core Athletic Shorts",
+ "name_es": "Shorts Deportivos Emerald Core",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 54.99,
  "rank": 632,

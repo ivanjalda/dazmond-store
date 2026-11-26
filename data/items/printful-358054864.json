@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Flat mannequin-style product shot lacking high-end luxury styling and depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358054864",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your everyday wardrobe with this distinctive design piece from our collection. Crafted on demand to ensure absolute exclusivity, these joggers feature a bold, all-over modern print. The refined cut delivers an impeccable silhouette, balancing effortless comfort with an avant-garde aesthetic. Designed for the contemporary man who commands attention without effort. Each garment is individually crafted and available with worldwide shipping adhering to the highest standards.",
+ "desc_es": "Eleve su estilo cotidiano con esta pieza de diseño distintivo de nuestra colección. Confeccionados bajo demanda para garantizar una exclusividad absoluta, estos pantalones de chándal presentan un estampado envolvente audaz y moderno. El corte refinado ofrece una silueta impecable que equilibra el confort absoluto con una estética vanguardista. Diseñados para el hombre contemporáneo que busca destacar sin esfuerzo. Cada prenda se elabora individualmente y se envía a todo el mundo con los más altos estándares de calidad.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/28c/28c46b0300a449c9c16b26081dbfe834_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Pantalones Chándal Daz Sweatshirt · White",
- "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
+ "name_en": "DAZ All-Over Print Joggers",
+ "name_es": "Pantalón de chándal estampado DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 470,

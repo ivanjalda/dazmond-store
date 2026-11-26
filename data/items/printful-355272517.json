@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "The image features a mockup style typical of lower-end print-on-demand suppliers, failing to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-355272517",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential piece defined by a clean, contemporary silhouette. Designed to offer versatility and understated presence in the modern wardrobe. Each garment is meticulously crafted to order in the United States. Available with worldwide shipping.",
+ "desc_es": "Una pieza esencial definida por una silueta limpia y contemporánea. Diseñada para ofrecer versatilidad y presencia discreta en el guardarropa masculino. Cada prenda se elabora meticulosamente bajo pedido en los Estados Unidos. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/1cf/1cfb3c2be96c6d1cafbabc84f0bfa6f3_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Infinity Tee · White",
- "name_es": "Camiseta Infinity · Blanco",
+ "name_en": "Infinity Crew Neck T-Shirt",
+ "name_es": "Camiseta Infinity Cuello Redondo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 42.99,
  "rank": 521,

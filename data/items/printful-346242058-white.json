@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-hombre/sandalias-chanclas-hombre"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "slides",
+ "ai_ver": 2,
+ "art_note": "Clean, well-lit studio product shot against a neutral white background, but lacks high-end campaign atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-346242058",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The América Black slides by DAZMOND & Co. define relaxed sophistication for the modern man. Engineered for effortless comfort, this silhouette merges a clean aesthetic with a commanding presence. Each pair is meticulously crafted to order within our house. We offer worldwide shipping to serve our global clientele.",
+ "desc_es": "Las sandalias América Black de DAZMOND & Co. definen la sofisticación relajada para el hombre moderno. Diseñadas para ofrecer comodidad sin esfuerzo, esta pieza combina una estética limpia con una presencia imponente. Cada par se elabora meticulosamente bajo demanda en nuestra casa. Ofrecemos envíos a todo el mundo para satisfacer las exigencias de nuestro cliente global.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Elaborado bajo demanda\n· Envío a todo el mundo disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/437/437692c20141ff9439e6d297d2699ac1_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "América Slides Sandals · White",
- "name_es": "Sandalias América Slides · Blanco",
+ "name_en": "América Black Slides · White",
+ "name_es": "Sandalias América Black · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 53.99,
  "rank": 580,

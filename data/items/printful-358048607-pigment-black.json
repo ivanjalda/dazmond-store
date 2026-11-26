@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/pantalones"
+ ],
+ "ai_color": "Pigment Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "sweatpants",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and natural posture, though lacking the cinematic depth of a top-tier luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358048607",
  "color": "Pigment Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette that redefines contemporary comfort. Crafted to offer an impeccable drape, these sweatpants blend a relaxed aesthetic with formal rigor. The pigment-dyed finish brings depth and texture to the design. An essential garment for the modern wardrobe, conceived under strict quality standards. Available exclusively made-to-order with worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine la comodidad contemporánea. Confeccionados para ofrecer una caída impecable, estos pantalones combinan una estética relajada con un rigor formal. El acabado pigmentado aporta profundidad y textura al diseño. Una prenda esencial para el armario moderno, concebida bajo estrictos estándares de calidad. Disponible exclusivamente bajo pedido con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/5c5/5c551f644685d75740147eee154c03b3_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Deporte Trousers · Pigment Black",
- "name_es": "Pantalón Pantalón Daz Deporte · Pigment Black",
+ "name_en": "DAZ Pigment Dyed Sweatpants · Pigment Black",
+ "name_es": "Pantalón de deporte teñido DAZ · Pigment Black",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 74.99,
  "rank": 532,

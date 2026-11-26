@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Flat lay mockup style typical of print-on-demand suppliers, lacking high-end luxury art direction.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358054769",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your casual wardrobe with the DAZ joggers. Crafted on demand to ensure absolute exclusivity. Each piece reflects a refined and contemporary design. Tailored for the modern man who values distinction without compromising comfort. Available with worldwide shipping.",
+ "desc_es": "Eleve su guardarropa informal con el pantalón jogger DAZ. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Cada pieza refleja un diseño depurado y contemporáneo. Pensado para el hombre moderno que valora la distinción sin renunciar al confort. Disponible con envío a todo el mundo.",
+ "details_en": "· Made-to-order piece.\n· Worldwide shipping available.",
+ "details_es": "· Confección bajo demanda.\n· Envío disponible a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/811/811e610623d1b3f4a2b0d42ccd17cc4a_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Pantalones Chándal Daz Sweatshirt · White",
- "name_es": "Sudadera Pantalones Chándal Daz · Blanco",
+ "name_en": "DAZ All-Over Print Joggers",
+ "name_es": "Pantalón Jogger All-Over Print DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 469,

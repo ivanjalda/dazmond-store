@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The image features a standard flat-pattern digital mock-up on a model, lacking true luxury campaign lighting, atmosphere, and styling depth.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-338163690",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined exploration of fluid silhouette. The Polka Aura skater dress combines precise structure with subtle pattern. Designed to offer flawless presence and effortless movement. Each piece is individually crafted on demand. Available for worldwide shipping.",
+ "desc_es": "Una exploracion refinada de la silueta fluida. El vestido skater Polka Aura combina una estructura precisa con un estampado sutil. Diseñado para ofrecer una presencia impecable y un movimiento ligero. Cada pieza se elabora de manera individual bajo demanda. Disponible para envios a todo el mundo.",
+ "details_en": "· Made to order\n· Available for worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Disponible para envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/390/3902aa593e33b259813c1a5cb92df5ea_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Polka Aura Skater Dress · White",
- "name_es": "Vestido Polka Aura Skater · Blanco",
+ "name_en": "Polka Aura Skater Dress",
+ "name_es": "Vestido Skater Polka Aura",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 447,

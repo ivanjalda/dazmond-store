@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/pantalones"
+ ],
+ "ai_color": "Pigment Alpine Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "sweatpants",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and natural pose, yet lacks the moody sophistication of a top-tier luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358048607",
  "color": "Pigment Alpine Green",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined reinterpretation of everyday comfort. These sweatpants feature a subtle pigment-dyed finish that adds depth to the alpine green tone. The relaxed silhouette balances functionality with understated, modern elegance. Designed to accompany moments of leisure with an impeccable presence. Each piece is made to order in our ateliers. We offer worldwide shipping for your convenience.",
+ "desc_es": "Una reinterpretación depurada del confort cotidiano. Este pantalón de deporte presenta un sutil efecto teñido que aporta profundidad al tono verde alpino. Su silueta relajada equilibra la funcionalidad con una elegancia sobria y moderna. Diseñado para acompañar los momentos de descanso con una presencia impecable. Cada pieza se confecciona bajo demanda en nuestros talleres. Ofrecemos envíos a todo el mundo para su mayor comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/815/8158103bd289875e986f4cdfecb14386_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Deporte Trousers · Pigment Alpine Green",
- "name_es": "Pantalón Pantalón Daz Deporte · Pigment Alpine Green",
+ "name_en": "DAZ Pigment Dyed Sweatpants · Pigment Alpine Green",
+ "name_es": "Pantalón de deporte teñido DAZ · Pigment Alpine Green",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 74.99,
  "rank": 531,

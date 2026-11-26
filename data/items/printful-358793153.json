@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Joggers",
+ "ai_ver": 2,
+ "art_note": "Flat lay product image on plain background, lacking luxury editorial atmosphere.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358793153",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential piece that redefines contemporary comfort with a bold approach. Designed for the woman who values distinction in every detail of her daily life. Clean lines and a fluid silhouette merge into an unmistakable statement of style. Crafted on demand to ensure absolute exclusivity and worldwide shipping. Elevate your off-duty wardrobe with this sophisticated silhouette from DAZMOND & Co.",
+ "desc_es": "Una pieza esencial que redefine el confort contemporáneo con un enfoque audaz. Diseñado para la mujer que valora la distinción en cada detalle de su día a día. Las líneas depuradas y la silueta fluida se fusionan en una declaración de estilo inconfundible. Confeccionado bajo demanda para garantizar exclusividad absoluta y envíos a todo el mundo. Eleve su guardarropa informal con esta silueta sofisticada de DAZMOND & Co.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/d8a/d8ad38fb1efd718ae448e75553ea0ba9_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · White",
- "name_es": "Sudadera Pantalón Daz Chándal · Blanco",
+ "name_en": "All-Over Print Joggers",
+ "name_es": "Pantalón de Chándal All-Over Print",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 478,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Hazy Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "crop top",
+ "ai_ver": 2,
+ "art_note": "Clean studio model shot on white background, but lacks high-end editorial lighting and sophisticated staging.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-374547366",
  "color": "Hazy Pink",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette that redefines casual elegance. This crop top presents a hazy pink tone and subtle distinctive details that evoke modern sophistication. Crafted on demand to ensure absolute exclusivity. Worldwide shipping available for international clients.",
+ "desc_es": "Una silueta depurada que redefine la elegancia casual. Este crop top presenta un tono rosa difuminado y sutiles detalles distintivos que evocan una sofisticación moderna. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Envío mundial disponible para clientes internacionales.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/aed/aedc679ddcb0b52461614146a1d38c6b_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Crop Daz Tee · Hazy Pink",
- "name_es": "Camiseta Crop Daz · Hazy Pink",
+ "name_en": "DAZ Luxury Crop Top · Hazy Pink",
+ "name_es": "Crop Top DAZ Luxury · Hazy Pink",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 601,

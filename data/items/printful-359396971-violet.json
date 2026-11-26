@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Violet",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "long sleeve shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and sharp focus, but lacks the moody sophistication of a high-end luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359396971",
  "color": "Violet",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Essential long sleeve silhouette designed for the contemporary wardrobe. Crafted with precise attention to detail, this piece offers a sophisticated and understated presence. Each item is made to order to ensure absolute exclusivity. Worldwide shipping available for international clients.",
+ "desc_es": "Silueta esencial de manga larga diseñada para el guardarropa contemporáneo. Confeccionada con atención al détail, esta pieza ofrece una presencia sofisticada y discreta. Cada prenda se elabora bajo demanda para garantizar una exclusividad absoluta. Envío mundial disponible para clientes internacionales.",
+ "details_en": "· Made-to-order piece\n· Available with worldwide shipping",
+ "details_es": "· Pieza confeccionada bajo demanda\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/0f7/0f7e7d0761945a88f2aa4c0b70ca5a7c_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Gruesa Daz Teñida Tee · Violet",
- "name_es": "Camiseta Gruesa Daz Teñida · Violet",
+ "name_en": "Heavyweight long sleeve shirt · Violet",
+ "name_es": "Camiseta de manga larga pesada · Violet",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 425,

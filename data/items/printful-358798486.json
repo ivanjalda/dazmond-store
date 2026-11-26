@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "track pants",
+ "ai_ver": 2,
+ "art_note": "Flat, composited look reminiscent of a basic marketplace mock-up rather than a luxury presentation.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358798486",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary definition of relaxed luxury. These track pants combine a fluid silhouette with an immersive graphic design. Each piece is crafted exclusively on demand in our workshops. We offer worldwide shipping to ensure ultimate exclusivity. A garment conceived for those who demand distinction without compromising absolute comfort in their daily life.",
+ "desc_es": "Definición contemporánea del lujo relajado. Este pantalón de chándal combina una silueta fluida con un diseño gráfico envolvente. Cada pieza se confecciona exclusivamente bajo demanda en nuestros talleres. Ofrecemos envíos a todo el mundo para garantizar la máxima exclusividad. Una prenda concebida para quienes exigen distinción sin renunciar al confort absoluto en su día a día.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/f03/f038ea2ef8c8f4a421f28864e968fc78_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · Black",
- "name_es": "Sudadera Pantalón Daz Chándal · Negro",
+ "name_en": "All-Over Track Pants",
+ "name_es": "Pantalón de chándal All-Over",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
  "rank": 542,

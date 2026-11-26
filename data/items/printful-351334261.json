@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking luxury atmosphere, appears generic.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351334261",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece for the contemporary wardrobe. This design fuses a refined silhouette with a bold presence. Crafted on demand to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una pieza esencial para el armario contemporáneo. Este diseño fusiona una silueta depurada con una presencia audaz. Confeccionado bajo demanda para garantizar exclusividad. Disponible con envío a nivel mundial.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/81d/81d1124dc0bc86c9d4a7bdd8d6ccf3d2_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Scarlet Jewel Shorts · White",
- "name_es": "Bermuda Scarlet Jewel · Blanco",
+ "name_en": "Scarlet Jewel Shorts",
+ "name_es": "Pantalón corto Scarlet Jewel",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 54.99,
  "rank": 633,

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography aligned with standard e-commerce presentation.",
+ "art_score": 6,
+ "audited": "2026-11-26",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,15 +22,16 @@
  "cg": "printify-6b07805807194ce1550beb5d",
  "color": "Black",
  "created": "2026-11-26",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential piece defining the modern silhouette with absolute precision. This design embodies understated elegance and timeless confidence. Crafted on demand to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una prenda esencial que define la silueta moderna con absoluta precisión. Este diseño encarna la elegancia sobria y la confianza atemporal. Confeccionada bajo pedido para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b07805807194ce1550beb5d/18102/102044/essential-logo-jersey-tee.jpg?camera_label=front-2",
   "https://images-api.printify.com/mockup/6b07805807194ce1550beb5d/18102/102045/essential-logo-jersey-tee.jpg?camera_label=back-2",
   "https://images-api.printify.com/mockup/6b07805807194ce1550beb5d/18102/102046/essential-logo-jersey-tee.jpg?camera_label=folded",
   "https://images-api.printify.com/mockup/6b07805807194ce1550beb5d/18102/102048/essential-logo-jersey-tee.jpg?camera_label=hanging-1",
   "https://images-api.printify.com/mockup/6b07805807194ce1550beb5d/18102/102047/essential-logo-jersey-tee.jpg?camera_label=hanging-2",
-  "https://images-api.printify.com/mockup/6b07805807194ce1550beb5d/18102/102049/essential-logo-jersey-tee.jpg?camera_label=hanging-3",
   "https://images-api.printify.com/mockup/6b07805807194ce1550beb5d/18102/92735/essential-logo-jersey-tee.jpg?camera_label=front-collar-closeup",
   "https://images-api.printify.com/mockup/6b07805807194ce1550beb5d/18102/92736/essential-logo-jersey-tee.jpg?camera_label=back-collar-closeup"
  ],
@@ -33,9 +47,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Logo Tee · Black",
- "name_es": "Camiseta Logo · Negro",
+ "name_en": "Essential Logo T-Shirt",
+ "name_es": "Camiseta Esencial con Logotipo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 33,

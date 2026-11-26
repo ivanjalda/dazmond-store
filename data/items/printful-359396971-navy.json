@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "long sleeve shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait on a neutral background, capturing the garment in a natural lifestyle context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-359396971",
  "color": "Navy",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential silhouette designed for seasonal transitions. Robust construction with a garment-dyed finish that introduces tonal depth. Long sleeve design featuring a structured presence. A versatile piece balancing comfort and understated elegance. Each garment is crafted exclusively upon request to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Silueta esencial diseñada para la transición entre estaciones. Confección robusta con un acabado teñido que aporta profundidad tonal. Diseño de manga larga con presencia estructurada. Una prenda versátil que equilibra comodidad y elegancia discreta. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/967/967cbcab68f02385afec9fecc785d5bd_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Gruesa Daz Teñida Tee · Navy",
- "name_es": "Camiseta Gruesa Daz Teñida · Azul Marino",
+ "name_en": "Heavyweight long sleeve shirt · Navy",
+ "name_es": "Camiseta de manga larga pesada · Azul Marino",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 424,

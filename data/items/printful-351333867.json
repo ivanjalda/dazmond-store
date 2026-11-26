@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Travel Mug",
+ "ai_ver": 2,
+ "art_note": "Clean product mockup on a plain background, standard marketplace quality lacking high-end campaign atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351333867",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Designed for continuous motion. This travel mug combines functionality and refined aesthetics in every detail. Its twenty-five ounce structure offers the ideal capacity to accompany the most demanding days. The clean white silhouette stands out with subtlety. Each piece is crafted on demand with rigorous attention. Available with worldwide shipping.",
+ "desc_es": "Diseñada para el movimiento continuo. Esta taza de viaje combina funcionalidad y estética depurada en cada detalle. Su estructura de veinticinco onzas ofrece la capacidad ideal para acompañar las jornadas más exigentes. La silueta depurada en tono blanco destaca con sutileza. Cada pieza es elaborada bajo demanda con atención rigurosa. Disponible con envío internacional.",
+ "details_en": "· Capacity: 25 oz\n· Made-to-order piece\n· Available with worldwide shipping",
+ "details_es": "· Capacidad: 25 oz\n· Pieza elaborada bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/b57/b573560cce26db5af6801b497d045a4e_preview.png"
  ],
@@ -21,9 +34,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "América Crest Mug · White",
- "name_es": "Taza América Crest · Blanco",
+ "name_en": "América Crest Travel Mug",
+ "name_es": "Taza de Viaje América Crest",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 398,

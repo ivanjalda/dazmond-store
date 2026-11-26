@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Bubblegum",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "crop top",
+ "ai_ver": 2,
+ "art_note": "Clean lifestyle studio capture, yet lacks high-end editorial tension.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-374547366",
  "color": "Bubblegum",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined expression of contemporary elegance. This crop top redefines the codes of casual tailoring with a precise silhouette and a sophisticated tone. Designed for the modern woman who demands distinction in every daily detail. Each piece is crafted upon request, ensuring absolute exclusivity. Available with worldwide shipping for your convenience.",
+ "desc_es": "Una expresión depurada de la elegancia contemporánea. Este crop top redefine los códigos de la sastrería informal con una silueta precisa y un tono sofisticado. Diseñado para la mujer moderna que exige distinción en cada detalle diario. Cada pieza se confecciona bajo pedido, garantizando una exclusividad absoluta. Disponible con envío a todo el mundo para su comodidad.",
+ "details_en": "· Exclusive made-to-order production\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido exclusivo\n· Envío internacional disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/d22/d223a33c55fd19c3c34b3315567c0750_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Crop Daz Tee · Bubblegum",
- "name_es": "Camiseta Crop Daz · Bubblegum",
+ "name_en": "DAZ Luxury Crop Top · Bubblegum",
+ "name_es": "Crop Top DAZ Luxury · Bubblegum",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
  "rank": 600,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "travel mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, straightforward presentation lacking high editorial mood.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351334169",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Designed for life in motion. This travel mug combines essential utility with a distinctive graphic layout. Its high-capacity structure offers daily comfort and a refined presence. Each piece is meticulously crafted to order in our facilities. We offer worldwide shipping for your ultimate convenience. An essential accessory that redefines everyday elegance.",
+ "desc_es": "Diseñada para la vida en movimiento. Esta taza de viaje combina funcionalidad esencial con un diseño gráfico distintivo. Su estructura de alta capacidad ofrece comodidad diaria y una presencia refinada. Cada pieza se elabora meticulosamente bajo pedido en nuestras instalaciones. Ofrecemos envíos a todo el mundo para su máxima comodidad. Un accesorio esencial que redefine la elegancia cotidiana.",
+ "details_en": "· 25 oz capacity\n· Integrated handle design\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Capacidad de 25 oz\n· Con asa integrada\n· Producto confeccionado bajo pedido\n· Envío a todo el mundo disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/bd4/bd4e0cf064277c4b024b558b15e4645e_preview.png"
  ],
@@ -21,9 +34,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Aztec Diamond Mug · White",
- "name_es": "Taza Aztec Diamond · Blanco",
+ "name_en": "Aztec Diamond Travel Mug",
+ "name_es": "Taza de Viaje Aztec Diamond",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 399,

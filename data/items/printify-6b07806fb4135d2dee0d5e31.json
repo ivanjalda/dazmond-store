@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White and Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shots with a polished lifestyle setting.",
+ "art_score": 6,
+ "audited": "2026-11-26",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,17 @@
  "cg": "printify-6b07806fb4135d2dee0d5e31",
  "color": "",
  "created": "2026-11-26",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined expression for home and workspace. This ceramic piece features a gold-toned graphic detail bearing the house identity. Designed to elevate daily rituals with a sober and distinguished presence. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Una expresion refinada para el hogar y la oficina. Esta pieza de ceramica presenta un detalle grafico en tono dorado con la identidad de la casa. Diseñada para elevar los rituales diarios con una presencia sobria y distinguida. Cada pieza es hecha a pedido y cuenta con envio disponible a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b07806fb4135d2dee0d5e31/62327/3387/gold-plaque-mug.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b07806fb4135d2dee0d5e31/62327/3389/gold-plaque-mug.jpg?camera_label=right",
   "https://images-api.printify.com/mockup/6b07806fb4135d2dee0d5e31/62327/3391/gold-plaque-mug.jpg?camera_label=left",
-  "https://images-api.printify.com/mockup/6b07806fb4135d2dee0d5e31/62327/6562/gold-plaque-mug.jpg?camera_label=context",
   "https://images-api.printify.com/mockup/6b07806fb4135d2dee0d5e31/62328/3388/gold-plaque-mug.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b07806fb4135d2dee0d5e31/62328/3390/gold-plaque-mug.jpg?camera_label=right",
-  "https://images-api.printify.com/mockup/6b07806fb4135d2dee0d5e31/62328/3392/gold-plaque-mug.jpg?camera_label=left",
-  "https://images-api.printify.com/mockup/6b07806fb4135d2dee0d5e31/62328/6563/gold-plaque-mug.jpg?camera_label=context"
+  "https://images-api.printify.com/mockup/6b07806fb4135d2dee0d5e31/62328/3392/gold-plaque-mug.jpg?camera_label=left"
  ],
  "draft": false,
  "fam": "plaque-mug",
@@ -28,9 +40,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Plaque Mug · Gold",
- "name_es": "Taza Plaque · Oro",
+ "name_en": "Gold Plaque Mug",
+ "name_es": "Taza Gold Plaque",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
  "rank": 30,
