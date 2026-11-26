@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "turquoise",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "polyester",
+ "ai_type": "baseball shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation and clear garment details, though lifestyle imagery appears composited and flat.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,16 @@
  "cg": "t-camiseta-de-beisbol-daz-de-manga-corta-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reimagining of the classic athletic silhouette. This baseball shirt features an all-over geometric diamond motif print set against a vibrant turquoise background. Crafted from a lightweight and breathable polyester fabric, it offers exceptional comfort and optimal ventilation. The design includes a buttoned front closure and a refined V-neck. A versatile piece tailored for the transition between leisure moments and daily occasions. Available made-to-order with worldwide shipping.",
+ "desc_es": "Una reinterpretación contemporánea de la silueta deportiva clásica. Esta camiseta de béisbol presenta un estampado integral de motivos geométricos de diamantes sobre un fondo turquesa vibrante. Confeccionada en tejido de poliéster ligero y transpirable, ofrece una comodidad excepcional y una ventilación óptima. El diseño incluye un cierre frontal abotonado y un cuello en V refinado. Una pieza versátil diseñada para la transición entre momentos de ocio y ocasiones cotidianas. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Crafted from high-quality polyester\n· Lightweight and breathable fabric\n· Buttoned front closure with V-neck\n· Hand and machine washable\n· Made to order and available with worldwide shipping",
+ "details_es": "· Confeccionado en poliéster de alta calidad\n· Tejido ligero y transpirable\n· Cierre frontal abotonado con cuello en V\n· Lavable a mano y a máquina\n· Disponible bajo pedido y con envío a todo el mundo",
  "display_images": [
   "assets/products/shop/4ba7f81f1dc3d144fead.jpg",
   "assets/products/shop/dedf4b3886059106e1dc.jpg",
   "assets/products/shop/c09941b0cda660d2e3dd.jpg",
-  "assets/products/shop/36f4fa4fcea5b820fea0.jpg",
-  "assets/products/shop/e2ddf78dcb03341d5226.jpg",
   "assets/products/shop/7c2a9646a0d9def4e17f.jpg",
-  "assets/products/shop/37186a39a5bfe8260a5e.jpg",
-  "assets/products/shop/3b91a7bb189dbe3b1bea.jpg"
+  "assets/products/shop/37186a39a5bfe8260a5e.jpg"
  ],
  "draft": false,
  "fam": "camiseta-beisbol-manga",
@@ -31,9 +42,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Béisbol Daz Manga Jersey Shirt",
- "name_es": "Camisa Béisbol Daz Manga",
+ "name_en": "DAZ Baseball T-Shirt",
+ "name_es": "Camiseta de béisbol DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1055,
@@ -41,8 +53,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "CHEST",
+   "SHOULDER"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "PECHO",
+   "HOMBRO"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Por favor permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "72.5cm(28.5\")",
+    "113cm(44.4\")",
+    "49cm(19.3\")"
+   ],
+   [
+    "M",
+    "75cm(29.5\")",
+    "118cm(46.4\")",
+    "51.5cm(20.3\")"
+   ],
+   [
+    "L",
+    "77.5cm(30.5\")",
+    "123cm(48.4\")",
+    "54cm(21.3\")"
+   ],
+   [
+    "XL",
+    "80cm(31.4\")",
+    "128cm(50.3\")",
+    "56.5cm(22.2\")"
+   ],
+   [
+    "2XL",
+    "82.5cm(32.4\")",
+    "133cm(52.4\")",
+    "59cm(23.2\")"
+   ],
+   [
+    "3XL",
+    "85cm(33.4\")",
+    "138cm(54.3\")",
+    "61.5cm(24.2\")"
+   ],
+   [
+    "4XL",
+    "87.5cm(34.4\")",
+    "143cm(56.3\")",
+    "64cm(25.2\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/3b91a7bb189dbe3b1bea.jpg"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Synthetic leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Wallet",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation of the printed wallet, though standard e-commerce angles limit high luxury impact.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +20,15 @@
  "cg": "t-cartera-daz-premium-de-cuero-sintetico-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This refined wallet combines practicality with a distinctive design. Crafted from high-grade synthetic leather, it offers an exceptionally soft touch and a delicate texture. Its compact and versatile silhouette adapts effortlessly to daily use and travel. The structured interior provides secure and organized space for cards and essentials. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Esta refinada cartera combina funcionalidad y diseño distintivo. Confeccionada en piel sintética de alta calidad, ofrece un tacto excepcionalmente suave y una textura delicada. Su silueta compacta y versátil se adapta con facilidad al uso diario y a los desplazamientos. El interior estructurado proporciona un espacio seguro y organizado para tarjetas y esenciales. Cada pieza se confecciona bajo pedido y cuenta con envío mundial.",
+ "details_en": "· High-grade synthetic leather\n· Dimensions: 24 x 9 cm\n· Multiple card slots\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Piel sintética de alta calidad\n· Dimensiones: 24 x 9 cm\n· Múltiples ranuras para tarjetas\n· Confección bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/53889063a515a359585a.jpg",
   "assets/products/shop/6a87ab441f5b053ae619.jpg",
   "assets/products/shop/cc180b85c2821b440e7d.jpg",
-  "assets/products/shop/3de989fad255f6ec1ae0.jpg",
-  "assets/products/shop/5a773e29f6bfa2b620b4.jpg",
-  "assets/products/shop/5e6e9014e0e1d7f8a854.jpg",
-  "assets/products/shop/dc9d49ddb0137dc4d1b6.jpg"
+  "assets/products/shop/5a773e29f6bfa2b620b4.jpg"
  ],
  "draft": false,
  "fam": "cartera-premium-cuero",
@@ -30,9 +42,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Cartera Daz Cuero Bag",
- "name_es": "Bolso Cartera Daz Cuero",
+ "name_en": "Faux Leather Wallet",
+ "name_es": "Cartera de piel sintética",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 23.99,
  "rank": 1059,
@@ -40,9 +53,31 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Maletas y bolsos de viaje > Maletines",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "Dimensions measured flat.",
+  "notes_es": "Dimensiones medidas en plano.",
+  "rows": [
+   [
+    "24.3",
+    "9.1"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/3de989fad255f6ec1ae0.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Cartera DAZ Premium de cuero sintético para hombre",
  "stripe_payment_link": "https://buy.stripe.com/6oU5kEdrudOY9eCcGO1gO14",
  "supplier": "Shopify",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "Yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester",
+ "ai_type": "Baseball Shirt",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce product imagery with basic composited model shots.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,16 @@
  "cg": "t-camiseta-de-beisbol-daz-de-manga-corta-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This men's short-sleeve baseball shirt fuses athletic heritage with a clean, modern silhouette. Crafted from high-grade polyester fabric, it provides exceptional lightness and optimal ventilation to ensure all-day comfort. The design features a front button closure and refined tailoring that transitions effortlessly from casual wear to daily activities. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Esta camisa de béisbol de manga corta para hombre combina un diseño deportivo con una silueta depurada. Confeccionada en tejido de poliéster de alta calidad, ofrece una ligereza excepcional y una transpirabilidad óptima para garantizar comodidad durante todo el día. El diseño incluye un cierre frontal de botonadura y un acabado refinado que se adapta con facilidad a conjuntos casuales o actividades diarias. Cada pieza se elabora bajo pedido y cuenta con envío mundial.",
+ "details_en": "· Composition: High-grade polyester fabric\n· Short sleeves and V-neck design with button closure\n· Care: Hand and machine washable; do not soak for a long time; do not bleach; air or machine dry\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Composición: Tejido de poliéster de alta calidad\n· Diseño de manga corta y cuello en V con botonadura\n· Cuidado: Lavable a mano y a máquina; no remojar durante mucho tiempo; no usar lejía; secar al aire o a máquina\n· Hecho bajo pedido y disponible con envío mundial",
  "display_images": [
   "assets/products/shop/c2303065ddce1ee56265.jpg",
   "assets/products/shop/5f84090236f0cfe89d03.jpg",
   "assets/products/shop/e8ee5c1dfaef1a5202b5.jpg",
-  "assets/products/shop/6f8383db1d240587e223.jpg",
-  "assets/products/shop/800384d729167178b361.jpg",
   "assets/products/shop/d685b6182b461890ea08.jpg",
-  "assets/products/shop/6cf83f495e18536614dc.jpg",
-  "assets/products/shop/2d3d8bf06a23a6d4a795.jpg"
+  "assets/products/shop/6cf83f495e18536614dc.jpg"
  ],
  "draft": false,
  "fam": "camiseta-beisbol-manga",
@@ -31,9 +42,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Béisbol Daz Manga Jersey Shirt",
- "name_es": "Camisa Béisbol Daz Manga",
+ "name_en": "DAZ Baseball T-Shirt",
+ "name_es": "Camiseta de béisbol DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1050,
@@ -41,8 +53,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Uniformes > Uniformes deportivos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest",
+   "Shoulder"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Hombro"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "72.5cm(28.5\")",
+    "113cm(44.4\")",
+    "49cm(19.3\")"
+   ],
+   [
+    "M",
+    "75cm(29.5\")",
+    "118cm(46.4\")",
+    "51.5cm(20.3\")"
+   ],
+   [
+    "L",
+    "77.5cm(30.5\")",
+    "123cm(48.4\")",
+    "54cm(21.3\")"
+   ],
+   [
+    "XL",
+    "80cm(31.4\")",
+    "128cm(50.3\")",
+    "56.5cm(22.2\")"
+   ],
+   [
+    "2XL",
+    "82.5cm(32.4\")",
+    "133cm(52.4\")",
+    "59cm(23.2\")"
+   ],
+   [
+    "3XL",
+    "85cm(33.4\")",
+    "138cm(54.3\")",
+    "61.5cm(24.2\")"
+   ],
+   [
+    "4XL",
+    "87.5cm(34.4\")",
+    "143cm(56.3\")",
+    "64cm(25.2\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/2d3d8bf06a23a6d4a795.jpg"
+ ],
  "sizes": [
   "S",
   "M",

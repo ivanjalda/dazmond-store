@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "Dark Purple and Deep Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "85% Polyester, 15% Elastane",
+ "ai_type": "Bikini",
+ "ai_ver": 2,
+ "art_note": "Exceptional campaign imagery featuring high-end luxury lifestyle settings, professional lighting, and precise garment presentation.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-stellar-sport-top-high-waisted-bikini",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefine summer elegance with this two-piece set. The design fuses an avant-garde aesthetic with clean lines. The geometric star pattern in dark tones brings visual depth. The metallic signature details enhance the silhouette with refinement. A proposition conceived for the most exclusive destinations.",
+ "desc_es": "Redefina la elegancia estival con este conjunto de dos piezas. Su diseño fusiona una estética vanguardista con líneas depuradas. El patrón geométrico estelar en tonos oscuros aporta profundidad visual. Los detalles metalizados de la firma realzan la silueta con refinamiento. Una propuesta pensada para los destinos más exclusivos.",
+ "details_en": "· Made to order\n· Worldwide shipping\n· 85% polyester\n· 15% elastane\n· 6.00 oz fabric weight",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo\n· 85% poliéster\n· 15% elastano\n· Gramaje de 6.00 oz",
  "display_images": [
   "assets/products/shop/97c2349cd230ee30006c.jpg",
   "assets/products/shop/374b19117e23ab87730e.jpg",
@@ -19,8 +33,7 @@
   "assets/products/shop/b45d42593accb87c3d15.jpg",
   "assets/products/shop/00e4db4cfeacbc3a831e.jpg",
   "assets/products/shop/6e96f62aeb58f31964ac.jpg",
-  "assets/products/shop/a8665a9c7b239574c892.jpg",
-  "assets/products/shop/dff18a6bacc24bb3951e.jpg"
+  "assets/products/shop/a8665a9c7b239574c892.jpg"
  ],
  "draft": false,
  "fam": "luxury-dark-stellar",
@@ -34,9 +47,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Stellar Sport High Swimwear",
- "name_es": "Bañador Stellar Sport High",
+ "name_en": "Dark Stellar Bikini",
+ "name_es": "Bikini Dark Stellar",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 23.99,
  "rank": 1048,

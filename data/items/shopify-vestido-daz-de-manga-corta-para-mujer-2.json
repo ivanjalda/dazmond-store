@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "orange",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Digital mockup presentation lacks high-end campaign atmosphere and genuine fabric texture.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "t-vestido-daz-de-manga-corta-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your everyday wardrobe with this short sleeve midi dress. Defined by a fitted silhouette that embraces the hip, it offers timeless elegance and effortless style. The crew neckline design brings refined sophistication to any occasion. Crafted to provide all-day comfort without compromising visual presence. Each piece is made to order in the United States. Available with worldwide shipping.",
+ "desc_es": "Eleve su guardarropa diario con este vestido midi de manga corta. Definido por una silueta entallada que abraza la cadera, ofrece una elegancia atemporal y un estilo sin esfuerzo. El diseño de escote redondo aporta una sofisticación refinada a cualquier ocasión. Confeccionado para ofrecer comodidad durante todo el día sin comprometer la presencia visual. Cada pieza se confecciona bajo pedido en Estados Unidos. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order in the United States\n· Worldwide shipping\n· Fitted silhouette\n· Short sleeves\n· Crew neckline\n· Machine washable",
+ "details_es": "· Hecho a pedido en los Estados Unidos\n· Envío a todo el mundo\n· Ajuste entallado\n· Manga corta\n· Escote redondo\n· Lavable a máquina",
  "display_images": [
   "assets/products/shop/40f2d36bc65a3151fe7e.jpg",
   "assets/products/shop/e0cb951a2a85904e2695.jpg",
@@ -16,8 +29,6 @@
   "assets/products/shop/277ff9b10aeb443d6da9.jpg",
   "assets/products/shop/77924bbe1f515af875bf.jpg",
   "assets/products/shop/050da490870138d2e675.jpg",
-  "assets/products/shop/027f38bc224530b6b598.jpg",
-  "assets/products/shop/42485a4e6feae6e3e821.jpg",
   "assets/products/shop/caced6cb6a516c6103a8.jpg"
  ],
  "draft": false,
@@ -35,6 +46,7 @@
  "name_en": "Short Sleeve Essential Midi Dress",
  "name_es": "Vestido Midi Esencial de Manga Corta",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
  "rank": 904,
@@ -42,8 +54,86 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "HIP",
+   "WAIST",
+   "BUST"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "CADERA",
+   "CINTURA",
+   "PECHO"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "132cm (52.0\")",
+    "84cm (33.1\")",
+    "62cm (24.4\")",
+    "82cm (32.3\")"
+   ],
+   [
+    "S",
+    "133cm (52.4\")",
+    "88cm (34.7\")",
+    "66cm (26.0\")",
+    "86cm (34.9\")"
+   ],
+   [
+    "M",
+    "134cm (52.8\")",
+    "92cm (36.2\")",
+    "70cm (27.6\")",
+    "90cm (35.4\")"
+   ],
+   [
+    "L",
+    "135cm (53.2\")",
+    "96cm (37.8\")",
+    "74cm (29.2\")",
+    "94cm (37.0\")"
+   ],
+   [
+    "XL",
+    "136cm (53.6\")",
+    "100cm (39.4\")",
+    "78cm (30.8\")",
+    "98cm (38.6\")"
+   ],
+   [
+    "2XL",
+    "136cm (54.0\")",
+    "104cm (41.0\")",
+    "82cm (32.4\")",
+    "102cm (40.2\")"
+   ],
+   [
+    "3XL",
+    "137cm (54.4\")",
+    "108cm (42.6\")",
+    "86cm (34.0\")",
+    "106cm (41.8\")"
+   ],
+   [
+    "4XL",
+    "138cm (54.8\")",
+    "112cm (44.2\")",
+    "90cm (35.6\")",
+    "110cm (43.6\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/42485a4e6feae6e3e821.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

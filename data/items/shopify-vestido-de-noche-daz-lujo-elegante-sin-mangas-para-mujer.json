@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Black and Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester fabric",
+ "ai_type": "Dress",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on flat mockups and composited cutouts, failing to meet luxury e-commerce presentation standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-de-noche-daz-lujo-elegante-sin-mangas-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This evening maxi dress presents a fluid, draped silhouette with a sleeveless design. Crafted with attention to detail, it offers an elegant floor-length drape that frames the silhouette. Each piece is made especially to order to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Este vestido largo de noche presenta una silueta fluida y drapeada con un diseño sin mangas. Confeccionado con atención al detalle, ofrece una caída elegante hasta el suelo que realza la figura. Cada pieza se confecciona especialmente bajo demanda para garantizar exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· Made of high quality polyester fabric (200 g/m²)\n· Draped long style and sleeveless design\n· Floor length\n· Machine washable with cold water, gentle cycle and mild detergent\n· Made-to-order piece, limited units\n· Worldwide shipping",
+ "details_es": "· Confeccionado en tejido de poliéster de alta calidad (200 g/m²)\n· Estilo largo drapeado y diseño sin mangas\n· Largo hasta el suelo\n· Lavable a máquina con agua fría, ciclo suave y detergente suave\n· Producto bajo demanda, unidades limitadas\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/cb038ac448c0f0b822ea.jpg",
   "assets/products/shop/f07ad9994335b7ac77d1.jpg",
@@ -16,8 +30,7 @@
   "assets/products/shop/f7446f560f037f76bedb.jpg",
   "assets/products/shop/ad185ca26f3119cc3c26.jpg",
   "assets/products/shop/f6e6a5ceaff590fb6f9c.jpg",
-  "assets/products/shop/bf25dfc54d15395fe06e.jpg",
-  "assets/products/shop/c219e38b8993952b161e.jpg"
+  "assets/products/shop/bf25dfc54d15395fe06e.jpg"
  ],
  "draft": false,
  "fam": "vestido-noche-lujo",
@@ -31,9 +44,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Noche Daz Lujo Dress",
- "name_es": "Vestido Noche Daz Lujo",
+ "name_en": "Luxury printed maxi dress",
+ "name_es": "Vestido largo estampado de lujo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 23.99,
  "rank": 1070,
@@ -41,8 +55,81 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "1/2 Chest",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "1/2 Pecho",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "2XS",
+    "37cm (14.6\")",
+    "106cm (41.7\")"
+   ],
+   [
+    "XS",
+    "39cm (15.4\")",
+    "108.5cm (42.7\")"
+   ],
+   [
+    "S",
+    "41cm (16.1\")",
+    "111cm (43.7\")"
+   ],
+   [
+    "M",
+    "43cm (17\")",
+    "113.5cm (44.7\")"
+   ],
+   [
+    "L",
+    "45cm (17.7\")",
+    "116cm (45.7\")"
+   ],
+   [
+    "XL",
+    "47cm (18.5\")",
+    "118.5cm (46.7\")"
+   ],
+   [
+    "2XL",
+    "49cm (19.3\")",
+    "121cm (47.6\")"
+   ],
+   [
+    "3XL",
+    "51cm (20.1\")",
+    "123.5cm (48.6\")"
+   ],
+   [
+    "4XL",
+    "53cm (20.9\")",
+    "126cm (49.6\")"
+   ],
+   [
+    "5XL",
+    "55cm (21.7\")",
+    "128.5cm (50.6\")"
+   ],
+   [
+    "6XL",
+    "57cm (22.4\")",
+    "131cm (51.6\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/c219e38b8993952b161e.jpg"
+ ],
  "sizes": [
   "2XS",
   "XS",

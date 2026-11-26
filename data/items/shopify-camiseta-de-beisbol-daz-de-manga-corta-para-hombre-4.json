@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "polyester",
+ "ai_type": "Baseball Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation on product shots, but lifestyle and detail composites detract from the luxury aesthetic.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,15 @@
  "cg": "t-camiseta-de-beisbol-daz-de-manga-corta-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reinterpretation of the classic athletic silhouette. This piece is crafted from high-quality polyester fabric, engineered for lightness and breathability. It features clean lines and a versatile structure that transitions effortlessly between relaxed formality and everyday casual wear. Each garment is made to order in our American fashion house, ensuring exclusivity and worldwide shipping.",
+ "desc_es": "Una reinterpretación contemporánea de la silueta deportiva clásica. Esta pieza está confeccionada en tejido de poliéster de alta calidad, diseñado para ofrecer ligereza y transpirabilidad. Presenta líneas limpias y una estructura versátil que transita sin esfuerzo entre la formalidad relajada y el estilo casual diario. Cada prenda se confecciona bajo demanda en nuestra casa de moda estadounidense, garantizando exclusividad y envíos a todo el mundo.",
+ "details_en": "· High-quality polyester fabric\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Tejido de poliéster de alta calidad\n· Confeccionado bajo demanda\n· Envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/810ddf28a56f5e758390.jpg",
   "assets/products/shop/d31807894d1d036bf8f2.jpg",
   "assets/products/shop/f585158a0ca6912cb58e.jpg",
-  "assets/products/shop/6864edb2fa34e51b8af7.jpg",
-  "assets/products/shop/0f0bd6bfd8420a4884e0.jpg",
-  "assets/products/shop/817f61cb035cbd3b9cae.jpg",
-  "assets/products/shop/55715b975d7ed0c09ac3.jpg",
-  "assets/products/shop/5ba684e3f8bf0c7665ac.jpg"
+  "assets/products/shop/817f61cb035cbd3b9cae.jpg"
  ],
  "draft": false,
  "fam": "camiseta-beisbol-manga",
@@ -31,9 +41,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Béisbol Daz Manga Jersey Shirt",
- "name_es": "Camisa Béisbol Daz Manga",
+ "name_en": "DAZ Baseball T-Shirt",
+ "name_es": "Camiseta de béisbol DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1053,
@@ -41,8 +52,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Uniformes > Uniformes deportivos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest",
+   "Shoulder"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Hombro"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "72.5cm(28.5\")",
+    "113cm(44.4\")",
+    "49cm(19.3\")"
+   ],
+   [
+    "M",
+    "75cm(29.5\")",
+    "118cm(46.4\")",
+    "51.5cm(20.3\")"
+   ],
+   [
+    "L",
+    "77.5cm(30.5\")",
+    "123cm(48.4\")",
+    "54cm(21.3\")"
+   ],
+   [
+    "XL",
+    "80cm(31.4\")",
+    "128cm(50.3\")",
+    "56.5cm(22.2\")"
+   ],
+   [
+    "2XL",
+    "82.5cm(32.4\")",
+    "133cm(52.4\")",
+    "59cm(23.2\")"
+   ],
+   [
+    "3XL",
+    "85cm(33.4\")",
+    "138cm(54.3\")",
+    "61.5cm(24.2\")"
+   ],
+   [
+    "4XL",
+    "87.5cm(34.4\")",
+    "143cm(56.3\")",
+    "64cm(25.2\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/5ba684e3f8bf0c7665ac.jpg"
+ ],
  "sizes": [
   "S",
   "M",

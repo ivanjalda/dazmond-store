@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Mockups and template composites lack real luxury studio lighting and styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A fluid silhouette defined by a contrasting botanical print. This mini dress features adjustable thin straps and a pronounced neckline that highlights the shoulder line. Designed for versatility during evening events or summer gatherings. Each piece is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta fluida definida por un estampado botánico contrastante. Este vestido corto presenta tirantes finos ajustables y un escote pronunciado que realza la línea de los hombros. Diseñado para ofrecer versatilidad en eventos nocturnos o encuentros veraniegos. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· Crafted from premium polyester\n· Adjustable thin straps\n· Machine washable\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Confeccionado en poliéster de primera calidad\n· Tirantes finos ajustables\n· Lavable a máquina\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/91896a6855808d52c5d5.jpg",
   "assets/products/shop/2c3acce7850e21b251e9.jpg",
@@ -16,9 +30,7 @@
   "assets/products/shop/02f00ba67d7464858ce6.jpg",
   "assets/products/shop/52224fce1724d00892b7.jpg",
   "assets/products/shop/6134e4cb3da11ed2f4fc.jpg",
-  "assets/products/shop/ac7b4b73fa6a3ef15b4c.jpg",
-  "assets/products/shop/3628a5e629f30e431566.jpg",
-  "assets/products/shop/fa8cf981a3a71249631f.jpg"
+  "assets/products/shop/ac7b4b73fa6a3ef15b4c.jpg"
  ],
  "draft": false,
  "fam": "vestido-luxury-corto",
@@ -35,6 +47,7 @@
  "name_en": "Printed Strap Mini Dress",
  "name_es": "Minivestido Estampado con Tirantes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 20.99,
  "rank": 1037,
@@ -42,8 +55,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Bust"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Busto"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "71cm (28.0\")",
+    "68cm (26.8\")",
+    "78cm (30.7\")"
+   ],
+   [
+    "S",
+    "73cm (28.7\")",
+    "72cm (28.4\")",
+    "82cm (32.3\")"
+   ],
+   [
+    "M",
+    "75cm (29.5\")",
+    "76cm (30.0\")",
+    "86cm (33.9\")"
+   ],
+   [
+    "L",
+    "77cm (30.3\")",
+    "80cm (31.5\")",
+    "90cm (35.4\")"
+   ],
+   [
+    "XL",
+    "79cm (31.1\")",
+    "84cm (33.1\")",
+    "94cm (37.0\")"
+   ],
+   [
+    "2XL",
+    "81cm (31.9\")",
+    "88cm (34.7\")",
+    "98cm (38.6\")"
+   ],
+   [
+    "3XL",
+    "83cm (32.7\")",
+    "92cm (36.2\")",
+    "102cm (40.2\")"
+   ],
+   [
+    "4XL",
+    "85cm (33.5\")",
+    "96cm (37.8\")",
+    "106cm (41.7\")"
+   ],
+   [
+    "5XL",
+    "87cm (34.3\")",
+    "100cm (39.4\")",
+    "110cm (43.3\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/3628a5e629f30e431566.jpg"
+ ],
  "sizes": [
   "XS",
   "S",
