@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "turquoise",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on flat digital mockups and awkward composite lifestyle shots, detracting from the luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,18 +19,13 @@
  "cg": "t-vestido-daz-luxury-corto-con-tirantes-finos-ajustables-y-sin-mangas-para",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A fluid silhouette defined by a vibrant turquoise background and a delicate floral print. This mini dress combines grace and lightness with adjustable thin straps. Designed to offer versatility and sophistication for any evening or summer occasion. Made to order. Worldwide shipping.",
+ "desc_es": "Una silueta fluida definida por un vibrante fondo turquesa y un delicado estampado floral. Este vestido corto combina gracia y ligereza con tirantes finos ajustables. Diseñado para ofrecer versatilidad y sofisticación en cualquier ocasión nocturna o estival. Confeccionado a medida. Envíos a todo el mundo.",
+ "details_en": "· Composition: premium polyester\n· Adjustable thin straps\n· Machine washable\n· Made to order and worldwide shipping",
+ "details_es": "· Composición: poliéster de primera calidad\n· Tirantes finos ajustables\n· Lavable a máquina\n· Hecho a medida y envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/d5744c6e2b7e250c42f9.jpg",
-  "assets/products/shop/ff09b5c45f9552181640.jpg",
   "assets/products/shop/fe2033b9b4f6309ad20a.jpg",
-  "assets/products/shop/16dbd1125f31a1cdca7f.jpg",
-  "assets/products/shop/549f708e64abe9af36b7.jpg",
-  "assets/products/shop/b32aeadc1e85c925fb22.jpg",
-  "assets/products/shop/65795902ab50741b6e95.jpg",
-  "assets/products/shop/e97c49cc3c8e4f26963b.jpg",
-  "assets/products/shop/5da479464f9314a46e78.jpg"
+  "assets/products/shop/16dbd1125f31a1cdca7f.jpg"
  ],
  "draft": false,
  "fam": "vestido-luxury-corto",
@@ -32,9 +39,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Corto Tirantes Dress",
- "name_es": "Vestido Daz Corto Tirantes",
+ "name_en": "Printed Strap Mini Dress",
+ "name_es": "Minivestido Estampado con Tirantes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 20.99,
  "rank": 1036,
@@ -42,8 +50,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Bust"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Busto"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "71cm (28.0\")",
+    "68cm (26.8\")",
+    "78cm (30.7\")"
+   ],
+   [
+    "S",
+    "73cm (28.7\")",
+    "72cm (28.4\")",
+    "82cm (32.3\")"
+   ],
+   [
+    "M",
+    "75cm (29.5\")",
+    "76cm (30.0\")",
+    "86cm (33.9\")"
+   ],
+   [
+    "L",
+    "77cm (30.3\")",
+    "80cm (31.5\")",
+    "90cm (35.4\")"
+   ],
+   [
+    "XL",
+    "79cm (31.1\")",
+    "84cm (33.1\")",
+    "94cm (37.0\")"
+   ],
+   [
+    "2XL",
+    "81cm (31.9\")",
+    "88cm (34.7\")",
+    "98cm (38.6\")"
+   ],
+   [
+    "3XL",
+    "83cm (32.7\")",
+    "92cm (36.2\")",
+    "102cm (40.2\")"
+   ],
+   [
+    "4XL",
+    "85cm (33.5\")",
+    "96cm (37.8\")",
+    "106cm (41.7\")"
+   ],
+   [
+    "5XL",
+    "87cm (34.3\")",
+    "100cm (39.4\")",
+    "110cm (43.3\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/e97c49cc3c8e4f26963b.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

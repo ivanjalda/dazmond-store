@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Journal",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product shot with precise lighting and minimalist composition.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350468176",
  "color": "Red",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A writing instrument conceived to capture enduring thoughts. Its refined design combines functionality with understated elegance. Every detail reflects the constant pursuit of distinction. An essential piece for the contemporary creator's daily routine. Made to order with worldwide shipping available.",
+ "desc_es": "Un objeto de escritura concebido para capturar pensamientos perdurables. Su diseño refinado combina funcionalidad y elegancia discreta. Cada detalle refleja la búsqueda constante de la distinción. Una pieza esencial para el día a día del creador contemporáneo. Elaborado bajo demanda con disponibilidad de envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/a29/a294e98e607e5df5945e25affe1a0fc7_preview.png"
  ],
@@ -24,6 +37,7 @@
  "name_en": "Visionary Hardcover Journal · Red",
  "name_es": "Cuaderno Visionary Hardcover · Rojo",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 27.99,
  "rank": 839,

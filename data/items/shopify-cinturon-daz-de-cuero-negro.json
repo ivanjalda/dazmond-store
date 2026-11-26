@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/cinturon"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% leather",
+ "ai_type": "Belt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but lifestyle and size guide images look composited and cheap.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,15 @@
  "cg": "t-cinturon-daz-de-cuero",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined by clean lines and understated elegance, this black leather belt is a refined essential for the contemporary wardrobe. Crafted with meticulous attention to detail, it features a classic single-prong zinc alloy buckle offering subtle contrast. Versatile and sophisticated, it transitions effortlessly from formal tailoring to casual refinement. Each piece is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Definido por líneas limpias y una elegancia sobria, este cinturón de cuero negro es un esencial refinado para el guardarropa contemporáneo. Confeccionado con atención meticulosa al detalle, presenta una hebilla clásica de una sola punta en aleación de zinc que aporta un contraste sutil. Versátil y sofisticado, transita sin esfuerzo desde la sastrería formal hasta la elegancia casual. Cada pieza se confecciona bajo pedido para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% leather\n· Zinc alloy buckle\n· Single-prong closure\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% cuero\n· Hebilla de aleación de zinc\n· Cierre de una sola punta\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/c6f9a18675342c13cdf4.jpg",
   "assets/products/shop/56e81ee729089cbb5aba.jpg",
   "assets/products/shop/12e2b5fed9da05cb9ddc.jpg",
-  "assets/products/shop/01f519a03257fe18460e.jpg",
-  "assets/products/shop/743144a67501442d95cf.jpg",
-  "assets/products/shop/da5ac245459a8aff2a6b.jpg",
-  "assets/products/shop/b360de9c929d4bc3d7c6.jpg"
+  "assets/products/shop/01f519a03257fe18460e.jpg"
  ],
  "draft": false,
  "fam": "cinturon-cuero-negro",
@@ -30,9 +41,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Cinturón Daz Cuero Belt",
- "name_es": "Cinturón Cinturón Daz Cuero",
+ "name_en": "DAZ Black Leather Belt",
+ "name_es": "Cinturón de Cuero Negro DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
  "rank": 925,
@@ -40,8 +52,36 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Complementos > Cinturones",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement. Choose a size larger than your pant waist for a proper fit.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual. Elija una talla más grande que la cintura de sus pantalones para un ajuste adecuado.",
+  "rows": [
+   [
+    "110",
+    "110 cm"
+   ],
+   [
+    "120",
+    "120 cm"
+   ],
+   [
+    "140",
+    "140 cm"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/b360de9c929d4bc3d7c6.jpg"
+ ],
  "sizes": [
   "110cm",
   "120cm",

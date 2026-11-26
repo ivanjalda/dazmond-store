@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Solid White Blend",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery with natural lighting and editorial poise, elevating the garment's casual nature.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-374546782",
  "color": "Solid White Blend",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined expression of effortless elegance. This V-neck silhouette defines a relaxed yet sophisticated style. Crafted to order to ensure absolute exclusivity. The solid white tone brings timeless luminosity to any contemporary wardrobe. Available with worldwide shipping.",
+ "desc_es": "Una expresión depurada de la elegancia casual. Esta silueta de cuello en v define un estilo relajado pero sofisticado. Confeccionada bajo pedido para garantizar una exclusividad absoluta. El tono blanco sólido aporta una luminosidad atemporal a cualquier guardarropa contemporáneo. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/b22/b227bd11d4c6cda0f273119d752f81b3_preview.png"
  ],
@@ -27,6 +40,7 @@
  "name_en": "Relaxed V-Neck T-Shirt · Solid White Blend",
  "name_es": "Camiseta Cuello En V Relajada · Solid White Blend",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 32.99,
  "rank": 805,

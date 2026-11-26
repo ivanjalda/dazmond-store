@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/4ff2aa2181d18272d7e5.jpg",
+  "assets/products/shop/b73b993fa5d965fa8a2d.jpg",
+  "assets/products/shop/8bf0836d896d205eede4.jpg",
+  "assets/products/shop/235701009ce93773266a.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "braguita-bikini-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-384447583",
  "img_checked": "2026-11-23",

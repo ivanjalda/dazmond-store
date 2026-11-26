@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Azul",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Poliéster",
+ "ai_type": "Vestido",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on flat digital mockups and awkward compositing, detracting from a true luxury presentation.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Refined and fluid silhouette. This short dress features adjustable thin straps and a sleeveless design. Crafted from premium polyester. It offers a lightweight and versatile drape for any sophisticated occasion. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Silueta depurada y fluida. Este vestido corto presenta tirantes finos ajustables y un diseño sin mangas. Confeccionado con poliéster de primera calidad. Ofrece una caída ligera y versátil para cualquier ocasión sofisticada. Cada pieza se confecciona bajo pedido. Disponible con envío a todo el mundo.",
+ "details_en": "· Composition: premium polyester\n· Adjustable thin straps\n· Machine washable\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Composición: poliéster de primera calidad\n· Tirantes finos ajustables\n· Lavable a máquina\n· Confeccionado bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/7e1047efa2693e5f07f0.jpg",
   "assets/products/shop/6b403a6beeb6bfd665f8.jpg",
@@ -16,8 +30,6 @@
   "assets/products/shop/2abee628868c7f15a6de.jpg",
   "assets/products/shop/514a73c298a76d05a4b9.jpg",
   "assets/products/shop/4230dca94683e0a13722.jpg",
-  "assets/products/shop/c0bd3d8375ed9848b55c.jpg",
-  "assets/products/shop/9b1076feee97364f83e6.jpg",
   "assets/products/shop/00ee655ccdbf71f44367.jpg"
  ],
  "draft": false,
@@ -32,9 +44,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Corto Daz Tirantes Dress",
- "name_es": "Vestido Corto Daz Tirantes",
+ "name_en": "Mini Strap Slip Dress",
+ "name_es": "Vestido Corto con Tirantes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 20.99,
  "rank": 1031,
@@ -42,8 +55,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Bust"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Busto"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "71cm(28.0\")",
+    "68cm(26.8\")",
+    "78cm(30.7\")"
+   ],
+   [
+    "S",
+    "73cm(28.7\")",
+    "72cm(28.4\")",
+    "82cm(32.3\")"
+   ],
+   [
+    "M",
+    "75cm(29.5\")",
+    "76cm(30.0\")",
+    "86cm(33.9\")"
+   ],
+   [
+    "L",
+    "77cm(30.3\")",
+    "80cm(31.5\")",
+    "90cm(35.4\")"
+   ],
+   [
+    "XL",
+    "79cm(31.1\")",
+    "84cm(33.1\")",
+    "94cm(37.0\")"
+   ],
+   [
+    "2XL",
+    "81cm(31.9\")",
+    "88cm(34.7\")",
+    "98cm(38.6\")"
+   ],
+   [
+    "3XL",
+    "83cm(32.7\")",
+    "92cm(36.2\")",
+    "102cm(40.2\")"
+   ],
+   [
+    "4XL",
+    "85cm(33.5\")",
+    "96cm(37.8\")",
+    "106cm(41.7\")"
+   ],
+   [
+    "5xl",
+    "87cm(34.3\")",
+    "100cm(39.4\")",
+    "110cm(43.3\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/9b1076feee97364f83e6.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

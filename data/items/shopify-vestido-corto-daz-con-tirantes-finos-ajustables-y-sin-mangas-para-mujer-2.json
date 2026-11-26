@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Poliéster",
+ "ai_type": "Vestido",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce mockups lacking editorial luxury campaign styling.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,18 +19,16 @@
  "cg": "t-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A streamlined silhouette tailored for the season. This mini dress features delicate adjustable straps and a fluid drape that accentuates the figure with natural elegance. Crafted to offer versatility and comfort for any evening event or special occasion. An essential refined piece defining modern luxury.",
+ "desc_es": "Silueta depurada diseñada para la temporada. Este vestido corto presenta finos tirantes ajustables y una caída fluida que realza la figura con elegancia natural. Confeccionado para ofrecer versatilidad y confort en cualquier evento nocturno o ocasión especial. Una pieza esencial de corte refinado que define el lujo moderno.",
+ "details_en": "· Made to order\n· Worldwide shipping available\n· Composition: Polyester\n· Adjustable thin straps\n· Machine washable",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible\n· Composición: Poliéster\n· Tirantes finos ajustables\n· Lavable a máquina",
  "display_images": [
-  "assets/products/shop/76aa789e65bf68052b49.jpg",
-  "assets/products/shop/39284015a44655e12d30.jpg",
   "assets/products/shop/746ee67a0984c695f152.jpg",
   "assets/products/shop/2c38af7b27281b41bb4d.jpg",
   "assets/products/shop/8a46b13c0f5435a7dd7a.jpg",
   "assets/products/shop/0cacc47d797ca9245a29.jpg",
-  "assets/products/shop/b35eb4a1f9494341c74f.jpg",
-  "assets/products/shop/8e4207b71d905108b5b5.jpg",
-  "assets/products/shop/8956ad200ec1d95f97d4.jpg"
+  "assets/products/shop/b35eb4a1f9494341c74f.jpg"
  ],
  "draft": false,
  "fam": "vestido-corto-tirantes",
@@ -32,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Corto Daz Tirantes Dress",
- "name_es": "Vestido Corto Daz Tirantes",
+ "name_en": "Mini Strap Slip Dress",
+ "name_es": "Vestido Corto con Tirantes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 20.99,
  "rank": 1029,
@@ -42,8 +53,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Bust"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Busto"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "71cm(28.0\")",
+    "68cm(26.8\")",
+    "78cm(30.7\")"
+   ],
+   [
+    "S",
+    "73cm(28.7\")",
+    "72cm(28.4\")",
+    "82cm(32.3\")"
+   ],
+   [
+    "M",
+    "75cm(29.5\")",
+    "76cm(30.0\")",
+    "86cm(33.9\")"
+   ],
+   [
+    "L",
+    "77cm(30.3\")",
+    "80cm(31.5\")",
+    "90cm(35.4\")"
+   ],
+   [
+    "XL",
+    "79cm(31.1\")",
+    "84cm(33.1\")",
+    "94cm(37.0\")"
+   ],
+   [
+    "2XL",
+    "81cm(31.9\")",
+    "88cm(34.7\")",
+    "98cm(38.6\")"
+   ],
+   [
+    "3XL",
+    "83cm(32.7\")",
+    "92cm(36.2\")",
+    "102cm(40.2\")"
+   ],
+   [
+    "4XL",
+    "85cm(33.5\")",
+    "96cm(37.8\")",
+    "106cm(41.7\")"
+   ],
+   [
+    "5XL",
+    "87cm(34.3\")",
+    "100cm(39.4\")",
+    "110cm(43.3)"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/8e4207b71d905108b5b5.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

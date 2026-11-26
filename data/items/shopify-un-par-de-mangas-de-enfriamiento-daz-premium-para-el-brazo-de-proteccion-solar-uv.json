@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "elastane",
+ "ai_type": "arm sleeves",
+ "ai_ver": 2,
+ "art_note": "Model photography lacks luxury standards due to composited appearance, while studio product and size guide shots remain functional and clean.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-un-par-de-mangas-de-enfriamiento-daz-premium-para-el-brazo-de",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your daily protection with these refined arm sleeves, conceived to offer flawless coverage beneath the sun. Designed to accompany every movement with absolute lightness, they combine an ergonomic silhouette with exceptional stretch. The high-performance fabric adapts smoothly to the arm, ensuring a cool and breathable feel during prolonged outdoor excursions. An essential piece of functional sophistication, made to order to suit your exclusive lifestyle.",
+ "desc_es": "Eleve su protección diaria con estas refinadas mangas para brazos, concebidas para ofrecer una cobertura impecable bajo el sol. Diseñadas para acompañar cada movimiento con total ligereza, combinan una silueta ergonómica con una excepcional elasticidad. Su tejido de alto rendimiento se adapta con suavidad al brazo, garantizando una sensación fresca y transpirable durante jornadas prolongadas al aire libre. Una pieza esencial de sofisticación funcional, confeccionada bajo demanda para adaptarse a su estilo de vida exclusivo.",
+ "details_en": "· Composition: elastane\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Composición: elastano\n· Confección bajo demanda\n· Envios a todo el mundo",
  "display_images": [
-  "assets/products/shop/9399e255dfe2ee35101c.jpg",
-  "assets/products/shop/a71fec25965986a032e2.jpg",
   "assets/products/shop/885a03d32cfa67172873.jpg",
-  "assets/products/shop/bdb818b39eecc5bcfb15.jpg",
-  "assets/products/shop/1380cbc53486320c9528.jpg"
+  "assets/products/shop/bdb818b39eecc5bcfb15.jpg"
  ],
  "draft": false,
  "fam": "un-par-mangas",
@@ -25,9 +36,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Par Mangas Enfriamiento Arm Sleeves",
- "name_es": "Mangas Deportivas Par Mangas Enfriamiento",
+ "name_en": "Botanical Motif Protective Sleeves",
+ "name_es": "Mangas protectoras con motivo botánico",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
  "rank": 1016,
@@ -35,8 +47,58 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Complementos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Cuff Circumference",
+   "Upper Arm Circumference",
+   "Sleeve Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Circunferencia de puño",
+   "Circunferencia de brazo",
+   "Largo de manga"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "17.8cm (7\")",
+    "25.4cm (10\")",
+    "41cm (16.1\")"
+   ],
+   [
+    "M",
+    "20.3cm (8\")",
+    "31.8cm (12.5\")",
+    "43cm (16.9\")"
+   ],
+   [
+    "L",
+    "22.9cm (9\")",
+    "34.3cm (13.5\")",
+    "45cm (17.7\")"
+   ],
+   [
+    "XL",
+    "24.1cm (9.5\")",
+    "36.8cm (14.5\")",
+    "47cm (18.5\")"
+   ],
+   [
+    "2XL",
+    "25.4cm (10\")",
+    "39.4cm (15.5\")",
+    "50cm (19.7\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/1380cbc53486320c9528.jpg"
+ ],
  "sizes": [
   "S",
   "M",

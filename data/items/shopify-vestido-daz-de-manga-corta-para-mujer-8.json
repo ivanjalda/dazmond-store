@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The product presentation relies on flat-laid mockups and digital composites rather than high-end studio photography.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "t-vestido-daz-de-manga-corta-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This short sleeve midi dress presents a tailored, flattering design with a classic round neckline. Its fluid silhouette embraces body lines with timeless elegance. Crafted to offer versatility and sophistication for any occasion. Each piece is made to order in the United States with worldwide shipping.",
+ "desc_es": "Este vestido midi de manga corta presenta un diseño entallado y favorecedor con un escote redondo clásico. Su silueta fluida abraza las líneas del cuerpo con elegancia atemporal. Confeccionado para ofrecer versatilidad y sofisticación en cualquier ocasión. Cada pieza se elabora bajo pedido en los Estados Unidos con envío a todo el mundo.",
+ "details_en": "· Round neckline\n· Short sleeves\n· Tailored fit\n· Machine washable\n· Made to order",
+ "details_es": "· Escote redondo\n· Manga corta\n· Ajuste entallado\n· Lavable a máquina\n· Hecho bajo pedido",
  "display_images": [
   "assets/products/shop/98cf201f0ce121090bee.jpg",
   "assets/products/shop/665e9da85feaec24217b.jpg",
@@ -16,8 +29,6 @@
   "assets/products/shop/7002b9fd6e55064b3dba.jpg",
   "assets/products/shop/1d06f699d7c18b171cc4.jpg",
   "assets/products/shop/6bac41d4235c288d88cf.jpg",
-  "assets/products/shop/9ffd7843560fc741f7f1.jpg",
-  "assets/products/shop/86bd8ab4737042f40f18.jpg",
   "assets/products/shop/764cb1b2373f820d378b.jpg"
  ],
  "draft": false,
@@ -32,9 +43,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Floral Print Midi Dress",
- "name_es": "Vestido Midi Estampado Floral",
+ "name_en": "Short Sleeve Essential Midi Dress",
+ "name_es": "Vestido Midi Esencial de Manga Corta",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
  "rank": 910,
@@ -42,8 +54,86 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "HIP",
+   "WAIST",
+   "BUST"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LARGO",
+   "CADERA",
+   "CINTURA",
+   "PECHO"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "132cm(52.0\")",
+    "84cm(33.1\")",
+    "62cm(24.4\")",
+    "82cm(32.3\")"
+   ],
+   [
+    "S",
+    "133cm(52.4\")",
+    "88cm(34.7\")",
+    "66cm(26.0\")",
+    "86cm(34.9\")"
+   ],
+   [
+    "M",
+    "134cm(52.8\")",
+    "92cm(36.2\")",
+    "70cm(27.6\")",
+    "90cm(35.4\")"
+   ],
+   [
+    "L",
+    "135cm(53.2\")",
+    "96cm(37.8\")",
+    "74cm(29.2\")",
+    "94cm(37.0\")"
+   ],
+   [
+    "XL",
+    "136cm(53.6\")",
+    "100cm(39.4\")",
+    "78cm(30.8\")",
+    "98cm(38.6\")"
+   ],
+   [
+    "2XL",
+    "136cm(54.0\")",
+    "104cm(41.0\")",
+    "82cm(32.4\")",
+    "102cm(40.2\")"
+   ],
+   [
+    "3XL",
+    "137cm(54.4\")",
+    "108cm(42.6\")",
+    "86cm(34.0\")",
+    "106cm(41.8\")"
+   ],
+   [
+    "4XL",
+    "138cm(54.8\")",
+    "112cm(44.2\")",
+    "90cm(35.6\")",
+    "110cm(43.6\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/86bd8ab4737042f40f18.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

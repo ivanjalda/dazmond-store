@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "orange",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "journal",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product shot with professional lighting and minimalist presentation.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350468176",
  "color": "Orange",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential object for contemporary thought. This hardcover journal combines a distinctive graphic presence with flawless functionality. Designed to house precise ideas and ambitious projects. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Un objeto esencial para el pensamiento contemporaneo. Este diario de tapa dura combina una presencia grafica distintiva con una funcionalidad impecable. Disenado para albergar ideas precisas y proyectos ambiciosos. Cada pieza se elabora bajo pedido y cuenta con envio mundial.",
+ "details_en": "· Hardcover bound\n· Dimensions: 5.5 x 8.5 inches\n· Made to order",
+ "details_es": "· Tapa dura\n· Medidas: 5.5 x 8.5 pulgadas\n· Elaborado bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/adb/adb745d00b8b5f48c919b99a59a986ba_preview.png"
  ],
@@ -24,6 +37,7 @@
  "name_en": "Visionary Hardcover Journal · Orange",
  "name_es": "Cuaderno Visionary Hardcover · Orange",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 27.99,
  "rank": 838,

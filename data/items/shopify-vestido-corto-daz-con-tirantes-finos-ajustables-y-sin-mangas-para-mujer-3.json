@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Teal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Rendered product visuals and cropped mockups lack the editorial lighting, depth, and tactile luxury of high-end e-commerce.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,18 +19,15 @@
  "cg": "t-vestido-corto-daz-con-tirantes-finos-ajustables-y-sin-mangas-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A minimalist silhouette defined by fluid movement and architectural restraint. This flared mini dress balances a structured upper bodice with a softly draped skirt, cut from light and breathable polyester. Delicate adjustable shoulder straps offer a tailored fit, framing an understated neckline and an open back designed for effortless day-to-evening transitions. Understated yet commanding, it captures refined ease in every stitch. Made to order for each client, accompanied by our worldwide delivery service.",
+ "desc_es": "Una silueta minimalista construida para la fluidez y el movimiento. Este minivestido presenta un corte acampanado limpio y ligero, diseñado para ceñirse con sutileza en el torso antes de abrirse hacia el bajo. Los tirantes finos ajustables permiten un ajuste exacto sobre los hombros, mientras que el escote delantero y la espalda despejada evocan una sensualidad precisa y sin esfuerzo. Confeccionado en un tejido suave y transpirable, ideal para eventos de noche o escapadas exclusivas. Pieza confeccionada bajo pedido con servicio de envío internacional.",
+ "details_en": "· Lightweight and breathable polyester composition\n· Adjustable slim shoulder straps\n· Flared mini silhouette\n· Machine washable\n· Individually made to order\n· Worldwide shipping available",
+ "details_es": "· Confección en tejido de poliéster ligero y suave\n· Tirantes finos ajustables\n· Silueta mini de corte acampanado\n· Apto para lavado a máquina\n· Pieza confeccionada bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "assets/products/shop/6ecbaa7489c7f9a59455.jpg",
-  "assets/products/shop/296f7b2663cf5f0fd474.jpg",
-  "assets/products/shop/2d73eb3f150ba68bcc59.jpg",
   "assets/products/shop/0140af2fbda7f9efb8b8.jpg",
   "assets/products/shop/4eea040d8980376834e5.jpg",
-  "assets/products/shop/c556a7ed88bb09cdb08c.jpg",
-  "assets/products/shop/7342e4c3bc4325a2bc49.jpg",
-  "assets/products/shop/8b9570484f25b8c91299.jpg",
-  "assets/products/shop/c679241c0f6e940b5ccb.jpg"
+  "assets/products/shop/c556a7ed88bb09cdb08c.jpg"
  ],
  "draft": false,
  "fam": "vestido-corto-tirantes",
@@ -32,9 +41,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Corto Daz Tirantes Dress",
- "name_es": "Vestido Corto Daz Tirantes",
+ "name_en": "Mini Strap Slip Dress",
+ "name_es": "Vestido Corto con Tirantes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 20.99,
  "rank": 1030,
@@ -42,8 +52,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Bust"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Pecho"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "71cm(28.0\")",
+    "68cm(26.8\")",
+    "78cm(30.7\")"
+   ],
+   [
+    "S",
+    "73cm(28.7\")",
+    "72cm(28.4\")",
+    "82cm(32.3\")"
+   ],
+   [
+    "M",
+    "75cm(29.5\")",
+    "76cm(30.0\")",
+    "86cm(33.9\")"
+   ],
+   [
+    "L",
+    "77cm(30.3\")",
+    "80cm(31.5\")",
+    "90cm(35.4\")"
+   ],
+   [
+    "XL",
+    "79cm(31.1\")",
+    "84cm(33.1\")",
+    "94cm(37.0\")"
+   ],
+   [
+    "2XL",
+    "81cm(31.9\")",
+    "88cm(34.7\")",
+    "98cm(38.6\")"
+   ],
+   [
+    "3XL",
+    "83cm(32.7\")",
+    "92cm(36.2\")",
+    "102cm(40.2\")"
+   ],
+   [
+    "4XL",
+    "85cm(33.5\")",
+    "96cm(37.8\")",
+    "106cm(41.7\")"
+   ],
+   [
+    "5XL",
+    "87cm(34.3\")",
+    "100cm(39.4\")",
+    "110cm(43.3\")"
+   ]
+  ],
+  "unit": "cm (in)"
+ },
+ "size_guide": [
+  "assets/products/shop/8b9570484f25b8c91299.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

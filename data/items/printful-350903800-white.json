@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg",
+  "assets/products/shop/8f2b2d612bc8d3c08218.jpg"
+ ],
  "ai_cats": [
   "calzado-hombre/zapatillas-hombre"
  ],
@@ -28,6 +44,7 @@
  ],
  "draft": false,
  "fam": "urban-pinnacle-high",
+ "gender": "men",
  "hidden": false,
  "id": "printful-350903800-white",
  "img_checked": "2026-11-23",
@@ -37,7 +54,7 @@
   "printful-361906822",
   "printify-6b0667526db425f6b50b967a-black"
  ],
- "material": "",
+ "material": "Canvas",
  "name_en": "Urban Pinnacle Sneakers · White",
  "name_es": "Zapatillas Urban Pinnacle · Blanco",
  "needs_review": false,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/bodies"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester and elastane",
+ "ai_type": "bodysuit",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on flat digital mockups and composited studio shots, failing to meet luxury editorial standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A streamlined silhouette defines this essential women's bodysuit. Crafted from a stretch blend of polyester and elastane, it contours precisely to the body. The short sleeve and round neck design offers effortless versatility for any wardrobe. Finished with a convenient snap button closure at the base. Made to order with worldwide shipping.",
+ "desc_es": "Una silueta depurada define este body esencial para mujer. Confeccionado con una mezcla elástica de poliéster y elastano, se adapta con precisión a la forma del cuerpo. El diseño de manga corta y cuello redondo ofrece una versatilidad impecable para cualquier guardarropa. Incorpora un práctico cierre de botones a presión en la parte inferior. Hecho a pedido con envíos a todo el mundo.",
+ "details_en": "· Composition: polyester and elastane\n· Fitted short sleeve and round neck design\n· Snap button closure at the bottom\n· Care instructions: hand or machine wash with cold water, do not bleach, tumble dry low, do not iron, do not dry clean\n· Made to order with worldwide shipping",
+ "details_es": "· Composición: poliéster y elastano\n· Diseño ajustado de manga corta y cuello redondo\n· Cierre con botones a presión en la parte inferior\n· Instrucciones de cuidado: lavar a mano o a máquina con agua fría, no usar lejía, secar en secadora a baja temperatura, no planchar, no lavar en seco\n· Hecho a pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/1cb10abd8d7db5851835.jpg",
   "assets/products/shop/3e5006e83130f1974483.jpg",
@@ -18,8 +32,7 @@
   "assets/products/shop/82e6410c1cfaade468ad.jpg",
   "assets/products/shop/f1d39970b9cd2a0efb60.jpg",
   "assets/products/shop/483ca5058aab6893e420.jpg",
-  "assets/products/shop/b54d97c44210d9ce9624.jpg",
-  "assets/products/shop/88ee35d4befdff16784d.jpg"
+  "assets/products/shop/b54d97c44210d9ce9624.jpg"
  ],
  "draft": false,
  "fam": "body-ajustado-manga",
@@ -36,6 +49,7 @@
  "name_en": "Short Sleeve Fitted Bodysuit",
  "name_es": "Body Ajustado de Manga Corta",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
  "rank": 994,
@@ -43,8 +57,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Bodis",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "CHEST",
+   "WAIST",
+   "HIPS",
+   "LENGTH"
+  ],
+  "headers_es": [
+   "TALLA",
+   "PECHO",
+   "CINTURA",
+   "CADERA",
+   "LARGO"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "86.4cm(34\")",
+    "72.4cm(28.5\")",
+    "86.4cm(34\")",
+    "69.9cm(27.5\")"
+   ],
+   [
+    "M",
+    "91.4cm(36\")",
+    "76.2cm(30\")",
+    "91.4cm(36\")",
+    "71.1cm(28\")"
+   ],
+   [
+    "L",
+    "96.5cm(38\")",
+    "81.3cm(32\")",
+    "96.5cm(38\")",
+    "73.66cm(29\")"
+   ],
+   [
+    "XL",
+    "101.6cm(40\")",
+    "86.4cm(34\")",
+    "101.6cm(40\")",
+    "76.2cm(30\")"
+   ],
+   [
+    "2XL",
+    "106.7cm(42\")",
+    "91.4cm(36\")",
+    "106.7cm(42\")",
+    "78.7cm(31\")"
+   ],
+   [
+    "3XL",
+    "111.8cm(44\")",
+    "96.5cm(38\")",
+    "111.8cm(44\")",
+    "81.3cm(32\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/88ee35d4befdff16784d.jpg"
+ ],
  "sizes": [
   "S",
   "M",
