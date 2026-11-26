@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White / Floral Print",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "Digital mockups and floating graphics reduce the luxury positioning of the imagery.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,12 @@
  "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This blouse redefines relaxed elegance with impeccable fluidity. Crafted with attention to detail, it features a delicate scoop neckline enhanced by subtle front buttons and a refined pleated hem. The relaxed silhouette offers a soft, sophisticated drape that moves with effortless grace. Versatile and timeless, this piece integrates seamlessly into any discerning wardrobe. Each creation is made to order with worldwide shipping.",
+ "desc_es": "Esta blusa redefine la elegancia relajada con una fluidez impecable. Confeccionada con atención al detalle, presenta un delicado escote redondo realzado por sutiles botones frontales y un refinado dobladillo plisado. Su diseño de corte holgado ofrece una caída suave y sofisticada que acompaña cada movimiento con gracia. Versátil y atemporal, esta pieza se integra sin esfuerzo en cualquier guardarropa exigente. Cada creación se elabora bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Crafted from soft polyester\n· Scoop neckline with button detail\n· Short sleeve design\n· Pleated hem\n· Relaxed fit\n· Machine wash cold with neutral detergent\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confeccionada en poliéster suave\n· Escote redondo con detalle de botones\n· Diseño de manga corta\n· Dobladillo plisado\n· Corte holgado\n· Lavado a máquina en agua fría con detergente neutro\n· Pieza bajo pedido\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/26dc64d4078618475086.jpg",
-  "assets/products/shop/4e5286d18cdfe84d3937.jpg",
-  "assets/products/shop/6ad14f88614d1c5c682e.jpg",
-  "assets/products/shop/0231fe87bb1f9f0c662e.jpg",
-  "assets/products/shop/2da3629898df180636c2.jpg",
-  "assets/products/shop/955348990194016d5ab2.jpg",
-  "assets/products/shop/6261f66a492fc198d12a.jpg",
-  "assets/products/shop/128059c6f24befb89962.jpg"
+  "assets/products/shop/955348990194016d5ab2.jpg"
  ],
  "draft": false,
  "fam": "blusa-suelta-premium",
@@ -34,6 +41,7 @@
  "name_en": "Blusa Suelta Daz Blouse",
  "name_es": "Blusa Blusa Suelta Daz",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1081,
@@ -41,8 +49,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Waist",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Cintura",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "95cm(37.4″)",
+    "85cm(33.5″)",
+    "72cm(28.4″)"
+   ],
+   [
+    "M",
+    "100cm(39.4″)",
+    "90cm(35.4″)",
+    "74cm(29.2″)"
+   ],
+   [
+    "L",
+    "105cm(41.4″)",
+    "95cm(37.4″)",
+    "76cm(30″)"
+   ],
+   [
+    "XL",
+    "113cm(44.4″)",
+    "103cm(40.4″)",
+    "79cm(31.1″)"
+   ],
+   [
+    "2XL",
+    "123cm(48.4″)",
+    "113cm(44.4″)",
+    "82cm(32.3″)"
+   ],
+   [
+    "3XL",
+    "133cm(52.4″)",
+    "123cm(48.4″)",
+    "85cm(33.5″)"
+   ],
+   [
+    "4XL",
+    "143cm(56.4″)",
+    "133cm(52.4″)",
+    "88cm(34.7″)"
+   ],
+   [
+    "5XL",
+    "153cm(60.2″)",
+    "143cm(56.3″)",
+    "91cm(35.8″)"
+   ],
+   [
+    "6XL",
+    "163cm(64.2″)",
+    "153cm(60.2″)",
+    "94cm(37″)"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/128059c6f24befb89962.jpg"
+ ],
  "sizes": [
   "S",
   "M",

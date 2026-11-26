@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "Rendered product images and basic mockups lack high-end luxury campaign standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,13 @@
  "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This refined blouse combines a fluid silhouette with subtle detailing. Crafted from a soft fabric, it features a round neckline accentuated by an elegant front button placket. The pleated hem introduces movement and sophistication to the piece. Designed for effortless comfort, it drapes naturally along the silhouette. A versatile piece to elevate everyday dressing.",
+ "desc_es": "Esta blusa refinada combina una silueta fluida con detalles sutiles. Confeccionada con un tejido suave, presenta un escote redondo acentuado por una elegante botonadura frontal. El dobladillo plisado aporta movimiento y sofisticación a la prenda. Diseñada para ofrecer comodidad sin esfuerzo, se adapta con naturalidad a la silueta. Una pieza versátil para elevar el vestuario diario.",
+ "details_en": "· Crafted from polyester\n· Relaxed fit\n· Round neckline with button detail\n· Pleated hem\n· Machine wash with cold water\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado en poliéster\n· Corte holgado\n· Escote redondo con detalle de botones\n· Dobladillo plisado\n· Lavado a máquina con agua fría\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/a07675dfd638555cdfb4.jpg",
-  "assets/products/shop/525d6874966dbb45e649.jpg",
-  "assets/products/shop/956525d76eb1f2598a85.jpg",
-  "assets/products/shop/81bec7808d19eaa329b4.jpg",
-  "assets/products/shop/3bb252182e4605b3ccab.jpg",
   "assets/products/shop/59e3caf72979a8d96213.jpg",
-  "assets/products/shop/be14e9a0b110897e1f25.jpg",
-  "assets/products/shop/21e00fb58cdbbfa01af6.jpg"
+  "assets/products/shop/be14e9a0b110897e1f25.jpg"
  ],
  "draft": false,
  "fam": "blusa-suelta-premium",
@@ -34,6 +42,7 @@
  "name_en": "Blusa Suelta Daz Blouse",
  "name_es": "Blusa Blusa Suelta Daz",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1079,
@@ -41,8 +50,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Waist",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Cintura",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "95cm (37.4\")",
+    "85cm (33.5\")",
+    "72cm (28.4\")"
+   ],
+   [
+    "M",
+    "100cm (39.4\")",
+    "90cm (35.4\")",
+    "74m (29.2\")"
+   ],
+   [
+    "L",
+    "105cm (41.4\")",
+    "95cm (37.4\")",
+    "76cm (30\")"
+   ],
+   [
+    "XL",
+    "113cm (44.4\")",
+    "103cm (40.4\")",
+    "79cm (31.1\")"
+   ],
+   [
+    "2XL",
+    "123cm (48.4\")",
+    "113cm (44.4\")",
+    "82cm (32.3\")"
+   ],
+   [
+    "3XL",
+    "133cm (52.4\")",
+    "123cm (48.4\")",
+    "85cm (33.5\")"
+   ],
+   [
+    "4XL",
+    "143cm (56.4\")",
+    "133cm (52.4\")",
+    "88cm (34.7\")"
+   ],
+   [
+    "5XL",
+    "153cm (60.2\")",
+    "143cm (56.3\")",
+    "91cm (35.8\")"
+   ],
+   [
+    "6XL",
+    "163cm(64.2\")",
+    "153cm(60.2\")",
+    "94cm(37\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/21e00fb58cdbbfa01af6.jpg"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T15:12:44Z",
+  "updated": "2026-11-26T15:41:58Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -25321,7 +25321,7 @@
         "2026-11-25": 50.99,
         "2026-11-26": 50.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 20.19,
       "rank": 167,
       "badge": "new",
@@ -166024,8 +166024,82 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/a4d0a3bdccb856208b61.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm",
+        "headers": [
+          "SIZE",
+          "BUST",
+          "WAIST",
+          "LENGTH"
+        ],
+        "headers_es": [
+          "TALLA",
+          "PECHO",
+          "CINTURA",
+          "LARGO"
+        ],
+        "rows": [
+          [
+            "S",
+            "95cm(37.4\")",
+            "85cm(33.5\")",
+            "72cm(28.4\")"
+          ],
+          [
+            "M",
+            "100cm(39.4\")",
+            "90cm(35.4\")",
+            "74m(29.2\")"
+          ],
+          [
+            "L",
+            "105cm(41.4\")",
+            "95cm(37.4\")",
+            "76cm(30\")"
+          ],
+          [
+            "XL",
+            "113cm(44.4\")",
+            "103cm(40.4\")",
+            "79cm(31.1\")"
+          ],
+          [
+            "2XL",
+            "123cm(48.4\")",
+            "113cm(44.4\")",
+            "82cm(32.3\")"
+          ],
+          [
+            "3XL",
+            "133cm(52.4\")",
+            "123cm(48.4\")",
+            "85cm(33.5\")"
+          ],
+          [
+            "4XL",
+            "143cm(56.4\")",
+            "133cm(52.4\")",
+            "88cm(34.7\")"
+          ],
+          [
+            "5XL",
+            "153cm(60.2\")",
+            "143cm(56.3\")",
+            "91cm(35.8\")"
+          ],
+          [
+            "6XL",
+            "163cm(64.2\")",
+            "153cm(60.2\")",
+            "94cm(37\")"
+          ]
+        ],
+        "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+        "notes_es": "Por favor permita una diferencia de 1-3 cm debido a la medición manual."
+      },
       "sku_map": {
         "S": "WLXPVM3W-1",
         "M": "WLXPVM3W-2",
@@ -166041,8 +166115,8 @@
       "source_text": "Blusa suelta DAZ Premium de manga corta con escote redondo para mujer Blouses Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas Confeccionada en poliéster suave de alta calidad, esta blusa informal de manga larga para mujer es cómoda y de corte holgado. Con un dobladillo plisado impresionante, escote redondo y detalles de botones, combina el estilo informal con la elegancia. Es adecuada para todas las ocasiones y fácil de cuidar, perfecta para la moda diaria. \n * TELA CASUAL Y CÓMODA: Nuestras blusas casuales de manga corta para mujer están hechas de tela de poliéster, que es cómoda y fácil de usar, al mismo tiempo que combina elementos casuales y de moda. \n * DOBLADILLO PLISADO ELEGANTE: El diseño único del dobladillo plisado le da a la acogedora blusa de cuello redondo un aspecto elegante y femenino. El cuello abotonado en la parte delantera agrega un toque informal \n * TOP DE VERANO CON ESTILO PARA TODOS LOS DÍAS: El cuello redondo y el diseño simple lo hacen perfecto para todas las ocasiones, ya sea que lo uses con jeans para una salida informal o con una falda, irradiarás un encanto diferente. \n * ROPA CASUAL CÓMODA: Esta camiseta casual de manga larga tiene un corte holgado de talla grande, está hecha de tela elástica, se ajusta cómodamente y es adecuada para todo tipo de cuerpos. \n * FÁCIL CUIDADO: Este elegante suéter con volantes se puede lavar a máquina, es fácil de limpiar con agua fría y detergente neutro para un cuidado sin esfuerzo.",
       "name_es": "Blusa Blusa Suelta Daz",
       "name_en": "Blusa Suelta Daz Blouse",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "desc_es": "Una expresión refinada de elegancia contemporánea. Esta blusa de corte holgado presenta un delicado escote redondo realzado con sutiles detalles de botones. El diseño incorpora un dobladillo plisado que aporta movimiento y fluidez a la silueta. Confeccionada en suave tejido de poliéster, equilibra la comodidad con una estética sofisticada. Ideal para la transición entre momentos informales y ocasiones formales. Cada pieza se confecciona bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo.",
+      "desc_en": "A refined expression of contemporary elegance. This relaxed fit blouse features a delicate round neckline enhanced by subtle button details. The design incorporates a pleated hem that brings movement and fluidity to the silhouette. Crafted from soft polyester fabric, it balances comfort with a sophisticated aesthetic. Ideal for transitioning between casual moments and elevated occasions. Each piece is made to order in our ateliers. We offer worldwide shipping.",
       "price_usd": 24.99,
       "margin_pct": 27.5,
       "images_original": [
@@ -166058,14 +166132,8 @@
       "images_model": [],
       "visual_verified": true,
       "display_images": [
-        "assets/products/shop/1f1bc29c9fdf16e9a3ce.jpg",
-        "assets/products/shop/0703eb0b16134f1ec3de.jpg",
         "assets/products/shop/fcc800326ca730a7ede2.jpg",
-        "assets/products/shop/11ad86fee7c0d2d7650f.jpg",
-        "assets/products/shop/0b9a14048d0e46e87605.jpg",
-        "assets/products/shop/ab98bf006b328272a673.jpg",
-        "assets/products/shop/ad4d92811121b63e105b.jpg",
-        "assets/products/shop/a4d0a3bdccb856208b61.jpg"
+        "assets/products/shop/11ad86fee7c0d2d7650f.jpg"
       ],
       "available": true,
       "price_history": {
@@ -166111,7 +166179,59 @@
       "img_checked": "2026-11-19",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
       "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
-      "ai_fail": 1
+      "ai_fail": 1,
+      "art_score": 4,
+      "art_note": "The product imagery relies on digital composites and generic supplier graphics, lacking true luxury campaign ambiance.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/1f1bc29c9fdf16e9a3ce.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/0703eb0b16134f1ec3de.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/fcc800326ca730a7ede2.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/11ad86fee7c0d2d7650f.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/ab98bf006b328272a673.jpg",
+            "k": "detail",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/ad4d92811121b63e105b.jpg",
+            "k": "detail",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/a4d0a3bdccb856208b61.jpg"
+        ]
+      },
+      "ai_type": "Blouse",
+      "ai_gender": "women",
+      "ai_color": "Black",
+      "ai_material": "Polyester",
+      "ai_cats": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "details_es": "· Composición: poliéster\n· Corte holgado\n· Cuidado: lavar a máquina con agua fría y detergente neutro\n· Confeccionado bajo pedido\n· Envío a todo el mundo",
+      "details_en": "· Composition: polyester\n· Relaxed fit\n· Care: machine wash with cold water and neutral detergent\n· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-10",
@@ -166404,8 +166524,82 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/21e00fb58cdbbfa01af6.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm / inches",
+        "headers": [
+          "Size",
+          "Bust",
+          "Waist",
+          "Length"
+        ],
+        "headers_es": [
+          "Talla",
+          "Busto",
+          "Cintura",
+          "Largo"
+        ],
+        "rows": [
+          [
+            "S",
+            "95cm (37.4\")",
+            "85cm (33.5\")",
+            "72cm (28.4\")"
+          ],
+          [
+            "M",
+            "100cm (39.4\")",
+            "90cm (35.4\")",
+            "74m (29.2\")"
+          ],
+          [
+            "L",
+            "105cm (41.4\")",
+            "95cm (37.4\")",
+            "76cm (30\")"
+          ],
+          [
+            "XL",
+            "113cm (44.4\")",
+            "103cm (40.4\")",
+            "79cm (31.1\")"
+          ],
+          [
+            "2XL",
+            "123cm (48.4\")",
+            "113cm (44.4\")",
+            "82cm (32.3\")"
+          ],
+          [
+            "3XL",
+            "133cm (52.4\")",
+            "123cm (48.4\")",
+            "85cm (33.5\")"
+          ],
+          [
+            "4XL",
+            "143cm (56.4\")",
+            "133cm (52.4\")",
+            "88cm (34.7\")"
+          ],
+          [
+            "5XL",
+            "153cm (60.2\")",
+            "143cm (56.3\")",
+            "91cm (35.8\")"
+          ],
+          [
+            "6XL",
+            "163cm(64.2\")",
+            "153cm(60.2\")",
+            "94cm(37\")"
+          ]
+        ],
+        "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+        "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual."
+      },
       "sku_map": {
         "S": "WE9ZJRPW-1",
         "M": "WE9ZJRPW-2",
@@ -166421,8 +166615,8 @@
       "source_text": "Blusa suelta DAZ Premium de manga corta con escote redondo para mujer Blouses Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas Confeccionada en poliéster suave de alta calidad, esta blusa informal de manga larga para mujer es cómoda y de corte holgado. Con un dobladillo plisado impresionante, escote redondo y detalles de botones, combina el estilo informal con la elegancia. Es adecuada para todas las ocasiones y fácil de cuidar, perfecta para la moda diaria. \n * TELA CASUAL Y CÓMODA: Nuestras blusas casuales de manga corta para mujer están hechas de tela de poliéster, que es cómoda y fácil de usar, al mismo tiempo que combina elementos casuales y de moda. \n * DOBLADILLO PLISADO ELEGANTE: El diseño único del dobladillo plisado le da a la acogedora blusa de cuello redondo un aspecto elegante y femenino. El cuello abotonado en la parte delantera agrega un toque informal \n * TOP DE VERANO CON ESTILO PARA TODOS LOS DÍAS: El cuello redondo y el diseño simple lo hacen perfecto para todas las ocasiones, ya sea que lo uses con jeans para una salida informal o con una falda, irradiarás un encanto diferente. \n * ROPA CASUAL CÓMODA: Esta camiseta casual de manga larga tiene un corte holgado de talla grande, está hecha de tela elástica, se ajusta cómodamente y es adecuada para todo tipo de cuerpos. \n * FÁCIL CUIDADO: Este elegante suéter con volantes se puede lavar a máquina, es fácil de limpiar con agua fría y detergente neutro para un cuidado sin esfuerzo.",
       "name_es": "Blusa Blusa Suelta Daz",
       "name_en": "Blusa Suelta Daz Blouse",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "desc_es": "Esta blusa refinada combina una silueta fluida con detalles sutiles. Confeccionada con un tejido suave, presenta un escote redondo acentuado por una elegante botonadura frontal. El dobladillo plisado aporta movimiento y sofisticación a la prenda. Diseñada para ofrecer comodidad sin esfuerzo, se adapta con naturalidad a la silueta. Una pieza versátil para elevar el vestuario diario.",
+      "desc_en": "This refined blouse combines a fluid silhouette with subtle detailing. Crafted from a soft fabric, it features a round neckline accentuated by an elegant front button placket. The pleated hem introduces movement and sophistication to the piece. Designed for effortless comfort, it drapes naturally along the silhouette. A versatile piece to elevate everyday dressing.",
       "price_usd": 24.99,
       "margin_pct": 27.5,
       "images_original": [
@@ -166438,14 +166632,8 @@
       "images_model": [],
       "visual_verified": true,
       "display_images": [
-        "assets/products/shop/a07675dfd638555cdfb4.jpg",
-        "assets/products/shop/525d6874966dbb45e649.jpg",
-        "assets/products/shop/956525d76eb1f2598a85.jpg",
-        "assets/products/shop/81bec7808d19eaa329b4.jpg",
-        "assets/products/shop/3bb252182e4605b3ccab.jpg",
         "assets/products/shop/59e3caf72979a8d96213.jpg",
-        "assets/products/shop/be14e9a0b110897e1f25.jpg",
-        "assets/products/shop/21e00fb58cdbbfa01af6.jpg"
+        "assets/products/shop/be14e9a0b110897e1f25.jpg"
       ],
       "available": true,
       "price_history": {
@@ -166490,7 +166678,64 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-19",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
+      "art_score": 4,
+      "art_note": "Rendered product images and basic mockups lack high-end luxury campaign standards.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/a07675dfd638555cdfb4.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/525d6874966dbb45e649.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/956525d76eb1f2598a85.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/81bec7808d19eaa329b4.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/3bb252182e4605b3ccab.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/59e3caf72979a8d96213.jpg",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/be14e9a0b110897e1f25.jpg",
+            "k": "detail",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/21e00fb58cdbbfa01af6.jpg"
+        ]
+      },
+      "ai_type": "Blouse",
+      "ai_gender": "women",
+      "ai_color": "Green",
+      "ai_material": "Polyester",
+      "ai_cats": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "details_es": "· Confeccionado en poliéster\n· Corte holgado\n· Escote redondo con detalle de botones\n· Dobladillo plisado\n· Lavado a máquina con agua fría\n· Hecho bajo pedido\n· Envío mundial disponible",
+      "details_en": "· Crafted from polyester\n· Relaxed fit\n· Round neckline with button detail\n· Pleated hem\n· Machine wash with cold water\n· Made to order\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-12",
@@ -166614,7 +166859,8 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-19",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
+      "ai_fail": 1
     },
     {
       "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-13",
@@ -166652,8 +166898,82 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/128059c6f24befb89962.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm",
+        "headers": [
+          "Size",
+          "Bust",
+          "Waist",
+          "Length"
+        ],
+        "headers_es": [
+          "Talla",
+          "Busto",
+          "Cintura",
+          "Largo"
+        ],
+        "rows": [
+          [
+            "S",
+            "95cm(37.4″)",
+            "85cm(33.5″)",
+            "72cm(28.4″)"
+          ],
+          [
+            "M",
+            "100cm(39.4″)",
+            "90cm(35.4″)",
+            "74cm(29.2″)"
+          ],
+          [
+            "L",
+            "105cm(41.4″)",
+            "95cm(37.4″)",
+            "76cm(30″)"
+          ],
+          [
+            "XL",
+            "113cm(44.4″)",
+            "103cm(40.4″)",
+            "79cm(31.1″)"
+          ],
+          [
+            "2XL",
+            "123cm(48.4″)",
+            "113cm(44.4″)",
+            "82cm(32.3″)"
+          ],
+          [
+            "3XL",
+            "133cm(52.4″)",
+            "123cm(48.4″)",
+            "85cm(33.5″)"
+          ],
+          [
+            "4XL",
+            "143cm(56.4″)",
+            "133cm(52.4″)",
+            "88cm(34.7″)"
+          ],
+          [
+            "5XL",
+            "153cm(60.2″)",
+            "143cm(56.3″)",
+            "91cm(35.8″)"
+          ],
+          [
+            "6XL",
+            "163cm(64.2″)",
+            "153cm(60.2″)",
+            "94cm(37″)"
+          ]
+        ],
+        "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+        "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual."
+      },
       "sku_map": {
         "S": "YP6Q2LVN-1",
         "M": "YP6Q2LVN-2",
@@ -166669,8 +166989,8 @@
       "source_text": "Blusa suelta DAZ Premium de manga corta con escote redondo para mujer Blouses Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas Confeccionada en poliéster suave de alta calidad, esta blusa informal de manga larga para mujer es cómoda y de corte holgado. Con un dobladillo plisado impresionante, escote redondo y detalles de botones, combina el estilo informal con la elegancia. Es adecuada para todas las ocasiones y fácil de cuidar, perfecta para la moda diaria. \n * TELA CASUAL Y CÓMODA: Nuestras blusas casuales de manga corta para mujer están hechas de tela de poliéster, que es cómoda y fácil de usar, al mismo tiempo que combina elementos casuales y de moda. \n * DOBLADILLO PLISADO ELEGANTE: El diseño único del dobladillo plisado le da a la acogedora blusa de cuello redondo un aspecto elegante y femenino. El cuello abotonado en la parte delantera agrega un toque informal \n * TOP DE VERANO CON ESTILO PARA TODOS LOS DÍAS: El cuello redondo y el diseño simple lo hacen perfecto para todas las ocasiones, ya sea que lo uses con jeans para una salida informal o con una falda, irradiarás un encanto diferente. \n * ROPA CASUAL CÓMODA: Esta camiseta casual de manga larga tiene un corte holgado de talla grande, está hecha de tela elástica, se ajusta cómodamente y es adecuada para todo tipo de cuerpos. \n * FÁCIL CUIDADO: Este elegante suéter con volantes se puede lavar a máquina, es fácil de limpiar con agua fría y detergente neutro para un cuidado sin esfuerzo.",
       "name_es": "Blusa Blusa Suelta Daz",
       "name_en": "Blusa Suelta Daz Blouse",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "desc_es": "Esta blusa redefine la elegancia relajada con una fluidez impecable. Confeccionada con atención al detalle, presenta un delicado escote redondo realzado por sutiles botones frontales y un refinado dobladillo plisado. Su diseño de corte holgado ofrece una caída suave y sofisticada que acompaña cada movimiento con gracia. Versátil y atemporal, esta pieza se integra sin esfuerzo en cualquier guardarropa exigente. Cada creación se elabora bajo pedido con envíos a todo el mundo.",
+      "desc_en": "This blouse redefines relaxed elegance with impeccable fluidity. Crafted with attention to detail, it features a delicate scoop neckline enhanced by subtle front buttons and a refined pleated hem. The relaxed silhouette offers a soft, sophisticated drape that moves with effortless grace. Versatile and timeless, this piece integrates seamlessly into any discerning wardrobe. Each creation is made to order with worldwide shipping.",
       "price_usd": 24.99,
       "margin_pct": 27.5,
       "images_original": [
@@ -166686,14 +167006,7 @@
       "images_model": [],
       "visual_verified": true,
       "display_images": [
-        "assets/products/shop/26dc64d4078618475086.jpg",
-        "assets/products/shop/4e5286d18cdfe84d3937.jpg",
-        "assets/products/shop/6ad14f88614d1c5c682e.jpg",
-        "assets/products/shop/0231fe87bb1f9f0c662e.jpg",
-        "assets/products/shop/2da3629898df180636c2.jpg",
-        "assets/products/shop/955348990194016d5ab2.jpg",
-        "assets/products/shop/6261f66a492fc198d12a.jpg",
-        "assets/products/shop/128059c6f24befb89962.jpg"
+        "assets/products/shop/955348990194016d5ab2.jpg"
       ],
       "available": true,
       "price_history": {
@@ -166738,7 +167051,64 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-19",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
+      "art_score": 4,
+      "art_note": "Digital mockups and floating graphics reduce the luxury positioning of the imagery.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/26dc64d4078618475086.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/4e5286d18cdfe84d3937.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/6ad14f88614d1c5c682e.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/0231fe87bb1f9f0c662e.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/2da3629898df180636c2.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/955348990194016d5ab2.jpg",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/6261f66a492fc198d12a.jpg",
+            "k": "detail",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/128059c6f24befb89962.jpg"
+        ]
+      },
+      "ai_type": "Blouse",
+      "ai_gender": "women",
+      "ai_color": "White / Floral Print",
+      "ai_material": "Polyester",
+      "ai_cats": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "details_es": "· Confeccionada en poliéster suave\n· Escote redondo con detalle de botones\n· Diseño de manga corta\n· Dobladillo plisado\n· Corte holgado\n· Lavado a máquina en agua fría con detergente neutro\n· Pieza bajo pedido\n· Envío mundial disponible",
+      "details_en": "· Crafted from soft polyester\n· Scoop neckline with button detail\n· Short sleeve design\n· Pleated hem\n· Relaxed fit\n· Machine wash cold with neutral detergent\n· Made-to-order piece\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-2",
@@ -166862,7 +167232,8 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-19",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
+      "ai_fail": 1
     },
     {
       "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-3",
@@ -166986,7 +167357,8 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-19",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
+      "ai_fail": 1
     },
     {
       "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-4",
