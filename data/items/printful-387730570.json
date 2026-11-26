@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Vestido midi",
+ "ai_ver": 2,
+ "art_note": "The image features a flat-looking digital composite on a template rather than an authentic luxury studio capture.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-387730570",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A fluid piece defined by refined design and a lightweight silhouette. This midi dress offers an impeccable drape and a magnetic presence. Crafted-to-order to ensure absolute exclusivity. Worldwide shipping available.",
+ "desc_es": "Una pieza fluida de diseño refinado y silueta ligera. Este vestido midi se define por su caída impecable y su presencia magnética. Confeccionado bajo demanda para asegurar una exclusividad absoluta. Envío disponible a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/016/016c9b7b46824f9da0c9d6c825ed9d11_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Tirantes Ajustables Dress · Black",
- "name_es": "Vestido Daz Tirantes Ajustables · Negro",
+ "name_en": "DAZ Luxury Printed Midi Dress",
+ "name_es": "Vestido Midi Estampado DAZ Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 59.99,
  "rank": 614,

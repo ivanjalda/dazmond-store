@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/a5e8b03828f1bffe6478.jpg",
+  "assets/products/shop/9fb7d2a68b8de168b2b2.jpg",
+  "assets/products/shop/32ba0fa6d812dd9988c7.jpg",
+  "assets/products/shop/f3e52fb138423d6e22a6.jpg"
+ ],
  "ai_cats": [
   "hombre/camiseta"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "azure-flux",
+ "gender": "men",
  "hidden": false,
  "id": "printful-355274608",
  "img_checked": "2026-11-23",

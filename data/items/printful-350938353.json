@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "sports bra",
+ "ai_ver": 2,
+ "art_note": "The image features generic outdoor lifestyle photography with a composited look that falls short of modern luxury house e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350938353",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An impeccable fusion of contemporary design and athletic functionality. This piece features an all-over graphic print that brings movement and character to the silhouette. Engineered to offer support without compromising minimalist elegance. Each piece is meticulously crafted to order to ensure the utmost exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una fusión impecable de diseño contemporáneo y funcionalidad atlética. Esta pieza presenta un estampado gráfico integral que aporta movimiento y carácter a la silueta. Diseñado para ofrecer soporte sin comprometer la elegancia minimalista. Cada pieza se confecciona meticulosamente bajo pedido para garantizar la máxima exclusividad. Disponible para envío a todo el mundo.",
+ "details_en": "· Made-to-order exclusive construction\n· Available with worldwide shipping",
+ "details_es": "· Confección exclusiva bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/d61/d613a7aeea76fd278e47a9a4f9a9286b_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Abstract Motion Sports Underwear · Black",
- "name_es": "Ropa Interior Abstract Motion Sports · Negro",
+ "name_en": "Abstract Motion Sports Bra",
+ "name_es": "Sostén Deportivo Abstract Motion",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
  "rank": 732,

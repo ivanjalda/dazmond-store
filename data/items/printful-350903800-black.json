@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "shoes",
+ "ai_ver": 2,
+ "art_note": "Clean unboxing perspective shot, but lacks editorial depth.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350903800",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order in canvas, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co. en lona, diseñada para acompañarte del día a la noche.",
+ "desc_en": "The Urban Pinnacle sneakers redefine the classic silhouette with an imposing presence. Designed for the contemporary man who demands distinction in every step. This model combines refined lines with a sophisticated urban aesthetic. Each pair is made to order and shipped worldwide. The definitive expression of style and exclusivity.",
+ "desc_es": "Las zapatillas Urban Pinnacle redefinen la silueta clásica con una presencia imponente. Diseñadas para el hombre contemporáneo que exige distinción en cada paso. Este modelo combina líneas depuradas con una estética urbana y sofisticada. Cada par es elaborado bajo pedido y enviado a todo el mundo. La expresión definitiva de estilo y exclusividad.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/597/597526f0afa536bbbd16bb1068183439_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Urban Pinnacle High Sneakers · Black",
- "name_es": "Zapatillas Urban Pinnacle High · Negro",
+ "name_en": "Urban Pinnacle Sneakers · Black",
+ "name_es": "Zapatillas Urban Pinnacle · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 679,

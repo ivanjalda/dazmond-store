@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/8d21de090256dacb361c.jpg",
+  "assets/products/shop/86d238f806bdc2e20ee9.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +32,7 @@
  ],
  "draft": false,
  "fam": "bikini-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-384506401",
  "img_checked": "2026-11-23",
@@ -37,7 +42,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "DAZ Recycled Bandeau Bikini",
  "name_es": "Bikini Bandeau Reciclado DAZ",
  "needs_review": false,

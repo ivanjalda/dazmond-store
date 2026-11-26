@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/f23c4d5c07019c7b51c3.jpg",
+  "assets/products/shop/bf8c89b35b354196f351.jpg"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas"
  ],
@@ -27,6 +31,7 @@
  ],
  "draft": false,
  "fam": "pantalon-chandal-forro",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-359098063",
  "img_checked": "2026-11-23",

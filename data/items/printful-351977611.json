@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Crop Tee",
+ "ai_ver": 2,
+ "art_note": "Outdoor lifestyle context elevates the garment, though standard mockup photography limits high luxury impact.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351977611",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential piece that redefines casual elegance. The cropped silhouette features an all-over print that evokes a refined and contemporary aesthetic. Each garment is crafted individually to order. Available with worldwide shipping for exclusive clients.",
+ "desc_es": "Una pieza esencial que redefine la elegancia casual. El diseño de corte corto presenta un sutil estampado integral que evoca una estética depurada y contemporánea. Cada prenda se elabora de manera individual bajo pedido. Disponible con envío internacional para clientes exclusivos.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/f6e/f6ed504a629c24bc6d10c04754af9747_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Celestial Aura Crop Tee · White",
- "name_es": "Camiseta Celestial Aura Crop · Blanco",
+ "name_en": "Celestial Aura Crop Tee",
+ "name_es": "Camiseta corta Celestial Aura",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 43.99,
  "rank": 686,

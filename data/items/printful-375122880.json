@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/aaf34a67caf528ba92c1.jpg",
+  "assets/products/shop/66ed75303f705b54221c.jpg",
+  "assets/products/shop/8ff995e33fd18c9df4ca.jpg",
+  "assets/products/shop/e7167014ad5065fa85cc.jpg",
+  "assets/products/shop/c8bd59e88f79f36ae632.jpg",
+  "assets/products/shop/20fc23eed86ead592574.jpg",
+  "assets/products/shop/2bfbf56138594a3dd9af.jpg",
+  "assets/products/shop/7616e1a4bbfa5f62818b.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +37,7 @@
  ],
  "draft": false,
  "fam": "vestido-camiseta",
+ "gender": "women",
  "hidden": false,
  "id": "printful-375122880",
  "img_checked": "2026-11-23",

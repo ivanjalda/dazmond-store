@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "Bandeau Bikini Top",
+ "ai_ver": 2,
+ "art_note": "The image features awkward lighting and a composite aesthetic that resembles marketplace imagery rather than luxury e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-384430477",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential silhouette defined by clean lines and a sophisticated presence. This design incorporates recycled materials for a contemporary and conscious approach. Each piece is made to order in our ateliers. We offer worldwide shipping for your convenience.",
+ "desc_es": "Silueta esencial definida por líneas limpias y una presencia sofisticada. Este diseño incorpora materiales reciclados para una propuesta contemporánea y consciente. Cada pieza se elabora bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e49/e49e48e5ce9a71bd49351ae1f2204f90_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Swimwear · White",
- "name_es": "Bañador Daz · Blanco",
+ "name_en": "Recycled Bandeau Bikini Top",
+ "name_es": "Top de Bikini Bandeau Reciclado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 668,

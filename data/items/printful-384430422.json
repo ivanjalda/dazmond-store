@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "Bandeau Bikini Top",
+ "ai_ver": 2,
+ "art_note": "The image features a standard cutout on pure white with a flat look, lacking the sophistication and mood lighting expected from a luxury fashion house like DAZM",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-384430422",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Pure definition of summer minimalism. This white bandeau bikini top presents a clean silhouette stripped of artifice. Designed for the woman who seeks effortless elegance under the sun. Each piece is crafted exclusively to order in our ateliers and is available with worldwide shipping.",
+ "desc_es": "Definicion pura del minimalismo estival. Este top de bikini bandeau en tono blanco puro presenta una silueta limpia y despojada de artificios. Pensado para la mujer que busca una elegancia sin esfuerzo bajo el sol. Cada pieza se confecciona exclusivamente bajo pedido en nuestros talleres y cuenta con envio disponible a nivel mundial.",
+ "details_en": "· Crafted with recycled materials\n· Made-to-order\n· Available with worldwide shipping",
+ "details_es": "· Confeccionado con materiales reciclados\n· Hecho bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/9f9/9f91e778a6bd471487536869e0b2e2c9_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Swimwear · White",
- "name_es": "Bañador Daz · Blanco",
+ "name_en": "White Bandeau Bikini Top",
+ "name_es": "Top de Bikini Bandeau Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 667,

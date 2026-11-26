@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Flat-lay style product shot on a plain background, lacking luxury mood lighting or editorial depth.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358776386",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Fluid silhouette featuring an all-over graphic design. These wide-leg joggers define relaxed everyday elegance. The generous cut creates movement and comfort without compromising structure. Each piece is made to order in our ateliers. We offer worldwide shipping.",
+ "desc_es": "Silueta fluida con un diseño gráfico integral. Este pantalón de chándal define una elegancia relajada para el día a día. El corte amplio aporta movimiento y comodidad sin comprometer la estructura. Cada pieza se confecciona bajo demanda en nuestros talleres. Realizamos envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Confeccionado bajo demanda\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/2d2/2d2c1d3ed32dbf907aaafd0b7551f5a0_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Art Sweatshirt · White",
- "name_es": "Sudadera Pantalón Daz Art · Blanco",
+ "name_en": "All-over print wide-leg joggers",
+ "name_es": "Pantalón de chándal holgado estampado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 76.99,
  "rank": 655,

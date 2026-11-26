@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "high top canvas shoes",
+ "ai_ver": 2,
+ "art_note": "Floating mockup style looks digital and lacks the tangible luxury of physical studio photography.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350905712",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Defined by a refined silhouette and a striking presence, the Lady Heritage high top shoes redefine contemporary footwear with a bold approach. Crafted for those who demand distinction in every stride, this piece combines classic lines with modern attitude. Each pair is made to order to ensure exclusivity and features worldwide shipping. An unmistakable statement of style for the modern wardrobe.",
+ "desc_es": "Definidas por una silueta depurada y una presencia imponente, las zapatillas altas Lady Heritage redefinen el calzado contemporáneo con un enfoque audaz. Confeccionadas para quienes exigen distinción en cada paso, esta pieza combina líneas clásicas con una actitud moderna. Cada par se elabora bajo pedido para garantizar exclusividad y cuenta con envío a todo el mundo. Una declaración de estilo inconfundible para el guardarropa actual.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/78e/78eed6e3e1f41ae4fcadafee2af002ef_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Heritage Grand High Sneakers · White",
- "name_es": "Zapatillas Heritage Grand High · Blanco",
+ "name_en": "Lady Heritage High-Top Sneakers · White",
+ "name_es": "Zapatillas altas Lady Heritage · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 682,

@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/064e597f1b133ccd2152.jpg",
+  "assets/products/shop/b785d20e89f1bc012a31.jpg",
+  "assets/products/shop/35266edbe8195c713ce3.jpg",
+  "assets/products/shop/0e3828355d497f510f46.jpg",
+  "assets/products/shop/83415382bb75c48167c1.jpg",
+  "assets/products/shop/2d8a8fa95c17aea82c4d.jpg",
+  "assets/products/shop/b6b020084245f9d772ce.jpg"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas"
  ],
@@ -27,6 +36,7 @@
  ],
  "draft": false,
  "fam": "eco-glide-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-345763591",
  "img_checked": "2026-11-23",

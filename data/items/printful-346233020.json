@@ -1,4 +1,12 @@
 {
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "rash guard",
+ "ai_ver": 2,
+ "art_note": "The image features a digital composite of a garment onto a model, lacking the refined textures and organic lighting expected in luxury campaigns.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +15,10 @@
  "cg": "printful-346233020",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Engineered for movement and seaside presence. This piece merges technical performance with a refined, contemporary silhouette. Each garment is meticulously crafted to order in the United States, ensuring absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Diseñada para el movimiento y la presencia junto al mar. Esta pieza combina un rendimiento técnico con una silueta depurada y contemporánea. Cada prenda se elabora meticulosamente bajo pedido en los Estados Unidos, garantizando una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order in the United States\n· Available for worldwide shipping",
+ "details_es": "· Hecho a pedido en los Estados Unidos\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/aa1/aa10004d5afebc29543db6414680d1db_preview.png"
  ],
@@ -24,9 +34,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Shield Elite Performance Tee · White",
- "name_es": "Camiseta Shield Elite Performance · Blanco",
+ "name_en": "Shield Elite Rash Guard",
+ "name_es": "Camiseta Rash Guard Shield Elite",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 61.99,
  "rank": 673,

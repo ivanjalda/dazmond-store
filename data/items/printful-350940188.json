@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Sports Bra",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and dynamic yoga pose, yet lacks the elevated mood of a true luxury campaign.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350940188",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A fusion of contemporary design and athletic functionality. This sports bra features an all-over print that reimagines the codes of active style. Designed to offer support without compromising the silhouette. Crafted on demand to ensure absolute exclusivity. Worldwide shipping available.",
+ "desc_es": "Una fusión de diseño contemporáneo y funcionalidad atlética. Este sujetador deportivo presenta un estampado integral que reinterpreta los códigos del estilo activo. Diseñado para ofrecer soporte sin comprometer la silueta. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo.",
+ "details_en": "· Made-to-order piece.\n· Worldwide shipping available.",
+ "details_es": "· Confección bajo demanda.\n· Envío mundial disponible.",
  "display_images": [
   "https://files.cdn.printful.com/files/e23/e23c7d788754567d16c6a8648127fea4_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Camouflage Art Sports Underwear · Black",
- "name_es": "Ropa Interior Camouflage Art Sports · Negro",
+ "name_en": "Camouflage Art Sports Bra",
+ "name_es": "Sujetador Deportivo Camouflage Art",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
  "rank": 735,

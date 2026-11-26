@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "athletic shorts",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking the elevated aesthetic required for luxury e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351334683",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A contemporary reinterpretation of athletic aesthetics. Designed for the modern woman who demands effortless sophistication in every movement. This model combines a fluid silhouette with a distinct graphic pattern. Each piece is crafted exclusively upon order and shipped worldwide. Elegance meets performance.",
+ "desc_es": "Una reinterpretación contemporánea de la estética deportiva. Diseñados para la mujer moderna que exige sofisticación sin esfuerzo en cada movimiento. Este modelo combina una silueta fluida con un patrón gráfico distintivo. Cada pieza se confecciona exclusivamente bajo pedido y se envía a todo el mundo. La elegancia se encuentra con el rendimiento.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección exclusiva bajo pedido\n· Disponible envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/5d9/5d91649e0e6dc5558a2940509a49daac_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Camo Emerald Shorts · White",
- "name_es": "Bermuda Camo Emerald · Blanco",
+ "name_en": "Camo Emerald Athletic Shorts",
+ "name_es": "Shorts deportivos Camo Emerald",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 54.99,
  "rank": 639,

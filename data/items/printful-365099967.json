@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Polo Shirt",
+ "ai_ver": 2,
+ "art_note": "The image features a flat, floating ghost-mannequin mockup style with a generic digital print overlay, falling short of luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-365099967",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold interpretation of contemporary design. This polo features an all-over print that balances graphic precision with a refined silhouette. Crafted made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una interpretación audaz del diseño contemporáneo. Este polo presenta un estampado integral que equilibra la precisión gráfica con una silueta depurada. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a nivel mundial.",
+ "details_en": "· Slim fit\n· Made to order",
+ "details_es": "· Corte ajustado\n· Confección bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/3d8/3d8d4d7f26e54af532de9bbb710c4285_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Ajustado Daz Art Polo · Black",
- "name_es": "Polo Ajustado Daz Art · Negro",
+ "name_en": "DAZ Luxury Art Slim Fit Polo",
+ "name_es": "Polo Estampado Slim Fit DAZ Luxury Art",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 742,

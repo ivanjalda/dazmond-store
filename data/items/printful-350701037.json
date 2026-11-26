@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/a09efed9105796de1c06.jpg",
+  "assets/products/shop/bbfa88d048e86dd712ba.jpg"
+ ],
  "ai_cats": [
   "mujer/pantalones-cortos"
  ],
@@ -28,6 +32,7 @@
  ],
  "draft": false,
  "fam": "emerald-core-premium",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350701037",
  "img_checked": "2026-11-23",
@@ -37,7 +42,7 @@
   "printful-338164153",
   "printful-337647274-dusty-rose"
  ],
- "material": "",
+ "material": "recycled athletic",
  "name_en": "Emerald Core Athletic Shorts",
  "name_es": "Shorts Deportivos Emerald Core",
  "needs_review": false,

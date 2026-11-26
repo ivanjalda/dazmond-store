@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "polo shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, though presented on a flat template.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-383253695",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential garment of refined design. This men's polo in white offers an impeccable silhouette. Every detail has been conceived with precision for the contemporary wardrobe. Minimalist aesthetics define understated elegance. A versatile piece for any sophisticated occasion. Made to order with worldwide shipping.",
+ "desc_es": "Una prenda esencial de diseño refinado. Este polo para hombre en tono blanco ofrece una silueta impecable. Cada detalle ha sido concebido con precisión para el guardarropa contemporáneo. La estética minimalista define una elegancia discreta. Una pieza versátil para cualquier ocasión sofisticada. Confección bajo pedido y envíos a todo el mundo.",
+ "details_en": "· Made to order.\n· Worldwide shipping.",
+ "details_es": "· Confección bajo pedido.\n· Envíos a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/c4b/c4b356800fe2cd298ac3ce94117b973f_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Daz Polo · White",
- "name_es": "Polo Daz · Blanco",
+ "name_en": "DAZ Luxury Polo · White",
+ "name_es": "Polo DAZ Luxury · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 666,

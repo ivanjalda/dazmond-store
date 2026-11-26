@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "sports bra",
+ "ai_ver": 2,
+ "art_note": "Mockup style imagery reduces the perceived luxury value of the brand.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350938936",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Designed for the contemporary woman, this sports bra fuses functionality with refined aesthetics. The clean silhouette offers optimal support without compromising elegance. Made-to-order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Diseñado para la mujer contemporánea, este sujetador deportivo fusiona funcionalidad y estética refinada. La silueta depurada ofrece un soporte óptimo sin comprometer la elegancia. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/cd9/cd99f1f24cf65e03de7ea9507addd3ca_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Equine Sports Bra Underwear · Black",
- "name_es": "Ropa Interior Equine Sports Bra · Negro",
+ "name_en": "Equine Sports Bra",
+ "name_es": "Sujetador Deportivo Equine",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
  "rank": 733,

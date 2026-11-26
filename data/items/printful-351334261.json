@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/7f9e025242917996b3ef.jpg",
+  "assets/products/shop/6ec59ececc97b123d9e8.jpg",
+  "assets/products/shop/ed9dbd4ee5ccd7b55772.jpg",
+  "assets/products/shop/3a0949e6e12878f2f477.jpg",
+  "assets/products/shop/1d1b992f488bc6328e26.jpg"
+ ],
  "ai_cats": [
   "mujer/pantalones-cortos"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "scarlet-jewel-edition",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351334261",
  "img_checked": "2026-11-23",

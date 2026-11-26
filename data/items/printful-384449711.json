@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "bikini bottom",
+ "ai_ver": 2,
+ "art_note": "The image features a digital composite or flat-rendered look typical of print-on-demand suppliers, failing to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-384449711",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Streamlined silhouette designed to define the physique. This V-cut design offers a contemporary aesthetic with a distinctive all-over print. Meticulously crafted on demand to ensure exclusivity. Worldwide shipping available for this essential piece.",
+ "desc_es": "Silueta depurada diseñada para definir la figura. Este diseño de corte en V ofrece una estética contemporánea con un distintivo estampado integral. Confeccionada meticulosamente bajo demanda para garantizar exclusividad. Envío mundial disponible para esta pieza esencial.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/128/128a01dc2382c459f1dfecc5fe7f6819_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Braguita Daz Corte Swimwear · White",
- "name_es": "Bañador Braguita Daz Corte · Blanco",
+ "name_en": "V-Cut Bikini Bottom",
+ "name_es": "Braguita de Bikini Corte en V",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
  "rank": 761,

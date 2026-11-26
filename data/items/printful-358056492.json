@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/7b99a174343ac93d28ca.jpg",
+  "assets/products/shop/408ad4193817224a695a.jpg",
+  "assets/products/shop/5b6938be75d3a0d824f8.jpg",
+  "assets/products/shop/9faf719f9b48ba19a859.jpg"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "pantalones-chandal-hombre",
+ "gender": "men",
  "hidden": false,
  "id": "printful-358056492",
  "img_checked": "2026-11-23",

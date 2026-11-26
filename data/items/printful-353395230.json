@@ -1,4 +1,15 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/83ad08ff620dcdf56d03.jpg",
+  "assets/products/shop/0c1048d7d686594d098f.jpg",
+  "assets/products/shop/99375dd8ec271bce05c8.jpg",
+  "assets/products/shop/4d0a672d17567e332e4d.jpg",
+  "assets/products/shop/b9cd99a20a729b8e3c04.jpg",
+  "assets/products/shop/4b22dbdd6586a858d487.jpg",
+  "assets/products/shop/5832747d14f073995142.jpg",
+  "assets/products/shop/f3f4cc209c140f11793b.jpg",
+  "assets/products/shop/cecf57c8b155b6933350.jpg"
+ ],
  "ai_cats": [
   "calzado-mujer/sandalias-chanclas"
  ],
@@ -27,6 +38,7 @@
  ],
  "draft": false,
  "fam": "sandalias-sun-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-353395230",
  "img_checked": "2026-11-22",

@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/81191e80c615a7ca4da9.jpg",
+  "assets/products/shop/5f853424289f7dfbcafa.jpg",
+  "assets/products/shop/3639590815acca7f5f3d.jpg",
+  "assets/products/shop/e965131c8bf4ac09aa18.jpg",
+  "assets/products/shop/076845be43c4a6eea0a8.jpg"
+ ],
  "ai_cats": [
   "mujer/pantalones"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "cloud-tie-dye",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-351736305",
  "img_checked": "2026-11-23",

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "polo shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio portrait of the model wearing the polo, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-374479601",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece for the contemporary wardrobe. Tailored with precision to offer an immaculate silhouette. Each garment is crafted to order in the United States. Available for worldwide shipping.",
+ "desc_es": "Una pieza esencial para el guardarropa contemporáneo. Confeccionada con precisión para ofrecer una silueta impecable. Cada prenda se elabora bajo pedido en los Estados Unidos. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Made to order\n· Worldwide shipping",
  "display_images": [
   "https://files.cdn.printful.com/files/a67/a67a90cce98a970245ecc54f68da53b9_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Daz Polo · White",
- "name_es": "Polo Daz · Blanco",
+ "name_en": "Black Premium Polo · White",
+ "name_es": "Polo Premium Negro · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 661,

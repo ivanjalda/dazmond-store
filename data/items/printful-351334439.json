@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "Olive",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "recycled athletic",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style resembling a marketplace template, lacking luxury e-commerce staging.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351334439",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A precise fusion of contemporary design and athletic functionality. These shorts feature a sophisticated all-over olive print paired with a clean silhouette. Crafted for effortless movement and commanding presence. Each piece is made to order. Worldwide shipping available.",
+ "desc_es": "Una fusión precisa de diseño contemporáneo y funcionalidad atlética. Estos shorts presentan un estampado integral sofisticado en tonos oliva con una silueta depurada. Diseñados para un movimiento sin esfuerzo y una presencia imponente. Cada pieza se confecciona bajo pedido en nuestras instalaciones. Envíos disponibles a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/f13/f13235c3a3e5205931ebe26d48515a40_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Stealth Shorts · White",
- "name_es": "Bermuda Stealth · Blanco",
+ "name_en": "Olive Stealth Athletic Shorts",
+ "name_es": "Shorts deportivos Olive Stealth",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 54.99,
  "rank": 637,

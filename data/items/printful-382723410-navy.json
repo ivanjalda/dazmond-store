@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "windbreaker",
+ "ai_ver": 2,
+ "art_note": "The image is a flat, generic supplier mockup showing the windbreaker on an invisible form, lacking luxury atmosphere and depth.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-382723410",
  "color": "Navy",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Refined silhouette for transitional weather. This essential windbreaker combines clean functionality with urban sobriety in a deep navy hue. Its versatile design meets the demands of the contemporary wardrobe with a defined and polished presence. Each piece is made to order and shipped worldwide. A garment engineered for movement without compromising on understated elegance.",
+ "desc_es": "Silueta depurada para la transición entre estaciones. Este cortavientos esencial combina funcionalidad y sobriedad urbana en un tono marino profundo. Su diseño versátil responde a las exigencias del guardarropa contemporáneo con una presencia limpia y definida. Cada pieza se confecciona bajo pedido en nuestras instalaciones de Estados Unidos y cuenta con envíos a todo el mundo. Una prenda diseñada para el movimiento sin renunciar a la elegancia.",
+ "details_en": "· Made-to-order piece.\n· Worldwide shipping available.",
+ "details_es": "· Confección bajo pedido.\n· Envío disponible a todo el mundo.",
  "display_images": [
   "https://files.cdn.printful.com/files/698/698956cda7845d1620559751d40fd510_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Cortavientos Daz Hombres Jacket · Navy",
- "name_es": "Chaqueta Cortavientos Daz Hombres · Azul Marino",
+ "name_en": "DAZ Luxury Minimalist Windbreaker · Navy",
+ "name_es": "Cortavientos Minimalista DAZ Luxury · Azul Marino",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 711,

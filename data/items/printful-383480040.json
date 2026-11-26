@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/73e075cb7a8dc3390811.jpg",
+  "assets/products/shop/e14f3dfa0ecbe736957e.jpg",
+  "assets/products/shop/4d302068751a02f70e1c.jpg",
+  "assets/products/shop/9ad4125556dcedc4fe71.jpg",
+  "assets/products/shop/64ed25549a1fec0533bc.jpg",
+  "assets/products/shop/76b1cc03795231841cd5.jpg",
+  "assets/products/shop/12200adf2e7a5c9db6f8.jpg"
+ ],
  "ai_cats": [
   "hombre/camiseta"
  ],
@@ -27,6 +36,7 @@
  ],
  "draft": false,
  "fam": "camiseta-luxury",
+ "gender": "men",
  "hidden": false,
  "id": "printful-383480040",
  "img_checked": "2026-11-23",

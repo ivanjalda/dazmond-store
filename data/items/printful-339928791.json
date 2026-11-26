@@ -1,4 +1,14 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/120558afd8a56805a5e3.jpg",
+  "assets/products/shop/5dee3c77639549378476.jpg",
+  "assets/products/shop/336b33f1895fb5e48d3f.jpg",
+  "assets/products/shop/12a382b84c9b936e7e3c.jpg",
+  "assets/products/shop/8dd4ffb58b4ec9f7f67d.jpg",
+  "assets/products/shop/9e00e917732c9667b160.jpg",
+  "assets/products/shop/972ef6b56c1f89d8a801.jpg",
+  "assets/products/shop/43b06e5781f9a8d9a988.jpg"
+ ],
  "ai_cats": [
   "mujer/camisetas-blusas-tops"
  ],
@@ -27,6 +37,7 @@
  ],
  "draft": false,
  "fam": "hydra-flow-long",
+ "gender": "women",
  "hidden": false,
  "id": "printful-339928791",
  "img_checked": "2026-11-23",

@@ -1,4 +1,8 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/eed9e3627adc0a9abb84.jpg",
+  "assets/products/shop/39c1a2742a050e0be9e6.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +32,7 @@
  ],
  "draft": false,
  "fam": "bikini-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-384453697",
  "img_checked": "2026-11-23",
@@ -37,7 +42,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "Recycled Bandeau Bikini",
  "name_es": "Bikini Bandeau Reciclado",
  "needs_review": false,

@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/b9d943596f808d773546.jpg",
+  "assets/products/shop/4a3b8769908c63d3be93.jpg",
+  "assets/products/shop/234c82f9f13fdfa9cae0.jpg",
+  "assets/products/shop/29e33d32b86d95ccc9d6.jpg",
+  "assets/products/shop/70594511eae9b8e43241.jpg",
+  "assets/products/shop/ae6f868a3475ada0b7ee.jpg"
+ ],
  "ai_cats": [
   "decor"
  ],
@@ -29,13 +37,14 @@
  ],
  "draft": false,
  "fam": "obsidian-gloss-luxury",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-348012249",
  "img_checked": "2026-11-23",
  "look": [
   "printful-382149130"
  ],
- "material": "",
+ "material": "Ceramic",
  "name_en": "Obsidian Gloss Mug",
  "name_es": "Taza Obsidian Gloss",
  "needs_review": false,

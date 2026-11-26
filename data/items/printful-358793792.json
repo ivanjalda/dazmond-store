@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/ea2ec1bb126642098ad6.jpg",
+  "assets/products/shop/ce1386e7de5b7297c82b.jpg",
+  "assets/products/shop/6215ebde681ee818a225.jpg",
+  "assets/products/shop/ec41420cafbd0567ad87.jpg"
+ ],
  "ai_cats": [
   "mujer/chaqueta-sudadera-sueter"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "pantalon-art-chandal",
+ "gender": "women",
  "hidden": false,
  "id": "printful-358793792",
  "img_checked": "2026-11-23",

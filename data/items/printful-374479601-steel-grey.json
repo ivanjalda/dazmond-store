@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Steel Grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "polo",
+ "ai_ver": 2,
+ "art_note": "The image features a standard mock-up aesthetic with flat lighting and a composited look that falls below luxury e-commerce standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-374479601",
  "color": "Steel Grey",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Contemporary elegance defines this essential silhouette. Crafted with precision to offer an impeccable presence. A versatile garment designed for the modern wardrobe. Available made to order with worldwide shipping.",
+ "desc_es": "La elegancia contemporánea define esta silueta esencial. Confeccionada con precisión para ofrecer una presencia impecable. Una prenda versátil diseñada para el guardarropa moderno. Disponible bajo pedido con envío mundial.",
+ "details_en": "· Made to order exclusively.\n· Worldwide shipping available.",
+ "details_es": "· Hecho a pedido exclusivamente.\n· Envío mundial disponible.",
  "display_images": [
   "https://files.cdn.printful.com/files/0a5/0a5aa616036fae2519d6479d035a95a3_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Daz Polo · Steel Grey",
- "name_es": "Polo Daz · Steel Grey",
+ "name_en": "Black Premium Polo · Steel Grey",
+ "name_es": "Polo Premium Negro · Steel Grey",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 659,

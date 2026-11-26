@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Stone",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "polo shirt",
+ "ai_ver": 2,
+ "art_note": "The image is a flat digital mockup or template with a pasted graphic, lacking the tactile depth and high-end lighting expected in luxury e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-383253695",
  "color": "Stone",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece of casual tailoring conceived for the contemporary wardrobe. Clean lines define a sober and sophisticated silhouette. Each garment is individually crafted on demand to ensure absolute exclusivity. The neutral tone delivers versatility and understated refinement. Available with worldwide shipping.",
+ "desc_es": "Una pieza esencial de sastrería casual concebida para el guardarropa contemporáneo. Las líneas depuradas definen una silueta sobria y sofisticada. Cada prenda se elabora de manera individual bajo demanda para garantizar una exclusividad absoluta. El tono neutro aporta versatilidad y refinamiento discreto. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/8dc/8dce375e3a2240e4aa7f55bd2926d54f_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Daz Polo · Stone",
- "name_es": "Polo Daz · Stone",
+ "name_en": "DAZ Luxury Polo · Stone",
+ "name_es": "Polo DAZ Luxury · Stone",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 665,

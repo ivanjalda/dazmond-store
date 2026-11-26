@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Cool Heather",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "polo shirt",
+ "ai_ver": 2,
+ "art_note": "The image features a generic supplier template with a flat-looking mock-up, failing to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-383253695",
  "color": "Cool Heather",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Aesthetic rigor meets modern functionality. Impeccable silhouette tailored for the contemporary man. Exclusive made-to-order construction with worldwide shipping availability. An essential piece defining silent sophistication.",
+ "desc_es": "El rigor estético se encuentra con la funcionalidad moderna. Silueta impecable diseñada para el hombre contemporáneo. Confección exclusiva bajo demanda con disponibilidad de envío internacional. Una prenda esencial que define la sofisticación silenciosa.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho a medida\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/026/02601fd6fa75d704e1235c89d6115d34_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Daz Polo · Cool Heather",
- "name_es": "Polo Daz · Cool Heather",
+ "name_en": "DAZ Luxury Polo · Cool Heather",
+ "name_es": "Polo DAZ Luxury · Cool Heather",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 663,

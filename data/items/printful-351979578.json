@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "crop tee",
+ "ai_ver": 2,
+ "art_note": "The image exhibits a flat, composited look typical of basic print-on-demand suppliers, failing to meet luxury e-commerce campaign standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-351979578",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined expression of casual modernity. This cropped silhouette reinterprets urban elegance codes with an exclusive all-over print. Crafted on demand to ensure an immaculate finish and absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una expresion depurada de la modernidad casual. Esta silueta recortada reinterpreta los codigos de la elegancia urbana con un estampado integral de caracter exclusivo. Confeccionada bajo pedido para asegurar un acabado impecable y una exclusividad absoluta. Disponible con envios a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envio mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/149/149758d52dc079e5f762b4b74395f5c7_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Gallery Statement Crop Tee · White",
- "name_es": "Camiseta Gallery Statement Crop · Blanco",
+ "name_en": "Gallery Statement Crop Tee",
+ "name_es": "Camiseta corta Gallery Statement",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 43.99,
  "rank": 687,

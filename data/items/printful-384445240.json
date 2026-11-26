@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Bandeau Bikini Top",
+ "ai_ver": 2,
+ "art_note": "Clean studio model shot with decent lighting, though the composite feel prevents it from reaching true luxury campaign standards.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-384445240",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential piece for the summer season. This bandeau design redefines coastal elegance with a clean and refined silhouette. Designed for the contemporary woman seeking sophistication under the sun. Each piece is crafted to order in our ateliers. We offer worldwide shipping for your convenience.",
+ "desc_es": "Una pieza esencial para la temporada estival. Este diseño bandeau redefine la elegancia costera con una silueta limpia y depurada. Pensado para la mujer contemporánea que busca sofisticación bajo el sol. Cada pieza se confecciona bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Made-to-order piece\n· Available for worldwide shipping",
+ "details_es": "· Confección bajo pedido\n· Disponible para envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/a1b/a1b06270bee75e56cb8d9e85c6c30144_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Swimwear · White",
- "name_es": "Bañador Daz · Blanco",
+ "name_en": "AOP Bandeau Bikini Top",
+ "name_es": "Top de Bikini Bandeau AOP",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 671,

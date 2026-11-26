@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "The image features a flat, marketplace-style cutout composite with unnatural lighting that lacks luxury brand standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358775476",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Relaxed elegance defines this contemporary-inspired silhouette. Designed to offer absolute comfort without compromising sophisticated presence. Each piece is crafted to order in our specialized workshops. The generous cut brings fluidity and movement to the structure. Available with international shipping for discerning clients.",
+ "desc_es": "La elegancia relajada define esta silueta de inspiración contemporánea. Diseñado para ofrecer una comodidad absoluta sin renunciar a una presencia sofisticada. Cada pieza se confecciona bajo pedido en nuestros talleres especializados. El corte amplio aporta fluidez y movimiento a la estructura. Disponible con envío internacional para clientes exigentes.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/d90/d906a878c32428a6eec58e6f7623a266_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Chándal Sweatshirt · White",
- "name_es": "Sudadera Pantalón Daz Chándal · Blanco",
+ "name_en": "Wide-leg joggers",
+ "name_es": "Pantalón de chándal holgado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 76.99,
  "rank": 649,

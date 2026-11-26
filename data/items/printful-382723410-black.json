@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "windbreaker",
+ "ai_ver": 2,
+ "art_note": "The image features a standard flat-mockup presentation on an invisible mannequin, characteristic of supplier templates rather than high-end luxury e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-382723410",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential garment designed for seasonal transitions. This windbreaker combines functionality with a refined silhouette. The dark tone design offers urban versatility. Subtle details complete the piece with discretion. Made-to-order construction available with worldwide shipping.",
+ "desc_es": "Una prenda esencial diseñada para la transición entre estaciones. Este cortavientos combina funcionalidad y una silueta depurada. El diseño en tono oscuro ofrece versatilidad urbana. Los detalles sutiles completan la pieza con discreción. Confección bajo demanda disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/245/245a2823c06bd4d2012722a9c248166b_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Cortavientos Daz Hombres Jacket · Black",
- "name_es": "Chaqueta Cortavientos Daz Hombres · Negro",
+ "name_en": "DAZ Luxury Minimalist Windbreaker · Black",
+ "name_es": "Cortavientos Minimalista DAZ Luxury · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 709,

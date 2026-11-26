@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Polo Shirt",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking luxury atmosphere and realistic lighting.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-365098803",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece defined by a refined silhouette and a striking all-over graphic motif. This design embodies contemporary elegance with a slim-fit cut that flatters the silhouette. Crafted to deliver an impeccable presence on every occasion. Each piece is meticulously made to order. We offer worldwide shipping to ensure an exclusive experience.",
+ "desc_es": "Una pieza esencial definida por una silueta depurada y un llamativo motivo gráfico integral. Este diseño encarna la elegancia contemporánea con un corte ajustado que realza la figura. Confeccionado para ofrecer una presencia impecable en cualquier ocasión. Cada prenda se elabora meticulosamente bajo pedido en nuestras instalaciones. Ofrecemos envíos a todo el mundo para garantizar una experiencia exclusiva.",
+ "details_en": "· Slim fit\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Corte ajustado\n· Hecho bajo pedido\n· Disponible envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/d5d/d5d4d253bdfbf98684d838665433b724_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Ajustado Daz Art Polo · Black",
- "name_es": "Polo Ajustado Daz Art · Negro",
+ "name_en": "All-Over Print Slim Fit Polo",
+ "name_es": "Polo Estampado Slim Fit",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 741,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "The image features a flat, floating digital mockup lacking real studio lighting or editorial context, undermining luxury brand positioning.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358776212",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of contemporary design. These wide-leg joggers combine a fluid silhouette with an all-over graphic print. Crafted to offer effortless presence, they redefine the codes of everyday luxury. Each piece is meticulously made to order and available with worldwide shipping. Elegance finds its true definition in movement and precision.",
+ "desc_es": "Una expresión depurada del diseño contemporáneo. Este pantalón de chándal amplio combina una silueta fluida con un estampado integral de carácter gráfico. Creado para ofrecer una presencia imponente sin esfuerzo, redefine los códigos del lujo cotidiano. Cada pieza se confecciona exclusivamente bajo pedido en nuestros talleres y cuenta con envíos internacionales. La elegancia encuentra su definición en el movimiento y la precisión.",
+ "details_en": "· Exclusive made-to-order piece\n· Available with worldwide shipping",
+ "details_es": "· Confección exclusiva bajo pedido\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/ba4/ba4d30b8846dcaf2569ec6d47fa61b11_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Art Sweatshirt · White",
- "name_es": "Sudadera Pantalón Daz Art · Blanco",
+ "name_en": "Wide-leg joggers",
+ "name_es": "Pantalón de chándal amplio",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 76.99,
  "rank": 653,

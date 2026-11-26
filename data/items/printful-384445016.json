@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Recycled",
+ "ai_type": "Bikini Top",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and clear garment visibility, though standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-384445016",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece for the summer season. This bandeau bikini top combines a refined silhouette with a distinctive print. Designed to deliver a minimalist and sophisticated aesthetic under the sun. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una pieza esencial para la temporada estival. Este top de bikini bandeau combina una silueta depurada con un estampado distintivo. Diseñado para ofrecer una estética minimalista y sofisticada bajo el sol. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Recycled\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Reciclado\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/79c/79c8351b8a15b8482004b29719e1fa3d_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Daz Swimwear · White",
- "name_es": "Bañador Daz · Blanco",
+ "name_en": "DAZ Bandeau Bikini Top",
+ "name_es": "Top de Bikini Bandeau DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 41.99,
  "rank": 670,

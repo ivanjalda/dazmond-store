@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "sports bra",
+ "ai_ver": 2,
+ "art_note": "Flat lay product shot styled with fitness accessories, clean composition but lacks a high-end luxury editorial atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350941809",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An athletic silhouette crafted for the contemporary woman. This sports bra combines functionality with a distinctive all-over print. Created on demand to ensure exclusivity in every piece. Available for worldwide shipping. An essential garment that redefines elegance in movement.",
+ "desc_es": "Una silueta atlética diseñada para la mujer contemporánea. Este sujetador deportivo combina funcionalidad con un estampado integral distintivo. Creado bajo demanda para garantizar exclusividad en cada pieza. Disponible para envíos a todo el mundo. Una prenda esencial que redefine la elegancia en el movimiento.",
+ "details_en": "· Made to order and available for worldwide shipping",
+ "details_es": "· Hecho bajo pedido y disponible para envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/7e3/7e3a0fa33666c4a03ca2b8b409a669e6_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Rule Sports Bra Underwear · Black",
- "name_es": "Ropa Interior Rule Sports Bra · Negro",
+ "name_en": "Girls Rule Sports Bra",
+ "name_es": "Sujetador Deportivo Girls Rule",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
  "rank": 736,

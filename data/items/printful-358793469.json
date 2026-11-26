@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/1b6c9c9c8bd68e009b50.jpg",
+  "assets/products/shop/d310198f176328ed9431.jpg",
+  "assets/products/shop/fa361740cb1d940a77b7.jpg",
+  "assets/products/shop/58c2fd4feef5bb2cfc8d.jpg"
+ ],
  "ai_cats": [
   "mujer/chaqueta-sudadera-sueter"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "pantalon-chandal-mujer",
+ "gender": "women",
  "hidden": false,
  "id": "printful-358793469",
  "img_checked": "2026-11-23",

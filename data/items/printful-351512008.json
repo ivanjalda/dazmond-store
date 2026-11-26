@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/64c5594a8feb0fbe65bd.jpg",
+  "assets/products/shop/2f237ed6f91960122726.jpg",
+  "assets/products/shop/e3280495d7576017dbaf.jpg",
+  "assets/products/shop/3d0c8b99e369abe2d914.jpg",
+  "assets/products/shop/98cda0d87d8a8db4cd46.jpg",
+  "assets/products/shop/08173cde193dcd315ca7.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +35,7 @@
  ],
  "draft": false,
  "fam": "amber-geometry-silhouette",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351512008",
  "img_checked": "2026-11-23",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Canvas",
+ "ai_type": "High Top Canvas Shoes",
+ "ai_ver": 2,
+ "art_note": "The image features a digital mockup placement on footwear rather than a refined luxury studio photograph.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-348007172",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece in canvas is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co. en lona, diseñada para acompañarte del día a la noche.",
+ "desc_en": "Classic high top silhouette designed for everyday wear. A versatile offering that merges traditional aesthetics with distinctive graphic accents. Each pair is meticulously crafted to order in our facilities. We offer worldwide shipping to ensure the product arrives directly at your destination with utmost exclusivity and care.",
+ "desc_es": "Silueta clásica de caña alta diseñada para el día a día. Una propuesta versátil que combina una estética tradicional con detalles gráficos distintivos. Cada par se elabora meticulosamente bajo pedido en nuestras instalaciones. Ofrecemos envíos a todo el mundo para garantizar que el producto llegue directamente a su destino con la máxima exclusividad y cuidado.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/2d0/2d073b956f6f3829881f3e66a7e03b3f_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "High Rise Heritage Sneakers · White",
- "name_es": "Zapatillas High Rise Heritage · Blanco",
+ "name_en": "High-Rise Heritage High Top Shoes · White",
+ "name_es": "Zapatillas Altas High-Rise Heritage · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 67.99,
  "rank": 675,

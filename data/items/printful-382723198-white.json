@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/e69e2f19818210abc94a.jpg",
+  "assets/products/shop/e69e2f19818210abc94a.jpg",
+  "assets/products/shop/e69e2f19818210abc94a.jpg",
+  "assets/products/shop/e69e2f19818210abc94a.jpg",
+  "assets/products/shop/e69e2f19818210abc94a.jpg",
+  "assets/products/shop/60e327eea8b3ba1ef770.jpg",
+  "assets/products/shop/535e23edd42137acfbce.jpg"
+ ],
  "ai_cats": [
   "hombre/camiseta"
  ],
@@ -28,6 +37,7 @@
  ],
  "draft": false,
  "fam": "camiseta-luxury-gruesa",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-382723198-white",
  "img_checked": "2026-11-23",
@@ -37,7 +47,7 @@
   "printful-351492575-black",
   "printful-361906822"
  ],
- "material": "",
+ "material": "organic cotton",
  "name_en": "DAZ Anthracite Organic T-Shirt · White",
  "name_es": "Camiseta Orgánica DAZ Anthracite · Blanco",
  "needs_review": false,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "recycled athletic",
+ "ai_type": "athletic shorts",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style resembling a marketplace template rather than a luxury presentation.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-351335271",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined vision of contemporary athletic wear. Essential silhouette conceived for effortless movement. Crafted on demand with a global commitment. Worldwide shipping available. Minimalist aesthetic meets technical functionality.",
+ "desc_es": "Una visión depurada de la indumentaria deportiva contemporánea. Silueta esencial concebida para el movimiento sin esfuerzo. Confección bajo demanda con compromiso global. Envío disponible a todo el mundo. La estética minimalista se encuentra con la funcionalidad técnica.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/449/44944fc2af1f7c1ae146377065264d14_preview.png"
  ],
@@ -24,9 +38,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Golden Grain Signature Shorts · White",
- "name_es": "Bermuda Golden Grain Signature · Blanco",
+ "name_en": "Golden Grain Athletic Shorts",
+ "name_es": "Shorts Deportivos Golden Grain",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 54.99,
  "rank": 641,

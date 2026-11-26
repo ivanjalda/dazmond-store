@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/39b12356c60382748c12.jpg",
+  "assets/products/shop/a991ed8711c4a1dc0624.jpg",
+  "assets/products/shop/cb3be5cd2657c857c069.jpg",
+  "assets/products/shop/7074f70f77e84bae7003.jpg",
+  "assets/products/shop/1705ae6bd2074731fdaa.jpg"
+ ],
  "ai_cats": [
   "hombre/camiseta"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "infinity-4d",
+ "gender": "men",
  "hidden": false,
  "id": "printful-355272517",
  "img_checked": "2026-11-23",

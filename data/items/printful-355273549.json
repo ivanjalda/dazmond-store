@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/f1de261f025399db3bb4.jpg",
+  "assets/products/shop/36d3f6dd7c669c94047b.jpg",
+  "assets/products/shop/cc8cc9d1e9fff3ee30ec.jpg",
+  "assets/products/shop/3401e7a20ef5e151d1a8.jpg",
+  "assets/products/shop/bfa15c543a1ee5a7fdb4.jpg",
+  "assets/products/shop/d04c1b1c1dba38727984.jpg",
+  "assets/products/shop/fecc571d6f886ff4d04e.jpg"
+ ],
  "ai_cats": [
   "hombre/camiseta"
  ],
@@ -27,6 +36,7 @@
  ],
  "draft": false,
  "fam": "kinetic-way",
+ "gender": "men",
  "hidden": false,
  "id": "printful-355273549",
  "img_checked": "2026-11-23",

@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/850fcb6a668a1c1cf9b7.jpg",
+  "assets/products/shop/f5e89f33dec6368221c0.jpg",
+  "assets/products/shop/bc7da361a0a5a3704a74.jpg"
+ ],
  "ai_cats": [
   "mujer/chaqueta-sudadera-sueter"
  ],
@@ -27,6 +32,7 @@
  ],
  "draft": false,
  "fam": "pantalon-chandal-forro",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-358798486",
  "img_checked": "2026-11-23",
