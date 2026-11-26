@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T01:42:04Z",
+  "updated": "2026-11-26T02:41:49Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -4060,10 +4060,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "Essential Logo Hoodie Black DAZMOND & Co. — Essential Logo. Made to order.",
-      "name_es": "Sudadera Logo · Negro",
-      "name_en": "Logo Sweatshirt · Black",
-      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "name_es": "Sudadera Essential Logo Negra",
+      "name_en": "Essential Logo Black Hoodie",
+      "desc_es": "Una silueta depurada que redefine el lujo cotidiano. Confeccionada con precisión bajo demanda. El negro profundo se funde con el distintivo de la casa en el pecho. Comodidad absoluta sin renunciar a la elegancia arquitectónica. Disponible exclusivamente mediante envíos a todo el mundo. Una prenda esencial para el guardarropa contemporáneo.",
+      "desc_en": "A refined silhouette redefining everyday luxury. Crafted with precision on demand. Deep black merges with the house emblem across the chest. Absolute comfort paired with architectural elegance. Available exclusively through worldwide shipping. An essential piece for the contemporary wardrobe.",
       "price_usd": 46.99,
       "margin_pct": 21.4,
       "shipping_usd": 8.79,
@@ -4086,8 +4086,7 @@
         "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98425/essential-logo-hoodie.jpg?camera_label=back",
         "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98426/essential-logo-hoodie.jpg?camera_label=back-2",
         "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98432/essential-logo-hoodie.jpg?camera_label=folded",
-        "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/100685/essential-logo-hoodie.jpg?camera_label=front-collar-closeup",
-        "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/127738/essential-logo-hoodie.jpg?camera_label=front-2"
+        "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/100685/essential-logo-hoodie.jpg?camera_label=front-collar-closeup"
       ],
       "available": true,
       "price_history": {
@@ -4122,7 +4121,62 @@
       "stripe_link_id": "plink_1Ufqu9LJVU4oTPuXH83r0RcS",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "art_score": 6,
+      "art_note": "Clean studio product photography that presents the silhouette clearly, though lifestyle and flat lay executions feel standard.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98424/essential-logo-hoodie.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98425/essential-logo-hoodie.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98426/essential-logo-hoodie.jpg?camera_label=back-2",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98432/essential-logo-hoodie.jpg?camera_label=folded",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/100685/essential-logo-hoodie.jpg?camera_label=front-collar-closeup",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/127688/essential-logo-hoodie.jpg?camera_label=lifestyle-2",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98427/essential-logo-hoodie.jpg?camera_label=person-1",
+            "k": "model",
+            "q": "ok"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "hoodie",
+      "ai_gender": "unisex",
+      "ai_color": "black",
+      "ai_cats": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "details_es": "· Hecho a pedido\n· Envío mundial disponible",
+      "details_en": "· Made to order\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printify-6b07806ad144ea48ec08051d",
@@ -4247,7 +4301,8 @@
       "stripe_link_id": "plink_1UfquALJVU4oTPuX4gnK7ZS4",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "ai_fail": 1
     },
     {
       "id": "printify-6b0780764ca2a016cf0642d2",
@@ -4372,7 +4427,8 @@
       "stripe_link_id": "plink_1UfquBLJVU4oTPuXXKIQzxQy",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "ai_fail": 1
     },
     {
       "id": "printify-6b07805c95f8c097e6030c15",

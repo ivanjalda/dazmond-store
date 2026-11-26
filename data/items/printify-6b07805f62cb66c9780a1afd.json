@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography that presents the silhouette clearly, though lifestyle and flat lay executions feel standard.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,15 +21,16 @@
  "cg": "printify-6b07805f62cb66c9780a1afd",
  "color": "Black",
  "created": "2026-11-26",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette redefining everyday luxury. Crafted with precision on demand. Deep black merges with the house emblem across the chest. Absolute comfort paired with architectural elegance. Available exclusively through worldwide shipping. An essential piece for the contemporary wardrobe.",
+ "desc_es": "Una silueta depurada que redefine el lujo cotidiano. Confeccionada con precisión bajo demanda. El negro profundo se funde con el distintivo de la casa en el pecho. Comodidad absoluta sin renunciar a la elegancia arquitectónica. Disponible exclusivamente mediante envíos a todo el mundo. Una prenda esencial para el guardarropa contemporáneo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98424/essential-logo-hoodie.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98425/essential-logo-hoodie.jpg?camera_label=back",
   "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98426/essential-logo-hoodie.jpg?camera_label=back-2",
   "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/98432/essential-logo-hoodie.jpg?camera_label=folded",
-  "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/100685/essential-logo-hoodie.jpg?camera_label=front-collar-closeup",
-  "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/127738/essential-logo-hoodie.jpg?camera_label=front-2"
+  "https://images-api.printify.com/mockup/6b07805f62cb66c9780a1afd/32920/100685/essential-logo-hoodie.jpg?camera_label=front-collar-closeup"
  ],
  "draft": false,
  "fam": "essential-logo-hoodie",
@@ -31,9 +44,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Logo Sweatshirt · Black",
- "name_es": "Sudadera Logo · Negro",
+ "name_en": "Essential Logo Black Hoodie",
+ "name_es": "Sudadera Essential Logo Negra",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 46.99,
  "rank": 26,
