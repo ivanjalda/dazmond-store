@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
+ "ai_type": "Phone Wallet Case",
+ "ai_ver": 2,
+ "art_note": "Digital collage presentation typical of marketplace dropshippers, detracting from brand luxury positioning.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,18 +19,18 @@
  "cg": "t-funda-con-tapa-de-cuero-sintetico-daz-para-telefono",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your everyday device with this sophisticated phone wallet case. Crafted from high-grade synthetic leather, it combines full-body protection with a refined nature-inspired design. The interior features dedicated card slots and a cash layer, offering seamless organization without compromising style. Engineered to accommodate various models with precision, this piece merges modern practicality with a timeless aesthetic for daily utility.",
+ "desc_es": "Eleve su dispositivo cotidiano con esta sofisticada funda tipo billetera para teléfono. Confeccionada con cuero sintético de alta calidad, combina protección total con un diseño refinado inspirado en la naturaleza. El interior cuenta con ranuras dedicadas para tarjetas y un compartimento para efectivo, ofreciendo funcionalidad sin sacrificar el estilo. Diseñada para adaptarse a diversos modelos con precisión, esta pieza fusiona la practicidad moderna con una estética atemporal para el uso diario.",
+ "details_en": "· Made-to-order piece with worldwide shipping available.\n· High-grade synthetic leather composition.\n· Interior 3-card pocket and cash layer.\n· Folding folio horizontal stand function.\n· Snap button folio closure.\n· Care instructions: gently wipe dust with a soft, dry cloth, or wash with water and air dry.",
+ "details_es": "· Hecho a pedido y con envío mundial disponible.\n· Cuero sintético de alta calidad.\n· Interior con bolsillo para 3 tarjetas y compartimento para efectivo.\n· Función de soporte plegable horizontal.\n· Cierre con solapa y botón.\n· Instrucciones de cuidado: limpiar el polvo con un paño suave y seco, o lavar con agua y secar al aire.",
  "display_images": [
   "assets/products/shop/6359b9978d293bdbd07d.jpg",
   "assets/products/shop/dcd36de42cbadac39b53.jpg",
   "assets/products/shop/3ffa2dc23838b0e6d7e7.jpg",
   "assets/products/shop/8c22e4c94c5e98703de2.jpg",
   "assets/products/shop/4a79ece61624947dcee1.jpg",
-  "assets/products/shop/ada226d5616ab4ff89bc.jpg",
   "assets/products/shop/b8595859dd6cd78c2e97.jpg",
-  "assets/products/shop/91f3b666071d5d72a7c8.jpg",
-  "assets/products/shop/c2572a7703a021834795.jpg"
+  "assets/products/shop/91f3b666071d5d72a7c8.jpg"
  ],
  "draft": false,
  "fam": "funda-tapa-cuero",
@@ -29,9 +41,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Funda Tapa Cuero Case",
- "name_es": "Funda Funda Tapa Cuero",
+ "name_en": "DAZ phone wallet case",
+ "name_es": "Funda tipo billetera DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1091,
@@ -39,8 +52,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Electrónica > Comunicación > Telefonía > Accesorios para teléfonos móviles y inteligentes > Fundas para móviles",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "WIDTH"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "ANCHURA"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Por favor permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "10cm(3.9\")",
+    "15.6cm(6.14\")"
+   ],
+   [
+    "M",
+    "10cm(3.9\")",
+    "17cm(6.7\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/ada226d5616ab4ff89bc.jpg",
+  "assets/products/shop/c2572a7703a021834795.jpg"
+ ],
  "sizes": [
   "S",
   "M"

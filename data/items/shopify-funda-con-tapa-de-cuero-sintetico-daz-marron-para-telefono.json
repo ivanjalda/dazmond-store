@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
+ "ai_type": "Phone Wallet Case",
+ "ai_ver": 2,
+ "art_note": "Product presentation uses standard digital mockups and plain studio layouts typical of marketplace listings, lacking high-end luxury campaign atmosphere.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,18 +19,18 @@
  "cg": "t-funda-con-tapa-de-cuero-sintetico-daz-para-telefono",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your everyday device with the DAZ phone wallet case. Crafted from high-grade synthetic material, this piece combines refined utility with a distinctive exterior motif. It features a structured interior compartment equipped with card slots and a cash pocket. The folding folio function allows for seamless horizontal viewing. Engineered to provide complete protection while maintaining unobstructed access to all ports. Available in curated options to complement your lifestyle.",
+ "desc_es": "Eleve su dispositivo cotidiano con la funda tipo billetera DAZ. Elaborada con material sintético de alta calidad, esta pieza combina funcionalidad refinada y diseño distintivo. Cuenta con un compartimento interior estructurado con espacios para tarjetas y una capa para efectivo. El sistema de soporte plegable permite una visualización cómoda en posición horizontal. Diseñada para ofrecer protección completa mientras mantiene la accesibilidad a todos los puertos. Disponible en opciones seleccionadas para adaptarse a su estilo de vida.",
+ "details_en": "· Made to order\n· Worldwide shipping\n· Material: synthetic leather\n· Interior card pockets and cash slot\n· Folding folio stand function\n· Gently clean dust with a soft, dry cloth",
+ "details_es": "· Hecho a pedido\n· Envío mundial\n· Material: cuero sintético\n· Interior con bolsillo para tarjetas y espacio para efectivo\n· Función de soporte plegable\n· Limpiar el polvo suavemente con un paño suave y seco",
  "display_images": [
   "assets/products/shop/1a90357cdc2b0fd25d6c.jpg",
   "assets/products/shop/047b86c8d284554b52a9.jpg",
   "assets/products/shop/0996674acced6c6c019f.jpg",
   "assets/products/shop/ba32fe08405fddab3f0c.jpg",
   "assets/products/shop/75c374a28a6ffb4d2307.jpg",
-  "assets/products/shop/3b273bc43ba8eb12ba94.jpg",
   "assets/products/shop/50b710b69df3e734c274.jpg",
-  "assets/products/shop/34061e6181d76d60db81.jpg",
-  "assets/products/shop/229892d8d464ae71eecd.jpg"
+  "assets/products/shop/34061e6181d76d60db81.jpg"
  ],
  "draft": false,
  "fam": "funda-tapa-cuero",
@@ -29,9 +41,10 @@
   "printful-382149130"
  ],
  "material": "",
- "name_en": "Funda Tapa Cuero Case",
- "name_es": "Funda Funda Tapa Cuero",
+ "name_en": "DAZ phone wallet case",
+ "name_es": "Funda tipo billetera DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1090,
@@ -39,8 +52,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Electrónica > Comunicación > Telefonía > Accesorios para teléfonos móviles y inteligentes > Fundas para móviles",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Width"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud",
+   "Ancho"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "10cm (3.9\")",
+    "15.6cm (6.14\")"
+   ],
+   [
+    "M",
+    "10cm (3.9\")",
+    "17cm (6.7\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/3b273bc43ba8eb12ba94.jpg",
+  "assets/products/shop/229892d8d464ae71eecd.jpg"
+ ],
  "sizes": [
   "S",
   "M"
