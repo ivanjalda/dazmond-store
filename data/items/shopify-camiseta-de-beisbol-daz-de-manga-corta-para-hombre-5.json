@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "Yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester",
+ "ai_type": "Baseball Shirt",
+ "ai_ver": 2,
+ "art_note": "The flat digital pattern placement and standard mockup style lack true luxury campaign aesthetics.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,13 @@
  "cg": "t-camiseta-de-beisbol-daz-de-manga-corta-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary silhouette defined by an all-over graphic layout. This piece merges athletic tailoring with modern house codes. Crafted from a lightweight and breathable fabric to ensure comfort and ventilation throughout the day. Classic details include a front button closure and a V-neck design. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una silueta contemporánea definida por un diseño gráfico integral. Esta prenda fusiona la sastrería deportiva con la estética moderna de la casa. Confeccionada con un tejido ligero y transpirable para garantizar comodidad y ventilación durante todo el día. Los detalles clásicos incluyen cierre frontal con botones y cuello en V. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Composition: high-quality polyester fabric\n· V-neck design and button closure\n· Lightweight and breathable fabric\n· Care instructions: hand and machine washable, do not soak for a long time, do not bleach, line dry or tumble dry\n· Made to order with worldwide shipping",
+ "details_es": "· Composición: tejido de poliéster de alta calidad\n· Diseño con cuello en V y cierre de botones\n· Tejido ligero y transpirable\n· Instrucciones de cuidado: lavable a mano y a máquina, no remojar durante mucho tiempo, no usar lejía, secar al aire o a máquina\n· Hecho bajo pedido con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/a166b11fd0bbcd9920bc.jpg",
-  "assets/products/shop/d0400546583926f125c0.jpg",
-  "assets/products/shop/4cb656aea1553f14e90e.jpg",
-  "assets/products/shop/5dc5e6163d3c714bbe10.jpg",
-  "assets/products/shop/3ce0ff30e40ffda7f128.jpg",
   "assets/products/shop/5e673a3b7f50aaee5155.jpg",
-  "assets/products/shop/5cb16857a71391a6d7df.jpg",
-  "assets/products/shop/5d92411b938762c2fef9.jpg"
+  "assets/products/shop/5cb16857a71391a6d7df.jpg"
  ],
  "draft": false,
  "fam": "camiseta-beisbol-manga",
@@ -34,6 +42,7 @@
  "name_en": "DAZ Baseball T-Shirt",
  "name_es": "Camiseta de béisbol DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1054,
@@ -41,8 +50,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Uniformes > Uniformes deportivos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest",
+   "Shoulder"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Hombro"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "72.5cm(28.5\")",
+    "113cm(44.4\")",
+    "49cm(19.3\")"
+   ],
+   [
+    "M",
+    "75cm(29.5\")",
+    "118cm(46.4\")",
+    "51.5cm(20.3\")"
+   ],
+   [
+    "L",
+    "77.5cm(30.5\")",
+    "123cm(48.4\")",
+    "54cm(21.3\")"
+   ],
+   [
+    "XL",
+    "80cm(31.4\")",
+    "128cm(50.3\")",
+    "56.5cm(22.2\")"
+   ],
+   [
+    "2XL",
+    "82.5cm(32.4\")",
+    "133cm(52.4\")",
+    "59cm(23.2\")"
+   ],
+   [
+    "3XL",
+    "85cm(33.4\")",
+    "138cm(54.3\")",
+    "61.5cm(24.2\")"
+   ],
+   [
+    "4XL",
+    "87.5cm(34.4\")",
+    "143cm(56.3\")",
+    "64cm(25.2\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/5d92411b938762c2fef9.jpg"
+ ],
  "sizes": [
   "S",
   "M",
