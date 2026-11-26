@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/e384479a8e08dec2d3b8.jpg",
+  "assets/products/shop/67b49ba8295dd2ba3d9f.jpg",
+  "assets/products/shop/5207f3edbc948de22fcc.jpg",
+  "assets/products/shop/a4c8eb94aea0fd7773c5.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +34,7 @@
  ],
  "draft": false,
  "fam": "braguita-bikini-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-384449711",
  "img_checked": "2026-11-23",
@@ -37,7 +44,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "V-Cut Bikini Bottom",
  "name_es": "Braguita de Bikini Corte en V",
  "needs_review": false,

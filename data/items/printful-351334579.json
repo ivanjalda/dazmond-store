@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/3b62ad44e1076402aa9d.jpg",
+  "assets/products/shop/7b7d31169bef59304394.jpg",
+  "assets/products/shop/1a7e329746e41301342c.jpg",
+  "assets/products/shop/6057c936ab1b29cea6f9.jpg"
+ ],
  "ai_cats": [
   "mujer/pantalones-cortos"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "premium-tropical-emerald",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351334579",
  "img_checked": "2026-11-23",

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Cool Heather",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "polo shirt",
+ "ai_ver": 2,
+ "art_note": "The image features a standard supplier mockup look with flat lighting and a generic studio background, failing to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-374479601",
  "color": "Cool Heather",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece for the modern wardrobe. This men's polo by DAZMOND & Co. offers an impeccable silhouette designed for everyday versatility. Each piece is made to order with worldwide shipping. Attention to detail defines this minimalist creation, delivering effortless sophisticated presence.",
+ "desc_es": "Una pieza esencial para el armario moderno. Este polo para hombre de DAZMOND & Co. ofrece una silueta impecable diseñada para la versatilidad diaria. Cada prenda se confecciona bajo pedido con envíos a todo el mundo. La atención al detalle define esta creación minimalista, proporcionando una presencia sofisticada sin esfuerzo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/3f7/3f718e5e2fb1dcb61538e6ff42b21293_preview.png"
  ],
@@ -27,6 +40,7 @@
  "name_en": "Black Premium Polo · Cool Heather",
  "name_es": "Polo Premium Negro · Cool Heather",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 657,

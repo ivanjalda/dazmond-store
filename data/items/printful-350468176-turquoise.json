@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Turquoise",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Journal",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product shot with accurate lighting and sharp detail.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350468176",
  "color": "Turquoise",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The Visionary journal embodies functional elegance for the modern life. Featuring a refined turquoise hardcover and the signature house emblem, this accessory provides an impeccable space for essential thoughts and sketches. Each piece is meticulously made to order. We offer worldwide shipping.",
+ "desc_es": "El cuaderno Visionary encarna la elegancia funcional para la vida moderna. Con una refinada cubierta rígida en tono turquesa y el emblema de la casa, este accesorio ofrece un espacio impecable para pensamientos y bocetos esenciales. Cada pieza se elabora meticulosamente bajo pedido en nuestras instalaciones. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Hardcover bound notebook\n· Size 5.5 x 8.5 inches\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Encuadernación de Tapa Dura\n· Tamaño 5.5 x 8.5 pulgadas\n· Pieza elaborada bajo pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/e47/e4762a13804c0fd62bc6103446b66cdf_preview.png"
  ],
@@ -24,6 +37,7 @@
  "name_en": "Visionary Hardcover Journal · Turquoise",
  "name_es": "Cuaderno Visionary Hardcover · Turquoise",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 27.99,
  "rank": 841,

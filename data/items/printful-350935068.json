@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/0e84d21f5491150cc756.jpg",
+  "assets/products/shop/74cbb7b958616f28d052.jpg",
+  "assets/products/shop/df66dbc91ed3face3d57.jpg",
+  "assets/products/shop/e723a3dc18cab6823752.jpg",
+  "assets/products/shop/09cfbd731ae1ce86b451.jpg",
+  "assets/products/shop/8937bf2dd85ae0c3edef.jpg"
+ ],
  "ai_cats": [
   "mujer/leggings"
  ],
@@ -27,6 +35,7 @@
  ],
  "draft": false,
  "fam": "infinite-love-flare",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350935068",
  "img_checked": "2026-11-23",

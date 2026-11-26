@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Amarillo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Vestido midi",
+ "ai_ver": 2,
+ "art_note": "The photos use cheap digital composites and flat mockups that detract from the luxury aesthetic.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "t-vestido-daz-de-manga-corta-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Timeless elegance is defined through refined lines and a fluid silhouette. This short-term sleeve midi dress features a tailored design with a round neckline. The piece embraces the hip with subtle grace. An all-over print brings visual movement to the garment. Created for modern sophistication and everyday wear. Made to order and worldwide shipping available.",
+ "desc_es": "La elegancia atemporal se define a través de líneas depuradas y una silueta fluida. Este vestido midi de manga corta presenta un diseño entallado con escote redondo. La pieza abraza la cadera con gracia sutil. Un estampado integral aporta movimiento visual a la prenda. Creado para la sofisticación moderna y el uso diario. Confección bajo pedido y envíos a todo el mundo.",
+ "details_en": "· Women short sleeve midi dress\n· Round neckline and tailored fit\n· Hip-hugging silhouette with all-over print\n· Machine washable\n· Made to order and worldwide shipping available",
+ "details_es": "· Vestido midi de manga corta para mujer\n· Escote redondo y ajuste entallado\n· Silueta que abraza la cadera con estampado integral\n· Lavable a máquina\n· Confección bajo pedido y envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/c9aad541c8328efe5985.jpg",
   "assets/products/shop/4c59f19c4f76a7fc9a3e.jpg",
@@ -16,8 +29,6 @@
   "assets/products/shop/334c7b169e009a8347c9.jpg",
   "assets/products/shop/c67a5e4669cb64e454f0.jpg",
   "assets/products/shop/e010a15ae13ac667e407.jpg",
-  "assets/products/shop/5806552238d8e6f6f044.jpg",
-  "assets/products/shop/7cb708c197cfb5240cbe.jpg",
   "assets/products/shop/9562cc2c86648f134328.jpg"
  ],
  "draft": false,
@@ -32,9 +43,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Manga Corta Dress",
- "name_es": "Vestido Daz Manga Corta",
+ "name_en": "Floral Print Midi Dress",
+ "name_es": "Vestido Midi Estampado Floral",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
  "rank": 906,
@@ -42,8 +54,86 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "HIP",
+   "WAIST",
+   "BUST"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LARGO",
+   "CADERA",
+   "CINTURA",
+   "PECHO"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "132cm(52.0\")",
+    "84cm(33.1\")",
+    "62cm(24.4\")",
+    "82cm(32.3\")"
+   ],
+   [
+    "S",
+    "133cm(52.4\")",
+    "88cm(34.7\")",
+    "66cm(26.0\")",
+    "86cm(34.9\")"
+   ],
+   [
+    "M",
+    "134cm(52.8\")",
+    "92cm(36.2\")",
+    "70cm(27.6\")",
+    "90cm(35.4\")"
+   ],
+   [
+    "L",
+    "135cm(53.2\")",
+    "96cm(37.8\")",
+    "74cm(29.2\")",
+    "94cm(37.0\")"
+   ],
+   [
+    "XL",
+    "136cm(53.6\")",
+    "100cm(39.4\")",
+    "78cm(30.8\")",
+    "98cm(38.6\")"
+   ],
+   [
+    "2XL",
+    "136cm(54.0\")",
+    "104cm(41.0\")",
+    "82cm(32.4\")",
+    "102cm(40.2\")"
+   ],
+   [
+    "3XL",
+    "137cm(54.4\")",
+    "108cm(42.6\")",
+    "86cm(34.0\")",
+    "106cm(41.8\")"
+   ],
+   [
+    "4XL",
+    "138cm(54.8\")",
+    "112cm(44.2\")",
+    "90cm(35.6\")",
+    "110cm(43.6\")"
+   ]
+  ],
+  "unit": "cm/inches"
+ },
+ "size_guide": [
+  "assets/products/shop/7cb708c197cfb5240cbe.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

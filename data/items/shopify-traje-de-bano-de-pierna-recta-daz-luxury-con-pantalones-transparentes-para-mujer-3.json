@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% Polyester",
+ "ai_sizes": "One Size",
+ "ai_type": "Pants",
+ "ai_ver": 2,
+ "art_note": "The model shots appear digitally composited and lack true luxury editorial standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +20,13 @@
  "cg": "t-traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Fluid silhouette featuring a subtle floral print. Crafted from a lightweight sheer polyester fabric, these trousers offer a versatile design for lounging. The adjustable drawstring waist defines the structure of this lightweight piece. A refined choice for poolside moments or summer relaxation. Made to order with worldwide shipping.",
+ "desc_es": "Silueta fluida con un estampado floral sutil. Confeccionados en un tejido ligero de poliéster transparente, estos pantalones ofrecen un diseño versátil para el descanso. La cintura ajustable con cordón define la estructura de esta pieza ligera. Una opción refinada para momentos junto al agua o relajación estival. Hecho bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 100% polyester\n· Easy-care chiffon\n· Adjustable drawstring waist\n· Made to order",
+ "details_es": "· 100% poliéster\n· Gasa de fácil cuidado\n· Cintura ajustable con cordón\n· Hecho bajo pedido",
  "display_images": [
   "assets/products/shop/fbe6e38ed7fc68d41c0e.jpg",
-  "assets/products/shop/b7e59c306bc57dca976a.jpg",
-  "assets/products/shop/96a9e3373b6cdf1fc3cb.jpg",
-  "assets/products/shop/59a917fa074f169c4115.jpg",
-  "assets/products/shop/32901a1d14034889d47c.jpg"
+  "assets/products/shop/b7e59c306bc57dca976a.jpg"
  ],
  "draft": false,
  "fam": "traje-bano-pierna",
@@ -28,9 +40,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Traje Baño Pierna Swimwear",
- "name_es": "Bañador Traje Baño Pierna",
+ "name_en": "Printed sheer pant",
+ "name_es": "Pantalón transparente estampado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 20.99,
  "rank": 965,
@@ -38,9 +51,34 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Batas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud",
+   "Cintura"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "cm(inch)",
+    "100cm(39.4\")",
+    "33cm(13.0\")"
+   ]
+  ],
+  "unit": "cm(inch)"
+ },
+ "size_guide": [
+  "assets/products/shop/32901a1d14034889d47c.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Traje de baño de pierna recta DAZ Luxury con pantalones transparentes para mujer",
  "stripe_payment_link": "https://buy.stripe.com/7sY3cw0EI26g2Qe7mu1gN3Z",
  "supplier": "Shopify",

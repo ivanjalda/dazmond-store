@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on an invisible mannequin, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350349792",
  "color": "Black",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined silhouette meets contemporary functionality in this essential piece. Designed for the modern man who values both aesthetics and utility. Crafted with meticulous attention to detail and precise finishes. A versatile garment that transcends seasons with quiet elegance. Each piece is made to order to ensure ultimate exclusivity. We offer worldwide shipping.",
+ "desc_es": "La silueta definida encuentra la funcionalidad contemporánea en esta pieza esencial. Diseñada para el hombre moderno que valora tanto la estética como la utilidad. Confeccionada con atención al detalle y acabados precisos. Una prenda versátil que trasciende las estaciones con elegancia silenciosa. Cada pieza se elabora bajo pedido para garantizar la máxima exclusividad. Ofrecemos envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/d6b/d6b7dc8c9f4725f72bcd0a474f3c6d2a_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Columbia Omni Vent Shirt · Black",
- "name_es": "Camisa Columbia Omni Vent · Negro",
+ "name_en": "Omni-Vent Adventure Shirt · Black",
+ "name_es": "Camisa Omni-Vent Adventure · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 92.99,
  "rank": 817,

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/4ef532cc1480717fa47c.jpg",
+  "assets/products/shop/69a0d4bf5c59f0c39d45.jpg",
+  "assets/products/shop/acd0ca399d7890fb780f.jpg",
+  "assets/products/shop/881359cc0eb57fa56528.jpg"
+ ],
  "ai_cats": [
   "mujer/ropa-interior"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "camouflage-art-sports",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350940188",
  "img_checked": "2026-11-23",

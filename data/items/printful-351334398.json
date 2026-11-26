@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/366b8dbf91b5335c4421.jpg",
+  "assets/products/shop/2cbc5f3fa75cd352c3e7.jpg",
+  "assets/products/shop/0c583d92e97bb3bc559c.jpg",
+  "assets/products/shop/002d96384a6fc0abd3ad.jpg"
+ ],
  "ai_cats": [
   "mujer/pantalones-cortos"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "solar",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351334398",
  "img_checked": "2026-11-23",

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "Collegiate Navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on ghost mannequin, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350349792",
  "color": "Collegiate Navy",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette designed for the transition between dynamic environments and moments of relaxed sophistication. The navy tone evokes timeless sobriety, while the short-sleeve structure offers calculated lightness. Crafted to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada diseñada para la transición entre entornos dinámicos y momentos de sofisticación relajada. El tono azul marino evoca una sobriedad atemporal, mientras que la estructura de manga corta ofrece una ligereza calculada. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/1d1/1d1378aaff768dcea9fd4464a68e6230_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Columbia Omni Vent Shirt · Collegiate Navy",
- "name_es": "Camisa Columbia Omni Vent · Collegiate Navy",
+ "name_en": "Omni-Vent Adventure Shirt · Collegiate Navy",
+ "name_es": "Camisa Omni-Vent Adventure · Collegiate Navy",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 92.99,
  "rank": 818,

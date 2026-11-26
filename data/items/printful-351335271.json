@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/07ca25f552ef795a9e07.jpg",
+  "assets/products/shop/8d5a3602ab9a0693a07a.jpg",
+  "assets/products/shop/527d579a082ed724c713.jpg",
+  "assets/products/shop/1de504883c168a53787e.jpg",
+  "assets/products/shop/54f0e01c0d7828e1485d.jpg"
+ ],
  "ai_cats": [
   "mujer/pantalones-cortos"
  ],
@@ -28,6 +35,7 @@
  ],
  "draft": false,
  "fam": "golden-grain-signature",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351335271",
  "img_checked": "2026-11-23",
@@ -37,7 +45,7 @@
   "printful-338164153",
   "printful-337647274-dusty-rose"
  ],
- "material": "",
+ "material": "recycled athletic",
  "name_en": "Golden Grain Athletic Shorts",
  "name_es": "Shorts Deportivos Golden Grain",
  "needs_review": false,

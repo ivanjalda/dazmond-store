@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "journal",
+ "ai_ver": 2,
+ "art_note": "Clean product shot on a neutral background, but lacks high-end editorial styling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350468176",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A dedicated space for essential thought. The Visionary journal combines flawless presence with refined functionality. Its hardcover binding protects every stroke of your most demanding reflections. Designed to accompany the routine of those who value order and style in their purest expression. Each piece is made to order. Available with worldwide shipping.",
+ "desc_es": "Un espacio dedicado al pensamiento esencial. El cuaderno Visionary combina una presencia impecable con una funcionalidad depurada. Su encuadernación de tapa dura protege cada trazo de sus reflexiones más exigentes. Diseñado para acompañar la rutina de quienes valoran el orden y el estilo en su máxima expresión. Cada pieza se elabora bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Measures 5.5 by 8.5 inches\n· Hardcover bound\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Medidas de 5.5 por 8.5 pulgadas\n· Encuadernación de tapa dura\n· Elaborado bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/ed2/ed2a36dd874e406051f8d9449afea2a6_preview.png"
  ],
@@ -24,6 +37,7 @@
  "name_en": "Visionary Hardcover Journal · White",
  "name_es": "Cuaderno Visionary Hardcover · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 842,

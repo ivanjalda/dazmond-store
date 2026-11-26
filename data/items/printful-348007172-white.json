@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg",
+  "assets/products/shop/d37fd4842c1285bf349f.jpg"
+ ],
  "ai_cats": [
   "calzado-hombre/zapatillas-hombre"
  ],
@@ -28,6 +44,7 @@
  ],
  "draft": false,
  "fam": "high-rise-heritage",
+ "gender": "men",
  "hidden": false,
  "id": "printful-348007172-white",
  "img_checked": "2026-11-23",
@@ -37,9 +54,9 @@
   "printful-361906822",
   "printify-6b0667526db425f6b50b967a-black"
  ],
- "material": "",
+ "material": "Canvas",
  "name_en": "High-Rise Heritage High Top Shoes · White",
- "name_es": "Zapatillas Altas High-Rise Heritage · Blanco",
+ "name_es": "Zapatillas altas High-Rise Heritage · Blanco",
  "needs_review": false,
  "needs_studio": true,
  "page": true,

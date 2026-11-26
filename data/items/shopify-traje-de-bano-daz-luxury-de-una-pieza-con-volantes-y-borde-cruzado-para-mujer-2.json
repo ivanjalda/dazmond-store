@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "Orange",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Swimsuit",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shots, but model photos suffer from a composited look.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-traje-de-bano-daz-luxury-de-una-pieza-con-volantes-y-borde",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This one-piece swimsuit features a cross-waist design and scalloped ruffled edges. The polyester fabric offers a soft and lightweight texture. Adjustable straps allow for a tailored fit across various silhouettes. It serves as a versatile piece for seaside lounging or summer getaways. Each piece is made to order to ensure ultimate exclusivity. Worldwide shipping is available.",
+ "desc_es": "Este traje de baño de una pieza presenta un diseño cruzado en la cintura y bordes con volantes. La tela de poliéster ofrece una textura suave y ligera. Los tirantes ajustables permiten un ajuste personalizado para diversas siluetas. Es una prenda versátil para días de descanso junto al mar o escapadas de verano. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Se realizan envíos a todo el mundo.",
+ "details_en": "· Made to order and available with worldwide shipping\n· Composition: polyester\n· One-piece construction with ruffles\n· Adjustable straps\n· Form-fitting silhouette with cross-waist detail",
+ "details_es": "· Hecho a pedido y disponible con envío a todo el mundo\n· Composición: poliéster\n· Diseño de una pieza con volantes\n· Tirantes ajustables\n· Corte ajustado con detalle cruzado",
  "display_images": [
   "assets/products/shop/1ebc2835172c8477cba0.jpg",
-  "assets/products/shop/4d9b6808f65c849d4325.jpg",
-  "assets/products/shop/d08f056df8666b40f343.jpg",
-  "assets/products/shop/84098ae55cdea66c0cad.jpg",
-  "assets/products/shop/e04447e42288d86dc039.jpg"
+  "assets/products/shop/4d9b6808f65c849d4325.jpg"
  ],
  "draft": false,
  "fam": "traje-bano-luxury",
@@ -28,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Traje Baño Daz Swimwear",
- "name_es": "Bañador Traje Baño Daz",
+ "name_en": "Tiered Floral Swimsuit",
+ "name_es": "Traje de Baño Floral Escalonado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 960,
@@ -38,8 +50,61 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Trajes de baño de una pieza",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "1/2BUST",
+   "1/2HIP"
+  ],
+  "headers_es": [
+   "TALLA",
+   "1/2 BUSTO",
+   "1/2 CADERA"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Por favor permita una diferencia de 1-3cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "35.5cm(14.0\")",
+    "39.0cm(15.4\")"
+   ],
+   [
+    "M",
+    "38.0cm(14.9\")",
+    "41.5cm(16.3\")"
+   ],
+   [
+    "L",
+    "40.5cm(15.8\")",
+    "44.0cm(17.3\")"
+   ],
+   [
+    "XL",
+    "43.0cm(16.9\")",
+    "46.5cm(18.4\")"
+   ],
+   [
+    "XXL",
+    "45.5cm(17.9\")",
+    "49.0cm(19.3\")"
+   ],
+   [
+    "XXXL",
+    "48.0cm(18.9\")",
+    "51.5cm(20.3\")"
+   ],
+   [
+    "XXXXL",
+    "50.5cm(19.9\")",
+    "54.0cm(21.3\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/e04447e42288d86dc039.jpg"
+ ],
  "sizes": [
   "S",
   "M",

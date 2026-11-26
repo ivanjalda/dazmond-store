@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/c263cfcc1f92b6b04633.jpg",
+  "assets/products/shop/2cd28e4c253773d24d3d.jpg",
+  "assets/products/shop/cec5da3ff13155f1921c.jpg",
+  "assets/products/shop/8c9412a379f4edf02829.jpg"
+ ],
  "ai_cats": [
   "mujer/ropa-interior"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "abstract-motion-sports",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350938353",
  "img_checked": "2026-11-23",

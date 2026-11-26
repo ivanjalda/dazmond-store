@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "White / Multi / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Microfiber polyester fabric (QMilch)",
+ "ai_type": "Underwear",
+ "ai_ver": 2,
+ "art_note": "The model shots use flat digital compositing onto a body cutout, reducing luxury presentation value.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-braguita-daz-de-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Delicate essence and refined comfort for daily wear. This brief showcases an all-over rose print against a luminous background, contrasted by a fixed black waistband. Designed to offer a soft and breathable texture against the skin, it unites a floral aesthetic with a streamlined silhouette. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Esencia delicada y confort refinado para el uso diario. Esta braguita presenta un estampado integral de rosas sobre un fondo luminoso, contrastado con una cintura negra fija. Diseñada para ofrecer una textura suave y transpirable sobre la piel, combina una estética floral con una silueta depurada. Cada pieza se confecciona bajo demanda y cuenta con envío mundial.",
+ "details_en": "· Made to order and worldwide shipping available\n· Microfiber polyester fabric (QMilch)\n· Fixed black waistband and all-over print design\n· Crotch can be sewn with 2 colors white and black\n· Machine washable and dryable, fade and shrink resistant",
+ "details_es": "· Confección bajo demanda y envío mundial disponible\n· Material de tela de poliéster de microfibra (QMilch)\n· Cintura negra fija y diseño con estampado integral\n· Entrepierna disponible con costura en 2 colores blanco y negro\n· Se pueden lavar y secar a máquina, no se decoloran ni encogen",
  "display_images": [
-  "assets/products/shop/b047f46ef100bd211761.jpg",
-  "assets/products/shop/fc3d1fb1f1fc9d346ace.jpg",
   "assets/products/shop/8cded2399cf44cb02017.jpg",
-  "assets/products/shop/eb900b215db99acf70a5.jpg",
-  "assets/products/shop/6c105d90d6fb83d69857.jpg"
+  "assets/products/shop/eb900b215db99acf70a5.jpg"
  ],
  "draft": false,
  "fam": "braguita-mujer",
@@ -28,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Braguita Daz Underwear",
- "name_es": "Ropa Interior Braguita Daz",
+ "name_en": "Daz Printed Rose Brief",
+ "name_es": "Braguita Rosa Estampada Daz",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 19.99,
  "rank": 921,
@@ -38,8 +50,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Lencería > Calzones para mujeres",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "1/2 Waist",
+   "1/2 Hip",
+   "Back Crotch",
+   "Waist Height"
+  ],
+  "headers_es": [
+   "Talla",
+   "1/2 Cintura",
+   "1/2 Cadera",
+   "Entrepierna Trasera",
+   "Altura de Cintura"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "27cm (10.6\")",
+    "32cm (12.6\")",
+    "20.5cm (8.1\")",
+    "4cm (1.6\")"
+   ],
+   [
+    "S",
+    "29.5cm (11.6\")",
+    "34.5cm (13.6\")",
+    "21.5cm (8.5\")",
+    "4cm (1.6\")"
+   ],
+   [
+    "M",
+    "32cm (12.6\")",
+    "37cm (14.6\")",
+    "22.5cm (8.9\")",
+    "4cm (1.6\")"
+   ],
+   [
+    "L",
+    "34.5cm (13.6\")",
+    "39.5cm (15.6\")",
+    "23.5cm (9.3\")",
+    "4cm (1.6\")"
+   ],
+   [
+    "XL",
+    "37cm (14.6\")",
+    "42cm (16.5\")",
+    "24.5cm (9.6\")",
+    "4cm (1.6\")"
+   ],
+   [
+    "2XL",
+    "39.5cm (15.6\")",
+    "44.5cm (17.5\")",
+    "25.5cm (10\")",
+    "4cm (1.6\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/6c105d90d6fb83d69857.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

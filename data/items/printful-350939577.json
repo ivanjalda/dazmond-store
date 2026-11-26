@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/333cf1a6b2153ce963c1.jpg",
+  "assets/products/shop/90ff08f43a3a5f089c94.jpg",
+  "assets/products/shop/8648e55c0c87c6452fd5.jpg",
+  "assets/products/shop/2c77ee05a41aa73af569.jpg"
+ ],
  "ai_cats": [
   "mujer/ropa-interior"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "celestial-luxury-sports",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350939577",
  "img_checked": "2026-11-23",

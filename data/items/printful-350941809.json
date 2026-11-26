@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/5820599f7938dd976ff8.jpg",
+  "assets/products/shop/510260e00aff40c43187.jpg",
+  "assets/products/shop/619f8cf7e797950e8f79.jpg",
+  "assets/products/shop/1ff3ce28564a69f8faef.jpg",
+  "assets/products/shop/7bd5eb9cd6b7ae267bb5.jpg"
+ ],
  "ai_cats": [
   "mujer/ropa-interior"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "girls-rule-sports",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350941809",
  "img_checked": "2026-11-23",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% polyester (180 g/m²)",
+ "ai_type": "T-shirt",
+ "ai_ver": 2,
+ "art_note": "Flat-lay and digital mockup presentation lack high-end editorial direction and studio lighting.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,11 @@
  "cg": "t-camiseta-para-hombre-coleccion-privada-urban-shadow",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Everyday life transforms into a canvas for personal expression when contemporary design meets absolute comfort. This model features an industrial-inspired all-over print with a monochromatic finish that projects confidence. Designed to move fluidly between daily commitments and moments of leisure, it becomes a key piece for the modern man. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "La cotidianidad se transforma en un lienzo de expresión personal cuando el diseño contemporáneo encuentra la comodidad absoluta. Este modelo presenta un estampado integral de inspiración industrial con un acabado monocromático que proyecta seguridad. Diseñada para moverse con fluidez entre compromisos diarios y momentos de ocio, se convierte en una pieza clave para el hombre actual. Cada pieza se confecciona bajo pedido y cuenta con envío mundial.",
+ "details_en": "· Fabric: 100% polyester (180 g/m²)\n· Design: Monochromatic all-over print, crew neck and short sleeves\n· Fit: Classic cut\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Tejido: 100% poliéster (180 g/m²)\n· Diseño: Estampado integral monocromático, cuello redondo y manga corta\n· Ajuste: Corte clásico\n· Pieza confeccionada bajo pedido\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/a4a6c36d6aba01da4055.jpg",
-  "assets/products/shop/b3f6b2e1706fa4bc9b4e.jpg",
-  "assets/products/shop/1a2e804f2a07ece655e1.jpg",
-  "assets/products/shop/158fc05862ebd8baa119.jpg",
-  "assets/products/shop/a0f59912f3f3c0541c36.jpg",
   "assets/products/shop/e77c43799245ef3bb289.jpg"
  ],
  "draft": false,
@@ -29,9 +38,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Colección Privada Urban Tee · White",
- "name_es": "Camiseta Colección Privada Urban · Blanco",
+ "name_en": "Urban Shadow T-Shirt",
+ "name_es": "Camiseta Urban Shadow",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 898,
@@ -39,8 +49,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Shoulder",
+   "Bust",
+   "Length",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Hombro",
+   "Busto",
+   "Largo",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "44cm / 17.3in",
+    "102cm / 40.2in",
+    "70cm / 27.6in",
+    "24cm / 9.5in"
+   ],
+   [
+    "M",
+    "46cm / 18.1in",
+    "108cm / 42.5in",
+    "73cm / 28.7in",
+    "25.5cm / 10in"
+   ],
+   [
+    "L",
+    "48cm / 18.9in",
+    "114cm / 44.9in",
+    "76cm / 29.9in",
+    "27cm / 10.6in"
+   ],
+   [
+    "XL",
+    "50cm / 19.7in",
+    "120cm / 47.2in",
+    "79cm / 31.1in",
+    "28.5cm / 11.2in"
+   ],
+   [
+    "2XL",
+    "52cm / 20.5in",
+    "126cm / 49.6in",
+    "81cm / 31.9in",
+    "30cm / 11.8in"
+   ],
+   [
+    "3XL",
+    "54cm / 21.3in",
+    "132cm / 52in",
+    "83cm / 32.7in",
+    "31.5cm / 12.2in"
+   ],
+   [
+    "4XL",
+    "56cm / 22in",
+    "138cm / 54.3in",
+    "86cm / 33.9in",
+    "33cm / 13in"
+   ],
+   [
+    "5XL",
+    "58cm / 22.8in",
+    "144cm / 56.7in",
+    "89cm / 35in",
+    "34.5cm / 13.6in"
+   ],
+   [
+    "6XL",
+    "60cm / 23.6in",
+    "150cm / 59.1in",
+    "91cm / 35.8in",
+    "35cm / 13.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/a0f59912f3f3c0541c36.jpg"
+ ],
  "sizes": [
   "S",
   "M",

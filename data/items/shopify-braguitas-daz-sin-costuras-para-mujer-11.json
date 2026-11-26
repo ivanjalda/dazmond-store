@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "elastic fabric",
+ "ai_type": "underwear",
+ "ai_ver": 2,
+ "art_note": "The model shots appear composited and lack true luxury atmosphere, though the clean product shots are acceptable.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-braguitas-daz-sin-costuras-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A low-rise silhouette defines these briefs crafted from high-quality stretch fabric. The design features a graphic print with skull and rose motifs against a dark backdrop. Tailored for a comfortable and versatile fit suited for daily wear. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una silueta de talle bajo define estas braguitas confeccionadas en un tejido elástico de alta calidad. El diseño presenta un estampado gráfico con motivos de calavera y rosas sobre un fondo oscuro. Diseñadas para ofrecer un ajuste cómodo y versátil para el día a día. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Crafted from high-quality stretch fabric\n· Low-rise design\n· Machine washable with cold water\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Confeccionado con tejido elástico de alta calidad\n· Diseño de talle bajo\n· Lavable a máquina con agua fría\n· Hecho bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/234fc1e22b5b907923e1.jpg",
-  "assets/products/shop/5aae2bf9e3b8e0b893b9.jpg",
   "assets/products/shop/4eec4dc1ff9cdd20ff45.jpg",
-  "assets/products/shop/e9749f49f10ca9ce5e4e.jpg",
-  "assets/products/shop/aa16bd4facefcb46fbbb.jpg"
+  "assets/products/shop/e9749f49f10ca9ce5e4e.jpg"
  ],
  "draft": false,
  "fam": "braguitas-sin-costuras",
@@ -28,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Braguitas Daz Sin Underwear",
- "name_es": "Ropa Interior Braguitas Daz Sin",
+ "name_en": "Skull and Roses Printed Briefs",
+ "name_es": "Braguitas Estampadas Calavera y Rosas",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 18.99,
  "rank": 844,
@@ -38,8 +50,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para bebés y niños > Ropa interior para bebés y niños > Ropa interior para chicas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Hip"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Cadera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "23.0cm(9.1\")",
+    "63.0cm(24.8\")",
+    "67.0cm(26.4\")"
+   ],
+   [
+    "M",
+    "23.5cm(9.3\")",
+    "68.0cm(26.8\")",
+    "72.0cm(28.3\")"
+   ],
+   [
+    "L",
+    "24.1cm(9.5\")",
+    "73.0cm(28.7\")",
+    "77.0cm(30.3\")"
+   ],
+   [
+    "XL",
+    "24.7cm(9.7\")",
+    "78.0cm(30.7\")",
+    "80.0cm(32.3\")"
+   ],
+   [
+    "2XL",
+    "25.3cm(10.0\")",
+    "83.0cm(32.7\")",
+    "87.0cm(34.3\")"
+   ],
+   [
+    "3XL",
+    "25.9cm(10.2\")",
+    "88.0cm(34.6\")",
+    "92.0cm(36.2\")"
+   ],
+   [
+    "4XL",
+    "26.5cm(10.4\")",
+    "93.0cm(36.6\")",
+    "97.0cm(38.2\")"
+   ],
+   [
+    "5XL",
+    "27.1cm(10.7\")",
+    "98.0cm(38.6\")",
+    "102.0cm(40.2\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/aa16bd4facefcb46fbbb.jpg"
+ ],
  "sizes": [
   "S",
   "M",

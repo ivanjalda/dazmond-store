@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Blanco Constelaciones",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Algodón y poliéster",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "Exquisite campaign imagery with high-end editorial direction, sophisticated lighting, and impeccable styling.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-celestial-asymmetry-monogram-blouse",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Contemporary architecture defines this haute couture blouse. A striking contrast star print unfolds over an immaculate white background. The design features an asymmetrical neckline with a button placket and the signature embroidered monogram. Crafted from a mid-weight fabric offering structured drape and a soft touch. A versatile piece for the cosmopolitan woman.",
+ "desc_es": "La arquitectura contemporánea define esta blusa de alta costura. Un llamativo estampado de estrellas en contraste se despliega sobre un fondo blanco inmaculado. El diseño presenta un escote asimétrico con una hilera de botones y el monograma de la firma bordado. Confeccionada con un tejido de peso medio que ofrece una caída estructurada y un tacto suave. Una pieza versátil para la mujer cosmopolita.",
+ "details_en": "· Cotton and polyester\n· Asymmetrical cut\n· Button closure\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Algodón y poliéster\n· Corte asimétrico\n· Cierre de botones\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/ac0712b674f3d549e60b.jpg",
   "assets/products/shop/a707a3f97b059bc68af2.jpg",
@@ -31,9 +45,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Celestial Asymmetry Monogram Blouse",
- "name_es": "Blusa Celestial Asymmetry Monogram",
+ "name_en": "Celestial Asymmetry Blouse",
+ "name_es": "Blusa Asimétrica Estrellas",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 22.99,
  "rank": 927,

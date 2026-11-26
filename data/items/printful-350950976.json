@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/fa2152cde175bb6a70b1.jpg",
+  "assets/products/shop/3cbd20904ba374ce9e6c.jpg",
+  "assets/products/shop/0a3409deb80c73318ca8.jpg",
+  "assets/products/shop/eaa34593cd0981cbaf93.jpg",
+  "assets/products/shop/0b112d94c596851bdbd8.jpg"
+ ],
  "ai_cats": [
   "mujer/ropa-interior"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "aeterna-flow-sovereign",
+ "gender": "women",
  "hidden": false,
  "id": "printful-350950976",
  "img_checked": "2026-11-23",

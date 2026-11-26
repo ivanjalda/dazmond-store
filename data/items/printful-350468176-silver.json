@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Silver",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Journal",
+ "ai_ver": 2,
+ "art_note": "Clean, professional product shot against a neutral background, though standard e-commerce style.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350468176",
  "color": "Silver",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The Visionary journal embodies precision and contemporary elegance. Designed to hold your most select thoughts, this object combines an immaculate silhouette with a sophisticated presence. Each piece is meticulously crafted on demand in the United States, ensuring exclusivity and distinction. Available for worldwide shipping, this journal becomes the indispensable companion for demanding minds seeking to record their vision with absolute distinction.",
+ "desc_es": "El cuaderno Visionary encarna la precisión y la elegancia contemporánea. Diseñado para albergar los pensamientos más selectos, este objeto combina una silueta impecable con una presencia sofisticada. Cada pieza se elabora meticulosamente bajo demanda en los Estados Unidos, garantizando exclusividad y distinción. Disponible para envío a todo el mundo, este diario se convierte en el compañero indispensable para mentes exigentes que buscan plasmar su visión con absoluta distinción.",
+ "details_en": "· 5.5 x 8.5 inches\n· Made to order",
+ "details_es": "· 5.5 x 8.5 pulgadas\n· Hecho a medida",
  "display_images": [
   "https://files.cdn.printful.com/files/453/453a9d8187b96184c7d36c238162eb43_preview.png"
  ],
@@ -24,6 +37,7 @@
  "name_en": "Visionary Hardcover Journal · Silver",
  "name_es": "Cuaderno Visionary Hardcover · Plata",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 840,

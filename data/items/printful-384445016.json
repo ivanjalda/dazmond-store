@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/7b72dccd693c7954a54a.jpg",
+  "assets/products/shop/ced6fd49d17c160f1d85.jpg",
+  "assets/products/shop/fd585a7125467bd76724.jpg",
+  "assets/products/shop/d4d938dcb4eb43a5f17a.jpg"
+ ],
  "ai_cats": [
   "mujer/trajes-bano"
  ],
@@ -28,6 +34,7 @@
  ],
  "draft": false,
  "fam": "top-bikini-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-384445016",
  "img_checked": "2026-11-23",
@@ -37,7 +44,7 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "Recycled",
  "name_en": "DAZ Bandeau Bikini Top",
  "name_es": "Top de Bikini Bandeau DAZ",
  "needs_review": false,

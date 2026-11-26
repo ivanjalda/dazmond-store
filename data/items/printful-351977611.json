@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/1b9704f4e32eb4c10aa5.jpg",
+  "assets/products/shop/2f6b5b1ac193fed9693f.jpg",
+  "assets/products/shop/2f2283445f65ba46801a.jpg",
+  "assets/products/shop/aaf3447b38f0032fb59f.jpg"
+ ],
  "ai_cats": [
   "mujer/camisetas-blusas-tops"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "celestial-aura-crop",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351977611",
  "img_checked": "2026-11-23",

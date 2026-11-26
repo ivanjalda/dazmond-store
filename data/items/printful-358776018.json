@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Joggers",
+ "ai_ver": 2,
+ "art_note": "Flat mannequin or template presentation lacks high-end luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-358776018",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A relaxed silhouette redefines contemporary design codes. This wide-cut model features an eye-catching all-over graphic motif that commands attention. The adjustable waistband offers functionality without compromising casual elegance. Each piece is crafted made-to-order to ensure absolute exclusivity. Experience worldwide shipping with the distinctive hallmark of the house.",
+ "desc_es": "Una silueta relajada redefine los códigos del diseño contemporáneo. Este modelo de corte amplio incorpora un llamativo motivo gráfico integral que atrae todas las miradas. La cintura ajustable aporta funcionalidad sin renunciar a la elegancia casual. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Disfrute de envíos a todo el mundo con el sello distintivo de la casa.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Elaboración bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/c01/c010732537a60437af3306dd9c7cbdec_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalón Daz Art Sweatshirt · White",
- "name_es": "Sudadera Pantalón Daz Art · Blanco",
+ "name_en": "Art Wide-Leg Joggers",
+ "name_es": "Pantalón de Chándal Holgado Art",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 76.99,
  "rank": 652,

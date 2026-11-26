@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/bodies"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "poliéster y elastano",
+ "ai_type": "body",
+ "ai_ver": 2,
+ "art_note": "Flat-looking mockups and headless model shots lower the luxury aesthetic.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Fitted short-sleeve silhouette with a classic round neckline. Crafted from a polyester and elastane blend for seamless movement and contouring. All-over rose motif set against a dark background. Features a bottom snap-button closure. Designed for effortless transitions from day to evening. Made-to-order piece available with worldwide shipping.",
+ "desc_es": "Silueta ajustada de manga corta y cuello redondo. Confeccionado en mezcla de poliéster y elastano para una adaptabilidad fluida al cuerpo. Estampado integral de rosas sobre fondo negro. Incorpora cierre inferior con botones a presión. Diseñado para ofrecer versatilidad en cualquier ocasión. Pieza elaborada bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Composition: polyester and elastane\n· Short sleeves and round neckline\n· Bottom snap-button closure\n· Hand wash or machine wash cold\n· Made to order and worldwide shipping",
+ "details_es": "· Composición: poliéster y elastano\n· Diseño de manga corta y cuello redondo\n· Cierre inferior con botones a presión\n· Lavado a mano o a máquina con agua fría\n· Made to order y envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/81d5dca2b23d5b5bc083.jpg",
   "assets/products/shop/c5dbbbf169ac002ca445.jpg",
@@ -18,8 +32,7 @@
   "assets/products/shop/ab1308810f6ec21d385c.jpg",
   "assets/products/shop/2872b93bcf67c97541fe.jpg",
   "assets/products/shop/9c2e81dd2151e6a22e16.jpg",
-  "assets/products/shop/768ebbb12059f0cf3417.jpg",
-  "assets/products/shop/65663e89db734c78abfd.jpg"
+  "assets/products/shop/768ebbb12059f0cf3417.jpg"
  ],
  "draft": false,
  "fam": "body-ajustado-manga",
@@ -33,9 +46,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Body Ajustado Daz Bodysuit",
- "name_es": "Body Body Ajustado Daz",
+ "name_en": "Short Sleeve Fitted Bodysuit",
+ "name_es": "Body Ajustado de Manga Corta",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
  "rank": 1001,
@@ -43,8 +57,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Bodis",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Chest",
+   "Waist",
+   "Hips",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Pecho",
+   "Cintura",
+   "Caderas",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "86.4cm(34\")",
+    "72.4cm(28.5\")",
+    "86.4cm(34\")",
+    "69.9cm(27.5\")"
+   ],
+   [
+    "M",
+    "91.4cm(36\")",
+    "76.2cm(30\")",
+    "91.4cm(36\")",
+    "71.1cm(28\")"
+   ],
+   [
+    "L",
+    "96.5cm(38\")",
+    "81.3cm(32\")",
+    "96.5cm(38\")",
+    "73.66cm(29\")"
+   ],
+   [
+    "XL",
+    "101.6cm(40\")",
+    "86.4cm(34\")",
+    "101.6cm(40\")",
+    "76.2cm(30\")"
+   ],
+   [
+    "2XL",
+    "106.7cm(42\")",
+    "91.4cm(36\")",
+    "106.7cm(42\")",
+    "78.7cm(31\")"
+   ],
+   [
+    "3XL",
+    "111.8cm(44\")",
+    "96.5cm(38\")",
+    "111.8cm(44\")",
+    "81.3cm(32\"])"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/65663e89db734c78abfd.jpg"
+ ],
  "sizes": [
   "S",
   "M",

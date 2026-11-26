@@ -1,4 +1,9 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/e3fa53b5fd9180808c52.jpg",
+  "assets/products/shop/812ce33e937cde30c4e8.jpg",
+  "assets/products/shop/287913c8f19f41e6f781.jpg"
+ ],
  "ai_cats": [
   "mujer/chaqueta-sudadera-sueter"
  ],
@@ -27,6 +32,7 @@
  ],
  "draft": false,
  "fam": "pantalon-chandal-holgado",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-358775968",
  "img_checked": "2026-11-23",

@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/2b45816a01325b5a4c95.jpg",
+  "assets/products/shop/8440d6f77595d2944502.jpg",
+  "assets/products/shop/ec5b4e9d66a750cc8b41.jpg",
+  "assets/products/shop/61a41972c090a9591036.jpg"
+ ],
  "ai_cats": [
   "mujer/pantalones-cortos"
  ],
@@ -28,6 +34,7 @@
  ],
  "draft": false,
  "fam": "premium-stealth",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351334439",
  "img_checked": "2026-11-23",
@@ -37,7 +44,7 @@
   "printful-338164153",
   "printful-337647274-dusty-rose"
  ],
- "material": "",
+ "material": "recycled athletic",
  "name_en": "Olive Stealth Athletic Shorts",
  "name_es": "Shorts deportivos Olive Stealth",
  "needs_review": false,

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Solid Black Blend",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery with warm lighting and natural styling, aligning with luxury campaign standards.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-374546782",
  "color": "Solid Black Blend",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Effortless elegance defines this essential silhouette. Tailored with precision to offer a relaxed drape and a refined neckline. A versatile piece that transitions fluidly from daytime subtlety to nocturnal sophistication. Each garment is meticulously crafted to order in our ateliers. Available for worldwide shipping.",
+ "desc_es": "La elegancia sin esfuerzo define esta silueta esencial. Confeccionada con precisión para ofrecer una caída relajada y un refinado cuello en profundidad. Una pieza versátil que transita con fluidez entre la sutileza diurna y la sofisticación nocturna. Cada prenda se elabora meticulosamente bajo demanda en nuestros talleres. Disponible para envío internacional.",
+ "details_en": "· Relaxed fit\n· V-neckline\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Corte relajado\n· Cuello en V\n· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/bc6/bc67f82b8888acaa4d5545d36e060d79_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Suelta Daz Cuello Tee · Solid Black Blend",
- "name_es": "Camiseta Suelta Daz Cuello · Solid Black Blend",
+ "name_en": "Relaxed V-Neck T-Shirt · Solid Black Blend",
+ "name_es": "Camiseta Cuello En V Relajada · Solid Black Blend",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 32.99,
  "rank": 804,

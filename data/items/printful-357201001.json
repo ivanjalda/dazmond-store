@@ -1,4 +1,13 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/0d66316782484821485e.jpg",
+  "assets/products/shop/0589b6a8e75aef7b7fe7.jpg",
+  "assets/products/shop/88e26d548f7d74db7e79.jpg",
+  "assets/products/shop/c98f1e5eb3d925f00669.jpg",
+  "assets/products/shop/26f41c146a379d2ab85a.jpg",
+  "assets/products/shop/8ec02d67fda9aaa463c9.jpg",
+  "assets/products/shop/af135ee90a5288cda15a.jpg"
+ ],
  "ai_cats": [
   "hombre/camiseta"
  ],
@@ -27,6 +36,7 @@
  ],
  "draft": false,
  "fam": "aqua-drift-tank",
+ "gender": "men",
  "hidden": false,
  "id": "printful-357201001",
  "img_checked": "2026-11-23",

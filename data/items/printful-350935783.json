@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Flare Leggings",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle shot with natural lighting, elevating the product to luxury standards.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350935783",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Sculpted silhouette featuring an expressive botanical-inspired print. These leggings balance effortless comfort with precise modern aesthetics. The fluid floral pattern creates a dynamic visual contrast against the clean background. A versatile piece designed to elevate the contemporary wardrobe with understated luxury. Crafted exclusively to order with worldwide delivery available.",
+ "desc_es": "Silueta esculpida con un diseño expresivo de inspiración botánica. Estos leggings combinan comodidad y precisión estética para la mujer contemporánea. El patrón floral añade un contraste visual dinámico sobre el fondo neutro. Una pieza versátil diseñada para redefinir el guardarropa moderno con elegancia y fluidez. Confección bajo demanda y envíos a todo el mundo.",
+ "details_en": "· Custom made-to-order production\n· Worldwide shipping available",
+ "details_es": "· Confección exclusiva bajo demanda\n· Envíos disponibles a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/9a6/9a62a0e37a499e0941468c45b7fdb7bf_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Amethyst Bloom Flare Leggings · White",
- "name_es": "Leggings Amethyst Bloom Flare · Blanco",
+ "name_en": "Amethyst Bloom Flare Leggings",
+ "name_es": "Leggings de corte acampanado Amethyst Bloom",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 62.99,
  "rank": 731,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/bodies"
+ ],
+ "ai_color": "white and black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "poliéster y elastano / polyester and elastane",
+ "ai_type": "body",
+ "ai_ver": 2,
+ "art_note": "Mockup-style presentation undermines the luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,19 +19,12 @@
  "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A sculpted silhouette that defines form with precision. This short-sleeve bodysuit features an all-over contrasting rose print. The design adapts fluidly to the figure. It features a snap-button closure at the base. An essential piece to define any ensemble with elegance.",
+ "desc_es": "Una silueta esculpida que define la forma con precisión. Este body de manga corta presenta un estampado integral de rosas en contraste. El diseño se adapta con fluidez a la silueta. Cuenta con un cierre de botón a presión en la parte inferior. Una prenda esencial para definir cualquier conjunto con elegancia.",
+ "details_en": "· Composition: polyester and elastane\n· Short sleeve and crew neck design\n· Snap-button closure at the bottom\n· 180GSM all-over print\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Composición: poliéster y elastano\n· Diseño de manga corta y cuello redondo\n· Cierre de botón a presión en la parte inferior\n· Estampado integral de 180GSM\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/454e03a7f327294532d9.jpg",
-  "assets/products/shop/371764c7e554e1e21be5.jpg",
-  "assets/products/shop/fa5835e4e5cb6aaa0b25.jpg",
-  "assets/products/shop/8638ffb23af2fd175dd1.jpg",
-  "assets/products/shop/23b1c189596c1c8e326c.jpg",
-  "assets/products/shop/a5e89bd766ad7a7eb567.jpg",
-  "assets/products/shop/61ace959d02b0591929e.jpg",
-  "assets/products/shop/56ecc6c4e27bac5c3ad5.jpg",
-  "assets/products/shop/d60468832da0d9d15908.jpg",
-  "assets/products/shop/acba3391f65f737b83b3.jpg"
+  "assets/products/shop/d60468832da0d9d15908.jpg"
  ],
  "draft": false,
  "fam": "body-ajustado-manga",
@@ -33,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Body Ajustado Daz Bodysuit",
- "name_es": "Body Body Ajustado Daz",
+ "name_en": "Short Sleeve Fitted Bodysuit",
+ "name_es": "Body Ajustado de Manga Corta",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
  "rank": 995,
@@ -43,8 +49,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Bodis",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Chest",
+   "Waist",
+   "Hips",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Pecho",
+   "Cintura",
+   "Caderas",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "86.4cm(34\")",
+    "72.4cm(28.5\")",
+    "86.4cm(34\")",
+    "69.9cm(27.5\")"
+   ],
+   [
+    "M",
+    "91.4cm(36\")",
+    "76.2cm(30\")",
+    "91.4cm(36\")",
+    "71.1cm(28\")"
+   ],
+   [
+    "L",
+    "96.5cm(38\")",
+    "81.3cm(32\")",
+    "96.5cm(38\")",
+    "73.66cm(29\")"
+   ],
+   [
+    "XL",
+    "101.6cm(40\")",
+    "86.4cm(34\")",
+    "101.6cm(40\")",
+    "76.2cm(30\")"
+   ],
+   [
+    "2XL",
+    "106.7cm(42\")",
+    "91.4cm(36\")",
+    "106.7cm(42\")",
+    "78.7cm(31\")"
+   ],
+   [
+    "3XL",
+    "111.8cm(44\")",
+    "96.5cm(38\")",
+    "111.8cm(44\")",
+    "81.3cm(32\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/acba3391f65f737b83b3.jpg"
+ ],
  "sizes": [
   "S",
   "M",

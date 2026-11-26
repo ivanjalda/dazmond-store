@@ -1,4 +1,10 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/d5bd15f61499dbb66cf3.jpg",
+  "assets/products/shop/4e4f020a67b6acb515fc.jpg",
+  "assets/products/shop/5a00f166c8f240b3894a.jpg",
+  "assets/products/shop/f811b17ddc0905aa8498.jpg"
+ ],
  "ai_cats": [
   "mujer/camisetas-blusas-tops"
  ],
@@ -27,6 +33,7 @@
  ],
  "draft": false,
  "fam": "gallery-statement-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351979578",
  "img_checked": "2026-11-23",

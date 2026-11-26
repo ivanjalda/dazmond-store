@@ -2785,7 +2785,7 @@
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
-        "decor"
+        "mujer/camisetas-blusas-tops"
       ],
       "available": true,
       "rank": 138,
@@ -13105,8 +13105,8 @@
     },
     {
       "id": "printful-358776018",
-      "name_es": "Sudadera Pantalón Daz Art · Blanco",
-      "name_en": "Pantalón Daz Art Sweatshirt · White",
+      "name_es": "Pantalón de Chándal Holgado Art",
+      "name_en": "Art Wide-Leg Joggers",
       "price_usd": 76.99,
       "badge": "new",
       "categories": [
@@ -13120,6 +13120,7 @@
       "fam": "pantalon-art-chandal",
       "cg": "printful-358776018",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/c01/c010732537a60437af3306dd9c7cbdec_preview.png"
     },
     {
@@ -13219,6 +13220,7 @@
       "fam": "polo-hombre-premium",
       "cg": "printful-374479601",
       "color": "Cool Heather",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/3f7/3f718e5e2fb1dcb61538e6ff42b21293_preview.png"
     },
     {
@@ -13278,6 +13280,7 @@
       "fam": "polo-hombre-premium",
       "cg": "printful-374479601",
       "color": "Stone",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/59b/59b97bb0fe0ef8f9057b9c31b06a53f8_preview.png"
     },
     {
@@ -13542,7 +13545,7 @@
     },
     {
       "id": "printful-348007172-black",
-      "name_es": "Zapatillas Altas High-Rise Heritage · Negro",
+      "name_es": "Zapatillas altas High-Rise Heritage · Negro",
       "name_en": "High-Rise Heritage High Top Shoes · Black",
       "price_usd": 67.99,
       "badge": "new",
@@ -13557,11 +13560,12 @@
       "fam": "high-rise-heritage",
       "cg": "printful-348007172",
       "color": "Black",
+      "art_score": 2,
       "img": "https://files.cdn.printful.com/files/d99/d99116fee225b48750a6b49b08c6c65b_preview.png"
     },
     {
       "id": "printful-348007172-white",
-      "name_es": "Zapatillas Altas High-Rise Heritage · Blanco",
+      "name_es": "Zapatillas altas High-Rise Heritage · Blanco",
       "name_en": "High-Rise Heritage High Top Shoes · White",
       "price_usd": 67.99,
       "badge": "new",
@@ -13676,6 +13680,7 @@
       "fam": "urban-pinnacle-high",
       "cg": "printful-350903800",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/acb/acbd758be5941bd59c9e951e67af69b9_preview.png"
     },
     {
@@ -14716,8 +14721,8 @@
     },
     {
       "id": "printful-350935783",
-      "name_es": "Leggings Amethyst Bloom Flare · Blanco",
-      "name_en": "Amethyst Bloom Flare Leggings · White",
+      "name_es": "Leggings de corte acampanado Amethyst Bloom",
+      "name_en": "Amethyst Bloom Flare Leggings",
       "price_usd": 62.99,
       "badge": "new",
       "categories": [
@@ -14731,6 +14736,7 @@
       "fam": "amethyst-bloom-flare",
       "cg": "printful-350935783",
       "color": "White",
+      "art_score": 8,
       "img": "https://files.cdn.printful.com/files/9a6/9a62a0e37a499e0941468c45b7fdb7bf_preview.png"
     },
     {
@@ -15289,8 +15295,8 @@
     },
     {
       "id": "printful-384447583",
-      "name_es": "Bañador Braguita Daz Corte · Blanco",
-      "name_en": "Braguita Daz Corte Swimwear · White",
+      "name_es": "Braguita de Bikini V Recycled",
+      "name_en": "Recycled V-Cut Bikini Bottom",
       "price_usd": 49.99,
       "badge": "new",
       "categories": [
@@ -15304,6 +15310,7 @@
       "fam": "braguita-bikini-luxury",
       "cg": "printful-384447583",
       "color": "White",
+      "art_score": 8,
       "img": "https://files.cdn.printful.com/files/fab/fab8f8e498bc0f5c4acbf4ab55f30f3e_preview.png"
     },
     {
@@ -15431,8 +15438,8 @@
     },
     {
       "id": "printful-337156579",
-      "name_es": "Chaqueta Soleil Cropped Windbreaker · Blanco",
-      "name_en": "Soleil Cropped Windbreaker Jacket · White",
+      "name_es": "Cortavientos Cropped Soleil d'Or",
+      "name_en": "Soleil d'Or Cropped Windbreaker",
       "price_usd": 60.99,
       "badge": "new",
       "categories": [
@@ -15446,6 +15453,7 @@
       "fam": "soleil-d-or",
       "cg": "printful-337156579",
       "color": "White",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/efd/efd30c0159a41d7141b85a1caac8e0b7_preview.png"
     },
     {
@@ -15909,8 +15917,8 @@
     },
     {
       "id": "printful-350921166",
-      "name_es": "Leggings Crimson Plaid Capri · Blanco",
-      "name_en": "Crimson Plaid Capri Leggings · White",
+      "name_es": "Mallas Capri Crimson Plaid",
+      "name_en": "Crimson Plaid Capri Leggings",
       "price_usd": 39.99,
       "badge": "new",
       "categories": [
@@ -15924,6 +15932,7 @@
       "fam": "crimson-plaid-capri",
       "cg": "printful-350921166",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/888/888924655d3804fbc3fcf1d9ab4f7aef_preview.png"
     },
     {
@@ -16201,8 +16210,8 @@
     },
     {
       "id": "printful-374546782-heather-mauve",
-      "name_es": "Camiseta Suelta Daz Cuello · Heather Mauve",
-      "name_en": "Suelta Daz Cuello Tee · Heather Mauve",
+      "name_es": "Camiseta Cuello En V Relajada · Heather Mauve",
+      "name_en": "Relaxed V-Neck T-Shirt · Heather Mauve",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
@@ -16216,12 +16225,13 @@
       "fam": "camiseta-suelta-luxury",
       "cg": "printful-374546782",
       "color": "Heather Mauve",
+      "art_score": 8,
       "img": "https://files.cdn.printful.com/files/57e/57e3c634a249d5248d0aea6f63a62269_preview.png"
     },
     {
       "id": "printful-374546782-solid-black-blend",
-      "name_es": "Camiseta Suelta Daz Cuello · Solid Black Blend",
-      "name_en": "Suelta Daz Cuello Tee · Solid Black Blend",
+      "name_es": "Camiseta Cuello En V Relajada · Solid Black Blend",
+      "name_en": "Relaxed V-Neck T-Shirt · Solid Black Blend",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
@@ -16235,12 +16245,13 @@
       "fam": "camiseta-suelta-luxury",
       "cg": "printful-374546782",
       "color": "Solid Black Blend",
+      "art_score": 8,
       "img": "https://files.cdn.printful.com/files/bc6/bc67f82b8888acaa4d5545d36e060d79_preview.png"
     },
     {
       "id": "printful-374546782-solid-white-blend",
-      "name_es": "Camiseta Suelta Daz Cuello · Solid White Blend",
-      "name_en": "Suelta Daz Cuello Tee · Solid White Blend",
+      "name_es": "Camiseta Cuello En V Relajada · Solid White Blend",
+      "name_en": "Relaxed V-Neck T-Shirt · Solid White Blend",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
@@ -16417,6 +16428,7 @@
       "fam": "grace-pique-luxury",
       "cg": "printful-345450415",
       "color": "Black",
+      "art_score": 4,
       "img": "https://files.cdn.printful.com/files/f7c/f7cb929d9c6053645a75f8df375957e8_preview.png"
     },
     {
@@ -16436,6 +16448,7 @@
       "fam": "grace-pique-luxury",
       "cg": "printful-345450415",
       "color": "Navy",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/7f8/7f8a1ebbc99c0e37c37cc88891445fc1_preview.png"
     },
     {
@@ -16455,6 +16468,7 @@
       "fam": "grace-pique-luxury",
       "cg": "printful-345450415",
       "color": "Sport Grey",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/b51/b51275a901d795904b7b4852ed38bdee_preview.png"
     },
     {
@@ -16474,12 +16488,13 @@
       "fam": "grace-pique-luxury",
       "cg": "printful-345450415",
       "color": "White",
+      "art_score": 3,
       "img": "https://files.cdn.printful.com/files/979/97916b471cde614c18c44fbb857e8883_preview.png"
     },
     {
       "id": "printful-350349792-black",
-      "name_es": "Camisa Columbia Omni Vent · Negro",
-      "name_en": "Columbia Omni Vent Shirt · Black",
+      "name_es": "Camisa Omni-Vent Adventure · Negro",
+      "name_en": "Omni-Vent Adventure Shirt · Black",
       "price_usd": 92.99,
       "badge": "new",
       "categories": [
@@ -16493,12 +16508,13 @@
       "fam": "x-columbia-omni",
       "cg": "printful-350349792",
       "color": "Black",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/d6b/d6b7dc8c9f4725f72bcd0a474f3c6d2a_preview.png"
     },
     {
       "id": "printful-350349792-collegiate-navy",
-      "name_es": "Camisa Columbia Omni Vent · Collegiate Navy",
-      "name_en": "Columbia Omni Vent Shirt · Collegiate Navy",
+      "name_es": "Camisa Omni-Vent Adventure · Collegiate Navy",
+      "name_en": "Omni-Vent Adventure Shirt · Collegiate Navy",
       "price_usd": 92.99,
       "badge": "new",
       "categories": [
@@ -16512,6 +16528,7 @@
       "fam": "x-columbia-omni",
       "cg": "printful-350349792",
       "color": "Collegiate Navy",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/1d1/1d1378aaff768dcea9fd4464a68e6230_preview.png"
     },
     {
@@ -16860,6 +16877,7 @@
       "fam": "visionary-hardcover-journal",
       "cg": "printful-350468176",
       "color": "Blue",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/e67/e67e650849bec7acf8c2e2050d578ccc_preview.png"
     },
     {
@@ -16879,6 +16897,7 @@
       "fam": "visionary-hardcover-journal",
       "cg": "printful-350468176",
       "color": "Lime",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/f10/f10bf64693d4e2e897c798aea7fc4081_preview.png"
     },
     {
@@ -16898,6 +16917,7 @@
       "fam": "visionary-hardcover-journal",
       "cg": "printful-350468176",
       "color": "Navy",
+      "art_score": 8,
       "img": "https://files.cdn.printful.com/files/c44/c4428470cd42e95906fc9f3d2c26d667_preview.png"
     },
     {
@@ -16955,6 +16975,7 @@
       "fam": "visionary-hardcover-journal",
       "cg": "printful-350468176",
       "color": "Silver",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/453/453a9d8187b96184c7d36c238162eb43_preview.png"
     },
     {
@@ -16974,6 +16995,7 @@
       "fam": "visionary-hardcover-journal",
       "cg": "printful-350468176",
       "color": "Turquoise",
+      "art_score": 8,
       "img": "https://files.cdn.printful.com/files/e47/e4762a13804c0fd62bc6103446b66cdf_preview.png"
     },
     {
@@ -16993,12 +17015,13 @@
       "fam": "visionary-hardcover-journal",
       "cg": "printful-350468176",
       "color": "White",
+      "art_score": 6,
       "img": "https://files.cdn.printful.com/files/ed2/ed2a36dd874e406051f8d9449afea2a6_preview.png"
     },
     {
       "id": "shopify-braguitas-daz-sin-costuras-para-mujer-10",
-      "name_es": "Ropa Interior Braguitas Daz Sin",
-      "name_en": "Braguitas Daz Sin Underwear",
+      "name_es": "Braguitas Estampadas Calavera y Rosas",
+      "name_en": "Skull and Roses Printed Briefs",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -17015,8 +17038,8 @@
     },
     {
       "id": "shopify-braguitas-daz-sin-costuras-para-mujer-11",
-      "name_es": "Ropa Interior Braguitas Daz Sin",
-      "name_en": "Braguitas Daz Sin Underwear",
+      "name_es": "Braguitas Estampadas Calavera y Rosas",
+      "name_en": "Skull and Roses Printed Briefs",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -17029,12 +17052,13 @@
       "supplier_id": "braguitas-daz-sin-costuras-para-mujer-11",
       "fam": "braguitas-sin-costuras",
       "cg": "t-braguitas-daz-sin-costuras-para-mujer",
-      "img": "assets/products/shop/234fc1e22b5b907923e1.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/4eec4dc1ff9cdd20ff45.jpg"
     },
     {
       "id": "shopify-braguitas-daz-sin-costuras-para-mujer-6",
-      "name_es": "Ropa Interior Braguitas Daz Sin",
-      "name_en": "Braguitas Daz Sin Underwear",
+      "name_es": "Braguitas Estampadas Calavera y Rosas",
+      "name_en": "Skull and Roses Printed Briefs",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -17051,8 +17075,8 @@
     },
     {
       "id": "shopify-braguitas-daz-sin-costuras-para-mujer-7",
-      "name_es": "Ropa Interior Braguitas Daz Sin",
-      "name_en": "Braguitas Daz Sin Underwear",
+      "name_es": "Braguitas Estampadas Calavera y Rosas",
+      "name_en": "Skull and Roses Printed Briefs",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -17065,12 +17089,13 @@
       "supplier_id": "braguitas-daz-sin-costuras-para-mujer-7",
       "fam": "braguitas-sin-costuras",
       "cg": "t-braguitas-daz-sin-costuras-para-mujer",
-      "img": "assets/products/shop/513d50d643e0efb415ae.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/6ed9e853ff0cef6d0d24.jpg"
     },
     {
       "id": "shopify-braguitas-daz-sin-costuras-para-mujer-8",
-      "name_es": "Ropa Interior Braguitas Daz Sin",
-      "name_en": "Braguitas Daz Sin Underwear",
+      "name_es": "Braguitas Estampadas Calavera y Rosas",
+      "name_en": "Skull and Roses Printed Briefs",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -17087,8 +17112,8 @@
     },
     {
       "id": "shopify-braguitas-daz-sin-costuras-para-mujer-9",
-      "name_es": "Ropa Interior Braguitas Daz Sin",
-      "name_en": "Braguitas Daz Sin Underwear",
+      "name_es": "Braguitas Estampadas Calavera y Rosas",
+      "name_en": "Skull and Roses Printed Briefs",
       "price_usd": 18.99,
       "badge": "new",
       "categories": [
@@ -18108,8 +18133,8 @@
     },
     {
       "id": "interestprint-design-all-over-print-mens-t-shirt",
-      "name_es": "Camiseta Colección Privada Urban · Blanco",
-      "name_en": "Colección Privada Urban Tee · White",
+      "name_es": "Camiseta Urban Shadow",
+      "name_en": "Urban Shadow T-Shirt",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -18123,12 +18148,13 @@
       "fam": "camiseta-hombre-coleccion",
       "cg": "t-camiseta-para-hombre-coleccion-privada-urban-shadow",
       "color": "white",
-      "img": "assets/products/shop/a4a6c36d6aba01da4055.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/e77c43799245ef3bb289.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18145,8 +18171,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-1",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18163,8 +18189,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-10",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18181,8 +18207,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-11",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18195,12 +18221,13 @@
       "supplier_id": "vestido-daz-de-manga-corta-para-mujer-11",
       "fam": "vestido-manga-corta",
       "cg": "t-vestido-daz-de-manga-corta-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/529f6f43f4c8acb01369.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-12",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18213,12 +18240,13 @@
       "supplier_id": "vestido-daz-de-manga-corta-para-mujer-12",
       "fam": "vestido-manga-corta",
       "cg": "t-vestido-daz-de-manga-corta-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/70678f66b5065439baba.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-2",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18235,8 +18263,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-3",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18249,12 +18277,13 @@
       "supplier_id": "vestido-daz-de-manga-corta-para-mujer-3",
       "fam": "vestido-manga-corta",
       "cg": "t-vestido-daz-de-manga-corta-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/c3836c11529ea3d03171.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-4",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18267,12 +18296,13 @@
       "supplier_id": "vestido-daz-de-manga-corta-para-mujer-4",
       "fam": "vestido-manga-corta",
       "cg": "t-vestido-daz-de-manga-corta-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/c9aad541c8328efe5985.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-5",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18285,12 +18315,13 @@
       "supplier_id": "vestido-daz-de-manga-corta-para-mujer-5",
       "fam": "vestido-manga-corta",
       "cg": "t-vestido-daz-de-manga-corta-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/39ebb55f6c8c63e08831.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-6",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18307,8 +18338,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-7",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18321,12 +18352,13 @@
       "supplier_id": "vestido-daz-de-manga-corta-para-mujer-7",
       "fam": "vestido-manga-corta",
       "cg": "t-vestido-daz-de-manga-corta-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/f426880fdaf1a94738a9.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-8",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18343,8 +18375,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-manga-corta-para-mujer-9",
-      "name_es": "Vestido Daz Manga Corta",
-      "name_en": "Daz Manga Corta Dress",
+      "name_es": "Vestido Midi Estampado Floral",
+      "name_en": "Floral Print Midi Dress",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -18533,8 +18565,8 @@
     },
     {
       "id": "shopify-braguita-daz-de-mujer",
-      "name_es": "Ropa Interior Braguita Daz",
-      "name_en": "Braguita Daz Underwear",
+      "name_es": "Braguita Rosa Estampada Daz",
+      "name_en": "Daz Printed Rose Brief",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -18547,12 +18579,13 @@
       "supplier_id": "braguita-daz-de-mujer",
       "fam": "braguita-mujer",
       "cg": "t-braguita-daz-de-mujer",
-      "img": "assets/products/shop/b047f46ef100bd211761.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/8cded2399cf44cb02017.jpg"
     },
     {
       "id": "shopify-braguita-daz-de-mujer-1-black",
-      "name_es": "Ropa Interior Braguita Daz · Negro",
-      "name_en": "Braguita Daz Underwear · Black",
+      "name_es": "Braguita Rosa Estampada Daz · Negro",
+      "name_en": "Daz Printed Rose Brief · Black",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -18570,8 +18603,8 @@
     },
     {
       "id": "shopify-braguita-daz-de-mujer-2",
-      "name_es": "Ropa Interior Braguita Daz",
-      "name_en": "Braguita Daz Underwear",
+      "name_es": "Braguita Rosa Estampada Daz",
+      "name_en": "Daz Printed Rose Brief",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -18588,8 +18621,8 @@
     },
     {
       "id": "shopify-braguita-daz-de-mujer-3",
-      "name_es": "Ropa Interior Braguita Daz",
-      "name_en": "Braguita Daz Underwear",
+      "name_es": "Braguita Rosa Estampada Daz",
+      "name_en": "Daz Printed Rose Brief",
       "price_usd": 19.99,
       "badge": "new",
       "categories": [
@@ -18602,7 +18635,8 @@
       "supplier_id": "braguita-daz-de-mujer-3",
       "fam": "braguita-mujer",
       "cg": "t-braguita-daz-de-mujer",
-      "img": "assets/products/shop/f043f4ce4efc68a41ada.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/6f47c67504307213ea01.jpg"
     },
     {
       "id": "shopify-cinturon-daz-de-cuero-negro",
@@ -18642,8 +18676,8 @@
     },
     {
       "id": "shopify-design-womens-asymmetrical-neck-button-up-shirt",
-      "name_es": "Blusa Celestial Asymmetry Monogram",
-      "name_en": "Celestial Asymmetry Monogram Blouse",
+      "name_es": "Blusa Asimétrica Estrellas",
+      "name_en": "Celestial Asymmetry Blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -18657,6 +18691,7 @@
       "fam": "luxury-celestial-asymmetry",
       "cg": "t-dazmond-luxury-celestial-asymmetry-monogram-blouse",
       "color": "Blanco",
+      "art_score": 9,
       "img": "assets/products/shop/ac0712b674f3d549e60b.jpg"
     },
     {
@@ -19259,8 +19294,8 @@
     },
     {
       "id": "shopify-traje-de-bano-daz-luxury-de-una-pieza-con-volantes-y-borde-cruzado-para-mujer",
-      "name_es": "Bañador Traje Baño Daz",
-      "name_en": "Traje Baño Daz Swimwear",
+      "name_es": "Traje de Baño Floral Escalonado",
+      "name_en": "Tiered Floral Swimsuit",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -19273,12 +19308,13 @@
       "supplier_id": "traje-de-bano-daz-luxury-de-una-pieza-con-volantes-y-borde-cruzado-para-mujer",
       "fam": "traje-bano-luxury",
       "cg": "t-traje-de-bano-daz-luxury-de-una-pieza-con-volantes-y-borde",
+      "art_score": 3,
       "img": "assets/products/shop/c2132e0ee0c1c6374963.jpg"
     },
     {
       "id": "shopify-traje-de-bano-daz-luxury-de-una-pieza-con-volantes-y-borde-cruzado-para-mujer-1",
-      "name_es": "Bañador Traje Baño Daz",
-      "name_en": "Traje Baño Daz Swimwear",
+      "name_es": "Traje de Baño Floral Escalonado",
+      "name_en": "Tiered Floral Swimsuit",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -19295,8 +19331,8 @@
     },
     {
       "id": "shopify-traje-de-bano-daz-luxury-de-una-pieza-con-volantes-y-borde-cruzado-para-mujer-2",
-      "name_es": "Bañador Traje Baño Daz",
-      "name_en": "Traje Baño Daz Swimwear",
+      "name_es": "Traje de Baño Floral Escalonado",
+      "name_en": "Tiered Floral Swimsuit",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -19309,12 +19345,13 @@
       "supplier_id": "traje-de-bano-daz-luxury-de-una-pieza-con-volantes-y-borde-cruzado-para-mujer-2",
       "fam": "traje-bano-luxury",
       "cg": "t-traje-de-bano-daz-luxury-de-una-pieza-con-volantes-y-borde",
+      "art_score": 5,
       "img": "assets/products/shop/1ebc2835172c8477cba0.jpg"
     },
     {
       "id": "shopify-traje-de-bano-daz-luxury-de-una-pieza-con-volantes-y-borde-cruzado-para-mujer-3",
-      "name_es": "Bañador Traje Baño Daz",
-      "name_en": "Traje Baño Daz Swimwear",
+      "name_es": "Traje de Baño Floral Escalonado",
+      "name_en": "Tiered Floral Swimsuit",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -19331,8 +19368,8 @@
     },
     {
       "id": "shopify-traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para-mujer",
-      "name_es": "Bañador Traje Baño Pierna",
-      "name_en": "Traje Baño Pierna Swimwear",
+      "name_es": "Pantalón transparente estampado",
+      "name_en": "Printed sheer pant",
       "price_usd": 20.99,
       "badge": "new",
       "categories": [
@@ -19349,8 +19386,8 @@
     },
     {
       "id": "shopify-traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para-mujer-1",
-      "name_es": "Bañador Traje Baño Pierna",
-      "name_en": "Traje Baño Pierna Swimwear",
+      "name_es": "Pantalón transparente estampado",
+      "name_en": "Printed sheer pant",
       "price_usd": 20.99,
       "badge": "new",
       "categories": [
@@ -19363,12 +19400,13 @@
       "supplier_id": "traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para-mujer-1",
       "fam": "traje-bano-pierna",
       "cg": "t-traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para",
+      "art_score": 4,
       "img": "assets/products/shop/17a52d2f5d658ebe89dd.jpg"
     },
     {
       "id": "shopify-traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para-mujer-2",
-      "name_es": "Bañador Traje Baño Pierna",
-      "name_en": "Traje Baño Pierna Swimwear",
+      "name_es": "Pantalón transparente estampado",
+      "name_en": "Printed sheer pant",
       "price_usd": 20.99,
       "badge": "new",
       "categories": [
@@ -19385,8 +19423,8 @@
     },
     {
       "id": "shopify-traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para-mujer-3",
-      "name_es": "Bañador Traje Baño Pierna",
-      "name_en": "Traje Baño Pierna Swimwear",
+      "name_es": "Pantalón transparente estampado",
+      "name_en": "Printed sheer pant",
       "price_usd": 20.99,
       "badge": "new",
       "categories": [
@@ -19399,12 +19437,13 @@
       "supplier_id": "traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para-mujer-3",
       "fam": "traje-bano-pierna",
       "cg": "t-traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para",
+      "art_score": 4,
       "img": "assets/products/shop/fbe6e38ed7fc68d41c0e.jpg"
     },
     {
       "id": "shopify-traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para-mujer-4",
-      "name_es": "Bañador Traje Baño Pierna",
-      "name_en": "Traje Baño Pierna Swimwear",
+      "name_es": "Pantalón transparente estampado",
+      "name_en": "Printed sheer pant",
       "price_usd": 20.99,
       "badge": "new",
       "categories": [
@@ -19417,6 +19456,7 @@
       "supplier_id": "traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para-mujer-4",
       "fam": "traje-bano-pierna",
       "cg": "t-traje-de-bano-de-pierna-recta-daz-luxury-con-pantalones-transparentes-para",
+      "art_score": 5,
       "img": "assets/products/shop/6a80242a453484621609.jpg"
     },
     {
@@ -19719,8 +19759,8 @@
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19733,12 +19773,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/459848478c2aa1a1f1e3.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-10",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19751,12 +19792,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-10",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/47d012925a43327a1a8e.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-11",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19769,12 +19811,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-11",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
-      "img": "assets/products/shop/7ab6cca878b00a07ec0e.jpg"
+      "art_score": 5,
+      "img": "assets/products/shop/98d7f6efbb6944948369.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-12",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19787,12 +19830,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-12",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/a60ee81b9328cb0ffcd4.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-13",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19805,12 +19849,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-13",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/833992c34215e81a22f7.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-14",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19823,12 +19868,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-14",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/ba1d75338affd1be8f9d.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-15",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19845,8 +19891,8 @@
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-16",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19859,12 +19905,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-16",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/a231f45afc489770b34e.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-17",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19877,12 +19924,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-17",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/d85139b6f094a47aace2.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-18",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19899,8 +19947,8 @@
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-19",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19917,8 +19965,8 @@
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-2",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19935,8 +19983,8 @@
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-20",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19949,12 +19997,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-20",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
-      "img": "assets/products/shop/454e03a7f327294532d9.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/d60468832da0d9d15908.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-21",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19971,8 +20020,8 @@
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-22",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -19985,12 +20034,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-22",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
-      "img": "assets/products/shop/214d5aff672713495418.jpg"
+      "art_score": 3,
+      "img": "assets/products/shop/b505617b4bd3de0f2025.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-23",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20003,12 +20053,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-23",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/e5f756a2c64936c8e95e.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-24",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20021,12 +20072,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-24",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/6a45b9299860d798f9b4.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-25",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20039,12 +20091,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-25",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/c9d20386b77913767fab.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-26",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20057,12 +20110,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-26",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/81d5dca2b23d5b5bc083.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-27",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20075,12 +20129,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-27",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/d60543034eabeff11903.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-3",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20093,12 +20148,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-3",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/7cd6d7f42675524dc7b4.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-4",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20115,8 +20171,8 @@
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-5",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20129,12 +20185,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-5",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/8e185601bce20ef68833.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-6",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20147,12 +20204,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-6",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/315ac4239be07561559c.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-7",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20169,8 +20227,8 @@
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-8",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -20183,12 +20241,13 @@
       "supplier_id": "body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-8",
       "fam": "body-ajustado-manga",
       "cg": "t-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/1c14097483a15b5d291f.jpg"
     },
     {
       "id": "shopify-body-ajustado-daz-de-manga-corta-y-cuello-redondo-para-mujer-9",
-      "name_es": "Body Body Ajustado Daz",
-      "name_en": "Body Ajustado Daz Bodysuit",
+      "name_es": "Body Ajustado de Manga Corta",
+      "name_en": "Short Sleeve Fitted Bodysuit",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [

@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/41653a9b4d66572855fd.jpg",
+  "assets/products/shop/775a5f0eda90941150bc.jpg",
+  "assets/products/shop/36ea2edb5ffd324509fc.jpg",
+  "assets/products/shop/e79161daa6a07a5b843d.jpg",
+  "assets/products/shop/a57c25084f4a83816256.jpg"
+ ],
  "ai_cats": [
   "mujer/pantalones-cortos"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "neon-emerald",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351334347",
  "img_checked": "2026-11-23",

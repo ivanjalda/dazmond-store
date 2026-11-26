@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Capri Leggings",
+ "ai_ver": 2,
+ "art_note": "The image has a composited, marketplace-style appearance with unnatural lighting that detracts from luxury aesthetic standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350921166",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential silhouette-defining piece. The Crimson Plaid capri leggings unite a bold graphic pattern with a refined design. Crafted to order to ensure absolute exclusivity. Available with worldwide shipping. The perfect balance of comfort and modern distinction for the contemporary woman.",
+ "desc_es": "Una pieza esencial que define la silueta con precisión. Las mallas capri Crimson Plaid combinan un estampado gráfico audaz con un diseño depurado. Confeccionadas bajo pedido para asegurar una exclusividad absoluta. Disponibles con envíos a todo el mundo. El equilibrio perfecto entre confort y distinción moderna para la mujer contemporánea.",
+ "details_en": "· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/888/888924655d3804fbc3fcf1d9ab4f7aef_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Crimson Plaid Capri Leggings · White",
- "name_es": "Leggings Crimson Plaid Capri · Blanco",
+ "name_en": "Crimson Plaid Capri Leggings",
+ "name_es": "Mallas Capri Crimson Plaid",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
  "rank": 789,

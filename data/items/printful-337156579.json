@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "windbreaker",
+ "ai_ver": 2,
+ "art_note": "Flat-lay product image lacks luxury studio depth and lighting, resembling a marketplace template.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-337156579",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined silhouette defines this essential outerwear piece. The cropped design introduces a contemporary and dynamic focus. Clean lines and balanced proportions offer a distinctive presence. Each piece is crafted to order to ensure ultimate exclusivity. Worldwide shipping is available.",
+ "desc_es": "Una silueta depurada define esta prenda esencial. El diseño cropped aporta un enfoque contemporáneo y dinámico. Líneas limpias y proporciones equilibradas ofrecen una presencia distintiva. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Envío mundial disponible.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/efd/efd30c0159a41d7141b85a1caac8e0b7_preview.png"
  ],
@@ -24,9 +37,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Soleil Cropped Windbreaker Jacket · White",
- "name_es": "Chaqueta Soleil Cropped Windbreaker · Blanco",
+ "name_en": "Soleil d'Or Cropped Windbreaker",
+ "name_es": "Cortavientos Cropped Soleil d'Or",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 60.99,
  "rank": 766,

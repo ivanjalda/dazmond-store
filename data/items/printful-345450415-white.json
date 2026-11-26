@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/polo"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "polo",
+ "ai_ver": 2,
+ "art_note": "The image features an awkward head crop and generic supplier-style studio presentation that lacks true luxury atmosphere.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-345450415",
  "color": "White",
  "created": "2026-11-22",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential garment that redefines relaxed elegance with an impeccable silhouette. Crafted with attention to detail to deliver a distinguished and timeless presence. Its refined design adapts naturally to the female form. Each piece is crafted exclusively upon request to ensure ultimate exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una prenda esencial que redefine la elegancia relajada con una silueta impecable. Confeccionada con atención al detalle para ofrecer una presencia distinguida y atemporal. Su diseño depurado se adapta con naturalidad a la silueta femenina. Cada pieza se elabora exclusivamente bajo pedido para garantizar la máxima exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/979/97916b471cde614c18c44fbb857e8883_preview.png"
  ],
@@ -27,6 +40,7 @@
  "name_en": "Grace Piqué Polo · White",
  "name_es": "Polo Grace Piqué · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 816,

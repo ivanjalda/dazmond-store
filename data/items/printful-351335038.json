@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/a6ba1c15fb27951ce9a8.jpg",
+  "assets/products/shop/579a2ee1a48cccb73b3f.jpg",
+  "assets/products/shop/9f8f9e7aa844b2864c3f.jpg",
+  "assets/products/shop/bd3b8e904896a39759b9.jpg",
+  "assets/products/shop/3927d9f4c40148bb97da.jpg"
+ ],
  "ai_cats": [
   "mujer/pantalones-cortos"
  ],
@@ -27,6 +34,7 @@
  ],
  "draft": false,
  "fam": "night-camo-edition",
+ "gender": "women",
  "hidden": false,
  "id": "printful-351335038",
  "img_checked": "2026-11-23",

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Stone",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Polo Shirt",
+ "ai_ver": 2,
+ "art_note": "The image presents a flat, generic supplier mockup style that lacks the sophisticated lighting and atmosphere expected of a luxury fashion house.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-374479601",
  "color": "Stone",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece for the contemporary wardrobe. Defined by clean lines and a structured silhouette that commands presence. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una prenda esencial para el armario contemporáneo. Definida por líneas limpias y una silueta estructurada que aporta presencia. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/59b/59b97bb0fe0ef8f9057b9c31b06a53f8_preview.png"
  ],
@@ -27,6 +40,7 @@
  "name_en": "Black Premium Polo · Stone",
  "name_es": "Polo Premium Negro · Stone",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
  "rank": 660,

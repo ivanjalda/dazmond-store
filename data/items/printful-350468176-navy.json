@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "navy",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "journal",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product shot with professional lighting and minimalist presentation.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-350468176",
  "color": "Navy",
  "created": "2026-11-22",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece for your most discerning thoughts. The Visionary Hardcover journal in navy offers an elegant sanctuary for daily writing. Its structured and sophisticated design embodies discretion and refined taste. Each piece is made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una pieza esencial para sus pensamientos más exigentes. El cuaderno Visionary Hardcover en tono navy ofrece un refugio elegante para la escritura diaria. Su diseño estructurado y sofisticado encarna la discreción y el buen gusto. Cada ejemplar se elabora bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Dimensions: 5.5 x 8.5 inches\n· Hardcover bound\n· Made to order",
+ "details_es": "· Medidas: 5.5 x 8.5 pulgadas\n· Encuadernación de Tapa Dura\n· Hecho a pedido",
  "display_images": [
   "https://files.cdn.printful.com/files/c44/c4428470cd42e95906fc9f3d2c26d667_preview.png"
  ],
@@ -24,6 +37,7 @@
  "name_en": "Visionary Hardcover Journal · Navy",
  "name_es": "Cuaderno Visionary Hardcover · Azul Marino",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 27.99,
  "rank": 837,

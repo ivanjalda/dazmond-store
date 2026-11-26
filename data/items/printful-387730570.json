@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/a24ec5eed0e1435569ea.jpg",
+  "assets/products/shop/0122ba48baab660159ce.jpg",
+  "assets/products/shop/abc7b5a3b3c91c35b7f7.jpg",
+  "assets/products/shop/a180d156071da014e964.jpg",
+  "assets/products/shop/584f5404bd58a3fb9cea.jpg",
+  "assets/products/shop/4cc2f26cf9c67cfb4664.jpg"
+ ],
  "ai_cats": [
   "mujer/vestidos-monos-petos"
  ],
@@ -27,6 +35,7 @@
  ],
  "draft": false,
  "fam": "vestido-midi-luxury",
+ "gender": "women",
  "hidden": false,
  "id": "printful-387730570",
  "img_checked": "2026-11-23",
