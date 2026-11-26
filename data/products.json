@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T21:41:50Z",
+  "updated": "2026-11-26T22:35:09Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -168785,8 +168785,82 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/44dbe7695c5a12085403.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm / inches",
+        "headers": [
+          "SIZE",
+          "BUST",
+          "WAIST",
+          "LENGTH"
+        ],
+        "headers_es": [
+          "TALLA",
+          "PECHO",
+          "CINTURA",
+          "LONGITUD"
+        ],
+        "rows": [
+          [
+            "S",
+            "95cm (37.4\")",
+            "85cm (33.5\")",
+            "72cm (28.4\")"
+          ],
+          [
+            "M",
+            "100cm (39.4\")",
+            "90cm (35.4\")",
+            "74m (29.2\")"
+          ],
+          [
+            "L",
+            "105cm (41.4\")",
+            "95cm (37.4\")",
+            "76cm (30\")"
+          ],
+          [
+            "XL",
+            "113cm (44.4\")",
+            "103cm (40.4\")",
+            "79cm (31.1\")"
+          ],
+          [
+            "2XL",
+            "123cm (48.4\")",
+            "113cm (44.4\")",
+            "82cm (32.3\")"
+          ],
+          [
+            "3XL",
+            "133cm (52.4\")",
+            "123cm (48.4\")",
+            "85cm (33.5\")"
+          ],
+          [
+            "4XL",
+            "143cm (56.4\")",
+            "133cm (52.4\")",
+            "88cm (34.7\")"
+          ],
+          [
+            "5XL",
+            "153cm (60.2\")",
+            "143cm (56.3\")",
+            "91cm (35.8\")"
+          ],
+          [
+            "6XL",
+            "163cm (64.2\")",
+            "153cm (60.2\")",
+            "94cm (37\")"
+          ]
+        ],
+        "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+        "notes_es": "Por favor, permita una diferencia de 1-3 cm debido a la medición manual."
+      },
       "sku_map": {
         "S": "NKQ5KJPN-1",
         "M": "NKQ5KJPN-2",
@@ -168802,8 +168876,8 @@
       "source_text": "Blusa suelta DAZ Premium de manga corta con escote redondo para mujer Blouses Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas Confeccionada en poliéster suave de alta calidad, esta blusa informal de manga larga para mujer es cómoda y de corte holgado. Con un dobladillo plisado impresionante, escote redondo y detalles de botones, combina el estilo informal con la elegancia. Es adecuada para todas las ocasiones y fácil de cuidar, perfecta para la moda diaria. \n * TELA CASUAL Y CÓMODA: Nuestras blusas casuales de manga corta para mujer están hechas de tela de poliéster, que es cómoda y fácil de usar, al mismo tiempo que combina elementos casuales y de moda. \n * DOBLADILLO PLISADO ELEGANTE: El diseño único del dobladillo plisado le da a la acogedora blusa de cuello redondo un aspecto elegante y femenino. El cuello abotonado en la parte delantera agrega un toque informal \n * TOP DE VERANO CON ESTILO PARA TODOS LOS DÍAS: El cuello redondo y el diseño simple lo hacen perfecto para todas las ocasiones, ya sea que lo uses con jeans para una salida informal o con una falda, irradiarás un encanto diferente. \n * ROPA CASUAL CÓMODA: Esta camiseta casual de manga larga tiene un corte holgado de talla grande, está hecha de tela elástica, se ajusta cómodamente y es adecuada para todo tipo de cuerpos. \n * FÁCIL CUIDADO: Este elegante suéter con volantes se puede lavar a máquina, es fácil de limpiar con agua fría y detergente neutro para un cuidado sin esfuerzo.",
       "name_es": "Blusa Blusa Suelta Daz",
       "name_en": "Blusa Suelta Daz Blouse",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "desc_es": "Una silueta fluida definida por una confección impecable y un carácter refinado. Esta pieza presenta un diseño de corte holgado con un sutil dobladillo plisado que aporta movimiento a cada paso. El escote redondo se complementa con una elegante botonadura frontal. Confeccionada con precisión para ofrecer una caída impecable y una comodidad excepcional en el uso diario. Cada prenda se elabora bajo pedido y cuenta con envío a todo el mundo.",
+      "desc_en": "A fluid silhouette defined by impeccable craftsmanship and refined character. This piece features a relaxed-fit design with a subtle pleated hemline that introduces movement to every step. The classic scoop neckline is complemented by a refined button placket detail. Crafted with precision to offer an effortless drape and exceptional comfort for daily wear. Each piece is made to order with worldwide shipping available.",
       "price_usd": 24.99,
       "margin_pct": 27.5,
       "images_original": [
@@ -168819,14 +168893,11 @@
       "images_model": [],
       "visual_verified": true,
       "display_images": [
-        "assets/products/shop/16915d60489c2868befd.jpg",
-        "assets/products/shop/ff2eb04ad36adca600a0.jpg",
         "assets/products/shop/51c14e91e05729ffde98.jpg",
         "assets/products/shop/fe37275ff88d1156fc74.jpg",
         "assets/products/shop/aadab34da38bfdccf78f.jpg",
         "assets/products/shop/08715cfa8dca65a8da6c.jpg",
-        "assets/products/shop/0395cd3fd96e9eb792af.jpg",
-        "assets/products/shop/44dbe7695c5a12085403.jpg"
+        "assets/products/shop/0395cd3fd96e9eb792af.jpg"
       ],
       "available": true,
       "price_history": {
@@ -168871,7 +168942,64 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-19",
       "cg": "t-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
+      "art_score": 4,
+      "art_note": "Flat-cut product shots and composited model photography lack true luxury campaign atmosphere.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/16915d60489c2868befd.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/ff2eb04ad36adca600a0.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/51c14e91e05729ffde98.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/fe37275ff88d1156fc74.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/aadab34da38bfdccf78f.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/08715cfa8dca65a8da6c.jpg",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/0395cd3fd96e9eb792af.jpg",
+            "k": "detail",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/44dbe7695c5a12085403.jpg"
+        ]
+      },
+      "ai_type": "blouse",
+      "ai_gender": "women",
+      "ai_color": "pink",
+      "ai_material": "polyester",
+      "ai_cats": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "details_es": "· Composición: poliéster suave\n· Corte holgado\n· Escote redondo con botones frontales\n· Manga corta\n· Dobladillo plisado\n· Lavado a máquina con agua fría\n· Hecho bajo pedido\n· Envío a todo el mundo",
+      "details_en": "· Composition: soft polyester\n· Relaxed fit\n· Scoop neckline with front buttons\n· Short sleeves\n· Pleated hemline\n· Machine wash with cold water\n· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-blusa-suelta-daz-premium-de-manga-corta-con-escote-redondo-para-mujer-9",
