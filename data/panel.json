@@ -1,7 +1,7 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-26 06:41 UTC",
+  "updated": "2026-11-26 07:42 UTC",
   "totals": {
     "catalogo": 2509,
     "a_la_vista": 2156,
@@ -3695,10 +3695,11 @@
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 1 productos revisados (fotos, guía de tallas y textos) · quedan 1542",
-    "⏱ revisión con IA: 204 s",
+    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 1542",
+    "⏱ revisión con IA: 128 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
+    "Stripe: enlace normal listo para printify-6b066740eca3203e09098ed4",
     "Stripe: enlace normal listo para printify-6b066744255f2587670ee018",
     "Stripe: enlace normal listo para printify-6b06674262f038c4f00afba4",
     "Stripe: enlace normal listo para printify-6b0667479a7ef0f8180ceea2",
@@ -3710,7 +3711,7 @@
     "Stripe: enlace normal listo para printify-6b066a54eca3203e09099343",
     "Stripe: enlace normal listo para printify-6b066a5662f038c4f00b002f",
     "Stripe: enlace normal listo para printify-6b066a5862f038c4f00b0031",
-    "Stripe: 11 productos con enlace de pago nuevo en esta hora",
+    "Stripe: 12 productos con enlace de pago nuevo en esta hora",
     "⏱ enlaces de pago: 7 s",
     "Cambio actualizado: 1 USD = 0.9145 EUR",
     "Listo."
