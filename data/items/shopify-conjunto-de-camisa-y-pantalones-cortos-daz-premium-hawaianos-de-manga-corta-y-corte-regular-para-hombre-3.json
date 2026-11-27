@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/conjuntos"
+ ],
+ "ai_color": "rosa",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% poliéster",
+ "ai_type": "conjunto",
+ "ai_ver": 2,
+ "art_note": "Flat lay and model shots look heavily composited with digital templates, lacking true luxury campaign lighting and styling.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your seasonal wardrobe with this refined tropical-inspired set. Meticulously crafted, it features a short-sleeved collared shirt with button closure, paired with matching drawstring elastic-waist shorts and side pockets. The relaxed silhouette ensures effortless comfort without compromising on sophistication. Made to order with worldwide shipping.",
+ "desc_es": "Eleve su guardarropa de temporada con este refinado conjunto de inspiración tropical. Confeccionado con atención al detalle, presenta una camisa de manga corta con cuello doblado y cierre de botones, combinada con unos pantalones cortos de cintura elástica con cordón y bolsillos laterales. Su silueta relajada garantiza una comodidad sin esfuerzo sin comprometer el estilo. Disponible bajo pedido con envío a todo el mundo.",
+ "details_en": "· 100% polyester.\n· Relaxed fit.\n· Collared shirt with button closure.\n· Shorts featuring an elastic waistband with drawstring and side pockets.\n· Machine wash at max 30°C on delicate cycle.\n· Iron at low temperature.\n· Do not bleach.\n· Made to order piece with worldwide shipping.",
+ "details_es": "· 100% poliéster.\n· Ajuste relajado.\n· Camisa con cuello doblado y cierre de botones.\n· Pantalones cortos con cintura elástica con cordón y bolsillos laterales.\n· Lavar a máquina a un máximo de 30 °C con programa delicado.\n· Planchar a temperatura baja.\n· No usar blanqueador.\n· Pieza hecha a pedido con envíos a todo el mundo.",
  "display_images": [
   "assets/products/shop/3754c28d9df18c799676.jpg",
   "assets/products/shop/40b9e286cd86e124a706.jpg",
@@ -16,14 +30,7 @@
   "assets/products/shop/35d731d550dc67172f60.jpg",
   "assets/products/shop/8692aa7af4599a12d144.jpg",
   "assets/products/shop/dd1241f0e58803043d96.jpg",
-  "assets/products/shop/0b052be211ba61658ac5.jpg",
-  "assets/products/shop/8b4b40df8ff03606ba8c.jpg",
-  "assets/products/shop/3a6a62d2a158823a67c5.jpg",
-  "assets/products/shop/26466111c26f447d9ad0.jpg",
-  "assets/products/shop/719a8a59483e1057f5b1.jpg",
-  "assets/products/shop/22314cb31958066b23d2.jpg",
-  "assets/products/shop/87f7653ec8bc353efe18.jpg",
-  "assets/products/shop/fa239aa2f0efd9a307a0.jpg"
+  "assets/products/shop/0b052be211ba61658ac5.jpg"
  ],
  "draft": false,
  "fam": "conjunto-camisa-pantalones",
@@ -40,6 +47,7 @@
  "name_en": "Hawaiian Shirt and Shorts Set",
  "name_es": "Conjunto Camisa y Short Hawaiano",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1643,
