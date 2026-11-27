@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% algodón",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "The lifestyle campaign imagery successfully elevates the basic product into a sophisticated, high-end presentation.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,12 +19,11 @@
  "cg": "t-camiseta-dazmond-de-cuello-redondo-para-mujer",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential garment crafted from pure cotton. The classic crew neck design delivers a refined and comfortable silhouette. Subtle details define a modern and versatile aesthetic. Each piece is crafted to order to ensure ultimate exclusivity. Enjoy worldwide shipping.",
+ "desc_es": "Una prenda esencial confeccionada en algodón puro. Su diseño de cuello redondo ofrece una silueta depurada y cómoda. Los detalles sutiles definen una estética moderna y versátil. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Disfrute de envíos a todo el mundo.",
+ "details_en": "· 100% cotton\n· Made to order\n· Hand or machine wash cold\n· Do not bleach\n· Tumble dry low",
+ "details_es": "· 100% algodón\n· Confección bajo pedido\n· Lavar a mano o a máquina con agua fría\n· No usar lejía\n· Secar en secadora a baja temperatura",
  "display_images": [
-  "assets/products/shop/53c1441efdc37e2bb4e3.jpg",
-  "assets/products/shop/53c1441efdc37e2bb4e3.jpg",
-  "assets/products/shop/53c1441efdc37e2bb4e3.jpg",
   "assets/products/shop/53c1441efdc37e2bb4e3.jpg",
   "assets/products/shop/f1a5a631bbf8a9093502.jpg",
   "assets/products/shop/49b5c36629f040338467.jpg",
@@ -21,8 +32,7 @@
   "assets/products/shop/5bd740f210fabee2f44b.jpg",
   "assets/products/shop/4805f3f764511c03c32e.jpg",
   "assets/products/shop/06d6cfd5c8ad67531713.jpg",
-  "assets/products/shop/5455c8f0200d9b096fa1.jpg",
-  "assets/products/shop/3fc4c328a304a18f0a38.jpg"
+  "assets/products/shop/5455c8f0200d9b096fa1.jpg"
  ],
  "draft": false,
  "fam": "camiseta-cuello-redondo",
@@ -36,9 +46,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Cuello Redondo Tee · Blanco",
- "name_es": "Camiseta Cuello Redondo · Blanco",
+ "name_en": "Cotton Logo T-Shirt · Blanco",
+ "name_es": "Camiseta de Algodón con Logo · Blanco",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 31.99,
  "rank": 1673,
@@ -46,8 +57,51 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Chest"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Pecho"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Por favor, permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "62.2cm(24.5\")",
+    "43.2cm(17\")"
+   ],
+   [
+    "M",
+    "64.3cm(25.3\")",
+    "47cm(18.5\")"
+   ],
+   [
+    "L",
+    "66.0cm(26\")",
+    "50.8cm(20\")"
+   ],
+   [
+    "XL",
+    "68.1cm(26.8\")",
+    "54.6cm(21.5\")"
+   ],
+   [
+    "2XL",
+    "71.1cm(28\")",
+    "58.4cm(23\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/3fc4c328a304a18f0a38.jpg"
+ ],
  "sizes": [
   "S",
   "M",

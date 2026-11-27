@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster y 5% elastano",
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "Flat compositing and generic background drops diminish the luxury potential of the garment.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,16 @@
  "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This piece redefines relaxed elegance with a fluid and sophisticated design. Crafted with attention to detail, it features a graphic print inspired by musical notes on an immaculate white base. Short sleeves and a V-neckline lend lightness to the silhouette, while side venting ensures natural movement. Each garment is crafted to order to guarantee exclusivity. Available with worldwide shipping.",
+ "desc_es": "Esta pieza redefine la elegancia relajada con un diseño fluido y sofisticado. Confeccionada con atención al detalle, presenta un estampado gráfico inspirado en notas musicales sobre una base blanca impecable. Las mangas cortas y el cuello en V aportan ligereza a la silueta, mientras que la abertura lateral asegura un movimiento natural. Cada prenda se elabora bajo pedido para garantizar exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· Made of 95% polyester and 5% elastane\n· Short sleeves\n· V-neckline\n· Side venting\n· Machine wash cold (maximum 40 °C or 104 °F); do not bleach; iron with a cover; do not tumble dry; dry in the shade\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecha de 95 % poliéster y 5 % elastano\n· Mangas cortas\n· Cuello en V\n· Abertura lateral\n· Lavado a máquina con agua fría (máximo 40 °C o 104 °F); sin cloro; planchar con funda; no secar en secadora; secar a la sombra\n· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/88a2877b393219d20e03.jpg",
   "assets/products/shop/0e39773adb0935e5835f.jpg",
   "assets/products/shop/f38084f5a37d19410d4b.jpg",
   "assets/products/shop/8d974a6f7c93abf2e671.jpg",
-  "assets/products/shop/571f342fdae330eb210f.jpg",
-  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+  "assets/products/shop/571f342fdae330eb210f.jpg"
  ],
  "draft": false,
  "fam": "camisa-hawaiana-luxury",
@@ -32,6 +45,7 @@
  "name_en": "DAZ Pink Geometric Hawaiian Shirt",
  "name_es": "Camisa Hawaiana Geométrica Rosa DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 1672,
@@ -39,8 +53,88 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)\nInches",
+   "CHEST WIDTH(B)\nInches",
+   "SLEEVES(C)\nInches"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD (A)\nPulgadas",
+   "ANCHO DE PECHO (B)\nPulgadas",
+   "MANGAS (C)\nPulgadas"
+  ],
+  "notes_en": "",
+  "notes_es": "",
+  "rows": [
+   [
+    "2XS",
+    "25.59",
+    "39.37",
+    "8.50"
+   ],
+   [
+    "XS",
+    "26.18",
+    "41.34",
+    "8.74"
+   ],
+   [
+    "S",
+    "26.54",
+    "43.31",
+    "8.98"
+   ],
+   [
+    "M",
+    "27.05",
+    "45.28",
+    "9.21"
+   ],
+   [
+    "L",
+    "27.56",
+    "47.24",
+    "9.45"
+   ],
+   [
+    "XL",
+    "28.07",
+    "49.21",
+    "9.69"
+   ],
+   [
+    "2XL",
+    "28.58",
+    "51.18",
+    "9.92"
+   ],
+   [
+    "3XL",
+    "29.09",
+    "53.54",
+    "10.16"
+   ],
+   [
+    "4XL",
+    "29.61",
+    "55.51",
+    "10.43"
+   ],
+   [
+    "5XL",
+    "30.12",
+    "57.48",
+    "10.71"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+ ],
  "sizes": [
   "2XS",
   "XS",
