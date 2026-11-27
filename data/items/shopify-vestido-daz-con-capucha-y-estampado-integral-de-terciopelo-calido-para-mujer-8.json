@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce model shots with basic studio lighting and digital composition feel.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,15 @@
  "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A contemporary silhouette that redefines urban comfort. This hooded dress combines an imposing presence with an enveloping softness. Designed for an impeccable drape, it features long sleeves, a functional front pocket, and adjustable drawstrings. An essential versatile piece that transcends seasons. Made to order with worldwide shipping.",
+ "desc_es": "Una silueta contemporánea que redefine el confort urbano. Este vestido con capucha combina una presencia imponente con una suavidad envolvente. Diseñado para ofrecer una caída impecable, presenta mangas largas, un bolsillo frontal funcional y cordones ajustables. Una pieza esencial de carácter versátil que trasciende las temporadas. Confeccionado bajo pedido con envío a todo el mundo.",
+ "details_en": "· 100% polyester\n· Hood with adjustable drawstring\n· Long sleeves\n· Front kangaroo pocket\n· Elastic band hem and cuffs\n· Machine wash max 30 °C\n· Made to order",
+ "details_es": "· 100% poliéster\n· Capucha con cordón ajustable\n· Mangas largas\n· Bolsillo frontal tipo canguro\n· Dobladillo y puños con banda elástica\n· Lavar a máquina a un máximo de 30 °C\n· Confeccionado bajo pedido",
  "display_images": [
   "assets/products/shop/fc5d002e06c99cadbe78.jpg",
   "assets/products/shop/866e7ad9eb312b4f123f.jpg",
   "assets/products/shop/654f5222289f1b638982.jpg",
-  "assets/products/shop/60c10e058d9f0fe54172.jpg",
-  "assets/products/shop/624196429b534b063f2e.jpg"
+  "assets/products/shop/60c10e058d9f0fe54172.jpg"
  ],
  "draft": false,
  "fam": "vestido-capucha-estampado",
@@ -28,9 +41,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Capucha Estampado Dress",
- "name_es": "Vestido Daz Capucha Estampado",
+ "name_en": "Velvet Hooded Dress",
+ "name_es": "Vestido con capucha de terciopelo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1288,
@@ -38,8 +52,66 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest Width"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Ancho de pecho"
+  ],
+  "notes_en": "Measurements are provided in centimeters and inches.",
+  "notes_es": "Las medidas se proporcionan en centímetros y pulgadas.",
+  "rows": [
+   [
+    "XS",
+    "80cm (31.5\")",
+    "47.5cm (18.7\")"
+   ],
+   [
+    "S",
+    "82cm (32.3\")",
+    "50cm (19.7\")"
+   ],
+   [
+    "M",
+    "84cm (33.1\")",
+    "52.5cm (20.7\")"
+   ],
+   [
+    "L",
+    "86cm (33.9\")",
+    "55cm (21.7\")"
+   ],
+   [
+    "XL",
+    "88cm (34.6\")",
+    "57.5cm (22.6\")"
+   ],
+   [
+    "2XL",
+    "90cm (35.4\")",
+    "60cm (23.6\")"
+   ],
+   [
+    "3XL",
+    "92cm (36.2\")",
+    "62.5cm (24.6\")"
+   ],
+   [
+    "4XL",
+    "94cm (37.0\")",
+    "65cm (25.6\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/624196429b534b063f2e.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

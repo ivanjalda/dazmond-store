@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Brushed polyester",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on composited mockups and flat lighting that detract from luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,16 @@
  "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This long hooded dress offers a fluid silhouette designed for the transitional season. Crafted from interwoven brushed polyester fabric, it combines a soft touch with excellent heat retention for colder days. The design features long sleeves and a knee-covering length, balancing casual ease with structured elegance. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Este vestido largo con capucha ofrece una silueta fluida diseñada para la temporada de transición. Confeccionado en tejido de poliéster cepillado entretejido, combina un tacto suave con una excelente retención de calor para los días más fríos. El diseño incluye mangas largas y un corte que cubre la rodilla, equilibrando la comodidad informal con la elegancia estructurada. Cada pieza se elabora bajo pedido y cuenta con envío mundial.",
+ "details_en": "· Interwoven brushed polyester fabric\n· Hooded style with long sleeves\n· Knee-covering length\n· Good heat retention for autumn and winter\n· Machine washable in cold water, gentle cycle, mild detergent\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Tejido de poliéster cepillado entretejido\n· Estilo con capucha y manga larga\n· Largo que cubre la rodilla\n· Buena retención de calor para otoño e invierno\n· Lavable a máquina con agua fría, ciclo suave y detergente suave\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/44c7f9d04aa87e2f191f.jpg",
   "assets/products/shop/abc373373d05f5295a3e.jpg",
   "assets/products/shop/a5e694a4dab18df4a5fa.jpg",
   "assets/products/shop/775bab3b85de0879bfd3.jpg",
-  "assets/products/shop/833d64c7d3d3eec72568.jpg",
-  "assets/products/shop/c304e291b831c39b86a5.jpg"
+  "assets/products/shop/833d64c7d3d3eec72568.jpg"
  ],
  "draft": false,
  "fam": "vestido-capucha-largo",
@@ -29,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Capucha Largo Dress",
- "name_es": "Vestido Daz Capucha Largo",
+ "name_en": "Long Hooded Dress",
+ "name_es": "Vestido Largo Con Capucha",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
  "rank": 1271,
@@ -39,8 +53,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Chest",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Pecho",
+   "Manga"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "132cm(52.0\")",
+    "51cm(20.1\")",
+    "57.5cm(22.6\")"
+   ],
+   [
+    "M",
+    "135cm(53.1\")",
+    "53cm(20.9\")",
+    "59cm(23.2\")"
+   ],
+   [
+    "L",
+    "138cm(54.3\")",
+    "55cm(21.7\")",
+    "60.5cm(23.8\")"
+   ],
+   [
+    "XL",
+    "141cm(55.5\")",
+    "57cm(22.4\")",
+    "62cm(24.4\")"
+   ],
+   [
+    "2XL",
+    "144cm(56.7\")",
+    "59cm(23.2\")",
+    "63.5cm(25\")"
+   ],
+   [
+    "3XL",
+    "147cm(57.9\")",
+    "61cm(24.0\")",
+    "65cm(25.6\")"
+   ],
+   [
+    "4XL",
+    "150cm(59.1\")",
+    "63cm(24.8\")",
+    "66.5cm(26.2\")"
+   ],
+   [
+    "5XL",
+    "153cm(60.2\")",
+    "65cm(25.6\")",
+    "68cm(26.8\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/c304e291b831c39b86a5.jpg"
+ ],
  "sizes": [
   "S",
   "M",

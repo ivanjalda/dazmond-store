@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Transparent",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% Glass",
+ "ai_type": "Whiskey Glass",
+ "ai_ver": 2,
+ "art_note": "Sophisticated studio lighting and moody atmosphere create a true luxury campaign feel.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-spirit-s-glow-whiskey-glass",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An ode to sophistication in a compact format. This balanced design rests perfectly in the hand, offering an exceptional tactile experience. High-fidelity brilliant printing comes alive with every reflection of the spirit, creating an interplay of light and shadow. Conceived for intimate evenings and special gatherings, this modern classic combines everyday durability with the refined aesthetics of a collector piece. Assembled on demand in the United States.",
+ "desc_es": "Una oda a la sofisticación en formato pequeño. Este vaso de diseño equilibrado encaja perfectamente en la mano y ofrece una experiencia de uso excepcional. La impresión brillante de alta fidelidad cobra vida con cada reflejo del licor, creando un juego de luces y sombras que deleita la vista. Concebido para veladas íntimas y eventos especiales, este clásico moderno combina robustez para el uso frecuente con la delicadeza estética de una pieza de colección. Ensamblado bajo demanda en los Estados Unidos.",
+ "details_en": "· 100% High-transparency glass\n· 6 oz (0.17 l) capacity\n· High-definition print with lasting gloss\n· Hand wash exclusively\n· Assembled in the USA",
+ "details_es": "· 100% Vidrio de alta transparencia\n· Capacidad de 6 oz (0,17 l)\n· Impresión de alta definición con brillo duradero\n· Lavar exclusivamente a mano\n· Ensamblado en EE. UU.",
  "display_images": [
   "assets/products/shop/59b5496879026dfbfd66.jpg",
   "assets/products/shop/9716f66a5188f0dba168.jpg"
@@ -22,9 +36,10 @@
   "printify-6b08d1dfedc552ae3508a8e1"
  ],
  "material": "",
- "name_en": "Spirit Glow Whiskey Glass",
- "name_es": "Vaso Spirit Glow Whiskey",
+ "name_en": "Spirit's Glow Whiskey Glass",
+ "name_es": "Vaso de Whisky Spirit's Glow",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 24.99,
  "rank": 1294,

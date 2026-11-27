@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester, elastane",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "High-end campaign photography with sophisticated lighting and architectural backdrops.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-second-skin-mystic-marble-long-sleeve-dress",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A statement of intent and technical elegance. This long sleeve design features an all-over marble vein print in violet and lavender tones against a black background. Tailored to sculpt a sleek silhouette with a second-skin feel. The piece is finished with the signature initial in silver calligraphy on the chest. Made-to-order. Worldwide shipping available.",
+ "desc_es": "Una declaración de intención y elegancia técnica. Este diseño de manga larga presenta un estampado integral inspirado en vetas de mármol en tonos violeta y lavanda sobre fondo negro. Confeccionado para ofrecer una silueta esbelta con una sensación de segunda piel. La pieza se completa con la inicial de la firma bordada en caligrafía plateada sobre el pecho. Made-to-order. Worldwide shipping available.",
+ "details_en": "· Composition: high-density polyester and high-recovery elastane\n· Fabric weight: 10.44 oz\n· Crew neckline and long sleeves\n· Above-the-knee length\n· Made-to-order piece. Worldwide shipping available.",
+ "details_es": "· Composición: poliéster de alta densidad y elastano de alta recuperación\n· Peso del tejido: 10.44 oz\n· Cuello redondo y manga larga\n· Longitud por encima de la rodilla\n· Pieza bajo pedido. Envío mundial disponible.",
  "display_images": [
   "assets/products/shop/1d2d5327ab9972e66ac5.jpg",
   "assets/products/shop/32f338b2c7827b9ef347.jpg",
@@ -30,9 +44,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Second Skin Mystic Dress",
- "name_es": "Vestido Second Skin Mystic",
+ "name_en": "Mystic Long Sleeve Dress",
+ "name_es": "Vestido Largo Místico",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 24.99,
  "rank": 1291,

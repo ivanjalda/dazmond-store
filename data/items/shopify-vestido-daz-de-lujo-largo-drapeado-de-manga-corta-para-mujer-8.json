@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on composited lifestyle shots and generic detail graphics that detract from the luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,13 @@
  "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This long dress redefines evening elegance with impeccable fluidity. The design features a pronounced V-neckline that subtly frames the silhouette. Draped details add dynamic movement to the garment. Crafted for formal occasions and galas. Available made to order with worldwide shipping.",
+ "desc_es": "Este vestido largo redefine la elegancia nocturna con una fluidez impecable. El diseño presenta un escote en V pronunciado que enmarca la silueta con sutileza. Los detalles drapeados añaden movimiento dinámico a la prenda. Confeccionado para ocasiones formales y galas. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Composition: High quality polyester fabric (180 g/m²)\n· V-neckline with elegant draped design\n· Floor-length silhouette\n· Machine washable with cold water, gentle cycle and mild detergent\n· Made to order",
+ "details_es": "· Composición: Tela de poliéster de alta calidad (180 g/m²)\n· Diseño con escote en V y drapeado elegante\n· Largo hasta el pie\n· Lavable a máquina con agua fría, ciclo suave y detergente suave\n· Hecho bajo pedido",
  "display_images": [
-  "assets/products/shop/7d73b38dbf34bd7da516.jpg",
-  "assets/products/shop/84243d994da130b5596b.jpg",
-  "assets/products/shop/4c3829485f43f1d9934b.jpg",
   "assets/products/shop/63f7db5f9b0790930839.jpg",
-  "assets/products/shop/61d2f265ab674e9447a8.jpg",
-  "assets/products/shop/215779b3af444990bb74.jpg",
-  "assets/products/shop/d79b46be3e43b36cd08d.jpg",
-  "assets/products/shop/4c9339e5788bea14bbbe.jpg"
+  "assets/products/shop/61d2f265ab674e9447a8.jpg"
  ],
  "draft": false,
  "fam": "vestido-lujo-largo",
@@ -34,6 +42,7 @@
  "name_en": "Draped Long Dress",
  "name_es": "Vestido Largo Drapeado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 23.99,
  "rank": 1324,
@@ -41,8 +50,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "BUST",
+   "WAIST",
+   "LENGTH"
+  ],
+  "headers_es": [
+   "TALLA",
+   "PECHO",
+   "CINTURA",
+   "LARGO"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "82cm(32\")",
+    "68cm(26.8\")",
+    "94cm(37\")"
+   ],
+   [
+    "M",
+    "88cm(34.5\")",
+    "74cm(29.2\")",
+    "96cm(37.8\")"
+   ],
+   [
+    "L",
+    "94cm(37\")",
+    "81cm(31.8\")",
+    "98cm(38.5\")"
+   ],
+   [
+    "XL",
+    "100cm(39.5\")",
+    "87cm(34.2\")",
+    "100cm(39.2\")"
+   ],
+   [
+    "2XL",
+    "106cm(42\")",
+    "93cm(36.8\")",
+    "101cm(39.8\")"
+   ],
+   [
+    "3XL",
+    "114cm(44.5\")",
+    "100cm(39.2\")",
+    "102cm(40.2\")"
+   ],
+   [
+    "4XL",
+    "120cm(47\")",
+    "106cm(41.8\")",
+    "106cm(41.8\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/4c9339e5788bea14bbbe.jpg"
+ ],
  "sizes": [
   "S",
   "M",

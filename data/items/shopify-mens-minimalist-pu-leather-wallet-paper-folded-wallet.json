@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "White / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Synthetic leather",
+ "ai_sizes": "Talla Única",
+ "ai_type": "Wallet",
+ "ai_ver": 2,
+ "art_note": "Generic supplier product photography with digital rendering and overlaid dimensions.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +20,14 @@
  "cg": "t-cartera-minimalista-de-cuero-sintetico-daz-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This product is made especially for you as soon as you place an order. Making products on demand ensures brand exclusivity with our community. Limited units. Crafted with a delicate textured finish and a soft tactile feel, this wallet offers a slim and versatile silhouette for daily wear. The compact structure balances function and security, keeping your essentials neatly organized.",
+ "desc_es": "Esta pieza está hecha especialmente para usted tan pronto como realiza un pedido. Fabricar productos bajo demanda garantiza la exclusividad de nuestra marca con nuestra comunidad. Unidades limitadas. Diseñada con una textura delicada y un tacto suave, esta billetera ofrece una silueta delgada y versátil para el uso diario. Su estructura compacta combina funcionalidad y seguridad, manteniendo sus esenciales organizados con elegancia.",
+ "details_en": "· Made to order\n· Worldwide shipping\n· Material: Synthetic leather\n· Dimensions: 24.3 x 9.1 cm",
+ "details_es": "· Hecho a medida bajo demanda\n· Envío a todo el mundo\n· Material: Piel sintética\n· Dimensiones: 24.3 x 9.1 cm",
  "display_images": [
   "assets/products/shop/611f864e1cf64e252bbf.jpg",
   "assets/products/shop/215e706566487b278a07.jpg",
   "assets/products/shop/7aed5bb6140406870452.jpg",
-  "assets/products/shop/3a642c91fbf08e4e7b01.jpg",
   "assets/products/shop/2acd01dc0d85cfb7f982.jpg",
   "assets/products/shop/7bbdb3253a4840bfa4e1.jpg",
   "assets/products/shop/d19abdf9837d4dbfadb7.jpg"
@@ -30,9 +44,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Cartera Minimalista Cuero Bag",
- "name_es": "Bolso Cartera Minimalista Cuero",
+ "name_en": "Minimalist Synthetic Leather Wallet",
+ "name_es": "Billetera Minimalista de Piel Sintética",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 23.99,
  "rank": 1295,
@@ -40,9 +55,31 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Billeteras y clips para billetes > Carteras",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "Measured flat.",
+  "notes_es": "Medido en plano.",
+  "rows": [
+   [
+    "24.3",
+    "9.1"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/3a642c91fbf08e4e7b01.jpg"
+ ],
+ "sizes": [
+  "Talla Única"
+ ],
  "source_title": "Cartera minimalista de cuero sintético DAZ para hombre",
  "stripe_payment_link": "https://buy.stripe.com/cNibJ21IMh1aduS5em1gP0t",
  "supplier": "Shopify",

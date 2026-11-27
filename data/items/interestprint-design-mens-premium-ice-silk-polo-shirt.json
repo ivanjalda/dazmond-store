@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "92% poliéster, 8% elastano",
+ "ai_type": "Polo Shirt",
+ "ai_ver": 2,
+ "art_note": "The flatlay mockup images have a generic marketplace look, though the studio detail and size guide maintain standard clarity.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,11 @@
  "cg": "t-polo-para-hombre-dazmond-coleccion-privada",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Quiet distinction in every movement. This polo projects an impeccable presence that transcends the conventional. It combines a soft touch with unmatched lightness to accompany your days with absolute ease. Its structured design redefines relaxed elegance in any environment. Crafted with technical precision, it ensures an impeccable drape and superior moisture management. Made-to-order piece with worldwide shipping available.",
+ "desc_es": "Distinción silenciosa en cada movimiento. Este polo proyecta una presencia impecable que trasciende lo convencional. Combina un tacto suave con una ligereza inigualable para acompañar sus jornadas con absoluta soltura. Su diseño estructurado redefine la elegancia relajada en cualquier entorno. Confeccionado con precisión técnica, ofrece una caída impecable y propiedades de absorción superior. Pieza elaborada bajo pedido con envío mundial disponible.",
+ "details_en": "· 92% polyester, 8% elastane (180 g/m²)\n· Structured fit\n· Moisture absorption and quick drying\n· Hand or machine wash\n· Made to order",
+ "details_es": "· 92% poliéster, 8% elastano (180 g/m²)\n· Corte estructurado\n· Absorción de humedad y secado rápido\n· Lavar a mano o a máquina\n· Hecho bajo pedido",
  "display_images": [
-  "assets/products/shop/953e19c94194aced4cde.jpg",
-  "assets/products/shop/16ac6e57a2ab8a536f59.jpg",
-  "assets/products/shop/c5033279ffe54b36634c.jpg",
-  "assets/products/shop/4cc5330ecc42b397916e.jpg",
-  "assets/products/shop/af7d5f529da675e1747a.jpg",
   "assets/products/shop/3ed53bbbc16dfb5d90dc.jpg"
  ],
  "draft": false,
@@ -29,9 +38,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Colección Privada Polo · White",
- "name_es": "Polo Colección Privada · Blanco",
+ "name_en": "Structured Privada Polo",
+ "name_es": "Polo Privada Estructurado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1343,
@@ -39,8 +49,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "BUST",
+   "SLEEVE"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "PECHO",
+   "MANGA"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "70cm / 27.6in",
+    "92cm / 36.2in",
+    "19.5cm / 7.7in"
+   ],
+   [
+    "M",
+    "73cm / 28.7in",
+    "102cm / 40.2in",
+    "21cm / 8.3in"
+   ],
+   [
+    "L",
+    "75cm / 29.5in",
+    "112cm / 44.1in",
+    "23cm / 9.1in"
+   ],
+   [
+    "XL",
+    "78cm / 30.7in",
+    "122cm / 48in",
+    "25cm / 9.8in"
+   ],
+   [
+    "2XL",
+    "80cm / 31.5in",
+    "132cm / 52in",
+    "27cm / 10.6in"
+   ],
+   [
+    "3XL",
+    "83cm / 32.7in",
+    "142cm / 55.9in",
+    "29cm / 11.4in"
+   ],
+   [
+    "4XL",
+    "85cm / 33.5in",
+    "152cm / 59.8in",
+    "31cm / 12.2in"
+   ],
+   [
+    "5XL",
+    "87cm / 34.3in",
+    "162cm / 63.8in",
+    "33cm / 13in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/af7d5f529da675e1747a.jpg"
+ ],
  "sizes": [
   "S",
   "M",

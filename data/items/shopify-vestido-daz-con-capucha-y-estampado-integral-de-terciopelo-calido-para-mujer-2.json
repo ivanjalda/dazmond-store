@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Turquoise",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Dress",
+ "ai_ver": 2,
+ "art_note": "Flat lighting and composited marketplace aesthetic detract from luxury positioning.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,15 @@
  "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A streamlined silhouette that redefines modern comfort. This hooded dress merges exceptional softness with fluid architectural design. Crafted to offer an enveloping touch, it features long sleeves, a practical front pocket, and adjustable drawstrings. The vibrant tone brings a sophisticated presence to any contemporary wardrobe. Each piece is made to order to ensure an impeccable finish. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine la comodidad moderna. Este vestido con capucha combina una suavidad excepcional con un diseño arquitectónico fluido. Confeccionado para ofrecer un tacto envolvente, presenta mangas largas, un práctico bolsillo frontal y cordones ajustables. Su tono vibrante aporta una presencia sofisticada a cualquier armario contemporáneo. Cada pieza se confecciona bajo pedido para garantizar un acabado impecable. Disponible con envío a todo el mundo.",
+ "details_en": "· Crafted from high-quality polyester\n· Hood with adjustable drawstring\n· Long sleeves and front pocket\n· Elastic band design at hem and cuffs\n· Machine wash at max 30 °C\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado en poliéster de alta calidad\n· Capucha con cordón ajustable\n· Manga larga y bolsillo frontal\n· Dobladillo y puños con banda elástica\n· Lavar a máquina a un máximo de 30 °C\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/ee721b9c4ab0d2188ff2.jpg",
   "assets/products/shop/be39ad278afc53a3ec86.jpg",
   "assets/products/shop/40fb33ab341d0fca3ec6.jpg",
-  "assets/products/shop/52a294765216f191e739.jpg",
-  "assets/products/shop/97ab679d1c8b8dbb9d47.jpg"
+  "assets/products/shop/52a294765216f191e739.jpg"
  ],
  "draft": false,
  "fam": "vestido-capucha-estampado",
@@ -28,9 +41,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Capucha Estampado Dress",
- "name_es": "Vestido Daz Capucha Estampado",
+ "name_en": "Velvet Hooded Dress",
+ "name_es": "Vestido con capucha de terciopelo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1282,
@@ -38,8 +52,66 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest Width"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Ancho de Pecho"
+  ],
+  "notes_en": "",
+  "notes_es": "",
+  "rows": [
+   [
+    "XS",
+    "80cm (31.5\")",
+    "47.5cm (18.7\")"
+   ],
+   [
+    "S",
+    "82cm (32.3\")",
+    "50cm (19.7\")"
+   ],
+   [
+    "M",
+    "84cm (33.1\")",
+    "52.5cm (20.7\")"
+   ],
+   [
+    "L",
+    "86cm (33.9\")",
+    "55cm (21.7\")"
+   ],
+   [
+    "XL",
+    "88cm (34.6\")",
+    "57.5cm (22.6\")"
+   ],
+   [
+    "2XL",
+    "90cm (35.4\")",
+    "60cm (23.6\")"
+   ],
+   [
+    "3XL",
+    "92cm (36.2\")",
+    "62.5cm (24.6\")"
+   ],
+   [
+    "4XL",
+    "94cm (37.0\")",
+    "65cm (25.6\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/97ab679d1c8b8dbb9d47.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

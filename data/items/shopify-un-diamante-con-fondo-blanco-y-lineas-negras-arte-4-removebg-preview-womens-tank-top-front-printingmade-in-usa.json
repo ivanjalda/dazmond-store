@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "35% Algodón, 65% Poliéster",
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "High-end editorial lifestyle imagery elevates the garment, though standard mockups reduce overall consistency.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,16 @@
  "cg": "t-camiseta-sin-mangas-dazmond-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential silhouette defined by clean lines and exceptional tactile softness. This refined piece combines a lightweight feel with a modern and confident presence. The graphic print introduces a sophisticated contrast that elevates individuality without sacrificing restraint. Designed for effortless versatility and comfort in any urban setting. Each piece is crafted exclusively on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta esencial definida por líneas limpias y una suavidad táctil excepcional. Esta pieza de corte depurado combina un tacto ligero con una presencia moderna y decidida. El estampado gráfico aporta un contraste sofisticado que realza la individualidad sin renunciar a la sobriedad. Diseñada para ofrecer versatilidad y confort en cualquier entorno urbano. Cada pieza se confecciona exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· Crafted from 35% cotton and 65% polyester\n· Durable fabric with a soft touch\n· Regional graphic print\n· Made in USA\n· Made-to-order exclusive piece with worldwide shipping",
+ "details_es": "· Confección 35 % algodón y 65 % poliéster\n· Tejido resistente y suave al tacto\n· Estampado gráfico regional\n· Fabricado en EEUU\n· Pieza exclusiva bajo demanda con envío mundial",
  "display_images": [
-  "assets/products/shop/9d9fe108bd947b021fae.jpg",
-  "assets/products/shop/8b5d07cbf26278a089a7.jpg",
   "assets/products/shop/5fe216bfb8f12dd6c318.jpg",
   "assets/products/shop/e7d95efa1d2f782a20e5.jpg",
   "assets/products/shop/80cbdb2a44f862c803d0.jpg",
   "assets/products/shop/9a01e97cb5752ed08e96.jpg",
-  "assets/products/shop/164a6424f7d068273fad.jpg",
-  "http://ipimg.interestprint.com/data/product/4153/info/image/20250120/1A9F511C9B58EA9780BF39A211B3CDCA.png"
+  "assets/products/shop/164a6424f7d068273fad.jpg"
  ],
  "draft": false,
  "fam": "camiseta-sin-mangas",
@@ -31,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Sin Mangas Tee",
- "name_es": "Camiseta Sin Mangas",
+ "name_en": "Graphic Tank Top",
+ "name_es": "Camiseta Sin Mangas Gráfica",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 23.99,
  "rank": 1269,
@@ -41,8 +53,56 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas sin mangas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD (A)",
+   "ANCHURA DE PECHO (B)"
+  ],
+  "notes_en": "Consult the size chart before purchasing.",
+  "notes_es": "Consulte la tabla de tallas antes de comprar.",
+  "rows": [
+   [
+    "XS",
+    "27.25",
+    "17.00"
+   ],
+   [
+    "S",
+    "28.25",
+    "18.00"
+   ],
+   [
+    "M",
+    "29.25",
+    "20.00"
+   ],
+   [
+    "L",
+    "30.25",
+    "21.00"
+   ],
+   [
+    "XL",
+    "31.25",
+    "23.00"
+   ],
+   [
+    "2XL",
+    "32.25",
+    "24.00"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/4153/info/image/20250120/1A9F511C9B58EA9780BF39A211B3CDCA.png"
+ ],
  "sizes": [
   "XS",
   "S",

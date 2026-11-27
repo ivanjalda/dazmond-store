@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Clear",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% High-Quality Transparent Glass",
+ "ai_type": "Shot Glass",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lighting and atmospheric composition elevate the glassware into a luxury object.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-shot-of-spirit-glass",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An expression of refinement for your home. This shot glass blends functionality and design into a premium glassware piece. Its solid base provides stability and weight, elevating every toast. Crafted to order to ensure absolute exclusivity.",
+ "desc_es": "Una expresión de refinamiento para su hogar. Este vaso de chupito combina funcionalidad y diseño en una pieza de alta cristalería. Su base sólida aporta estabilidad y peso, elevando cada brindis. Fabricado bajo demanda para garantizar exclusividad absoluta.",
+ "details_en": "· 100% High-quality transparent restaurant-grade glass\n· Solid heavy glass base for maximum stability\n· Standard capacity of 1.5 oz (44.3 ml)\n· Crisp detailed print on crystalline surface\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Vidrio transparente de alta calidad apto para uso en restaurantes\n· Fondo de vidrio pesado para máxima estabilidad\n· Capacidad estándar de 1.5 oz (44.3 ml)\n· Impresión nítida sobre superficie cristalina\n· Pieza fabricada bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/b569f16731b2ee485080.jpg",
   "assets/products/shop/09532bc2da3c4c11e2ed.jpg",
@@ -24,9 +38,10 @@
   "printify-6b08d1dfedc552ae3508a8e1"
  ],
  "material": "",
- "name_en": "Shot Spirit Glass Shot Glass",
- "name_es": "Vaso de Chupito Shot Spirit Glass",
+ "name_en": "Shot of Spirit Glass",
+ "name_es": "Vaso de Chupito Shot of Spirit",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 22.99,
  "rank": 1270,

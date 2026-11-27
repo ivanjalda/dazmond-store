@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/pantalones-cortos"
+ ],
+ "ai_color": "black and white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "90% premium polyester",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Standard template mockups lacking high-end editorial lighting and styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,17 @@
  "cg": "t-shorts-casuales-daz-luxury-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Designed for fluid movement and refined leisure. These shorts combine a versatile silhouette with high-performance technical details. Crafted from premium technical fabric, they offer an immaculate drape and superior adaptability. Ideal for the beach, training, or daily wear. Each piece is made to order in our workshops with worldwide shipping available.",
+ "desc_es": "Diseñados para el movimiento fluido y el descanso refinado. Estos shorts combinan una silueta versátil con detalles técnicos de alto rendimiento. Confeccionados con un tejido técnico de primera calidad, ofrecen una caída impecable y una adaptabilidad superior. Ideales para la playa, el entrenamiento o la vida diaria. Cada pieza se confecciona bajo pedido en nuestros talleres y cuenta con envío mundial.",
+ "details_en": "· 90% premium polyester fabric\n· Adjustable drawstring waist closure for a regular fit\n· Non-stretch body with hand pockets\n· Suitable for water and trail performance\n· Unlined with two-way stretch\n· Machine washable, tumble dry, or professional dry clean\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 90% tejido de poliéster de primera calidad\n· Cierre de cintura con cordón ajustable para un ajuste regular\n· Sin elasticidad y con bolsillo para las manos\n· Apto para rendimiento en el agua y en senderos\n· Sin forro y con elasticidad bidireccional\n· Lavable a máquina, apto para secadora o limpieza en seco profesional\n· Confeccionado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/298fc53142749038793d.jpg",
   "assets/products/shop/a41a5bf957bad6854096.jpg",
   "assets/products/shop/96283d32c6d2a7ec8747.jpg",
   "assets/products/shop/c96dd8c6302b989ad3b0.jpg",
   "assets/products/shop/a20dfdb696e4b7af8d92.jpg",
-  "assets/products/shop/80089986b8abf1757ed1.jpg",
-  "assets/products/shop/8ccbd3f55b9f6b96dafc.jpg"
+  "assets/products/shop/80089986b8abf1757ed1.jpg"
  ],
  "draft": false,
  "fam": "shorts-casuales-luxury",
@@ -30,9 +43,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Casuales Daz Shorts",
- "name_es": "Bermuda Casuales Daz",
+ "name_en": "Damasco Casual Shorts",
+ "name_es": "Shorts Casuales Damasco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1296,
@@ -40,8 +54,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones cortos > Pantalones cortos para correr",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Leg"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Pierna"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "26cm(10.2 inch)",
+    "60-67cm (25.5-26 inch)",
+    "30cm(11.8 inch)"
+   ],
+   [
+    "S",
+    "28cm(11 inch)",
+    "67-74cm (26-29 inch)",
+    "31cm(12.2 inch)"
+   ],
+   [
+    "M",
+    "30cm(11.8 inch)",
+    "74-81cm (29-31.5 inch)",
+    "32cm(12.6 inch)"
+   ],
+   [
+    "L",
+    "32cm(12.6 inch)",
+    "81-88 cm (31.5-34.5 inch)",
+    "33cm(13 inch)"
+   ],
+   [
+    "XL",
+    "34cm(13.4 inch)",
+    "88-98cm (34.5-38.5 inch)",
+    "34cm(13.4 inch)"
+   ],
+   [
+    "2XL",
+    "36cm(14.2 inch)",
+    "98-108cm (38.5-42.5 inch)",
+    "36cm(14.2 inch)"
+   ],
+   [
+    "3XL",
+    "38cm(15 inch)",
+    "108-118cm (42.5-46.5 inch)",
+    "38cm(15 inch)"
+   ],
+   [
+    "4XL",
+    "40cm(15.7 inch)",
+    "118-128cm (46.5-50.5 inch)",
+    "40cm(15.7 inch)"
+   ]
+  ],
+  "unit": "cm / inch"
+ },
+ "size_guide": [
+  "assets/products/shop/8ccbd3f55b9f6b96dafc.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

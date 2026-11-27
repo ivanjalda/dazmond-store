@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Dress",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on flat digital compositing and standard supplier mockups, failing to meet luxury e-commerce standards.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette defines this short sleeve tube dress. The off-shoulder design delivers a restrained and elegant presence. Crafted from polyester fabric, it offers a clean, form-fitting line that subtly enhances the silhouette. An essential piece for formal occasions and exclusive evenings. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una silueta depurada define este vestido tubo de manga corta. El diseño con hombros descubiertos aporta una presencia sobria y elegante. Confeccionado en tejido de poliéster, ofrece una línea limpia y ajustada que realza la figura con sutileza. Una pieza esencial para ocasiones formales y veladas exclusivas. Cada prenda se elabora bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Composition: 100% polyester\n· Off-shoulder design\n· Short sleeves\n· Form-fitting tube style\n· Machine washable in cold water, gentle cycle, mild detergent\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Composición: 100% poliéster\n· Diseño de hombros descubiertos\n· Manga corta\n· Estilo tubo ajustado\n· Lavable a máquina con agua fría, ciclo suave y detergente suave\n· Hecho bajo pedido\n· Envío disponible a todo el mundo",
  "display_images": [
   "assets/products/shop/a87c72126d145b09d336.jpg",
   "assets/products/shop/78d3d00cd9f624aa80ad.jpg",
@@ -16,8 +30,7 @@
   "assets/products/shop/5ba5cb787ea5016f78a7.jpg",
   "assets/products/shop/1d2b2efc88f402a0f2b1.jpg",
   "assets/products/shop/a0eec8d41f8752ad9506.jpg",
-  "assets/products/shop/821a9b7c483e445f9331.jpg",
-  "assets/products/shop/0774e7240232a4e622a9.jpg"
+  "assets/products/shop/821a9b7c483e445f9331.jpg"
  ],
  "draft": false,
  "fam": "vestido-cruzado-elegante",
@@ -31,9 +44,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Cruzado Elegante Daz Dress",
- "name_es": "Vestido Cruzado Elegante Daz",
+ "name_en": "Off Shoulder Tube Dress",
+ "name_es": "Vestido Tubo Hombros Descubiertos",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 23.99,
  "rank": 1298,
@@ -41,8 +55,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Waist",
+   "Hip",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Cintura",
+   "Cadera",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "83cm (32.7\")",
+    "74cm (29.1\")",
+    "93cm (36.6\")",
+    "114cm (44.9\")"
+   ],
+   [
+    "M",
+    "88cm (34.7\")",
+    "79cm (31.1\")",
+    "98cm (38.6\")",
+    "116cm (45.7\")"
+   ],
+   [
+    "L",
+    "93cm (36.6\")",
+    "84cm (33.1\")",
+    "103cm (40.6\")",
+    "118cm (46.5)"
+   ],
+   [
+    "XL",
+    "98cm (38.6\")",
+    "89cm (35\")",
+    "108cm (42.5\")",
+    "120cm (47.2\")"
+   ],
+   [
+    "2XL",
+    "103cm (40.6\")",
+    "94cm (37\")",
+    "113cm (44.5\")",
+    "122cm (48\")"
+   ],
+   [
+    "3XL",
+    "108cm (42.5\")",
+    "99cm (39\")",
+    "118cm (46.5\")",
+    "124cm (48.8\")"
+   ],
+   [
+    "4XL",
+    "113cm (44.5\")",
+    "104cm (40.9\")",
+    "123cm (48.4\")",
+    "126cm (49.6\")"
+   ],
+   [
+    "5XL",
+    "118cm (46.5\")",
+    "109cm (42.9\")",
+    "128cm (50.4\")",
+    "128cm (50.4\")"
+   ],
+   [
+    "6xl",
+    "123cm (48.4\")",
+    "114cm (44.9\")",
+    "133cm (52.4\")",
+    "130cm (51.2\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/0774e7240232a4e622a9.jpg"
+ ],
  "sizes": [
   "S",
   "M",

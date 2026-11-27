@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Black and White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Poliéster de alta densidad y elastano",
+ "ai_type": "Dress",
+ "ai_ver": 2,
+ "art_note": "Clean lifestyle photography with consistent studio styling, though features AI-generated model consistency.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-second-skin-stripe-hearts-long-sleeve-dress",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A statement of intent and technical elegance. This long sleeve dress fuses a classic contrast stripe pattern with a subtle constellation of small golden hearts. Its urban haute couture design redefines the feminine silhouette with absolute comfort. Crafted for the woman who commands both the corporate sphere and personal wellness. Made to order piece with worldwide shipping available.",
+ "desc_es": "Una declaración de intención y elegancia técnica. Este vestido de manga larga fusiona un patrón clásico de rayas en contraste con un sutil constelado de pequeños corazones dorados. Su diseño de alta costura urbana redefine la silueta femenina con un confort absoluto. Confeccionado para la mujer que domina tanto el entorno corporativo como su bienestar personal. Pieza disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 88% polyester, 12% spandex\n· Second skin slim fit\n· Crew neckline and long sleeves\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 88% poliéster, 12% elastano\n· Corte ajustado de segunda piel\n· Cuello redondo y manga larga\n· Fabricado bajo pedido\n· Disponible con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/116fcc83c69e37886056.jpg",
   "assets/products/shop/cd9bb0f527335cd2963d.jpg",
@@ -29,9 +43,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Second Skin Stripe Dress",
- "name_es": "Vestido Second Skin Stripe",
+ "name_en": "Second Skin Stripe Long Dress",
+ "name_es": "Vestido Largo Rayas Segunda Piel",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1293,

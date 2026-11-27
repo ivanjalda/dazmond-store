@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Brushed polyester",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but model photography looks digitally composited.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,13 @@
  "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A fluid silhouette designed for the transitional season. This long dress combines the relaxed comfort of a hooded garment with an commanding presence. Crafted from a brushed fabric that offers softness and warmth. The long sleeves and enveloping design deliver a refined profile. Available through custom made-to-order pieces with worldwide shipping.",
+ "desc_es": "Una silueta fluida diseñada para la temporada de transición. Este vestido largo combina la comodidad de una prenda con capucha con una presencia imponente. Confeccionado con un tejido cepillado que aporta suavidad y calidez. Las mangas largas y el diseño envolvente ofrecen un perfil depurado. Disponible mediante pedidos personalizados con envíos a todo el mundo.",
+ "details_en": "· Interwoven brushed polyester fabric\n· Hooded style with long sleeves\n· Knee-covering length\n· Machine washable in cold water, gentle cycle and mild detergent\n· Made to order with worldwide shipping",
+ "details_es": "· Tejido de poliéster cepillado entretejido\n· Estilo con capucha y manga larga\n· Largo que cubre la rodilla\n· Lavable a máquina con agua fría, ciclo suave y detergente suave\n· Hecho bajo pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/57c837f2c09a7b33c260.jpg",
-  "assets/products/shop/cb8629f97053041b1825.jpg",
-  "assets/products/shop/6651b360e5a9e027d2f7.jpg",
-  "assets/products/shop/b25d9d7a42d565ebe063.jpg",
-  "assets/products/shop/a4c421583a94118b808e.jpg",
-  "assets/products/shop/3cbae33fc13e0c793d88.jpg"
+  "assets/products/shop/a4c421583a94118b808e.jpg"
  ],
  "draft": false,
  "fam": "vestido-capucha-largo",
@@ -29,9 +39,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Capucha Largo Dress",
- "name_es": "Vestido Daz Capucha Largo",
+ "name_en": "Long Hooded Dress",
+ "name_es": "Vestido Largo Con Capucha",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
  "rank": 1275,
@@ -39,8 +50,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Chest",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Pecho",
+   "Manga"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "132cm(52.0\")",
+    "51cm(20.1\")",
+    "57.5cm(22.6\")"
+   ],
+   [
+    "M",
+    "135cm(53.1\")",
+    "53cm(20.9\")",
+    "59cm(23.2\")"
+   ],
+   [
+    "L",
+    "138cm(54.3\")",
+    "55cm(21.7\")",
+    "60.5cm(23.8\")"
+   ],
+   [
+    "XL",
+    "141cm(55.5\")",
+    "57cm(22.4\")",
+    "62cm(24.4\")"
+   ],
+   [
+    "2XL",
+    "144cm(56.7\")",
+    "59cm(23.2\")",
+    "63.5cm(25\")"
+   ],
+   [
+    "3XL",
+    "147cm(57.9\")",
+    "61cm(24.0\")",
+    "65cm(25.6\")"
+   ],
+   [
+    "4XL",
+    "150cm(59.1\")",
+    "63cm(24.8\")",
+    "66.5cm(26.2\")"
+   ],
+   [
+    "5XL",
+    "153cm(60.2\")",
+    "65cm(25.6\")",
+    "68cm(26.8\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/3cbae33fc13e0c793d88.jpg"
+ ],
  "sizes": [
   "S",
   "M",
