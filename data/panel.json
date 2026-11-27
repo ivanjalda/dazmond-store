@@ -1,7 +1,7 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-27 14:42 UTC",
+  "updated": "2026-11-27 15:04 UTC",
   "totals": {
     "catalogo": 2522,
     "a_la_vista": 2069,
@@ -13,7 +13,7 @@
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
-    "visitas_30_dias": 2174,
+    "visitas_30_dias": 2181,
     "fotos_de_campana": 0
   },
   "reasons": {
@@ -4519,17 +4519,14 @@
     "Productos en catálogo: 2522 · a la vista: 2072 · archivados: 101",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
-    "Firebase: visitas leídas de 2153 piezas",
+    "Firebase: visitas leídas de 2160 piezas",
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con shopify-bolso-de-hombro-daz-luxury-para-mujer-con-decoracion-de-cadena: gemini-flash-latest: The read operation timed out",
-    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 4 productos revisados (fotos, guía de tallas y textos) · quedan 777",
-    "⏱ revisión con IA: 325 s",
+    "⏱ revisión con IA: 0 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
-    "Cambio actualizado: 1 USD = 0.9112 EUR",
+    "Cambio actualizado: 1 USD = 0.9127 EUR",
     "Listo."
   ]
 }

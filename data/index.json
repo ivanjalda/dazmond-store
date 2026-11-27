@@ -183,68 +183,6 @@
       "img": "https://files.cdn.printful.com/files/30c/30cc2d9ff5a8e1a75f4f9dcc11e1e3ee_preview.png"
     },
     {
-      "id": "printify-6b06674fd3c2aadbe1007e0e",
-      "name_es": "Bata Estilo Kimono Art",
-      "name_en": "Art Kimono Style Robe",
-      "price_usd": 56.99,
-      "badge": "new",
-      "categories": [
-        "mujer/batas-pijamas"
-      ],
-      "available": true,
-      "rank": 10,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "6b06674fd3c2aadbe1007e0e",
-      "fam": "bata-tipo-kimono",
-      "cg": "printify-6b06674fd3c2aadbe1007e0e",
-      "color": "White",
-      "art_score": 5,
-      "img": "https://images-api.printify.com/mockup/6b06674fd3c2aadbe1007e0e/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b0667526db425f6b50b967a-black",
-      "name_es": "Bata Kimono Art · Negro",
-      "name_en": "Art Kimono Robe · Black",
-      "price_usd": 56.99,
-      "badge": "new",
-      "categories": [
-        "hombre/albornoz-pijama",
-        "mujer/batas-pijamas"
-      ],
-      "available": true,
-      "rank": 11,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "6b0667526db425f6b50b967a-black",
-      "fam": "bata-tipo-kimono",
-      "cg": "printify-6b0667526db425f6b50b967a",
-      "color": "Black",
-      "art_score": 3,
-      "img": "https://images-api.printify.com/mockup/6b0667526db425f6b50b967a/77571/35870/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-front-2"
-    },
-    {
-      "id": "printify-6b08d1d6c87e8df47b094892",
-      "name_es": "Sudadera D Monogram",
-      "name_en": "D Monogram Hoodie",
-      "price_usd": 46.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 12,
-      "created": "2026-11-27",
-      "page": true,
-      "supplier_id": "6b08d1d6c87e8df47b094892",
-      "fam": "d-monogram-hoodie",
-      "cg": "printify-6b08d1d6c87e8df47b094892",
-      "color": "Black",
-      "art_score": 7,
-      "img": "https://images-api.printify.com/mockup/6b08d1d6c87e8df47b094892/32920/98424/d-monogram-hoodie.jpg?camera_label=front"
-    },
-    {
       "id": "printify-6b08d1e755d595d88e0a365f",
       "name_es": "Sudadera con capucha House Seal II",
       "name_en": "House Seal II Hoodie",
@@ -255,7 +193,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 13,
+      "rank": 10,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1e755d595d88e0a365f",
@@ -276,7 +214,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 14,
+      "rank": 11,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1fb08b8102972074efc",
@@ -287,64 +225,66 @@
       "img": "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/98424/signature-logo-hoodie.jpg?camera_label=front"
     },
     {
-      "id": "printify-6b066740eca3203e09098ed4",
-      "name_es": "Conjunto de Pijama Estelar",
-      "name_en": "Stellar Pajama Set",
-      "price_usd": 48.99,
+      "id": "printify-6b06674fd3c2aadbe1007e0e",
+      "name_es": "Bata Estilo Kimono Art",
+      "name_en": "Art Kimono Style Robe",
+      "price_usd": 56.99,
       "badge": "new",
       "categories": [
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 15,
+      "rank": 12,
       "created": "2026-11-25",
       "page": true,
-      "supplier_id": "6b066740eca3203e09098ed4",
-      "fam": "conjunto-pijama-corto",
-      "cg": "printify-6b066740eca3203e09098ed4",
+      "supplier_id": "6b06674fd3c2aadbe1007e0e",
+      "fam": "bata-tipo-kimono",
+      "cg": "printify-6b06674fd3c2aadbe1007e0e",
       "color": "White",
       "art_score": 5,
-      "img": "https://images-api.printify.com/mockup/6b066740eca3203e09098ed4/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front"
+      "img": "https://images-api.printify.com/mockup/6b06674fd3c2aadbe1007e0e/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
     },
     {
-      "id": "printify-6b066744255f2587670ee018",
-      "name_es": "Conjunto Pijama Corto DAZ Art",
-      "name_en": "DAZ Art Short Pajama Set",
-      "price_usd": 48.99,
+      "id": "printify-6b0667526db425f6b50b967a-black",
+      "name_es": "Bata Kimono Art · Negro",
+      "name_en": "Art Kimono Robe · Black",
+      "price_usd": 56.99,
       "badge": "new",
       "categories": [
+        "hombre/albornoz-pijama",
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 16,
+      "rank": 13,
       "created": "2026-11-25",
       "page": true,
-      "supplier_id": "6b066744255f2587670ee018",
-      "fam": "conjunto-pijama-corto",
-      "cg": "printify-6b066744255f2587670ee018",
-      "color": "White",
+      "supplier_id": "6b0667526db425f6b50b967a-black",
+      "fam": "bata-tipo-kimono",
+      "cg": "printify-6b0667526db425f6b50b967a",
+      "color": "Black",
       "art_score": 3,
-      "img": "https://images-api.printify.com/mockup/6b066744255f2587670ee018/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front"
+      "img": "https://images-api.printify.com/mockup/6b0667526db425f6b50b967a/77571/35870/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-front-2"
     },
     {
-      "id": "printify-6b08d1dfedc552ae3508a8e1",
-      "name_es": "Taza Monogram D",
-      "name_en": "D Monogram Mug",
-      "price_usd": 51.99,
+      "id": "printify-6b08d1d6c87e8df47b094892",
+      "name_es": "Sudadera D Monogram",
+      "name_en": "D Monogram Hoodie",
+      "price_usd": 46.99,
       "badge": "new",
       "categories": [
-        "decor"
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 17,
+      "rank": 14,
       "created": "2026-11-27",
       "page": true,
-      "supplier_id": "6b08d1dfedc552ae3508a8e1",
-      "fam": "d-monogram-mug",
-      "cg": "printify-6b08d1dfedc552ae3508a8e1",
-      "color": "White and Gold",
-      "art_score": 6,
-      "img": "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62327/3387/d-monogram-mug.jpg?camera_label=front"
+      "supplier_id": "6b08d1d6c87e8df47b094892",
+      "fam": "d-monogram-hoodie",
+      "cg": "printify-6b08d1d6c87e8df47b094892",
+      "color": "Black",
+      "art_score": 7,
+      "img": "https://images-api.printify.com/mockup/6b08d1d6c87e8df47b094892/32920/98424/d-monogram-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08d1ecf7ed4c973b05978a",
@@ -356,7 +296,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 18,
+      "rank": 15,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1ecf7ed4c973b05978a",
@@ -377,7 +317,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 19,
+      "rank": 16,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1e9edc552ae3508a8f0",
@@ -398,7 +338,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 20,
+      "rank": 17,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1fe55d595d88e0a3681",
@@ -407,6 +347,46 @@
       "color": "Black",
       "art_score": 7,
       "img": "https://images-api.printify.com/mockup/6b08d1fe55d595d88e0a3681/25459/98502/signature-logo-crewneck.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b066740eca3203e09098ed4",
+      "name_es": "Conjunto de Pijama Estelar",
+      "name_en": "Stellar Pajama Set",
+      "price_usd": 48.99,
+      "badge": "new",
+      "categories": [
+        "mujer/batas-pijamas"
+      ],
+      "available": true,
+      "rank": 18,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "6b066740eca3203e09098ed4",
+      "fam": "conjunto-pijama-corto",
+      "cg": "printify-6b066740eca3203e09098ed4",
+      "color": "White",
+      "art_score": 5,
+      "img": "https://images-api.printify.com/mockup/6b066740eca3203e09098ed4/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b066744255f2587670ee018",
+      "name_es": "Conjunto Pijama Corto DAZ Art",
+      "name_en": "DAZ Art Short Pajama Set",
+      "price_usd": 48.99,
+      "badge": "new",
+      "categories": [
+        "mujer/batas-pijamas"
+      ],
+      "available": true,
+      "rank": 19,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "6b066744255f2587670ee018",
+      "fam": "conjunto-pijama-corto",
+      "cg": "printify-6b066744255f2587670ee018",
+      "color": "White",
+      "art_score": 3,
+      "img": "https://images-api.printify.com/mockup/6b066744255f2587670ee018/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08d1f7c87e8df47b0948ca",
@@ -419,7 +399,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 21,
+      "rank": 20,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1f7c87e8df47b0948ca",
@@ -428,6 +408,47 @@
       "color": "Black",
       "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b08d1f7c87e8df47b0948ca/18102/102044/signature-logo-jersey-tee.jpg?camera_label=front-2"
+    },
+    {
+      "id": "printify-6b08d1dfedc552ae3508a8e1",
+      "name_es": "Taza Monogram D",
+      "name_en": "D Monogram Mug",
+      "price_usd": 51.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 21,
+      "created": "2026-11-27",
+      "page": true,
+      "supplier_id": "6b08d1dfedc552ae3508a8e1",
+      "fam": "d-monogram-mug",
+      "cg": "printify-6b08d1dfedc552ae3508a8e1",
+      "color": "White and Gold",
+      "art_score": 6,
+      "img": "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62327/3387/d-monogram-mug.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b08d1f4c87e8df47b0948c2",
+      "name_es": "Camiseta Signature Logo Black",
+      "name_en": "Signature Logo Tee Black",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 22,
+      "created": "2026-11-27",
+      "page": true,
+      "supplier_id": "6b08d1f4c87e8df47b0948c2",
+      "fam": "signature-logo-tee",
+      "cg": "printify-6b08d1f4c87e8df47b0948c2",
+      "color": "Black",
+      "art_score": 6,
+      "img": "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/102005/signature-logo-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b08d1d908b8102972074ebe",
@@ -439,7 +460,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 22,
+      "rank": 23,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1d908b8102972074ebe",
@@ -460,7 +481,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 23,
+      "rank": 24,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1e4d4c50971c203623a",
@@ -469,27 +490,6 @@
       "color": "Black",
       "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b08d1e4d4c50971c203623a/12124/102005/house-seal-ii-tee.jpg?camera_label=front-2"
-    },
-    {
-      "id": "printify-6b08d1f4c87e8df47b0948c2",
-      "name_es": "Camiseta Signature Logo Black",
-      "name_en": "Signature Logo Tee Black",
-      "price_usd": 28.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta",
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 24,
-      "created": "2026-11-27",
-      "page": true,
-      "supplier_id": "6b08d1f4c87e8df47b0948c2",
-      "fam": "signature-logo-tee",
-      "cg": "printify-6b08d1f4c87e8df47b0948c2",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/102005/signature-logo-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b08d1dcedc552ae3508a8dd-black",
@@ -3377,6 +3377,26 @@
       "cg": "printful-337184187",
       "color": "Faded Black",
       "img": "https://files.cdn.printful.com/files/e12/e12392b3245ae4b0fbd18a359884670d_preview.png"
+    },
+    {
+      "id": "printful-337184187-faded-eucalyptus",
+      "name_es": "Camiseta Oversize Timeless Essence · Faded Eucalyptus",
+      "name_en": "Timeless Essence Oversize Tee · Faded Eucalyptus",
+      "price_usd": 50.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 167,
+      "created": "2026-11-22",
+      "page": true,
+      "supplier_id": "337184187-faded-eucalyptus",
+      "fam": "timeless-essence-oversize",
+      "cg": "printful-337184187",
+      "color": "Faded Eucalyptus",
+      "img": "https://files.cdn.printful.com/files/489/489b19a33a5cf79419cbe29419df0c95_preview.png"
     },
     {
       "id": "printful-337647274-black",
@@ -17083,6 +17103,48 @@
       "color": "purple",
       "art_score": 5,
       "img": "assets/products/shop/6cfe7f3a8c72876741c6.jpg"
+    },
+    {
+      "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
+      "name_es": "Corbata Estrecha Negra · Negro",
+      "name_en": "Black Slim Necktie · Black",
+      "price_usd": 19.99,
+      "badge": "new",
+      "categories": [
+        "hombre/gorro-bufanda",
+        "mujer/gorros-bufandas"
+      ],
+      "available": true,
+      "rank": 847,
+      "created": "2026-11-19",
+      "page": true,
+      "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral",
+      "fam": "corbata-tipo-bandana",
+      "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Black",
+      "art_score": 8,
+      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986153-3-YbEBxMHCm1.jpg?v=1725986360"
+    },
+    {
+      "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-1",
+      "name_es": "Corbata Estrecha Negra · Black And White",
+      "name_en": "Black Slim Necktie · Black And White",
+      "price_usd": 19.99,
+      "badge": "new",
+      "categories": [
+        "hombre/gorro-bufanda",
+        "mujer/gorros-bufandas"
+      ],
+      "available": true,
+      "rank": 848,
+      "created": "2026-11-19",
+      "page": true,
+      "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-1",
+      "fam": "corbata-tipo-bandana",
+      "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
+      "color": "Black and White",
+      "art_score": 7,
+      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986614-3-Nq8tpuTHrs.jpg?v=1725986741"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-10",
@@ -33084,8 +33146,8 @@
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-6",
-      "name_es": "Conjunto Camisa y Short Hawaiano",
-      "name_en": "Hawaiian Shirt and Shorts Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano · Negro Con Estampado Floral Rojo",
+      "name_en": "Hawaiian Shirt and Shorts Set · Negro Con Estampado Floral Rojo",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33098,13 +33160,14 @@
       "supplier_id": "conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-6",
       "fam": "conjunto-camisa-pantalones",
       "cg": "t-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta",
+      "color": "Negro con estampado floral rojo",
       "art_score": 3,
       "img": "assets/products/shop/0895f4ea36dcbea40fb9.jpg"
     },
     {
       "id": "shopify-cracked-white-grunge-brick-wall-background-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
-      "name_es": "Vestido de pijama con encaje",
-      "name_en": "Lace Trim Sleep Dress",
+      "name_es": "Vestido de pijama con encaje · White And Black",
+      "name_en": "Lace Trim Sleep Dress · White And Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33117,13 +33180,14 @@
       "supplier_id": "cracked-white-grunge-brick-wall-background-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
       "fam": "vestido-pijama-luxury",
       "cg": "t-vestido-de-pijama-daz-luxury-de-tirantes-finos-con-escote-pronunciado-y",
+      "color": "White and Black",
       "art_score": 7,
       "img": "assets/products/shop/4b066e111b9b03e4cd22.jpg"
     },
     {
       "id": "shopify-doodle-rose-flower-cats-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
-      "name_es": "Vestido de pijama con encaje",
-      "name_en": "Lace Trim Sleep Dress",
+      "name_es": "Vestido de pijama con encaje · Blanco",
+      "name_en": "Lace Trim Sleep Dress · White",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33136,13 +33200,14 @@
       "supplier_id": "doodle-rose-flower-cats-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
       "fam": "vestido-pijama-luxury",
       "cg": "t-vestido-de-pijama-daz-luxury-de-tirantes-finos-con-escote-pronunciado-y",
+      "color": "white",
       "art_score": 5,
       "img": "assets/products/shop/ea31bdded5f487a5fbc2.jpg"
     },
     {
       "id": "shopify-leopard-pattern-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
-      "name_es": "Vestido de pijama con encaje",
-      "name_en": "Lace Trim Sleep Dress",
+      "name_es": "Vestido de pijama con encaje · Leopard Print And Black",
+      "name_en": "Lace Trim Sleep Dress · Leopard Print And Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33155,6 +33220,7 @@
       "supplier_id": "leopard-pattern-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
       "fam": "vestido-pijama-luxury",
       "cg": "t-vestido-de-pijama-daz-luxury-de-tirantes-finos-con-escote-pronunciado-y",
+      "color": "leopard print and black",
       "art_score": 4,
       "img": "assets/products/shop/ef6c1c78a26303332d8d.jpg"
     },
