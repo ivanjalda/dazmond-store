@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Blanco, Verde, Marrón",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Cuero de PU",
+ "ai_type": "Bolso de hombro",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation with clear product details, though standard e-commerce background lacks high-end editorial mood.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-bolso-de-hombro-daz-luxury-para-mujer-con-decoracion-de-cadena",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your daily collection with this sophisticated shoulder bag crafted from high-grade PU leather. The piece features a striking all-over print with botanical details and elegant gold-tone chain embellishments that provide distinction. Designed for versatility, it includes an adjustable and removable shoulder strap alongside a secure zip closure to protect your essentials. A structured rectangular silhouette blending refined functionality and timeless style for the contemporary woman.",
+ "desc_es": "Eleve su colección diaria con este sofisticado bolso de hombro confeccionado en cuero de PU de alta calidad. La pieza presenta un llamativo estampado completo con detalles botánicos y elegantes adornos de cadena en tono dorado que aportan distinción. Diseñado para ofrecer versatilidad, incluye una correa de hombro ajustable y extraíble, además de un cierre de cremallera seguro para proteger sus elementos esenciales. Una silueta rectangular estructurada que combina funcionalidad refinada y estilo atemporal para la mujer contemporánea.",
+ "details_en": "· High-grade PU leather\n· Elegant gold-tone chain decoration\n· Adjustable and removable shoulder strap\n· Secure zip closure\n· Rectangular base\n· Regular cleaning with a dry cloth and air drying recommended\n· Made to order with worldwide shipping",
+ "details_es": "· Cuero de PU de alta calidad\n· Elegante decoración de cadena en tono dorado\n· Correa de hombro ajustable y extraíble\n· Cierre de cremallera seguro\n· Base rectangular\n· Se recomienda limpieza regular con paño seco y secado al aire\n· Hecho bajo pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/482bdbf9cf8cedeed8af.jpg",
   "assets/products/shop/0e1b9bb83bfff13c4f2e.jpg",
@@ -32,6 +46,7 @@
  "name_en": "DAZ Floral Shoulder Bag",
  "name_es": "Bolso de Hombro Floral DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
  "rank": 1653,
