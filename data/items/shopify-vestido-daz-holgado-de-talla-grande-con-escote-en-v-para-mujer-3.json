@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "teal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester",
+ "ai_sizes": "one size fits all",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on flat digital composites and marketplace-style feature callouts, detracting from the desired luxury aesthetic.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Designed with a fluid and relaxed silhouette, this dress features a V-neckline and batwing sleeves. The design incorporates an intricate print with architectural and ornamental influences in vibrant tones. Crafted for ease, this garment drapes lightly over the silhouette. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Diseñado con una silueta fluida y relajada, este vestido presenta un escote en V y mangas murciélago. El diseño incorpora un estampado complejo con influencias arquitectónicas y ornamentales en tonos vibrantes. Confeccionado para ofrecer comodidad, esta prenda se adapta con ligereza a la figura. Cada pieza se confecciona bajo pedido en nuestros talleres y cuenta con envío a todo el mundo.",
+ "details_en": "· Composition: polyester\n· V-neck\n· Batwing sleeve\n· Leg-length\n· Machine washable with cold water, gentle cycle\n· Made to order",
+ "details_es": "· Composición: poliéster\n· Escote en V\n· Manga de murciélago\n· Largo hasta las piernas\n· Lavable a máquina con agua fría, ciclo suave\n· Confeccionado bajo pedido",
  "display_images": [
   "assets/products/shop/223819218ab92ffa9562.jpg",
   "assets/products/shop/6b3f0cde6a813f79a835.jpg",
@@ -16,8 +31,7 @@
   "assets/products/shop/1c86da2e9fa512e540b6.jpg",
   "assets/products/shop/7815a19a64900ab60f40.jpg",
   "assets/products/shop/9cfa0879d499b8746393.jpg",
-  "assets/products/shop/36b3a88bea160afc7e09.jpg",
-  "assets/products/shop/8482f3fb830fc73bac61.jpg"
+  "assets/products/shop/36b3a88bea160afc7e09.jpg"
  ],
  "draft": false,
  "fam": "vestido-holgado-talla",
@@ -31,9 +45,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Holgado Talla Dress",
- "name_es": "Vestido Daz Holgado Talla",
+ "name_en": "Printed Loose Dress",
+ "name_es": "Vestido Holgado Estampado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1401,
@@ -41,9 +56,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Waist",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Cintura",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "one size fits all",
+    "95cm (37.4\")",
+    "95cm (37.4\")",
+    "89cm (35\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/8482f3fb830fc73bac61.jpg"
+ ],
+ "sizes": [
+  "one size fits all"
+ ],
  "source_title": "Vestido DAZ holgado de talla grande con escote en V para mujer",
  "stripe_payment_link": "https://buy.stripe.com/aFa00k1IMaCM0I636e1gP1P",
  "supplier": "Shopify",

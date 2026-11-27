@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Gris",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Tela técnica suave con tacto de algodón",
+ "ai_type": "Vestido Mini",
+ "ai_ver": 2,
+ "art_note": "High-end editorial campaign imagery featuring strong architectural staging and sophisticated lighting that reflects luxury fashion house standards.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-mini-dazmond-long-sleeve-v-neck-ruffle-geometric-monogram",
  "color": "Gris",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Rooted in architectural geometry and avant-garde style, this DAZMOND mini dress defines contemporary sophistication. It showcases an intricate black and white linear pattern, enhanced by a flattering V-neckline, long sleeves, and a delicate ruffled hem. The design is completed with the signature monogram embroidered on the chest, offering a minimalist and refined aesthetic. Made to order with worldwide shipping.",
+ "desc_es": "Inspirado en la geometría arquitectónica y el estilo vanguardista, este mini vestido de la línea DAZMOND define la sofisticación contemporánea. Presenta un intrincado patrón lineal en blanco y negro, realzado por un favorecedor escote en V, mangas largas y un delicado bajo con volante. El diseño se completa con el característico monograma de la firma bordado en el pecho, ofreciendo una estética minimalista y refinada. Confeccionado bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Composition: Soft cotton-feel technical fabric (369 g / 13.02 oz).\n· All-over print with optimal line definition.\n· V-neckline and long sleeves.\n· Ruffled hem finish.\n· Made-to-order piece. Worldwide shipping available.",
+ "details_es": "· Composición: Tejido técnico suave con tacto de algodón (369 g / 13.02 oz).\n· Estampado integral con definición óptima de líneas.\n· Escote en V y manga larga.\n· Bajo acabado con volante.\n· Pieza confeccionada bajo demanda. Disponible envío a todo el mundo.",
  "display_images": [
   "assets/products/shop/e27a6cc79b5680155b2c.jpg",
   "assets/products/shop/787d0673630af511af95.jpg",
@@ -30,9 +44,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Ruffle Geometric Monogram Dress",
- "name_es": "Vestido Ruffle Geometric Monogram",
+ "name_en": "Geometric Monogram Mini Dress",
+ "name_es": "Vestido Mini Monograma Geométrico",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 23.99,
  "rank": 1415,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Cotton-feel fabric",
+ "ai_type": "Mini Dress",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce mockups with marketplace-style presentation and generic sizing tables.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,14 @@
  "cg": "t-design-women-s-long-sleeve-v-neck-ruffle-mini-dress",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A fluid silhouette defined by a contrasting celestial star motif. This long-sleeve mini dress features a flattering V-neckline and a delicate ruffle hem design that introduces subtle movement. Crafted from a soft cotton-feel fabric, it offers a lightweight and comfortable drape for any occasion. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una silueta fluida definida por un motivo celestial de estrellas contrastadas. Este vestido mini de manga larga presenta un favorecedor cuello en V y un delicado diseño de volantes en el dobladillo que aporta movimiento sutil. Confeccionado en un tejido suave de tacto algodonoso, ofrece una caída ligera y cómoda para cualquier ocasión. Cada pieza se confecciona bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Cotton-feel fabric\n· Long sleeves\n· V-neckline\n· Ruffle hem detail\n· Hand wash or machine wash\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Tejido de tacto algodonoso\n· Manga larga\n· Cuello en V\n· Detalle de volantes en el dobladillo\n· Lavado a mano o a máquina\n· Confeccionado bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/fcc998b21be01fab4ae0.jpg",
   "assets/products/shop/c63263a9658600d4fd3d.jpg",
-  "assets/products/shop/db09feb1ec839b3544a0.jpg",
-  "assets/products/shop/e7acf21021d366292de0.jpg",
-  "http://ipimg.interestprint.com/data/product/4665/info/image/20250908/7B8815480E0FCC329F35EAD5406387C2.jpg"
+  "assets/products/shop/db09feb1ec839b3544a0.jpg"
  ],
  "draft": false,
  "fam": "women-s-long",
@@ -28,9 +40,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Ruffle Dress · Blanco",
- "name_es": "Vestido Ruffle · Blanco",
+ "name_en": "Star Ruffle Mini Dress · Blanco",
+ "name_es": "Vestido Mini Estrellas Volantes · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 23.99,
  "rank": 1411,
@@ -38,8 +51,77 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "BUST(CM/IN)",
+   "LENGTH(CM/IN)",
+   "SLEEVE(CM/IN)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "PECHO(CM/IN)",
+   "LONGITUD(CM/IN)",
+   "MANGA(CM/IN)"
+  ],
+  "notes_en": "Calculate your size from the measurement chart above.",
+  "notes_es": "Calcule su talla a partir de la tabla de medidas superior.",
+  "rows": [
+   [
+    "S",
+    "97/38.19",
+    "86.3/33.98",
+    "52/20.47"
+   ],
+   [
+    "M",
+    "102/40.16",
+    "87.5/34.45",
+    "53/20.87"
+   ],
+   [
+    "L",
+    "107/42.13",
+    "88.7/34.92",
+    "54/21.26"
+   ],
+   [
+    "XL",
+    "112/44.09",
+    "89.9/35.39",
+    "55/21.65"
+   ],
+   [
+    "2XL",
+    "117/46.06",
+    "91.1/35.87",
+    "56/22.05"
+   ],
+   [
+    "3XL",
+    "122/48.03",
+    "92.3/36.34",
+    "57/22.44"
+   ],
+   [
+    "4XL",
+    "127/50.00",
+    "94.7/37.99",
+    "58/22.23"
+   ],
+   [
+    "5XL",
+    "132/51.97",
+    "96.5/37.28",
+    "59/23.83"
+   ]
+  ],
+  "unit": "CM/IN"
+ },
+ "size_guide": [
+  "assets/products/shop/e7acf21021d366292de0.jpg",
+  "http://ipimg.interestprint.com/data/product/4665/info/image/20250908/7B8815480E0FCC329F35EAD5406387C2.jpg"
+ ],
  "sizes": [
   "S",
   "M",

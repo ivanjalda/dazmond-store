@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "Verde",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Poliéster",
+ "ai_type": "Chaqueta Bomber",
+ "ai_ver": 2,
+ "art_note": "The images feature heavily composited, flat-looking digital mockups on a model, reducing luxury appeal.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,16 @@
  "cg": "t-chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your wardrobe with this impeccably tailored bomber jacket. Crafted from a premium polyester blend with an ultra-soft lining, it offers exceptional comfort without compromising style. The design incorporates classic ribbed detailing along the collar, cuffs, and hem, delivering a structured silhouette. Equipped with a zippered sleeve pocket and slanted hand pockets, it balances functionality with a refined aesthetic. A versatile piece designed to transition effortlessly between casual and formal occasions. Each piece is crafted to order with worldwide shipping.",
+ "desc_es": "Eleve su guardarropa con esta moderna chaqueta bomber de corte impecable. Confeccionada con una mezcla de poliéster de primera calidad y un forro ultra suave, ofrece una comodidad excepcional sin sacrificar el estilo. El diseño incorpora detalles acanalados clásicos en el cuello, los puños y la cintura, aportando una silueta estructurada. Equipada con un bolsillo con cremallera en la manga y bolsillos inclinados para las manos, combina funcionalidad y estética depurada. Una prenda versátil diseñada para la transición sin esfuerzo entre ocasiones formales e informales. Cada pieza se elabora bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Composition: premium polyester blend with polyester interior lining\n· Features: ribbed collar, cuffs, and waist\n· Pockets: 1 zippered sleeve pocket and 2 slanted hand pockets\n· Closure: full front zipper\n· Made to order and worldwide shipping",
+ "details_es": "· Composición: poliéster de primera calidad con forro interior de poliéster\n· Características: cuello, puños y cintura acanalados\n· Bolsillos: 1 bolsillo con cremallera en la manga y 2 bolsillos inclinados\n· Cierre: cremallera completa en la parte delantera\n· Confección bajo pedido y envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/804774e6ce38e89e5bfc.jpg",
   "assets/products/shop/e4262997db80e431cf05.jpg",
   "assets/products/shop/9cf416d473f2701136d5.jpg",
   "assets/products/shop/600880a16008b390c134.jpg",
-  "assets/products/shop/db61508791923d8a58f4.jpg",
-  "assets/products/shop/60f3ae3aa7c935601f38.jpg"
+  "assets/products/shop/db61508791923d8a58f4.jpg"
  ],
  "draft": false,
  "fam": "chaqueta-bomber-cremallera",
@@ -29,9 +42,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Bomber Daz Cremallera Jacket",
- "name_es": "Chaqueta Bomber Daz Cremallera",
+ "name_en": "DAZ Printed Bomber Jacket",
+ "name_es": "Chaqueta Bomber Estampada DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1416,
@@ -39,8 +53,61 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Men Size",
+   "Length",
+   "Chest Width"
+  ],
+  "headers_es": [
+   "Talla Hombre",
+   "Largo",
+   "Ancho de Pecho"
+  ],
+  "notes_en": "Measurements are provided as a guide. Made-to-order items may slightly vary.",
+  "notes_es": "Las medidas se proporcionan como guía. Los artículos confeccionados bajo pedido pueden variar levemente.",
+  "rows": [
+   [
+    "S",
+    "67.5cm (26.6\")",
+    "58cm (22.8\")"
+   ],
+   [
+    "M",
+    "69.5cm (27.4\")",
+    "60.5cm (23.8\")"
+   ],
+   [
+    "L",
+    "71.5cm (28.1\")",
+    "63cm (24.8\")"
+   ],
+   [
+    "XL",
+    "73.5cm (29\")",
+    "65.5cm (25.8\")"
+   ],
+   [
+    "2XL",
+    "75.5cm (29.7\")",
+    "68cm (26.8\")"
+   ],
+   [
+    "3XL",
+    "77.5cm (30.5\")",
+    "70.5cm (27.8\")"
+   ],
+   [
+    "4XL",
+    "79.5cm (31.3\")",
+    "73cm (28.8\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/60f3ae3aa7c935601f38.jpg"
+ ],
  "sizes": [
   "S",
   "M",

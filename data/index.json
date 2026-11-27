@@ -186,7 +186,7 @@
       "id": "printify-6b06674fd3c2aadbe1007e0e",
       "name_es": "Bata Estilo Kimono Art",
       "name_en": "Art Kimono Style Robe",
-      "price_usd": 71.99,
+      "price_usd": 56.99,
       "badge": "new",
       "categories": [
         "mujer/batas-pijamas"
@@ -206,7 +206,7 @@
       "id": "printify-6b0667526db425f6b50b967a-black",
       "name_es": "Bata Kimono Art · Negro",
       "name_en": "Art Kimono Robe · Black",
-      "price_usd": 71.99,
+      "price_usd": 56.99,
       "badge": "new",
       "categories": [
         "hombre/albornoz-pijama",
@@ -1119,7 +1119,7 @@
       "id": "printify-6b0667526db425f6b50b967a-white",
       "name_es": "Bata Kimono Art · Blanco",
       "name_en": "Art Kimono Robe · White",
-      "price_usd": 71.99,
+      "price_usd": 56.99,
       "badge": "new",
       "categories": [
         "hombre/albornoz-pijama",
@@ -1140,7 +1140,7 @@
       "id": "printify-6b066a5b94a3ebd30609c32d",
       "name_es": "Kimono DAZ Luxury Art",
       "name_en": "DAZ Luxury Art Kimono",
-      "price_usd": 71.99,
+      "price_usd": 56.99,
       "badge": "new",
       "categories": [
         "mujer/batas-pijamas"
@@ -1160,7 +1160,7 @@
       "id": "printify-6b066a5d62f038c4f00b0038-black",
       "name_es": "Bata Kimono Art · Negro",
       "name_en": "Art Kimono Robe · Black",
-      "price_usd": 71.99,
+      "price_usd": 56.99,
       "badge": "new",
       "categories": [
         "mujer/batas-pijamas"
@@ -1180,7 +1180,7 @@
       "id": "printify-6b066a5d62f038c4f00b0038-white",
       "name_es": "Bata Kimono Art · Blanco",
       "name_en": "Art Kimono Robe · White",
-      "price_usd": 71.99,
+      "price_usd": 56.99,
       "badge": "new",
       "categories": [
         "hombre/albornoz-pijama",
@@ -4345,7 +4345,7 @@
       "price_usd": 48.99,
       "badge": "new",
       "categories": [
-        "decor"
+        "mujer/leggings"
       ],
       "available": true,
       "rank": 216,
@@ -22103,8 +22103,8 @@
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-14",
-      "name_es": "Pantalones acampanados con estampado DAZ",
-      "name_en": "DAZ printed flared trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ · Púrpura",
+      "name_en": "DAZ printed flared trousers · Purple",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22117,6 +22117,7 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-14",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "color": "purple",
       "art_score": 3,
       "img": "assets/products/shop/a3562b890799c443a2a6.jpg"
     },
@@ -22696,7 +22697,8 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-13",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
-      "img": "assets/products/shop/73df8559f1ece9b02aa6.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/cd97d4910c40a8db688f.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-2",
@@ -22794,12 +22796,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-6",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
+      "art_score": 4,
       "img": "assets/products/shop/7cbe71915bb615c4fcf8.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-7",
-      "name_es": "Minivestido Ajustado Minimalista",
-      "name_en": "Minimalist Fitted Minidress",
+      "name_es": "Minivestido Ajustado Minimalista · Azul",
+      "name_en": "Minimalist Fitted Minidress · Blue",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22812,6 +22815,7 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-7",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
+      "color": "blue",
       "art_score": 4,
       "img": "assets/products/shop/dff574ca03684a443aeb.jpg"
     },
@@ -24785,8 +24789,8 @@
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-7",
-      "name_es": "Vestido Negro con Volantes DAZ",
-      "name_en": "DAZ Black Ruffled Dress",
+      "name_es": "Vestido Negro con Volantes DAZ · Black And Multi",
+      "name_en": "DAZ Black Ruffled Dress · Black And Multi",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24799,13 +24803,14 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-7",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "color": "black and multi",
       "art_score": 3,
       "img": "assets/products/shop/3de695544b9996bcd18e.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-8",
-      "name_es": "Vestido Negro con Volantes DAZ",
-      "name_en": "DAZ Black Ruffled Dress",
+      "name_es": "Vestido Negro con Volantes DAZ · Black And Multi",
+      "name_en": "DAZ Black Ruffled Dress · Black And Multi",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24818,13 +24823,14 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-8",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "color": "black and multi",
       "art_score": 3,
       "img": "assets/products/shop/61d97a324423c277575f.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-9",
-      "name_es": "Vestido Negro con Volantes DAZ",
-      "name_en": "DAZ Black Ruffled Dress",
+      "name_es": "Vestido Negro con Volantes DAZ · Black And Blue",
+      "name_en": "DAZ Black Ruffled Dress · Black And Blue",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24837,6 +24843,7 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-9",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "color": "black and blue",
       "art_score": 5,
       "img": "assets/products/shop/420726fcf0bf6883eb7a.jpg"
     },
@@ -24935,6 +24942,7 @@
       "supplier_id": "copa-de-vino-sin-tallo-11-75-oz",
       "fam": "liquid-muse-stemless",
       "cg": "t-dazmond-liquid-muse-stemless-glass",
+      "color": "Clear",
       "art_score": 9,
       "img": "assets/products/shop/1927424a355a4842b620.jpg"
     },
@@ -25060,8 +25068,8 @@
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Blanco",
+      "name_en": "Daz Classic Button-Up Shirt · White",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25074,13 +25082,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "White",
       "art_score": 4,
       "img": "assets/products/shop/d92d4416d99d5dc79c68.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-1",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Negro",
+      "name_en": "Daz Classic Button-Up Shirt · Black",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25093,6 +25102,7 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-1",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "Black",
       "art_score": 4,
       "img": "assets/products/shop/b919eebbcea25fb287e1.jpg"
     },
@@ -25112,12 +25122,13 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-10",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
-      "img": "assets/products/shop/fc49a949db867d42441c.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/9e8ac9a1d6ccef2b92e1.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-11",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Rosa",
+      "name_en": "Daz Classic Button-Up Shirt · Pink",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25130,13 +25141,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-11",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "pink",
       "art_score": 4,
       "img": "assets/products/shop/f70f300b884e0ac2705c.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-12",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Verde",
+      "name_en": "Daz Classic Button-Up Shirt · Green",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25149,13 +25161,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-12",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "green",
       "art_score": 4,
       "img": "assets/products/shop/086284da4d1a5d78df14.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-13",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Azul",
+      "name_en": "Daz Classic Button-Up Shirt · Blue",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25168,13 +25181,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-13",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "blue",
       "art_score": 4,
       "img": "assets/products/shop/5598a1f8eceb68195d62.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-14",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Gris",
+      "name_en": "Daz Classic Button-Up Shirt · Grey",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25187,13 +25201,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-14",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "grey",
       "art_score": 4,
       "img": "assets/products/shop/aa34dcccd77efc1bdf05.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-15",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Rosa",
+      "name_en": "Daz Classic Button-Up Shirt · Pink",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25206,13 +25221,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-15",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "pink",
       "art_score": 5,
       "img": "assets/products/shop/b1f2194cb9769bfcdbdb.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-16",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Verde",
+      "name_en": "Daz Classic Button-Up Shirt · Green",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25225,6 +25241,7 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-16",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "Green",
       "art_score": 4,
       "img": "assets/products/shop/4b175e34553194648f2c.jpg"
     },
@@ -25244,12 +25261,13 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-17",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
-      "img": "assets/products/shop/49a29f6045d0563fc286.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/989cc8d5a4e45ef93a4a.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-18",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · White And Black",
+      "name_en": "Daz Classic Button-Up Shirt · White And Black",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25262,13 +25280,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-18",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "white and black",
       "art_score": 4,
       "img": "assets/products/shop/80fec9469da2ee901745.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-19",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Negro",
+      "name_en": "Daz Classic Button-Up Shirt · Black",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25281,13 +25300,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-19",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "black",
       "art_score": 4,
       "img": "assets/products/shop/5cc41e33c5cda0f17bc2.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-2",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Orange",
+      "name_en": "Daz Classic Button-Up Shirt · Orange",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25300,13 +25320,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-2",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "orange",
       "art_score": 5,
       "img": "assets/products/shop/97a8056ac2c571793ac1.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-20",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Blanco",
+      "name_en": "Daz Classic Button-Up Shirt · White",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25319,13 +25340,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-20",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "white",
       "art_score": 4,
       "img": "assets/products/shop/1109a00b48c8abbf47b2.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-3",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Orange",
+      "name_en": "Daz Classic Button-Up Shirt · Orange",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25338,13 +25360,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-3",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "orange",
       "art_score": 4,
       "img": "assets/products/shop/a20879b722522a5b6787.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-4",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Yellow",
+      "name_en": "Daz Classic Button-Up Shirt · Yellow",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25357,13 +25380,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-4",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "yellow",
       "art_score": 4,
       "img": "assets/products/shop/79b7bf448941d7797058.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-5",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Verde",
+      "name_en": "Daz Classic Button-Up Shirt · Green",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25376,13 +25400,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-5",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "green",
       "art_score": 4,
       "img": "assets/products/shop/9f6cfe858a5faf406db1.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-6",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Turquoise",
+      "name_en": "Daz Classic Button-Up Shirt · Turquoise",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25395,6 +25420,7 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-6",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "turquoise",
       "art_score": 4,
       "img": "assets/products/shop/304334990688efd87bc1.jpg"
     },
@@ -25414,12 +25440,13 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-7",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
-      "img": "assets/products/shop/39d6adabc965bf091a20.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/f45080060cb759f80ff4.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-8",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Rosa",
+      "name_en": "Daz Classic Button-Up Shirt · Pink",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25432,13 +25459,14 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-8",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "pink",
       "art_score": 5,
       "img": "assets/products/shop/6c5cbb80e702135540bf.jpg"
     },
     {
       "id": "shopify-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-9",
-      "name_es": "Camisa Abotonada Clásica Daz",
-      "name_en": "Daz Classic Button-Up Shirt",
+      "name_es": "Camisa Abotonada Clásica Daz · Mustard Yellow",
+      "name_en": "Daz Classic Button-Up Shirt · Mustard Yellow",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25451,6 +25479,7 @@
       "supplier_id": "camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer-9",
       "fam": "camisa-informal-luxury",
       "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
+      "color": "mustard yellow",
       "art_score": 4,
       "img": "assets/products/shop/d3dbc4978f8c47f8f649.jpg"
     },
@@ -25470,6 +25499,7 @@
       "supplier_id": "un_diamante_con_fondo_blanco_y_lineas_negras__arte__4_-removebg-preview-womens-tank-top-front-printingmade-in-usa",
       "fam": "camiseta-sin-mangas",
       "cg": "t-camiseta-sin-mangas-dazmond-para-mujer",
+      "color": "White",
       "art_score": 8,
       "img": "assets/products/shop/5fe216bfb8f12dd6c318.jpg"
     },
@@ -25489,13 +25519,14 @@
       "supplier_id": "vaso-de-chupito-daz-1-5-oz",
       "fam": "shot-of-spirit",
       "cg": "t-dazmond-shot-of-spirit-glass",
+      "color": "Clear",
       "art_score": 9,
       "img": "assets/products/shop/b569f16731b2ee485080.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
-      "name_es": "Vestido Largo Con Capucha",
-      "name_en": "Long Hooded Dress",
+      "name_es": "Vestido Largo Con Capucha · Blanco",
+      "name_en": "Long Hooded Dress · White",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25508,13 +25539,14 @@
       "supplier_id": "vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
       "fam": "vestido-capucha-largo",
       "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
+      "color": "white",
       "art_score": 4,
       "img": "assets/products/shop/44c7f9d04aa87e2f191f.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-1",
-      "name_es": "Vestido Largo Con Capucha",
-      "name_en": "Long Hooded Dress",
+      "name_es": "Vestido Largo Con Capucha · Negro",
+      "name_en": "Long Hooded Dress · Negro",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25527,13 +25559,14 @@
       "supplier_id": "vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-1",
       "fam": "vestido-capucha-largo",
       "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
+      "color": "Negro",
       "art_score": 4,
       "img": "assets/products/shop/5e132856cba79e5b855e.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-2",
-      "name_es": "Vestido Largo Con Capucha",
-      "name_en": "Long Hooded Dress",
+      "name_es": "Vestido Largo Con Capucha · Naranja",
+      "name_en": "Long Hooded Dress · Naranja",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25546,13 +25579,14 @@
       "supplier_id": "vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-2",
       "fam": "vestido-capucha-largo",
       "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
+      "color": "Naranja",
       "art_score": 3,
       "img": "assets/products/shop/8d0e1721e119f198120d.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-3",
-      "name_es": "Vestido Largo Con Capucha",
-      "name_en": "Long Hooded Dress",
+      "name_es": "Vestido Largo Con Capucha · Orange",
+      "name_en": "Long Hooded Dress · Orange",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25565,13 +25599,14 @@
       "supplier_id": "vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-3",
       "fam": "vestido-capucha-largo",
       "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
+      "color": "Orange",
       "art_score": 4,
       "img": "assets/products/shop/fa5281ce6a161aa61e70.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-4",
-      "name_es": "Vestido Largo Con Capucha",
-      "name_en": "Long Hooded Dress",
+      "name_es": "Vestido Largo Con Capucha · Yellow",
+      "name_en": "Long Hooded Dress · Yellow",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25584,13 +25619,14 @@
       "supplier_id": "vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-4",
       "fam": "vestido-capucha-largo",
       "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
+      "color": "yellow",
       "art_score": 5,
       "img": "assets/products/shop/57c837f2c09a7b33c260.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-5",
-      "name_es": "Vestido Largo Con Capucha",
-      "name_en": "Long Hooded Dress",
+      "name_es": "Vestido Largo Con Capucha · Verde",
+      "name_en": "Long Hooded Dress · Green",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25603,13 +25639,14 @@
       "supplier_id": "vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-5",
       "fam": "vestido-capucha-largo",
       "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
+      "color": "green",
       "art_score": 4,
       "img": "assets/products/shop/5707cee517bc747ab27d.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-6",
-      "name_es": "Vestido Largo Con Capucha",
-      "name_en": "Long Hooded Dress",
+      "name_es": "Vestido Largo Con Capucha · Turquesa",
+      "name_en": "Long Hooded Dress · Turquesa",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25622,13 +25659,14 @@
       "supplier_id": "vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-6",
       "fam": "vestido-capucha-largo",
       "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
+      "color": "Turquesa",
       "art_score": 3,
       "img": "assets/products/shop/f68df2ea73e4d0e4942a.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-7",
-      "name_es": "Vestido Largo Con Capucha",
-      "name_en": "Long Hooded Dress",
+      "name_es": "Vestido Largo Con Capucha · Azul",
+      "name_en": "Long Hooded Dress · Azul",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25641,13 +25679,14 @@
       "supplier_id": "vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-7",
       "fam": "vestido-capucha-largo",
       "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
+      "color": "Azul",
       "art_score": 4,
       "img": "assets/products/shop/84f5a1ec762d7f06070c.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-8",
-      "name_es": "Vestido Largo Con Capucha",
-      "name_en": "Long Hooded Dress",
+      "name_es": "Vestido Largo Con Capucha · Rosa",
+      "name_en": "Long Hooded Dress · Rosa",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25660,13 +25699,14 @@
       "supplier_id": "vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer-8",
       "fam": "vestido-capucha-largo",
       "cg": "t-vestido-daz-con-capucha-largo-informal-y-ligero-para-mujer",
+      "color": "Rosa",
       "art_score": 4,
       "img": "assets/products/shop/8a732793d12ed9eb82ce.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
-      "name_es": "Vestido con capucha de terciopelo",
-      "name_en": "Velvet Hooded Dress",
+      "name_es": "Vestido con capucha de terciopelo · Fucsia",
+      "name_en": "Velvet Hooded Dress · Fucsia",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -25679,13 +25719,14 @@
       "supplier_id": "vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
       "fam": "vestido-capucha-estampado",
       "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
+      "color": "Fucsia",
       "art_score": 3,
       "img": "assets/products/shop/37bdeed89518c8306bb1.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-1",
-      "name_es": "Vestido con capucha de terciopelo",
-      "name_en": "Velvet Hooded Dress",
+      "name_es": "Vestido con capucha de terciopelo · Azul",
+      "name_en": "Velvet Hooded Dress · Azul",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -25698,13 +25739,14 @@
       "supplier_id": "vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-1",
       "fam": "vestido-capucha-estampado",
       "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
+      "color": "Azul",
       "art_score": 3,
       "img": "assets/products/shop/adde858621770e7ef1e4.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-2",
-      "name_es": "Vestido con capucha de terciopelo",
-      "name_en": "Velvet Hooded Dress",
+      "name_es": "Vestido con capucha de terciopelo · Turquoise",
+      "name_en": "Velvet Hooded Dress · Turquoise",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -25717,13 +25759,14 @@
       "supplier_id": "vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-2",
       "fam": "vestido-capucha-estampado",
       "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
+      "color": "Turquoise",
       "art_score": 3,
       "img": "assets/products/shop/ee721b9c4ab0d2188ff2.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-3",
-      "name_es": "Vestido con capucha de terciopelo",
-      "name_en": "Velvet Hooded Dress",
+      "name_es": "Vestido con capucha de terciopelo · Verde",
+      "name_en": "Velvet Hooded Dress · Green",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -25736,13 +25779,14 @@
       "supplier_id": "vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-3",
       "fam": "vestido-capucha-estampado",
       "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
+      "color": "green",
       "art_score": 3,
       "img": "assets/products/shop/d1f3934e2043a5bd67a9.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-4",
-      "name_es": "Vestido con capucha de terciopelo",
-      "name_en": "Velvet Hooded Dress",
+      "name_es": "Vestido con capucha de terciopelo · Amarillo",
+      "name_en": "Velvet Hooded Dress · Amarillo",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -25755,13 +25799,14 @@
       "supplier_id": "vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-4",
       "fam": "vestido-capucha-estampado",
       "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
+      "color": "Amarillo",
       "art_score": 3,
       "img": "assets/products/shop/efe98badfba12eb20cdc.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-5",
-      "name_es": "Vestido con capucha de terciopelo",
-      "name_en": "Velvet Hooded Dress",
+      "name_es": "Vestido con capucha de terciopelo · Yellow",
+      "name_en": "Velvet Hooded Dress · Yellow",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -25774,13 +25819,14 @@
       "supplier_id": "vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-5",
       "fam": "vestido-capucha-estampado",
       "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
+      "color": "Yellow",
       "art_score": 3,
       "img": "assets/products/shop/2cc9af266c054207433b.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-6",
-      "name_es": "Vestido con capucha de terciopelo",
-      "name_en": "Velvet Hooded Dress",
+      "name_es": "Vestido con capucha de terciopelo · Orange",
+      "name_en": "Velvet Hooded Dress · Orange",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -25793,13 +25839,14 @@
       "supplier_id": "vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-6",
       "fam": "vestido-capucha-estampado",
       "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
+      "color": "Orange",
       "art_score": 3,
       "img": "assets/products/shop/25621bdde14ef7aaad1f.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-7",
-      "name_es": "Vestido con capucha de terciopelo",
-      "name_en": "Velvet Hooded Dress",
+      "name_es": "Vestido con capucha de terciopelo · Negro",
+      "name_en": "Velvet Hooded Dress · Black",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -25812,13 +25859,14 @@
       "supplier_id": "vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-7",
       "fam": "vestido-capucha-estampado",
       "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
+      "color": "Black",
       "art_score": 4,
       "img": "assets/products/shop/136f38ddb7575cb405e7.jpg"
     },
     {
       "id": "shopify-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-8",
-      "name_es": "Vestido con capucha de terciopelo",
-      "name_en": "Velvet Hooded Dress",
+      "name_es": "Vestido con capucha de terciopelo · Blanco",
+      "name_en": "Velvet Hooded Dress · White",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -25831,13 +25879,14 @@
       "supplier_id": "vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer-8",
       "fam": "vestido-capucha-estampado",
       "cg": "t-vestido-daz-con-capucha-y-estampado-integral-de-terciopelo-calido-para-mujer",
+      "color": "white",
       "art_score": 3,
       "img": "assets/products/shop/fc5d002e06c99cadbe78.jpg"
     },
     {
       "id": "shopify-design-mens-hoodie-with-mask",
-      "name_es": "Sudadera Daz Capucha Braga",
-      "name_en": "Daz Capucha Braga Sweatshirt",
+      "name_es": "Sudadera Capucha Cuello Alto",
+      "name_en": "High Neck Hooded Sweatshirt",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -25851,6 +25900,7 @@
       "fam": "sudadera-luxury-capucha",
       "cg": "t-sudadera-daz-luxury-con-capucha-y-braga-de-cuello-para-hombre",
       "color": "Negro",
+      "art_score": 3,
       "img": "assets/products/shop/ba95b5acd2dd61212721.jpg"
     },
     {
@@ -25949,6 +25999,7 @@
       "supplier_id": "vaso-de-whisky",
       "fam": "spirit-s-glow",
       "cg": "t-dazmond-spirit-s-glow-whiskey-glass",
+      "color": "Transparent",
       "art_score": 9,
       "img": "assets/products/shop/59b5496879026dfbfd66.jpg"
     },
@@ -25968,13 +26019,14 @@
       "supplier_id": "mens-minimalist-pu-leather-wallet-paper-folded-wallet",
       "fam": "cartera-minimalista-cuero",
       "cg": "t-cartera-minimalista-de-cuero-sintetico-daz-para-hombre",
+      "color": "White / Black",
       "art_score": 4,
       "img": "assets/products/shop/611f864e1cf64e252bbf.jpg"
     },
     {
       "id": "shopify-pantalones-cortos-casuales-daz-luxury-para-mujer",
-      "name_es": "Shorts Casuales Damasco",
-      "name_en": "Damasco Casual Shorts",
+      "name_es": "Shorts Casuales Damasco · Black And White",
+      "name_en": "Damasco Casual Shorts · Black And White",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -25987,13 +26039,14 @@
       "supplier_id": "pantalones-cortos-casuales-daz-luxury-para-mujer",
       "fam": "shorts-casuales-luxury",
       "cg": "t-shorts-casuales-daz-luxury-para-mujer",
+      "color": "black and white",
       "art_score": 3,
       "img": "assets/products/shop/298fc53142749038793d.jpg"
     },
     {
       "id": "shopify-shorts-casuales-daz-luxury-para-mujer",
-      "name_es": "Shorts Casuales Damasco",
-      "name_en": "Damasco Casual Shorts",
+      "name_es": "Shorts Casuales Damasco · Blanco",
+      "name_en": "Damasco Casual Shorts · White",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -26006,13 +26059,14 @@
       "supplier_id": "shorts-casuales-daz-luxury-para-mujer",
       "fam": "shorts-casuales-luxury",
       "cg": "t-shorts-casuales-daz-luxury-para-mujer",
+      "color": "white",
       "art_score": 5,
       "img": "assets/products/shop/4c1b944c219d7c5fb37d.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Blanco",
+      "name_en": "Off Shoulder Tube Dress · White",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26025,6 +26079,7 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "White",
       "art_score": 3,
       "img": "assets/products/shop/a87c72126d145b09d336.jpg"
     },
@@ -26044,12 +26099,13 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-1",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "art_score": 3,
       "img": "assets/products/shop/2cb0710f48c7ebd3666b.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-10",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Negro Y Rosa / Black And Pink",
+      "name_en": "Off Shoulder Tube Dress · Negro Y Rosa / Black And Pink",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26062,13 +26118,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-10",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Negro y Rosa / Black and Pink",
       "art_score": 4,
       "img": "assets/products/shop/ba77cc1e7984ab5968fc.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-11",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Blanco",
+      "name_en": "Off Shoulder Tube Dress · White",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26081,13 +26138,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-11",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "white",
       "art_score": 3,
       "img": "assets/products/shop/c002a30b6992b127beb0.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-12",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Azul Y Negro",
+      "name_en": "Off Shoulder Tube Dress · Azul Y Negro",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26100,13 +26158,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-12",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Azul y negro",
       "art_score": 3,
       "img": "assets/products/shop/380730954e12f7fff18b.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-13",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Blanco / Azul",
+      "name_en": "Off Shoulder Tube Dress · Blanco / Azul",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26119,6 +26178,7 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-13",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Blanco / Azul",
       "art_score": 4,
       "img": "assets/products/shop/7e33bc32684c901d476c.jpg"
     },
@@ -26138,12 +26198,13 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-14",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "art_score": 3,
       "img": "assets/products/shop/1b2a90046f40553bdb68.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-15",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Rosa",
+      "name_en": "Off Shoulder Tube Dress · Pink",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26156,13 +26217,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-15",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Pink",
       "art_score": 4,
       "img": "assets/products/shop/fbcbac4b9725f364f68d.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-16",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Taupe",
+      "name_en": "Off Shoulder Tube Dress · Taupe",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26175,13 +26237,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-16",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Taupe",
       "art_score": 3,
       "img": "assets/products/shop/a396dafb30865fd27f8b.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-17",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Oliva",
+      "name_en": "Off Shoulder Tube Dress · Olive",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26194,13 +26257,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-17",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Olive",
       "art_score": 3,
       "img": "assets/products/shop/eaf6193032004fadb3f5.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-18",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Verde",
+      "name_en": "Off Shoulder Tube Dress · Green",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26213,13 +26277,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-18",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Green",
       "art_score": 3,
       "img": "assets/products/shop/c69e126ce191fbb4a8cf.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-19",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Teal",
+      "name_en": "Off Shoulder Tube Dress · Teal",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26232,6 +26297,7 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-19",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "teal",
       "art_score": 3,
       "img": "assets/products/shop/c1cab1076d86eaaee26d.jpg"
     },
@@ -26251,12 +26317,13 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-2",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "art_score": 3,
       "img": "assets/products/shop/e4f79a519d44d86abc6f.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-20",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Azul",
+      "name_en": "Off Shoulder Tube Dress · Blue",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26269,13 +26336,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-20",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "blue",
       "art_score": 3,
       "img": "assets/products/shop/26f846b73d00b60db136.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-21",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Púrpura",
+      "name_en": "Off Shoulder Tube Dress · Purple",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26288,13 +26356,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-21",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Purple",
       "art_score": 3,
       "img": "assets/products/shop/93a708ebaaf71b36819b.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-3",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Yellow",
+      "name_en": "Off Shoulder Tube Dress · Yellow",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26307,13 +26376,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-3",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "yellow",
       "art_score": 3,
       "img": "assets/products/shop/1d61c3c1fb61c44c3031.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-4",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Amarillo",
+      "name_en": "Off Shoulder Tube Dress · Amarillo",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26326,13 +26396,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-4",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Amarillo",
       "art_score": 4,
       "img": "assets/products/shop/0fd3bf673d3101c7125c.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-5",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Verde",
+      "name_en": "Off Shoulder Tube Dress · Green",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26345,13 +26416,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-5",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Green",
       "art_score": 4,
       "img": "assets/products/shop/6a3ec92aaf49f1c2298c.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-6",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Turquoise",
+      "name_en": "Off Shoulder Tube Dress · Turquoise",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26364,13 +26436,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-6",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Turquoise",
       "art_score": 4,
       "img": "assets/products/shop/d1986abe214b6db75893.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-7",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Azul",
+      "name_en": "Off Shoulder Tube Dress · Blue",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26383,13 +26456,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-7",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "blue",
       "art_score": 3,
       "img": "assets/products/shop/03fe935880ad70adc078.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-8",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Fucsia / Fuchsia",
+      "name_en": "Off Shoulder Tube Dress · Fucsia / Fuchsia",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26402,13 +26476,14 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-8",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Fucsia / Fuchsia",
       "art_score": 3,
       "img": "assets/products/shop/6825c0cbb3920652e441.jpg"
     },
     {
       "id": "shopify-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-9",
-      "name_es": "Vestido Tubo Hombros Descubiertos",
-      "name_en": "Off Shoulder Tube Dress",
+      "name_es": "Vestido Tubo Hombros Descubiertos · Verde",
+      "name_en": "Off Shoulder Tube Dress · Verde",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26421,6 +26496,7 @@
       "supplier_id": "vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para-mujer-9",
       "fam": "vestido-cruzado-elegante",
       "cg": "t-vestido-cruzado-elegante-daz-luxury-de-manga-corta-con-hombros-descubiertos-para",
+      "color": "Verde",
       "art_score": 3,
       "img": "assets/products/shop/fc79ee0c657b5c8324b3.jpg"
     },
@@ -26440,12 +26516,13 @@
       "supplier_id": "vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-4",
       "fam": "vestido-lujo-largo",
       "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/f25dd2bf21c58c31ce4a.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-5",
-      "name_es": "Vestido Largo Drapeado",
-      "name_en": "Draped Long Dress",
+      "name_es": "Vestido Largo Drapeado · Multi",
+      "name_en": "Draped Long Dress · Multi",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26458,13 +26535,14 @@
       "supplier_id": "vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-5",
       "fam": "vestido-lujo-largo",
       "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
+      "color": "multi",
       "art_score": 3,
       "img": "assets/products/shop/41d28f67d827a3a456b5.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-6",
-      "name_es": "Vestido Largo Drapeado",
-      "name_en": "Draped Long Dress",
+      "name_es": "Vestido Largo Drapeado · Teal",
+      "name_en": "Draped Long Dress · Teal",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26477,6 +26555,7 @@
       "supplier_id": "vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-6",
       "fam": "vestido-lujo-largo",
       "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
+      "color": "teal",
       "art_score": 4,
       "img": "assets/products/shop/0b3705bc1d0d964aae6e.jpg"
     },
@@ -26500,8 +26579,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-8",
-      "name_es": "Vestido Largo Drapeado",
-      "name_en": "Draped Long Dress",
+      "name_es": "Vestido Largo Drapeado · Multicolor",
+      "name_en": "Draped Long Dress · Multicolor",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26514,6 +26593,7 @@
       "supplier_id": "vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-8",
       "fam": "vestido-lujo-largo",
       "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
+      "color": "multicolor",
       "art_score": 4,
       "img": "assets/products/shop/63f7db5f9b0790930839.jpg"
     },
@@ -26533,6 +26613,7 @@
       "supplier_id": "vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-9",
       "fam": "vestido-lujo-largo",
       "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/230c7313d6dd4c0feb96.jpg"
     },
     {
@@ -27126,8 +27207,8 @@
     },
     {
       "id": "shopify-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
-      "name_es": "Vestido Corto con Tirantes",
-      "name_en": "Short Strap Dress",
+      "name_es": "Vestido Corto con Tirantes · Negro",
+      "name_en": "Short Strap Dress · Negro",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -27140,13 +27221,14 @@
       "supplier_id": "vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
       "fam": "vestido-corto-luxury",
       "cg": "t-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
+      "color": "Negro",
       "art_score": 5,
       "img": "assets/products/shop/7766cbed7e4fd1c1c188.jpg"
     },
     {
       "id": "shopify-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer-1",
-      "name_es": "Vestido Corto con Tirantes",
-      "name_en": "Short Strap Dress",
+      "name_es": "Vestido Corto con Tirantes · Azul",
+      "name_en": "Short Strap Dress · Blue",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -27159,13 +27241,14 @@
       "supplier_id": "vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer-1",
       "fam": "vestido-corto-luxury",
       "cg": "t-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
+      "color": "Blue",
       "art_score": 4,
       "img": "assets/products/shop/6156340c81b53ce56288.jpg"
     },
     {
       "id": "shopify-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer-2",
-      "name_es": "Vestido Corto con Tirantes",
-      "name_en": "Short Strap Dress",
+      "name_es": "Vestido Corto con Tirantes · Púrpura",
+      "name_en": "Short Strap Dress · Purple",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -27178,6 +27261,7 @@
       "supplier_id": "vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer-2",
       "fam": "vestido-corto-luxury",
       "cg": "t-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
+      "color": "Purple",
       "art_score": 4,
       "img": "assets/products/shop/e8d6912015d64589345f.jpg"
     },
@@ -27197,6 +27281,7 @@
       "supplier_id": "vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer-3",
       "fam": "vestido-corto-luxury",
       "cg": "t-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/fb5dc0d96418df94fed8.jpg"
     },
     {
@@ -27215,6 +27300,7 @@
       "supplier_id": "vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer-4",
       "fam": "vestido-corto-luxury",
       "cg": "t-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/8d1a2f72f5c2161c72b4.jpg"
     },
     {
@@ -27233,6 +27319,7 @@
       "supplier_id": "vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer-5",
       "fam": "vestido-corto-luxury",
       "cg": "t-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/bed523edad16b0da483d.jpg"
     },
     {
@@ -27251,6 +27338,7 @@
       "supplier_id": "vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer-6",
       "fam": "vestido-corto-luxury",
       "cg": "t-vestido-corto-daz-luxury-con-tirantes-finos-ajustables-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/13e8124b2695205845db.jpg"
     },
     {
@@ -27595,8 +27683,8 @@
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27609,12 +27697,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/1fcf2c56251ad39c7bde.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-1",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27627,12 +27716,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-1",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/fd651224c4e0445b7466.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-10",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27645,12 +27735,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-10",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/ffc2321cb8f46f926081.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-11",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27663,12 +27754,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-11",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/53355b1d5afa8242323c.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-12",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27681,12 +27773,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-12",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/f9506901113c2eb5c98a.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-13",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27699,12 +27792,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-13",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/9823d91365b275c6bb44.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-14",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27717,12 +27811,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-14",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/de95e243101007695422.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-2",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27735,12 +27830,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-2",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/1e283f4ff738c7d7449b.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-3",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27753,12 +27849,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-3",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/6831b3e62c391e351cd1.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-4",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27771,12 +27868,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-4",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/091b8f396de1e3919c0b.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-5",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27789,12 +27887,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-5",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/1b45c486323d2a710320.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-6",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27807,12 +27906,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-6",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/1b404e807e8ab7522711.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-7",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27825,12 +27925,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-7",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/c19ac5346a22a2714cd2.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-8",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27843,12 +27944,13 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-8",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/10339f96b257a82e655a.jpg"
     },
     {
       "id": "shopify-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-9",
-      "name_es": "Blusa Blusa Daz Cuello",
-      "name_en": "Blusa Daz Cuello Blouse",
+      "name_es": "Blusa Babydoll de Manga Larga",
+      "name_en": "Long Sleeve Babydoll Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27861,6 +27963,7 @@
       "supplier_id": "blusa-casual-daz-premium-con-cuello-babydoll-para-mujer-9",
       "fam": "blusa-casual-premium",
       "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/4c932eb59929329696d6.jpg"
     },
     {
@@ -27925,8 +28028,8 @@
     },
     {
       "id": "shopify-top-casual-daz-premium-con-cuello-babydoll-para-mujer",
-      "name_es": "Camiseta Daz Cuello Babydoll",
-      "name_en": "Daz Cuello Babydoll Tee",
+      "name_es": "Blusa Fluida con Cuello Babydoll",
+      "name_en": "Fluid Babydoll Collar Blouse",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27939,12 +28042,13 @@
       "supplier_id": "top-casual-daz-premium-con-cuello-babydoll-para-mujer",
       "fam": "top-casual-premium",
       "cg": "t-top-casual-daz-premium-con-cuello-babydoll-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/a93da9265d408d75f1b2.jpg"
     },
     {
       "id": "shopify-vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer",
-      "name_es": "Vestido Daz Holgado Talla",
-      "name_en": "Daz Holgado Talla Dress",
+      "name_es": "Vestido Holgado Estampado",
+      "name_en": "Printed Loose Dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27957,12 +28061,13 @@
       "supplier_id": "vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer",
       "fam": "vestido-holgado-talla",
       "cg": "t-vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/6b62b1f131886e51ebfa.jpg"
     },
     {
       "id": "shopify-vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer-1",
-      "name_es": "Vestido Daz Holgado Talla",
-      "name_en": "Daz Holgado Talla Dress",
+      "name_es": "Vestido Holgado Estampado",
+      "name_en": "Printed Loose Dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27975,12 +28080,13 @@
       "supplier_id": "vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer-1",
       "fam": "vestido-holgado-talla",
       "cg": "t-vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/7c810fcd9babe9a3d7a6.jpg"
     },
     {
       "id": "shopify-vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer-2",
-      "name_es": "Vestido Daz Holgado Talla",
-      "name_en": "Daz Holgado Talla Dress",
+      "name_es": "Vestido Holgado Estampado",
+      "name_en": "Printed Loose Dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -27993,12 +28099,13 @@
       "supplier_id": "vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer-2",
       "fam": "vestido-holgado-talla",
       "cg": "t-vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/1dac5c0a33ea26ea38d3.jpg"
     },
     {
       "id": "shopify-vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer-3",
-      "name_es": "Vestido Daz Holgado Talla",
-      "name_en": "Daz Holgado Talla Dress",
+      "name_es": "Vestido Holgado Estampado",
+      "name_en": "Printed Loose Dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28011,12 +28118,13 @@
       "supplier_id": "vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer-3",
       "fam": "vestido-holgado-talla",
       "cg": "t-vestido-daz-holgado-de-talla-grande-con-escote-en-v-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/223819218ab92ffa9562.jpg"
     },
     {
       "id": "shopify-design-long-sleeve-high-neck-long-dress",
-      "name_es": "Vestido Golden Line High · Oro",
-      "name_en": "Golden Line High Dress · Gold",
+      "name_es": "Vestido Maxi de Cuello Alto",
+      "name_en": "High-Neck Maxi Dress",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -28030,12 +28138,13 @@
       "fam": "luxury-golden-classic",
       "cg": "t-dazmond-luxury-golden-classic-line-high-neck-maxi-dress",
       "color": "Negro",
-      "img": "assets/products/shop/fde424c2aba99b611bb8.jpg"
+      "art_score": 9,
+      "img": "assets/products/shop/be0d20cf6c3e4e7c8e19.jpg"
     },
     {
       "id": "shopify-design-long-sleeve-high-neck-long-dress-1",
-      "name_es": "Vestido Golden Feathers High · Oro",
-      "name_en": "Golden Feathers High Dress · Gold",
+      "name_es": "Vestido Maxi Golden Feathers",
+      "name_en": "Golden Feathers Maxi Dress",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -28049,12 +28158,13 @@
       "fam": "luxury-golden-feathers",
       "cg": "t-dazmond-luxury-golden-feathers-high-neck-maxi-dress",
       "color": "Blanco",
+      "art_score": 4,
       "img": "assets/products/shop/dff9a16e9bce1761fdaf.jpg"
     },
     {
       "id": "shopify-design-long-sleeve-high-neck-long-dress-2",
-      "name_es": "Vestido Baroque High · Oro",
-      "name_en": "Baroque High Dress · Gold",
+      "name_es": "Vestido Maxi Cuello Alto",
+      "name_en": "High-Neck Maxi Dress",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -28068,12 +28178,13 @@
       "fam": "luxury-baroque-high",
       "cg": "t-dazmond-luxury-baroque-high-neck-maxi-dress",
       "color": "Blanco",
+      "art_score": 9,
       "img": "assets/products/shop/501d0c964ebf48499149.jpg"
     },
     {
       "id": "shopify-design-long-sleeve-high-neck-long-dress-3",
-      "name_es": "Vestido Rose Geometry High · Oro",
-      "name_en": "Rose Geometry High Dress · Gold",
+      "name_es": "Vestido Maxi Geometría Oro Rosa",
+      "name_en": "Rose Gold Geometry Maxi Dress",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -28087,12 +28198,13 @@
       "fam": "luxury-rose-geometry",
       "cg": "t-dazmond-luxury-rose-geometry-high-neck-maxi-dress",
       "color": "Blanco",
+      "art_score": 9,
       "img": "assets/products/shop/3202a46f9e7b38a47ca6.jpg"
     },
     {
       "id": "shopify-design-long-sleeve-high-neck-long-dress-4",
-      "name_es": "Vestido Crimson Nebula High",
-      "name_en": "Crimson Nebula High Dress",
+      "name_es": "Vestido Largo Nebulosa Carmesí",
+      "name_en": "Crimson Nebula Maxi Dress",
       "price_usd": 26.99,
       "badge": "new",
       "categories": [
@@ -28106,12 +28218,13 @@
       "fam": "luxury-crimson-nebula",
       "cg": "t-dazmond-luxury-crimson-nebula-high-neck-maxi-dress",
       "color": "Rojo",
+      "art_score": 9,
       "img": "assets/products/shop/c604389b834b1368cc88.jpg"
     },
     {
       "id": "shopify-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-10",
-      "name_es": "Vestido Ruffle Argyle · Rosa",
-      "name_en": "Ruffle Argyle Dress · Pink",
+      "name_es": "Vestido Mini Pink Argyle",
+      "name_en": "Pink Argyle Mini Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -28125,12 +28238,13 @@
       "fam": "vestido-mini-long",
       "cg": "t-vestido-mini-dazmond-long-sleeve-v-neck-ruffle-argyle",
       "color": "Rosa",
+      "art_score": 9,
       "img": "assets/products/shop/8efae77fbb6caf930a50.jpg"
     },
     {
       "id": "shopify-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-11",
-      "name_es": "Vestido Ruffle Urban Collage",
-      "name_en": "Ruffle Urban Collage Dress",
+      "name_es": "Vestido Mini Urban Collage",
+      "name_en": "Urban Collage Mini Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -28144,12 +28258,13 @@
       "fam": "vestido-mini-long",
       "cg": "t-vestido-mini-dazmond-long-sleeve-v-neck-ruffle-urban-collage",
       "color": "Multicolor",
-      "img": "assets/products/shop/4c7596a10fc0ec5f389d.jpg"
+      "art_score": 8,
+      "img": "assets/products/shop/90b7dc6707721b052c2d.jpg"
     },
     {
       "id": "shopify-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-12",
-      "name_es": "Vestido Neon Tartan Ruffle",
-      "name_en": "Neon Tartan Ruffle Dress",
+      "name_es": "Minivestido Tartán Neón",
+      "name_en": "Neon Tartan Mini Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -28163,12 +28278,13 @@
       "fam": "luxury-neon-tartan",
       "cg": "t-dazmond-luxury-neon-tartan-ruffle-mini-dress",
       "color": "Morado",
-      "img": "assets/products/shop/e6de9b347b0b18de0827.jpg"
+      "art_score": 8,
+      "img": "assets/products/shop/c7f6b7018fa824734252.jpg"
     },
     {
       "id": "shopify-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-13",
-      "name_es": "Vestido Magenta Constellation Ruffle",
-      "name_en": "Magenta Constellation Ruffle Dress",
+      "name_es": "Vestido Mini Magenta Constellation",
+      "name_en": "Magenta Constellation Mini Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -28182,12 +28298,13 @@
       "fam": "luxury-magenta-constellation",
       "cg": "t-dazmond-luxury-magenta-constellation-ruffle-mini-dress",
       "color": "Negro",
+      "art_score": 10,
       "img": "assets/products/shop/418302ae9cc1664ab87b.jpg"
     },
     {
       "id": "shopify-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-5",
-      "name_es": "Vestido Ruffle · Blanco",
-      "name_en": "Ruffle Dress · Blanco",
+      "name_es": "Vestido Mini Estrellas Volantes · Blanco",
+      "name_en": "Star Ruffle Mini Dress · Blanco",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -28201,12 +28318,13 @@
       "fam": "women-s-long",
       "cg": "t-design-women-s-long-sleeve-v-neck-ruffle-mini-dress",
       "color": "Blanco",
+      "art_score": 4,
       "img": "assets/products/shop/fcc998b21be01fab4ae0.jpg"
     },
     {
       "id": "shopify-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-6",
-      "name_es": "Vestido Ruffle Striped Hearts",
-      "name_en": "Ruffle Striped Hearts Dress",
+      "name_es": "Vestido Mini Striped Hearts",
+      "name_en": "Striped Hearts Mini Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -28220,6 +28338,7 @@
       "fam": "vestido-mini-long",
       "cg": "t-vestido-mini-dazmond-long-sleeve-v-neck-ruffle-striped-hearts",
       "color": "Blanco y Negro",
+      "art_score": 9,
       "img": "assets/products/shop/7a21f1d2c9f451991690.jpg"
     },
     {
@@ -28243,8 +28362,8 @@
     },
     {
       "id": "shopify-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-8",
-      "name_es": "Vestido Ruffle Dragon Fruit",
-      "name_en": "Ruffle Dragon Fruit Dress",
+      "name_es": "Vestido Mini Dragon Fruit Reverie",
+      "name_en": "Dragon Fruit Reverie Mini Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -28258,12 +28377,13 @@
       "fam": "vestido-mini-long",
       "cg": "t-vestido-mini-dazmond-long-sleeve-v-neck-ruffle-dragon-fruit-reverie",
       "color": "Rosa",
+      "art_score": 9,
       "img": "assets/products/shop/0d2a4a4d22afd7eaa97e.jpg"
     },
     {
       "id": "shopify-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-9",
-      "name_es": "Vestido Ruffle Geometric Monogram",
-      "name_en": "Ruffle Geometric Monogram Dress",
+      "name_es": "Vestido Mini Monograma Geométrico",
+      "name_en": "Geometric Monogram Mini Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -28277,12 +28397,13 @@
       "fam": "vestido-mini-long",
       "cg": "t-vestido-mini-dazmond-long-sleeve-v-neck-ruffle-geometric-monogram",
       "color": "Gris",
+      "art_score": 9,
       "img": "assets/products/shop/e27a6cc79b5680155b2c.jpg"
     },
     {
       "id": "shopify-chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-1",
-      "name_es": "Chaqueta Bomber Daz Cremallera",
-      "name_en": "Bomber Daz Cremallera Jacket",
+      "name_es": "Chaqueta Bomber Estampada DAZ",
+      "name_en": "DAZ Printed Bomber Jacket",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -28295,12 +28416,13 @@
       "supplier_id": "chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-1",
       "fam": "chaqueta-bomber-cremallera",
       "cg": "t-chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre",
+      "art_score": 3,
       "img": "assets/products/shop/804774e6ce38e89e5bfc.jpg"
     },
     {
       "id": "shopify-chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-2",
-      "name_es": "Chaqueta Bomber Daz Cremallera",
-      "name_en": "Bomber Daz Cremallera Jacket",
+      "name_es": "Chaqueta Bomber Estampada DAZ",
+      "name_en": "DAZ Printed Bomber Jacket",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -28313,12 +28435,13 @@
       "supplier_id": "chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-2",
       "fam": "chaqueta-bomber-cremallera",
       "cg": "t-chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre",
+      "art_score": 3,
       "img": "assets/products/shop/b43fedfaaac0613f916f.jpg"
     },
     {
       "id": "shopify-chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-3",
-      "name_es": "Chaqueta Bomber Daz Cremallera",
-      "name_en": "Bomber Daz Cremallera Jacket",
+      "name_es": "Chaqueta Bomber Estampada DAZ",
+      "name_en": "DAZ Printed Bomber Jacket",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -28331,12 +28454,13 @@
       "supplier_id": "chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-3",
       "fam": "chaqueta-bomber-cremallera",
       "cg": "t-chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre",
+      "art_score": 3,
       "img": "assets/products/shop/9dc479e464ee7b3d764d.jpg"
     },
     {
       "id": "shopify-chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-4",
-      "name_es": "Chaqueta Bomber Daz Cremallera",
-      "name_en": "Bomber Daz Cremallera Jacket",
+      "name_es": "Chaqueta Bomber Estampada DAZ",
+      "name_en": "DAZ Printed Bomber Jacket",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -28349,12 +28473,13 @@
       "supplier_id": "chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre-4",
       "fam": "chaqueta-bomber-cremallera",
       "cg": "t-chaqueta-bomber-daz-con-cremallera-y-estampado-integral-para-hombre",
+      "art_score": 4,
       "img": "assets/products/shop/0dfb82cfea73a6aa6c9d.jpg"
     },
     {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
-      "name_es": "Falda Conjunto Dos Piezas",
-      "name_en": "Conjunto Dos Piezas Skirt",
+      "name_es": "Conjunto Oversize de Camiseta y Falda Midi",
+      "name_en": "Oversize T-Shirt and Midi Skirt Set",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -28367,12 +28492,13 @@
       "supplier_id": "conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer",
       "fam": "conjunto-camiseta-oversize",
       "cg": "t-conjunto-dazmond-camiseta-oversize-y-falda-midi-dos-piezas",
-      "img": "assets/products/shop/3a32545df30431472161.jpg"
+      "art_score": 3,
+      "img": "assets/products/shop/32ef29e6bee718387212.jpg"
     },
     {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-1",
-      "name_es": "Falda Conjunto Dos Piezas",
-      "name_en": "Conjunto Dos Piezas Skirt",
+      "name_es": "Conjunto Oversize de Camiseta y Falda Midi",
+      "name_en": "Oversize T-Shirt and Midi Skirt Set",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -28385,12 +28511,13 @@
       "supplier_id": "conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-1",
       "fam": "conjunto-camiseta-oversize",
       "cg": "t-conjunto-dazmond-camiseta-oversize-y-falda-midi-dos-piezas",
+      "art_score": 5,
       "img": "assets/products/shop/944372a03a59bd0d1937.jpg"
     },
     {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-3",
-      "name_es": "Falda Conjunto Dos Piezas",
-      "name_en": "Conjunto Dos Piezas Skirt",
+      "name_es": "Conjunto Oversize de Camiseta y Falda Midi",
+      "name_en": "Oversize T-Shirt and Midi Skirt Set",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -28403,12 +28530,13 @@
       "supplier_id": "conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-3",
       "fam": "conjunto-camiseta-oversize",
       "cg": "t-conjunto-dazmond-camiseta-oversize-y-falda-midi-dos-piezas",
+      "art_score": 5,
       "img": "assets/products/shop/8cd50c31d31da658b6c5.jpg"
     },
     {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-5",
-      "name_es": "Falda Conjunto Dos Piezas",
-      "name_en": "Conjunto Dos Piezas Skirt",
+      "name_es": "Conjunto Oversize de Camiseta y Falda Midi",
+      "name_en": "Oversize T-Shirt and Midi Skirt Set",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -28421,12 +28549,13 @@
       "supplier_id": "conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-5",
       "fam": "conjunto-camiseta-oversize",
       "cg": "t-conjunto-dazmond-camiseta-oversize-y-falda-midi-dos-piezas",
+      "art_score": 3,
       "img": "assets/products/shop/1a67087cba9c6f775b1e.jpg"
     },
     {
       "id": "interestprint-design-womens-lace-trim-bodycon-mini-dress",
-      "name_es": "Vestido Colección Privada Never · Blanco",
-      "name_en": "Colección Privada Never Dress · White",
+      "name_es": "Vestido Mini Encaje Silueta",
+      "name_en": "Lace Trim Silhouette Mini Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -28440,12 +28569,13 @@
       "fam": "vestido-mini-coleccion",
       "cg": "t-vestido-mini-coleccion-privada-never-define-me",
       "color": "white",
-      "img": "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-1.webp"
+      "art_score": 4,
+      "img": "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-6.webp"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28458,12 +28588,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/e3fa4d964878f9256c88.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-1",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28476,12 +28607,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-1",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/03a9fdbd7d35d9b72a88.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-10",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28494,12 +28626,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-10",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
-      "img": "assets/products/shop/57e2cc78d8899620cd24.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/45c01d80c9f09dc0ba8d.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-11",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28516,8 +28649,8 @@
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-12",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28530,12 +28663,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-12",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/f1aff09cba1acee10c03.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-13",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28548,12 +28682,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-13",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/e65705708bd47131737e.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-14",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28570,8 +28705,8 @@
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-2",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28584,12 +28719,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-2",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/32aae8877b69911defe9.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-3",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28602,12 +28738,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-3",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
-      "img": "assets/products/shop/e341543c53b50a20dd88.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/bfefdbb92e5f5862f672.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-4",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28624,8 +28761,8 @@
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-5",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28638,12 +28775,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-5",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/c50bf066686db2249128.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-6",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28656,12 +28794,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-6",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/7d1420ff54b2b50e1619.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-7",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28674,12 +28813,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-7",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
-      "img": "assets/products/shop/0f12f7e334e345f6b67d.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/c53e9d3f180162cdfa4b.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-8",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28692,12 +28832,13 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-8",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/b7c5472843082bdeaf90.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-9",
-      "name_es": "Vestido Daz Cruzado Hombros",
-      "name_en": "Daz Cruzado Hombros Dress",
+      "name_es": "Vestido cruzado de hombros descubiertos",
+      "name_en": "Off-shoulder crossover dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28710,6 +28851,7 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-9",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/1d0b31c4339489cd9973.jpg"
     },
     {
@@ -28729,12 +28871,13 @@
       "fam": "vestido-v-neck",
       "cg": "t-vestido-dazmond-v-neck-starlight-reverie",
       "color": "Blanco",
+      "art_score": 8,
       "img": "assets/products/shop/de28cace184ae9e49697.jpg"
     },
     {
       "id": "shopify-design-v-neck-three-quarter-sleeve-dress-1",
-      "name_es": "Vestido Optical Matrix",
-      "name_en": "Optical Matrix Dress",
+      "name_es": "Vestido V-Neck Optical Matrix",
+      "name_en": "Optical Matrix V-Neck Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -28748,6 +28891,7 @@
       "fam": "luxury-optical-matrix",
       "cg": "t-dazmond-luxury-optical-matrix-v-neck-dress",
       "color": "Blanco",
+      "art_score": 9,
       "img": "assets/products/shop/867ed46afdc7bd79599e.jpg"
     },
     {
@@ -28767,7 +28911,8 @@
       "fam": "luxury-imperial-baroque",
       "cg": "t-dazmond-luxury-imperial-baroque-v-neck-dress",
       "color": "Morado",
-      "img": "assets/products/shop/e08a6417c4295c8f85f3.jpg"
+      "art_score": 9,
+      "img": "assets/products/shop/3015484fe4e4e31ad66c.jpg"
     },
     {
       "id": "shopify-falda-larga-tipo-pareo-daz-premium-con-volantes-y-lazos-laterales-para-playa-de-mujer",

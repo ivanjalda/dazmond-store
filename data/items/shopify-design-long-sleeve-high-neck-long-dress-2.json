@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "High-density polyester and premium elastane",
+ "ai_type": "maxi dress",
+ "ai_ver": 2,
+ "art_note": "Sophisticated high-end architectural and luxury interior backdrops that elevate the garment presentation to international campaign standards.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-baroque-high-neck-maxi-dress",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Conceived to command any space with character and distinction. This high-neck, long-sleeve maxi dress redefines contemporary elegance through sublime fluidity of movement. The design features an all-over print of striking scenic presence and a gracefully structured silhouette. A signature piece available made-to-order with worldwide shipping.",
+ "desc_es": "Concebido para dominar cualquier espacio con carácter y distinción. Este vestido largo de cuello alto y manga larga redefine la elegancia contemporánea mediante una sublime fluidez de movimiento. Su diseño presenta un estampado integral de gran presencia escénica y una silueta estructurada con gracia. Una pieza de autor disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· High-density polyester and premium elastane blend\n· High neck and stylized long sleeves\n· Maxi length silhouette\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Mezcla de poliéster de alta densidad y elastano premium\n· Cuello alto y manga larga estilizada\n· Silueta de longitud maxi\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/501d0c964ebf48499149.jpg",
   "assets/products/shop/f4e07a7eaf139edd3434.jpg",
@@ -31,9 +45,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Baroque High Dress · Gold",
- "name_es": "Vestido Baroque High · Oro",
+ "name_en": "High-Neck Maxi Dress",
+ "name_es": "Vestido Maxi Cuello Alto",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 26.99,
  "rank": 1404,

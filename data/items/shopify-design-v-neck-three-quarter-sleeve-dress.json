@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% Poliéster",
+ "ai_type": "Vestido",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery with high-end editorial lighting and staging.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-dazmond-v-neck-starlight-reverie",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A fluid silhouette defined by a bold astral print against a luminous white backdrop. This design features an elegant V-neckline and three-quarter sleeves, complemented by invisible side pockets. The natural drape offers effortless versatility for any occasion.",
+ "desc_es": "Una silueta fluida definida por un audaz estampado astral sobre un fondo blanco luminoso. Este diseño presenta un elegante escote en V y mangas tres cuartos, complementado con bolsillos laterales invisibles. La caída natural ofrece una versatilidad impecable para cualquier ocasión.",
+ "details_en": "· 100% high-density polyester\n· V-neckline and three-quarter sleeves\n· Invisible side pockets\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% poliéster de alta densidad\n· Escote en V y mangas tres cuartos\n· Bolsillos laterales invisibles\n· Hecho bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/de28cace184ae9e49697.jpg",
   "assets/products/shop/a8c95d73d4c44ab7080f.jpg",
@@ -31,6 +45,7 @@
  "name_en": "Starlight Reverie Dress",
  "name_es": "Vestido Starlight Reverie",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 24.99,
  "rank": 1440,

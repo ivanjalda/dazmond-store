@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "High-density polyester and premium elastane",
+ "ai_type": "Maxi Dress",
+ "ai_ver": 2,
+ "art_note": "Exceptional high-fashion campaign imagery with luxurious settings and strong artistic direction.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,10 +19,11 @@
  "cg": "t-dazmond-luxury-golden-classic-line-high-neck-maxi-dress",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A signature garment conceived for the woman who leads with elegance, strength, and character. This long-sleeved, high-neck maxi dress redefines opulent minimalism through an extraordinary visual language. Across an absolute black canvas, fine vertical lines in old gold and bronze fall with artistic symmetry, interspersed with subtle gothic ornamental details and the signature monogram on the chest. An avant-garde piece designed to elevate presence with an aristocratic aura and unparalleled fluid movement.",
+ "desc_es": "Una prenda de autor concebida para la mujer que lidera con elegancia, fuerza y carácter. Este vestido largo de cuello alto y manga larga redefine el minimalismo opulento a través de un extraordinario lenguaje visual. Sobre un lienzo negro absoluto se proyectan finas líneas verticales en oro viejo y bronce que caen con simetría artística, intercaladas con sutiles detalles ornamentales góticos y el monograma de la firma sobre el pecho. Una pieza vanguardista diseñada para estilizar la presencia con un aura aristocrática y un movimiento fluido inigualable.",
+ "details_en": "· Crafted from a select blend of high-density polyester and premium elastane (21.02 oz)\n· High-neck and long-sleeve design\n· Maxi-length silhouette\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Confeccionado con mezcla selecta de poliéster de alta densidad y elastano premium (21.02 oz)\n· Diseño de cuello alto y manga larga\n· Silueta de longitud maxi\n· Pieza elaborada bajo pedido con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/fde424c2aba99b611bb8.jpg",
   "assets/products/shop/be0d20cf6c3e4e7c8e19.jpg",
   "assets/products/shop/75f7561a97f3390173a8.jpg",
   "assets/products/shop/25e839107b43990ca96c.jpg",
@@ -31,9 +44,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Golden Line High Dress · Gold",
- "name_es": "Vestido Golden Line High · Oro",
+ "name_en": "High-Neck Maxi Dress",
+ "name_es": "Vestido Maxi de Cuello Alto",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
  "rank": 1402,

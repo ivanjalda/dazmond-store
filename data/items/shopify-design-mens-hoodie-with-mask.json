@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Poliéster",
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Flat mannequin renders lack the depth and sophistication required for luxury presentation.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,14 @@
  "cg": "t-sudadera-daz-luxury-con-capucha-y-braga-de-cuello-para-hombre",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This sweatshirt redefines urban comfort with a design conceived for colder days. Crafted from high-quality polyester, it features a regular fit silhouette complemented by a practical hood and an integrated neck gaiter. Its structure offers protection against wind and snow while maintaining elegance in any setting. The front pocket adds functionality to an essential piece of contemporary wardrobe. Each garment is made to order to ensure ultimate exclusivity worldwide.",
+ "desc_es": "Esta sudadera redefine la comodidad urbana con un diseño concebido para los días más fríos. Confeccionada en poliéster de alta calidad, presenta una silueta de corte regular complementada por una práctica capucha y una braga de cuello integrada. Su estructura ofrece protección contra el viento y la nieve, manteniendo la elegancia en cualquier entorno. El bolsillo frontal añade funcionalidad a una pieza esencial del guardarropa contemporáneo. Cada prenda se elabora bajo pedido para garantizar la máxima exclusividad en todo el mundo.",
+ "details_en": "· Composition: 100% polyester\n· Regular fit\n· Hood and integrated neck gaiter\n· Front pocket\n· Care instructions: Hand or machine wash at a maximum temperature of 45 °C, do not bleach\n· Made to order with worldwide shipping",
+ "details_es": "· Composición: 100% poliéster\n· Corte regular\n· Capucha y braga de cuello integrada\n· Bolsillo frontal\n· Instrucciones de cuidado: Lavar a máquina o a mano a una temperatura máxima de 45 °C, no usar lejía\n· Hecho bajo pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/ba95b5acd2dd61212721.jpg",
   "assets/products/shop/756fd4d0e81b4dcba845.jpg",
-  "assets/products/shop/8af25f944d7e3339ba8e.jpg",
-  "assets/products/shop/6839c75c84d84c138555.jpg",
-  "http://ipimg.interestprint.com/data/product/4000/info/image/20241119/2F97A725A84CF10EEA4EED8E3A53EBE4.jpg"
+  "assets/products/shop/8af25f944d7e3339ba8e.jpg"
  ],
  "draft": false,
  "fam": "sudadera-luxury-capucha",
@@ -28,9 +40,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Daz Capucha Braga Sweatshirt",
- "name_es": "Sudadera Daz Capucha Braga",
+ "name_en": "High Neck Hooded Sweatshirt",
+ "name_es": "Sudadera Capucha Cuello Alto",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
  "rank": 1289,
@@ -38,8 +51,149 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (inch)",
+   "Length (cm)",
+   "Bust (inch)",
+   "Bust (cm)",
+   "Shoulder (inch)",
+   "Shoulder (cm)",
+   "Sleeve (inch)",
+   "Sleeve (cm)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (inch)",
+   "Largo (cm)",
+   "Pecho (inch)",
+   "Pecho (cm)",
+   "Hombro (inch)",
+   "Hombro (cm)",
+   "Manga (inch)",
+   "Manga (cm)"
+  ],
+  "notes_en": "Measurements are provided in inches and centimeters.",
+  "notes_es": "Las medidas se proporcionan en pulgadas y centímetros.",
+  "rows": [
+   [
+    "XS",
+    "26",
+    "65",
+    "36",
+    "92",
+    "16",
+    "39",
+    "26",
+    "66"
+   ],
+   [
+    "S",
+    "26",
+    "67",
+    "40",
+    "102",
+    "17",
+    "42",
+    "26",
+    "67"
+   ],
+   [
+    "M",
+    "28",
+    "70",
+    "44",
+    "112",
+    "18",
+    "45",
+    "27",
+    "68"
+   ],
+   [
+    "L",
+    "28",
+    "72",
+    "48",
+    "122",
+    "19",
+    "48",
+    "27",
+    "69"
+   ],
+   [
+    "XL",
+    "30",
+    "75",
+    "52",
+    "132",
+    "20",
+    "51",
+    "28",
+    "70"
+   ],
+   [
+    "XXL",
+    "30",
+    "76",
+    "56",
+    "142",
+    "21",
+    "54",
+    "28",
+    "71"
+   ],
+   [
+    "XXXL",
+    "31",
+    "79",
+    "60",
+    "152",
+    "22",
+    "57",
+    "28",
+    "71"
+   ],
+   [
+    "4XL",
+    "32",
+    "82",
+    "64",
+    "162",
+    "24",
+    "60",
+    "28",
+    "72"
+   ],
+   [
+    "5XL",
+    "33",
+    "85",
+    "68",
+    "172",
+    "25",
+    "63",
+    "29",
+    "73"
+   ],
+   [
+    "6XL",
+    "34",
+    "88",
+    "72",
+    "182",
+    "26",
+    "66",
+    "29",
+    "74"
+   ]
+  ],
+  "unit": "inch / cm"
+ },
+ "size_guide": [
+  "assets/products/shop/6839c75c84d84c138555.jpg",
+  "http://ipimg.interestprint.com/data/product/4000/info/image/20241119/2F97A725A84CF10EEA4EED8E3A53EBE4.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

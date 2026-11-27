@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/falda"
+ ],
+ "ai_color": "Orange",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% Polyester",
+ "ai_type": "Outfit Set",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on hangers, but model imagery relies on flat templates that reduce the luxury feel.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,19 +19,17 @@
  "cg": "t-conjunto-dazmond-camiseta-oversize-y-falda-midi-dos-piezas",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Redefine your concept of relaxed elegance with this two-piece set. Designed to offer a fluid, contemporary silhouette, this coordinated duo pairs an oversize short-sleeve t-shirt with a matching midi skirt. Crafted from a lightweight fabric, it delivers an impeccable drape and absolute comfort throughout the day. A versatile proposition that functions seamlessly as a sophisticated total look or styled as individual separates. Made to order pieces. Worldwide shipping.",
+ "desc_es": "Redefina su concepto de elegancia relajada con este conjunto de dos piezas. Diseñado para ofrecer una silueta fluida y contemporánea, este dúo coordinado combina una camiseta de manga corta con corte oversize y una falda midi a juego. Confeccionado en un tejido ligero, ofrece una caída impecable y un confort absoluto durante todo el día. Una propuesta versátil que funciona tanto como un total look sofisticado como separada en piezas individuales. Made to order pieces. Worldwide shipping.",
+ "details_en": "· 100% lightweight premium polyester\n· Short-sleeve t-shirt and midi skirt set\n· Casual oversize fit\n· Machine washable\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% poliéster premium ligero\n· Conjunto de camiseta de manga corta y falda midi\n· Corte casual oversize\n· Lavable a máquina\n· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/944372a03a59bd0d1937.jpg",
   "assets/products/shop/37626f7b4264d89222ba.jpg",
   "assets/products/shop/ff1dad02275ad0de561d.jpg",
   "assets/products/shop/defe3165439d83f53609.jpg",
   "assets/products/shop/4d61109fe50e55a110fb.jpg",
-  "assets/products/shop/8132e0da55dbd9861138.jpg",
-  "assets/products/shop/d965e3ec3428d9259dfb.jpg",
-  "assets/products/shop/cbce9937a7e42225135e.jpg",
-  "assets/products/shop/eafd4fec0483db4badcd.jpg",
-  "assets/products/shop/524b419f5c21be5a061e.jpg"
+  "assets/products/shop/cbce9937a7e42225135e.jpg"
  ],
  "draft": false,
  "fam": "conjunto-camiseta-oversize",
@@ -33,9 +43,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Conjunto Dos Piezas Skirt",
- "name_es": "Falda Conjunto Dos Piezas",
+ "name_en": "Oversize T-Shirt and Midi Skirt Set",
+ "name_es": "Conjunto Oversize de Camiseta y Falda Midi",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1421,
@@ -43,8 +54,112 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Conjuntos de ropa",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length-A",
+   "Length-B",
+   "Bust",
+   "Waist",
+   "Hip"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo-A",
+   "Largo-B",
+   "Busto",
+   "Cintura",
+   "Cadera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "85cm (33.5″)",
+    "88.5cm (34.8″)",
+    "83cm (32.7″)",
+    "79cm (31.1″)",
+    "88cm (34.6″)"
+   ],
+   [
+    "M",
+    "85.5cm (33.7″)",
+    "89cm (35.0″)",
+    "88cm (34.6″)",
+    "84cm (33.1″)",
+    "92cm (36.2″)"
+   ],
+   [
+    "L",
+    "86cm (33.9″)",
+    "89.5cm (35.2″)",
+    "93cm (36.6″)",
+    "89cm (35.0″)",
+    "98cm (38.6″)"
+   ],
+   [
+    "XL",
+    "86.5cm (34.1″)",
+    "90cm (35.4″)",
+    "98cm (38.6″)",
+    "94cm (37.0″)",
+    "104cm (40.9″)"
+   ],
+   [
+    "2XL",
+    "87cm (34.3″)",
+    "90.5cm (35.6″)",
+    "103cm (40.6″)",
+    "99cm (39.0″)",
+    "110cm (43.3″)"
+   ],
+   [
+    "3XL",
+    "87.5cm (34.4″)",
+    "91cm (35.8″)",
+    "108cm (42.5″)",
+    "104cm (41.0″)",
+    "116cm (45.7″)"
+   ],
+   [
+    "4XL",
+    "88cm (34.6″)",
+    "91.5cm (36.0″)",
+    "113cm (44.5″)",
+    "109cm (42.9″)",
+    "122cm (48.0″)"
+   ],
+   [
+    "5XL",
+    "88.5cm (34.8″)",
+    "92cm (36.2″)",
+    "118cm (46.5″)",
+    "114cm (44.8″)",
+    "128cm (50.4″)"
+   ],
+   [
+    "6XL",
+    "89cm (35.0″)",
+    "92.5cm (36.4″)",
+    "123cm (48.4″)",
+    "119cm (46.9″)",
+    "134cm (52.8″)"
+   ],
+   [
+    "7XL",
+    "89.5cm (35.2″)",
+    "93cm (36.6″)",
+    "128cm (50.4″)",
+    "124cm (48.8″)",
+    "138cm (54.3″)"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/524b419f5c21be5a061e.jpg"
+ ],
  "sizes": [
   "S",
   "M",

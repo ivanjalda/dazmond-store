@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisas"
+ ],
+ "ai_color": "blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester",
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "The mockups on the model look artificial and diminish the luxury positioning of the brand.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,13 @@
  "cg": "t-camisa-informal-daz-luxury-de-manga-larga-con-botones-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A timeless silhouette designed for contemporary elegance. This long-sleeved shirt offers an impeccable drape and a refined presence. Crafted from selected materials to ensure lasting comfort, it transitions effortlessly from professional engagements to formal affairs. Each piece is made to order to guarantee exclusivity and precision in every detail. Available with worldwide shipping.",
+ "desc_es": "Una silueta atemporal diseñada para la elegancia contemporánea. Esta camisa de manga larga ofrece una caída impecable y una presencia refinada. Confeccionada con materiales seleccionados para garantizar una comodidad duradera, se adapta con naturalidad desde los compromisos profesionales hasta los eventos formales. Cada pieza se confecciona bajo demanda para asegurar exclusividad y precisión en cada detalle. Disponible con envío internacional.",
+ "details_en": "· Premium polyester composition\n· Classic long-sleeve design\n· Front button closure\n· Made-to-order piece with worldwide shipping available",
+ "details_es": "· Confección en poliéster de primera calidad\n· Diseño clásico de manga larga\n· Cierre frontal abotonado\n· Pieza hecha a pedido con envío mundial disponible",
  "display_images": [
-  "assets/products/shop/39d6adabc965bf091a20.jpg",
-  "assets/products/shop/a0d1638b7a4a9ae581d8.jpg",
-  "assets/products/shop/2ddb2ec38bdbeb2ec401.jpg",
   "assets/products/shop/f45080060cb759f80ff4.jpg",
-  "assets/products/shop/e94add05d3d9cd603d1f.jpg",
-  "assets/products/shop/c4a6c9aff551aff33a29.jpg"
+  "assets/products/shop/e94add05d3d9cd603d1f.jpg"
  ],
  "draft": false,
  "fam": "camisa-informal-luxury",
@@ -32,6 +42,7 @@
  "name_en": "Daz Classic Button-Up Shirt",
  "name_es": "Camisa Abotonada Clásica Daz",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
  "rank": 1266,
@@ -39,8 +50,56 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest Width"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Ancho de pecho"
+  ],
+  "notes_en": "Measurements are taken flat. Please allow minor deviations due to individual tailoring.",
+  "notes_es": "Las medidas se toman en plano. Pueden existir ligeras variaciones debido a la confección individual.",
+  "rows": [
+   [
+    "S",
+    "71cm (28.0\")",
+    "55cm (21.7\")"
+   ],
+   [
+    "M",
+    "73cm (28.7\")",
+    "57cm (22.4\")"
+   ],
+   [
+    "L",
+    "75cm (29.5\")",
+    "59cm (23.2\")"
+   ],
+   [
+    "XL",
+    "77cm (30.3\")",
+    "61cm (24.0\")"
+   ],
+   [
+    "2XL",
+    "79cm (31.1\")",
+    "63cm (24.8\")"
+   ],
+   [
+    "3XL",
+    "81cm (31.9\")",
+    "65cm (25.6\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/c4a6c9aff551aff33a29.jpg"
+ ],
  "sizes": [
   "S",
   "M",

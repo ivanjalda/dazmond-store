@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "86% poliéster, 14% elastano",
+ "ai_type": "Vestido Mini",
+ "ai_ver": 2,
+ "art_note": "Flat digital rendering of prints reduces the luxury feel, though clean composition saves the studio shots.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,11 @@
  "cg": "t-vestido-mini-coleccion-privada-never-define-me",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A commanding presence for warm evenings. This design traces the silhouette delicately with fine straps and a mini hemline. Lace details accentuate the neckline and hem with subtle contrast. The fluid structure follows every movement with absolute confidence. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una presencia que define las noches cálidas. Este diseño se ciñe con delicadeza a la silueta mediante finos tirantes y un acabado mini. Los detalles de encaje realzan el escote y el dobladillo con sutil contraste. La estructura fluida acompaña cada movimiento con seguridad absoluta. Cada pieza se confecciona bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 86% polyester, 14% elastane (130 g/m²)\n· Silhouette-defining mini cut\n· Fine shoulder straps\n· Lace trim at neckline and hem\n· Made-to-order piece",
+ "details_es": "· 86% poliéster, 14% elastano (130 g/m²)\n· Corte mini ceñido a la silueta\n· Tirantes finos\n· Ribetes de encaje en escote y dobladillo\n· Pieza confeccionada bajo demanda",
  "display_images": [
-  "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-1.webp",
-  "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-2.webp",
-  "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-3.webp",
-  "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-4.webp",
-  "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-5.webp",
   "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-6.webp"
  ],
  "draft": false,
@@ -28,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Colección Privada Never Dress · White",
- "name_es": "Vestido Colección Privada Never · Blanco",
+ "name_en": "Lace Trim Silhouette Mini Dress",
+ "name_es": "Vestido Mini Encaje Silueta",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1424,
@@ -38,8 +48,80 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Bust",
+   "1/2 Waist",
+   "1/2 Hip",
+   "1/2 Hem"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Busto",
+   "1/2 Cintura",
+   "1/2 Cadera",
+   "1/2 Dobladillo"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "XS",
+    "54.5cm / 21.5in",
+    "35.5cm / 14in",
+    "30cm / 11.8in",
+    "40.5cm / 15.9in",
+    "42.5cm / 16.7in"
+   ],
+   [
+    "S",
+    "56cm / 22in",
+    "38cm / 15in",
+    "32.5cm / 12.8in",
+    "43cm / 16.9in",
+    "45cm / 17.7in"
+   ],
+   [
+    "M",
+    "57.5cm / 22.6in",
+    "40.5cm / 15.9in",
+    "35cm / 13.8in",
+    "45.5cm / 17.9in",
+    "47.5cm / 18.7in"
+   ],
+   [
+    "L",
+    "59cm / 23.2in",
+    "43cm / 16.9in",
+    "37.5cm / 14.8in",
+    "48cm / 18.9in",
+    "50cm / 19.7in"
+   ],
+   [
+    "XL",
+    "60.5cm / 23.8in",
+    "45.5cm / 17.9in",
+    "40cm / 15.7in",
+    "50.5cm / 19.9in",
+    "52.5cm / 20.7in"
+   ],
+   [
+    "2XL",
+    "62cm / 24.4in",
+    "48cm / 18.9in",
+    "42.5cm / 16.7in",
+    "53cm / 20.9in",
+    "55cm / 21.7in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/interestprint-design-womens-lace-trim-bodycon-mini-dress-5.webp"
+ ],
  "sizes": [
   "XS",
   "S",

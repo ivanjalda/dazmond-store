@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Pink Argyle",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Tejido técnico con tacto de algodón",
+ "ai_type": "Vestido Mini",
+ "ai_ver": 2,
+ "art_note": "High-end editorial campaign imagery with sophisticated lighting and strong brand atmosphere.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-mini-dazmond-long-sleeve-v-neck-ruffle-argyle",
  "color": "Rosa",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary reinterpretation of the classic geometric diamond pattern. This mini dress combines sophistication and modernity in a fluid silhouette. Featuring a V-neckline, long sleeves, and a delicate ruffle hem. Contrast horizontal bands define the waist and cuffs. Made to order with worldwide shipping.",
+ "desc_es": "Una reinterpretación contemporánea del clásico patrón geométrico de rombos. Este vestido mini combina sofisticación y modernidad en una silueta fluida. Presenta un escote en V, mangas largas y un delicado volante en el bajo. Las cenefas horizontales en contraste definen la cintura y los puños. Confeccionado bajo demanda con envío a todo el mundo.",
+ "details_en": "· Cotton-feel technical fabric\n· V-neckline\n· Long sleeves\n· Ruffle hem\n· Made to order in the USA",
+ "details_es": "· Tejido técnico con tacto de algodón\n· Escote en V\n· Manga larga\n· Bajo con volante\n· Confeccionado bajo demanda en EE. UU.",
  "display_images": [
   "assets/products/shop/8efae77fbb6caf930a50.jpg",
   "assets/products/shop/7a97b2bdc40f505b6098.jpg",
@@ -32,9 +46,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Ruffle Argyle Dress · Pink",
- "name_es": "Vestido Ruffle Argyle · Rosa",
+ "name_en": "Pink Argyle Mini Dress",
+ "name_es": "Vestido Mini Pink Argyle",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 23.99,
  "rank": 1407,

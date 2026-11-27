@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "White / Rose Gold / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester and elastane blend",
+ "ai_type": "Maxi Dress",
+ "ai_ver": 2,
+ "art_note": "High-end editorial campaign imagery shot in sophisticated architectural environments with exceptional lighting and curation.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-rose-geometry-high-neck-maxi-dress",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Defined by a captivating visual language, this maxi dress combines sophistication with contemporary originality. The design features a three-dimensional geometric print set against an immaculate white canvas, accented with absolute black and textured metallic nuances in rose gold and copper. The silhouette is structured with an aristocratic high neck, long sleeves, and a maxi-length skirt that delivers fluid movement. Crafted for the woman who leads with distinction.",
+ "desc_es": "Definido por un lenguaje visual cautivador, este vestido largo combina sofisticación y originalidad contemporánea. Su diseño presenta un estampado geométrico tridimensional sobre un lienzo blanco impoluto, con acentos en negro absoluto y matices metalizados en oro rosa y cobre. La silueta se estructura con un cuello alto aristocrático, mangas largas y una falda de longitud maxi que aporta un movimiento fluido. Confeccionado para la mujer que lidera con distinción.",
+ "details_en": "· High-density polyester and premium elastane blend\n· High neck and long sleeves\n· Maxi-length silhouette\n· All-over geometric print with metallic details\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Mezcla de poliéster de alta densidad y elastano premium\n· Cuello alto y manga larga\n· Silueta de longitud maxi\n· Estampado geométrico integral con detalles metalizados\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/3202a46f9e7b38a47ca6.jpg",
   "assets/products/shop/933bfc48739d133694bb.jpg",
@@ -27,9 +41,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Rose Geometry High Dress · Gold",
- "name_es": "Vestido Rose Geometry High · Oro",
+ "name_en": "Rose Gold Geometry Maxi Dress",
+ "name_es": "Vestido Maxi Geometría Oro Rosa",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 26.99,
  "rank": 1405,

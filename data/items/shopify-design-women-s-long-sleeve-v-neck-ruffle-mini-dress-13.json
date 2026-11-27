@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Negro y Magenta",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Tejido de tacto algodon de 13.02 oz",
+ "ai_type": "Vestido Mini",
+ "ai_ver": 2,
+ "art_note": "Exquisite campaign imagery capturing high fashion aesthetics with sophisticated lighting and styling.",
+ "art_score": 10,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-magenta-constellation-ruffle-mini-dress",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Contemporary luxury is defined through contrast and movement. This couture mini dress combines a night-black base with a constellation of magenta stars. The refined V-neckline and ruffled hem add a dimension of sophisticated elegance. Crafted in the United States from a medium-heavy weight cotton-feel fabric with subtle stretch. A signature piece offering an impeccable drape and superior comfort.",
+ "desc_es": "El lujo contemporaneo se define a traves del contraste y el movimiento. Este vestido mini de alta costura combina una base de negro noche con una constelacion de estrellas en magenta. El refinado escote en V y el bajo con volante anaden una dimension de elegancia sofisticada. Confeccionado en los Estados Unidos confeccionado con un tejido de tacto al algodón de peso medio-alto y sutil elasticidad. Una pieza de firma que ofrece una caida impecable y un confort superior.",
+ "details_en": "· Made to order and available with worldwide shipping.\n· Crafted in the United States.\n· 13.02 oz cotton-feel fabric.\n· V-neckline with structured trim.\n· Ruffled hem.",
+ "details_es": "· Hecho bajo pedido y disponible con envio mundial.\n· Confeccionado en Estados Unidos.\n· Tejido de tacto al algodon de 13.02 oz.\n· Escote en V con ribete estructurado.\n· Bajo con volante arqueado.",
  "display_images": [
   "assets/products/shop/418302ae9cc1664ab87b.jpg",
   "assets/products/shop/a512b1f495e48f0c5c9e.jpg",
@@ -29,9 +43,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Magenta Constellation Ruffle Dress",
- "name_es": "Vestido Magenta Constellation Ruffle",
+ "name_en": "Magenta Constellation Mini Dress",
+ "name_es": "Vestido Mini Magenta Constellation",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 23.99,
  "rank": 1410,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Tejido técnico con tacto de algodón",
+ "ai_type": "Vestido Mini",
+ "ai_ver": 2,
+ "art_note": "The editorial Parisian and luxury interior lifestyle shots achieve a refined high-end aesthetic.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,12 +19,11 @@
  "cg": "t-vestido-mini-dazmond-long-sleeve-v-neck-ruffle-urban-collage",
  "color": "Multicolor",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Exploring the fusion between contemporary art and haute couture, this mini dress presents a sophisticated graphic design with aged textures and deep chromatic nuances. Its fluid silhouette is defined by an elegant V-neckline, long sleeves, and a delicate ruffle hem that introduces movement. Crafted with precision to offer an impeccable drape and an ultra-soft feel, it stands as a piece of refined artistic expression for exclusive events or daily wear. Made to order and available with worldwide shipping.",
+ "desc_es": "Explorando la fusión entre el arte contemporáneo y la alta costura, este vestido mini presenta un sofisticado diseño gráfico con texturas envejecidas y matices cromáticos profundos. Su silueta fluida se define mediante un elegante escote en V, mangas largas y un delicado volante en el bajo que aporta movimiento. Confeccionado con precisión para ofrecer una caída impecable y un tacto ultrasuave, constituye una pieza de refinada expresión artística para eventos exclusivos o el día a día. Fabricado bajo demanda y disponible con envío mundial.",
+ "details_en": "· Soft cotton-feel technical fabric (369 g)\n· V-neckline and long sleeves\n· Fluid cut with ruffle hem\n· Made to order in the USA",
+ "details_es": "· Tejido técnico suave con tacto de algodón (369 g)\n· Escote en V y manga larga\n· Corte fluido con bajo de volante\n· Confeccionado bajo demanda en EE. UU.",
  "display_images": [
-  "assets/products/shop/4c7596a10fc0ec5f389d.jpg",
-  "assets/products/shop/cb8edb3eee49241619d5.jpg",
-  "assets/products/shop/1ed64fe6613da25277b9.jpg",
   "assets/products/shop/90b7dc6707721b052c2d.jpg",
   "assets/products/shop/540e717bb4330666e968.jpg",
   "assets/products/shop/bf65196d2d0c65ad00b1.jpg"
@@ -29,9 +40,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Ruffle Urban Collage Dress",
- "name_es": "Vestido Ruffle Urban Collage",
+ "name_en": "Urban Collage Mini Dress",
+ "name_es": "Vestido Mini Urban Collage",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 23.99,
  "rank": 1408,

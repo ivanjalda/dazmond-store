@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "The images feature digital composites and marketplace styling rather than luxury editorial standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,16 @@
  "cg": "t-blusa-casual-daz-premium-con-cuello-babydoll-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This blouse merges a relaxed silhouette with clean lines. Crafted from soft polyester, it features a babydoll neckline and a refined button detail at the front. The pleated hem introduces fluid movement to the piece. A versatile garment designed for daily wear that transitions effortlessly between styles. Made to order. Worldwide shipping available.",
+ "desc_es": "Esta blusa combina un diseño relajado con líneas depuradas. Confeccionada en poliéster suave, presenta un cuello babydoll y un delicado detalle de botones en la parte delantera. El dobladillo plisado aporta movimiento y fluidez a la prenda. Una pieza versátil para el día a día que se adapta con naturalidad a diferentes estilismos. Confeccionada bajo pedido. Envío mundial disponible.",
+ "details_en": "· Composition: 100% polyester\n· Relaxed, loose fit\n· Front button closure\n· Care: machine washable\n· Made to order. Worldwide shipping available.",
+ "details_es": "· Composición: 100% poliéster\n· Corte holgado y relajado\n· Cierre frontal con botones\n· Cuidado: lavado a máquina\n· Confeccionado bajo pedido. Envío mundial disponible.",
  "display_images": [
   "assets/products/shop/1fcf2c56251ad39c7bde.jpg",
   "assets/products/shop/6e2370c366e429faa4d4.jpg",
   "assets/products/shop/ddb4e2dfaffbd3d4655c.jpg",
   "assets/products/shop/71017774f9a5c1a7cbec.jpg",
-  "assets/products/shop/4d7613ba1d96195f9dee.jpg",
-  "assets/products/shop/1e6558368ec60523ebfb.jpg"
+  "assets/products/shop/4d7613ba1d96195f9dee.jpg"
  ],
  "draft": false,
  "fam": "blusa-casual-premium",
@@ -29,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Blusa Daz Cuello Blouse",
- "name_es": "Blusa Blusa Daz Cuello",
+ "name_en": "Long Sleeve Babydoll Blouse",
+ "name_es": "Blusa Babydoll de Manga Larga",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1379,
@@ -39,8 +53,51 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest Width"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Ancho de pecho"
+  ],
+  "notes_en": "Made to order pieces. Worldwide shipping available.",
+  "notes_es": "Piezas confeccionadas bajo pedido. Envío mundial disponible.",
+  "rows": [
+   [
+    "S",
+    "71cm (28.0\")",
+    "50cm (19.7\")"
+   ],
+   [
+    "M",
+    "73cm (28.7\")",
+    "52cm (20.5\")"
+   ],
+   [
+    "L",
+    "75cm (29.5\")",
+    "54cm (21.3\")"
+   ],
+   [
+    "XL",
+    "77cm (30.3\")",
+    "56cm (22.1\")"
+   ],
+   [
+    "2XL",
+    "79cm (31.1\")",
+    "58cm (22.9\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/1e6558368ec60523ebfb.jpg"
+ ],
  "sizes": [
   "S",
   "M",

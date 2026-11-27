@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "black and white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "cotton-feel technical fabric",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle campaign imagery with high-end cinematic lighting and strong mood.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-mini-dazmond-long-sleeve-v-neck-ruffle-striped-hearts",
  "color": "Blanco y Negro",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This mini dress reinterprets classic maritime striping through clean black and white horizontal lines punctuated by passion red hearts. The design features a flattering V-neckline, long sleeves, and a delicate ruffled hem. The signature monogram accents the chest with subtle distinction, achieving a refined balance between nautical heritage and contemporary romance.",
+ "desc_es": "Este mini vestido reinterpreta el clásico estampado marinero mediante líneas horizontales en blanco y negro salpicadas de corazones en rojo pasión. El diseño presenta un favorecedor escote en V, mangas largas y un sutil bajo con volante. El monograma exclusivo de la firma adorna el pecho con elegancia sutil, logrando un equilibrio perfecto entre la estética náutica y el romanticismo contemporáneo.",
+ "details_en": "· Cotton-feel technical fabric\n· V-neckline and long sleeves\n· Ruffled hemline\n· Striped and heart print with signature monogram detail\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Tejido técnico con tacto de algodón\n· Escote en V y manga larga\n· Bajo con volante\n· Estampado de rayas y corazones con detalle de monograma\n· Confección bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/7a21f1d2c9f451991690.jpg",
   "assets/products/shop/fcedb3f27b165731c62f.jpg",
@@ -28,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Ruffle Striped Hearts Dress",
- "name_es": "Vestido Ruffle Striped Hearts",
+ "name_en": "Striped Hearts Mini Dress",
+ "name_es": "Vestido Mini Striped Hearts",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 23.99,
  "rank": 1412,

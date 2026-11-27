@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/falda"
+ ],
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% Poliéster Premium",
+ "ai_type": "Conjunto",
+ "ai_ver": 2,
+ "art_note": "Flat mockup presentation lacks the sophisticated lighting and atmospheric depth required for luxury positioning.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,21 +19,17 @@
  "cg": "t-conjunto-dazmond-camiseta-oversize-y-falda-midi-dos-piezas",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This two-piece set redefines the concept of relaxed sophistication. The design pairs an oversized t-shirt with a fluid midi skirt, creating a contemporary and balanced silhouette. Crafted from a lightweight fabric, it offers an impeccable drape and exceptional everyday comfort. The pieces can be worn together as a coordinated look or separated to maximize styling options. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Este conjunto de dos piezas redefine el concepto de la sofisticación relajada. El diseño combina una camiseta de corte amplio con una falda midi fluida, creando una silueta contemporánea y equilibrada. Confeccionado en un tejido ligero, ofrece una caída impecable y una comodidad excepcional para el día a día. Las piezas pueden llevarse juntas como un look coordinado o separadas para maximizar las opciones de estilo. Cada pedido se confecciona especialmente para usted con envíos a todo el mundo.",
+ "details_en": "· 100% Premium lightweight and breathable polyester\n· Short sleeve t-shirt and midi skirt set\n· Relaxed oversize fit\n· Machine washable\n· Made to order with worldwide shipping",
+ "details_es": "· 100% Poliéster Premium ligero y transpirable\n· Conjunto de camiseta de manga corta y falda midi\n· Corte oversize informal\n· Lavable a máquina\n· Hecho a medida y con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/3a32545df30431472161.jpg",
   "assets/products/shop/32ef29e6bee718387212.jpg",
   "assets/products/shop/e151555e876ef89d8176.jpg",
   "assets/products/shop/d2a2a66558757ac19206.jpg",
   "assets/products/shop/0f5c6c23d255ebfcd136.jpg",
-  "assets/products/shop/ad2cea66a463e9d96282.jpg",
   "assets/products/shop/07e9b84a01dcbbf94c67.jpg",
-  "assets/products/shop/da32cb7acdfb1bd591cc.jpg",
-  "assets/products/shop/0294a9c47703a86fff77.jpg",
-  "assets/products/shop/32634d888cf791fabddd.jpg",
-  "assets/products/shop/5c2151e17e7da4c0e451.jpg",
-  "assets/products/shop/c5af6a94b061b43b68ea.jpg"
+  "assets/products/shop/da32cb7acdfb1bd591cc.jpg"
  ],
  "draft": false,
  "fam": "conjunto-camiseta-oversize",
@@ -35,9 +43,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Conjunto Dos Piezas Skirt",
- "name_es": "Falda Conjunto Dos Piezas",
+ "name_en": "Oversize T-Shirt and Midi Skirt Set",
+ "name_es": "Conjunto Oversize de Camiseta y Falda Midi",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1420,

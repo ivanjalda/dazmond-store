@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Red and Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "High-density polyester and premium elastane blend",
+ "ai_type": "Maxi Dress",
+ "ai_ver": 2,
+ "art_note": "Sophisticated high-end editorial campaign imagery with refined lighting and luxurious interior settings.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-crimson-nebula-high-neck-maxi-dress",
  "color": "Rojo",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Step into a dimension of absolute sophistication with a piece conceived to command any space with presence. This haute couture maxi dress redefines contemporary distinction. Its striking aesthetic features an all-over print on a deep black base, unfolding a dramatic vertical trail of crimson red flashes. Meticulously crafted from our select high-density blend, it offers a sumptuous, fluid drape. Exclusive made-to-order piece available with worldwide shipping.",
+ "desc_es": "EntRE en una dimensión de sofisticación absoluta con una prenda concebida para dominar cualquier espacio con presencia. Este vestido largo de alta costura redefine el concepto de distinción contemporánea. Su imponente propuesta estética presenta un estampado integral sobre una base de negro profundo, desplegando una dramática estela vertical de destellos en rojo carmesí. Confeccionado minuciosamente con nuestra mezcla selecta de alta densidad, ofrece una caída suntuosa y fluida. Pieza exclusiva disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Crafted from a high-density polyester and premium elastane blend (21.02 oz)\n· Tailored high neckline\n· Stylized long sleeves\n· All-over cosmic-inspired print\n· Embroidered initial detail on chest\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Confeccionado en mezcla de poliéster de alta densidad y elastano premium (21.02 oz)\n· Cuello alto de corte sastrero\n· Mangas largas estilizadas\n· Estampado integral de inspiración cósmica\n· Detalle de inicial bordada en el pecho\n· Disponible bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/c604389b834b1368cc88.jpg",
   "assets/products/shop/e2230fedfee5003f086a.jpg",
@@ -28,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Crimson Nebula High Dress",
- "name_es": "Vestido Crimson Nebula High",
+ "name_en": "Crimson Nebula Maxi Dress",
+ "name_es": "Vestido Largo Nebulosa Carmesí",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 26.99,
  "rank": 1406,
