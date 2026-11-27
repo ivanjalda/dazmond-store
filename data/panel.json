@@ -1,7 +1,7 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-27 20:42 UTC",
+  "updated": "2026-11-27 21:41 UTC",
   "totals": {
     "catalogo": 2522,
     "a_la_vista": 2069,
@@ -4515,7 +4515,7 @@
     "CSV leído: telegram.csv",
     "Printify: 71 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 10 s",
+    "⏱ lectura de proveedores: 13 s",
     "Productos en catálogo: 2522 · a la vista: 2072 · archivados: 101",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
@@ -4523,8 +4523,8 @@
     "⏱ ventas, visitas y cupones: 2 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 2 productos revisados (fotos, guía de tallas y textos) · quedan 763",
-    "⏱ revisión con IA: 237 s",
+    "IA: 0 productos revisados (fotos, guía de tallas y textos) · quedan 763",
+    "⏱ revisión con IA: 125 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
