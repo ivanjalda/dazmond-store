@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T03:41:55Z",
+  "updated": "2026-11-27T04:32:37Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -1967,7 +1967,8 @@
       "stripe_link_id": "plink_1UgDJGLJVU4oTPuXnAvcQVXS",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "ai_fail": 1
     },
     {
       "id": "printify-6b08d1fb08b8102972074efc",
@@ -2092,7 +2093,8 @@
       "stripe_link_id": "plink_1UgDJHLJVU4oTPuXdby89fp2",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "ai_fail": 1
     },
     {
       "id": "printify-6b066740eca3203e09098ed4",
