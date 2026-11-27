@@ -17085,48 +17085,6 @@
       "img": "assets/products/shop/6cfe7f3a8c72876741c6.jpg"
     },
     {
-      "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral",
-      "name_es": "Corbata Estrecha Negra · Negro",
-      "name_en": "Black Slim Necktie · Black",
-      "price_usd": 19.99,
-      "badge": "new",
-      "categories": [
-        "hombre/gorro-bufanda",
-        "mujer/gorros-bufandas"
-      ],
-      "available": true,
-      "rank": 847,
-      "created": "2026-11-19",
-      "page": true,
-      "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral",
-      "fam": "corbata-tipo-bandana",
-      "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
-      "color": "Black",
-      "art_score": 8,
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986153-3-YbEBxMHCm1.jpg?v=1725986360"
-    },
-    {
-      "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-1",
-      "name_es": "Corbata Estrecha Negra · Black And White",
-      "name_en": "Black Slim Necktie · Black And White",
-      "price_usd": 19.99,
-      "badge": "new",
-      "categories": [
-        "hombre/gorro-bufanda",
-        "mujer/gorros-bufandas"
-      ],
-      "available": true,
-      "rank": 848,
-      "created": "2026-11-19",
-      "page": true,
-      "supplier_id": "corbata-tipo-bandana-daz-con-estampado-integral-1",
-      "fam": "corbata-tipo-bandana",
-      "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
-      "color": "Black and White",
-      "art_score": 7,
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986614-3-Nq8tpuTHrs.jpg?v=1725986741"
-    },
-    {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-10",
       "name_es": "Corbata Estrecha Negra · Orange",
       "name_en": "Black Slim Necktie · Orange",
@@ -17145,7 +17103,7 @@
       "cg": "t-corbata-tipo-bandana-daz-con-estampado-integral",
       "color": "Orange",
       "art_score": 6,
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047298-3-S3rNKgdYtS.jpg?v=1726047384"
+      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047298-5-S3rNKgdYtS.jpg?v=1726047392"
     },
     {
       "id": "shopify-corbata-tipo-bandana-daz-con-estampado-integral-11",
@@ -17602,7 +17560,7 @@
       "fam": "gorra-malla",
       "cg": "t-gorra-daz-de-malla",
       "color": "Black",
-      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-1-4MUsvIKIfF.jpg?v=1728458397"
+      "img": "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-3-4MUsvIKIfF.jpg?v=1728458405"
     },
     {
       "id": "shopify-gorra-daz-de-malla-3",
@@ -28739,8 +28697,8 @@
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-14",
-      "name_es": "Vestido cruzado de hombros descubiertos",
-      "name_en": "Off-shoulder crossover dress",
+      "name_es": "Vestido cruzado de hombros descubiertos · Azul",
+      "name_en": "Off-shoulder crossover dress · Blue",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -28753,6 +28711,7 @@
       "supplier_id": "vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-14",
       "fam": "vestido-luxury-cruzado",
       "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
+      "color": "Blue",
       "art_score": 4,
       "img": "assets/products/shop/bfc298747c5fa59fe590.jpg"
     },
@@ -32779,13 +32738,14 @@
       "supplier_id": "tangas-de-mujer-daz-2",
       "fam": "sweet-dreams-moon",
       "cg": "t-dazmond-sweet-dreams-moon-tanga-de-mujer",
+      "color": "Gris claro pastel",
       "art_score": 4,
       "img": "assets/products/shop/69abb2fed763d73c9f5c.jpg"
     },
     {
       "id": "shopify-tangas-de-mujer-daz-america",
-      "name_es": "Tanga Estampada Bandera América",
-      "name_en": "America Flag Print Thong",
+      "name_es": "Tanga Estampada Bandera América · Multicolor",
+      "name_en": "America Flag Print Thong · Multicolor",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -32798,13 +32758,14 @@
       "supplier_id": "tangas-de-mujer-daz-america",
       "fam": "america-tanga-mujer",
       "cg": "t-dazmond-america-tanga-de-mujer",
+      "color": "multicolor",
       "art_score": 4,
       "img": "assets/products/shop/2ab08f8954631dc91d92.jpg"
     },
     {
       "id": "shopify-tangas-de-mujer-daz-america-black",
-      "name_es": "Tanga Estampada Bandera América",
-      "name_en": "America Flag Print Thong",
+      "name_es": "Tanga Estampada Bandera América · Negro Y Blanco",
+      "name_en": "America Flag Print Thong · Negro Y Blanco",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -32817,6 +32778,7 @@
       "supplier_id": "tangas-de-mujer-daz-america-black",
       "fam": "america-tanga-mujer",
       "cg": "t-dazmond-america-tanga-de-mujer",
+      "color": "Negro y Blanco",
       "art_score": 3,
       "img": "assets/products/shop/1dee11733dd7857205fc.jpg"
     },
@@ -32836,6 +32798,7 @@
       "supplier_id": "taza-de-cafe-daz",
       "fam": "taza-cafe",
       "cg": "t-taza-de-cafe-daz",
+      "color": "White",
       "art_score": 8,
       "img": "assets/products/shop/c964ec9fdfc8284951a0.jpg"
     },
@@ -32855,13 +32818,14 @@
       "supplier_id": "taza-de-cafe-daz-11-oz",
       "fam": "taza-cafe-oz",
       "cg": "t-taza-de-cafe-daz-oz",
+      "color": "black",
       "art_score": 8,
       "img": "assets/products/shop/8ac8ea86b242913789d7.jpg"
     },
     {
       "id": "shopify-abstract-seamless-pattern-seamless-pattern-with-triangles-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
-      "name_es": "Pijama Pijama Daz Tirantes",
-      "name_en": "Pijama Daz Tirantes Loungewear",
+      "name_es": "Vestido de pijama con encaje",
+      "name_en": "Lace Trim Sleep Dress",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -32874,12 +32838,13 @@
       "supplier_id": "abstract-seamless-pattern-seamless-pattern-with-triangles-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
       "fam": "vestido-pijama-luxury",
       "cg": "t-vestido-de-pijama-daz-luxury-de-tirantes-finos-con-escote-pronunciado-y",
+      "art_score": 4,
       "img": "assets/products/shop/e17e4a208fccba25e020.jpg"
     },
     {
       "id": "shopify-bata-corta-daz-luxury-de-bano-para-mujer",
-      "name_es": "Pijama Bata Corta Daz",
-      "name_en": "Bata Corta Daz Loungewear",
+      "name_es": "Bata Corta DAZ Luxury",
+      "name_en": "DAZ Luxury Short Bathrobe",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -32892,12 +32857,13 @@
       "supplier_id": "bata-corta-daz-luxury-de-bano-para-mujer",
       "fam": "bata-corta-luxury",
       "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
+      "art_score": 8,
       "img": "assets/products/shop/d8ae72052085dd4fb14e.jpg"
     },
     {
       "id": "shopify-bata-corta-daz-luxury-de-bano-para-mujer-1",
-      "name_es": "Pijama Bata Corta Daz",
-      "name_en": "Bata Corta Daz Loungewear",
+      "name_es": "Bata Corta DAZ Luxury",
+      "name_en": "DAZ Luxury Short Bathrobe",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -32910,12 +32876,13 @@
       "supplier_id": "bata-corta-daz-luxury-de-bano-para-mujer-1",
       "fam": "bata-corta-luxury",
       "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
-      "img": "assets/products/shop/793f96f58d22f624029d.jpg"
+      "art_score": 3,
+      "img": "assets/products/shop/82c5d9f5d48362a147bf.jpg"
     },
     {
       "id": "shopify-bata-corta-daz-luxury-de-bano-para-mujer-2",
-      "name_es": "Pijama Bata Corta Daz",
-      "name_en": "Bata Corta Daz Loungewear",
+      "name_es": "Bata Corta DAZ Luxury",
+      "name_en": "DAZ Luxury Short Bathrobe",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -32928,12 +32895,13 @@
       "supplier_id": "bata-corta-daz-luxury-de-bano-para-mujer-2",
       "fam": "bata-corta-luxury",
       "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
+      "art_score": 8,
       "img": "assets/products/shop/ad676e3d0995ee4d62f1.jpg"
     },
     {
       "id": "shopify-bata-corta-daz-luxury-de-bano-para-mujer-3",
-      "name_es": "Pijama Bata Corta Daz",
-      "name_en": "Bata Corta Daz Loungewear",
+      "name_es": "Bata Corta DAZ Luxury",
+      "name_en": "DAZ Luxury Short Bathrobe",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -32946,12 +32914,13 @@
       "supplier_id": "bata-corta-daz-luxury-de-bano-para-mujer-3",
       "fam": "bata-corta-luxury",
       "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
+      "art_score": 8,
       "img": "assets/products/shop/7f059f10bfb20d425826.jpg"
     },
     {
       "id": "shopify-bata-corta-daz-luxury-de-bano-para-mujer-4",
-      "name_es": "Pijama Bata Corta Daz",
-      "name_en": "Bata Corta Daz Loungewear",
+      "name_es": "Bata Corta DAZ Luxury",
+      "name_en": "DAZ Luxury Short Bathrobe",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -32964,12 +32933,13 @@
       "supplier_id": "bata-corta-daz-luxury-de-bano-para-mujer-4",
       "fam": "bata-corta-luxury",
       "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/1e6eba0aef6daf6dd929.jpg"
     },
     {
       "id": "shopify-christmas-seamless-pattern-with-candy-sticks-for-holiday-design-167655107-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
-      "name_es": "Pijama Pijama Daz Tirantes",
-      "name_en": "Pijama Daz Tirantes Loungewear",
+      "name_es": "Vestido de pijama con encaje",
+      "name_en": "Lace Trim Sleep Dress",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -32982,12 +32952,13 @@
       "supplier_id": "christmas-seamless-pattern-with-candy-sticks-for-holiday-design_167655107-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
       "fam": "vestido-pijama-luxury",
       "cg": "t-vestido-de-pijama-daz-luxury-de-tirantes-finos-con-escote-pronunciado-y",
+      "art_score": 4,
       "img": "assets/products/shop/b58a0db7db610ebed4f2.jpg"
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33000,12 +32971,13 @@
       "supplier_id": "conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre",
       "fam": "conjunto-camisa-pantalones",
       "cg": "t-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta",
+      "art_score": 3,
       "img": "assets/products/shop/657fa82fac01bb73fa9c.jpg"
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-1",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33018,12 +32990,13 @@
       "supplier_id": "conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-1",
       "fam": "conjunto-camisa-pantalones",
       "cg": "t-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta",
+      "art_score": 3,
       "img": "assets/products/shop/67a7bd8b9bbace83d42f.jpg"
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-2",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33036,12 +33009,13 @@
       "supplier_id": "conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-2",
       "fam": "conjunto-camisa-pantalones",
       "cg": "t-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta",
+      "art_score": 4,
       "img": "assets/products/shop/16a541bca212b1fe277b.jpg"
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-3",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33058,8 +33032,8 @@
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-4",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33076,8 +33050,8 @@
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-5",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33094,8 +33068,8 @@
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-6",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33112,8 +33086,8 @@
     },
     {
       "id": "shopify-cracked-white-grunge-brick-wall-background-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
-      "name_es": "Pijama Pijama Daz Tirantes",
-      "name_en": "Pijama Daz Tirantes Loungewear",
+      "name_es": "Vestido de pijama con encaje",
+      "name_en": "Lace Trim Sleep Dress",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33130,8 +33104,8 @@
     },
     {
       "id": "shopify-doodle-rose-flower-cats-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
-      "name_es": "Pijama Pijama Daz Tirantes",
-      "name_en": "Pijama Daz Tirantes Loungewear",
+      "name_es": "Vestido de pijama con encaje",
+      "name_en": "Lace Trim Sleep Dress",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33148,8 +33122,8 @@
     },
     {
       "id": "shopify-leopard-pattern-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
-      "name_es": "Pijama Pijama Daz Tirantes",
-      "name_en": "Pijama Daz Tirantes Loungewear",
+      "name_es": "Vestido de pijama con encaje",
+      "name_en": "Lace Trim Sleep Dress",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [

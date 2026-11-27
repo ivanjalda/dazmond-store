@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "Blue / Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester blend",
+ "ai_sizes": "Universal",
+ "ai_type": "Bathrobe",
+ "ai_ver": 2,
+ "art_note": "The first image establishes an elevated boutique atmosphere, though subsequent product and model shots reflect standard e-commerce staging.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Wrap yourself in the sophisticated comfort of this women's short bathrobe. Crafted from a lightweight polyester blend fabric, it offers a fluid drape and a delicate touch against the skin. Its design incorporates a belt closure ensuring a secure and elegant universal fit. Two front pockets add discreet functionality for your morning essentials. An essential loungewear piece conceived for daily relaxation. Available made to order with worldwide shipping.",
+ "desc_es": "Envuélvete en la comodidad sofisticada de esta bata corta para mujer. Confeccionada con un tejido ligero de mezcla de poliéster, ofrece una caída fluida y un tacto delicado sobre la piel. Su diseño incorpora un cinturón con cierre que asegura un ajuste universal impecable y elegante. Los dos bolsillos delanteros añaden funcionalidad discreta para tus esenciales de la mañana. Una pieza esencial de estar en casa concebida para el descanso diario. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Lightweight polyester blend fabric\n· Belt with closure for a secure and elegant universal fit\n· Two front pockets\n· Machine washable in cold water, gentle cycle with mild detergent\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Tejido ligero de mezcla de poliéster\n· Cinturón con cierre para un ajuste universal seguro y elegante\n· Dos bolsillos delanteros\n· Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave\n· Hecho a medida bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/d8ae72052085dd4fb14e.jpg",
   "assets/products/shop/bb34f9302c07fa3655fa.jpg",
@@ -18,8 +33,7 @@
   "assets/products/shop/33d15eea8bf439e5258d.jpg",
   "assets/products/shop/f50be57d935ace4f78e6.jpg",
   "assets/products/shop/61522879bf7e8f19d514.jpg",
-  "assets/products/shop/17e4527eb12097276b08.jpg",
-  "assets/products/shop/d01f870738fe908db3b4.jpg"
+  "assets/products/shop/17e4527eb12097276b08.jpg"
  ],
  "draft": false,
  "fam": "bata-corta-luxury",
@@ -33,9 +47,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Bata Corta Daz Loungewear",
- "name_es": "Pijama Bata Corta Daz",
+ "name_en": "DAZ Luxury Short Bathrobe",
+ "name_es": "Bata Corta DAZ Luxury",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 28.99,
  "rank": 1634,
@@ -43,9 +58,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Albornoces",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Arm",
+   "Chest",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Manga",
+   "Pecho",
+   "Largo"
+  ],
+  "notes_en": "Made to order pieces with worldwide shipping available.",
+  "notes_es": "Piezas confeccionadas bajo pedido con envíos a todo el mundo.",
+  "rows": [
+   [
+    "One Size / Universal",
+    "54cm (21\")",
+    "61cm (24\")",
+    "91cm (35\")"
+   ]
+  ],
+  "unit": "cm (inch)"
+ },
+ "size_guide": [
+  "assets/products/shop/d01f870738fe908db3b4.jpg"
+ ],
+ "sizes": [
+  "Universal"
+ ],
  "source_title": "Bata corta DAZ Luxury de baño para mujer",
  "stripe_payment_link": "https://buy.stripe.com/cNi28sdruaCM76ufT01gQ1p",
  "supplier": "Shopify",

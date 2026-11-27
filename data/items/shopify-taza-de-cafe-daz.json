@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-taza-de-cafe-daz",
- "color": "",
+ "color": "White",
  "created": "2026-11-19",
  "desc_en": "A refined expression of contemporary design for home and office environments. This white ceramic piece combines clean lines with an elevated finish. The smooth body and ergonomic handle provide a comfortable grip. Every detail brings sophistication to daily routines. Available through made-to-order production with worldwide shipping.",
  "desc_es": "Una expresión depurada de diseño contemporáneo para el hogar y la oficina. Esta pieza de cerámica blanca combina líneas puras con un acabado refinado. El cuerpo suave y el asa ergonómica ofrecen una sujeción cómoda. Cada detalle aporta sofisticación a los momentos cotidianos. Disponible mediante producción bajo demanda con envíos a todo el mundo.",
@@ -34,13 +34,14 @@
  ],
  "draft": false,
  "fam": "taza-cafe",
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-taza-de-cafe-daz",
  "img_checked": "2026-11-21",
  "look": [
   "printify-6b08d1dfedc552ae3508a8e1"
  ],
- "material": "",
+ "material": "Ceramic",
  "name_en": "DAZ Ceramic Mug",
  "name_es": "Taza de Cerámica DAZ",
  "needs_review": false,

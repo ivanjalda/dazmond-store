@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester and lace",
+ "ai_type": "nightgown",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on flat digital mockups and composites, lacking the organic texture and refined lighting expected in a luxury fashion campaign.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,16 @@
  "cg": "t-vestido-de-pijama-daz-luxury-de-tirantes-finos-con-escote-pronunciado-y",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An intimate evening piece defined by clean lines and a fluid silhouette. Crafted from a soft fabric that moves effortlessly. Contrast lace defines the plunging neckline, bringing a sophisticated presence to private hours. Each creation is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una pieza de descanso diseñada con líneas limpias y una silueta fluida. Confeccionada con un tejido suave que acompaña el movimiento natural. El contraste de encaje define el escote pronunciado, aportando una presencia sofisticada a la intimidad. Cada creación se realiza bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· Composition: 100% polyester and lace\n· Adjustable straps\n· Plunging neckline with lace detail\n· Tie closure\n· Stretch fabric with gathered detail\n· Gentle care: hand or machine wash\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Composición: 100 % poliéster y encaje\n· Tirantes ajustables\n· Escote pronunciado con detalle de encaje\n· Cierre con lazo\n· Tejido elástico con detalle fruncido\n· Cuidado suave: lavar a mano o a máquina\n· Hecho bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/b58a0db7db610ebed4f2.jpg",
   "assets/products/shop/ceddf1bebc3100c6d996.jpg",
   "assets/products/shop/f504b3392d0eece33e4c.jpg",
   "assets/products/shop/8d4679fdc923d743331d.jpg",
-  "assets/products/shop/f4c6b2f7db003d2dc550.jpg",
-  "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+  "assets/products/shop/f4c6b2f7db003d2dc550.jpg"
  ],
  "draft": false,
  "fam": "vestido-pijama-luxury",
@@ -29,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Pijama Daz Tirantes Loungewear",
- "name_es": "Pijama Pijama Daz Tirantes",
+ "name_en": "Lace Trim Sleep Dress",
+ "name_es": "Vestido de pijama con encaje",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1639,
@@ -39,8 +53,61 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "ANCHO DE PECHO(B)"
+  ],
+  "notes_en": "Length (A) measured from shoulder strap connection to hem. Chest width (B) measured across the bust point.",
+  "notes_es": "Longitud (A) medida desde la conexión del tirante hasta el dobladillo. Ancho de pecho (B) medido a través del punto del busto.",
+  "rows": [
+   [
+    "S",
+    "25.59",
+    "32.28"
+   ],
+   [
+    "M",
+    "25.98",
+    "34.25"
+   ],
+   [
+    "L",
+    "26.57",
+    "36.22"
+   ],
+   [
+    "XL",
+    "27.17",
+    "38.19"
+   ],
+   [
+    "2XL",
+    "27.76",
+    "40.16"
+   ],
+   [
+    "3XL",
+    "28.15",
+    "42.13"
+   ],
+   [
+    "4XL",
+    "28.54",
+    "44.09"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+ ],
  "sizes": [
   "S",
   "M",

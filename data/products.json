@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:41:58Z",
+  "updated": "2026-11-27T13:41:53Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -120522,7 +120522,7 @@
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986153-4-YbEBxMHCm1.jpg?v=1725986363",
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986153-5-YbEBxMHCm1.jpg?v=1725986367"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-19": 21.99,
         "2026-11-20": 21.99,
@@ -120534,7 +120534,7 @@
         "2026-11-26": 19.99,
         "2026-11-27": 19.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 15.2,
       "rank": 847,
       "badge": "new",
@@ -120544,7 +120544,7 @@
         "printful-351492575-black",
         "printify-6b0667526db425f6b50b967a-black"
       ],
-      "page": true,
+      "page": false,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "img_checked": "2026-11-27",
@@ -120660,7 +120660,7 @@
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986614-4-Nq8tpuTHrs.jpg?v=1725986745",
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986614-5-Nq8tpuTHrs.jpg?v=1725986749"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-19": 21.99,
         "2026-11-20": 21.99,
@@ -120672,7 +120672,7 @@
         "2026-11-26": 19.99,
         "2026-11-27": 19.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 15.2,
       "rank": 848,
       "badge": "new",
@@ -120682,7 +120682,7 @@
         "printful-351492575-black",
         "printify-6b0667526db425f6b50b967a-black"
       ],
-      "page": true,
+      "page": false,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "img_checked": "2026-11-27",
@@ -120794,8 +120794,6 @@
       "images_model": [],
       "visual_verified": true,
       "display_images": [
-        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047298-3-S3rNKgdYtS.jpg?v=1726047384",
-        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047298-4-S3rNKgdYtS.jpg?v=1726047388",
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1726047298-5-S3rNKgdYtS.jpg?v=1726047392"
       ],
       "available": true,
@@ -123897,14 +123895,7 @@
       "images_model": [],
       "visual_verified": true,
       "display_images": [
-        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-1-4MUsvIKIfF.jpg?v=1728458397",
-        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-2-4MUsvIKIfF.jpg?v=1728458401",
-        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-3-4MUsvIKIfF.jpg?v=1728458405",
-        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-4-4MUsvIKIfF.jpg?v=1728458409",
-        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-5-4MUsvIKIfF.jpg?v=1728458413",
-        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-6-4MUsvIKIfF.jpg?v=1728458417",
-        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20230328092125-puwNCue7rY_6e9edf69-6711-4a05-b2a0-f1170280f275.jpg?v=1728458423",
-        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/20230328092132-zzoCLrgRNP_fbd6f341-906a-4efc-b862-8f7ff1161a90.jpg?v=1728458426"
+        "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1728458346-3-4MUsvIKIfF.jpg?v=1728458405"
       ],
       "available": true,
       "price_history": {
@@ -243432,8 +243423,8 @@
       ],
       "needs_review": false,
       "created": "2026-11-19",
-      "material": "",
-      "color": "",
+      "material": "Polyester",
+      "color": "Blue",
       "raw_images": [
         "assets/products/shop/072366a2d13e069e2f1f.jpg",
         "assets/products/shop/c9060d6bf831d4f13019.jpg",
@@ -243546,9 +243537,9 @@
         "6XL": "W39MRP8W-9"
       },
       "details_src": "* Material de tela de poliéster para vestido sin tirantes de mujer \n * Un vestido de moda con un estilo sexy con hombros descubiertos \n * Parte superior suelta y muy adecuada para modificar la figura \n * El largo por encima de la rodilla es lindo para caminar con facilidad \n * Elegante para vestido de noche de fiesta, vestido de dama de oficina y casual \n * Lavable a máquina con agua fría, ciclo suave y detergente suave",
-      "source_text": "Vestido DAZ Luxury cruzado con hombros descubiertos para mujer Dress Ropa y accesorios > Prendas de vestir > Vestidos * Material de tela de poliéster para vestido sin tirantes de mujer \n * Un vestido de moda con un estilo sexy con hombros descubiertos \n * Parte superior suelta y muy adecuada para modificar la figura \n * El largo por encima de la rodilla es lindo para caminar con facilidad \n * Elegante para vestido de noche de fiesta, vestido de dama de oficina y casual \n * Lavable a máquina con agua fría, ciclo suave y detergente suave",
-      "name_es": "Vestido cruzado de hombros descubiertos",
-      "name_en": "Off-shoulder crossover dress",
+      "source_text": "Vestido DAZ Luxury cruzado con hombros descubiertos para mujer Dress Ropa y accesorios > Prendas de vestir > Vestidos Dress Blue Polyester * Material de tela de poliéster para vestido sin tirantes de mujer \n * Un vestido de moda con un estilo sexy con hombros descubiertos \n * Parte superior suelta y muy adecuada para modificar la figura \n * El largo por encima de la rodilla es lindo para caminar con facilidad \n * Elegante para vestido de noche de fiesta, vestido de dama de oficina y casual \n * Lavable a máquina con agua fría, ciclo suave y detergente suave",
+      "name_es": "Vestido cruzado de hombros descubiertos · Azul",
+      "name_en": "Off-shoulder crossover dress · Blue",
       "desc_es": "Una silueta sofisticada que redefine la elegancia moderna. Este diseño de hombros descubiertos presenta una parte superior fluida que aporta movimiento y fluidez. Confeccionado bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo.",
       "desc_en": "A sophisticated silhouette that redefines modern elegance. This off-shoulder design features a fluid overlay that introduces effortless movement. Crafted on demand to ensure absolute exclusivity. Worldwide shipping available.",
       "price_usd": 25.99,
@@ -243677,7 +243668,8 @@
       "details_es": "· Composición: poliéster\n· Estilo sin tirantes con hombros descubiertos\n· Parte superior suelta\n· Largo por encima de la rodilla\n· Lavable a máquina con agua fría, ciclo suave y detergente suave\n· Pieza confeccionada bajo demanda\n· Envío mundial disponible",
       "details_en": "· Composition: polyester\n· Off-shoulder strapless style\n· Loose upper overlay\n· Above-the-knee length\n· Machine washable with cold water, gentle cycle and mild detergent\n· Made-to-order piece\n· Worldwide shipping available",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "women"
     },
     {
       "id": "shopify-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer-2",
@@ -281563,8 +281555,8 @@
       ],
       "needs_review": false,
       "created": "2026-11-19",
-      "material": "",
-      "color": "",
+      "material": "97% Poliéster, 3% Spandex",
+      "color": "Gris claro pastel",
       "raw_images": [
         "assets/products/shop/69abb2fed763d73c9f5c.jpg",
         "assets/products/shop/b948a4b50ac39f1b42c9.jpg",
@@ -281584,7 +281576,7 @@
         "XL": "'84893099181405940499"
       },
       "details_src": "Ternura Nocturna & Estilo Soñador \n Una propuesta íntima delicada, dulce y llena de encanto, pensada para brindar una sensación de máximo confort y serenidad. La Tanga de Mujer DAZMOND® \"Sweet Dreams Moon\" luce un tierno estampado integral ( All-Over Print ) sobre un fondo gris claro pastel. El diseño destaca por adorables lunas sonrientes durmiendo, estrellitas rosadas y diminutas nubes en tonos suaves. Cuenta con el clásico contraste de la cinturilla y ribetes elásticos en negro profundo, además del distinguido logo \"DAZ\" en el frontal superior.\n Materiales y Confección\n Confeccionada con una lujosa mezcla de 97% poliéster y 3% spandex de peso medio (180 g/m² / 5,3 oz/yd²), esta prenda ofrece suavidad al tacto y la elasticidad justa para adaptarse cómodamente durante todo el día. Su tejido técnico es transpirable e antimicrobiano, ideal para mantener la frescura e higiene cotidianas. Diseñada con un acabado impecable que incluye hilo de costura exterior negro e interior blanco, etiqueta cosida y ensamblaje bajo demanda en EE. UU. en unidades limitadas.\n Ficha Técnica\n Detalle \n Especificación de Colección DAZMOND \n Composición \n 97% Poliéster, 3% Spandex \n Peso de la Tela \n Tela media (180 g/m² / 5,3 oz/yd²) \n Propiedades Técnicas \n Tejido antimicrobiano y transpirable, suave y elástico \n Corte / Silueta \n Silueta tanga de ajuste regular \n Detalles \n Estampado infantil/soñador de lunas y estrellas, elástico y ribetes negros, hilo exterior negro e interior blanco, sello \"DAZ",
-      "source_text": "DAZMOND® \"Sweet Dreams Moon\" Tanga de Mujer Underwear Ropa y accesorios > Prendas de vestir > Ropa interior para chicas Ternura Nocturna & Estilo Soñador \n Una propuesta íntima delicada, dulce y llena de encanto, pensada para brindar una sensación de máximo confort y serenidad. La Tanga de Mujer DAZMOND® \"Sweet Dreams Moon\" luce un tierno estampado integral ( All-Over Print ) sobre un fondo gris claro pastel. El diseño destaca por adorables lunas sonrientes durmiendo, estrellitas rosadas y diminutas nubes en tonos suaves. Cuenta con el clásico contraste de la cinturilla y ribetes elásticos en negro profundo, además del distinguido logo \"DAZ\" en el frontal superior.\n Materiales y Confección\n Confeccionada con una lujosa mezcla de 97% poliéster y 3% spandex de peso medio (180 g/m² / 5,3 oz/yd²), esta prenda ofrece suavidad al tacto y la elasticidad justa para adaptarse cómodamente durante todo el día. Su tejido técnico es transpirable e antimicrobiano, ideal para mantener la frescura e higiene cotidianas. Diseñada con un acabado impecable que incluye hilo de costura exterior negro e interior blanco, etiqueta cosida y ensamblaje bajo demanda en EE. UU. en unidades limitadas.\n Ficha Técnica\n Detalle \n Especificación de Colección DAZMOND \n Composición \n 97% Poliéster, 3% Spandex \n Peso de la Tela \n Tela media (180 g/m² / 5,3 oz/yd²) \n Propiedades Técnicas \n Tejido antimicrobiano y transpirable, suave y elástico \n Corte / Silueta \n Silueta tanga de ajuste regular \n Detalles \n Estampado infantil/soñador de lunas y estrellas, elástico y ribetes negros, hilo exterior negro e interior blanco, sello \"DAZ",
+      "source_text": "DAZMOND® \"Sweet Dreams Moon\" Tanga de Mujer Underwear Ropa y accesorios > Prendas de vestir > Ropa interior para chicas Tanga Gris claro pastel 97% Poliéster, 3% Spandex Ternura Nocturna & Estilo Soñador \n Una propuesta íntima delicada, dulce y llena de encanto, pensada para brindar una sensación de máximo confort y serenidad. La Tanga de Mujer DAZMOND® \"Sweet Dreams Moon\" luce un tierno estampado integral ( All-Over Print ) sobre un fondo gris claro pastel. El diseño destaca por adorables lunas sonrientes durmiendo, estrellitas rosadas y diminutas nubes en tonos suaves. Cuenta con el clásico contraste de la cinturilla y ribetes elásticos en negro profundo, además del distinguido logo \"DAZ\" en el frontal superior.\n Materiales y Confección\n Confeccionada con una lujosa mezcla de 97% poliéster y 3% spandex de peso medio (180 g/m² / 5,3 oz/yd²), esta prenda ofrece suavidad al tacto y la elasticidad justa para adaptarse cómodamente durante todo el día. Su tejido técnico es transpirable e antimicrobiano, ideal para mantener la frescura e higiene cotidianas. Diseñada con un acabado impecable que incluye hilo de costura exterior negro e interior blanco, etiqueta cosida y ensamblaje bajo demanda en EE. UU. en unidades limitadas.\n Ficha Técnica\n Detalle \n Especificación de Colección DAZMOND \n Composición \n 97% Poliéster, 3% Spandex \n Peso de la Tela \n Tela media (180 g/m² / 5,3 oz/yd²) \n Propiedades Técnicas \n Tejido antimicrobiano y transpirable, suave y elástico \n Corte / Silueta \n Silueta tanga de ajuste regular \n Detalles \n Estampado infantil/soñador de lunas y estrellas, elástico y ribetes negros, hilo exterior negro e interior blanco, sello \"DAZ",
       "name_es": "Tanga Sweet Dreams Moon",
       "name_en": "Sweet Dreams Moon Thong",
       "desc_es": "Una propuesta íntima y delicada, diseñada para brindar una sensación de máximo confort. Esta tanga luce un tierno estampado integral sobre un fondo gris claro pastel, con detalles contrastantes en negro profundo. El tejido técnico ofrece suavidad y la elasticidad justa para adaptarse con naturalidad durante todo el día. Cada pieza se confecciona bajo demanda en los Estados Unidos.",
@@ -281687,7 +281679,8 @@
       "details_es": "· 97% Poliéster, 3% Spandex\n· Peso de la tela: 180 g/m² (5,3 oz/yd²)\n· Tejido transpirable y antimicrobiano\n· Silueta tanga de ajuste regular\n· Elaborado bajo demanda en EE. UU.",
       "details_en": "· 97% Polyester, 3% Spandex\n· Fabric weight: 180 g/m² (5.3 oz/yd²)\n· Breathable and antimicrobial fabric\n· Regular fit thong silhouette\n· Made to order in the USA",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "women"
     },
     {
       "id": "shopify-tangas-de-mujer-daz-america",
@@ -281707,8 +281700,8 @@
       ],
       "needs_review": false,
       "created": "2026-11-19",
-      "material": "",
-      "color": "",
+      "material": "97% poliéster, 3% spandex",
+      "color": "multicolor",
       "raw_images": [
         "assets/products/shop/2ab08f8954631dc91d92.jpg",
         "assets/products/shop/6e91700524c51cb5d2d2.jpg",
@@ -281728,9 +281721,9 @@
         "XL": "'27895143425432632400"
       },
       "details_src": "Espíritu Patriótico & Estilo Audaz \n Una pieza íntima concebida para expresar identidad, dinamismo y estilo único sin sacrificar el confort. La Tanga de Mujer DAZMOND® América destaca por su llamativo estampado integral ( All-Over Print ) inspirado en la bandera estadounidense, combinando un fondo azul marino con estrellas blancas en un costado y franjas rojas y blancas ondulantes que aportan movimiento al diseño. Cuenta con una confortable cinturilla elástica y ribetes en color negro que enmarcan la silueta, complementados por el monograma emblemático \"DAZ\" en el frontal superior.\n Materiales y Confección\n Fabricada en una mezcla de 97% poliéster y 3% spandex de peso medio (180 g/m² / 5,3 oz/yd²), esta tanga brinda una gran suavidad y flexibilidad adaptándose perfectamente a los movimientos diarios. Su tejido técnico es transpirable e antimicrobiano, garantizando frescura e higiene. Presenta un acabado minucioso con hilo de costura exterior negro e interior blanco, etiqueta cosida y ensamblaje bajo demanda en EE. UU. en unidades limitadas.\n Ficha Técnica\n Detalle \n Especificación de Colección DAZMOND \n Composición \n 97% Poliéster, 3% Spandex \n Peso de la Tela \n Tela media (180 g/m² / 5,3 oz/yd²) \n Propiedades Técnicas \n Tejido antimicrobiano y transpirable, suave y elástico \n Corte / Silueta \n Silueta tanga de ajuste regular \n Detalles \n Estampado patriótico de bandera americana, elástico y ribetes negros, hilo exterior negro e interior blanco, sello \"DAZ\" , etiqueta cosida",
-      "source_text": "DAZMOND® América Tanga de Mujer Underwear Ropa y accesorios > Prendas de vestir > Lencería > Calzones para mujeres > Tangas Espíritu Patriótico & Estilo Audaz \n Una pieza íntima concebida para expresar identidad, dinamismo y estilo único sin sacrificar el confort. La Tanga de Mujer DAZMOND® América destaca por su llamativo estampado integral ( All-Over Print ) inspirado en la bandera estadounidense, combinando un fondo azul marino con estrellas blancas en un costado y franjas rojas y blancas ondulantes que aportan movimiento al diseño. Cuenta con una confortable cinturilla elástica y ribetes en color negro que enmarcan la silueta, complementados por el monograma emblemático \"DAZ\" en el frontal superior.\n Materiales y Confección\n Fabricada en una mezcla de 97% poliéster y 3% spandex de peso medio (180 g/m² / 5,3 oz/yd²), esta tanga brinda una gran suavidad y flexibilidad adaptándose perfectamente a los movimientos diarios. Su tejido técnico es transpirable e antimicrobiano, garantizando frescura e higiene. Presenta un acabado minucioso con hilo de costura exterior negro e interior blanco, etiqueta cosida y ensamblaje bajo demanda en EE. UU. en unidades limitadas.\n Ficha Técnica\n Detalle \n Especificación de Colección DAZMOND \n Composición \n 97% Poliéster, 3% Spandex \n Peso de la Tela \n Tela media (180 g/m² / 5,3 oz/yd²) \n Propiedades Técnicas \n Tejido antimicrobiano y transpirable, suave y elástico \n Corte / Silueta \n Silueta tanga de ajuste regular \n Detalles \n Estampado patriótico de bandera americana, elástico y ribetes negros, hilo exterior negro e interior blanco, sello \"DAZ\" , etiqueta cosida",
-      "name_es": "Tanga Estampada Bandera América",
-      "name_en": "America Flag Print Thong",
+      "source_text": "DAZMOND® América Tanga de Mujer Underwear Ropa y accesorios > Prendas de vestir > Lencería > Calzones para mujeres > Tangas tanga multicolor 97% poliéster, 3% spandex Espíritu Patriótico & Estilo Audaz \n Una pieza íntima concebida para expresar identidad, dinamismo y estilo único sin sacrificar el confort. La Tanga de Mujer DAZMOND® América destaca por su llamativo estampado integral ( All-Over Print ) inspirado en la bandera estadounidense, combinando un fondo azul marino con estrellas blancas en un costado y franjas rojas y blancas ondulantes que aportan movimiento al diseño. Cuenta con una confortable cinturilla elástica y ribetes en color negro que enmarcan la silueta, complementados por el monograma emblemático \"DAZ\" en el frontal superior.\n Materiales y Confección\n Fabricada en una mezcla de 97% poliéster y 3% spandex de peso medio (180 g/m² / 5,3 oz/yd²), esta tanga brinda una gran suavidad y flexibilidad adaptándose perfectamente a los movimientos diarios. Su tejido técnico es transpirable e antimicrobiano, garantizando frescura e higiene. Presenta un acabado minucioso con hilo de costura exterior negro e interior blanco, etiqueta cosida y ensamblaje bajo demanda en EE. UU. en unidades limitadas.\n Ficha Técnica\n Detalle \n Especificación de Colección DAZMOND \n Composición \n 97% Poliéster, 3% Spandex \n Peso de la Tela \n Tela media (180 g/m² / 5,3 oz/yd²) \n Propiedades Técnicas \n Tejido antimicrobiano y transpirable, suave y elástico \n Corte / Silueta \n Silueta tanga de ajuste regular \n Detalles \n Estampado patriótico de bandera americana, elástico y ribetes negros, hilo exterior negro e interior blanco, sello \"DAZ\" , etiqueta cosida",
+      "name_es": "Tanga Estampada Bandera América · Multicolor",
+      "name_en": "America Flag Print Thong · Multicolor",
       "desc_es": "Una pieza íntima concebida para expresar identidad y estilo sin sacrificar el confort. Esta silueta destaca por su llamativo estampado integral inspirado en la bandera estadounidense, combinando un fondo azul marino con estrellas y franjas ondulantes que aportan movimiento. Equipada con una confortable cinturilla elástica y ribetes en contraste, la prenda se completa con el monograma emblemático en el frontal. Fabricada bajo demanda en unidades limitadas con envío a todo el mundo.",
       "desc_en": "An intimate piece designed to express identity and style without sacrificing comfort. This silhouette stands out with its striking all-over print inspired by the American flag, combining a navy blue background with stars and undulating stripes that bring movement. Equipped with a comfortable elastic waistband and contrasting binding, the garment is finished with the emblematic monogram on the front. Crafted on demand in limited units with worldwide shipping.",
       "price_usd": 30.99,
@@ -281831,7 +281824,8 @@
       "details_es": "· Composición: 97% poliéster, 3% spandex\n· Peso de la tela: 180 g/m² (5,3 oz/yd²)\n· Tejido antimicrobiano y transpirable\n· Cinturilla elástica y ribetes negros\n· Sello DAZ en el frontal superior\n· Ensamblaje bajo demanda en EE. UU.",
       "details_en": "· Composition: 97% polyester, 3% spandex\n· Fabric weight: 180 g/m² (5.3 oz/yd²)\n· Antimicrobial and breathable fabric\n· Elastic waistband and black binding\n· DAZ seal on the upper front\n· Made-to-order assembly in the US",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "women"
     },
     {
       "id": "shopify-tangas-de-mujer-daz-america-black",
@@ -281851,8 +281845,8 @@
       ],
       "needs_review": false,
       "created": "2026-11-19",
-      "material": "",
-      "color": "",
+      "material": "97% Poliéster, 3% Spandex",
+      "color": "Negro y Blanco",
       "raw_images": [
         "assets/products/shop/1dee11733dd7857205fc.jpg",
         "assets/products/shop/d8a5546f18c458e31227.jpg",
@@ -281872,9 +281866,9 @@
         "XL": "'66192304007917309374"
       },
       "details_src": "Estilo Monocromático & Actitud Urbana \n Una reinvención audaz del diseño patriótico con una estética monocromática minimalista. La Tanga de Mujer DAZMOND® América Black presenta un estampado integral ( All-Over Print ) con la bandera estadounidense en tono blanco y negro con acabado desgastado ( vintage distress ). Con sus estrellas y franjas en contraste puro, esta prenda está delimitada por una cómoda cinturilla elástica y bordes en color negro, exhibiendo además el monograma \"DAZ\" en la parte frontal superior.\n Materiales y Confección\n Confeccionada en una suave mezcla de 97% poliéster y 3% spandex de peso medio (180 g/m² / 5,3 oz/yd²), esta tanga se adecúa a los movimientos del cuerpo ofreciendo la combinación ideal de suavidad y flexibilidad. Su tejido técnico es transpirable e antimicrobiano, garantizando máxima frescura y seguridad durante todo el día. Incorpora un detallado acabado con hilo de costura exterior negro e interior blanco, etiqueta cosida y se ensambla bajo demanda en EE. UU. a partir de piezas obtenidas en todo el mundo para asegurar la exclusividad de cada lote.\n Ficha Técnica\n Detalle \n Especificación de Colección DAZMOND \n Composición \n 97% Poliéster, 3% Spandex \n Peso de la Tela \n Tela media (180 g/m² / 5,3 oz/yd²) \n Propiedades Técnicas \n Tejido antimicrobiano y transpirable, suave y elástico \n Corte / Silueta \n Silueta tanga de ajuste regular \n Detalles \n Estampado monocromático bandera EE. UU. en blanco y negro, elástico y ribetes negros, hilo exte",
-      "source_text": "DAZMOND® América Black Tanga de Mujer Underwear Ropa y accesorios > Prendas de vestir > Ropa interior para chicas Estilo Monocromático & Actitud Urbana \n Una reinvención audaz del diseño patriótico con una estética monocromática minimalista. La Tanga de Mujer DAZMOND® América Black presenta un estampado integral ( All-Over Print ) con la bandera estadounidense en tono blanco y negro con acabado desgastado ( vintage distress ). Con sus estrellas y franjas en contraste puro, esta prenda está delimitada por una cómoda cinturilla elástica y bordes en color negro, exhibiendo además el monograma \"DAZ\" en la parte frontal superior.\n Materiales y Confección\n Confeccionada en una suave mezcla de 97% poliéster y 3% spandex de peso medio (180 g/m² / 5,3 oz/yd²), esta tanga se adecúa a los movimientos del cuerpo ofreciendo la combinación ideal de suavidad y flexibilidad. Su tejido técnico es transpirable e antimicrobiano, garantizando máxima frescura y seguridad durante todo el día. Incorpora un detallado acabado con hilo de costura exterior negro e interior blanco, etiqueta cosida y se ensambla bajo demanda en EE. UU. a partir de piezas obtenidas en todo el mundo para asegurar la exclusividad de cada lote.\n Ficha Técnica\n Detalle \n Especificación de Colección DAZMOND \n Composición \n 97% Poliéster, 3% Spandex \n Peso de la Tela \n Tela media (180 g/m² / 5,3 oz/yd²) \n Propiedades Técnicas \n Tejido antimicrobiano y transpirable, suave y elástico \n Corte / Silueta \n Silueta tanga de ajuste regular \n Detalles \n Estampado monocromático bandera EE. UU. en blanco y negro, elástico y ribetes negros, hilo exte",
-      "name_es": "Tanga Estampada Bandera América",
-      "name_en": "America Flag Print Thong",
+      "source_text": "DAZMOND® América Black Tanga de Mujer Underwear Ropa y accesorios > Prendas de vestir > Ropa interior para chicas Tanga Negro y Blanco 97% Poliéster, 3% Spandex Estilo Monocromático & Actitud Urbana \n Una reinvención audaz del diseño patriótico con una estética monocromática minimalista. La Tanga de Mujer DAZMOND® América Black presenta un estampado integral ( All-Over Print ) con la bandera estadounidense en tono blanco y negro con acabado desgastado ( vintage distress ). Con sus estrellas y franjas en contraste puro, esta prenda está delimitada por una cómoda cinturilla elástica y bordes en color negro, exhibiendo además el monograma \"DAZ\" en la parte frontal superior.\n Materiales y Confección\n Confeccionada en una suave mezcla de 97% poliéster y 3% spandex de peso medio (180 g/m² / 5,3 oz/yd²), esta tanga se adecúa a los movimientos del cuerpo ofreciendo la combinación ideal de suavidad y flexibilidad. Su tejido técnico es transpirable e antimicrobiano, garantizando máxima frescura y seguridad durante todo el día. Incorpora un detallado acabado con hilo de costura exterior negro e interior blanco, etiqueta cosida y se ensambla bajo demanda en EE. UU. a partir de piezas obtenidas en todo el mundo para asegurar la exclusividad de cada lote.\n Ficha Técnica\n Detalle \n Especificación de Colección DAZMOND \n Composición \n 97% Poliéster, 3% Spandex \n Peso de la Tela \n Tela media (180 g/m² / 5,3 oz/yd²) \n Propiedades Técnicas \n Tejido antimicrobiano y transpirable, suave y elástico \n Corte / Silueta \n Silueta tanga de ajuste regular \n Detalles \n Estampado monocromático bandera EE. UU. en blanco y negro, elástico y ribetes negros, hilo exte",
+      "name_es": "Tanga Estampada Bandera América · Negro Y Blanco",
+      "name_en": "America Flag Print Thong · Negro Y Blanco",
       "desc_es": "Una reinvención audaz del diseño clásico con una estética monocromática minimalista. Esta pieza presenta un estampado integral inspirado en la bandera estadounidense con un acabado desgastado. Las estrellas y franjas en contraste puro definen la silueta, realzada por una cómoda cinturilla elástica y ribetes oscuros. El monograma distintivo adorna la parte frontal superior, aportando un sello de identidad discreto. Confeccionada con materiales seleccionados para ofrecer flexibilidad y confort durante todo el jornada, esta creación encarna la actitud urbana contemporánea.",
       "desc_en": "A bold reimagining of classic design with a minimalist monochromatic aesthetic. This piece features an all-over print inspired by the American flag with a distressed finish. High-contrast stars and stripes define the silhouette, enhanced by a comfortable elastic waistband and dark trim. The signature monogram adorns the upper front, providing a subtle seal of identity. Crafted from selected materials to offer flexibility and comfort throughout the day, this creation embodies contemporary urban attitude.",
       "price_usd": 30.99,
@@ -281978,7 +281972,8 @@
       "details_es": "· 97% Poliéster, 3% Spandex\n· Peso de la tela: 180 g/m² / 5,3 oz/yd²\n· Tejido antimicrobiano y transpirable\n· Silueta tanga de ajuste regular\n· Cinturilla elástica y ribetes negros\n· Hecho bajo demanda en EE. UU.",
       "details_en": "· 97% Polyester, 3% Spandex\n· Fabric weight: 180 g/m² / 5,3 oz/yd²\n· Antimicrobial and breathable fabric\n· Regular fit thong silhouette\n· Elastic waistband and black trim\n· Made to order in the USA",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "women"
     },
     {
       "id": "shopify-taza-de-cafe-daz",
@@ -281994,8 +281989,8 @@
       ],
       "needs_review": false,
       "created": "2026-11-19",
-      "material": "",
-      "color": "",
+      "material": "Ceramic",
+      "color": "White",
       "raw_images": [
         "assets/products/shop/c964ec9fdfc8284951a0.jpg",
         "assets/products/shop/3206c8809eb683ab1f07.jpg",
@@ -282036,7 +282031,7 @@
         "unica": "YP623OGN-1"
       },
       "details_src": "* Material de alta calidad: esta taza de café blanca de 11 oz está hecha de cerámica resistente y duradera para que usted y su familia tengan una vida más saludable. \n * Estilo de moda: el asa de la taza de cerámica + el cuerpo de la taza de cerámica hacen que su taza sea elegante y de buen gusto. \n * Diseño del patrón: la boca de la taza es redonda y tiene patrones personalizados en el cuerpo de la taza. \n * Diseño ergonómico: el asa de la taza es gruesa, cómoda y el cuerpo de la taza es suave. \n * Regalo perfecto: esta es una gran taza de regalo para los miembros de la familia en días especiales. \n * Uso amplio: adecuado para el hogar, la oficina, la sala de conferencias, el aula y otras ocasiones. \n * Instrucciones de cuidado: lavar a mano únicamente, fácil de limpiar. No apto para lavavajillas ni microondas.",
-      "source_text": "Taza de café DAZ Mugs Casa y jardín > Cocina y comedor > Utensilios de mesa > Cristalería > Pocillos * Material de alta calidad: esta taza de café blanca de 11 oz está hecha de cerámica resistente y duradera para que usted y su familia tengan una vida más saludable. \n * Estilo de moda: el asa de la taza de cerámica + el cuerpo de la taza de cerámica hacen que su taza sea elegante y de buen gusto. \n * Diseño del patrón: la boca de la taza es redonda y tiene patrones personalizados en el cuerpo de la taza. \n * Diseño ergonómico: el asa de la taza es gruesa, cómoda y el cuerpo de la taza es suave. \n * Regalo perfecto: esta es una gran taza de regalo para los miembros de la familia en días especiales. \n * Uso amplio: adecuado para el hogar, la oficina, la sala de conferencias, el aula y otras ocasiones. \n * Instrucciones de cuidado: lavar a mano únicamente, fácil de limpiar. No apto para lavavajillas ni microondas.",
+      "source_text": "Taza de café DAZ Mugs Casa y jardín > Cocina y comedor > Utensilios de mesa > Cristalería > Pocillos Mug White Ceramic * Material de alta calidad: esta taza de café blanca de 11 oz está hecha de cerámica resistente y duradera para que usted y su familia tengan una vida más saludable. \n * Estilo de moda: el asa de la taza de cerámica + el cuerpo de la taza de cerámica hacen que su taza sea elegante y de buen gusto. \n * Diseño del patrón: la boca de la taza es redonda y tiene patrones personalizados en el cuerpo de la taza. \n * Diseño ergonómico: el asa de la taza es gruesa, cómoda y el cuerpo de la taza es suave. \n * Regalo perfecto: esta es una gran taza de regalo para los miembros de la familia en días especiales. \n * Uso amplio: adecuado para el hogar, la oficina, la sala de conferencias, el aula y otras ocasiones. \n * Instrucciones de cuidado: lavar a mano únicamente, fácil de limpiar. No apto para lavavajillas ni microondas.",
       "name_es": "Taza de Cerámica DAZ",
       "name_en": "DAZ Ceramic Mug",
       "desc_es": "Una expresión depurada de diseño contemporáneo para el hogar y la oficina. Esta pieza de cerámica blanca combina líneas puras con un acabado refinado. El cuerpo suave y el asa ergonómica ofrecen una sujeción cómoda. Cada detalle aporta sofisticación a los momentos cotidianos. Disponible mediante producción bajo demanda con envíos a todo el mundo.",
@@ -282147,7 +282142,8 @@
       "details_es": "· Cerámica resistente y duradera\n· Capacidad de 11 oz\n· Diseño estampado en el cuerpo\n· Lavar a mano únicamente\n· No apto para lavavajillas ni microondas",
       "details_en": "· Sturdy and durable ceramic\n· 11 oz capacity\n· Custom pattern design on body\n· Hand wash only\n· Not dishwasher or microwave safe",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "unisex"
     },
     {
       "id": "shopify-taza-de-cafe-daz-11-oz",
@@ -282163,8 +282159,8 @@
       ],
       "needs_review": false,
       "created": "2026-11-19",
-      "material": "",
-      "color": "",
+      "material": "ceramic",
+      "color": "black",
       "raw_images": [
         "assets/products/shop/8ac8ea86b242913789d7.jpg",
         "assets/products/shop/78ad923ef3e586ea0697.jpg",
@@ -282204,7 +282200,7 @@
         "unica": "WJ2OVK7W-1"
       },
       "details_src": "* Material de alta calidad: esta taza de café negra está hecha de cerámica de primera calidad \n * Estilo: su diseño elegante y su practicidad la convierten en un obsequio considerado para cualquier destinatario en cualquier ocasión \n * Diseño ergonómico: se adhiere con un agarre fácil con un asa negra \n * Gran capacidad: con una capacidad de 11 oz, adecuada tanto para bebidas frías como calientes \n * Regalo perfecto: su diseño elegante y su practicidad la convierten en un obsequio considerado para cualquier destinatario en cualquier ocasión \n * Instrucciones de cuidado: lavar a mano únicamente, fácil de limpiar. No apto para lavavajillas ni microondas.",
-      "source_text": "Taza de café DAZ (11 oz) Mugs Casa y jardín > Cocina y comedor > Utensilios de mesa > Cristalería > Pocillos * Material de alta calidad: esta taza de café negra está hecha de cerámica de primera calidad \n * Estilo: su diseño elegante y su practicidad la convierten en un obsequio considerado para cualquier destinatario en cualquier ocasión \n * Diseño ergonómico: se adhiere con un agarre fácil con un asa negra \n * Gran capacidad: con una capacidad de 11 oz, adecuada tanto para bebidas frías como calientes \n * Regalo perfecto: su diseño elegante y su practicidad la convierten en un obsequio considerado para cualquier destinatario en cualquier ocasión \n * Instrucciones de cuidado: lavar a mano únicamente, fácil de limpiar. No apto para lavavajillas ni microondas.",
+      "source_text": "Taza de café DAZ (11 oz) Mugs Casa y jardín > Cocina y comedor > Utensilios de mesa > Cristalería > Pocillos mug black ceramic * Material de alta calidad: esta taza de café negra está hecha de cerámica de primera calidad \n * Estilo: su diseño elegante y su practicidad la convierten en un obsequio considerado para cualquier destinatario en cualquier ocasión \n * Diseño ergonómico: se adhiere con un agarre fácil con un asa negra \n * Gran capacidad: con una capacidad de 11 oz, adecuada tanto para bebidas frías como calientes \n * Regalo perfecto: su diseño elegante y su practicidad la convierten en un obsequio considerado para cualquier destinatario en cualquier ocasión \n * Instrucciones de cuidado: lavar a mano únicamente, fácil de limpiar. No apto para lavavajillas ni microondas.",
       "name_es": "Taza de cerámica DAZ",
       "name_en": "DAZ Ceramic Mug",
       "desc_es": "Eleve su ritual diario con esta taza de café negra de alta calidad. Diseñada en cerámica de primera calidad, combina una estética refinada con una funcionalidad absoluta. Su estructura ergonómica cuenta con un asa negra de fácil agarre para una experiencia cómoda en cada sorbo. Con una capacidad de 11 oz, se adapta perfectamente tanto a bebidas frías como calientes. Una pieza esencial y sofisticada para el hogar o la oficina. Hecho a pedido. Envío mundial disponible.",
@@ -282340,8 +282336,61 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+      ],
+      "size_chart": {
+        "unit": "inches",
+        "headers": [
+          "Size",
+          "Length (A)",
+          "Chest Width (B)"
+        ],
+        "headers_es": [
+          "Talla",
+          "Largo (A)",
+          "Ancho de Pecho (B)"
+        ],
+        "rows": [
+          [
+            "S",
+            "25.59",
+            "32.28"
+          ],
+          [
+            "M",
+            "25.98",
+            "34.25"
+          ],
+          [
+            "L",
+            "26.57",
+            "36.22"
+          ],
+          [
+            "XL",
+            "27.17",
+            "38.19"
+          ],
+          [
+            "2XL",
+            "27.76",
+            "40.16"
+          ],
+          [
+            "3XL",
+            "28.15",
+            "42.13"
+          ],
+          [
+            "4XL",
+            "28.54",
+            "44.09"
+          ]
+        ],
+        "notes_en": "Measurements are provided in inches.",
+        "notes_es": "Las medidas se proporcionan en pulgadas."
+      },
       "sku_map": {
         "S": "D3216767",
         "M": "D3216767",
@@ -282353,10 +282402,10 @@
       },
       "details_src": ".title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje \n Hecho de 100 % poliéster y encaje, es sexy y cómodo.\n Sin relleno.\n Cierre con lazo.\n Presenta tirantes ajustables, tejido elástico, detalle fruncido y un vestido largo.\n Ideal para vacaciones, citas, fines de semana, viajes, salidas, ropa informal y verano.\n Tallas: S, M, L, XL, 2XL, 3XL, 4XL. Calcula tu talla con la tabla de medidas a continuación.\n Cuidado suave: Lavable a mano o a máquina. Evitar el remojo prolongado, el uso de lejía o detergentes a más de 45 °C.\n Cada creación de nuestra casa cobra vida únicamente cuando usted la elige. Este proceso bajo demanda transforma cada pieza en un símbolo personal de lujo y autenticidad. Solo unos pocos tendrán acceso a estas ediciones limitadas.",
       "source_text": "Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje Pajamas Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje \n Hecho de 100 % poliéster y encaje, es sexy y cómodo.\n Sin relleno.\n Cierre con lazo.\n Presenta tirantes ajustables, tejido elástico, detalle fruncido y un vestido largo.\n Ideal para vacaciones, citas, fines de semana, viajes, salidas, ropa informal y verano.\n Tallas: S, M, L, XL, 2XL, 3XL, 4XL. Calcula tu talla con la tabla de medidas a continuación.\n Cuidado suave: Lavable a mano o a máquina. Evitar el remojo prolongado, el uso de lejía o detergentes a más de 45 °C.\n Cada creación de nuestra casa cobra vida únicamente cuando usted la elige. Este proceso bajo demanda transforma cada pieza en un símbolo personal de lujo y autenticidad. Solo unos pocos tendrán acceso a estas ediciones limitadas.",
-      "name_es": "Pijama Pijama Daz Tirantes",
-      "name_en": "Pijama Daz Tirantes Loungewear",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "name_es": "Vestido de pijama con encaje",
+      "name_en": "Lace Trim Sleep Dress",
+      "desc_es": "Eleve sus noches con esta refinada prenda confeccionada para un confort absoluto. Su silueta fluida se define por finos tirantes ajustables y un pronunciado escote adornado con delicado encaje negro. El diseño geométrico aporta un matiz contemporáneo a la pieza. Cada creación se elabora exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+      "desc_en": "Elevate your evenings with this refined garment designed for absolute comfort. Its fluid silhouette is defined by delicate adjustable straps and a plunging neckline accented with intricate black lace. The geometric print introduces a contemporary edge to the piece. Each creation is crafted exclusively on demand to ensure absolute exclusivity. Available with worldwide shipping.",
       "price_usd": 28.99,
       "margin_pct": 22.1,
       "images_original": [
@@ -282374,8 +282423,7 @@
         "assets/products/shop/05fb05a6e64c5d1dc3b0.jpg",
         "assets/products/shop/58dc96fa2816470dfdb1.jpg",
         "assets/products/shop/5a4632d13bc08c4bcdc2.jpg",
-        "assets/products/shop/3c5ba128c8c9540cdb53.jpg",
-        "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+        "assets/products/shop/3c5ba128c8c9540cdb53.jpg"
       ],
       "available": true,
       "price_history": {
@@ -282420,7 +282468,54 @@
       "img_checked": "2026-11-21",
       "cg": "t-vestido-de-pijama-daz-luxury-de-tirantes-finos-con-escote-pronunciado-y",
       "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones",
-      "ai_fail": 2
+      "ai_fail": 2,
+      "art_score": 4,
+      "art_note": "Digital compositing and flat pattern overlays diminish the luxury standard, resembling marketplace visuals rather than high-end fashion photography.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/e17e4a208fccba25e020.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/05fb05a6e64c5d1dc3b0.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/58dc96fa2816470dfdb1.jpg",
+            "k": "detail",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/5a4632d13bc08c4bcdc2.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/3c5ba128c8c9540cdb53.jpg",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+        ]
+      },
+      "ai_type": "Camisón",
+      "ai_gender": "women",
+      "ai_color": "Multicolor",
+      "ai_material": "Poliéster y encaje",
+      "ai_cats": [
+        "mujer/batas-pijamas"
+      ],
+      "details_es": "· Hecho de 100 % poliéster y encaje\n· Tirantes ajustables\n· Tejido elástico con detalle fruncido\n· Cierre con lazo\n· Lavable a mano o a máquina\n· Pieza bajo demanda con envío mundial",
+      "details_en": "· Made of 100% polyester and lace\n· Adjustable straps\n· Stretch fabric with gathered detail\n· Tie closure\n· Hand or machine washable\n· Made-to-order piece with worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-bata-corta-daz-luxury-de-bano-para-mujer",
@@ -282431,7 +282526,9 @@
         "mujer/batas-pijamas"
       ],
       "cost_usd": 12.99,
-      "sizes": [],
+      "sizes": [
+        "Universal"
+      ],
       "needs_review": false,
       "created": "2026-11-19",
       "material": "",
@@ -282450,17 +282547,43 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/d01f870738fe908db3b4.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm (inch)",
+        "headers": [
+          "Size",
+          "Arm",
+          "Chest",
+          "Length"
+        ],
+        "headers_es": [
+          "Talla",
+          "Manga",
+          "Pecho",
+          "Largo"
+        ],
+        "rows": [
+          [
+            "One Size / Universal",
+            "54cm (21\")",
+            "61cm (24\")",
+            "91cm (35\")"
+          ]
+        ],
+        "notes_en": "Made to order pieces with worldwide shipping available.",
+        "notes_es": "Piezas confeccionadas bajo pedido con envíos a todo el mundo."
+      },
       "sku_map": {
         "unica": "NO51R78W-1"
       },
       "details_src": "* Tejido ligero de mezcla de poliéster para bata de baño de mujer. \n * Cinturón con cierre que garantiza un ajuste universal seguro y elegante. \n * Incluye dos bolsillos delanteros para tus artículos de primera necesidad por la mañana. \n * Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave.",
       "source_text": "Bata corta DAZ Luxury de baño para mujer Bathrobe Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Albornoces * Tejido ligero de mezcla de poliéster para bata de baño de mujer. \n * Cinturón con cierre que garantiza un ajuste universal seguro y elegante. \n * Incluye dos bolsillos delanteros para tus artículos de primera necesidad por la mañana. \n * Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave.",
-      "name_es": "Pijama Bata Corta Daz",
-      "name_en": "Bata Corta Daz Loungewear",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "name_es": "Bata Corta DAZ Luxury",
+      "name_en": "DAZ Luxury Short Bathrobe",
+      "desc_es": "Envuélvete en la comodidad sofisticada de esta bata corta para mujer. Confeccionada con un tejido ligero de mezcla de poliéster, ofrece una caída fluida y un tacto delicado sobre la piel. Su diseño incorpora un cinturón con cierre que asegura un ajuste universal impecable y elegante. Los dos bolsillos delanteros añaden funcionalidad discreta para tus esenciales de la mañana. Una pieza esencial de estar en casa concebida para el descanso diario. Disponible bajo pedido con envíos a todo el mundo.",
+      "desc_en": "Wrap yourself in the sophisticated comfort of this women's short bathrobe. Crafted from a lightweight polyester blend fabric, it offers a fluid drape and a delicate touch against the skin. Its design incorporates a belt closure ensuring a secure and elegant universal fit. Two front pockets add discreet functionality for your morning essentials. An essential loungewear piece conceived for daily relaxation. Available made to order with worldwide shipping.",
       "price_usd": 28.99,
       "margin_pct": 22.1,
       "images_original": [
@@ -282488,8 +282611,7 @@
         "assets/products/shop/33d15eea8bf439e5258d.jpg",
         "assets/products/shop/f50be57d935ace4f78e6.jpg",
         "assets/products/shop/61522879bf7e8f19d514.jpg",
-        "assets/products/shop/17e4527eb12097276b08.jpg",
-        "assets/products/shop/d01f870738fe908db3b4.jpg"
+        "assets/products/shop/17e4527eb12097276b08.jpg"
       ],
       "available": true,
       "price_history": {
@@ -282525,7 +282647,75 @@
       "fam": "bata-corta-luxury",
       "img_checked": "2026-11-21",
       "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Albornoces"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Albornoces",
+      "art_score": 8,
+      "art_note": "The first image establishes an elevated boutique atmosphere, though subsequent product and model shots reflect standard e-commerce staging.",
+      "needs_studio": false,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/d8ae72052085dd4fb14e.jpg",
+            "k": "model",
+            "q": "premium"
+          },
+          {
+            "u": "assets/products/shop/bb34f9302c07fa3655fa.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/24f0a6d528e6cdd54a0c.jpg",
+            "k": "model",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/7a02277d108c26b166c5.jpg",
+            "k": "model",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/2965b0a859eee41b973e.jpg",
+            "k": "model",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/33d15eea8bf439e5258d.jpg",
+            "k": "model",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/f50be57d935ace4f78e6.jpg",
+            "k": "model",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/61522879bf7e8f19d514.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/17e4527eb12097276b08.jpg",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/d01f870738fe908db3b4.jpg"
+        ]
+      },
+      "ai_type": "Bathrobe",
+      "ai_gender": "women",
+      "ai_color": "Blue / Gold",
+      "ai_material": "Polyester blend",
+      "ai_sizes": "Universal",
+      "ai_cats": [
+        "mujer/batas-pijamas"
+      ],
+      "details_es": "· Tejido ligero de mezcla de poliéster\n· Cinturón con cierre para un ajuste universal seguro y elegante\n· Dos bolsillos delanteros\n· Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave\n· Hecho a medida bajo pedido\n· Envíos a todo el mundo",
+      "details_en": "· Lightweight polyester blend fabric\n· Belt with closure for a secure and elegant universal fit\n· Two front pockets\n· Machine washable in cold water, gentle cycle with mild detergent\n· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-bata-corta-daz-luxury-de-bano-para-mujer-1",
@@ -282536,7 +282726,9 @@
         "mujer/batas-pijamas"
       ],
       "cost_usd": 12.99,
-      "sizes": [],
+      "sizes": [
+        "One Size"
+      ],
       "needs_review": false,
       "created": "2026-11-19",
       "material": "",
@@ -282555,17 +282747,43 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/114e1d38b286f6d609df.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm (inch)",
+        "headers": [
+          "Size",
+          "Arm",
+          "Chest",
+          "Length"
+        ],
+        "headers_es": [
+          "Talla",
+          "Manga",
+          "Pecho",
+          "Largo"
+        ],
+        "rows": [
+          [
+            "cm (inch)",
+            "54cm (21\")",
+            "61cm (24\")",
+            "91cm (35\")"
+          ]
+        ],
+        "notes_en": "Made to order. Worldwide shipping available.",
+        "notes_es": "Hecho por encargo. Envío a todo el mundo disponible."
+      },
       "sku_map": {
         "unica": "WE9OP7PW-1"
       },
       "details_src": "* Tejido ligero de mezcla de poliéster para bata de baño de mujer. \n * Cinturón con cierre que garantiza un ajuste universal seguro y elegante. \n * Incluye dos bolsillos delanteros para tus artículos de primera necesidad por la mañana. \n * Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave.",
       "source_text": "Bata corta DAZ Luxury de baño para mujer Bathrobe Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos * Tejido ligero de mezcla de poliéster para bata de baño de mujer. \n * Cinturón con cierre que garantiza un ajuste universal seguro y elegante. \n * Incluye dos bolsillos delanteros para tus artículos de primera necesidad por la mañana. \n * Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave.",
-      "name_es": "Pijama Bata Corta Daz",
-      "name_en": "Bata Corta Daz Loungewear",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "name_es": "Bata Corta DAZ Luxury",
+      "name_en": "DAZ Luxury Short Bathrobe",
+      "desc_es": "Una silueta envolvente diseñada para el descanso diario. Confeccionada con un tejido ligero de mezcla de poliéster. Presenta un cinturón con cierre que asegura un ajuste universal. Equipada con dos bolsillos delanteros funcionales. Cada pieza se elabora por encargo. Disponible con envío a todo el mundo.",
+      "desc_en": "An enveloping silhouette designed for daily repose. Crafted from a lightweight polyester blend fabric. Features a secure belt closure ensuring a universal fit. Equipped with two functional front pockets. Each piece is made to order. Available with worldwide shipping.",
       "price_usd": 28.99,
       "margin_pct": 22.1,
       "images_original": [
@@ -282585,16 +282803,10 @@
       ],
       "visual_verified": true,
       "display_images": [
-        "assets/products/shop/793f96f58d22f624029d.jpg",
-        "assets/products/shop/6ca710d38d4f765909d2.jpg",
-        "assets/products/shop/6bf53f717f6d2acf1632.jpg",
-        "assets/products/shop/bd9b576553d19a6b917d.jpg",
-        "assets/products/shop/79fc8919dd7dafbcae10.jpg",
         "assets/products/shop/82c5d9f5d48362a147bf.jpg",
         "assets/products/shop/67d50f6ecdc0e1b9ef1e.jpg",
         "assets/products/shop/2ac26f5c5644764c937e.jpg",
-        "assets/products/shop/95695a59f421095a4fa2.jpg",
-        "assets/products/shop/114e1d38b286f6d609df.jpg"
+        "assets/products/shop/95695a59f421095a4fa2.jpg"
       ],
       "available": true,
       "price_history": {
@@ -282630,7 +282842,75 @@
       "fam": "bata-corta-luxury",
       "img_checked": "2026-11-21",
       "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
+      "art_score": 3,
+      "art_note": "The imagery relies on composited mockups and flat digital overlays, failing to meet luxury e-commerce standards.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/793f96f58d22f624029d.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/6ca710d38d4f765909d2.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/6bf53f717f6d2acf1632.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/bd9b576553d19a6b917d.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/79fc8919dd7dafbcae10.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/82c5d9f5d48362a147bf.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/67d50f6ecdc0e1b9ef1e.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/2ac26f5c5644764c937e.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/95695a59f421095a4fa2.jpg",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/114e1d38b286f6d609df.jpg"
+        ]
+      },
+      "ai_type": "Bathrobe",
+      "ai_gender": "women",
+      "ai_color": "Multicolor",
+      "ai_material": "Poliéster",
+      "ai_sizes": "One Size",
+      "ai_cats": [
+        "mujer/batas-pijamas"
+      ],
+      "details_es": "· Tejido ligero de mezcla de poliéster\n· Cinturón con cierre para un ajuste universal\n· Dos bolsillos delanteros\n· Lavado a máquina con agua fría, ciclo delicado y detergente suave\n· Hecho por encargo",
+      "details_en": "· Lightweight polyester blend fabric\n· Belt closure for a secure universal fit\n· Two front pockets\n· Machine wash cold with delicate cycle and mild detergent\n· Made to order",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-bata-corta-daz-luxury-de-bano-para-mujer-2",
@@ -282641,7 +282921,9 @@
         "mujer/batas-pijamas"
       ],
       "cost_usd": 12.99,
-      "sizes": [],
+      "sizes": [
+        "One Size"
+      ],
       "needs_review": false,
       "created": "2026-11-19",
       "material": "",
@@ -282660,17 +282942,43 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/d604819cd17ff7883d08.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm / inch",
+        "headers": [
+          "Size",
+          "Arm",
+          "Chest",
+          "Length"
+        ],
+        "headers_es": [
+          "Talla",
+          "Manga",
+          "Pecho",
+          "Largo"
+        ],
+        "rows": [
+          [
+            "cm (inch)",
+            "54cm (21\")",
+            "61cm (24\")",
+            "91cm (35\")"
+          ]
+        ],
+        "notes_en": "Measurements are provided in centimeters and inches.",
+        "notes_es": "Las medidas se proporcionan en centímetros y pulgadas."
+      },
       "sku_map": {
         "unica": "N7M1XKRW-1"
       },
       "details_src": "* Tejido ligero de mezcla de poliéster para bata de baño de mujer. \n * Cinturón con cierre que garantiza un ajuste universal seguro y elegante. \n * Incluye dos bolsillos delanteros para tus artículos de primera necesidad por la mañana. \n * Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave.",
       "source_text": "Bata corta DAZ Luxury de baño para mujer Bathrobe Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos * Tejido ligero de mezcla de poliéster para bata de baño de mujer. \n * Cinturón con cierre que garantiza un ajuste universal seguro y elegante. \n * Incluye dos bolsillos delanteros para tus artículos de primera necesidad por la mañana. \n * Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave.",
-      "name_es": "Pijama Bata Corta Daz",
-      "name_en": "Bata Corta Daz Loungewear",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "name_es": "Bata Corta DAZ Luxury",
+      "name_en": "DAZ Luxury Short Bathrobe",
+      "desc_es": "Una silueta envolvente diseñada para el descanso diario. Esta pieza combina un tejido ligero con un estampado gráfico de inspiración botánica. El cinturón ajustable define la figura con precisión, mientras que los bolsillos delanteros aportan funcionalidad. Confección bajo demanda con envíos a todo el mundo.",
+      "desc_en": "An enveloping silhouette designed for daily repose. This piece combines a lightweight fabric with a botanical-inspired graphic print. The adjustable belt defines the figure with precision, while the front pockets provide functional utility. Made to order with worldwide shipping.",
       "price_usd": 28.99,
       "margin_pct": 22.1,
       "images_original": [
@@ -282690,16 +282998,7 @@
       ],
       "visual_verified": true,
       "display_images": [
-        "assets/products/shop/ad676e3d0995ee4d62f1.jpg",
-        "assets/products/shop/60125385c4c2a0223bab.jpg",
-        "assets/products/shop/ddde023b94a7e0f1862e.jpg",
-        "assets/products/shop/a919d159fa27de5515e2.jpg",
-        "assets/products/shop/97093d5f08c1a0f211fa.jpg",
-        "assets/products/shop/76a1676c4c4a7ca966f6.jpg",
-        "assets/products/shop/e93251cb60a4bcdbff8d.jpg",
-        "assets/products/shop/7699026538e1f235e280.jpg",
-        "assets/products/shop/38c7dbd8753b00409b9f.jpg",
-        "assets/products/shop/d604819cd17ff7883d08.jpg"
+        "assets/products/shop/ad676e3d0995ee4d62f1.jpg"
       ],
       "available": true,
       "price_history": {
@@ -282735,7 +283034,75 @@
       "fam": "bata-corta-luxury",
       "img_checked": "2026-11-21",
       "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
+      "art_score": 8,
+      "art_note": "Photo 1 establishes a refined retail environment with strong branding, while the remaining mockups appear flat and generic.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/ad676e3d0995ee4d62f1.jpg",
+            "k": "model",
+            "q": "premium"
+          },
+          {
+            "u": "assets/products/shop/60125385c4c2a0223bab.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/ddde023b94a7e0f1862e.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/a919d159fa27de5515e2.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/97093d5f08c1a0f211fa.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/76a1676c4c4a7ca966f6.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/e93251cb60a4bcdbff8d.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/7699026538e1f235e280.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/38c7dbd8753b00409b9f.jpg",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/d604819cd17ff7883d08.jpg"
+        ]
+      },
+      "ai_type": "bathrobe",
+      "ai_gender": "women",
+      "ai_color": "multicolor",
+      "ai_material": "polyester blend",
+      "ai_sizes": "One Size",
+      "ai_cats": [
+        "mujer/batas-pijamas"
+      ],
+      "details_es": "· Tejido ligero de mezcla de poliéster\n· Cinturón con cierre para un ajuste seguro\n· Dos bolsillos delanteros\n· Lavable a máquina con agua fría, ciclo delicado y detergente suave\n· Pieza confeccionada bajo demanda",
+      "details_en": "· Lightweight polyester blend fabric\n· Belt closure for a secure fit\n· Two front pockets\n· Machine washable in cold water on delicate cycle with mild detergent\n· Made-to-order piece",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-bata-corta-daz-luxury-de-bano-para-mujer-3",
@@ -282746,7 +283113,9 @@
         "mujer/batas-pijamas"
       ],
       "cost_usd": 12.99,
-      "sizes": [],
+      "sizes": [
+        "One Size"
+      ],
       "needs_review": false,
       "created": "2026-11-19",
       "material": "",
@@ -282765,17 +283134,43 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/8a39494ea7ce8c2e7402.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm / inch",
+        "headers": [
+          "Size",
+          "Arm",
+          "Chest",
+          "Length"
+        ],
+        "headers_es": [
+          "Talla",
+          "Manga",
+          "Pecho",
+          "Largo"
+        ],
+        "rows": [
+          [
+            "cm (inch)",
+            "54cm (21\")",
+            "61cm (24\")",
+            "91cm (35\")"
+          ]
+        ],
+        "notes_en": "",
+        "notes_es": ""
+      },
       "sku_map": {
         "unica": "N9RO8O5W-1"
       },
       "details_src": "* Tejido ligero de mezcla de poliéster para bata de baño de mujer. \n * Cinturón con cierre que garantiza un ajuste universal seguro y elegante. \n * Incluye dos bolsillos delanteros para tus artículos de primera necesidad por la mañana. \n * Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave.",
       "source_text": "Bata corta DAZ Luxury de baño para mujer Bathrobe Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos * Tejido ligero de mezcla de poliéster para bata de baño de mujer. \n * Cinturón con cierre que garantiza un ajuste universal seguro y elegante. \n * Incluye dos bolsillos delanteros para tus artículos de primera necesidad por la mañana. \n * Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave.",
-      "name_es": "Pijama Bata Corta Daz",
-      "name_en": "Bata Corta Daz Loungewear",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "name_es": "Bata Corta DAZ Luxury",
+      "name_en": "DAZ Luxury Short Bathrobe",
+      "desc_es": "Eleve los momentos de descanso con la bata corta DAZ Luxury. Confeccionada en un tejido ligero de mezcla de poliéster, esta pieza ofrece una sensación de ligereza inigualable sobre la piel. El diseño presenta un cinturón con cierre que asegura un ajuste universal impecable y dos bolsillos delanteros funcionales para mayor comodidad matutina. Cada pieza se elabora bajo pedido y cuenta con envío a todo el mundo.",
+      "desc_en": "Elevate moments of repose with the DAZ Luxury short bathrobe. Crafted from a lightweight polyester blend fabric, this piece offers an unmatched weightless sensation against the skin. The design features a secure belt closure ensuring a flawless universal fit and two practical front pockets for morning essentials. Each piece is made to order with worldwide shipping available.",
       "price_usd": 28.99,
       "margin_pct": 22.1,
       "images_original": [
@@ -282795,16 +283190,7 @@
       ],
       "visual_verified": true,
       "display_images": [
-        "assets/products/shop/7f059f10bfb20d425826.jpg",
-        "assets/products/shop/5354daccbd841a6b7194.jpg",
-        "assets/products/shop/4170b16170a8ed56f367.jpg",
-        "assets/products/shop/8ba35f0cd9c57f9faa01.jpg",
-        "assets/products/shop/88aac300890697c40c7b.jpg",
-        "assets/products/shop/8201aa54faee8e601830.jpg",
-        "assets/products/shop/4db591222b7b3983cec2.jpg",
-        "assets/products/shop/3211f374852ae4126e2b.jpg",
-        "assets/products/shop/c7fc4f2b33c021c27fb0.jpg",
-        "assets/products/shop/8a39494ea7ce8c2e7402.jpg"
+        "assets/products/shop/7f059f10bfb20d425826.jpg"
       ],
       "available": true,
       "price_history": {
@@ -282840,7 +283226,75 @@
       "fam": "bata-corta-luxury",
       "img_checked": "2026-11-21",
       "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
+      "art_score": 8,
+      "art_note": "The first image elevates the product within a sophisticated retail context, contrasting sharply with the flat digital renders.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/7f059f10bfb20d425826.jpg",
+            "k": "model",
+            "q": "premium"
+          },
+          {
+            "u": "assets/products/shop/5354daccbd841a6b7194.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/4170b16170a8ed56f367.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/8ba35f0cd9c57f9faa01.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/88aac300890697c40c7b.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/8201aa54faee8e601830.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/4db591222b7b3983cec2.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/3211f374852ae4126e2b.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/c7fc4f2b33c021c27fb0.jpg",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/8a39494ea7ce8c2e7402.jpg"
+        ]
+      },
+      "ai_type": "Bathrobe",
+      "ai_gender": "women",
+      "ai_color": "Multicolor",
+      "ai_material": "Polyester blend",
+      "ai_sizes": "One Size",
+      "ai_cats": [
+        "mujer/batas-pijamas"
+      ],
+      "details_es": "· Tejido ligero de mezcla de poliéster\n· Cinturón con cierre para ajuste universal\n· Dos bolsillos delanteros\n· Lavado a máquina con agua fría, ciclo delicado y detergente suave\n· Hecho a medida y disponible con envío a todo el mundo",
+      "details_en": "· Lightweight polyester blend fabric\n· Belt closure for universal fit\n· Two front pockets\n· Machine washable in cold water, gentle cycle, mild detergent\n· Made to order and available with worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-bata-corta-daz-luxury-de-bano-para-mujer-4",
@@ -282851,7 +283305,9 @@
         "mujer/batas-pijamas"
       ],
       "cost_usd": 12.99,
-      "sizes": [],
+      "sizes": [
+        "One Size"
+      ],
       "needs_review": false,
       "created": "2026-11-19",
       "material": "",
@@ -282869,17 +283325,43 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/89e94c4efba40700cc15.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm / inch",
+        "headers": [
+          "Size",
+          "Arm",
+          "Chest",
+          "Length"
+        ],
+        "headers_es": [
+          "Talla",
+          "Manga",
+          "Pecho",
+          "Largo"
+        ],
+        "rows": [
+          [
+            "One Size",
+            "54cm (21\")",
+            "61cm (24\")",
+            "91cm (35\")"
+          ]
+        ],
+        "notes_en": "Made-to-order piece. Measurements are standard garment dimensions.",
+        "notes_es": "Pieza bajo demanda. Las medidas corresponden a las dimensiones estándar de la prenda."
+      },
       "sku_map": {
         "unica": "N2MLQL9N-1"
       },
       "details_src": "* Tejido ligero de mezcla de poliéster para bata de baño de mujer. \n * Cinturón con cierre que garantiza un ajuste universal seguro y elegante. \n * Incluye dos bolsillos delanteros para tus artículos de primera necesidad por la mañana. \n * Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave.",
       "source_text": "Bata corta DAZ Luxury de baño para mujer Bathrobe Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos * Tejido ligero de mezcla de poliéster para bata de baño de mujer. \n * Cinturón con cierre que garantiza un ajuste universal seguro y elegante. \n * Incluye dos bolsillos delanteros para tus artículos de primera necesidad por la mañana. \n * Se puede lavar a máquina con agua fría, ciclo delicado y detergente suave.",
-      "name_es": "Pijama Bata Corta Daz",
-      "name_en": "Bata Corta Daz Loungewear",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "name_es": "Bata Corta DAZ Luxury",
+      "name_en": "DAZ Luxury Short Bathrobe",
+      "desc_es": "Una silueta envolvente diseñada para el descanso refinado. Esta bata corta combina un tacto ligero con un diseño expresivo de inspiración bohemia. Cuenta con un cinturón ajustable que define la figura y bolsillos delanteros funcionales para mayor comodidad. Confeccionada bajo demanda para garantizar exclusividad y envíos a todo el mundo.",
+      "desc_en": "An enveloping silhouette designed for refined lounging. This short robe combines a lightweight feel with an expressive bohemian-inspired design. It features an adjustable belt to define the silhouette and functional front pockets for effortless comfort. Crafted made-to-order to ensure exclusivity with worldwide shipping.",
       "price_usd": 28.99,
       "margin_pct": 22.1,
       "images_original": [
@@ -282898,13 +283380,8 @@
       "display_images": [
         "assets/products/shop/1e6eba0aef6daf6dd929.jpg",
         "assets/products/shop/b435f02ed3c26cd08a01.jpg",
-        "assets/products/shop/1f785829c23dae0e7ca1.jpg",
-        "assets/products/shop/9c2bb3ee8fd68655e1a8.jpg",
-        "assets/products/shop/e67a909b88711f8f81a1.jpg",
-        "assets/products/shop/6f40709c4b4330d17cb7.jpg",
         "assets/products/shop/32a650a21e24045b28cc.jpg",
-        "assets/products/shop/18187561ecbc295fd073.jpg",
-        "assets/products/shop/89e94c4efba40700cc15.jpg"
+        "assets/products/shop/18187561ecbc295fd073.jpg"
       ],
       "available": true,
       "price_history": {
@@ -282940,7 +283417,70 @@
       "fam": "bata-corta-luxury",
       "img_checked": "2026-11-21",
       "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
+      "art_score": 4,
+      "art_note": "Standard e-commerce flat lay and composited model shots. Lacks true luxury lighting and styling.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/1e6eba0aef6daf6dd929.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/b435f02ed3c26cd08a01.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/1f785829c23dae0e7ca1.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/9c2bb3ee8fd68655e1a8.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/e67a909b88711f8f81a1.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/6f40709c4b4330d17cb7.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/32a650a21e24045b28cc.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/18187561ecbc295fd073.jpg",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/89e94c4efba40700cc15.jpg"
+        ]
+      },
+      "ai_type": "Bathrobe",
+      "ai_gender": "women",
+      "ai_color": "Multicolor",
+      "ai_material": "Polyester blend",
+      "ai_sizes": "One Size",
+      "ai_cats": [
+        "mujer/batas-pijamas"
+      ],
+      "details_es": "· Tejido ligero de mezcla de poliéster\n· Cinturón con cierre para ajuste universal\n· Dos bolsillos delanteros\n· Lavado a máquina con agua fría, ciclo delicado y detergente suave\n· Pieza confeccionada bajo demanda con envíos a todo el mundo",
+      "details_en": "· Lightweight polyester blend fabric\n· Belt closure for secure universal fit\n· Two front pockets\n· Machine washable in cold water on delicate cycle with mild detergent\n· Made-to-order piece with worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-christmas-seamless-pattern-with-candy-sticks-for-holiday-design-167655107-jpg-lace-low-cut-backless-cami-pajama-dress-model-d72",
@@ -282974,8 +283514,61 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+      ],
+      "size_chart": {
+        "unit": "inches",
+        "headers": [
+          "SIZE",
+          "LENGTH(A)",
+          "CHEST WIDTH(B)"
+        ],
+        "headers_es": [
+          "TALLA",
+          "LONGITUD(A)",
+          "ANCHO DE PECHO(B)"
+        ],
+        "rows": [
+          [
+            "S",
+            "25.59",
+            "32.28"
+          ],
+          [
+            "M",
+            "25.98",
+            "34.25"
+          ],
+          [
+            "L",
+            "26.57",
+            "36.22"
+          ],
+          [
+            "XL",
+            "27.17",
+            "38.19"
+          ],
+          [
+            "2XL",
+            "27.76",
+            "40.16"
+          ],
+          [
+            "3XL",
+            "28.15",
+            "42.13"
+          ],
+          [
+            "4XL",
+            "28.54",
+            "44.09"
+          ]
+        ],
+        "notes_en": "Length (A) measured from shoulder strap connection to hem. Chest width (B) measured across the bust point.",
+        "notes_es": "Longitud (A) medida desde la conexión del tirante hasta el dobladillo. Ancho de pecho (B) medido a través del punto del busto."
+      },
       "sku_map": {
         "S": "D3216769",
         "M": "D3216769",
@@ -282987,10 +283580,10 @@
       },
       "details_src": ".title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje \n Hecho de 100 % poliéster y encaje, es sexy y cómodo.\n Sin relleno.\n Cierre con lazo.\n Presenta tirantes ajustables, tejido elástico, detalle fruncido y un vestido largo.\n Ideal para vacaciones, citas, fines de semana, viajes, salidas, ropa informal y verano.\n Tallas: S, M, L, XL, 2XL, 3XL, 4XL. Calcula tu talla con la tabla de medidas a continuación.\n Cuidado suave: Lavable a mano o a máquina. Evitar el remojo prolongado, el uso de lejía o detergentes a más de 45 °C.\n Cada creación de nuestra casa cobra vida únicamente cuando usted la elige. Este proceso bajo demanda transforma cada pieza en un símbolo personal de lujo y autenticidad. Solo unos pocos tendrán acceso a estas ediciones limitadas.",
       "source_text": "Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje Pajamas Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje \n Hecho de 100 % poliéster y encaje, es sexy y cómodo.\n Sin relleno.\n Cierre con lazo.\n Presenta tirantes ajustables, tejido elástico, detalle fruncido y un vestido largo.\n Ideal para vacaciones, citas, fines de semana, viajes, salidas, ropa informal y verano.\n Tallas: S, M, L, XL, 2XL, 3XL, 4XL. Calcula tu talla con la tabla de medidas a continuación.\n Cuidado suave: Lavable a mano o a máquina. Evitar el remojo prolongado, el uso de lejía o detergentes a más de 45 °C.\n Cada creación de nuestra casa cobra vida únicamente cuando usted la elige. Este proceso bajo demanda transforma cada pieza en un símbolo personal de lujo y autenticidad. Solo unos pocos tendrán acceso a estas ediciones limitadas.",
-      "name_es": "Pijama Pijama Daz Tirantes",
-      "name_en": "Pijama Daz Tirantes Loungewear",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "name_es": "Vestido de pijama con encaje",
+      "name_en": "Lace Trim Sleep Dress",
+      "desc_es": "Una pieza de descanso diseñada con líneas limpias y una silueta fluida. Confeccionada con un tejido suave que acompaña el movimiento natural. El contraste de encaje define el escote pronunciado, aportando una presencia sofisticada a la intimidad. Cada creación se realiza bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+      "desc_en": "An intimate evening piece defined by clean lines and a fluid silhouette. Crafted from a soft fabric that moves effortlessly. Contrast lace defines the plunging neckline, bringing a sophisticated presence to private hours. Each creation is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
       "price_usd": 28.99,
       "margin_pct": 22.1,
       "images_original": [
@@ -283008,8 +283601,7 @@
         "assets/products/shop/ceddf1bebc3100c6d996.jpg",
         "assets/products/shop/f504b3392d0eece33e4c.jpg",
         "assets/products/shop/8d4679fdc923d743331d.jpg",
-        "assets/products/shop/f4c6b2f7db003d2dc550.jpg",
-        "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+        "assets/products/shop/f4c6b2f7db003d2dc550.jpg"
       ],
       "available": true,
       "price_history": {
@@ -283053,7 +283645,54 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-21",
       "cg": "t-vestido-de-pijama-daz-luxury-de-tirantes-finos-con-escote-pronunciado-y",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones",
+      "art_score": 4,
+      "art_note": "The imagery relies on flat digital mockups and composites, lacking the organic texture and refined lighting expected in a luxury fashion campaign.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/b58a0db7db610ebed4f2.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/ceddf1bebc3100c6d996.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/f504b3392d0eece33e4c.jpg",
+            "k": "detail",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/8d4679fdc923d743331d.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/f4c6b2f7db003d2dc550.jpg",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+        ]
+      },
+      "ai_type": "nightgown",
+      "ai_gender": "women",
+      "ai_color": "white",
+      "ai_material": "polyester and lace",
+      "ai_cats": [
+        "mujer/batas-pijamas"
+      ],
+      "details_es": "· Composición: 100 % poliéster y encaje\n· Tirantes ajustables\n· Escote pronunciado con detalle de encaje\n· Cierre con lazo\n· Tejido elástico con detalle fruncido\n· Cuidado suave: lavar a mano o a máquina\n· Hecho bajo demanda\n· Envío mundial disponible",
+      "details_en": "· Composition: 100% polyester and lace\n· Adjustable straps\n· Plunging neckline with lace detail\n· Tie closure\n· Stretch fabric with gathered detail\n· Gentle care: hand or machine wash\n· Made to order\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre",
@@ -283093,8 +283732,66 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/abc3e70c3997d35a838b.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm",
+        "headers": [
+          "Size",
+          "Length",
+          "Waist"
+        ],
+        "headers_es": [
+          "Talla",
+          "Largo",
+          "Cintura"
+        ],
+        "rows": [
+          [
+            "S",
+            "35.0cm(13.8\")",
+            "64.0cm(25.2\")"
+          ],
+          [
+            "M",
+            "36.0cm(14.2\")",
+            "69.0cm(27.2\")"
+          ],
+          [
+            "L",
+            "37.0cm(14.6\")",
+            "74.0cm(29.1\")"
+          ],
+          [
+            "XL",
+            "38.0cm(15.0\")",
+            "79.0cm(31.1\")"
+          ],
+          [
+            "2XL",
+            "39.0cm(15.4\")",
+            "84.0cm(33.1\")"
+          ],
+          [
+            "3XL",
+            "40.0cm(15.7\")",
+            "89.0cm(35.0\")"
+          ],
+          [
+            "4XL",
+            "41.0cm(16.1\")",
+            "94.0cm(37.0\")"
+          ],
+          [
+            "5XL",
+            "42.0cm(16.5\")",
+            "99.0cm(39.0\")"
+          ]
+        ],
+        "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+        "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual."
+      },
       "sku_map": {
         "S": "WJLP587N-1",
         "M": "WJLP587N-2",
@@ -283107,10 +283804,10 @@
       },
       "details_src": "Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
       "source_text": "Conjunto de camisa y pantalones cortos DAZ Premium hawaianos de manga corta y corte regular para hombre Shirts Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
+      "desc_es": "Una propuesta depurada para la temporada estival. Este conjunto combina una camisa de manga corta con cuello doblado y cierre de botones con unos pantalones cortos a juego. Confeccionado en tejido ligero para un movimiento fluido. Presenta un corte relajado que prioriza la comodidad sin comprometer la elegancia. Ideal para climas cálidos. Cada pieza se confecciona bajo demanda y cuenta con envío mundial.",
+      "desc_en": "A refined statement for the summer season. This ensemble pairs a short-sleeve shirt featuring a fold-down collar and button closure with matching shorts. Crafted from a lightweight fabric for fluid movement. Designed with a relaxed fit that prioritizes ease without compromising elegance. Ideal for warm weather climates. Each piece is made to order with worldwide shipping.",
       "price_usd": 28.99,
       "margin_pct": 22.1,
       "images_original": [
@@ -283135,11 +283832,8 @@
         "assets/products/shop/1333a060b8f0c61c31f3.jpg",
         "assets/products/shop/3e07e7fe57259f48a78c.jpg",
         "assets/products/shop/07fbed375ce35af79beb.jpg",
-        "assets/products/shop/7d2c6432c8ef108c82e1.jpg",
         "assets/products/shop/e6dd420b1e8fb5419671.jpg",
-        "assets/products/shop/ccf1faa894d417bb3a6c.jpg",
-        "assets/products/shop/abc3e70c3997d35a838b.jpg",
-        "assets/products/shop/4b2abf824177f2a24f9f.jpg"
+        "assets/products/shop/ccf1faa894d417bb3a6c.jpg"
       ],
       "available": true,
       "price_history": {
@@ -283184,7 +283878,69 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-21",
       "cg": "t-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
+      "art_score": 3,
+      "art_note": "Flat studio shots and synthetic model composites lack the elevated luxury feel of the brand.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/657fa82fac01bb73fa9c.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/251c52efc76ed811b8d2.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/6fc857aee6af047e1a25.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/1333a060b8f0c61c31f3.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/3e07e7fe57259f48a78c.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/07fbed375ce35af79beb.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/e6dd420b1e8fb5419671.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/ccf1faa894d417bb3a6c.jpg",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/abc3e70c3997d35a838b.jpg"
+        ]
+      },
+      "ai_type": "shirt and shorts set",
+      "ai_gender": "men",
+      "ai_color": "black",
+      "ai_material": "100% polyester",
+      "ai_cats": [
+        "hombre/conjuntos"
+      ],
+      "details_es": "· 100% poliéster\n· Corte relajado\n· Camisa con cuello doblado y cierre de botones\n· Pantalones cortos con cintura elástica con cordón y bolsillos laterales\n· Lavar a máquina a un máximo de 30 °C con programa delicado\n· Planchar a temperatura baja\n· No usar blanqueador\n· Confeccionado bajo demanda\n· Envío mundial disponible",
+      "details_en": "· 100% polyester\n· Relaxed fit\n· Shirt with fold-down collar and button closure\n· Shorts featuring elastic waistband with drawstring and side pockets\n· Machine wash at max 30°C on delicate cycle\n· Iron at low temperature\n· Do not bleach\n· Made-to-order piece\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-1",
@@ -283224,8 +283980,66 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/eaa24d4499bcb32b2da8.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm",
+        "headers": [
+          "SIZE",
+          "LENGTH",
+          "WAIST"
+        ],
+        "headers_es": [
+          "TALLA",
+          "LONGITUD",
+          "CINTURA"
+        ],
+        "rows": [
+          [
+            "S",
+            "35.0cm(13.8\")",
+            "64.0cm(25.2\")"
+          ],
+          [
+            "M",
+            "36.0cm(14.2\")",
+            "69.0cm(27.2\")"
+          ],
+          [
+            "L",
+            "37.0cm(14.6\")",
+            "74.0cm(29.1\")"
+          ],
+          [
+            "XL",
+            "38.0cm(15.0\")",
+            "79.0cm(31.1\")"
+          ],
+          [
+            "2XL",
+            "39.0cm(15.4\")",
+            "84.0cm(33.1\")"
+          ],
+          [
+            "3XL",
+            "40.0cm(15.7\")",
+            "89.0cm(35.0\")"
+          ],
+          [
+            "4XL",
+            "41.0cm(16.1\")",
+            "94.0cm(37.0\")"
+          ],
+          [
+            "5XL",
+            "42.0cm(16.5\")",
+            "99.0cm(39.0)"
+          ]
+        ],
+        "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+        "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual."
+      },
       "sku_map": {
         "S": "WXMDJQ7Y-1",
         "M": "WXMDJQ7Y-2",
@@ -283238,10 +284052,10 @@
       },
       "details_src": "Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
       "source_text": "Conjunto de camisa y pantalones cortos DAZ Premium hawaianos de manga corta y corte regular para hombre Shirts Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
+      "desc_es": "Este conjunto combina una camisa de manga corta con cuello doblado y cierre de botones con unos pantalones cortos a juego de cintura elástica con cordón. Confeccionado para ofrecer un ajuste relajado y fluido. El diseño presenta detalles sutiles de impresión en el pecho y el dobladillo. Una opción versátil para climas cálidos y ocasiones informales. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Disponible con envío a todo el mundo.",
+      "desc_en": "This set pairs a short-sleeve shirt featuring a lapel collar and button closure with matching drawstring elastic waist shorts. Tailored for a relaxed, fluid drape. The design features subtle logo print details at the chest and hem. A versatile option for warm weather and relaxed occasions. Each piece is made to order to ensure exclusivity. Available with worldwide shipping.",
       "price_usd": 28.99,
       "margin_pct": 22.1,
       "images_original": [
@@ -283266,11 +284080,8 @@
         "assets/products/shop/70c02574c30e073568bb.jpg",
         "assets/products/shop/1c1ca7fe2789b97e5a13.jpg",
         "assets/products/shop/002212d44b6b8826856b.jpg",
-        "assets/products/shop/3b3dbf98f2b899092f00.jpg",
         "assets/products/shop/b2407332627b8253d5af.jpg",
-        "assets/products/shop/5ecc71c6d949b5c7de3a.jpg",
-        "assets/products/shop/eaa24d4499bcb32b2da8.jpg",
-        "assets/products/shop/57a41b0365a6dca93497.jpg"
+        "assets/products/shop/5ecc71c6d949b5c7de3a.jpg"
       ],
       "available": true,
       "price_history": {
@@ -283315,7 +284126,69 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-21",
       "cg": "t-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
+      "art_score": 3,
+      "art_note": "Flat digital renders and flat-cut studio composites fail to convey true luxury tailoring.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/67a7bd8b9bbace83d42f.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/be6c56397813a8b74ced.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/85264af983d4e867ff38.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/70c02574c30e073568bb.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/1c1ca7fe2789b97e5a13.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/002212d44b6b8826856b.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/b2407332627b8253d5af.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/5ecc71c6d949b5c7de3a.jpg",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/eaa24d4499bcb32b2da8.jpg"
+        ]
+      },
+      "ai_type": "shirt and shorts set",
+      "ai_gender": "men",
+      "ai_color": "green",
+      "ai_material": "100% poliéster",
+      "ai_cats": [
+        "hombre/conjuntos"
+      ],
+      "details_es": "· 100% poliéster\n· Ajuste holgado\n· Cierre de botones y cintura elástica con cordón\n· Lavar a máquina a un máximo de 30 °C con programa delicado\n· Planchar a temperatura baja\n· No usar blanqueador\n· Producto confeccionado bajo pedido\n· Envío mundial disponible",
+      "details_en": "· 100% polyester\n· Loose fit\n· Button closure and elastic waist with drawstring\n· Machine wash at max 30°C on delicate cycle\n· Iron at low temperature\n· Do not bleach\n· Made-to-order piece\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-2",
@@ -283355,8 +284228,66 @@
       ],
       "draft": false,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/9710839e8c24e5e892e3.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm / inches",
+        "headers": [
+          "Size",
+          "Length",
+          "Waist"
+        ],
+        "headers_es": [
+          "Talla",
+          "Largo",
+          "Cintura"
+        ],
+        "rows": [
+          [
+            "S",
+            "35.0cm (13.8\")",
+            "64.0cm (25.2\")"
+          ],
+          [
+            "M",
+            "36.0cm (14.2\")",
+            "69.0cm (27.2\")"
+          ],
+          [
+            "L",
+            "37.0cm (14.6\")",
+            "74.0cm (29.1\")"
+          ],
+          [
+            "XL",
+            "38.0cm (15.0\")",
+            "79.0cm (31.1\")"
+          ],
+          [
+            "2XL",
+            "39.0cm (15.4\")",
+            "84.0cm (33.1\")"
+          ],
+          [
+            "3XL",
+            "40.0cm (15.7\")",
+            "89.0cm (35.0\")"
+          ],
+          [
+            "4XL",
+            "41.0cm (16.1\")",
+            "94.0cm (37.0\")"
+          ],
+          [
+            "5XL",
+            "42.0cm (16.5\")",
+            "99.0cm (39.0\")"
+          ]
+        ],
+        "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+        "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual."
+      },
       "sku_map": {
         "S": "W8V319OW-1",
         "M": "W8V319OW-2",
@@ -283369,10 +284300,10 @@
       },
       "details_src": "Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
       "source_text": "Conjunto de camisa y pantalones cortos DAZ Premium hawaianos de manga corta y corte regular para hombre Shirts Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
+      "desc_es": "Eleve su guardarropa de temporada con este conjunto coordinado de inspiración relajada. Confeccionado para ofrecer una silueta fluida, presenta una camisa de manga corta con cuello doblado y cierre de botones, acompañada de pantalones cortos a juego con cintura elástica ajustable mediante cordón. El diseño incorpora sutiles detalles distintivos y bolsillos laterales funcionales. Una opción versátil concebida para los días cálidos y las escapadas de ocio. Cada pieza se confecciona bajo demanda con envíos a todo el mundo.",
+      "desc_en": "Elevate your seasonal wardrobe with this relaxed-cut coordinated set. Designed for a fluid silhouette, it features a short-sleeve shirt with a turn-down collar and button fastening, accompanied by matching shorts with an elasticated drawstring waist. The design incorporates subtle signature details and functional side pockets. A versatile choice conceived for warm days and leisure escapes. Each piece is made to order with worldwide shipping.",
       "price_usd": 28.99,
       "margin_pct": 22.1,
       "images_original": [
@@ -283396,12 +284327,7 @@
         "assets/products/shop/bf29b74902ec6e7a1dda.jpg",
         "assets/products/shop/4a968929a864fae0ab60.jpg",
         "assets/products/shop/221a312878dcdaffa24f.jpg",
-        "assets/products/shop/2cadc370d6b832e12cf3.jpg",
-        "assets/products/shop/601d19b915f80d17c675.jpg",
-        "assets/products/shop/054cdea9eee3ba905f74.jpg",
-        "assets/products/shop/bedd57f8ee78f4ed5b61.jpg",
-        "assets/products/shop/9710839e8c24e5e892e3.jpg",
-        "assets/products/shop/34c497de6ef5b639a62d.jpg"
+        "assets/products/shop/2cadc370d6b832e12cf3.jpg"
       ],
       "available": true,
       "price_history": {
@@ -283446,7 +284372,69 @@
       "stripe_site": "https://dazmond.com",
       "img_checked": "2026-11-21",
       "cg": "t-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta",
-      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas"
+      "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
+      "art_score": 4,
+      "art_note": "Clean product presentation but studio shots lack high-end luxury mood and digital composition feels flat.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/16a541bca212b1fe277b.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/09681fd12624cac84a98.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/bf29b74902ec6e7a1dda.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/4a968929a864fae0ab60.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/221a312878dcdaffa24f.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/2cadc370d6b832e12cf3.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/054cdea9eee3ba905f74.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/bedd57f8ee78f4ed5b61.jpg",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/9710839e8c24e5e892e3.jpg"
+        ]
+      },
+      "ai_type": "matching set",
+      "ai_gender": "men",
+      "ai_color": "light blue",
+      "ai_material": "100% polyester",
+      "ai_cats": [
+        "hombre/conjuntos"
+      ],
+      "details_es": "· 100% poliéster\n· Ajuste holgado y relajado\n· Camisa con cuello doblado y cierre de botones\n· Pantalones cortos con cintura elástica y cordón\n· Lavar a máquina a un máximo de 30 °C con programa delicado\n· Planchar a temperatura baja\n· No usar blanqueador\n· Pieza confeccionada bajo demanda\n· Envío disponible a todo el mundo",
+      "details_en": "· 100% polyester\n· Loose, relaxed fit\n· Shirt with turn-down collar and button closure\n· Shorts with elastic waistband and drawstring\n· Machine wash at max 30°C on delicate cycle\n· Iron at low temperature\n· Do not bleach\n· Made-to-order piece\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "shopify-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta-y-corte-regular-para-hombre-3",
@@ -283501,8 +284489,8 @@
       },
       "details_src": "Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
       "source_text": "Conjunto de camisa y pantalones cortos DAZ Premium hawaianos de manga corta y corte regular para hombre Shirts Ropa y accesorios > Prendas de vestir > Conjuntos de ropa Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
       "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
       "price_usd": 28.99,
@@ -283638,8 +284626,8 @@
       },
       "details_src": "Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
       "source_text": "Conjunto de camisa y pantalones cortos DAZ Premium hawaianos de manga corta y corte regular para hombre Shirts Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
       "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
       "price_usd": 28.99,
@@ -283769,8 +284757,8 @@
       },
       "details_src": "Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
       "source_text": "Conjunto de camisa y pantalones cortos DAZ Premium hawaianos de manga corta y corte regular para hombre Shirts Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
       "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
       "price_usd": 28.99,
@@ -283900,8 +284888,8 @@
       },
       "details_src": "Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
       "source_text": "Conjunto de camisa y pantalones cortos DAZ Premium hawaianos de manga corta y corte regular para hombre Shirts Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas Experimente la combinación perfecta de estilo y comodidad con nuestro conjunto de manga corta estilo camisa para hombre. Diseñado para un ajuste relajado, incluye una camiseta y pantalones cortos, lo que lo convierte en una opción ideal para ropa informal. \n * Material: Hecho de 100% poliéster, lo que garantiza mayor resistencia, durabilidad y comodidad.\n * Impresión: Presenta impresión por transferencia de calor y la impresión integral agrega un toque elegante y único a su atuendo.\n * Tipo de ropa: Camisa con cuello doblado, cierre de botones. Camisa con bolsillos laterales y cintura elástica con cordón.\n * Ajuste universal: Diseñado con un ajuste holgado para máxima comodidad y fácil movimiento.\n * Tamaño: Disponible en tallas S-4XL, que se adapta a una variedad de tipos de cuerpo.\n Camisa de cuello clásico y pantalón corto con estampado hawaiano | Corte recto | Unisex: esta camisa está hecha de un material suave, fino y muy ligero y, por lo tanto, es ideal para días calurosos y soleados. Pero incluso en los días más fríos, puede combinar esta camisa hawaiana con una camiseta y será un verdadero punto de atracción y se sentirá cómodo con el ajuste holgado. Ya sea en carnavales, festivales, vacaciones, en la playa, incluso en el trabajo o en una fiesta temática, seguramente recibirás muchos cumplidos.\n INSTRUCCIONES DE CUIDADO: Lavar a máquina a un máximo de 30 °C con programa delicado y planchar a temperatura baja. No usar blanqueador.",
-      "name_es": "Conjunto Conjunto Camisa Pantalones",
-      "name_en": "Conjunto Camisa Pantalones Set",
+      "name_es": "Conjunto Camisa y Short Hawaiano",
+      "name_en": "Hawaiian Shirt and Shorts Set",
       "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
       "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
       "price_usd": 28.99,
@@ -284025,8 +285013,8 @@
       },
       "details_src": ".title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje \n Hecho de 100 % poliéster y encaje, es sexy y cómodo.\n Sin relleno.\n Cierre con lazo.\n Presenta tirantes ajustables, tejido elástico, detalle fruncido y un vestido largo.\n Ideal para vacaciones, citas, fines de semana, viajes, salidas, ropa informal y verano.\n Tallas: S, M, L, XL, 2XL, 3XL, 4XL. Calcula tu talla con la tabla de medidas a continuación.\n Cuidado suave: Lavable a mano o a máquina. Evitar el remojo prolongado, el uso de lejía o detergentes a más de 45 °C.\n Cada creación de nuestra casa cobra vida únicamente cuando usted la elige. Este proceso bajo demanda transforma cada pieza en un símbolo personal de lujo y autenticidad. Solo unos pocos tendrán acceso a estas ediciones limitadas.",
       "source_text": "Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje Pajamas Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje \n Hecho de 100 % poliéster y encaje, es sexy y cómodo.\n Sin relleno.\n Cierre con lazo.\n Presenta tirantes ajustables, tejido elástico, detalle fruncido y un vestido largo.\n Ideal para vacaciones, citas, fines de semana, viajes, salidas, ropa informal y verano.\n Tallas: S, M, L, XL, 2XL, 3XL, 4XL. Calcula tu talla con la tabla de medidas a continuación.\n Cuidado suave: Lavable a mano o a máquina. Evitar el remojo prolongado, el uso de lejía o detergentes a más de 45 °C.\n Cada creación de nuestra casa cobra vida únicamente cuando usted la elige. Este proceso bajo demanda transforma cada pieza en un símbolo personal de lujo y autenticidad. Solo unos pocos tendrán acceso a estas ediciones limitadas.",
-      "name_es": "Pijama Pijama Daz Tirantes",
-      "name_en": "Pijama Daz Tirantes Loungewear",
+      "name_es": "Vestido de pijama con encaje",
+      "name_en": "Lace Trim Sleep Dress",
       "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
       "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
       "price_usd": 28.99,
@@ -284142,8 +285130,8 @@
       },
       "details_src": ".title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje \n Hecho de 100 % poliéster y encaje, es sexy y cómodo.\n Sin relleno.\n Cierre con lazo.\n Presenta tirantes ajustables, tejido elástico, detalle fruncido y un vestido largo.\n Ideal para vacaciones, citas, fines de semana, viajes, salidas, ropa informal y verano.\n Tallas: S, M, L, XL, 2XL, 3XL, 4XL. Calcula tu talla con la tabla de medidas a continuación.\n Cuidado suave: Lavable a mano o a máquina. Evitar el remojo prolongado, el uso de lejía o detergentes a más de 45 °C.\n Cada creación de nuestra casa cobra vida únicamente cuando usted la elige. Este proceso bajo demanda transforma cada pieza en un símbolo personal de lujo y autenticidad. Solo unos pocos tendrán acceso a estas ediciones limitadas.",
       "source_text": "Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje Pajamas Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje \n Hecho de 100 % poliéster y encaje, es sexy y cómodo.\n Sin relleno.\n Cierre con lazo.\n Presenta tirantes ajustables, tejido elástico, detalle fruncido y un vestido largo.\n Ideal para vacaciones, citas, fines de semana, viajes, salidas, ropa informal y verano.\n Tallas: S, M, L, XL, 2XL, 3XL, 4XL. Calcula tu talla con la tabla de medidas a continuación.\n Cuidado suave: Lavable a mano o a máquina. Evitar el remojo prolongado, el uso de lejía o detergentes a más de 45 °C.\n Cada creación de nuestra casa cobra vida únicamente cuando usted la elige. Este proceso bajo demanda transforma cada pieza en un símbolo personal de lujo y autenticidad. Solo unos pocos tendrán acceso a estas ediciones limitadas.",
-      "name_es": "Pijama Pijama Daz Tirantes",
-      "name_en": "Pijama Daz Tirantes Loungewear",
+      "name_es": "Vestido de pijama con encaje",
+      "name_en": "Lace Trim Sleep Dress",
       "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
       "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
       "price_usd": 28.99,
@@ -284255,8 +285243,8 @@
       },
       "details_src": ".title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje \n Hecho de 100 % poliéster y encaje, es sexy y cómodo.\n Sin relleno.\n Cierre con lazo.\n Presenta tirantes ajustables, tejido elástico, detalle fruncido y un vestido largo.\n Ideal para vacaciones, citas, fines de semana, viajes, salidas, ropa informal y verano.\n Tallas: S, M, L, XL, 2XL, 3XL, 4XL. Calcula tu talla con la tabla de medidas a continuación.\n Cuidado suave: Lavable a mano o a máquina. Evitar el remojo prolongado, el uso de lejía o detergentes a más de 45 °C.\n Cada creación de nuestra casa cobra vida únicamente cuando usted la elige. Este proceso bajo demanda transforma cada pieza en un símbolo personal de lujo y autenticidad. Solo unos pocos tendrán acceso a estas ediciones limitadas.",
       "source_text": "Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje Pajamas Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n Vestido de pijama DAZ Luxury de tirantes finos con escote pronunciado y encaje \n Hecho de 100 % poliéster y encaje, es sexy y cómodo.\n Sin relleno.\n Cierre con lazo.\n Presenta tirantes ajustables, tejido elástico, detalle fruncido y un vestido largo.\n Ideal para vacaciones, citas, fines de semana, viajes, salidas, ropa informal y verano.\n Tallas: S, M, L, XL, 2XL, 3XL, 4XL. Calcula tu talla con la tabla de medidas a continuación.\n Cuidado suave: Lavable a mano o a máquina. Evitar el remojo prolongado, el uso de lejía o detergentes a más de 45 °C.\n Cada creación de nuestra casa cobra vida únicamente cuando usted la elige. Este proceso bajo demanda transforma cada pieza en un símbolo personal de lujo y autenticidad. Solo unos pocos tendrán acceso a estas ediciones limitadas.",
-      "name_es": "Pijama Pijama Daz Tirantes",
-      "name_en": "Pijama Daz Tirantes Loungewear",
+      "name_es": "Vestido de pijama con encaje",
+      "name_en": "Lace Trim Sleep Dress",
       "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
       "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
       "price_usd": 28.99,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/conjuntos"
+ ],
+ "ai_color": "green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% poliéster",
+ "ai_type": "shirt and shorts set",
+ "ai_ver": 2,
+ "art_note": "Flat digital renders and flat-cut studio composites fail to convey true luxury tailoring.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-conjunto-de-camisa-y-pantalones-cortos-daz-premium-hawaianos-de-manga-corta",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This set pairs a short-sleeve shirt featuring a lapel collar and button closure with matching drawstring elastic waist shorts. Tailored for a relaxed, fluid drape. The design features subtle logo print details at the chest and hem. A versatile option for warm weather and relaxed occasions. Each piece is made to order to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Este conjunto combina una camisa de manga corta con cuello doblado y cierre de botones con unos pantalones cortos a juego de cintura elástica con cordón. Confeccionado para ofrecer un ajuste relajado y fluido. El diseño presenta detalles sutiles de impresión en el pecho y el dobladillo. Una opción versátil para climas cálidos y ocasiones informales. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% polyester\n· Loose fit\n· Button closure and elastic waist with drawstring\n· Machine wash at max 30°C on delicate cycle\n· Iron at low temperature\n· Do not bleach\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· 100% poliéster\n· Ajuste holgado\n· Cierre de botones y cintura elástica con cordón\n· Lavar a máquina a un máximo de 30 °C con programa delicado\n· Planchar a temperatura baja\n· No usar blanqueador\n· Producto confeccionado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/67a7bd8b9bbace83d42f.jpg",
   "assets/products/shop/be6c56397813a8b74ced.jpg",
@@ -16,11 +30,8 @@
   "assets/products/shop/70c02574c30e073568bb.jpg",
   "assets/products/shop/1c1ca7fe2789b97e5a13.jpg",
   "assets/products/shop/002212d44b6b8826856b.jpg",
-  "assets/products/shop/3b3dbf98f2b899092f00.jpg",
   "assets/products/shop/b2407332627b8253d5af.jpg",
-  "assets/products/shop/5ecc71c6d949b5c7de3a.jpg",
-  "assets/products/shop/eaa24d4499bcb32b2da8.jpg",
-  "assets/products/shop/57a41b0365a6dca93497.jpg"
+  "assets/products/shop/5ecc71c6d949b5c7de3a.jpg"
  ],
  "draft": false,
  "fam": "conjunto-camisa-pantalones",
@@ -34,9 +45,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Conjunto Camisa Pantalones Set",
- "name_es": "Conjunto Conjunto Camisa Pantalones",
+ "name_en": "Hawaiian Shirt and Shorts Set",
+ "name_es": "Conjunto Camisa y Short Hawaiano",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1641,
@@ -44,8 +56,66 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "WAIST"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "CINTURA"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "35.0cm(13.8\")",
+    "64.0cm(25.2\")"
+   ],
+   [
+    "M",
+    "36.0cm(14.2\")",
+    "69.0cm(27.2\")"
+   ],
+   [
+    "L",
+    "37.0cm(14.6\")",
+    "74.0cm(29.1\")"
+   ],
+   [
+    "XL",
+    "38.0cm(15.0\")",
+    "79.0cm(31.1\")"
+   ],
+   [
+    "2XL",
+    "39.0cm(15.4\")",
+    "84.0cm(33.1\")"
+   ],
+   [
+    "3XL",
+    "40.0cm(15.7\")",
+    "89.0cm(35.0\")"
+   ],
+   [
+    "4XL",
+    "41.0cm(16.1\")",
+    "94.0cm(37.0\")"
+   ],
+   [
+    "5XL",
+    "42.0cm(16.5\")",
+    "99.0cm(39.0)"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/eaa24d4499bcb32b2da8.jpg"
+ ],
  "sizes": [
   "S",
   "M",

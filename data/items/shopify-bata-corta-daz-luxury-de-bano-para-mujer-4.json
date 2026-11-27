@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester blend",
+ "ai_sizes": "One Size",
+ "ai_type": "Bathrobe",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce flat lay and composited model shots. Lacks true luxury lighting and styling.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,18 +20,15 @@
  "cg": "t-bata-corta-daz-luxury-de-bano-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An enveloping silhouette designed for refined lounging. This short robe combines a lightweight feel with an expressive bohemian-inspired design. It features an adjustable belt to define the silhouette and functional front pockets for effortless comfort. Crafted made-to-order to ensure exclusivity with worldwide shipping.",
+ "desc_es": "Una silueta envolvente diseñada para el descanso refinado. Esta bata corta combina un tacto ligero con un diseño expresivo de inspiración bohemia. Cuenta con un cinturón ajustable que define la figura y bolsillos delanteros funcionales para mayor comodidad. Confeccionada bajo demanda para garantizar exclusividad y envíos a todo el mundo.",
+ "details_en": "· Lightweight polyester blend fabric\n· Belt closure for secure universal fit\n· Two front pockets\n· Machine washable in cold water on delicate cycle with mild detergent\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Tejido ligero de mezcla de poliéster\n· Cinturón con cierre para ajuste universal\n· Dos bolsillos delanteros\n· Lavado a máquina con agua fría, ciclo delicado y detergente suave\n· Pieza confeccionada bajo demanda con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/1e6eba0aef6daf6dd929.jpg",
   "assets/products/shop/b435f02ed3c26cd08a01.jpg",
-  "assets/products/shop/1f785829c23dae0e7ca1.jpg",
-  "assets/products/shop/9c2bb3ee8fd68655e1a8.jpg",
-  "assets/products/shop/e67a909b88711f8f81a1.jpg",
-  "assets/products/shop/6f40709c4b4330d17cb7.jpg",
   "assets/products/shop/32a650a21e24045b28cc.jpg",
-  "assets/products/shop/18187561ecbc295fd073.jpg",
-  "assets/products/shop/89e94c4efba40700cc15.jpg"
+  "assets/products/shop/18187561ecbc295fd073.jpg"
  ],
  "draft": false,
  "fam": "bata-corta-luxury",
@@ -32,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Bata Corta Daz Loungewear",
- "name_es": "Pijama Bata Corta Daz",
+ "name_en": "DAZ Luxury Short Bathrobe",
+ "name_es": "Bata Corta DAZ Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1638,
@@ -42,9 +53,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Arm",
+   "Chest",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Manga",
+   "Pecho",
+   "Largo"
+  ],
+  "notes_en": "Made-to-order piece. Measurements are standard garment dimensions.",
+  "notes_es": "Pieza bajo demanda. Las medidas corresponden a las dimensiones estándar de la prenda.",
+  "rows": [
+   [
+    "One Size",
+    "54cm (21\")",
+    "61cm (24\")",
+    "91cm (35\")"
+   ]
+  ],
+  "unit": "cm / inch"
+ },
+ "size_guide": [
+  "assets/products/shop/89e94c4efba40700cc15.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bata corta DAZ Luxury de baño para mujer",
  "stripe_payment_link": "https://buy.stripe.com/7sY00k7369yIduS6iq1gQ1t",
  "supplier": "Shopify",
