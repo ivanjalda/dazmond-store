@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/conjuntos"
+ ],
+ "ai_color": "Azul",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% elastano",
+ "ai_type": "Conjunto",
+ "ai_ver": 2,
+ "art_note": "High-end lifestyle imagery with sophisticated lighting and architectural backdrops, elevating the athletic silhouette into luxury ready-to-wear.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,15 @@
  "cg": "t-dazmond-rainbow-energy-cheer-set",
  "color": "Azul",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A contemporary vision of athletic tailoring. This set balances structured lines with dynamic fluidity. The short-sleeve top features defined lapels and an adjustable front tie. It is paired with a mid-rise pleated mini skirt. A piece designed for movement with architectural precision. Available made to order with worldwide shipping.",
+ "desc_es": "Una visión contemporánea de la sastrería deportiva. Este conjunto equilibra líneas estructuradas con una fluidez dinámica. El top de manga corta presenta solapas definidas y un lazo frontal ajustable. Se acompaña de una minifalda plisada de talle medio. Una pieza diseñada para el movimiento con precisión arquitectónica. Disponible bajo pedido con envío a todo el mundo.",
+ "details_en": "· 95% polyester, 5% elastane\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 95% poliéster, 5% elastano\n· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shopify-design-cheerleading-uniform-lyq62-3-1.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-3-2.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-3-3.webp",
-  "assets/products/shopify-design-cheerleading-uniform-lyq62-3-4.webp",
-  "assets/products/shopify-design-cheerleading-uniform-lyq62-3-5.webp",
-  "assets/products/shopify-design-cheerleading-uniform-lyq62-3-6.webp"
+  "assets/products/shopify-design-cheerleading-uniform-lyq62-3-4.webp"
  ],
  "draft": false,
  "fam": "rainbow-energy-cheer",
@@ -28,9 +40,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Rainbow Energy Cheer Set",
- "name_es": "Conjunto Rainbow Energy Cheer",
+ "name_en": "Rainbow Energy Set",
+ "name_es": "Conjunto Rainbow Energy",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1143,

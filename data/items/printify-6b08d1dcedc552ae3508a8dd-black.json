@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "tote bag",
+ "ai_ver": 2,
+ "art_note": "Flat digital product mockups lacking true luxury campaign staging.",
+ "art_score": 3,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-6b08d1dcedc552ae3508a8dd",
  "color": "Black",
  "created": "2026-11-27",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A sublime expression of contemporary design and everyday functionality. This tote bag features the signature house monogram, blending a structured silhouette with a minimalist and refined aesthetic. Crafted to order to ensure absolute exclusivity and an impeccable standard. Each piece reflects the sophisticated vision of the house, offering a versatile accessory that gracefully complements any discerning wardrobe. Available exclusively through our online store with worldwide shipping.",
+ "desc_es": "Una expresion sublime de diseno contemporaneo y funcionalidad disenada para el dia a dia. Este bolso tote presenta el monograma caracteristico de la casa, fusionando una silueta estructurada con una estetica minimalista y refinada. Confeccionado bajo demanda para garantizar una exclusividad absoluta y un estandar impecable. Cada pieza refleja la vision sofisticada de la marca, ofreciendo un accesorio versatil que complementa con gracia cualquier guardarropa exigente. Disponible exclusivamente a traves de nuestra tienda online con envios a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envio mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b08d1dcedc552ae3508a8dd/119445/109797/d-monogram-tote.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b08d1dcedc552ae3508a8dd/119445/109798/d-monogram-tote.jpg?camera_label=back"
@@ -27,9 +42,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Monogram Bag · Black",
- "name_es": "Bolso Monogram · Negro",
+ "name_en": "D Monogram Tote Bag · Black",
+ "name_es": "Bolso Tote Monogram D · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 25,

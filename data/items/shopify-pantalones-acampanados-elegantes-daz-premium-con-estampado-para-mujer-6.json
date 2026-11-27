@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/pantalones"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester and spandex",
+ "ai_type": "Pants",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with flat lighting, lacking high-end editorial atmosphere.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +19,14 @@
  "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Sculpted silhouette with a fluid drape. These flared pants combine precision tailoring with effortless comfort. The mid-rise waist defines the figure while the all-over print introduces subtle sophistication. Crafted from a stretchy blend that moves naturally with the body. Two functional front pockets complete the piece. A versatile garment for seamless transitions between formal and casual settings. Designed to command presence and distinction on any occasion.",
+ "desc_es": "Silueta esculpida con una caída fluida. Este pantalón acampanado combina precisión en el diseño y comodidad impecable. El talle medio define la figura mientras que el estampado integral aporta un carácter sutil y sofisticado. Confeccionado con una mezcla elástica que acompaña el movimiento natural. Dos bolsillos delanteros funcionales completan la pieza. Una prenda versátil para transicionar sin esfuerzo entre momentos formales y casuales. Diseñado para ofrecer presencia y distinción en cualquier ocasión.",
+ "details_en": "· Composition: polyester and spandex\n· Mid-rise waist\n· Flared silhouette\n· Two front pockets\n· Care: hand wash or machine wash with cold water, do not bleach, tumble dry low, do not iron, do not dry clean\n· Made to order and worldwide shipping",
+ "details_es": "· Composición: poliéster y elastano\n· Talle medio\n· Silueta acampanada\n· Dos bolsillos delanteros\n· Cuidado: lavar a mano o a máquina con agua fría, no usar blanqueador, secar en secadora a baja temperatura, no planchar, no lavar en seco\n· Made to order and worldwide shipping",
  "display_images": [
   "assets/products/shop/ccbf9691df53bd825f5b.jpg",
   "assets/products/shop/5f0e035788aef5cbcaa7.jpg",
   "assets/products/shop/cbfc77483d6131193117.jpg",
-  "assets/products/shop/467507c49b984374ed40.jpg",
   "assets/products/shop/4bc11421197349adcff0.jpg"
  ],
  "draft": false,
@@ -28,9 +41,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalones Acampanados Trousers",
- "name_es": "Pantalón Pantalones Acampanados",
+ "name_en": "DAZ printed flared trousers",
+ "name_es": "Pantalones acampanados con estampado DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1107,
@@ -38,8 +52,64 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones > Pantalones",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Hip"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Cadera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "108.0cm(42.5\")",
+    "69.5cm(27.4\")",
+    "97cm(38.2\")"
+   ],
+   [
+    "M",
+    "109.0cm(43.1\")",
+    "74.5cm(29.3\")",
+    "102cm(40.2\")"
+   ],
+   [
+    "L",
+    "111.0cm(43.7\")",
+    "79.5cm(31.3\")",
+    "107cm(42.1\")"
+   ],
+   [
+    "XL",
+    "112.5cm(44.3\")",
+    "84.5cm(33.3\")",
+    "112cm(44.1\")"
+   ],
+   [
+    "2XL",
+    "115.0cm(45.3\")",
+    "91.5cm(36.0\")",
+    "119cm(46.9\")"
+   ],
+   [
+    "3XL",
+    "117.5cm(46.3\")",
+    "98.5cm(38.8\")",
+    "126cm(49.6\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/467507c49b984374ed40.jpg"
+ ],
  "sizes": [
   "S",
   "M",

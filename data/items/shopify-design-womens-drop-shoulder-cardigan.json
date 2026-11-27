@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Morado",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Tejido de punto",
+ "ai_type": "Cardigan",
+ "ai_ver": 2,
+ "art_note": "Flat-looking mockups and marketplace-style presentation compromise the luxury positioning.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,15 @@
  "cg": "t-cardigan-daz-luxury-de-hombros-caidos-para-mujer",
  "color": "Morado",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A relaxed silhouette defines this knitted purple cardigan. Designed with dropped shoulders and loose long sleeves. Crafted from a soft, breathable knit fabric providing comfort for daily wear. Each piece is crafted to order to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta relajada define este cárdigan de punto en tono morado. Diseñado con hombros caídos y mangas largas holgadas. Confeccionado con un tejido suave y transpirable que ofrece comodidad para uso diario. Cada pieza se confecciona bajo demanda para garantizar exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· High quality knitted fabric\n· Dropped shoulder and loose long sleeve design\n· Hand or machine washable at temperature under or equal to 45 degrees C\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Tejido de punto de alta calidad\n· Diseño de hombros caídos y mangas largas holgadas\n· Lavable a mano o a máquina a temperatura inferior o igual a 45 grados\n· Hecho a medida bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "assets/products/shop/704290c9d9180c9c926f.jpg",
   "assets/products/shop/c9261c77082637fb194d.jpg",
   "assets/products/shop/7964fcac7c0c1ffd1b5d.jpg",
-  "assets/products/shop/fe2e1597aaf431cd958c.jpg",
-  "assets/products/shop/b9275b34f6a910fe2ff5.jpg",
-  "http://ipimg.interestprint.com/data/product/4662/info/image/20250904/D03278106229FCB3729EB745603B57A5.jpg"
+  "assets/products/shop/fe2e1597aaf431cd958c.jpg"
  ],
  "draft": false,
  "fam": "cardigan-luxury-hombros",
@@ -29,9 +41,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Cárdigan Daz Hombros Sweater",
- "name_es": "Suéter Cárdigan Daz Hombros",
+ "name_en": "Dropped Shoulder Purple Cardigan",
+ "name_es": "Cárdigan Morado Hombros Caídos",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1183,
@@ -39,8 +52,73 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Cárdigan",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Shoulder",
+   "Sleeve",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Hombro",
+   "Manga",
+   "Largo"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. ¡Por favor revise y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "114cm / 44.8in",
+    "59cm / 23.2in",
+    "50cm / 19.6in",
+    "66cm / 25.9in"
+   ],
+   [
+    "M",
+    "120cm / 47.2in",
+    "62cm / 24.4in",
+    "50cm / 19.6in",
+    "68cm / 26.7in"
+   ],
+   [
+    "L",
+    "126cm / 49.6in",
+    "65cm / 25.5in",
+    "50cm / 19.6in",
+    "70cm / 27.5in"
+   ],
+   [
+    "XL",
+    "134cm / 52.7in",
+    "69cm / 27.1in",
+    "50cm / 19.6in",
+    "72cm / 28.3in"
+   ],
+   [
+    "2XL",
+    "142cm / 55.9in",
+    "73cm / 28.7in",
+    "50cm / 19.6in",
+    "74cm / 29.1in"
+   ],
+   [
+    "3XL",
+    "150cm / 59in",
+    "77cm / 30.3in",
+    "50cm / 19.6in",
+    "76cm / 29.9in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/b9275b34f6a910fe2ff5.jpg",
+  "http://ipimg.interestprint.com/data/product/4662/info/image/20250904/D03278106229FCB3729EB745603B57A5.jpg"
+ ],
  "sizes": [
   "S",
   "M",

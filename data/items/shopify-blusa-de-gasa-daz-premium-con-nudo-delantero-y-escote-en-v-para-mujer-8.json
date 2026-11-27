@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Gasa",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "The model shots appear composited and marketplace-oriented, detracting from a true luxury presentation.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,15 @@
  "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A fluid silhouette defined by understated elegance. This chiffon blouse features a refined V-neckline and a front knot detail that introduces movement and structure. The short batwing sleeve design offers a light and sophisticated drape. Crafted to order to ensure ultimate exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta fluida definida por una elegancia discreta. Esta blusa de gasa presenta un refinado escote en V y un detalle frontal con nudo que aporta movimiento y estructura. Su diseño de manga corta tipo murciélago ofrece una caída ligera y sofisticada. Confeccionada bajo pedido para garantizar la máxima exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· V-neckline\n· Front knot detail\n· Short batwing sleeves\n· Machine washable with neutral detergent in cold water\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Escote en V\n· Detalle de nudo delantero\n· Manga corta tipo murciélago\n· Lavado a máquina con detergente neutro en agua fría\n· Pieza confeccionada bajo pedido\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/d47dfe9b572430de512b.jpg",
-  "assets/products/shop/20e1c3c31addbcab0ef8.jpg",
-  "assets/products/shop/2dc4705640c8f4733362.jpg",
   "assets/products/shop/63eec6809799a8cf1975.jpg",
   "assets/products/shop/203de5c496286907787c.jpg",
   "assets/products/shop/f5f2e32dc98eb2d3af2a.jpg",
-  "assets/products/shop/5f9f5775a673c751d782.jpg",
-  "assets/products/shop/ebfcce4ceec23bcc7156.jpg"
+  "assets/products/shop/5f9f5775a673c751d782.jpg"
  ],
  "draft": false,
  "fam": "blusa-gasa-premium",
@@ -31,9 +41,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Blusa Gasa Daz Blouse",
- "name_es": "Blusa Blusa Gasa Daz",
+ "name_en": "Chiffon tie-front blouse",
+ "name_es": "Blusa de gasa con nudo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1177,
@@ -41,8 +52,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud",
+   "Busto",
+   "Manga"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "62(24.3\")",
+    "97m(38.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "M",
+    "63(24.8\")",
+    "102cm(40.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "L",
+    "64(25.2\")",
+    "107cm(42.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "XL",
+    "65(25.5\")",
+    "114cm(44.8\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "2XL",
+    "66(25.9\")",
+    "122cm(48.0\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "3XL",
+    "67(26.3\")",
+    "129cm(50.9\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "4XL",
+    "68(26.7\")",
+    "137cm(53.9\")",
+    "30cm(14.9\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/ebfcce4ceec23bcc7156.jpg"
+ ],
  "sizes": [
   "S",
   "M",

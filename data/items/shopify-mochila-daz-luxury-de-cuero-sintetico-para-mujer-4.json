@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Blue / Multicolored",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Synthetic leather exterior, polyester lining",
+ "ai_sizes": "One Size",
+ "ai_type": "Mochila / Backpack",
+ "ai_ver": 2,
+ "art_note": "Clean digital mockups on plain backgrounds, adequate for e-commerce but lack atmospheric luxury context.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +20,16 @@
  "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of functional design and contemporary aesthetics. Crafted from waterproof synthetic leather with a scratch-resistant polyester lining, this piece unites versatility with everyday sophistication. Its convertible silhouette offers a zippered main compartment, an additional front pocket, and a fixed top handle complemented by adjustable straps. Designed to accompany every daily journey with understated elegance.",
+ "desc_es": "Una expresión depurada de diseño funcional y estética contemporánea. Confeccionada en cuero sintético impermeable con un forro de poliéster resistente a los arañazos, esta pieza combina versatilidad y refinamiento diario. Su silueta convertible ofrece un compartimento principal con cremallera, un bolsillo frontal adicional y un asa superior fija complementada con correas ajustables. Diseñada para acompañar con elegancia cada trayecto cotidiano.",
+ "details_en": "· Waterproof synthetic leather exterior\n· Scratch-resistant polyester lining\n· Main zippered compartment and front pocket\n· Fixed top handle and adjustable shoulder straps\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Exterior de cuero sintético impermeable\n· Forro de poliéster resistente a los arañazos\n· Compartimento principal con cremallera y bolsillo frontal\n· Asa superior fija y correas de hombro ajustables\n· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/8f0ca83fa2bd1a409f31.jpg",
   "assets/products/shop/b4fc136d8d0de3cfbfc6.jpg",
   "assets/products/shop/29cc6ec6437f7439977f.jpg",
   "assets/products/shop/5a61776351f1a9476914.jpg",
-  "assets/products/shop/81e044021e4002a0198c.jpg",
-  "assets/products/shop/ab34edd39a9e57f4f923.jpg",
-  "assets/products/shop/671bbd1f5d193fd3e7d8.jpg",
-  "assets/products/shop/4c10211f542ccd3caee6.jpg"
+  "assets/products/shop/81e044021e4002a0198c.jpg"
  ],
  "draft": false,
  "fam": "mochila-luxury-cuero",
@@ -31,9 +43,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Mochila Daz Cuero Bag",
- "name_es": "Bolso Mochila Daz Cuero",
+ "name_en": "Synthetic Leather Printed Backpack",
+ "name_es": "Mochila Estampada de Cuero Sintético",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1199,
@@ -41,9 +54,39 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsas convertibles",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Altura"
+  ],
+  "notes_en": "Made to order. Worldwide shipping available.",
+  "notes_es": "Hecho a pedido. Envíos a todo el mundo.",
+  "rows": [
+   [
+    "31 cm",
+    "12 cm",
+    "31 cm"
+   ],
+   [
+    "12.2 in",
+    "4.7 in",
+    "12.2 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/ab34edd39a9e57f4f923.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Mochila DAZ Luxury de cuero sintético para mujer",
  "stripe_payment_link": "https://buy.stripe.com/cNi6oIcnq9yI76ubCK1gO3c",
  "supplier": "Shopify",

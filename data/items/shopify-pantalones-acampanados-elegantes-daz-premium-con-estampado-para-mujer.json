@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/pantalones"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester and spandex",
+ "ai_type": "Pants",
+ "ai_ver": 2,
+ "art_note": "Flat product shots look like generic marketplace templates rather than high-end luxury e-commerce.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +19,14 @@
  "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Sophisticated silhouette featuring a mid-rise design. Crafted from a soft fabric blend of polyester and spandex. Showcases an all-over print and two front pockets. Fluid flared cut that introduces movement to the silhouette. Absolute versatility for pairing with essential wardrobe staples. Each piece is made to order. Worldwide shipping available.",
+ "desc_es": "Silueta sofisticada con diseño de talle medio. Confeccionados en un tejido suave con mezcla de poliéster y elastano. Presentan un estampado integral y dos bolsillos delanteros. Corte fluido y acampanado que aporta movimiento a la figura. Versatilidad absoluta para combinar con prendas esenciales de fondo de armario. Cada pieza se elabora bajo demanda. Envío mundial disponible.",
+ "details_en": "· Composition: polyester and spandex\n· Mid-rise design\n· 2 front pockets\n· All-over print\n· Hand wash or machine wash cold\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Composición: poliéster y elastano\n· Diseño de talle medio\n· 2 bolsillos delanteros\n· Estampado integral\n· Lavar a mano o a máquina con agua fría\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/8192167f1107e71ffabf.jpg",
   "assets/products/shop/6f567e68afa9b4817b43.jpg",
   "assets/products/shop/10d403db4d7deaf4cbc4.jpg",
-  "assets/products/shop/a5c997e246ae087c8a3b.jpg",
   "assets/products/shop/a3c42e3948429a0eab9f.jpg"
  ],
  "draft": false,
@@ -28,9 +41,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalones Acampanados Trousers",
- "name_es": "Pantalón Pantalones Acampanados",
+ "name_en": "DAZ printed flared trousers",
+ "name_es": "Pantalones acampanados con estampado DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1093,
@@ -38,8 +52,64 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones > Pantalones",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Hip"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Cadera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "108.0cm (42.5\")",
+    "69.5cm (27.4\")",
+    "97cm (38.2\")"
+   ],
+   [
+    "M",
+    "109.5cm (43.1\")",
+    "74.5cm (29.3\")",
+    "102cm (40.2\")"
+   ],
+   [
+    "L",
+    "111.0cm (43.7\")",
+    "79.5cm (31.3\")",
+    "107cm (42.1\")"
+   ],
+   [
+    "XL",
+    "112.5cm (44.3\")",
+    "84.5cm (33.3\")",
+    "112cm (44.1\")"
+   ],
+   [
+    "2XL",
+    "115.0cm (45.3\")",
+    "91.5cm (36.0\")",
+    "119cm (46.9\")"
+   ],
+   [
+    "3XL",
+    "117.5cm (46.3\")",
+    "98.5cm (38.8\")",
+    "126cm (49.6\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/a5c997e246ae087c8a3b.jpg"
+ ],
  "sizes": [
   "S",
   "M",

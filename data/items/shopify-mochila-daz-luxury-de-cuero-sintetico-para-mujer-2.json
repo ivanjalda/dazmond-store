@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Red / Multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Synthetic Leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Backpack",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce product shots against plain backgrounds with basic dimensional callouts.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +20,17 @@
  "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This backpack combines functionality and refined design in a versatile silhouette. Crafted with a waterproof synthetic leather exterior and a scratch-resistant polyester lining, it offers durable protection for your daily essentials. Its zippered main compartment and additional pockets organize your items with ease. Adjustable straps and a top handle ensure comfort throughout your urban commute. An essential piece for contemporary daily wear.",
+ "desc_es": "Esta mochila combina funcionalidad y diseño refinado en una silueta versátil. Confeccionada con un exterior de cuero sintético impermeable y un forro de poliéster resistente a los arañazos, ofrece protección duradera para sus pertenencias diarias. Su compartimento principal con cremallera y los bolsillos adicionales organizan sus esenciales con facilidad. Las correas ajustables y el asa superior garantizan comodidad en cada trayecto urbano. Una pieza esencial para el día a día contemporáneo.",
+ "details_en": "· Waterproof synthetic leather exterior\n· Scratch-resistant polyester lining\n· Main compartment with zip closure\n· Front zip pocket and interior pocket\n· Adjustable shoulder straps and fixed top handle\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Exterior de cuero sintético impermeable\n· Forro de poliéster resistente a los arañazos\n· Compartimento principal con cierre de cremallera\n· Bolsillo frontal con cremallera y bolsillo interior\n· Correas de hombro ajustables y asa superior fija\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/8469561785a0e033a805.jpg",
   "assets/products/shop/14017503c20b96e2dd1e.jpg",
   "assets/products/shop/e9a90b2b26f52f7581a0.jpg",
   "assets/products/shop/2f1ff7e05f5918bd6f98.jpg",
   "assets/products/shop/7ce27fb82cd7b395ab20.jpg",
-  "assets/products/shop/0a335392341815103450.jpg",
-  "assets/products/shop/128e8b601ec898fca103.jpg",
-  "assets/products/shop/031081d28514c44e07c3.jpg"
+  "assets/products/shop/128e8b601ec898fca103.jpg"
  ],
  "draft": false,
  "fam": "mochila-luxury-cuero",
@@ -31,9 +44,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Mochila Daz Cuero Bag",
- "name_es": "Bolso Mochila Daz Cuero",
+ "name_en": "Synthetic Leather Printed Backpack",
+ "name_es": "Mochila Estampada de Cuero Sintético",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1197,
@@ -41,9 +55,39 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsas convertibles",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "Measurements are approximate and refer to exterior dimensions.",
+  "notes_es": "Las medidas son aproximadas y se refieren a las dimensiones exteriores.",
+  "rows": [
+   [
+    "31",
+    "12",
+    "31"
+   ],
+   [
+    "12.2",
+    "4.7",
+    "12.2"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/0a335392341815103450.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Mochila DAZ Luxury de cuero sintético para mujer",
  "stripe_payment_link": "https://buy.stripe.com/dRm9AUcnqcKU4YmgX41gO3a",
  "supplier": "Shopify",

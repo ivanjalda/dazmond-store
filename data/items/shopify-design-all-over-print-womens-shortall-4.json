@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Amarillo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Poliéster",
+ "ai_type": "Jumpsuits, Rompers & Overalls",
+ "ai_ver": 2,
+ "art_note": "The lifestyle and studio model imagery captures a sophisticated luxury mood, though flat product cutouts lack dimension.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,15 @@
  "cg": "t-dazmond-aura-luxe-elixir-dazmond",
  "color": "Amarillo",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A statement of intent for the contemporary silhouette. This design merges the freshness of a shortall with the distinction of a signature piece. Crafted from high-grade technical polyester fabric, it offers an impeccable drape and a subtly elastic feel. Its lightweight structure guarantees absolute freedom of movement while maintaining a refined appearance at all times. Featuring a minimalist square neckline and wide straps with delicate button details. Available with made-to-order options and worldwide shipping.",
+ "desc_es": "Una declaracion de intenciones para la silueta contemporanea. Este diseño fusiona la frescura de un peto con la distincion de una pieza de autor. Confeccionado en un tejido tecnico de poliéster de alta calidad, ofrece una caida impecable y una tacto sutilmente elastico. Su estructura ligera garantiza libertad de movimiento absoluta, manteniendo un aspecto refinado en todo momento. Presenta un escote cuadrado minimalista y tirantes anchos con sutiles detalles de botones. Disponible con opciones de confeccion bajo pedido y envio a todo el mundo.",
+ "details_en": "· 100% technical polyester\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% poliéster tecnico\n· Hecho bajo pedido\n· Envio a todo el mundo",
  "display_images": [
   "assets/products/shopify-design-all-over-print-womens-shortall-4-1.webp",
   "assets/products/shopify-design-all-over-print-womens-shortall-4-2.webp",
   "assets/products/shopify-design-all-over-print-womens-shortall-4-3.webp",
-  "assets/products/shopify-design-all-over-print-womens-shortall-4-4.webp",
-  "assets/products/shopify-design-all-over-print-womens-shortall-4-5.webp",
-  "assets/products/shopify-design-all-over-print-womens-shortall-4-6.webp"
+  "assets/products/shopify-design-all-over-print-womens-shortall-4-4.webp"
  ],
  "draft": false,
  "fam": "aura-luxe-elixir",
@@ -28,9 +40,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Aura Luxe Elixir Jumpsuit",
- "name_es": "Mono Aura Luxe Elixir",
+ "name_en": "Aura Luxe Elixir Romper",
+ "name_es": "Monos cortos Aura Luxe Elixir",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1213,

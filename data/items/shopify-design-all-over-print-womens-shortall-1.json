@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% polyester",
+ "ai_type": "shortall",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle and studio imagery that aligns with high-end luxury brand standards.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-argyle-heritage-shortall",
  "color": "Morado",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A signature piece that fuses traditional design heritage with a contemporary silhouette. This shortall features an iconic diamond pattern in pink and black tones that evokes sophisticated exclusivity. Crafted from a high-quality technical fabric, the garment offers an impeccable drape and superior tactile softness. Its versatile structure allows for a fluid transition between different moments of the day while maintaining a clean, refined aesthetic. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una pieza de autor que fusiona el legado del diseño tradicional con una silueta contemporánea. Este peto corto presenta un icónico estampado de rombos en tonos rosados y azabache que evoca una exclusividad sofisticada. Confeccionado con un tejido técnico de alta calidad, la prenda ofrece una caída impecable y una suavidad táctil superior. Su estructura versátil permite una transición fluida entre diferentes momentos del día, manteniendo una estética limpia y refinada. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 100% polyester\n· 280 g/m² technical fabric\n· Two-button front closure\n· Two integrated front pockets\n· Made to order with worldwide shipping",
+ "details_es": "· 100% poliéster\n· Tejido técnico de 280 g/m²\n· Cierre frontal de dos botones\n· Dos bolsillos delanteros integrados\n· Hecho bajo pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shopify-design-all-over-print-womens-shortall-1-1.webp",
   "assets/products/shopify-design-all-over-print-womens-shortall-1-2.webp",
@@ -28,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Argyle Heritage Shortall Jumpsuit · Pink",
- "name_es": "Mono Argyle Heritage Shortall · Rosa",
+ "name_en": "Argyle Heritage Shortall",
+ "name_es": "Peto Corto Argyle Heritage",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 25.99,
  "rank": 1210,

@@ -328,8 +328,8 @@
     },
     {
       "id": "printify-6b08d1dfedc552ae3508a8e1",
-      "name_es": "Taza Monogram",
-      "name_en": "Monogram Mug",
+      "name_es": "Taza Monogram D",
+      "name_en": "D Monogram Mug",
       "price_usd": 51.99,
       "badge": "new",
       "categories": [
@@ -342,12 +342,13 @@
       "supplier_id": "6b08d1dfedc552ae3508a8e1",
       "fam": "d-monogram-mug",
       "cg": "printify-6b08d1dfedc552ae3508a8e1",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62327/3387/d-monogram-mug.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08d1ecf7ed4c973b05978a",
-      "name_es": "Taza House Seal",
-      "name_en": "House Seal Mug",
+      "name_es": "Taza House Seal Ii",
+      "name_en": "House Seal Ii Mug",
       "price_usd": 51.99,
       "badge": "new",
       "categories": [
@@ -360,6 +361,7 @@
       "supplier_id": "6b08d1ecf7ed4c973b05978a",
       "fam": "house-seal-ii",
       "cg": "printify-6b08d1ecf7ed4c973b05978a",
+      "art_score": 7,
       "img": "https://images-api.printify.com/mockup/6b08d1ecf7ed4c973b05978a/62327/3387/house-seal-ii-mug.jpg?camera_label=front"
     },
     {
@@ -385,8 +387,8 @@
     },
     {
       "id": "printify-6b08d1fe55d595d88e0a3681",
-      "name_es": "Sudadera Signature Logo · Negro",
-      "name_en": "Signature Logo Sweatshirt · Black",
+      "name_es": "Sudadera Signature Logo",
+      "name_en": "Signature Logo Sweatshirt",
       "price_usd": 45.99,
       "badge": "new",
       "categories": [
@@ -401,12 +403,13 @@
       "fam": "signature-logo-crewneck",
       "cg": "printify-6b08d1fe55d595d88e0a3681",
       "color": "Black",
+      "art_score": 7,
       "img": "https://images-api.printify.com/mockup/6b08d1fe55d595d88e0a3681/25459/98502/signature-logo-crewneck.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08d1f7c87e8df47b0948ca",
-      "name_es": "Camiseta Signature Logo · Negro",
-      "name_en": "Signature Logo Tee · Black",
+      "name_es": "Camiseta Signature Logo Negra",
+      "name_en": "Signature Logo Black Tee",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -421,12 +424,13 @@
       "fam": "signature-logo-jersey",
       "cg": "printify-6b08d1f7c87e8df47b0948ca",
       "color": "Black",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b08d1f7c87e8df47b0948ca/18102/102044/signature-logo-jersey-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b08d1d908b8102972074ebe",
-      "name_es": "Cojín Monogram Cushion",
-      "name_en": "Monogram Cushion Cushion",
+      "name_es": "Cojín Monograma D",
+      "name_en": "D Monogram Cushion",
       "price_usd": 82.99,
       "badge": "new",
       "categories": [
@@ -439,12 +443,13 @@
       "supplier_id": "6b08d1d908b8102972074ebe",
       "fam": "d-monogram-cushion",
       "cg": "printify-6b08d1d908b8102972074ebe",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b08d1d908b8102972074ebe/41521/47613/d-monogram-cushion.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08d1e4d4c50971c203623a",
-      "name_es": "Camiseta House Seal · Negro",
-      "name_en": "House Seal Tee · Black",
+      "name_es": "Camiseta House Seal II",
+      "name_en": "House Seal II Tee",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -459,12 +464,13 @@
       "fam": "house-seal-ii",
       "cg": "printify-6b08d1e4d4c50971c203623a",
       "color": "Black",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b08d1e4d4c50971c203623a/12124/102005/house-seal-ii-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b08d1f4c87e8df47b0948c2",
-      "name_es": "Camiseta Signature Logo · Negro",
-      "name_en": "Signature Logo Tee · Black",
+      "name_es": "Camiseta Signature Logo Black",
+      "name_en": "Signature Logo Tee Black",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -479,12 +485,13 @@
       "fam": "signature-logo-tee",
       "cg": "printify-6b08d1f4c87e8df47b0948c2",
       "color": "Black",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/102005/signature-logo-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b08d1dcedc552ae3508a8dd-black",
-      "name_es": "Bolso Monogram · Negro",
-      "name_en": "Monogram Bag · Black",
+      "name_es": "Bolso Tote Monogram D · Negro",
+      "name_en": "D Monogram Tote Bag · Black",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -499,12 +506,13 @@
       "fam": "d-monogram-tote",
       "cg": "printify-6b08d1dcedc552ae3508a8dd",
       "color": "Black",
+      "art_score": 3,
       "img": "https://images-api.printify.com/mockup/6b08d1dcedc552ae3508a8dd/119445/109797/d-monogram-tote.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08d1dcedc552ae3508a8dd-oyster",
-      "name_es": "Bolso Monogram · Oyster",
-      "name_en": "Monogram Bag · Oyster",
+      "name_es": "Bolso Tote Monogram D · Oyster",
+      "name_en": "D Monogram Tote Bag · Oyster",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -519,6 +527,7 @@
       "fam": "d-monogram-tote",
       "cg": "printify-6b08d1dcedc552ae3508a8dd",
       "color": "Oyster",
+      "art_score": 5,
       "img": "https://images-api.printify.com/mockup/6b08d1dcedc552ae3508a8dd/119446/109797/d-monogram-tote.jpg?camera_label=front"
     },
     {
@@ -21945,12 +21954,13 @@
       "supplier_id": "funda-con-tapa-de-cuero-sintetico-daz-marron-para-telefono-3",
       "fam": "funda-tapa-cuero",
       "cg": "t-funda-con-tapa-de-cuero-sintetico-daz-para-telefono",
+      "art_score": 4,
       "img": "assets/products/shop/375c438750718f8d0da8.jpg"
     },
     {
       "id": "shopify-funda-de-cuero-sintetico-daz-premium-con-tapa-para-telefono",
-      "name_es": "Funda Funda Cuero Sintético",
-      "name_en": "Funda Cuero Sintético Case",
+      "name_es": "Funda Billetera DAZ Premium",
+      "name_en": "DAZ Premium Wallet Phone Case",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -21963,12 +21973,13 @@
       "supplier_id": "funda-de-cuero-sintetico-daz-premium-con-tapa-para-telefono",
       "fam": "funda-cuero-sintetico",
       "cg": "t-funda-de-cuero-sintetico-daz-premium-con-tapa-para-telefono",
+      "art_score": 6,
       "img": "assets/products/shop/9739beb47f51c3bb94b8.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -21981,12 +21992,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/8192167f1107e71ffabf.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-1",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -21999,12 +22011,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-1",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/ee30f9401e6477009995.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-10",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22017,12 +22030,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-10",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/b9582b9df6da5657cf3c.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-11",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22035,12 +22049,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-11",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/eed28cbf60e196387017.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-12",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22053,12 +22068,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-12",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/4d62b5d2e5222acffbba.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-13",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22071,12 +22087,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-13",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/15911bd710dab30c2b3b.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-14",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22093,8 +22110,8 @@
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22107,12 +22124,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-15",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/0f51a8ab826bf755d4ba.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-16",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22125,12 +22143,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-16",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/c2d655a3f0aa6610e223.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-17",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22143,12 +22162,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-17",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/e53af338c7ecfc11e759.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-2",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22161,12 +22181,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-2",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/7957833af4dc96194bfb.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-3",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22179,12 +22200,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-3",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/cc2e8d0462eccc8cb8dd.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-4",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22197,12 +22219,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-4",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 6,
       "img": "assets/products/shop/78ab0bf0baab8eb4ebdd.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-5",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22215,12 +22238,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-5",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/45c476db6937c79bc4fa.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-6",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22233,12 +22257,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-6",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/ccbf9691df53bd825f5b.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-7",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22251,12 +22276,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-7",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/30978221a51bbd888ffd.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-8",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22269,12 +22295,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-8",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/796b9525e9692bc1d507.jpg"
     },
     {
       "id": "shopify-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-9",
-      "name_es": "Pantalón Pantalones Acampanados",
-      "name_en": "Pantalones Acampanados Trousers",
+      "name_es": "Pantalones acampanados con estampado DAZ",
+      "name_en": "DAZ printed flared trousers",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22287,12 +22314,13 @@
       "supplier_id": "pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer-9",
       "fam": "pantalones-acampanados-elegantes",
       "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/ff67af9dbbcbd479c4e5.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas",
-      "name_es": "Vestido Daz Tirantes Cuello",
-      "name_en": "Daz Tirantes Cuello Dress",
+      "name_es": "Vestido Midi Acampanado",
+      "name_en": "Flared Midi Dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22305,12 +22333,13 @@
       "supplier_id": "vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas",
       "fam": "vestido-tirantes-cuello",
       "cg": "t-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas",
-      "img": "assets/products/shop/57ad72acdef21a459ff5.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/334ad251647d0298ecc1.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-1",
-      "name_es": "Vestido Daz Tirantes Cuello",
-      "name_en": "Daz Tirantes Cuello Dress",
+      "name_es": "Vestido Midi Acampanado",
+      "name_en": "Flared Midi Dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22323,12 +22352,13 @@
       "supplier_id": "vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-1",
       "fam": "vestido-tirantes-cuello",
       "cg": "t-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas",
-      "img": "assets/products/shop/c4770a5e88041c4ca48c.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/f5488d659ca6f9d59b01.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-2",
-      "name_es": "Vestido Daz Tirantes Cuello",
-      "name_en": "Daz Tirantes Cuello Dress",
+      "name_es": "Vestido Midi Acampanado",
+      "name_en": "Flared Midi Dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22341,12 +22371,13 @@
       "supplier_id": "vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-2",
       "fam": "vestido-tirantes-cuello",
       "cg": "t-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas",
+      "art_score": 4,
       "img": "assets/products/shop/8a9d3e0fda2f138a17b3.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-3",
-      "name_es": "Vestido Daz Tirantes Cuello",
-      "name_en": "Daz Tirantes Cuello Dress",
+      "name_es": "Vestido Midi Acampanado",
+      "name_en": "Flared Midi Dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22359,12 +22390,13 @@
       "supplier_id": "vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-3",
       "fam": "vestido-tirantes-cuello",
       "cg": "t-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas",
-      "img": "assets/products/shop/9d77bcc6da1af219d10d.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/89484ee2c5f7869f8b0f.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-4",
-      "name_es": "Vestido Daz Tirantes Cuello",
-      "name_en": "Daz Tirantes Cuello Dress",
+      "name_es": "Vestido Midi Acampanado",
+      "name_en": "Flared Midi Dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22377,12 +22409,13 @@
       "supplier_id": "vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-4",
       "fam": "vestido-tirantes-cuello",
       "cg": "t-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas",
-      "img": "assets/products/shop/b626443633ad7b103a6f.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/f91631d9086a2de2c527.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-5",
-      "name_es": "Vestido Daz Tirantes Cuello",
-      "name_en": "Daz Tirantes Cuello Dress",
+      "name_es": "Vestido Midi Acampanado",
+      "name_en": "Flared Midi Dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22395,12 +22428,13 @@
       "supplier_id": "vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas-5",
       "fam": "vestido-tirantes-cuello",
       "cg": "t-vestido-daz-de-tirantes-con-cuello-redondo-y-sin-mangas",
+      "art_score": 5,
       "img": "assets/products/shop/b3f731df92df0665cdf7.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-para-mujer",
-      "name_es": "Vestido Daz Tirantes",
-      "name_en": "Daz Tirantes Dress",
+      "name_es": "Vestido midi estampado floral",
+      "name_en": "Floral print midi dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22413,12 +22447,13 @@
       "supplier_id": "vestido-daz-de-tirantes-para-mujer",
       "fam": "vestido-tirantes-mujer",
       "cg": "t-vestido-daz-de-tirantes-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/f71a28fe429959322f81.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-para-mujer-1",
-      "name_es": "Vestido Daz Tirantes",
-      "name_en": "Daz Tirantes Dress",
+      "name_es": "Vestido midi estampado floral",
+      "name_en": "Floral print midi dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22431,12 +22466,13 @@
       "supplier_id": "vestido-daz-de-tirantes-para-mujer-1",
       "fam": "vestido-tirantes-mujer",
       "cg": "t-vestido-daz-de-tirantes-para-mujer",
-      "img": "assets/products/shop/832e75b92e735efb598b.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/15a34f80e4e9865604ba.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-para-mujer-2",
-      "name_es": "Vestido Daz Tirantes",
-      "name_en": "Daz Tirantes Dress",
+      "name_es": "Vestido midi estampado floral",
+      "name_en": "Floral print midi dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22449,12 +22485,13 @@
       "supplier_id": "vestido-daz-de-tirantes-para-mujer-2",
       "fam": "vestido-tirantes-mujer",
       "cg": "t-vestido-daz-de-tirantes-para-mujer",
-      "img": "assets/products/shop/82f09edd15de37ff0cc2.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/7becb3a0bb1a1fec65b5.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-para-mujer-3",
-      "name_es": "Vestido Daz Tirantes",
-      "name_en": "Daz Tirantes Dress",
+      "name_es": "Vestido midi estampado floral",
+      "name_en": "Floral print midi dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22467,12 +22504,13 @@
       "supplier_id": "vestido-daz-de-tirantes-para-mujer-3",
       "fam": "vestido-tirantes-mujer",
       "cg": "t-vestido-daz-de-tirantes-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/58905594e5360079b436.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-tirantes-para-mujer-4",
-      "name_es": "Vestido Daz Tirantes",
-      "name_en": "Daz Tirantes Dress",
+      "name_es": "Vestido midi estampado floral",
+      "name_en": "Floral print midi dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22485,12 +22523,13 @@
       "supplier_id": "vestido-daz-de-tirantes-para-mujer-4",
       "fam": "vestido-tirantes-mujer",
       "cg": "t-vestido-daz-de-tirantes-para-mujer",
-      "img": "assets/products/shop/5097b6890ec024670422.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/6c859353b2202e49360e.jpg"
     },
     {
       "id": "shopify-vestidos-daz-para-mujer-ajustado-con-escote-y-realce-en-la-cadera",
-      "name_es": "Vestido Vestidos Daz Ajustado",
-      "name_en": "Vestidos Daz Ajustado Dress",
+      "name_es": "Minivestido Estampado Rosas Negras",
+      "name_en": "Black Rose Print Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22503,12 +22542,13 @@
       "supplier_id": "vestidos-daz-para-mujer-ajustado-con-escote-y-realce-en-la-cadera",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-daz-para-mujer-ajustado-con-escote-y-realce-en-la-cadera",
-      "img": "assets/products/shop/4f3a8801d0646605185a.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/92ceb0c4640f2eb01708.jpg"
     },
     {
       "id": "shopify-vestidos-daz-para-mujer-ajustados-con-escote-y-realce-en-la-cadera",
-      "name_es": "Vestido Vestidos Daz Ajustados",
-      "name_en": "Vestidos Daz Ajustados Dress",
+      "name_es": "Minivestido Estampado de Rosas",
+      "name_en": "Rose Print Mini Dress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22521,12 +22561,13 @@
       "supplier_id": "vestidos-daz-para-mujer-ajustados-con-escote-y-realce-en-la-cadera",
       "fam": "vestidos-mujer-ajustados",
       "cg": "t-vestidos-daz-para-mujer-ajustados-con-escote-y-realce-en-la-cadera",
-      "img": "assets/products/shop/402af2b2d6bb9970ef12.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/8caf0730b273c9ba0126.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22539,12 +22580,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
-      "img": "assets/products/shop/228f5d3a52466ead6c76.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/244e69c26ffb1395b219.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-1",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22557,12 +22599,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-1",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
-      "img": "assets/products/shop/ed81809eefae2255b2eb.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/e9b6e9d663b0c3905832.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-10",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22575,12 +22618,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-10",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
+      "art_score": 4,
       "img": "assets/products/shop/17bd979f19b3ae7ccaf2.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-12",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22593,12 +22637,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-12",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
+      "art_score": 4,
       "img": "assets/products/shop/4c7c352f2c934e124069.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-13",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22615,8 +22660,8 @@
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-2",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22629,12 +22674,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-2",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
-      "img": "assets/products/shop/1f7c969e596f7c758a21.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/393e33514f5da5caad79.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-3",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22647,12 +22693,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-3",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
+      "art_score": 4,
       "img": "assets/products/shop/aa63024e1aa23bc75d96.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-4",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22665,12 +22712,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-4",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
-      "img": "assets/products/shop/ef7d3e6c2360537ceeaa.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/df5976b6962f40ff0682.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-5",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22683,12 +22731,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-5",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
-      "img": "assets/products/shop/3e0862b4eba2bbe11a00.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/dd73d19a3503d0030c2f.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-6",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22705,8 +22754,8 @@
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-7",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22723,8 +22772,8 @@
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-8",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22737,12 +22786,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-8",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
-      "img": "assets/products/shop/44cb543d053737be440d.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/ba14d1eda2a672607020.jpg"
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-9",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22755,12 +22805,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-9",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
-      "img": "assets/products/shop/5c842b35efee7abe4d5e.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/9babc25b2467397322bd.jpg"
     },
     {
       "id": "interestprint-design-womens-square-neck-long-sleeve-bodysuit",
-      "name_es": "Body Body Never Define · Blanco",
-      "name_en": "Body Never Define Bodysuit · White",
+      "name_es": "Body Never Define Me",
+      "name_en": "Never Define Me Bodysuit",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22774,12 +22825,13 @@
       "fam": "body-never-define",
       "cg": "t-body-dazmond-never-define-me-de-manga-larga-suit",
       "color": "white",
-      "img": "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1.webp"
+      "art_score": 5,
+      "img": "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-4.webp"
     },
     {
       "id": "interestprint-design-womens-square-neck-long-sleeve-bodysuit-1",
-      "name_es": "Body Body Never Define · Blanco",
-      "name_en": "Body Never Define Bodysuit · White",
+      "name_es": "Body Never Define Me",
+      "name_en": "Never Define Me Bodysuit",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22793,12 +22845,13 @@
       "fam": "body-never-define",
       "cg": "t-body-dazmond-never-define-me-de-manga-larga-it",
       "color": "white",
-      "img": "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-1.webp"
+      "art_score": 5,
+      "img": "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-4.webp"
     },
     {
       "id": "interestprint-design-womens-square-neck-long-sleeve-bodysuit-2",
-      "name_es": "Body Body Never Define · Blanco",
-      "name_en": "Body Never Define Bodysuit · White",
+      "name_es": "Body Never Define Me",
+      "name_en": "Never Define Me Body",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -22812,12 +22865,13 @@
       "fam": "body-never-define",
       "cg": "t-body-dazmond-never-define-me-de-manga-larga",
       "color": "white",
-      "img": "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-1.webp"
+      "art_score": 5,
+      "img": "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-4.webp"
     },
     {
       "id": "shopify-design-cheerleading-uniform-lyq62",
-      "name_es": "Conjunto Crimson Thorns Cheer",
-      "name_en": "Crimson Thorns Cheer Set",
+      "name_es": "Conjunto Crimson Thorns",
+      "name_en": "Crimson Thorns Set",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -22831,12 +22885,13 @@
       "fam": "crimson-thorns-cheer",
       "cg": "t-dazmond-crimson-thorns-cheer-set",
       "color": "Púrpura",
+      "art_score": 4,
       "img": "assets/products/shopify-design-cheerleading-uniform-lyq62-1.webp"
     },
     {
       "id": "shopify-design-cheerleading-uniform-lyq62-1",
-      "name_es": "Conjunto Angel Demon Cheer",
-      "name_en": "Angel Demon Cheer Set",
+      "name_es": "Conjunto Angel & Demon Fucsia",
+      "name_en": "Angel & Demon Fuchsia Set",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -22850,12 +22905,13 @@
       "fam": "angel-demon-cheer",
       "cg": "t-dazmond-angel-demon-cheer-set",
       "color": "Rosa Fucsia",
+      "art_score": 4,
       "img": "assets/products/shopify-design-cheerleading-uniform-lyq62-1-1.webp"
     },
     {
       "id": "shopify-design-cheerleading-uniform-lyq62-2",
-      "name_es": "Conjunto Zen Lines Cheer",
-      "name_en": "Zen Lines Cheer Set",
+      "name_es": "Conjunto Zen Lines",
+      "name_en": "Zen Lines Set",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -22869,12 +22925,13 @@
       "fam": "zen-lines-cheer",
       "cg": "t-dazmond-zen-lines-cheer-set",
       "color": "Amarillo",
+      "art_score": 8,
       "img": "assets/products/shopify-design-cheerleading-uniform-lyq62-2-1.webp"
     },
     {
       "id": "shopify-design-cheerleading-uniform-lyq62-3",
-      "name_es": "Conjunto Rainbow Energy Cheer",
-      "name_en": "Rainbow Energy Cheer Set",
+      "name_es": "Conjunto Rainbow Energy",
+      "name_en": "Rainbow Energy Set",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -22888,6 +22945,7 @@
       "fam": "rainbow-energy-cheer",
       "cg": "t-dazmond-rainbow-energy-cheer-set",
       "color": "Azul",
+      "art_score": 8,
       "img": "assets/products/shopify-design-cheerleading-uniform-lyq62-3-1.webp"
     },
     {
@@ -22911,8 +22969,8 @@
     },
     {
       "id": "shopify-design-cheerleading-uniform-lyq62-5",
-      "name_es": "Conjunto Midnight Blossom Cheer",
-      "name_en": "Midnight Blossom Cheer Set",
+      "name_es": "Conjunto Midnight Blossom",
+      "name_en": "Midnight Blossom Set",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -22926,12 +22984,13 @@
       "fam": "midnight-blossom-cheer",
       "cg": "t-dazmond-midnight-blossom-cheer-set",
       "color": "Vainilla",
+      "art_score": 8,
       "img": "assets/products/shopify-design-cheerleading-uniform-lyq62-5-1.webp"
     },
     {
       "id": "shopify-design-cheerleading-uniform-lyq62-6",
-      "name_es": "Conjunto Championship Monogram Cheer",
-      "name_en": "Championship Monogram Cheer Set",
+      "name_es": "Conjunto Monogram Championship",
+      "name_en": "Championship Monogram Set",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -22945,6 +23004,7 @@
       "fam": "championship-monogram-cheer",
       "cg": "t-dazmond-championship-monogram-cheer-set",
       "color": "Dorado",
+      "art_score": 9,
       "img": "assets/products/shopify-design-cheerleading-uniform-lyq62-6-1.webp"
     },
     {
@@ -23149,8 +23209,8 @@
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23163,12 +23223,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 3,
       "img": "assets/products/shop/7ec4366b6f735ad2a265.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-1",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23181,12 +23242,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-1",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
-      "img": "assets/products/shop/ec3fd5364ff6326a8b14.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/a8d8dc3e61949067ed37.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-10",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23199,12 +23261,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-10",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 4,
       "img": "assets/products/shop/c3431d5d74b8bcdf163f.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-11",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23217,12 +23280,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-11",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 3,
       "img": "assets/products/shop/121c04e1cbbc755ab00d.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-12",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23235,12 +23299,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-12",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 3,
       "img": "assets/products/shop/fa9bb7efb83f53897db7.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-13",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23253,12 +23318,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-13",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 3,
       "img": "assets/products/shop/7be5138c0a4d89d7150c.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-14",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23271,12 +23337,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-14",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 2,
       "img": "assets/products/shop/9a9924874963ac607dce.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-15",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23289,12 +23356,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-15",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
-      "img": "assets/products/shop/4d95f8217cc5e10ab0fc.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/096579e87d291976dd24.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23307,12 +23375,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-16",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 3,
       "img": "assets/products/shop/97f1dd4c2ea3ee68645c.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-17",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23325,12 +23394,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-17",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 3,
       "img": "assets/products/shop/d97d9f5570b7614196aa.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-18",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23343,12 +23413,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-18",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
-      "img": "assets/products/shop/764375477a466b72ab4a.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/68a9dd76cef58d11388a.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-19",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23361,12 +23432,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-19",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
-      "img": "assets/products/shop/83d591391ed9809ff265.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/ae643ea114384ae55bcd.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-2",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23383,8 +23455,8 @@
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-20",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23397,12 +23469,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-20",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 4,
       "img": "assets/products/shop/b0362ba5c71538aa1175.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-21",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23415,12 +23488,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-21",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
-      "img": "assets/products/shop/aef189e1b8e8a5e0865f.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/ee5b5a04ef163705c0ed.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-3",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23433,12 +23507,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-3",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
-      "img": "assets/products/shop/6bc25a51902ca1ee6dfb.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/48a8fcfa16b81581b05a.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-4",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23451,12 +23526,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-4",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 3,
       "img": "assets/products/shop/9284133e35ff37e23f06.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-5",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23469,12 +23545,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-5",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
-      "img": "assets/products/shop/40aa450352c5109460f6.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/86cddec8b4037bbdf31f.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-6",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23487,12 +23564,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-6",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 3,
       "img": "assets/products/shop/a2146351d3c07f951a67.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-7",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23505,12 +23583,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-7",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
+      "art_score": 3,
       "img": "assets/products/shop/61d6d34b061a348336ee.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-8",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23523,12 +23602,13 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-8",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
-      "img": "assets/products/shop/d47dfe9b572430de512b.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/63eec6809799a8cf1975.jpg"
     },
     {
       "id": "shopify-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-9",
-      "name_es": "Blusa Blusa Gasa Daz",
-      "name_en": "Blusa Gasa Daz Blouse",
+      "name_es": "Blusa de gasa con nudo",
+      "name_en": "Chiffon tie-front blouse",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23541,7 +23621,8 @@
       "supplier_id": "blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v-para-mujer-9",
       "fam": "blusa-gasa-premium",
       "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
-      "img": "assets/products/shop/122791f0d3d1baa27f8c.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/6a8b0dc9442ee782dda8.jpg"
     },
     {
       "id": "shopify-bolso-daz-con-bandolera-black",
@@ -23621,8 +23702,8 @@
     },
     {
       "id": "shopify-design-womens-drop-shoulder-cardigan",
-      "name_es": "Suéter Cárdigan Daz Hombros",
-      "name_en": "Cárdigan Daz Hombros Sweater",
+      "name_es": "Cárdigan Morado Hombros Caídos",
+      "name_en": "Dropped Shoulder Purple Cardigan",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -23636,6 +23717,7 @@
       "fam": "cardigan-luxury-hombros",
       "cg": "t-cardigan-daz-luxury-de-hombros-caidos-para-mujer",
       "color": "Morado",
+      "art_score": 3,
       "img": "assets/products/shop/704290c9d9180c9c926f.jpg"
     },
     {
@@ -23659,8 +23741,8 @@
     },
     {
       "id": "shopify-juego-de-petaca-personalizada-de-7-oz-de-acero-inoxidable-negro-daz-luxury-con-caja-de-regalo",
-      "name_es": "Petaca Juego Petaca Personalizada",
-      "name_en": "Juego Petaca Personalizada Hip Flask",
+      "name_es": "Juego de Petaca de Lujo",
+      "name_en": "Luxury Stainless Steel Flask",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23673,6 +23755,7 @@
       "supplier_id": "juego-de-petaca-personalizada-de-7-oz-de-acero-inoxidable-negro-daz-luxury-con-caja-de-regalo",
       "fam": "juego-petaca-personalizada",
       "cg": "t-juego-de-petaca-personalizada-de-oz-de-acero-inoxidable-daz-luxury-con",
+      "art_score": 8,
       "img": "assets/products/shop/17a58bfebf8867a4bb0d.jpg"
     },
     {
@@ -23753,8 +23836,8 @@
     },
     {
       "id": "shopify-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-11",
-      "name_es": "Vestido Vestidos Ajustado Escote",
-      "name_en": "Vestidos Ajustado Escote Dress",
+      "name_es": "Minivestido Ajustado Minimalista",
+      "name_en": "Minimalist Fitted Minidress",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -23767,12 +23850,13 @@
       "supplier_id": "vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera-11",
       "fam": "vestidos-mujer-ajustado",
       "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
-      "img": "assets/products/shop/4e005aeb8eac7494593b.jpg"
+      "art_score": 3,
+      "img": "assets/products/shop/281fbb463117db2bbb17.jpg"
     },
     {
       "id": "interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow-cutout",
-      "name_es": "Vestido Colección Privada Largo · Blanco",
-      "name_en": "Colección Privada Largo Dress · White",
+      "name_es": "Vestido Largo Halter Nocturne",
+      "name_en": "Nocturne Halter Long Dress",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23786,12 +23870,13 @@
       "fam": "coleccion-privada-vestido",
       "cg": "t-coleccion-privada-vestido-largo-coleccion-privada-nocturne-halter-con-espalda-descubierta-y",
       "color": "white",
-      "img": "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--1.webp"
+      "art_score": 5,
+      "img": "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--4.webp"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23804,12 +23889,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 6,
       "img": "assets/products/shop/da4dda6c57f1c6f1e7b4.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-1",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23822,12 +23908,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-1",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/bb4cca2f5292b6c8ffca.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-10",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23840,12 +23927,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-10",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/395f59cdb52d459f24da.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-11",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23858,12 +23946,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-11",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/f523fe0c8eab80d5fbef.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-12",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23876,12 +23965,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-12",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 6,
       "img": "assets/products/shop/cb3b04ab447a31de7743.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-2",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23894,12 +23984,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-2",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/8469561785a0e033a805.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-3",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23912,12 +24003,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-3",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/4ee383bbe9da93fdbab9.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-4",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23930,12 +24022,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-4",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/8f0ca83fa2bd1a409f31.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-5",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23948,12 +24041,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-5",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/7c0a103544e7bafc077d.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-6",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23966,12 +24060,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-6",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 6,
       "img": "assets/products/shop/847bfdad7af9fbf215a7.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-7",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -23984,12 +24079,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-7",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/b8e76057f5010a0a3126.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-8",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -24002,12 +24098,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-8",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/112c990927a2056a3e83.jpg"
     },
     {
       "id": "shopify-mochila-daz-luxury-de-cuero-sintetico-para-mujer-9",
-      "name_es": "Bolso Mochila Daz Cuero",
-      "name_en": "Mochila Daz Cuero Bag",
+      "name_es": "Mochila Estampada de Cuero Sintético",
+      "name_en": "Synthetic Leather Printed Backpack",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -24020,12 +24117,13 @@
       "supplier_id": "mochila-daz-luxury-de-cuero-sintetico-para-mujer-9",
       "fam": "mochila-luxury-cuero",
       "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/3873d839248c2e6899ce.jpg"
     },
     {
       "id": "shopify-design-women-long-sleeve-blouse",
-      "name_es": "Blusa Golden Monogram Silk · Oro",
-      "name_en": "Golden Monogram Silk Blouse · Gold",
+      "name_es": "Blusa de Terciopelo Monograma Dorado",
+      "name_en": "Golden Monogram Silk Velvet Blouse",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -24039,12 +24137,13 @@
       "fam": "luxury-golden-monogram",
       "cg": "t-dazmond-luxury-golden-monogram-silk-velvet-blouse",
       "color": "Amarillo",
+      "art_score": 9,
       "img": "assets/products/shop/d30166882f297fc2943b.jpg"
     },
     {
       "id": "shopify-design-women-long-sleeve-blouse-1",
-      "name_es": "Blusa Golden Chains Silk · Oro",
-      "name_en": "Golden Chains Silk Blouse · Gold",
+      "name_es": "Blusa de Terciopelo de Seda",
+      "name_en": "Silk Velvet Blouse",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -24058,12 +24157,13 @@
       "fam": "luxury-golden-chains",
       "cg": "t-dazmond-luxury-golden-chains-silk-velvet-blouse",
       "color": "Blanco",
+      "art_score": 9,
       "img": "assets/products/shop/40f1adc7fed15ce60862.jpg"
     },
     {
       "id": "shopify-design-women-long-sleeve-blouse-2",
-      "name_es": "Blusa Golden Marble Silk · Oro",
-      "name_en": "Golden Marble Silk Blouse · Gold",
+      "name_es": "Blusa de Terciopelo de Seda",
+      "name_en": "Silk Velvet Blouse",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -24077,12 +24177,13 @@
       "fam": "luxury-golden-marble",
       "cg": "t-dazmond-luxury-golden-marble-silk-velvet-blouse",
       "color": "Blanco",
+      "art_score": 9,
       "img": "assets/products/shop/c5dc24d75116f6dc26f6.jpg"
     },
     {
       "id": "shopify-design-women-long-sleeve-blouse-3",
-      "name_es": "Blusa Crimson Cosmic Silk",
-      "name_en": "Crimson Cosmic Silk Blouse",
+      "name_es": "Blusa de Terciopelo de Seda",
+      "name_en": "Silk Velvet Blouse",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -24096,12 +24197,13 @@
       "fam": "luxury-crimson-cosmic",
       "cg": "t-dazmond-luxury-crimson-cosmic-silk-velvet-blouse",
       "color": "Blanco y Azul a rayas",
+      "art_score": 9,
       "img": "assets/products/shop/c239eee01fdadb7115b3.jpg"
     },
     {
       "id": "shopify-design-women-long-sleeve-blouse-4",
-      "name_es": "Blusa Golden Heraldry Silk · Oro",
-      "name_en": "Golden Heraldry Silk Blouse · Gold",
+      "name_es": "Blusa de Terciopelo de Seda Golden Heraldry",
+      "name_en": "Golden Heraldry Silk Velvet Blouse",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -24115,12 +24217,13 @@
       "fam": "luxury-golden-heraldry",
       "cg": "t-dazmond-luxury-golden-heraldry-silk-velvet-blouse",
       "color": "Blanco y Negro",
+      "art_score": 9,
       "img": "assets/products/shop/659bab110261b700671c.jpg"
     },
     {
       "id": "shopify-design-all-over-print-womens-shortall-1",
-      "name_es": "Mono Argyle Heritage Shortall · Rosa",
-      "name_en": "Argyle Heritage Shortall Jumpsuit · Pink",
+      "name_es": "Peto Corto Argyle Heritage",
+      "name_en": "Argyle Heritage Shortall",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -24134,12 +24237,13 @@
       "fam": "argyle-heritage-shortall",
       "cg": "t-dazmond-argyle-heritage-shortall",
       "color": "Morado",
+      "art_score": 9,
       "img": "assets/products/shopify-design-all-over-print-womens-shortall-1-1.webp"
     },
     {
       "id": "shopify-design-all-over-print-womens-shortall-2",
-      "name_es": "Mono Crimson Kiss Shortall",
-      "name_en": "Crimson Kiss Shortall Jumpsuit",
+      "name_es": "Peto Corto Crimson Kiss",
+      "name_en": "Crimson Kiss Shortall",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -24153,12 +24257,13 @@
       "fam": "crimson-kiss-shortall",
       "cg": "t-dazmond-crimson-kiss-shortall",
       "color": "Rojo",
+      "art_score": 9,
       "img": "assets/products/shopify-design-all-over-print-womens-shortall-2-1.webp"
     },
     {
       "id": "shopify-design-all-over-print-womens-shortall-3",
-      "name_es": "Mono Amethyst Dot Shortall",
-      "name_en": "Amethyst Dot Shortall Jumpsuit",
+      "name_es": "Peto Corto Amethyst Dot",
+      "name_en": "Amethyst Dot Shortall",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -24172,12 +24277,13 @@
       "fam": "amethyst-dot-shortall",
       "cg": "t-dazmond-amethyst-dot-shortall",
       "color": "Morado",
+      "art_score": 8,
       "img": "assets/products/shopify-design-all-over-print-womens-shortall-3-1.webp"
     },
     {
       "id": "shopify-design-all-over-print-womens-shortall-4",
-      "name_es": "Mono Aura Luxe Elixir",
-      "name_en": "Aura Luxe Elixir Jumpsuit",
+      "name_es": "Monos cortos Aura Luxe Elixir",
+      "name_en": "Aura Luxe Elixir Romper",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
@@ -24191,12 +24297,13 @@
       "fam": "aura-luxe-elixir",
       "cg": "t-dazmond-aura-luxe-elixir-dazmond",
       "color": "Amarillo",
+      "art_score": 8,
       "img": "assets/products/shopify-design-all-over-print-womens-shortall-4-1.webp"
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
-      "name_es": "Vestido Daz Lujo Largo",
-      "name_en": "Daz Lujo Largo Dress",
+      "name_es": "Vestido Largo Drapeado",
+      "name_en": "Draped Long Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24209,12 +24316,13 @@
       "supplier_id": "vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
       "fam": "vestido-lujo-largo",
       "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
+      "art_score": 3,
       "img": "assets/products/shop/01fe2fafcb2b4ef22ddc.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-1",
-      "name_es": "Vestido Daz Lujo Largo",
-      "name_en": "Daz Lujo Largo Dress",
+      "name_es": "Vestido Largo Drapeado",
+      "name_en": "Draped Long Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24227,12 +24335,13 @@
       "supplier_id": "vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-1",
       "fam": "vestido-lujo-largo",
       "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/9c92f41eb097a1429afd.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-2",
-      "name_es": "Vestido Daz Lujo Largo",
-      "name_en": "Daz Lujo Largo Dress",
+      "name_es": "Vestido Largo Drapeado",
+      "name_en": "Draped Long Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24245,12 +24354,13 @@
       "supplier_id": "vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-2",
       "fam": "vestido-lujo-largo",
       "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
+      "art_score": 4,
       "img": "assets/products/shop/bb728b9fe1e94a15c9de.jpg"
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-3",
-      "name_es": "Vestido Daz Lujo Largo",
-      "name_en": "Daz Lujo Largo Dress",
+      "name_es": "Vestido Largo Drapeado",
+      "name_en": "Draped Long Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24263,12 +24373,13 @@
       "supplier_id": "vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-3",
       "fam": "vestido-lujo-largo",
       "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
-      "img": "assets/products/shop/038378881bc7c9eeddca.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/22716ecd8e73c0cefd0f.jpg"
     },
     {
       "id": "shopify-vestido-daz-luxury-largo-drapeado-de-manga-corta-para-mujer",
-      "name_es": "Vestido Daz Largo Drapeado",
-      "name_en": "Daz Largo Drapeado Dress",
+      "name_es": "Vestido drapeado largo",
+      "name_en": "Draped long dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24281,12 +24392,13 @@
       "supplier_id": "vestido-daz-luxury-largo-drapeado-de-manga-corta-para-mujer",
       "fam": "vestido-luxury-largo",
       "cg": "t-vestido-daz-luxury-largo-drapeado-de-manga-corta-para-mujer",
-      "img": "assets/products/shop/030051e160afde735623.jpg"
+      "art_score": 3,
+      "img": "assets/products/shop/9457b1f3436ff4e570d5.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24299,12 +24411,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "art_score": 4,
       "img": "assets/products/shop/5c907adab6c792a8eaa5.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-1",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24317,12 +24430,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-1",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
-      "img": "assets/products/shop/59d927c05bcacc1fcd7b.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/ce0d1e49a9e544c700bd.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-10",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24335,12 +24449,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-10",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "art_score": 3,
       "img": "assets/products/shop/0fb83a47d101fa8be764.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-11",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24353,12 +24468,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-11",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "art_score": 4,
       "img": "assets/products/shop/14d4b066a6a476c1bb35.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-12",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24371,12 +24487,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-12",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "art_score": 4,
       "img": "assets/products/shop/3171137395709fcc7cc9.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-13",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24389,12 +24506,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-13",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "art_score": 4,
       "img": "assets/products/shop/f9e5f8f1aa85b53db6d3.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-14",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24407,12 +24525,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-14",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "art_score": 4,
       "img": "assets/products/shop/4375ef21da4a52c8194a.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-15",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24425,12 +24544,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-15",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
-      "img": "assets/products/shop/bb33fc42469a00cc826c.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/4222dedf20835c6f3b7b.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-16",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24443,12 +24563,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-16",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
-      "img": "assets/products/shop/e63d7aeaf1af70d5549d.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/525f0dc22f625bed4408.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-17",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24461,12 +24582,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-17",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "art_score": 4,
       "img": "assets/products/shop/42bd837709a5fb3a1dc9.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-2",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24479,12 +24601,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-2",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
-      "img": "assets/products/shop/50c370910b2672560656.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/d248a6d9b8d34f6fd486.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-3",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24497,12 +24620,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-3",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "art_score": 4,
       "img": "assets/products/shop/10c5920f3d512880b7a6.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-4",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24515,12 +24639,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-4",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "art_score": 3,
       "img": "assets/products/shop/44125a169bb19d092d01.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-5",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24533,12 +24658,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-5",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
+      "art_score": 4,
       "img": "assets/products/shop/0b3dd47e9eb030c90b9e.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-6",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24551,12 +24677,13 @@
       "supplier_id": "vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-6",
       "fam": "vestido-premium-verano",
       "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
-      "img": "assets/products/shop/3169e2214a691a588239.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/d3d309af43b81226efed.jpg"
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-7",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24573,8 +24700,8 @@
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-8",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -24591,8 +24718,8 @@
     },
     {
       "id": "shopify-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de-color-negro-para-mujer-9",
-      "name_es": "Vestido Daz Verano Volantes",
-      "name_en": "Daz Verano Volantes Dress",
+      "name_es": "Vestido Negro con Volantes DAZ",
+      "name_en": "DAZ Black Ruffled Dress",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -26127,8 +26254,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-4",
-      "name_es": "Vestido Daz Lujo Largo",
-      "name_en": "Daz Lujo Largo Dress",
+      "name_es": "Vestido Largo Drapeado",
+      "name_en": "Draped Long Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26145,8 +26272,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-5",
-      "name_es": "Vestido Daz Lujo Largo",
-      "name_en": "Daz Lujo Largo Dress",
+      "name_es": "Vestido Largo Drapeado",
+      "name_en": "Draped Long Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26163,8 +26290,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-6",
-      "name_es": "Vestido Daz Lujo Largo",
-      "name_en": "Daz Lujo Largo Dress",
+      "name_es": "Vestido Largo Drapeado",
+      "name_en": "Draped Long Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26181,8 +26308,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-7",
-      "name_es": "Vestido Daz Lujo Largo",
-      "name_en": "Daz Lujo Largo Dress",
+      "name_es": "Vestido Largo Drapeado",
+      "name_en": "Draped Long Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26199,8 +26326,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-8",
-      "name_es": "Vestido Daz Lujo Largo",
-      "name_en": "Daz Lujo Largo Dress",
+      "name_es": "Vestido Largo Drapeado",
+      "name_en": "Draped Long Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [
@@ -26217,8 +26344,8 @@
     },
     {
       "id": "shopify-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer-9",
-      "name_es": "Vestido Daz Lujo Largo",
-      "name_en": "Daz Lujo Largo Dress",
+      "name_es": "Vestido Largo Drapeado",
+      "name_en": "Draped Long Dress",
       "price_usd": 23.99,
       "badge": "new",
       "categories": [

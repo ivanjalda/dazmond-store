@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Silk Velvet",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "Exquisite editorial campaign photography with sophisticated lighting and high-end locations.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-golden-marble-silk-velvet-blouse",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order in silk, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en seda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefine the codes of contemporary elegance with a piece conceived for the woman who leads with magnetism. This long-sleeved silk velvet blouse reinterprets sophistication through a striking aesthetic proposal. Its design features an all-over print against a refined background that brings depth and movement. Crafted from a select high-end silk velvet blend, it offers an unparalleled sensory experience and a fluid drape. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Redefina los códigos de la elegancia contemporánea con una pieza concebida para la mujer que lidera con magnetismo. Esta blusa de manga larga en terciopelo de seda reinterpreta la sofisticación a través de una propuesta estética imponente. Su diseño presenta un estampado integral sobre un fondo refinado que aporta profundidad y movimiento. Confeccionada con una selecta mezcla de terciopelo de seda de alta gama, ofrece una experiencia sensorial inigualable y una caída fluida. Cada pieza es elaborada bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order.\n· Worldwide shipping.\n· Composition: High-end silk velvet.",
+ "details_es": "· Confección bajo pedido.\n· Envío a todo el mundo.\n· Composición: Terciopelo de seda de alta gama.",
  "display_images": [
   "assets/products/shop/c5dc24d75116f6dc26f6.jpg",
   "assets/products/shop/49d7e2b907420bff3e3a.jpg",
@@ -31,9 +45,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Golden Marble Silk Blouse · Gold",
- "name_es": "Blusa Golden Marble Silk · Oro",
+ "name_en": "Silk Velvet Blouse",
+ "name_es": "Blusa de Terciopelo de Seda",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 23.99,
  "rank": 1207,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/bodies"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "86% poliéster y 14% spandex",
+ "ai_type": "Jumpsuits & Rompers",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but lifestyle images appear composited and reduce brand prestige.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,12 +19,11 @@
  "cg": "t-body-dazmond-never-define-me-de-manga-larga",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A silhouette that defines your presence with absolute confidence. Wrap yourself in a garment that speaks of attitude before uttering a single word. Featuring a clean square neckline and long sleeves, this fitted body aligns flawlessly with the skin. It is the essential piece to transition with poise from daytime hours to evening encounters.",
+ "desc_es": "Una silueta que define tu presencia con absoluta seguridad. Envuélvete en una prenda que habla de actitud antes de pronunciar una sola palabra. Con un limpio cuello cuadrado y mangas largas, este body de corte entallado se alinea con la piel de forma impecable. Es la pieza esencial para transitar con aplomo desde las horas diurnas hasta los encuentros nocturnos.",
+ "details_en": "· 86% polyester and 14% spandex (180gsm)\n· Fitted cut\n· Square neckline and long sleeves\n· Three snap buttons at the crotch\n· Made-to-order\n· Worldwide shipping",
+ "details_es": "· 86% poliéster y 14% spandex (180gsm)\n· Corte entallado\n· Cuello cuadrado y manga larga\n· Tres botones a presión en la entrepierna\n· Hecho a medida\n· Envío a todo el mundo",
  "display_images": [
-  "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-1.webp",
-  "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-2.webp",
-  "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-3.webp",
   "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-4.webp",
   "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-5.webp",
   "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-2-6.webp"
@@ -28,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Body Never Define Bodysuit · White",
- "name_es": "Body Body Never Define · Blanco",
+ "name_en": "Never Define Me Body",
+ "name_es": "Body Never Define Me",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1139,
@@ -38,7 +50,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Chest",
+   "Length",
+   "Sleeve",
+   "Waist"
+  ],
+  "headers_es": [
+   "Talla",
+   "Pecho",
+   "Largo",
+   "Manga",
+   "Cintura"
+  ],
+  "notes_en": "Made-to-order pieces. Worldwide shipping available.",
+  "notes_es": "Piezas bajo pedido. Envío a todo el mundo disponible.",
+  "rows": [
+   [
+    "XS",
+    "80cm / 31.5in",
+    "68.5cm / 26.97in",
+    "57cm / 22.44in",
+    "60.5cm / 23.82in"
+   ],
+   [
+    "S",
+    "85cm / 33.46in",
+    "70cm / 27.56in",
+    "58cm / 22.83in",
+    "65.5cm / 25.79in"
+   ],
+   [
+    "M",
+    "90cm / 35.43in",
+    "71.5cm / 28.15in",
+    "59cm / 23.23in",
+    "70.5cm / 27.76in"
+   ],
+   [
+    "L",
+    "95cm / 37.4in",
+    "73cm / 28.74in",
+    "60cm / 23.62in",
+    "75.5cm / 29.72in"
+   ],
+   [
+    "XL",
+    "101cm / 39.76in",
+    "74.5cm / 29.33in",
+    "61cm / 24.02in",
+    "81.5cm / 32.09in"
+   ],
+   [
+    "2XL",
+    "107cm / 42.13in",
+    "76cm / 29.92in",
+    "62cm / 24.41in",
+    "87.5cm / 34.45in"
+   ],
+   [
+    "3XL",
+    "113cm / 44.49in",
+    "77.5cm / 30.51in",
+    "63cm / 24.8in",
+    "?"
+   ]
+  ],
+  "unit": "cm / in"
+ },
  "size_guide": [],
  "sizes": [
   "XS",

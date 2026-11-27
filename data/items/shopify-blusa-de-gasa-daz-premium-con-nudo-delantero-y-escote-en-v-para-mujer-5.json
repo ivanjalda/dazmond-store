@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Chiffon",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "The composited model imagery significantly detracts from the luxury positioning, featuring flat print overlays and unnatural placement.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,13 @@
  "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This blouse redefines relaxed sophistication with its fluid chiffon drape. It features a pronounced V-neckline and an adjustable front knot that adds movement to the silhouette. Voluminous sleeves complete a design tailored for effortless daily elegance. Each piece is made to order in our ateliers. Worldwide shipping is available.",
+ "desc_es": "Esta blusa redefine la sofisticación relajada con su fluida caída de gasa. Presenta un pronunciado escote en V y un nudo delantero ajustable que aporta dinamismo a la silueta. Las mangas amplias completan un diseño pensado para la versatilidad diaria y la elegancia sin esfuerzo. Cada pieza se confecciona bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo.",
+ "details_en": "· Chiffon\n· V-neck\n· Front knot\n· 3/4 sleeve\n· Machine wash with neutral detergent in cold water\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Gasa\n· Escote en V\n· Nudo delantero\n· Manga 3/4\n· Lavado a máquina con detergente neutro en agua fría\n· Confección bajo pedido\n· Envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/40aa450352c5109460f6.jpg",
-  "assets/products/shop/b7429d22926aa53a696d.jpg",
-  "assets/products/shop/a4eff1d28fa38ec58fd1.jpg",
-  "assets/products/shop/7005a5c8db4e43223878.jpg",
-  "assets/products/shop/9caa0ddecdf178c25375.jpg",
   "assets/products/shop/86cddec8b4037bbdf31f.jpg",
-  "assets/products/shop/b3ada9840e95e0454c3c.jpg",
-  "assets/products/shop/58e02e14710c9a53ea96.jpg"
+  "assets/products/shop/b3ada9840e95e0454c3c.jpg"
  ],
  "draft": false,
  "fam": "blusa-gasa-premium",
@@ -31,9 +39,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Blusa Gasa Daz Blouse",
- "name_es": "Blusa Blusa Gasa Daz",
+ "name_en": "Chiffon tie-front blouse",
+ "name_es": "Blusa de gasa con nudo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1174,
@@ -41,8 +50,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Manga"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "62cm(24.3\")",
+    "97m(38.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "M",
+    "63cm(24.8\")",
+    "102cm(40.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "L",
+    "64cm(25.2\")",
+    "107cm(42.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "XL",
+    "65cm(25.5\")",
+    "114cm(44.8\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "2XL",
+    "66cm(25.9\")",
+    "122cm(48.0\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "3XL",
+    "67cm(26.3\")",
+    "129cm(50.9\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "4XL",
+    "68cm(26.7\")",
+    "137cm(53.9\")",
+    "30cm(14.9\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/58e02e14710c9a53ea96.jpg"
+ ],
  "sizes": [
   "S",
   "M",

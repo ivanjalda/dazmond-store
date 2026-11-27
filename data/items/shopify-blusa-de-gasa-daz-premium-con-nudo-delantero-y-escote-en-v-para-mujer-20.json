@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Gasa",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "The product imagery relies on digital compositing and flat mockups, detracting from the luxury aesthetic.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your wardrobe with this refined chiffon blouse. Designed with an elegant V-neckline and a sophisticated front knot detail that brings movement to the silhouette. The fluid fabric offers an immaculate drape, ideal for transitioning effortlessly between casual and formal commitments. Each piece is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Eleve su guardarropa con esta refinada blusa de gasa. Diseñada con un elegante escote en V y un sofisticado detalle de nudo en la parte delantera que aporta dinamismo a la silueta. La fluidez del tejido ofrece una caída impecable, ideal para transitar sin esfuerzo entre compromisos informales y formales. Cada pieza se confecciona bajo pedido para garantizar una exclusividad absoluta. Disponible con envío mundial.",
+ "details_en": "· Chiffon\n· V-neck\n· 3/4 batwing sleeves\n· Front knot\n· Machine wash with neutral detergent in cold water\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Gasa\n· Escote en V\n· Manga 3/4 y murciélago\n· Nudo delantero\n· Lavado a máquina con detergente neutro en agua fría\n· Confeccionado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/b0362ba5c71538aa1175.jpg",
   "assets/products/shop/620cfcff8bf19898acca.jpg",
@@ -16,8 +30,7 @@
   "assets/products/shop/9c7f1aa9c71094a9bc2e.jpg",
   "assets/products/shop/1da057000a5a13292a56.jpg",
   "assets/products/shop/971e37937edbe148869a.jpg",
-  "assets/products/shop/ed48f5e63a22b0b6100a.jpg",
-  "assets/products/shop/ee7b31d770758f3af47c.jpg"
+  "assets/products/shop/ed48f5e63a22b0b6100a.jpg"
  ],
  "draft": false,
  "fam": "blusa-gasa-premium",
@@ -31,9 +44,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Blusa Gasa Daz Blouse",
- "name_es": "Blusa Blusa Gasa Daz",
+ "name_en": "Chiffon tie-front blouse",
+ "name_es": "Blusa de gasa con nudo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1170,
@@ -41,8 +55,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Manga"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "62cm(24.3\")",
+    "97m(38.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "M",
+    "63cm(24.8\")",
+    "102cm(40.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "L",
+    "64cm(25.2\")",
+    "107cm(42.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "XL",
+    "65cm(25.5\")",
+    "114cm(44.8\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "2XL",
+    "66cm(25.9\")",
+    "122cm(48.0\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "3XL",
+    "67cm(26.3\")",
+    "129cm(50.9\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "4XL",
+    "68cm(26.7\")",
+    "137cm(53.9\")",
+    "30cm(14.9\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/ee7b31d770758f3af47c.jpg"
+ ],
  "sizes": [
   "S",
   "M",

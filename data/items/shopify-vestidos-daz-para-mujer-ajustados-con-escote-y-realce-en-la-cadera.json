@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Dress",
+ "ai_ver": 2,
+ "art_note": "Mockups and template photography lower the luxury perception.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +18,13 @@
  "cg": "t-vestidos-daz-para-mujer-ajustados-con-escote-y-realce-en-la-cadera",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This mini dress features a form-fitting silhouette that defines the figure with elegance. The sleeveless design enhances natural lines with confidence and refinement. Each piece is made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Este minivestido presenta una silueta ajustada que define la figura con elegancia. El diseño sin mangas realza las líneas naturales con confianza y refinamiento. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/402af2b2d6bb9970ef12.jpg",
-  "assets/products/shop/5463026abf1940975ed4.jpg",
   "assets/products/shop/8caf0730b273c9ba0126.jpg",
-  "assets/products/shop/9eb64bc7854db7e1f3fe.jpg",
-  "assets/products/shop/06f2910f94e474a916e2.jpg",
-  "assets/products/shop/0aa4136ed29f15f10adf.jpg",
-  "assets/products/shop/59c2c27b3b0cb116e4dc.jpg"
+  "assets/products/shop/9eb64bc7854db7e1f3fe.jpg"
  ],
  "draft": false,
  "fam": "vestidos-mujer-ajustados",
@@ -30,9 +38,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Vestidos Daz Ajustados Dress",
- "name_es": "Vestido Vestidos Daz Ajustados",
+ "name_en": "Rose Print Mini Dress",
+ "name_es": "Minivestido Estampado de Rosas",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1123,
@@ -40,8 +49,86 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Waist",
+   "Hip"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Cintura",
+   "Cadera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "74 (29.1\")",
+    "70 (27.6\")",
+    "58 (22.8\")",
+    "76 (29.9\")"
+   ],
+   [
+    "M",
+    "76 (29.9\")",
+    "77 (30.3\")",
+    "65 (25.6\")",
+    "83 (32.7\")"
+   ],
+   [
+    "L",
+    "78 (30.7\")",
+    "84 (33.1\")",
+    "72 (28.3\")",
+    "90 (35.4\")"
+   ],
+   [
+    "XL",
+    "80 (31.5\")",
+    "91 (35.8\")",
+    "79 (31.1\")",
+    "97 (38.2\")"
+   ],
+   [
+    "2XL",
+    "82 (32.3\")",
+    "98 (38.6\")",
+    "86 (33.9\")",
+    "104 (40.9\")"
+   ],
+   [
+    "3XL",
+    "84 (33.1\")",
+    "105 (41.3\")",
+    "93 (36.6\")",
+    "111 (43.7\")"
+   ],
+   [
+    "4XL",
+    "86 (33.9\")",
+    "112 (44.1\")",
+    "100 (39.4\")",
+    "118 (46.5\")"
+   ],
+   [
+    "5XL",
+    "88 (34.6\")",
+    "119 (46.9\")",
+    "107 (42.1\")",
+    "125 (49.2\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/0aa4136ed29f15f10adf.jpg"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/conjuntos"
+ ],
+ "ai_color": "Vanilla",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "Sportwear Set",
+ "ai_ver": 2,
+ "art_note": "High-end lifestyle photography with sophisticated lighting and luxury aesthetic, contrasting with standard flat product shots.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,16 @@
  "cg": "t-dazmond-midnight-blossom-cheer-set",
  "color": "Vainilla",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A composition fusing urban style with organic delicacy upon a vanilla canvas. The design features a short-sleeve top with structured lapels, a low neckline, and adjustable front laces. It is completed by a mid-rise pleated minifigure skirt. Crafted to offer a body-hugging fit with breathable properties.",
+ "desc_es": "Una composicion que fusiona el estilo urbano con la delicadeza organica sobre un lienzo vainilla. El diseño presenta un top de manga corta con solapas estructuradas, escote bajo y cordones frontales ajustables. Se completa con una minifalda plisada de talle medio. Confeccionado para ofrecer un ajuste ceñido al cuerpo con propiedades transpirables.",
+ "details_en": "· 95% polyester and 5% elastane\n· 15.10 oz. weight\n· Tight shaping fit\n· Active sweat-absorbing properties\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 95% poliéster y 5% elastano\n· Gramaje de 15.10 oz.\n· Ajuste ceñido de efecto moldeador\n· Propiedades activas de absorción de sudor\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shopify-design-cheerleading-uniform-lyq62-5-1.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-5-2.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-5-3.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-5-4.webp",
-  "assets/products/shopify-design-cheerleading-uniform-lyq62-5-5.webp",
-  "assets/products/shopify-design-cheerleading-uniform-lyq62-5-6.webp",
-  "assets/products/shopify-design-cheerleading-uniform-lyq62-5-7.webp"
+  "assets/products/shopify-design-cheerleading-uniform-lyq62-5-5.webp"
  ],
  "draft": false,
  "fam": "midnight-blossom-cheer",
@@ -29,9 +41,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Midnight Blossom Cheer Set",
- "name_es": "Conjunto Midnight Blossom Cheer",
+ "name_en": "Midnight Blossom Set",
+ "name_es": "Conjunto Midnight Blossom",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1145,

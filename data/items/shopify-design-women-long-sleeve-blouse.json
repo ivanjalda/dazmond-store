@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "cream and gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "silk velvet",
+ "ai_type": "blouse",
+ "ai_ver": 2,
+ "art_note": "Exceptional luxury campaign visuals with refined lighting and architectural framing.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-golden-monogram-silk-velvet-blouse",
  "color": "Amarillo",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order in silk, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co. en seda, diseñada para acompañarte del día a la noche.",
+ "desc_en": "An author piece conceived for the woman who leads with distinction. This long-sleeved silk velvet blouse redefines opulent minimalism through a refined aesthetic proposal. An all-over geometric print featuring links and monograms in old gold projects over a cream and ivory canvas. A second handwritten monogram subtly decorates the chest, bringing a timeless air.",
+ "desc_es": "Una pieza de autor concebida para la mujer que lidera con distinción. Esta blusa de manga larga en terciopelo de seda redefine el minimalismo opulento mediante una cuidada propuesta estética. Un estampado integral geométrico con eslabones y monogramas en tono oro viejo se proyecta sobre un lienzo color crema y marfil. Un segundo monograma manuscrito decora sutilmente el pecho, aportando un aire atemporal.",
+ "details_en": "· High-end silk velvet blend\n· 8.92 oz weight\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Terciopelo de seda de alta gama\n· Peso de 8.92 oz\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/d30166882f297fc2943b.jpg",
   "assets/products/shop/8a580aaf21b4e7870dd3.jpg",
@@ -31,9 +45,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Golden Monogram Silk Blouse · Gold",
- "name_es": "Blusa Golden Monogram Silk · Oro",
+ "name_en": "Golden Monogram Silk Velvet Blouse",
+ "name_es": "Blusa de Terciopelo Monograma Dorado",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 23.99,
  "rank": 1205,

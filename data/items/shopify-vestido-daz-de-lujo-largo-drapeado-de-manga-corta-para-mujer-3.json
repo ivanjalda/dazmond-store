@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on composited lifestyle shots and flat product renders that lack high-end studio lighting and natural textures.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,13 @@
  "cg": "t-vestido-daz-de-lujo-largo-drapeado-de-manga-corta-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elongated silhouette with fluid drape. This design features a sharp V-neckline and short sleeves. Draped details shape the structure effortlessly. Tailored for formal occasions and evening gatherings. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Silueta alargada con caída ligera. Este diseño presenta un profundo escote en V y mangas cortas. Los detalles drapeados definen la estructura con fluidez. Confeccionado para ocasiones formales y veladas nocturnas. Cada pieza se elabora bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Composition: High-quality polyester fabric (180 g/m²)\n· V-neckline and draped design\n· Machine washable in cold water, gentle cycle, and mild detergent\n· Made-to-order piece\n· Available with worldwide shipping",
+ "details_es": "· Composición: Tejido de poliéster de alta calidad (180 g/m²)\n· Escote en V y diseño drapeado\n· Lavable a máquina con agua fría, ciclo suave y detergente suave\n· Producto confeccionado bajo pedido\n· Disponible con envío mundial",
  "display_images": [
-  "assets/products/shop/038378881bc7c9eeddca.jpg",
-  "assets/products/shop/4c1ffd0543f1fe482795.jpg",
-  "assets/products/shop/204c78a8aceb5763261d.jpg",
-  "assets/products/shop/a3ec89f447534e468b17.jpg",
-  "assets/products/shop/50bdc3c58269f5bafe2e.jpg",
   "assets/products/shop/22716ecd8e73c0cefd0f.jpg",
-  "assets/products/shop/7f39f15b5a1a2a990012.jpg",
-  "assets/products/shop/7f0ef69ba4dc9c35cf9b.jpg"
+  "assets/products/shop/7f39f15b5a1a2a990012.jpg"
  ],
  "draft": false,
  "fam": "vestido-lujo-largo",
@@ -31,9 +39,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Lujo Largo Dress",
- "name_es": "Vestido Daz Lujo Largo",
+ "name_en": "Draped Long Dress",
+ "name_es": "Vestido Largo Drapeado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1217,
@@ -41,8 +50,121 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "1/2CHEST",
+   "LENGTH",
+   "SLEEVE LENGTH",
+   "1/2CUFF"
+  ],
+  "headers_es": [
+   "TALLA",
+   "1/2 PECHO",
+   "LONGITUD",
+   "LONGITUD DE MANGA",
+   "1/2 PUÑO"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "2XS",
+    "41.5cm(16.3\")",
+    "134cm(52.8\")",
+    "21.5cm(8.5\")",
+    "14.5cm(5.7\")"
+   ],
+   [
+    "XS",
+    "44cm(17.3\")",
+    "135cm(53.1\")",
+    "22.5cm(8.9\")",
+    "15.2cm(6\")"
+   ],
+   [
+    "S",
+    "46.5cm(18.3\")",
+    "136cm(53.5\")",
+    "23.5cm(9.3\")",
+    "15.9cm(6.3\")"
+   ],
+   [
+    "M",
+    "49cm(19.3\")",
+    "137cm(54\")",
+    "24.5cm(9.6\")",
+    "16.6cm(6.5\")"
+   ],
+   [
+    "L",
+    "51.5cm(20.3\")",
+    "138cm(54.3\")",
+    "25.5cm(10\")",
+    "17.3cm(6.8\")"
+   ],
+   [
+    "XL",
+    "54cm(21.3\")",
+    "139cm(54.7\")",
+    "26.5cm(10.4\")",
+    "18cm(7.1\")"
+   ],
+   [
+    "2XL",
+    "56.5cm(22.2\")",
+    "140cm(55.1\")",
+    "27.5cm(10.8\")",
+    "18.7cm(7.4\")"
+   ],
+   [
+    "3XL",
+    "59cm(23.2\")",
+    "141cm(55.5\")",
+    "28.5cm(11.2\")",
+    "19.4cm(7.6\")"
+   ],
+   [
+    "4XL",
+    "61.5cm(24.2\")",
+    "142cm(56\")",
+    "29.5cm(11.6\")",
+    "20.1cm(7.9\")"
+   ],
+   [
+    "5XL",
+    "64cm(25.2\")",
+    "143cm(56.3\")",
+    "30.5cm(12\")",
+    "20.8cm(8.2\")"
+   ],
+   [
+    "6XL",
+    "66.5cm(26.2\")",
+    "144cm(56.7\")",
+    "31.5cm(12.4\")",
+    "21.5cm(8.5\")"
+   ],
+   [
+    "7XL",
+    "69cm(27.2\")",
+    "145cm(57.1\")",
+    "32.5cm(12.8\")",
+    "22.2cm(8.7\")"
+   ],
+   [
+    "8XL",
+    "71.5cm(28.1\")",
+    "146cm(57.5\")",
+    "33.5cm(13.2\")",
+    "22.9cm(9\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/7f0ef69ba4dc9c35cf9b.jpg"
+ ],
  "sizes": [
   "2XS",
   "XS",

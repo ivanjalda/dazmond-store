@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Stainless Steel",
+ "ai_sizes": "7 oz",
+ "ai_type": "Flask Set",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and sophisticated framing elevate the product aesthetic.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +20,14 @@
  "cg": "t-juego-de-petaca-personalizada-de-oz-de-acero-inoxidable-daz-luxury-con",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This contemporary stainless steel flask combines sophisticated design with discreet functionality. Its black brushed finish delivers an elegant presence, designed to accompany exclusive moments anywhere. The set includes a precision funnel and two matching cups, presented in a meticulously crafted gift box. An essential piece of refined design, made to order with worldwide shipping.",
+ "desc_es": "Esta petaca contemporánea de acero inoxidable combina diseño sofisticado y funcionalidad discreta. Su acabado cepillado en negro ofrece una presencia elegante, diseñada para acompañar momentos exclusivos en cualquier lugar. El conjunto incluye un embudo de precisión y dos vasos complementarios, presentados en una caja de regalo rigurosamente acabada. Una pieza esencial de diseño refinado, fabricada bajo pedido con envíos a todo el mundo.",
+ "details_en": "· High-quality stainless steel with black brushed finish\n· 7-ounce capacity\n· Includes flask, funnel, and two cups\n· Gift box presentation\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Acero inoxidable de alta calidad con acabado cepillado en negro\n· Capacidad de 7 onzas\n· Incluye petaca, embudo y dos vasos\n· Presentación en caja de regalo\n· Fabricado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/17a58bfebf8867a4bb0d.jpg",
   "assets/products/shop/002b9b8e6db55a4207bc.jpg",
-  "assets/products/shop/dbf64049daf80e364795.jpg",
-  "assets/products/shop/486c05d39baa8cff424e.jpg",
-  "assets/products/shop/9315420259a7783f3d9c.jpg"
+  "assets/products/shop/486c05d39baa8cff424e.jpg"
  ],
  "draft": false,
  "fam": "juego-petaca-personalizada",
@@ -25,9 +38,10 @@
   "printify-6b08d1dfedc552ae3508a8e1"
  ],
  "material": "",
- "name_en": "Juego Petaca Personalizada Hip Flask",
- "name_es": "Petaca Juego Petaca Personalizada",
+ "name_en": "Luxury Stainless Steel Flask",
+ "name_es": "Juego de Petaca de Lujo",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 22.99,
  "rank": 1185,
@@ -37,7 +51,9 @@
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
- "sizes": [],
+ "sizes": [
+  "7 oz"
+ ],
  "source_title": "Juego de petaca personalizada de 7 oz de acero inoxidable negro DAZ Luxury con caja de regalo",
  "stripe_payment_link": "https://buy.stripe.com/8x2aEY3QUbGQ62q8qy1gO2Z",
  "supplier": "Shopify",

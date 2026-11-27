@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation with accurate color representation, lacking dynamic editorial lifestyle context.",
+ "art_score": 6,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-6b08d1f7c87e8df47b0948ca",
  "color": "Black",
  "created": "2026-11-27",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Defined by a refined silhouette and commanding presence, this piece embodies the house's modern elegance. Tailored with precision on demand to ensure absolute exclusivity with every delivery. The subtle contrast of the emblem introduces a distinctive character without excess. An essential garment that transcends temporary trends, designed for the contemporary wardrobe that values discretion and silent luxury. Available exclusively through our global shipping network.",
+ "desc_es": "Definida por una silueta depurada y una presencia imponente, esta pieza encarna la elegancia moderna de la casa. Confeccionada con precisión bajo demanda para garantizar una exclusividad absoluta en cada entrega. El contraste sutil del emblema aporta un carácter distintivo sin estridencias. Una prenda esencial que trasciende las tendencias temporales, diseñada para el guardarropa contemporáneo que valora la discreción y el lujo silencioso. Disponible exclusivamente a través de nuestra red de envíos globales.",
+ "details_en": "· Made to order exclusively",
+ "details_es": "· Hecho a pedido exclusivamente",
  "display_images": [
   "https://images-api.printify.com/mockup/6b08d1f7c87e8df47b0948ca/18102/102044/signature-logo-jersey-tee.jpg?camera_label=front-2",
   "https://images-api.printify.com/mockup/6b08d1f7c87e8df47b0948ca/18102/102045/signature-logo-jersey-tee.jpg?camera_label=back-2",
@@ -33,9 +48,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Signature Logo Tee · Black",
- "name_es": "Camiseta Signature Logo · Negro",
+ "name_en": "Signature Logo Black Tee",
+ "name_es": "Camiseta Signature Logo Negra",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 21,

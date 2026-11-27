@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "black and green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "Digital compositing and flat lighting detract from the luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-daz-premium-de-verano-con-volantes-en-la-parte-superior-de",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This piece embodies modern sophistication through a structured silhouette and bold contrast. The solid black upper bodice features a deep V-neckline and short sleeves that precisely frame the silhouette. The lower section unfolds with fluid movement and a detailed print. Crafted on demand to ensure exclusivity. Available for worldwide shipping.",
+ "desc_es": "Esta pieza encarna la sofisticacion moderna mediante una silueta estructurada y un contraste audaz. El cuerpo superior en tono negro presenta un escote en V profundo y mangas cortas que enmarcan la figura con precision. La parte inferior se despliega con movimiento fluido y un estampado detallado. Confeccionado bajo demanda para garantizar exclusividad. Disponible para envio mundial.",
+ "details_en": "· Crafted from high quality polyester fabric\n· V-neckline\n· Short sleeves\n· Knee-length\n· Machine washable with cold water, gentle cycle and mild detergent\n· Made specially for you on demand",
+ "details_es": "· Confeccionado con tejido de poliéster de alta calidad\n· Escote en V\n· Mangas cortas\n· Largo hasta las rodillas\n· Lavable a máquina con agua fría, ciclo suave y detergente suave\n· Hecho especialmente para usted bajo demanda",
  "display_images": [
   "assets/products/shop/4375ef21da4a52c8194a.jpg",
   "assets/products/shop/c3c0d25fe4a86067f772.jpg",
@@ -16,8 +30,7 @@
   "assets/products/shop/4abfdc25d68bb7d72b60.jpg",
   "assets/products/shop/f3ac817702671b3ee2ba.jpg",
   "assets/products/shop/35609fcc20dc60fb8939.jpg",
-  "assets/products/shop/84ad0bbc27aee11c69c8.jpg",
-  "assets/products/shop/369ec0f072011970e70d.jpg"
+  "assets/products/shop/84ad0bbc27aee11c69c8.jpg"
  ],
  "draft": false,
  "fam": "vestido-premium-verano",
@@ -31,9 +44,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Verano Volantes Dress",
- "name_es": "Vestido Daz Verano Volantes",
+ "name_en": "DAZ Black Ruffled Dress",
+ "name_es": "Vestido Negro con Volantes DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1225,
@@ -41,8 +55,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "BUST",
+   "WAIST",
+   "LENGTH"
+  ],
+  "headers_es": [
+   "TALLA",
+   "PECHO",
+   "CINTURA",
+   "LARGO"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "82cm(32\")",
+    "68cm(26.8\")",
+    "94cm(37\")"
+   ],
+   [
+    "M",
+    "88cm(34.5\")",
+    "74cm(29.2\")",
+    "96cm(37.8\")"
+   ],
+   [
+    "L",
+    "94cm(37\")",
+    "81cm(31.8\")",
+    "98cm(38.5\")"
+   ],
+   [
+    "XL",
+    "100cm(39.5\")",
+    "87cm(34.2\")",
+    "100cm(39.2\")"
+   ],
+   [
+    "2XL",
+    "106cm(42\")",
+    "93cm(36.8\")",
+    "101cm(39.8\")"
+   ],
+   [
+    "3XL",
+    "114cm(44.5\")",
+    "100cm(39.2\")",
+    "102cm(40.2\")"
+   ],
+   [
+    "4XL",
+    "120cm(47\")",
+    "106cm(41.8\")",
+    "106cm(41.8\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/369ec0f072011970e70d.jpg"
+ ],
  "sizes": [
   "S",
   "M",

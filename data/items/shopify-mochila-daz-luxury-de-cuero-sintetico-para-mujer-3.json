@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Synthetic leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Backpack",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce flat lay and digital render composite style lacking high-end campaign atmosphere.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +20,16 @@
  "cg": "t-mochila-daz-luxury-de-cuero-sintetico-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Discover functional elegance with our exclusive convertible designer backpack. Crafted from high-grade synthetic leather with a waterproof finish, this piece unites sophisticated aesthetics with exceptional everyday versatility. Its secure zippered main compartment and organized pockets offer ample storage for your daily essentials. Complete with adjustable shoulder straps and a fixed top handle, it is the definitive accessory for the modern woman.",
+ "desc_es": "Descubre la elegancia funcional con nuestra mochila convertibles de diseño exclusivo. Confeccionada en cuero sintético de alta calidad con un acabado impermeable, esta pieza combina una estética sofisticada con una versatilidad excepcional para el día a día. Su compartimento principal con cremallera y los bolsillos organizadores ofrecen un espacio seguro para tus esenciales. Equipada con correas ajustables y un asa superior fija, es el accesorio definitivo para la mujer moderna.",
+ "details_en": "· Waterproof synthetic leather exterior with scratch-resistant polyester lining\n· Smooth top zipper closure\n· Main compartment and front zippered pocket\n· Fixed top handle and adjustable shoulder straps\n· Dimensions: 31 x 12 x 31 cm",
+ "details_es": "· Exterior de cuero sintético impermeable con forro de poliéster resistente a los arañazos\n· Cierre de cremallera superior suave\n· Compartimento principal y bolsillo frontal con cremallera\n· Asa superior fija y correas de hombro ajustables\n· Dimensiones: 31 x 12 x 31 cm",
  "display_images": [
   "assets/products/shop/4ee383bbe9da93fdbab9.jpg",
   "assets/products/shop/1b3a325771afb7a9a5b3.jpg",
   "assets/products/shop/54948b51da8e842be9c9.jpg",
   "assets/products/shop/1374b4a5985432771ede.jpg",
   "assets/products/shop/7c91ee08614f1b4b911a.jpg",
-  "assets/products/shop/66daa21b43235f18758c.jpg",
-  "assets/products/shop/a66b71a6c4f9f677c7f0.jpg",
   "assets/products/shop/09d1f81dfd5de40cd723.jpg"
  ],
  "draft": false,
@@ -31,9 +44,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Mochila Daz Cuero Bag",
- "name_es": "Bolso Mochila Daz Cuero",
+ "name_en": "Synthetic Leather Printed Backpack",
+ "name_es": "Mochila Estampada de Cuero Sintético",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1198,
@@ -41,9 +55,34 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsas convertibles",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Altura"
+  ],
+  "notes_en": "Dimensions measured flat. 12.2 x 4.7 x 12.2 inches.",
+  "notes_es": "Dimensiones medidas en plano. 12,2 x 4,7 x 12,2 pulgadas.",
+  "rows": [
+   [
+    "31",
+    "12",
+    "31"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/66daa21b43235f18758c.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Mochila DAZ Luxury de cuero sintético para mujer",
  "stripe_payment_link": "https://buy.stripe.com/bJe9AU5Z226gduSfT01gO3b",
  "supplier": "Shopify",

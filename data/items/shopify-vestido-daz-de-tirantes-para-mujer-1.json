@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Blanco y azul",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Poliéster",
+ "ai_type": "Vestido",
+ "ai_ver": 2,
+ "art_note": "The model shots look composited and generic, lowering the luxury standard. Studio product and detail shots are clean.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,14 @@
  "cg": "t-vestido-daz-de-tirantes-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A fluid silhouette defined by a refined aesthetic. This sleeveless dress features an A-line silhouette with a crew neckline and an all-over floral print. Designed with discreet side pockets. Crafted from soft polyester fabric, it offers a lightweight drape and a sophisticated touch. Each piece is made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una silueta fluida definida por una estética depurada. Este vestido sin mangas presenta un diseño acampanado con cuello redondo y un estampado floral continuo. Incorpora bolsillos discretos en los laterales. Confeccionado en tejido de poliéster suave, ofrece una caída ligera y un tacto refinado. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Composition: soft and slightly stretchable polyester\n· Sleeveless A-line silhouette\n· Crew neckline\n· Invisible pockets on both sides\n· Easy care and machine washable\n· Made-to-order piece with worldwide shipping available",
+ "details_es": "· Composición: poliéster suave y ligeramente elástico\n· Silueta acampanada sin mangas en forma de A\n· Cuello redondo\n· Bolsillos invisibles en ambos lados\n· Fácil cuidado y lavable a máquina\n· Pieza hecha a pedido con envío mundial disponible",
  "display_images": [
-  "assets/products/shop/832e75b92e735efb598b.jpg",
-  "assets/products/shop/783428cccb5be1ab0967.jpg",
   "assets/products/shop/15a34f80e4e9865604ba.jpg",
   "assets/products/shop/57b9bdb6218d9b034525.jpg",
   "assets/products/shop/a74c0fc96b9418917cb7.jpg",
-  "assets/products/shop/3e09a7548170013b703a.jpg",
   "assets/products/shop/49f0cd3bb55645322467.jpg"
  ],
  "draft": false,
@@ -30,9 +41,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Daz Tirantes Dress",
- "name_es": "Vestido Daz Tirantes",
+ "name_en": "Floral print midi dress",
+ "name_es": "Vestido midi estampado floral",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1118,
@@ -40,8 +52,86 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Waist",
+   "Hip"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Cintura",
+   "Cadera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "92.5cm(29.1\")",
+    "67cm(26.4\")",
+    "59cm(23.2\")",
+    "122cm(48\")"
+   ],
+   [
+    "S",
+    "95.5cm(29.9\")",
+    "71cm(28\")",
+    "63cm(24.8\")",
+    "136cm(53.5\")"
+   ],
+   [
+    "M",
+    "98.5cm(30.7\")",
+    "75cm(29.5\")",
+    "67cm(26.4\")",
+    "140cm(55\")"
+   ],
+   [
+    "L",
+    "102cm(31.5\")",
+    "80cm(31.5\")",
+    "72cm(28.3\")",
+    "145cm(57\")"
+   ],
+   [
+    "XL",
+    "105.5cm(32.3\")",
+    "85cm(33.5\")",
+    "77cm(30.3\")",
+    "147cm(57.9\")"
+   ],
+   [
+    "2XL",
+    "109cm(33.1\")",
+    "90cm(35.4\")",
+    "82cm(32.3\")",
+    "149cm(58.7\")"
+   ],
+   [
+    "3XL",
+    "112.5cm(33.9\")",
+    "92cm(37.4\")",
+    "87cm(34.3\")",
+    "151cm(59.7\")"
+   ],
+   [
+    "4XL",
+    "116cm(34.6\")",
+    "100cm(39.4\")",
+    "92cm(36.2\")",
+    "153cm(60.2\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/3e09a7548170013b703a.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

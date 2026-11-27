@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White and Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Chiffon",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "The model photography uses flat, composited cut-and-paste techniques typical of drop-shipping, undermining high-end brand standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,14 @@
  "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your wardrobe with this distinguished chiffon blouse tailored for contemporary sophistication. The design features a refined V-neckline and a delicate front knot detail that subtly defines the silhouette. Showcasing fluid sleeves and a monochrome floral print, this piece offers seamless transition between casual ease and polished formality. Made to order with worldwide shipping available.",
+ "desc_es": "Eleve su guardarropa con esta distinguida blusa de gasa confeccionada para la sofisticación contemporánea. El diseño presenta un refinado escote en V y un delicado detalle de nudo delantero que define sutilmente la silueta. Con mangas de corte fluido y un estampado floral monocromático, esta pieza ofrece una transición impecable entre la elegancia informal y la formalidad pulida. Confeccionada bajo pedido y disponible con envíos a todo el mundo.",
+ "details_en": "· Chiffon\n· V-neckline\n· Front knot detail\n· 3/4 batwing sleeves\n· Solid print\n· Machine wash with neutral detergent in cold water\n· Made to order. Worldwide shipping.",
+ "details_es": "· Gasa\n· Escote en V\n· Detalle de nudo delantero\n· Manga 3/4 / manga murciélago\n· Estampado sólido\n· Lavado a máquina con detergente neutro en agua fría\n· Confeccionado bajo pedido. Envíos a todo el mundo.",
  "display_images": [
-  "assets/products/shop/83d591391ed9809ff265.jpg",
-  "assets/products/shop/c7994c8f464ed591da32.jpg",
-  "assets/products/shop/0107f165b7e0497a0900.jpg",
   "assets/products/shop/ae643ea114384ae55bcd.jpg",
   "assets/products/shop/94524d4902d334149bef.jpg",
-  "assets/products/shop/7f85679ac005f25f76c6.jpg",
-  "assets/products/shop/998fa9d5cbf4d5375dd7.jpg",
-  "assets/products/shop/c0e66e38bc5dc63b6f5c.jpg"
+  "assets/products/shop/7f85679ac005f25f76c6.jpg"
  ],
  "draft": false,
  "fam": "blusa-gasa-premium",
@@ -31,9 +40,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Blusa Gasa Daz Blouse",
- "name_es": "Blusa Blusa Gasa Daz",
+ "name_en": "Chiffon tie-front blouse",
+ "name_es": "Blusa de gasa con nudo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1168,
@@ -41,8 +51,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Manga"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "62cm(24.3\")",
+    "97m(38.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "M",
+    "63cm(24.8\")",
+    "102cm(40.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "L",
+    "64cm(25.2\")",
+    "107cm(42.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "XL",
+    "65cm(25.5\")",
+    "114cm(44.8\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "2XL",
+    "66cm(25.9\")",
+    "122cm(48.0\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "3XL",
+    "67cm(26.3\")",
+    "129cm(50.9\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "4XL",
+    "68cm(26.7\")",
+    "137cm(53.9\")",
+    "30cm(14.9\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/c0e66e38bc5dc63b6f5c.jpg"
+ ],
  "sizes": [
   "S",
   "M",

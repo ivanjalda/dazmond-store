@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Gasa",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "The studio shots and mockups look standard, failing to meet true luxury e-commerce standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,14 @@
  "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An essential piece defining contemporary sophistication. This blouse presents a fluid design with a pronounced V-neckline and a delicate front knot. The silhouette offers an impeccable drape and effortless versatility. Designed to transition between formal and casual occasions with total confidence. Each piece is made to order in our ateliers. We offer worldwide shipping for your convenience.",
+ "desc_es": "Una pieza esencial que define la sofisticación contemporánea. Esta blusa presenta un diseño fluido con un pronunciado escote en V y un delicado nudo delantero. La silueta ofrece una caída impecable y una versatilidad sin esfuerzo. Diseñada para la transición entre ocasiones formales e informales con total confianza. Cada pieza se confecciona bajo pedido en nuestros talleres. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· V-neckline\n· Front tie-knot detail\n· Short sleeves\n· Made to order\n· Machine washable with neutral detergent in cold water",
+ "details_es": "· Escote en V\n· Detalle de nudo delantero\n· Manga corta\n· Confección bajo pedido\n· Lavado a máquina con detergente neutro en agua fría",
  "display_images": [
-  "assets/products/shop/ec3fd5364ff6326a8b14.jpg",
-  "assets/products/shop/7e0f2906e0d03af4131f.jpg",
-  "assets/products/shop/004bd01072b6875370fd.jpg",
   "assets/products/shop/a8d8dc3e61949067ed37.jpg",
   "assets/products/shop/ba3a22ec3ea669615a13.jpg",
-  "assets/products/shop/f0d8834abc7bb917c130.jpg",
-  "assets/products/shop/d4f014110e79a1f7d2b9.jpg",
-  "assets/products/shop/aa8a9cf5f2d962ebeca8.jpg"
+  "assets/products/shop/f0d8834abc7bb917c130.jpg"
  ],
  "draft": false,
  "fam": "blusa-gasa-premium",
@@ -31,9 +40,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Blusa Gasa Daz Blouse",
- "name_es": "Blusa Blusa Gasa Daz",
+ "name_en": "Chiffon tie-front blouse",
+ "name_es": "Blusa de gasa con nudo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1158,
@@ -41,8 +51,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Blusas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Manga"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "62cm(24.3”)",
+    "97m(38.1”)",
+    "30cm(14.9”)"
+   ],
+   [
+    "M",
+    "63cm(24.8”)",
+    "102cm(40.1”)",
+    "30cm(14.9”)"
+   ],
+   [
+    "L",
+    "64cm(25.2”)",
+    "107cm(42.1”)",
+    "30cm(14.9”)"
+   ],
+   [
+    "XL",
+    "65cm(25.5”)",
+    "114cm(44.8”)",
+    "30cm(14.9”)"
+   ],
+   [
+    "2XL",
+    "66cm(25.9”)",
+    "122cm(48.0”)",
+    "30cm(14.9”)"
+   ],
+   [
+    "3XL",
+    "67cm(26.3”)",
+    "129cm(50.9”)",
+    "30cm(14.9”)"
+   ],
+   [
+    "4XL",
+    "68cm(26.7”)",
+    "137cm(53.9”)",
+    "30cm(14.9”)"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/aa8a9cf5f2d962ebeca8.jpg"
+ ],
  "sizes": [
   "S",
   "M",

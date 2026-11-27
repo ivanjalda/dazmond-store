@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The lifestyle images feature obvious digital compositing and artificial lighting, lowering the luxury aesthetic.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,12 +19,11 @@
  "cg": "t-coleccion-privada-vestido-largo-coleccion-privada-nocturne-halter-con-espalda-descubierta-y",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Fluidity and presence in every step. This long design combines a flattering V-neckline with an open back and a delicate tie detail at the waist. A piece designed to move with grace through both daytime strolls and evening events. Crafted from a four-way stretch fabric that offers exceptional lightness and an enveloping softness against the skin, adapting fluidly to your movements. Made to order and worldwide shipping.",
+ "desc_es": "Fluidez y presencia en cada paso. Este diseño largo combina un favorecedor escote en V con una espalda descubierta y un delicado detalle de lazo en la cintura. Una pieza pensada para moverse con gracia tanto en paseos diurnos como en eventos nocturnos. Confeccionado en un tejido elástico en cuatro direcciones que ofrece una ligereza excepcional y una suavidad envolvente sobre la piel, adaptándose con fluidez a tus movimientos. Made to order and worldwide shipping.",
+ "details_en": "· Four-way stretch fabric (95% polyester and 5% elastane)\n· 120 g/m² density\n· Long halter silhouette with V-neckline\n· Open back with decorative waist tie\n· Fluid and flexible fit\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Tejido elástico en cuatro direcciones (95% poliéster y 5% elastano)\n· Densidad de 120 g/m²\n· Silueta larga tipo halter con escote en V\n· Espalda abierta con lazo decorativo en la cintura\n· Corte fluido y flexible\n· Confeccionado bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
-  "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--1.webp",
-  "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--2.webp",
-  "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--3.webp",
   "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--4.webp",
   "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--5.webp",
   "assets/products/interestprint-design-womens-halter-backless-maxi-dress-with-waist-bow--6.webp"
@@ -28,9 +39,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Colección Privada Largo Dress · White",
- "name_es": "Vestido Colección Privada Largo · Blanco",
+ "name_en": "Nocturne Halter Long Dress",
+ "name_es": "Vestido Largo Halter Nocturne",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1191,
@@ -38,7 +50,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Length",
+   "Hip",
+   "Hem"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Largo",
+   "Cadera",
+   "Dobladillo"
+  ],
+  "notes_en": "Measurements are provided in centimeters and inches. Made to order piece.",
+  "notes_es": "Las medidas se proporcionan en centímetros y pulgadas. Pieza confeccionada bajo pedido.",
+  "rows": [
+   [
+    "XS",
+    "82cm / 32.2in",
+    "125cm / 49.2in",
+    "144cm / 56.6in",
+    "226cm / 88.9in"
+   ],
+   [
+    "S",
+    "86cm / 33.8in",
+    "126cm / 49.6in",
+    "148cm / 58.2in",
+    "230cm / 90.5in"
+   ],
+   [
+    "M",
+    "90cm / 35.4in",
+    "127cm / 50in",
+    "154cm / 60.6in",
+    "234cm / 92.1in"
+   ],
+   [
+    "L",
+    "94cm / 37in",
+    "128cm / 50.3in",
+    "160cm / 60.9in",
+    "240cm / 94.4in"
+   ],
+   [
+    "XL",
+    "100cm / 39.3in",
+    "129cm / 50.7in",
+    "166cm / 65.3in",
+    "246cm / 96.8in"
+   ],
+   [
+    "2XL",
+    "106cm / 41.7in",
+    "130cm / 51.1in",
+    "172cm / 67.7in",
+    "252cm / 99.2in"
+   ],
+   [
+    "3XL",
+    "112cm / 44in",
+    "?",
+    "?",
+    "?"
+   ]
+  ],
+  "unit": "cm / in"
+ },
  "size_guide": [],
  "sizes": [
   "XS",

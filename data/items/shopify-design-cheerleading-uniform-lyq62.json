@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/conjuntos"
+ ],
+ "ai_color": "Púrpura",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% elastano",
+ "ai_type": "Set",
+ "ai_ver": 2,
+ "art_note": "AI-generated imagery lacks the tactile luxury standards of the house.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-crimson-thorns-cheer-set",
  "color": "Púrpura",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The Crimson Thorns set merges tailored precision with a dynamic silhouette. The design features a short-sleeved crop top with structured lapels and a pronounced neckline, enhanced by an adjustable front tie closure. It is complemented by a mid-rise pleated minifilrt. Crafted with a precise textile balance, it offers a form-fitting silhouette with breathable properties. Each piece is made to order with worldwide shipping.",
+ "desc_es": "El conjunto Crimson Thorns fusiona la precisión de la sastrería con una silueta dinámica. El diseño presenta un top corto de manga corta con solapas estructuradas y un escote pronunciado, realzado con un cierre frontal ajustable mediante cordones. Se complementa con una minifalda plisada de talle medio. Confeccionado con un equilibrio textil preciso, ofrece un ajuste ceñido con propiedades transpirables. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% spandex\n· 15.10 oz. fabric weight\n· Short-sleeved crop top with structured lapels\n· Adjustable front tie closure\n· Mid-rise pleated miniskirt\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 95% poliéster, 5% elastano\n· Gramaje de 15.10 oz.\n· Top corto de manga corta con solapas estructuradas\n· Cierre frontal con cordones ajustables\n· Minifalda plisada de talle medio\n· Confeccionado bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shopify-design-cheerleading-uniform-lyq62-1.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-2.webp",
@@ -31,9 +45,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Crimson Thorns Cheer Set",
- "name_es": "Conjunto Crimson Thorns Cheer",
+ "name_en": "Crimson Thorns Set",
+ "name_es": "Conjunto Crimson Thorns",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1140,

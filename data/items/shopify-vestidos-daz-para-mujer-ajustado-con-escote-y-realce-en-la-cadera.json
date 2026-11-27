@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white and black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The model shots look composited and generic, lowering the overall luxury standard.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +18,14 @@
  "cg": "t-vestidos-daz-para-mujer-ajustado-con-escote-y-realce-en-la-cadera",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined by a fitted contour that follows the silhouette with precision. This minidress features a monochromatic rose floral motif set against a luminous background. The sleeveless design elevates the clean lines of the structure. Each piece is made to order in our ateliers. We offer worldwide shipping for your convenience.",
+ "desc_es": "Definido por un contorno entallado que sigue la silueta con precisión. Este minivestido presenta un motivo floral monocromático de rosas sobre un fondo luminoso. El diseño sin mangas realza las líneas limpias de la estructura. Cada pieza se elabora bajo demanda en nuestros talleres. Ofrecemos envíos a todo el mundo para su comodidad.",
+ "details_en": "· Made to order\n· Worldwide shipping\n· Care instructions: hand or machine wash with cold water, do not bleach, tumble dry low",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo\n· Instrucciones de cuidado: lavado a mano o a máquina con agua fría, no usar lejía, secar en secadora a baja temperatura",
  "display_images": [
-  "assets/products/shop/4f3a8801d0646605185a.jpg",
-  "assets/products/shop/d15fde2a8c31d165eabd.jpg",
   "assets/products/shop/92ceb0c4640f2eb01708.jpg",
   "assets/products/shop/5fb44bd56123f225e3b6.jpg",
   "assets/products/shop/82938fd369ee7fde8003.jpg",
-  "assets/products/shop/9babbe7289ed8a5dedaa.jpg",
   "assets/products/shop/972c9d1b31d12c73f950.jpg"
  ],
  "draft": false,
@@ -30,9 +40,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Vestidos Daz Ajustado Dress",
- "name_es": "Vestido Vestidos Daz Ajustado",
+ "name_en": "Black Rose Print Minidress",
+ "name_es": "Minivestido Estampado Rosas Negras",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1122,
@@ -40,8 +51,86 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "BUST",
+   "WAIST",
+   "HIP"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LARGO",
+   "PECHO",
+   "CINTURA",
+   "CADERA"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "74cm (29.1\")",
+    "70cm (27.6\")",
+    "58cm (22.8\")",
+    "76cm (29.9\")"
+   ],
+   [
+    "M",
+    "76cm (29.9\")",
+    "77cm (30.3\")",
+    "65cm (25.6\")",
+    "83cm (32.7\")"
+   ],
+   [
+    "L",
+    "78cm (30.7\")",
+    "84cm (33.1\")",
+    "72cm (28.3\")",
+    "90cm (35.4\")"
+   ],
+   [
+    "XL",
+    "80cm (31.5\")",
+    "91cm (35.8\")",
+    "79cm (31.1\")",
+    "97cm (38.2\")"
+   ],
+   [
+    "2XL",
+    "82cm (32.3\")",
+    "98cm (38.6\")",
+    "86cm (33.9\")",
+    "104cm (40.9\")"
+   ],
+   [
+    "3XL",
+    "84cm (33.1\")",
+    "105cm (41.3\")",
+    "93cm (36.6\")",
+    "111cm (43.7\")"
+   ],
+   [
+    "4XL",
+    "86cm (33.9\")",
+    "112cm (44.1\")",
+    "100cm (39.4\")",
+    "118cm (46.5\")"
+   ],
+   [
+    "5XL",
+    "88cm (34.6\")",
+    "119cm (46.9\")",
+    "107cm (42.1\")",
+    "125cm (49.2)"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/9babbe7289ed8a5dedaa.jpg"
+ ],
  "sizes": [
   "S",
   "M",

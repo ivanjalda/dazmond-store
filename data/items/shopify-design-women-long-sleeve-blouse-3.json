@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Blanco y Azul",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Silk Velvet",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery with high-end editorial direction.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-luxury-crimson-cosmic-silk-velvet-blouse",
  "color": "Blanco y Azul a rayas",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order in silk, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda en seda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Conceived for the woman who commands presence. This long-sleeve blouse merges classic tailoring with a contemporary aesthetic. It features a geometric linear print over a luminous base. The signature handwritten initial is subtly integrated onto the chest, sealing an identity of artistic distinction. Crafted from a silk velvet blend, it offers a fluid drape and an exceptionally soft hand. A distinctive garment designed for spaces of absolute sophistication.",
+ "desc_es": "Concebida para la mujer que busca una presencia imponente. Esta blusa de manga larga fusiona el clasicismo de la sastrería con una propuesta estética contemporánea. Presenta un estampado de líneas geométricas sobre una base luminosa. La inicial manuscrita de la firma se integra con sutil delicadeza sobre el pecho, sellando una identidad de distinción artística. Confeccionada con una mezcla de terciopelo de seda, ofrece una caída fluida y un tacto excepcionalmente suave. Una prenda de autor ideada para espacios de sofisticación absoluta.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confección bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/c239eee01fdadb7115b3.jpg",
   "assets/products/shop/23c9d1dc9b383b91b29a.jpg",
@@ -32,9 +46,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Crimson Cosmic Silk Blouse",
- "name_es": "Blusa Crimson Cosmic Silk",
+ "name_en": "Silk Velvet Blouse",
+ "name_es": "Blusa de Terciopelo de Seda",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 23.99,
  "rank": 1208,

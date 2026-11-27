@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Gasa",
+ "ai_type": "Blouse",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on composited lifestyle shots and generic graphics, failing to meet true luxury e-commerce standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,13 @@
  "cg": "t-blusa-de-gasa-daz-premium-con-nudo-delantero-y-escote-en-v",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This chiffon blouse redefines relaxed elegance with a fluid silhouette. The design features a deep V-neckline and an adjustable front knot that brings dynamism to the piece. Its architectural print offers visual depth. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Esta blusa de gasa redefine la elegancia relajada con una silueta fluida. El diseño presenta un profundo escote en V y un nudo delantero ajustable que aporta dinamismo a la pieza. Su estampado arquitectónico ofrece profundidad visual. Cada prenda se elabora bajo pedido y cuenta con envío mundial.",
+ "details_en": "· Chiffon\n· V-neck\n· Front tie knot\n· Short sleeves\n· Machine wash with neutral detergent in cold water\n· Made to order piece\n· Worldwide shipping",
+ "details_es": "· Gasa\n· Escote en V\n· Nudo delantero\n· Manga corta\n· Lavado a máquina con detergente neutro en agua fría\n· Made to order piece\n· Worldwide shipping",
  "display_images": [
-  "assets/products/shop/aef189e1b8e8a5e0865f.jpg",
-  "assets/products/shop/c2ecd4cd886d90b5d357.jpg",
-  "assets/products/shop/0fa5f40d4f27a96bf1ea.jpg",
   "assets/products/shop/ee5b5a04ef163705c0ed.jpg",
-  "assets/products/shop/986fac289d1208613bb4.jpg",
-  "assets/products/shop/d1e97f51268df54755d9.jpg",
-  "assets/products/shop/450a470826fa37042257.jpg",
-  "assets/products/shop/5a11f2a333399860f072.jpg"
+  "assets/products/shop/986fac289d1208613bb4.jpg"
  ],
  "draft": false,
  "fam": "blusa-gasa-premium",
@@ -31,9 +39,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Blusa Gasa Daz Blouse",
- "name_es": "Blusa Blusa Gasa Daz",
+ "name_en": "Chiffon tie-front blouse",
+ "name_es": "Blusa de gasa con nudo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1171,
@@ -41,8 +50,70 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Manga"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "62cm(24.3\")",
+    "97m(38.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "M",
+    "63cm(24.8\")",
+    "102cm(40.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "L",
+    "64cm(25.2\")",
+    "107cm(42.1\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "XL",
+    "65cm(25.5\")",
+    "114cm(44.8\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "2XL",
+    "66cm(25.9\")",
+    "122cm(48.0\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "3XL",
+    "67cm(26.3\")",
+    "129cm(50.9\")",
+    "30cm(14.9\")"
+   ],
+   [
+    "4XL",
+    "68cm(26.7\")",
+    "137cm(53.9\")",
+    "30cm(14.9\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/5a11f2a333399860f072.jpg"
+ ],
  "sizes": [
   "S",
   "M",

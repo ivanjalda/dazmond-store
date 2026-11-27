@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/conjuntos"
+ ],
+ "ai_color": "Rosa Fucsia / Fuchsia Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% elastano",
+ "ai_type": "Conjunto de ropa / Sportswear Set",
+ "ai_ver": 2,
+ "art_note": "The lifestyle and product images rely on synthetic generation and lack the sophisticated, tactile fidelity required for high-end luxury e-commerce.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-angel-demon-cheer-set",
  "color": "Rosa Fucsia",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This high fashion sportswear set redefines traditional codes through a transgressive and sophisticated aesthetic. Crafted in vibrant fuchsia, it features a short-sleeve top with structured lapels and a plunging neckline secured by front laces. It is complemented by a mid-rise pleated miniskirt designed to frame the silhouette. A piece of mystical expression made to order with worldwide shipping.",
+ "desc_es": "Este conjunto de alta costura deportiva redefine los códigos tradicionales a través de una estética transgresora y sofisticada. Confeccionado en fucsia vibrante, presenta un top de manga corta con solapas estructuradas y un pronunciado escote ajustado mediante cordones frontales. Se complementa con una minifalda plisada de talle medio diseñada para enmarcar la silueta. Una obra de expresión mística creada bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 95% polyester and 5% elastane\n· 15.10 oz weight\n· Form-fitting silhouette with shaping effect\n· Adjustable front lacing\n· Made to order with worldwide shipping",
+ "details_es": "· 95% poliéster y 5% elastano\n· Gramaje de 15.10 oz\n· Ajuste ceñido con efecto moldeador\n· Cordones frontales ajustables\n· Hecho a pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shopify-design-cheerleading-uniform-lyq62-1-1.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-1-2.webp",
@@ -29,9 +43,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Angel Demon Cheer Set",
- "name_es": "Conjunto Angel Demon Cheer",
+ "name_en": "Angel & Demon Fuchsia Set",
+ "name_es": "Conjunto Angel & Demon Fucsia",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1141,

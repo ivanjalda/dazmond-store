@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Synthetic leather",
+ "ai_type": "Phone Wallet Case",
+ "ai_ver": 2,
+ "art_note": "Flat lighting and digital compositing detract from the luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,18 +19,18 @@
  "cg": "t-funda-con-tapa-de-cuero-sintetico-daz-para-telefono",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Crafted from high-quality synthetic leather, this wallet phone case offers full-body protection. The exterior showcases a detailed print, complemented by a contrasting brown interior. Designed with a three-card pocket and a cash compartment, it ensures everyday organization. The folding folio stand function allows for a convenient horizontal viewing angle. This accessory bridges practicality and utility for daily use. Available with worldwide shipping and made-to-order options.",
+ "desc_es": "Confeccionada con cuero sintético de alta calidad, esta funda tipo billetera para teléfono ofrece protección total para el cuerpo. El diseño exterior presenta una impresión detallada y el interior cuenta con un tono marrón contrastante. Incorpora un bolsillo para tres tarjetas y una capa para efectivo. La función de soporte plegable permite colocar el dispositivo en posición horizontal para una visualización cómoda. Este accesorio combina funcionalidad y practicidad para el uso diario. Disponible con opciones de envío mundial y fabricación bajo pedido.",
+ "details_en": "· High-quality synthetic leather\n· Three-card pocket and cash compartment\n· Folding horizontal stand function\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Cuero sintético de alta calidad\n· Bolsillo para 3 tarjetas y capa para efectivo\n· Función de soporte plegable horizontal\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/375c438750718f8d0da8.jpg",
   "assets/products/shop/44d77ae4ba86c95be806.jpg",
   "assets/products/shop/e71f5837d134c5cb4348.jpg",
   "assets/products/shop/27b75b3d20f31f431d0a.jpg",
   "assets/products/shop/e6c92bf8d156d3418bba.jpg",
-  "assets/products/shop/c87fc6e5876f2f20e90d.jpg",
   "assets/products/shop/e3d76e0595df7224fc49.jpg",
-  "assets/products/shop/90af387fd976fb297c4b.jpg",
-  "assets/products/shop/912444c218599be52cc2.jpg"
+  "assets/products/shop/90af387fd976fb297c4b.jpg"
  ],
  "draft": false,
  "fam": "funda-tapa-cuero",
@@ -32,6 +44,7 @@
  "name_en": "DAZ phone wallet case",
  "name_es": "Funda tipo billetera DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1091,
@@ -39,8 +52,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Electrónica > Comunicación > Telefonía > Accesorios para teléfonos móviles y inteligentes > Fundas para móviles",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Width"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Ancho"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "10cm (3.9\")",
+    "15.6cm (6.14\")"
+   ],
+   [
+    "M",
+    "10cm (3.9\")",
+    "17cm (6.7\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/c87fc6e5876f2f20e90d.jpg",
+  "assets/products/shop/912444c218599be52cc2.jpg"
+ ],
  "sizes": [
   "S",
   "M"

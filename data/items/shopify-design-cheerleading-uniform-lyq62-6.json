@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/conjuntos"
+ ],
+ "ai_color": "Ivory and Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "Cheer Set",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle and studio photography that elevates the monogram set to luxury fashion standards.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,17 @@
  "cg": "t-dazmond-championship-monogram-cheer-set",
  "color": "Dorado",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A sublime reinterpretation of classic collegiate sportswear codes through the lens of contemporary luxury. This set showcases an ivory canvas covered by a refined, geometric interlocking monogram pattern in gold. The silhouette features a short-sleeve top with structured lapels and a pronounced neckline with a front tie closure. It is complemented by a mid-rise pleated mini skirt. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Una sublime reinterpretación de los clásicos códigos deportivos universitarios bajo el prisma del lujo contemporáneo. Este conjunto exhibe un sofisticado lienzo en tono marfil cubierto por un refinado y geométrico patrón de monogramas entrelazados en tono dorado. La silueta integra un top de manga corta con solapas estructuradas y un escote pronunciado con cierre de lazo frontal. Se complementa con una minifalda de tablas fluidas y talle medio. Cada pieza es elaborada bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· 95% polyester, 5% elastane\n· 15.10 oz fabric weight\n· Short-sleeve top with lapels and front tie\n· Mid-rise pleated mini skirt\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 95% poliéster, 5% elastane\n· Gramaje de 15.10 oz\n· Top de manga corta con solapas y lazo frontal\n· Minifalda plisada de talle medio\n· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shopify-design-cheerleading-uniform-lyq62-6-1.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-6-2.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-6-3.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-6-4.webp",
   "assets/products/shopify-design-cheerleading-uniform-lyq62-6-5.webp",
-  "assets/products/shopify-design-cheerleading-uniform-lyq62-6-6.webp",
-  "assets/products/shopify-design-cheerleading-uniform-lyq62-6-7.webp",
-  "assets/products/shopify-design-cheerleading-uniform-lyq62-6-8.webp"
+  "assets/products/shopify-design-cheerleading-uniform-lyq62-6-6.webp"
  ],
  "draft": false,
  "fam": "championship-monogram-cheer",
@@ -30,9 +42,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Championship Monogram Cheer Set",
- "name_es": "Conjunto Championship Monogram Cheer",
+ "name_en": "Championship Monogram Set",
+ "name_es": "Conjunto Monogram Championship",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1146,

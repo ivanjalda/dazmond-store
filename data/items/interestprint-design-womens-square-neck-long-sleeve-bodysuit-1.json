@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/bodies"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "86% poliéster, 14% elastano",
+ "ai_type": "Jumpsuits & Rompers",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots meet baseline standards, but lifestyle imagery exhibits composited aesthetics.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,12 +19,11 @@
  "cg": "t-body-dazmond-never-define-me-de-manga-larga-it",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Polished silhouette and absolute fluidity. A presence that imposes itself with subtlety, designed to accompany the natural movement of the body with sophistication. It features a clean square neckline and long fitted sleeves, offering a refined aesthetic. It integrates naturally into any daily or evening ensemble. Crafted from a soft-touch fabric with slight elasticity, featuring a 180gsm weight that provides structure and comfort. It includes a three-snap button closure at the crotch. Made to order with worldwide shipping.",
+ "desc_es": "Silueta pulida y fluidez absoluta. Una presencia que se impone con sutileza, diseñada para acompañar el movimiento natural del cuerpo con sofisticación. Presenta un limpio cuello cuadrado y mangas largas de corte entallado, ofreciendo una estética depurada. Se integra con naturalidad en cualquier conjunto cotidiano o nocturno. Elaborado en tejido de tacto suave con ligera elasticidad, con un peso de 180gsm que aporta estructura y comodidad. Cuenta con un cierre de tres botones a presión en la zona de la entrepierna. Confeccionado bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Fabric: 86% polyester, 14% elastane\n· Design: Square neck, long sleeve, front print\n· Fit: Fitted\n· Closure: Three snap buttons at the crotch\n· Made-to-order piece\n· Available with worldwide shipping",
+ "details_es": "· Tejido: 86% poliéster, 14% elastano\n· Diseño: Cuello cuadrado, manga larga, estampado frontal\n· Ajuste: Entallado\n· Cierre: Tres botones a presión en la zona de la entrepierna\n· Pieza confeccionada bajo pedido\n· Disponible con envíos a todo el mundo",
  "display_images": [
-  "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-1.webp",
-  "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-2.webp",
-  "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-3.webp",
   "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-4.webp",
   "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-5.webp",
   "assets/products/interestprint-design-womens-square-neck-long-sleeve-bodysuit-1-6.webp"
@@ -28,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Body Never Define Bodysuit · White",
- "name_es": "Body Body Never Define · Blanco",
+ "name_en": "Never Define Me Bodysuit",
+ "name_es": "Body Never Define Me",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1138,
@@ -38,7 +50,83 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Chest",
+   "Length",
+   "Sleeve",
+   "Waist"
+  ],
+  "headers_es": [
+   "Talla",
+   "Pecho",
+   "Largo",
+   "Manga",
+   "Cintura"
+  ],
+  "notes_en": "Made-to-order pieces. Worldwide shipping available.",
+  "notes_es": "Piezas confeccionadas bajo pedido. Envíos a todo el mundo.",
+  "rows": [
+   [
+    "XS",
+    "80cm / 31.5in",
+    "68.5cm / 26.97in",
+    "57cm / 22.44in",
+    "60.5cm / 23.82in"
+   ],
+   [
+    "S",
+    "85cm / 33.46in",
+    "70cm / 27.56in",
+    "58cm / 22.83in",
+    "65.5cm / 25.79in"
+   ],
+   [
+    "M",
+    "90cm / 35.43in",
+    "71.5cm / 28.15in",
+    "59cm / 23.23in",
+    "70.5cm / 27.76in"
+   ],
+   [
+    "L",
+    "95cm / 37.4in",
+    "73cm / 28.74in",
+    "60cm / 23.62in",
+    "75.5cm / 29.72in"
+   ],
+   [
+    "XL",
+    "101cm / 39.76in",
+    "74.5cm / 29.33in",
+    "61cm / 24.02in",
+    "81.5cm / 32.09in"
+   ],
+   [
+    "2XL",
+    "107cm / 42.13in",
+    "76cm / 29.92in",
+    "62cm / 24.41in",
+    "87.5cm / 34.45in"
+   ],
+   [
+    "3XL",
+    "113cm / 44.49in",
+    "77.5cm / 30.51in",
+    "63cm / 24.8in",
+    "93.5cm / 36.81in"
+   ],
+   [
+    "4XL",
+    "119cm / 46.85in",
+    "79cm / 31.1in",
+    "64cm / 25.2in",
+    "99.5cm / 39.17in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
  "size_guide": [],
  "sizes": [
   "XS",

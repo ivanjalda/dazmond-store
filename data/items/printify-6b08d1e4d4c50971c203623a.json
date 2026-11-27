@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with standard lighting, lacking high editorial impact.",
+ "art_score": 6,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,16 +22,16 @@
  "cg": "printify-6b08d1e4d4c50971c203623a",
  "color": "Black",
  "created": "2026-11-27",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined expression of house identity. This piece merges immaculate design with a sophisticated, understated presence. Made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una expresión depurada de la identidad de la casa. Esta pieza combina un diseño impecable con una presencia sofisticada y discreta. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b08d1e4d4c50971c203623a/12124/102005/house-seal-ii-tee.jpg?camera_label=front-2",
   "https://images-api.printify.com/mockup/6b08d1e4d4c50971c203623a/12124/102006/house-seal-ii-tee.jpg?camera_label=back-2",
   "https://images-api.printify.com/mockup/6b08d1e4d4c50971c203623a/12124/102001/house-seal-ii-tee.jpg?camera_label=folded",
-  "https://images-api.printify.com/mockup/6b08d1e4d4c50971c203623a/12124/127735/house-seal-ii-tee.jpg?camera_label=folded-2",
   "https://images-api.printify.com/mockup/6b08d1e4d4c50971c203623a/12124/102002/house-seal-ii-tee.jpg?camera_label=hanging-1",
-  "https://images-api.printify.com/mockup/6b08d1e4d4c50971c203623a/12124/102003/house-seal-ii-tee.jpg?camera_label=hanging-2",
-  "https://images-api.printify.com/mockup/6b08d1e4d4c50971c203623a/12124/102004/house-seal-ii-tee.jpg?camera_label=hanging-3"
+  "https://images-api.printify.com/mockup/6b08d1e4d4c50971c203623a/12124/102003/house-seal-ii-tee.jpg?camera_label=hanging-2"
  ],
  "draft": false,
  "fam": "house-seal-ii",
@@ -32,9 +45,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "House Seal Tee · Black",
- "name_es": "Camiseta House Seal · Negro",
+ "name_en": "House Seal II Tee",
+ "name_es": "Camiseta House Seal II",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 23,

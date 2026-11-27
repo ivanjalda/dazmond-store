@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and sharp product angles establish a refined tone, though some lifestyle mockups feel commercial.",
+ "art_score": 6,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,16 +22,16 @@
  "cg": "printify-6b08d1f4c87e8df47b0948c2",
  "color": "Black",
  "created": "2026-11-27",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of modern identity. This high-end piece redefines the codes of everyday styling with an impeccable silhouette and subtle contrast. Designed for those who value discretion and undeniable presence. Each garment is crafted exclusively to order in the United States. Available with worldwide shipping.",
+ "desc_es": "Una expresion depurada de la identidad moderna. Esta pieza de alta gama redefine los codigos del estilo cotidiano con una silueta impecable y un contraste sutil. Disenada para quienes valoran la discrecion y la presencia contundente. Cada prenda se confecciona exclusivamente bajo pedido en Estados Unidos. Disponible con envio internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccion bajo pedido\n· Envio mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/102005/signature-logo-tee.jpg?camera_label=front-2",
   "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/102006/signature-logo-tee.jpg?camera_label=back-2",
   "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/102001/signature-logo-tee.jpg?camera_label=folded",
-  "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/127735/signature-logo-tee.jpg?camera_label=folded-2",
   "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/102002/signature-logo-tee.jpg?camera_label=hanging-1",
-  "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/102003/signature-logo-tee.jpg?camera_label=hanging-2",
-  "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/102004/signature-logo-tee.jpg?camera_label=hanging-3"
+  "https://images-api.printify.com/mockup/6b08d1f4c87e8df47b0948c2/12124/102003/signature-logo-tee.jpg?camera_label=hanging-2"
  ],
  "draft": false,
  "fam": "signature-logo-tee",
@@ -32,9 +45,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Signature Logo Tee · Black",
- "name_es": "Camiseta Signature Logo · Negro",
+ "name_en": "Signature Logo Tee Black",
+ "name_es": "Camiseta Signature Logo Black",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 24,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White and Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio and lifestyle product shots with consistent lighting, though standard e-commerce mockups lack high fashion editorial edge.",
+ "art_score": 6,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,17 @@
  "cg": "printify-6b08d1dfedc552ae3508a8e1",
  "color": "",
  "created": "2026-11-27",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your daily ritual with this refined mug by Dazmond & Co. Designed with the signature D Monogram motif in a golden tone against a pure white background, this piece brings a touch of sophisticated distinction to any setting. Made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Eleve su ritual diario con esta refinada taza de Dazmond & Co. Diseñada con el motivo D Monogram en un tono dorado sobre un fondo blanco puro, esta pieza aporta un toque de distinción sofisticada a cualquier espacio. Fabricada bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho bajo demanda",
  "display_images": [
   "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62327/3387/d-monogram-mug.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62327/3389/d-monogram-mug.jpg?camera_label=right",
   "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62327/3391/d-monogram-mug.jpg?camera_label=left",
-  "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62327/6562/d-monogram-mug.jpg?camera_label=context",
   "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62328/3388/d-monogram-mug.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62328/3390/d-monogram-mug.jpg?camera_label=right",
-  "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62328/3392/d-monogram-mug.jpg?camera_label=left",
-  "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62328/6563/d-monogram-mug.jpg?camera_label=context"
+  "https://images-api.printify.com/mockup/6b08d1dfedc552ae3508a8e1/62328/3392/d-monogram-mug.jpg?camera_label=left"
  ],
  "draft": false,
  "fam": "d-monogram-mug",
@@ -28,9 +40,10 @@
   "printify-6b08d1ecf7ed4c973b05978a"
  ],
  "material": "",
- "name_en": "Monogram Mug",
- "name_es": "Taza Monogram",
+ "name_en": "D Monogram Mug",
+ "name_es": "Taza Monogram D",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
  "rank": 17,

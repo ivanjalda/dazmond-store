@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/pantalones"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester and spandex",
+ "ai_type": "Pants",
+ "ai_ver": 2,
+ "art_note": "Flat vector-like product renders and generic grid details lack luxury studio depth and styling.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +19,14 @@
  "cg": "t-pantalones-acampanados-elegantes-daz-premium-con-estampado-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined silhouette that defines the form with a fluid drape. This flared trouser features a mid-rise design with subtle structure and two functional front pockets. Crafted from a precise blend of polyester and spandex, it offers comfort and adaptability. An essential wardrobe piece that transitions effortlessly between classic tailoring and contemporary elegance. Available made to order with worldwide shipping.",
+ "desc_es": "Silueta depurada que define la figura con una caída fluida. Este pantalón acampanado presenta un diseño de tiro medio con estructura sutil y dos bolsillos delanteros funcionales. Confeccionado con una mezcla precisa de poliéster y elastano, ofrece comodidad y adaptabilidad. Una prenda esencial para guardarropa que transita sin esfuerzo entre la sastrería clásica y la elegancia contemporánea. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Composition: polyester and spandex\n· Mid-rise\n· Flared design\n· Two front pockets\n· Hand wash or machine wash cold\n· Do not bleach\n· Tumble dry low\n· Do not iron\n· Do not dry clean\n· Made to order with worldwide shipping",
+ "details_es": "· Composición: poliéster y elastano\n· Tiro medio\n· Diseño acampanado\n· Dos bolsillos delanteros\n· Lavar a mano o a máquina con agua fría\n· No usar blanqueador\n· Secar en secadora a baja temperatura\n· No planchar\n· No lavar en seco\n· Hecho bajo pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/ff67af9dbbcbd479c4e5.jpg",
   "assets/products/shop/653341b80c094c4a4785.jpg",
   "assets/products/shop/a820436244d5ada7c003.jpg",
-  "assets/products/shop/8fd51d34a662f2192b0e.jpg",
   "assets/products/shop/321d5a82e837e1f5baac.jpg"
  ],
  "draft": false,
@@ -28,9 +41,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Pantalones Acampanados Trousers",
- "name_es": "Pantalón Pantalones Acampanados",
+ "name_en": "DAZ printed flared trousers",
+ "name_es": "Pantalones acampanados con estampado DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1110,
@@ -38,8 +52,64 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones > Pantalones",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Hip"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Cadera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "108.0cm(42.5\")",
+    "69.5cm(27.4\")",
+    "97cm(38.2\")"
+   ],
+   [
+    "M",
+    "109.5cm(43.1\")",
+    "74.5cm(29.3\")",
+    "102cm(40.2\")"
+   ],
+   [
+    "L",
+    "111.0cm(43.7\")",
+    "79.5cm(31.3\")",
+    "107cm(42.1\")"
+   ],
+   [
+    "XL",
+    "112.5cm(44.3\")",
+    "84.5cm(33.3\")",
+    "112cm(44.1\")"
+   ],
+   [
+    "2XL",
+    "115.0cm(45.3\")",
+    "91.5cm(36.0\")",
+    "119cm(46.9\")"
+   ],
+   [
+    "3XL",
+    "117.5cm(46.3\")",
+    "98.5cm(38.8\")",
+    "126cm(49.6\")"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/8fd51d34a662f2192b0e.jpg"
+ ],
  "sizes": [
   "S",
   "M",

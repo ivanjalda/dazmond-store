@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Dress",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on flat digital mockups and composited prints that detract from a luxury aesthetic.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +18,11 @@
  "cg": "t-vestidos-para-mujer-ajustado-con-escote-y-realce-de-la-cadera",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This mini dress showcases a form-fitting silhouette that precisely defines the figure. Featuring a sleeveless design and an architectural-inspired print in tones of green and yellow, it delivers a striking visual presence. The soft construction drapes fluidly along the body, establishing a modern and confident aesthetic. Each piece is made to order to ensure exclusivity and minimize waste. Available with worldwide shipping.",
+ "desc_es": "Este minivestido presenta una silueta ajustada que define la figura con precisión. Con un diseño sin mangas y un estampado de inspiración arquitectónica en tonos verdes y amarillos, ofrece una presencia visual llamativa. La construcción suave se adapta al cuerpo con fluidez, creando una estética moderna y segura. Cada pieza se confecciona bajo demanda para garantizar exclusividad y reducir el desperdicio. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Hand or machine wash with cold water\n· Do not bleach\n· Tumble dry low\n· Do not iron\n· Do not dry clean",
+ "details_es": "· Hecho a pedido\n· Lavado a mano o a máquina con agua fría\n· No usar lejía\n· Secar en secadora a baja temperatura\n· No planchar\n· No lavar en seco",
  "display_images": [
-  "assets/products/shop/4e005aeb8eac7494593b.jpg",
-  "assets/products/shop/6082844cd578cb1eeeef.jpg",
-  "assets/products/shop/7c51c153d040c71dcc66.jpg",
-  "assets/products/shop/6f2dde95e65cdba53108.jpg",
-  "assets/products/shop/920d5ae7e4902793f303.jpg",
-  "assets/products/shop/53e980dfd420612baa12.jpg",
   "assets/products/shop/281fbb463117db2bbb17.jpg"
  ],
  "draft": false,
@@ -30,9 +37,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Vestidos Ajustado Escote Dress",
- "name_es": "Vestido Vestidos Ajustado Escote",
+ "name_en": "Minimalist Fitted Minidress",
+ "name_es": "Minivestido Ajustado Minimalista",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
  "rank": 1190,
@@ -40,8 +48,86 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Waist",
+   "Hip"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud",
+   "Busto",
+   "Cintura",
+   "Cadera"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "74cm (29.1\")",
+    "70cm (27.6\")",
+    "58cm (22.8\")",
+    "76cm (29.9\")"
+   ],
+   [
+    "M",
+    "76cm (29.9\")",
+    "77cm (30.3\")",
+    "65cm (25.6\")",
+    "83cm (32.7\")"
+   ],
+   [
+    "L",
+    "78cm (30.7\")",
+    "84cm (33.1\")",
+    "72cm (28.3\")",
+    "90cm (35.4\")"
+   ],
+   [
+    "XL",
+    "80cm (31.5\")",
+    "91cm (35.8\")",
+    "79cm (31.1\")",
+    "97cm (38.2\")"
+   ],
+   [
+    "2XL",
+    "82cm (32.3\")",
+    "98cm (38.6\")",
+    "86cm (33.9\")",
+    "104cm (40.9\")"
+   ],
+   [
+    "3XL",
+    "84cm (33.1\")",
+    "105cm (41.3\")",
+    "93cm (36.6\")",
+    "111cm (43.7\")"
+   ],
+   [
+    "4XL",
+    "86cm (33.9\")",
+    "112cm (44.1\")",
+    "100cm (39.4\")",
+    "118cm (46.5\")"
+   ],
+   [
+    "5XL",
+    "88cm (34.6\")",
+    "119cm (46.9\")",
+    "107cm (42.1\")",
+    "125cm (49.2\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/53e980dfd420612baa12.jpg"
+ ],
  "sizes": [
   "S",
   "M",
