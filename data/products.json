@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T04:32:37Z",
+  "updated": "2026-11-27T04:41:55Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -1905,10 +1905,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "House Seal Ii Hoodie Black DAZMOND & Co. — House Seal Ii. Made to order.",
-      "name_es": "Sudadera House Seal · Negro",
-      "name_en": "House Seal Sweatshirt · Black",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "name_es": "Sudadera con capucha House Seal II",
+      "name_en": "House Seal II Hoodie",
+      "desc_es": "Una silueta esencial definida por líneas limpias y un minimalismo rotundo. Esta prenda encarna la sofisticación contemporánea a través de un diseño depurado. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible con envío mundial.",
+      "desc_en": "An essential silhouette defined by clean lines and uncompromising minimalism. This piece embodies contemporary sophistication through refined design. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
       "price_usd": 46.99,
       "margin_pct": 21.4,
       "shipping_usd": 8.79,
@@ -1931,8 +1931,7 @@
         "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/98425/house-seal-ii-hoodie.jpg?camera_label=back",
         "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/98426/house-seal-ii-hoodie.jpg?camera_label=back-2",
         "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/98432/house-seal-ii-hoodie.jpg?camera_label=folded",
-        "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/100685/house-seal-ii-hoodie.jpg?camera_label=front-collar-closeup",
-        "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/127738/house-seal-ii-hoodie.jpg?camera_label=front-2"
+        "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/100685/house-seal-ii-hoodie.jpg?camera_label=front-collar-closeup"
       ],
       "available": true,
       "price_history": {
@@ -1968,7 +1967,67 @@
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
       "page": true,
-      "ai_fail": 1
+      "ai_fail": 1,
+      "art_score": 8,
+      "art_note": "The flatlay lifestyle presentation elevates the garment with curated styling.",
+      "needs_studio": false,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/98424/house-seal-ii-hoodie.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/98425/house-seal-ii-hoodie.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/98426/house-seal-ii-hoodie.jpg?camera_label=back-2",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/98432/house-seal-ii-hoodie.jpg?camera_label=folded",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/100685/house-seal-ii-hoodie.jpg?camera_label=front-collar-closeup",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/127738/house-seal-ii-hoodie.jpg?camera_label=front-2",
+            "k": "model",
+            "q": "premium"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/127688/house-seal-ii-hoodie.jpg?camera_label=lifestyle-2",
+            "k": "model",
+            "q": "premium"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e755d595d88e0a365f/32920/98427/house-seal-ii-hoodie.jpg?camera_label=person-1",
+            "k": "model",
+            "q": "ok"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "Hoodie",
+      "ai_gender": "unisex",
+      "ai_color": "Black",
+      "ai_cats": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "details_es": "· Hecho a pedido\n· Envío mundial disponible",
+      "details_en": "· Made to order\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printify-6b08d1fb08b8102972074efc",
@@ -2031,10 +2090,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "Signature Logo Hoodie Black DAZMOND & Co. — Signature Logo. Made to order.",
-      "name_es": "Sudadera Signature Logo · Negro",
-      "name_en": "Signature Logo Sweatshirt · Black",
-      "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "name_es": "Sudadera Signature Logo",
+      "name_en": "Signature Logo Hoodie",
+      "desc_es": "Una presencia imponente se define en la oscuridad del negro profundo. Esta sudadera encarna la elegancia moderna con una silueta depurada y el distintivo sello de la casa en contraste. Diseñada para ofrecer confort sin renunciar al rigor estético, se convierte en una pieza esencial de guardarropa. Cada prenda se elabora bajo demanda y cuenta con envío a todo el mundo.",
+      "desc_en": "An imposing presence defined in deep black. This hoodie embodies modern elegance with a refined silhouette and the distinctive house emblem in contrast. Designed to offer comfort without compromising aesthetic rigor, it stands as an essential wardrobe staple. Each piece is made to order with worldwide shipping.",
       "price_usd": 46.99,
       "margin_pct": 21.4,
       "shipping_usd": 8.79,
@@ -2057,8 +2116,7 @@
         "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/98425/signature-logo-hoodie.jpg?camera_label=back",
         "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/98426/signature-logo-hoodie.jpg?camera_label=back-2",
         "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/98432/signature-logo-hoodie.jpg?camera_label=folded",
-        "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/100685/signature-logo-hoodie.jpg?camera_label=front-collar-closeup",
-        "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/127738/signature-logo-hoodie.jpg?camera_label=front-2"
+        "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/100685/signature-logo-hoodie.jpg?camera_label=front-collar-closeup"
       ],
       "available": true,
       "price_history": {
@@ -2094,7 +2152,62 @@
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
       "page": true,
-      "ai_fail": 1
+      "ai_fail": 1,
+      "art_score": 6,
+      "art_note": "Clean studio product shots with a refined aesthetic, though some lifestyle and flat-lay compositions lean toward standard supplier templates.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/98424/signature-logo-hoodie.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/98425/signature-logo-hoodie.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/98426/signature-logo-hoodie.jpg?camera_label=back-2",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/98432/signature-logo-hoodie.jpg?camera_label=folded",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/100685/signature-logo-hoodie.jpg?camera_label=front-collar-closeup",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/127688/signature-logo-hoodie.jpg?camera_label=lifestyle-2",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/98427/signature-logo-hoodie.jpg?camera_label=person-1",
+            "k": "model",
+            "q": "ok"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "Hoodie",
+      "ai_gender": "unisex",
+      "ai_color": "Black",
+      "ai_cats": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "details_es": "· Hecho a medida\n· Envío a todo el mundo",
+      "details_en": "· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printify-6b066740eca3203e09098ed4",
@@ -2708,10 +2821,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "House Seal Ii Crewneck Black DAZMOND & Co. — House Seal Ii. Made to order.",
-      "name_es": "Sudadera House Seal · Negro",
-      "name_en": "House Seal Sweatshirt · Black",
-      "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
-      "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
+      "name_es": "Sudadera House Seal II",
+      "name_en": "House Seal II Crewneck",
+      "desc_es": "Una silueta depurada concebida bajo la rigurosa sobriedad de DAZMOND & Co. Esta sudadera de cuello redondo en tono negro profundo presenta al frente el emblema House Seal II en una tonalidad dorada precisa. De corte equilibrado y presencia serena, fusiona la comodidad informal con la autoridad visual del lujo contemporáneo. Una declaración gráfica sobria para el vestuario moderno. Cada pieza se realiza exclusivamente bajo pedido. Envíos disponibles a todo el mundo.",
+      "desc_en": "A precise silhouette rooted in the deliberate sobriety of DAZMOND & Co. Rendered in deep black, this crewneck sweatshirt showcases the gilded House Seal II insignia centered on the chest. Designed with a balanced profile and effortless composure, it bridges relaxed ease with contemporary luxury authority. A disciplined graphic statement tailored for an enduring presence. Each piece is crafted exclusively made to order. Worldwide shipping available.",
       "price_usd": 45.99,
       "margin_pct": 20.7,
       "shipping_usd": 8.79,
@@ -2732,8 +2845,7 @@
       "display_images": [
         "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/98502/house-seal-ii-crewneck.jpg?camera_label=front",
         "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/98503/house-seal-ii-crewneck.jpg?camera_label=back",
-        "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/100648/house-seal-ii-crewneck.jpg?camera_label=folded",
-        "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/128101/house-seal-ii-crewneck.jpg?camera_label=folded-2"
+        "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/100648/house-seal-ii-crewneck.jpg?camera_label=folded"
       ],
       "available": true,
       "price_history": {
@@ -2768,7 +2880,67 @@
       "stripe_link_id": "plink_1UgDJJLJVU4oTPuXq4WJY1zx",
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "art_score": 5,
+      "art_note": "Clean e-commerce packshots on white, but the lifestyle imagery relies heavily on recognizable, low-tier marketplace mockups.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/98502/house-seal-ii-crewneck.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/98503/house-seal-ii-crewneck.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/100648/house-seal-ii-crewneck.jpg?camera_label=folded",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/128101/house-seal-ii-crewneck.jpg?camera_label=folded-2",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/128102/house-seal-ii-crewneck.jpg?camera_label=lifestyle-2",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/128103/house-seal-ii-crewneck.jpg?camera_label=lifestyle-3",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/98504/house-seal-ii-crewneck.jpg?camera_label=person-1",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b08d1e9edc552ae3508a8f0/25459/98505/house-seal-ii-crewneck.jpg?camera_label=person-2",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "sweatshirt",
+      "ai_gender": "unisex",
+      "ai_color": "black",
+      "ai_cats": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "details_es": "· Emblema gráfico frontal House Seal II\n· Cuello redondo clásico\n· Mangas largas con remates acanalados\n· Fabricación bajo pedido\n· Envío a nivel mundial",
+      "details_en": "· Front House Seal II graphic insignia\n· Classic crew neckline\n· Long sleeves with ribbed trims\n· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printify-6b08d1fe55d595d88e0a3681",
