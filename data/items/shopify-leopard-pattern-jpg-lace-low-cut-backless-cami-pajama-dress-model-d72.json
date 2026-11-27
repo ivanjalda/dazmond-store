@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "leopard print and black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% polyester and lace",
+ "ai_type": "nightgown",
+ "ai_ver": 2,
+ "art_note": "The model imagery relies on standard compositing that lacks true luxury campaign atmosphere, but clean product shots maintain brand standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,13 @@
  "cg": "t-vestido-de-pijama-daz-luxury-de-tirantes-finos-con-escote-pronunciado-y",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential silhouette for evening wear. This night slip combines a bold print with delicate contrasting black lace details. Adjustable straps and stretchy fabric ensure a fluid line. Each creation is crafted on demand to ensure exclusivity.",
+ "desc_es": "Una pieza esencial para el descanso nocturno. Este camisón combina un atrevido estampado con delicados detalles de encaje negro en contraste. Los tirantes ajustables y el tejido elástico aseguran una silueta fluida. Cada creación se confecciona bajo demanda para garantizar exclusividad.",
+ "details_en": "· Crafted from 100% polyester and lace\n· Adjustable straps\n· Stretchy fabric with gathered detail\n· Tie closure\n· Gentle hand or machine wash\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Confeccionado en 100 % poliéster y encaje\n· Tirantes ajustables\n· Tejido elástico con detalle fruncido\n· Cierre con lazo\n· Lavado a mano o a máquina con cuidado suave\n· Hecho a medida bajo demanda\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/8d38cb7837a64de17aa3.jpg",
-  "assets/products/shop/cc623c9fac5dc68890aa.jpg",
-  "assets/products/shop/f0b1858edbe762ec1c0f.jpg",
   "assets/products/shop/ef6c1c78a26303332d8d.jpg",
-  "assets/products/shop/5074505c740ddf3bb7fa.jpg",
-  "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+  "assets/products/shop/5074505c740ddf3bb7fa.jpg"
  ],
  "draft": false,
  "fam": "vestido-pijama-luxury",
@@ -32,6 +42,7 @@
  "name_en": "Lace Trim Sleep Dress",
  "name_es": "Vestido de pijama con encaje",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1649,
@@ -39,8 +50,61 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A) Inches",
+   "Chest Width (B) Inches"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A) Pulgadas",
+   "Ancho de Pecho (B) Pulgadas"
+  ],
+  "notes_en": "Measurements are taken flat. Allow slight variance due to stretch fabric.",
+  "notes_es": "Las medidas se toman en plano. Permita una ligera variación debido al tejido elástico.",
+  "rows": [
+   [
+    "S",
+    "25.59",
+    "32.28"
+   ],
+   [
+    "M",
+    "25.98",
+    "34.25"
+   ],
+   [
+    "L",
+    "26.57",
+    "36.22"
+   ],
+   [
+    "XL",
+    "27.17",
+    "38.19"
+   ],
+   [
+    "2XL",
+    "27.76",
+    "40.16"
+   ],
+   [
+    "3XL",
+    "28.15",
+    "42.13"
+   ],
+   [
+    "4XL",
+    "28.54",
+    "44.09"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+ ],
  "sizes": [
   "S",
   "M",

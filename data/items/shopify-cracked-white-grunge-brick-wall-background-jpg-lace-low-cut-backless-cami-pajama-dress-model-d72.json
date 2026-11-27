@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/batas-pijamas"
+ ],
+ "ai_color": "White and Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% polyester and lace",
+ "ai_type": "pajama dress",
+ "ai_ver": 2,
+ "art_note": "The primary lifestyle shot captures an elevated mood, though supplementary images lean towards standard e-commerce flats.",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,14 @@
  "cg": "t-vestido-de-pijama-daz-luxury-de-tirantes-finos-con-escote-pronunciado-y",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined by a fluid silhouette, this pajama dress combines soft comfort with refined aesthetics. Crafted with attention to detail, it features delicate lace contrasts and adjustable straps for a personalized fit. Each creation is crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Definido por una silueta fluida, este vestido pijama combina una suave comodidad con una estética refinada. Elaborado con atención al detalle, presenta delicados contrastes de encaje y tirantes ajustables para un ajuste personalizado. Cada creación se elabora bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· Crafted from 100% polyester and lace\n· Adjustable straps\n· Tie closure\n· Gentle care: hand or machine wash\n· Made-to-order piece",
+ "details_es": "· Confeccionado en 100 % poliéster y encaje\n· Tirantes ajustables\n· Cierre con lazo\n· Cuidado suave: lavar a mano o a máquina\n· Pieza hecha bajo demanda",
  "display_images": [
   "assets/products/shop/4b066e111b9b03e4cd22.jpg",
-  "assets/products/shop/6a6b089da496940b9338.jpg",
-  "assets/products/shop/636226fa6a1820046c97.jpg",
   "assets/products/shop/3e4cd88475ea19ff285b.jpg",
-  "assets/products/shop/7176a951835d38fa78da.jpg",
-  "assets/products/shop/2c740dc76d808b6b2ed0.jpg",
-  "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+  "assets/products/shop/7176a951835d38fa78da.jpg"
  ],
  "draft": false,
  "fam": "vestido-pijama-luxury",
@@ -33,6 +43,7 @@
  "name_en": "Lace Trim Sleep Dress",
  "name_es": "Vestido de pijama con encaje",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1647,
@@ -40,8 +51,61 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Camisones",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A) Inches",
+   "CHEST WIDTH(B) Inches"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A) Pulgadas",
+   "ANCHO DE PECHO(B) Pulgadas"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se proporcionan en pulgadas.",
+  "rows": [
+   [
+    "S",
+    "25.59",
+    "32.28"
+   ],
+   [
+    "M",
+    "25.98",
+    "34.25"
+   ],
+   [
+    "L",
+    "26.57",
+    "36.22"
+   ],
+   [
+    "XL",
+    "27.17",
+    "38.19"
+   ],
+   [
+    "2XL",
+    "27.76",
+    "40.16"
+   ],
+   [
+    "3XL",
+    "28.15",
+    "42.13"
+   ],
+   [
+    "4XL",
+    "28.54",
+    "44.09"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/4011/info/image/20241201/8ED39A3BE7DA76957DFF5EA4FA424717.png"
+ ],
  "sizes": [
   "S",
   "M",
