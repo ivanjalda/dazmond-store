@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Clear and Wood",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Acrylic and wood",
+ "ai_type": "Decor",
+ "ai_ver": 2,
+ "art_note": "Refined atmospheric styling that aligns with luxury home decor aesthetics.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-luz-nocturna-led-daz-acrilica",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your space with this exclusive illumination piece. Crafted from premium materials, this lamp combines elegant design with high-technology printing. It features a rectangular acrylic plate and a refined wooden base that brings a sophisticated accent to any environment. Each piece is crafted especially for you upon ordering, ensuring absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Eleve su espacio con esta pieza de iluminación exclusiva. Fabricada con materiales de primera calidad, esta lámpara combina un diseño elegante con una impresión de alta tecnología. Cuenta con una placa acrílica rectangular y un soporte de madera refinado que aporta un acento sofisticado a cualquier ambiente. Cada pieza se elabora especialmente para usted tras la realización del pedido, asegurando una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· High-quality 5 mm thick acrylic plate\n· Wooden base support\n· Dimensions: 11.5 x 18.9 cm\n· USB connection with adapter not included\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Placa de acrílico de alta calidad de 5 mm de grosor\n· Soporte de base de madera\n· Dimensiones: 11,5 x 18,9 cm\n· Conexión USB con adaptador no incluido\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/ed3dc1b4d3aa63cb2934.jpg",
   "assets/products/shop/5782214c2a48d1f50832.jpg",
@@ -23,9 +37,10 @@
   "printify-6b08d1dfedc552ae3508a8e1"
  ],
  "material": "",
- "name_en": "Luz Nocturna Led Lamp",
- "name_es": "Lámpara Luz Nocturna Led",
+ "name_en": "DAZ Decorative LED Lamp",
+ "name_es": "Lámpara LED Decorativa DAZ",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 36.99,
  "rank": 1656,
