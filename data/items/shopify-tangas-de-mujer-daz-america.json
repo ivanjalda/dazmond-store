@@ -1,4 +1,13 @@
 {
+ "ai_color": "multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "97% poliéster, 3% spandex",
+ "ai_type": "tanga",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but lifestyle images feature standard print-on-demand flat compositing.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +16,13 @@
  "cg": "t-dazmond-america-tanga-de-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An intimate piece designed to express identity and style without sacrificing comfort. This silhouette stands out with its striking all-over print inspired by the American flag, combining a navy blue background with stars and undulating stripes that bring movement. Equipped with a comfortable elastic waistband and contrasting binding, the garment is finished with the emblematic monogram on the front. Crafted on demand in limited units with worldwide shipping.",
+ "desc_es": "Una pieza íntima concebida para expresar identidad y estilo sin sacrificar el confort. Esta silueta destaca por su llamativo estampado integral inspirado en la bandera estadounidense, combinando un fondo azul marino con estrellas y franjas ondulantes que aportan movimiento. Equipada con una confortable cinturilla elástica y ribetes en contraste, la prenda se completa con el monograma emblemático en el frontal. Fabricada bajo demanda en unidades limitadas con envío a todo el mundo.",
+ "details_en": "· Composition: 97% polyester, 3% spandex\n· Fabric weight: 180 g/m² (5.3 oz/yd²)\n· Antimicrobial and breathable fabric\n· Elastic waistband and black binding\n· DAZ seal on the upper front\n· Made-to-order assembly in the US",
+ "details_es": "· Composición: 97% poliéster, 3% spandex\n· Peso de la tela: 180 g/m² (5,3 oz/yd²)\n· Tejido antimicrobiano y transpirable\n· Cinturilla elástica y ribetes negros\n· Sello DAZ en el frontal superior\n· Ensamblaje bajo demanda en EE. UU.",
  "display_images": [
   "assets/products/shop/2ab08f8954631dc91d92.jpg",
-  "assets/products/shop/6e91700524c51cb5d2d2.jpg",
-  "assets/products/shop/a6d40c9008c0f7166d11.jpg",
-  "assets/products/shop/e340016aa2043caeec45.jpg",
-  "assets/products/shop/a749a3832796b877e17a.jpg"
+  "assets/products/shop/6e91700524c51cb5d2d2.jpg"
  ],
  "draft": false,
  "fam": "america-tanga-mujer",
@@ -28,9 +36,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "América Tanga Underwear",
- "name_es": "Ropa Interior América Tanga",
+ "name_en": "America Flag Print Thong",
+ "name_es": "Tanga Estampada Bandera América",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
  "rank": 1629,

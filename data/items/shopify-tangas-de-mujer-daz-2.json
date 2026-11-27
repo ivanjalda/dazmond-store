@@ -1,4 +1,13 @@
 {
+ "ai_color": "Gris claro pastel",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "97% Poliéster, 3% Spandex",
+ "ai_type": "Tanga",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce mockups with flat-looking model shots.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +16,13 @@
  "cg": "t-dazmond-sweet-dreams-moon-tanga-de-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An intimate and delicate piece designed to provide a sense of maximum comfort. This thong features an all-over print on a pastel light grey background, contrasted with deep black details. The technical fabric offers softness and just the right amount of stretch to adapt naturally throughout the day. Each piece is crafted on demand in the United States.",
+ "desc_es": "Una propuesta íntima y delicada, diseñada para brindar una sensación de máximo confort. Esta tanga luce un tierno estampado integral sobre un fondo gris claro pastel, con detalles contrastantes en negro profundo. El tejido técnico ofrece suavidad y la elasticidad justa para adaptarse con naturalidad durante todo el día. Cada pieza se confecciona bajo demanda en los Estados Unidos.",
+ "details_en": "· 97% Polyester, 3% Spandex\n· Fabric weight: 180 g/m² (5.3 oz/yd²)\n· Breathable and antimicrobial fabric\n· Regular fit thong silhouette\n· Made to order in the USA",
+ "details_es": "· 97% Poliéster, 3% Spandex\n· Peso de la tela: 180 g/m² (5,3 oz/yd²)\n· Tejido transpirable y antimicrobiano\n· Silueta tanga de ajuste regular\n· Elaborado bajo demanda en EE. UU.",
  "display_images": [
   "assets/products/shop/69abb2fed763d73c9f5c.jpg",
-  "assets/products/shop/b948a4b50ac39f1b42c9.jpg",
-  "assets/products/shop/2b1b113b02c399986294.jpg",
-  "assets/products/shop/0c00b1b4429da211ab44.jpg",
-  "assets/products/shop/532f4af608ed949ffded.jpg"
+  "assets/products/shop/b948a4b50ac39f1b42c9.jpg"
  ],
  "draft": false,
  "fam": "sweet-dreams-moon",
@@ -28,9 +36,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Sweet Dreams Moon Underwear",
- "name_es": "Ropa Interior Sweet Dreams Moon",
+ "name_en": "Sweet Dreams Moon Thong",
+ "name_es": "Tanga Sweet Dreams Moon",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
  "rank": 1628,

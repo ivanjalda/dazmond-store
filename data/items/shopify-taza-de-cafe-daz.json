@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Ceramic",
+ "ai_sizes": "11 oz",
+ "ai_type": "Mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and sophisticated composition elevate the ceramic piece to luxury standards.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +20,17 @@
  "cg": "t-taza-de-cafe-daz",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of contemporary design for home and office environments. This white ceramic piece combines clean lines with an elevated finish. The smooth body and ergonomic handle provide a comfortable grip. Every detail brings sophistication to daily routines. Available through made-to-order production with worldwide shipping.",
+ "desc_es": "Una expresión depurada de diseño contemporáneo para el hogar y la oficina. Esta pieza de cerámica blanca combina líneas puras con un acabado refinado. El cuerpo suave y el asa ergonómica ofrecen una sujeción cómoda. Cada detalle aporta sofisticación a los momentos cotidianos. Disponible mediante producción bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Sturdy and durable ceramic\n· 11 oz capacity\n· Custom pattern design on body\n· Hand wash only\n· Not dishwasher or microwave safe",
+ "details_es": "· Cerámica resistente y duradera\n· Capacidad de 11 oz\n· Diseño estampado en el cuerpo\n· Lavar a mano únicamente\n· No apto para lavavajillas ni microondas",
  "display_images": [
   "assets/products/shop/c964ec9fdfc8284951a0.jpg",
   "assets/products/shop/3206c8809eb683ab1f07.jpg",
   "assets/products/shop/8dc03420409f7234c22b.jpg",
   "assets/products/shop/b2c4a94b0c23fb7df736.jpg",
   "assets/products/shop/b43c5169785ae332b84b.jpg",
-  "assets/products/shop/bc941e628378e906fd4a.jpg",
-  "assets/products/shop/c35504ef1d9729761a44.jpg"
+  "assets/products/shop/bc941e628378e906fd4a.jpg"
  ],
  "draft": false,
  "fam": "taza-cafe",
@@ -27,9 +41,10 @@
   "printify-6b08d1dfedc552ae3508a8e1"
  ],
  "material": "",
- "name_en": "Taza Café Daz Mug",
- "name_es": "Taza Taza Café Daz",
+ "name_en": "DAZ Ceramic Mug",
+ "name_es": "Taza de Cerámica DAZ",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 28.99,
  "rank": 1631,
@@ -37,9 +52,34 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Utensilios de mesa > Cristalería > Pocillos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Capacity",
+   "Height",
+   "Diameter"
+  ],
+  "headers_es": [
+   "Capacidad",
+   "Altura",
+   "Diámetro"
+  ],
+  "notes_en": "Made to order. Worldwide shipping available.",
+  "notes_es": "Hecho a pedido. Envío mundial disponible.",
+  "rows": [
+   [
+    "11 oz",
+    "9.5 cm / 3.7 in",
+    "8 cm / 3.1 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/c35504ef1d9729761a44.jpg"
+ ],
+ "sizes": [
+  "11 oz"
+ ],
  "source_title": "Taza de café DAZ",
  "stripe_payment_link": "https://buy.stripe.com/dRm9AU736cKUaiGfT01gQ1m",
  "supplier": "Shopify",

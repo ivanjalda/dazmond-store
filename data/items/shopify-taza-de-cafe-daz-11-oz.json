@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_material": "ceramic",
+ "ai_sizes": "11 oz",
+ "ai_type": "mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with professional lighting, though lifestyle and composite images vary in luxury execution.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,15 @@
  "cg": "t-taza-de-cafe-daz-oz",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your daily ritual with this high-quality black coffee mug. Crafted from premium ceramic, it unites refined aesthetics with absolute functionality. The ergonomic structure features an easy-grip black handle for a comfortable experience with every sip. With an 11 oz capacity, it accommodates both hot and cold beverages with ease. An essential and sophisticated addition to home or office spaces. Made to order. Worldwide shipping available.",
+ "desc_es": "Eleve su ritual diario con esta taza de café negra de alta calidad. Diseñada en cerámica de primera calidad, combina una estética refinada con una funcionalidad absoluta. Su estructura ergonómica cuenta con un asa negra de fácil agarre para una experiencia cómoda en cada sorbo. Con una capacidad de 11 oz, se adapta perfectamente tanto a bebidas frías como calientes. Una pieza esencial y sofisticada para el hogar o la oficina. Hecho a pedido. Envío mundial disponible.",
+ "details_en": "· High-quality ceramic\n· 11 oz capacity\n· Ergonomic design with black handle\n· Suitable for hot and cold beverages\n· Hand wash only\n· Not dishwasher or microwave safe\n· Made to order",
+ "details_es": "· Cerámica de alta calidad\n· Capacidad de 11 oz\n· Diseño ergonómico con asa negra\n· Apta para bebidas frías y calientes\n· Lavar a mano únicamente\n· No apta para lavavajillas ni microondas\n· Hecho a pedido",
  "display_images": [
   "assets/products/shop/8ac8ea86b242913789d7.jpg",
   "assets/products/shop/78ad923ef3e586ea0697.jpg",
   "assets/products/shop/afa6c978e7698fb56b3d.jpg",
-  "assets/products/shop/3148ee5a420805a71d7d.jpg",
-  "assets/products/shop/19f8b2e33104e22c89a0.jpg",
-  "assets/products/shop/c79eabb9a1ed9dbcbf2e.jpg"
+  "assets/products/shop/3148ee5a420805a71d7d.jpg"
  ],
  "draft": false,
  "fam": "taza-cafe-oz",
@@ -26,9 +38,10 @@
   "printify-6b08d1dfedc552ae3508a8e1"
  ],
  "material": "",
- "name_en": "Taza Café Daz Mug",
- "name_es": "Taza Taza Café Daz",
+ "name_en": "DAZ Ceramic Mug",
+ "name_es": "Taza de cerámica DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1632,
@@ -36,9 +49,34 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Utensilios de mesa > Cristalería > Pocillos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Capacity",
+   "Height",
+   "Diameter"
+  ],
+  "headers_es": [
+   "Capacidad",
+   "Altura",
+   "Diámetro"
+  ],
+  "notes_en": "Standard measurements for the 11 oz mug.",
+  "notes_es": "Medidas estándar para la taza de 11 oz.",
+  "rows": [
+   [
+    "11 oz",
+    "9.5 cm / 3.7 in",
+    "8 cm / 3.1 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/c79eabb9a1ed9dbcbf2e.jpg"
+ ],
+ "sizes": [
+  "11 oz"
+ ],
  "source_title": "Taza de café DAZ (11 oz)",
  "stripe_payment_link": "https://buy.stripe.com/cNi7sMfzC26g1Ma36e1gQ1n",
  "supplier": "Shopify",
