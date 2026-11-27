@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T00:42:40Z",
+  "updated": "2026-11-27T01:41:56Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -1717,7 +1717,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "D Monogram Hoodie Black DAZMOND & Co. — D Monogram. Made to order.",
+      "source_text": "D Monogram Hoodie Hoodie Black DAZMOND & Co. — D Monogram. Made to order.",
       "name_es": "Sudadera D Monogram",
       "name_en": "D Monogram Hoodie",
       "desc_es": "Una silueta esencial definida por una presencia sobria y un acabado impecable. Esta pieza de lujo discreto se presenta en un tono negro profundo, realzada con el distintivo motivo D Monogram. Diseñada para ofrecer una comodidad absoluta sin renunciar a la sofisticación urbana. Cada prenda se elabora exclusivamente bajo pedido en los Estados Unidos, garantizando una exclusividad absoluta. Disponible con envío a todo el mundo para el guardarropa contemporáneo.",
@@ -1732,7 +1732,9 @@
         "https://images-api.printify.com/mockup/6b08d1d6c87e8df47b094892/32920/98426/d-monogram-hoodie.jpg?camera_label=back-2",
         "https://images-api.printify.com/mockup/6b08d1d6c87e8df47b094892/32920/98432/d-monogram-hoodie.jpg?camera_label=folded",
         "https://images-api.printify.com/mockup/6b08d1d6c87e8df47b094892/32920/100685/d-monogram-hoodie.jpg?camera_label=front-collar-closeup",
-        "https://images-api.printify.com/mockup/6b08d1d6c87e8df47b094892/32920/127738/d-monogram-hoodie.jpg?camera_label=front-2"
+        "https://images-api.printify.com/mockup/6b08d1d6c87e8df47b094892/32920/127738/d-monogram-hoodie.jpg?camera_label=front-2",
+        "https://images-api.printify.com/mockup/6b08d1d6c87e8df47b094892/32920/127688/d-monogram-hoodie.jpg?camera_label=lifestyle-2",
+        "https://images-api.printify.com/mockup/6b08d1d6c87e8df47b094892/32920/98427/d-monogram-hoodie.jpg?camera_label=person-1"
       ],
       "images_model": [
         "https://images-api.printify.com/mockup/6b08d1d6c87e8df47b094892/32920/127688/d-monogram-hoodie.jpg?camera_label=lifestyle-2",
@@ -1839,7 +1841,8 @@
       "stripe_link_id": "plink_1UgDJFLJVU4oTPuX91zb0CSE",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b08d1e755d595d88e0a365f",
@@ -137412,7 +137415,7 @@
       "stripe_link_id": "plink_1UepCdLJVU4oTPuXcaHER8FD",
       "stripe_price_cents": 2299,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -137599,7 +137602,7 @@
       "stripe_link_id": "plink_1UepCeLJVU4oTPuXYrLebRew",
       "stripe_price_cents": 2299,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -137786,7 +137789,7 @@
       "stripe_link_id": "plink_1UepCfLJVU4oTPuXmmNR9LOn",
       "stripe_price_cents": 2299,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -137973,7 +137976,7 @@
       "stripe_link_id": "plink_1UepCgLJVU4oTPuXcAlZaXlB",
       "stripe_price_cents": 2299,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -138165,7 +138168,7 @@
       "stripe_link_id": "plink_1UepChLJVU4oTPuXsgINNkC0",
       "stripe_price_cents": 2299,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "cg": "t-sombrero-de-pescador-daz-premium-unisex-de-moda",
       "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
       "ai_priority": true,
@@ -138370,7 +138373,7 @@
       "stripe_link_id": "plink_1UepChLJVU4oTPuXyjZaTnMk",
       "stripe_price_cents": 2299,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "cg": "t-sombrero-de-pescador-daz-premium-unisex-de-moda",
       "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
       "ai_priority": true,
@@ -138575,7 +138578,7 @@
       "stripe_link_id": "plink_1UepCiLJVU4oTPuXI9Rji5JU",
       "stripe_price_cents": 2299,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "cg": "t-sombrero-de-pescador-daz-premium-unisex-de-moda",
       "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
       "ai_priority": true,
@@ -138780,7 +138783,7 @@
       "stripe_link_id": "plink_1UepCjLJVU4oTPuXxyr9vgFJ",
       "stripe_price_cents": 2299,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "cg": "t-sombrero-de-pescador-daz-premium-unisex-de-moda",
       "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
       "ai_priority": true,
@@ -138985,7 +138988,7 @@
       "stripe_link_id": "plink_1UepCkLJVU4oTPuXm9hyOgyi",
       "stripe_price_cents": 2299,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "cg": "t-sombrero-de-pescador-daz-premium-unisex-de-moda",
       "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
       "ai_priority": true,
@@ -139190,7 +139193,7 @@
       "stripe_link_id": "plink_1UepClLJVU4oTPuXHjTahKbv",
       "stripe_price_cents": 2299,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "cg": "t-sombrero-de-pescador-daz-premium-unisex-de-moda",
       "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sombreros",
       "ai_priority": true,
@@ -139418,7 +139421,7 @@
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "fam": "top-corto-premium",
       "stripe_product_id": "prod_VefT0EaVnUNmD6",
       "size_values": {
@@ -139642,7 +139645,7 @@
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "fam": "top-corto-premium",
       "stripe_product_id": "prod_VefTfnggDAoHYj",
       "size_values": {
@@ -151776,7 +151779,7 @@
       "stripe_link_id": "plink_1UepDKLJVU4oTPuXLxsdzk56",
       "stripe_price_cents": 2199,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -151962,7 +151965,7 @@
       "stripe_link_id": "plink_1UepDLLJVU4oTPuXJv6aeViI",
       "stripe_price_cents": 2199,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -152148,7 +152151,7 @@
       "stripe_link_id": "plink_1UepDLLJVU4oTPuXVZMF3Eo6",
       "stripe_price_cents": 2199,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -152334,7 +152337,7 @@
       "stripe_link_id": "plink_1UepDMLJVU4oTPuXxKIGSOb9",
       "stripe_price_cents": 2199,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -152520,7 +152523,7 @@
       "stripe_link_id": "plink_1UepDNLJVU4oTPuXcQf3wmaW",
       "stripe_price_cents": 2199,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 2,
       "ai_images": {
         "keep": [
@@ -152711,7 +152714,7 @@
       "stripe_link_id": "plink_1UepDOLJVU4oTPuXu72sJ1PH",
       "stripe_price_cents": 2199,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -154738,7 +154741,7 @@
       "stripe_link_id": "plink_1UepDSLJVU4oTPuX8vXqE6qk",
       "stripe_price_cents": 2399,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 1,
       "ai_images": {
         "keep": [
@@ -154908,7 +154911,7 @@
       "stripe_link_id": "plink_1UepDTLJVU4oTPuXLUW5hCN5",
       "stripe_price_cents": 2399,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 1,
       "ai_images": {
         "keep": [
@@ -159069,7 +159072,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "zapatos-acuaticos-premium",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 2,
       "ai_images": {
         "keep": [
@@ -159253,7 +159256,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "zapatos-acuaticos-premium",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 1,
       "ai_images": {
         "keep": [
@@ -159437,7 +159440,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "zapatos-acuaticos-premium",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -162225,7 +162228,7 @@
       "stripe_link_id": "plink_1UepDuLJVU4oTPuX5AIXz5Pe",
       "stripe_price_cents": 2399,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 1,
       "ai_images": {
         "keep": [
@@ -162399,7 +162402,7 @@
       "stripe_link_id": "plink_1UepDvLJVU4oTPuX4TIx2dSB",
       "stripe_price_cents": 2399,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 1,
       "ai_images": {
         "keep": [
@@ -162573,7 +162576,7 @@
       "stripe_link_id": "plink_1UepDwLJVU4oTPuXtoOhgQij",
       "stripe_price_cents": 2399,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 1,
       "ai_images": {
         "keep": [
@@ -162768,7 +162771,7 @@
       "stripe_link_id": "plink_1UepDxLJVU4oTPuX5AqZF1rT",
       "stripe_price_cents": 2399,
       "stripe_site": "https://dazmond.com",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 1,
       "ai_images": {
         "keep": [
@@ -163081,7 +163084,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "polo-premium-algodon",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 1,
       "ai_images": {
         "keep": [
@@ -163257,7 +163260,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "polo-premium-algodon",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_fail": 1,
       "ai_images": {
         "keep": [
@@ -163433,7 +163436,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "polo-premium-algodon",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -163608,7 +163611,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "polo-premium-algodon",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -163783,7 +163786,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "polo-premium-algodon",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -180378,7 +180381,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "bolso-bandolera",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -180569,7 +180572,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "bolso-bandolera",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -180760,7 +180763,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "bolso-bandolera",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -180951,7 +180954,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "bolso-bandolera",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -181597,7 +181600,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "sudadera-premium-capucha",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -181822,7 +181825,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "sudadera-premium-capucha",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -182047,7 +182050,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "sudadera-premium-capucha",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
@@ -182272,7 +182275,7 @@
       "shipping_worst_usd": 12.8,
       "ai_priority": true,
       "fam": "sudadera-premium-capucha",
-      "img_checked": "2026-11-19",
+      "img_checked": "2026-11-27",
       "ai_images": {
         "keep": [
           {
