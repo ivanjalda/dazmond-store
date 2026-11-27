@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Algodón de fibra larga",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain background, standard e-commerce standard.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,11 @@
  "cg": "t-the-dazmond-stealth",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The Stealth 150 redefines the essential t-shirt through precise, modern construction. Crafted from long-staple cotton, it offers exceptional lightness without compromising durability. Its slim cut sculpts the silhouette with elegance, delivering an impeccable presence in both formal and casual settings. This piece represents the perfect balance between daily comfort and technical sophistication, designed to endure in the contemporary wardrobe.",
+ "desc_es": "La Stealth 150 redefine el concepto de la camiseta esencial mediante una construcción precisa y moderna. Confeccionada con algodón de fibra larga, ofrece una ligereza excepcional sin comprometer la resistencia. Su corte slim esculpe la silueta con elegancia, proporcionando una presencia impecable tanto en contextos formales como informales. Esta prenda representa el equilibrio perfecto entre comodidad diaria y sofisticación técnica, diseñada para perdurar en el guardarropa contemporáneo.",
+ "details_en": "· Long-staple cotton\n· Slim fit\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Algodón de fibra larga\n· Corte slim fit\n· Hecho a medida\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/46640562cceaa74fbbaa.jpg",
-  "assets/products/shop/46640562cceaa74fbbaa.jpg",
-  "assets/products/shop/46640562cceaa74fbbaa.jpg",
-  "assets/products/shop/46640562cceaa74fbbaa.jpg",
-  "assets/products/shop/46640562cceaa74fbbaa.jpg",
   "assets/products/shop/46640562cceaa74fbbaa.jpg",
   "assets/products/shop/3fec53691949a52b7744.jpg",
   "assets/products/shop/d08d2bd3f10af7a5b71a.jpg",
@@ -34,9 +43,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Stealth Tee · Negro",
- "name_es": "Camiseta Stealth · Negro",
+ "name_en": "Stealth 150 T-Shirt · Negro",
+ "name_es": "Camiseta Stealth 150 · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1618,

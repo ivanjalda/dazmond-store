@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Negro y Rojo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Tejido técnico con tacto de algodón",
+ "ai_type": "Vestido Mini",
+ "ai_ver": 2,
+ "art_note": "Strong atmospheric campaign imagery with sophisticated lighting, though some images show slight digital compositing traits.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-mini-dazmond-long-sleeve-v-neck-ruffle-crimson-nebula",
  "color": "Negro y Rojo",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Crimson Nebula mini dress fuses a deep dark base with an impactful crimson red abstract burst. The design features a V-neckline, long sleeves, and a ruffled hem finish. The signature monogram subtly contrasts on the chest. A sophisticated and enigmatic proposition designed for evening wear. Crafted to offer fluid drape and a soft touch.",
+ "desc_es": "El vestido mini Crimson Nebula fusiona una base oscura con una ráfaga abstracta en rojo carmesí. Su diseño presenta un escote en V, manga larga y un remate con volante en el bajo. El monograma distintivo de la firma contrasta con sutileza sobre el pecho. Una propuesta sofisticada y enigmática diseñada para la noche. Confeccionado para ofrecer una caída fluida y un tacto suave.",
+ "details_en": "· Soft cotton-feel technical fabric\n· V-neckline and long sleeves\n· Ruffled hem finish\n· Signature monogram on the chest\n· Made-to-order piece, available with worldwide shipping",
+ "details_es": "· Tejido técnico suave con tacto de algodón\n· Escote en V y manga larga\n· Remate con volante en el bajo\n· Monograma de la firma en el pecho\n· Made-to-order piece, available with worldwide shipping",
  "display_images": [
   "assets/products/shop/190b379ca85e4cb46bcd.jpg",
   "assets/products/shop/a12d80fa3567bd1881dc.jpg",
@@ -28,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Ruffle Crimson Nebula Dress",
- "name_es": "Vestido Ruffle Crimson Nebula",
+ "name_en": "Crimson Nebula Mini Dress",
+ "name_es": "Vestido Mini Crimson Nebula",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 23.99,
  "rank": 1413,

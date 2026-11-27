@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "97% Polyester, 3% Spandex",
+ "ai_type": "Underwear",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography, though model shots rely on standard digital compositing.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,11 +19,11 @@
  "cg": "t-dazmond-art-cosmic-nebula",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An intimate garment conceived as an authentic piece of abstract art. The design features a vibrant all-over print evoking cosmic nebulae in a chromatic explosion. Its regular fit silhouette is completed with a soft elastic waistband for comfortable support. Crafted on demand in limited units.",
+ "desc_es": "Una prenda íntima concebida como una auténtica obra de arte abstracto. El diseño presenta un vibrante estampado integral que evoca nebulosas cósmicas en una explosión cromática. Su silueta de ajuste regular se completa con una suave cinturilla elástica para un soporte cómodo. Fabricada bajo demanda en unidades limitadas.",
+ "details_en": "· Composition: 97% polyester, 3% spandex\n· Fabric weight: 180 g/m²\n· 4-way multidirectional stretch\n· Breathable and antimicrobial fabric\n· Soft plush elastic waistband\n· Made to order in the USA\n· Worldwide shipping available",
+ "details_es": "· Composición: 97% poliéster, 3% spandex\n· Peso de la tela: 180 g/m²\n· Elasticidad multidireccional en 4 vías\n· Tejido transpirable y antimicrobiano\n· Cinturilla elástica de felpa suave\n· Fabricado bajo demanda en EE. UU.\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/99fba184c6adae437de2.jpg",
-  "assets/products/shop/42e36bb4c0610494c8ba.jpg",
   "assets/products/shop/6ae3ae56dc672821aa36.jpg",
   "assets/products/shop/73180da6fad97e1c351c.jpg",
   "assets/products/shop/f2e3af41a92f29ea531b.jpg"
@@ -28,9 +40,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Art Cosmic Nebula Underwear",
- "name_es": "Ropa Interior Art Cosmic Nebula",
+ "name_en": "Cosmic Nebula Brief",
+ "name_es": "Braguita Cosmic Nebula",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
  "rank": 1625,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/falda"
+ ],
+ "ai_color": "White and Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_sizes": "One Size",
+ "ai_type": "Skirt",
+ "ai_ver": 2,
+ "art_note": "The lifestyle shots appear composited, reducing the overall luxury aesthetic.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-falda-larga-tipo-pareo-daz-premium-con-volantes-y-lazos-laterales-para",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential piece for the summer season. This wrap-style skirt presents a fluid design with an all-over botanical-inspired print. The asymmetrical hem brings movement and lightness to the silhouette. It features an adjustable side tie closure ensuring optimal adaptability. Crafted with attention to detail to accompany moments of relaxation by the sea. Available made to order with worldwide shipping.",
+ "desc_es": "Una pieza esencial para la temporada estival. Esta falda tipo pareo presenta un diseño fluido con un estampado integral de inspiración botánica. El dobladillo asimétrico aporta movimiento y ligereza a la silueta. Cuenta con un cierre lateral de lazo ajustable que asegura una adaptabilidad óptima. Confeccionada con atención al detalle para acompañar momentos de descanso junto al mar. Disponible bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Waist tie closure\n· Fluid asymmetrical hem\n· Machine wash cold with neutral detergent\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Cierre de lazo en la cintura\n· Dobladillo asimétrico fluido\n· Lavado a máquina con agua fría y detergente neutro\n· Pieza confeccionada bajo demanda con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/9192662bf52379ba31a1.jpg",
-  "assets/products/shop/2d9fea2f32c3269d2f33.jpg",
-  "assets/products/shop/d05e8c69feda35428b33.jpg",
-  "assets/products/shop/ed5044b6f81ea938f238.jpg",
-  "assets/products/shop/d3a158c379ae7e9287a2.jpg"
+  "assets/products/shop/2d9fea2f32c3269d2f33.jpg"
  ],
  "draft": false,
  "fam": "falda-larga-tipo",
@@ -28,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Larga Tipo Pareo Skirt",
- "name_es": "Falda Larga Tipo Pareo",
+ "name_en": "Tulip Print Sarong Skirt",
+ "name_es": "Falda Pareo Estampada Tulipanes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1445,
@@ -38,9 +50,34 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Trajes de baño de una pieza",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud",
+   "Cintura"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "cm(inch)",
+    "77cm(30.3\")",
+    "45cm(17.7\")"
+   ]
+  ],
+  "unit": "cm (inch)"
+ },
+ "size_guide": [
+  "assets/products/shop/d3a158c379ae7e9287a2.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Falda larga tipo pareo DAZ Premium con volantes y lazos laterales para playa de mujer",
  "stripe_payment_link": "https://buy.stripe.com/dRm14ogDG12c62q0Y61gP2x",
  "supplier": "Shopify",

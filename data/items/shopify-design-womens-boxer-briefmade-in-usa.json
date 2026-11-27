@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "82 % nailon + 18 % elastano",
+ "ai_type": "Panty moldeador",
+ "ai_ver": 2,
+ "art_note": "The rooftop lifestyle campaign shot elevates the collection, balancing high fashion editorial with urban luxury.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,12 @@
  "cg": "t-bragas-boxer-dazmond",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Refined silhouettes defined by timeless elegance. Tailored from a high-grade nylon blend offering exceptional stretch and enduring resilience for daily wear. Every piece is crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Siluetas depuradas definidas por una elegancia atemporal. Confeccionadas con una mezcla técnica de nailon de alta calidad que ofrece una elasticidad excepcional y una resistencia duradera al uso diario. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponibles con envío internacional.",
+ "details_en": "· 82% nylon, 18% spandex\n· Black colorway\n· Hand or machine wash at max 45 °C\n· Do not bleach\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· 82 % nailon, 18 % elastano\n· Color negro\n· Lavar a mano o a máquina con temperatura máxima de 45 °C\n· No usar lejía\n· Pieza confeccionada bajo demanda\n· Envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/d45042f90feb228719a9.jpg",
-  "assets/products/shop/e842cea3b05b0a8e425a.jpg",
-  "assets/products/shop/211f51371eb61b9d80be.jpg",
-  "assets/products/shop/3e6b61300a2627c0a636.jpg",
-  "assets/products/shop/0fc39318a87ce993061d.jpg",
-  "assets/products/shop/4c96db6783cdfd59a6ec.jpg",
-  "http://ipimg.interestprint.com/data/product/4439/info/image/20250806/1FB86CEFF4B387618F748E3D0A6C0D77.jpg"
+  "assets/products/shop/e842cea3b05b0a8e425a.jpg"
  ],
  "draft": false,
  "fam": "bragas-boxer",
@@ -30,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Bragas Bóxer Underwear · Negro",
- "name_es": "Ropa Interior Bragas Bóxer · Negro",
+ "name_en": "Black Sculptural Boxer Briefs · Negro",
+ "name_es": "Bragas Bóxer Esculturales Negras · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1543,
@@ -40,8 +49,66 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Lencería > Calzones para mujeres > Panty moldeador",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Waist",
+   "1/2 Hip",
+   "Inseam"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Cintura",
+   "1/2 Cadera",
+   "Tiro"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Por favor revise y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "26cm / 10.2in",
+    "34cm / 13.4in",
+    "39.5cm / 15.6in",
+    "6cm / 2.4in"
+   ],
+   [
+    "M",
+    "27cm / 10.6in",
+    "36.5cm / 14.4in",
+    "41.5cm / 16.3in",
+    "6.25cm / 2.5in"
+   ],
+   [
+    "L",
+    "28cm / 11in",
+    "39cm / 15.4in",
+    "43.5cm / 17.1in",
+    "6.5cm / 2.6in"
+   ],
+   [
+    "XL",
+    "29cm / 11.4in",
+    "41.5cm / 16.3in",
+    "47.5cm / 18.7in",
+    "6.75cm / 2.7in"
+   ],
+   [
+    "2XL",
+    "30cm / 11.8in",
+    "44cm / 17.3in",
+    "51.3cm / 20.2in",
+    "7cm / 2.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/4c96db6783cdfd59a6ec.jpg",
+  "http://ipimg.interestprint.com/data/product/4439/info/image/20250806/1FB86CEFF4B387618F748E3D0A6C0D77.jpg"
+ ],
  "sizes": [
   "S",
   "M",

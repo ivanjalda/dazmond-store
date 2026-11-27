@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Black / Blue Floral",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PU Leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Crossbody Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain background, maintaining a professional e-commerce standard.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-bolso-bandolera-daz-luxury-con-cadena-de-pu-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your daily style with this sophisticated PU leather crossbody bag, designed with a refined all-over rose print. Crafted from high-quality materials ensuring durability and elegance. Featuring multiple interior compartments, a practical zippered pocket, and adjustable straps offering versatile carrying options. The front flap closure adds security and distinction to a rectangular base silhouette designed for everyday wear.",
+ "desc_es": "Eleve su estilo cotidiano con este sofisticado bolso bandolera de cuero sintético, diseñado con un refinado estampado integral de rosas. Elaborado con materiales de alta calidad que aseguran durabilidad y presencia elegante. Cuenta con múltiples compartimentos interiores, un práctico bolsillo con cierre y correas ajustables que ofrecen versatilidad en el transporte. El cierre de solapa frontal aporta seguridad y distinción a una silueta de base rectangular pensada para el uso diario.",
+ "details_en": "· High-quality PU leather\n· Adjustable shoulder and underarm straps\n· Multiple interior compartments and zippered pocket\n· Flap closure with front ring\n· Structured rectangular base\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Cuero sintético de PU de alta calidad\n· Correas ajustables para hombro y axila\n· Múltiples compartimentos interiores y bolsillo con cierre\n· Cierre de solapa con anillo frontal\n· Base rectangular estructurada\n· Hecho a medida bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/2ffb85f4fc3a6651ee55.jpg",
   "assets/products/shop/e282a47ddff7f3db4845.jpg",
@@ -17,8 +32,6 @@
   "assets/products/shop/d141cf27dfd9c3c533b1.jpg",
   "assets/products/shop/4b3b0f9425e4395e4d14.jpg",
   "assets/products/shop/bbe24eec7e09058daeb0.jpg",
-  "assets/products/shop/c742baa94c0fb7dfcec2.jpg",
-  "assets/products/shop/0b9c2c079fb175d91f41.jpg",
   "assets/products/shop/73fefb380f0113d05274.jpg"
  ],
  "draft": false,
@@ -33,9 +46,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Bolso Bandolera Daz Bag",
- "name_es": "Bolso Bolso Bandolera Daz",
+ "name_en": "DAZ Tulip Crossbody Bag",
+ "name_es": "Bolso Bandolera Tulipán DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1470,
@@ -43,9 +57,43 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Cámaras y ópticas > Accesorios ópticos y de cámara > Accesorios para lentes ópticas > Maletines y bolsos para lentes ópticas > Fundas para accesorios",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Dimension",
+   "Size"
+  ],
+  "headers_es": [
+   "Dimensión",
+   "Medida"
+  ],
+  "notes_en": "Made to order pieces. Worldwide shipping available.",
+  "notes_es": "Piezas bajo demanda. Envío a todo el mundo disponible.",
+  "rows": [
+   [
+    "Width",
+    "25.5 cm / 10 in"
+   ],
+   [
+    "Height",
+    "15 cm / 5.9 in"
+   ],
+   [
+    "Depth / Base",
+    "10.5 cm / 4.1 in"
+   ],
+   [
+    "Strap Drop Length",
+    "58 cm / 22.8 in"
+   ]
+  ],
+  "unit": "cm / inch"
+ },
+ "size_guide": [
+  "assets/products/shop/c742baa94c0fb7dfcec2.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolso bandolera DAZ Luxury con cadena de PU para mujer",
  "stripe_payment_link": "https://buy.stripe.com/14A4gAfzC3ak8aycGO1gP2T",
  "supplier": "Shopify",

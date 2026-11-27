@@ -1,4 +1,13 @@
 {
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "97% poliéster, 3% spandex",
+ "ai_type": "tanga",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but the modeled imagery feels like standard print-on-demand compositing rather than luxury editorial.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +16,13 @@
  "cg": "t-dazmond-cosmic-fox-tanga-de-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A delicate intimate piece designed to bring a touch of art to daily routines. This tanga features an all-over watercolor print on a soft white background. It showcases a charming motif perfectly framed by contrasting black elastic waistband and edges. It offers the ideal combination of stretch and softness for a comfortable fit throughout the day. Made to order with worldwide shipping.",
+ "desc_es": "Una prenda íntima delicada diseñada para aportar un toque de arte a la rutina diaria. Esta tanga destaca por su estampado integral con técnica de acuarela sobre un fondo blanco suave. Muestra un simpático motivo enmarcado perfectamente con una cinturilla y bordes elásticos en color negro en contraste. Ofrece la combinación perfecta de elasticidad y suavidad para un ajuste cómodo durante todo el día. Hecho bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Composition: 97% polyester, 3% spandex\n· Fabric weight: 180 g/m²\n· Regular fit tanga silhouette\n· Made to order with worldwide shipping",
+ "details_es": "· Composición: 97% poliéster, 3% spandex\n· Peso de la tela: 180 g/m²\n· Silueta tanga de ajuste regular\n· Hecho bajo pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/a033ba30505859774117.jpg",
-  "assets/products/shop/033be86f54c1c0172c52.jpg",
-  "assets/products/shop/c67872249903033d1710.jpg",
-  "assets/products/shop/68292ab44777dc37828e.jpg",
-  "assets/products/shop/d5c70e36cb9141940738.jpg"
+  "assets/products/shop/033be86f54c1c0172c52.jpg"
  ],
  "draft": false,
  "fam": "cosmic-fox-tanga",
@@ -28,9 +36,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Cosmic Fox Tanga Underwear",
- "name_es": "Ropa Interior Cosmic Fox Tanga",
+ "name_en": "Cosmic Fox Tanga",
+ "name_es": "Tanga Cosmic Fox",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
  "rank": 1627,

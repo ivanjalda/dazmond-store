@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "teal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "jumpsuit",
+ "ai_ver": 2,
+ "art_note": "The campaign imagery successfully conveys an atmosphere of effortless luxury, capturing the refined silhouette against high-end architectural and coastal backdr",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-tartan-women-s-loose-bow-strap-jumpsuit",
  "color": "Verde",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A contemporary reinterpretation of classic tailoring that fuses urban elegance with a relaxed silhouette. Crafted from a medium-weight technical fabric with subtle stretch, this jumpsuit features an impeccable symmetrical plaid pattern across a sophisticated teal base. Adjustable shoulder tie straps and elasticated ankle cuffs define its versatile character. Available made to order with worldwide shipping.",
+ "desc_es": "Una reinterpretación contemporánea de la sastrería clásica que fusiona la elegancia urbana con una silueta holgada. Confeccionado en un tejido técnico de peso medio con sutil elasticidad, este mono presenta un impecable patrón de cuadros simétricos sobre una sofisticada base en tono verde azulado. Los tirantes ajustables mediante lazos en los hombros y los puños elásticos en los tobillos definen su carácter versátil. Disponible bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Crafted from 95% polyester and 5% elastane\n· Medium-weight technical fabric with slight stretch\n· Adjustable shoulder tie straps\n· Elasticated ankle cuffs\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Confeccionado en 95% poliéster y 5% elastano\n· Tejido técnico de peso medio con ligera elasticidad\n· Tirantes ajustables con lazo en los hombros\n· Puños elásticos en los tobillos\n· Pieza confeccionada bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "assets/products/shop/601ccbfc7cbe87e885a7.jpg",
   "assets/products/shop/7e32b3c25b44bafc69b5.jpg",
@@ -30,9 +44,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Tartan Loose Bow Jumpsuit",
- "name_es": "Mono Tartan Loose Bow",
+ "name_en": "Teal Tartan Loose Jumpsuit",
+ "name_es": "Mono Holgado Tartán Verde Azulado",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 25.99,
  "rank": 1477,

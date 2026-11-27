@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "turquoise",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The imagery features marketplace-style composited photos rather than high-end luxury campaign visuals.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-vestido-daz-luxury-cruzado-con-hombros-descubiertos-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Defined by a fluid off-shoulder silhouette, this dress delivers effortless presence. The relaxed overlay top balances the fitted structure of the skirt. The short length brings lightness to movement. A versatile piece for evening or the office. Made to order with worldwide shipping.",
+ "desc_es": "Definido por una silueta fluida con hombros descubiertos, este vestido ofrece una presencia elegante. La parte superior suelta equilibra la estructura ajustada de la falda. La longitud corta aporta ligereza al movimiento. Una pieza versátil para la noche o la oficina. Confeccionado bajo pedido con envío a todo el mundo.",
+ "details_en": "· Composition: polyester\n· Off-shoulder strapless design\n· Relaxed overlay top\n· Above the knee length\n· Machine washable with cold water on gentle cycle\n· Made to order",
+ "details_es": "· Composición: poliéster\n· Estilo sin tirantes con hombros descubiertos\n· Parte superior suelta tipo capa\n· Largo por encima de la rodilla\n· Lavable a máquina con agua fría en ciclo suave\n· Confeccionado bajo pedido",
  "display_images": [
   "assets/products/shop/00c35a1aca1796630d2a.jpg",
   "assets/products/shop/dd7658dab2782ea662f7.jpg",
@@ -17,8 +31,7 @@
   "assets/products/shop/1290e5880bbe89202456.jpg",
   "assets/products/shop/eaf7cd75425c588dfd08.jpg",
   "assets/products/shop/7785d507703d4da5ce99.jpg",
-  "assets/products/shop/fffafe88aa842a5de1cb.jpg",
-  "assets/products/shop/2a72c96619a3ec870327.jpg"
+  "assets/products/shop/fffafe88aa842a5de1cb.jpg"
  ],
  "draft": false,
  "fam": "vestido-luxury-cruzado",
@@ -35,6 +48,7 @@
  "name_en": "Off-shoulder crossover dress",
  "name_es": "Vestido cruzado de hombros descubiertos",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
  "rank": 1434,
@@ -42,8 +56,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Waist",
+   "Hip",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Cintura",
+   "Cadera",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "82cm (32.3\")",
+    "66cm (26\")",
+    "90cm (35.4\")",
+    "74cm (29.1\")"
+   ],
+   [
+    "M",
+    "88cm (34.6\")",
+    "72cm (28.3\")",
+    "96cm (37.8\")",
+    "76cm (29.9\")"
+   ],
+   [
+    "L",
+    "94cm (37\")",
+    "78cm (30.7\")",
+    "102cm (40.2\")",
+    "78cm (30.7\")"
+   ],
+   [
+    "XL",
+    "100cm (39.4\")",
+    "84cm (33.1\")",
+    "108cm (42.5\")",
+    "80cm (31.4\")"
+   ],
+   [
+    "2XL",
+    "106cm (41.7\")",
+    "90cm (35.4\")",
+    "114cm (44.8\")",
+    "82cm (32.3\")"
+   ],
+   [
+    "3XL",
+    "112cm (44.1\")",
+    "96cm (37.8\")",
+    "120cm (47.2\")",
+    "84cm (33.1\")"
+   ],
+   [
+    "4XL",
+    "118cm (46.5\")",
+    "102cm (40.2\")",
+    "126cm (49.6\")",
+    "86cm (33.9\")"
+   ],
+   [
+    "5XL",
+    "124cm (48.8\")",
+    "108cm (42.5\")",
+    "132cm (52\")",
+    "88cm (34.6\")"
+   ],
+   [
+    "6XL",
+    "130cm (51.2\")",
+    "114cm (44.9\")",
+    "138cm (54.3\")",
+    "90cm (35.4\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/2a72c96619a3ec870327.jpg"
+ ],
  "sizes": [
   "S",
   "M",

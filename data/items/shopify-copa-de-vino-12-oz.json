@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "transparent",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% glass",
+ "ai_type": "wine glass",
+ "ai_ver": 2,
+ "art_note": "Sophisticated tabletop styling with refined lighting and high-end staging.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-vintage-soul-glass",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The Vintage Soul wine glass redefines elegance in every pour. Crafted from premium transparent glass, its balanced design allows each vintage to breathe with absolute precision. The structure combines lightweight aesthetics with superior durability for elevated living. The glossy finish brings a touch of sophisticated distinction to any table setting. An essential piece for those who value refined craftsmanship and memorable moments. Available with worldwide shipping and made to order.",
+ "desc_es": "La copa de vino Vintage Soul redefine la elegancia en cada servicio. Fabricada en vidrio transparente de primera calidad, su diseño equilibrado permite que cada cepa respire con absoluta precisión. La estructura combina una estética ligera con una durabilidad superior para el uso diario. El acabado brillante aporta un toque de distinción sofisticada a cualquier mesa. Una pieza esencial para quienes valoran la artesanía refinada y los momentos memorables. Disponible con envío a todo el mundo y fabricada bajo demanda.",
+ "details_en": "· 100% transparent glass\n· 12 oz (0.35 l) capacity\n· Made to order with US assembly using globally sourced components",
+ "details_es": "· 100% vidrio transparente\n· Capacidad de 12 oz (0,35 l)\n· Fabricado bajo pedido con ensamblaje en Estados Unidos",
  "display_images": [
   "assets/products/shop/d4930d4ae7a15228923d.jpg",
   "assets/products/shop/7f8fae3e70ee77d21e92.jpg",
@@ -24,9 +38,10 @@
   "printify-6b08d1dfedc552ae3508a8e1"
  ],
  "material": "",
- "name_en": "Vintage Soul Glass Wine Glass",
- "name_es": "Copa de Vino Vintage Soul Glass",
+ "name_en": "Vintage Soul Wine Glass",
+ "name_es": "Copa de Vino Vintage Soul",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 28.99,
  "rank": 1542,

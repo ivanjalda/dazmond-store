@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "82 % nailon + 18 % elastano",
+ "ai_type": "panty moldeador",
+ "ai_ver": 2,
+ "art_note": "The lifestyle and product photography relies on marketplace-style compositing, which reduces the perceived luxury value.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,16 @@
  "cg": "t-bragas-boxer-dazmond",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your everyday wardrobe with a piece designed to deliver impeccable support and a sculpted silhouette. Crafted from a technical blend of high-grade nylon and elastane, these boxers ensure exceptional durability and superior adaptability. Each garment is made to order in our United States facilities, guaranteeing exclusivity and an absolute commitment to sartorial excellence. Available in a sophisticated black hue, they combine functionality and refined aesthetics for the contemporary woman who values luxury in every detail.",
+ "desc_es": "Eleve su fondo de armario cotidiano con una pieza diseñada para ofrecer un soporte impecable y una silueta esculpida. Confeccionados con una mezcla técnica de nailon de alta calidad y elastano, estos bóxers garantizan una resistencia excepcional y una adaptabilidad superior. Cada prenda se elabora bajo demanda en nuestras instalaciones en Estados Unidos, asegurando exclusividad y un compromiso absoluto con la excelencia sartorial. Disponibles en un sofisticado tono negro, combinan funcionalidad y estética depurada para la mujer contemporánea que valora el lujo en cada detalle.",
+ "details_en": "· Composition: 82% nylon, 18% elastane\n· Color: Black\n· Care instructions: Hand or machine wash. Do not soak for a long time. Do not bleach. Maximum water temperature 45°C\n· Made to order in the USA\n· Worldwide shipping available",
+ "details_es": "· Composición: 82 % nailon, 18 % elastano\n· Color: Negro\n· Instrucciones de cuidado: Lavar a mano o a máquina. No remojar durante mucho tiempo. No usar lejía. Temperatura máxima del agua 45 °C\n· Fabricado bajo pedido en EE. UU.\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/469e174eb55d6760f2a2.jpg",
   "assets/products/shop/9abd0d0e1061a5e11337.jpg",
   "assets/products/shop/11cf930df7c57435ccd2.jpg",
   "assets/products/shop/b541205f111ec6bc1dff.jpg",
-  "assets/products/shop/fc4ee12cc51e5ad34aad.jpg",
-  "assets/products/shop/2371f50287c1a9f7d8ad.jpg",
-  "http://ipimg.interestprint.com/data/product/4439/info/image/20250806/1FB86CEFF4B387618F748E3D0A6C0D77.jpg"
+  "assets/products/shop/fc4ee12cc51e5ad34aad.jpg"
  ],
  "draft": false,
  "fam": "bragas-boxer",
@@ -30,9 +42,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Bragas Bóxer Underwear · Negro",
- "name_es": "Ropa Interior Bragas Bóxer · Negro",
+ "name_en": "Black Sculptural Boxer Briefs · Negro",
+ "name_es": "Bragas Bóxer Esculturales Negras · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1544,
@@ -40,8 +53,66 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Lencería > Calzones para mujeres > Panty moldeador",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Waist",
+   "1/2 Hip",
+   "Inseam"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Cintura",
+   "1/2 Cadera",
+   "Entrepierna"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Por favor, compruebe y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "26cm / 10.2in",
+    "34cm / 13.4in",
+    "39.5cm / 15.6in",
+    "6cm / 2.4in"
+   ],
+   [
+    "M",
+    "27cm / 10.6in",
+    "36.5cm / 14.4in",
+    "41.5cm / 16.3in",
+    "6.25cm / 2.5in"
+   ],
+   [
+    "L",
+    "28cm / 11in",
+    "39cm / 15.4in",
+    "43.5cm / 17.1in",
+    "6.5cm / 2.6in"
+   ],
+   [
+    "XL",
+    "29cm / 11.4in",
+    "41.5cm / 16.3in",
+    "47.5cm / 18.7in",
+    "6.75cm / 2.7in"
+   ],
+   [
+    "2XL",
+    "30cm / 11.8in",
+    "44cm / 17.3in",
+    "51.3cm / 20.2in",
+    "7cm / 2.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/2371f50287c1a9f7d8ad.jpg",
+  "http://ipimg.interestprint.com/data/product/4439/info/image/20250806/1FB86CEFF4B387618F748E3D0A6C0D77.jpg"
+ ],
  "sizes": [
   "S",
   "M",

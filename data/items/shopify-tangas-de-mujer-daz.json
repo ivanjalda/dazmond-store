@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "97% polyester, 3% spandex",
+ "ai_type": "Thong",
+ "ai_ver": 2,
+ "art_note": "The lifestyle and studio shots maintain a sophisticated aesthetic aligned with high-end luxury standards.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,12 +19,13 @@
  "cg": "t-dazmond-hidden-canvas-women-s-thong",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece in canvas is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad en lona se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The Hidden Canvas thong redefines essential elegance with a refined silhouette and absolute comfort. Crafted from a selected blend of polyester and spandex, this piece offers precise elasticity and a smooth feel against the skin. The design is structured with a contrasting waistband and elastic edges, framing the piece with sophistication. Its breathable medium-weight fabric ensures an uninterrupted sense of freshness. Each piece is meticulously crafted upon request.",
+ "desc_es": "La tanga Hidden Canvas redefine la elegancia esencial con una silueta depurada y un confort absoluto. Confeccionada con una mezcla seleccionada de poliéster y spandex, esta prenda ofrece una elasticidad precisa y una textura suave sobre la piel. El diseño se estructura con una cinturilla y bordes elásticos en tono contrastante, enmarcando la pieza con sofisticación. Su tejido transpirable de peso medio asegura una sensación de frescura ininterrumpida. Cada pieza se elabora meticulosamente bajo pedido.",
+ "details_en": "· Composition: 97% polyester, 3% spandex\n· Fabric weight: 180 g/m²\n· Antimicrobial and breathable fabric\n· Black elastic waistband and edges\n· Regular fit\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Composición: 97% poliéster, 3% spandex\n· Densidad del tejido: 180 g/m²\n· Tejido antimicrobiano y transpirable\n· Cinturilla y bordes elásticos negros\n· Ajuste regular\n· Hecho a medida bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "assets/products/shop/e2c5b4ee256b82735b0a.jpg",
   "assets/products/shop/91f00ed006a5e3313796.jpg",
-  "assets/products/shop/cb7da0d9ed32f8025cb7.jpg",
   "assets/products/shop/644717473f7f69e58209.jpg",
   "assets/products/shop/4f941f956203f53d4fdb.jpg"
  ],
@@ -28,9 +41,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Hidden Thong Underwear",
- "name_es": "Ropa Interior Hidden Thong",
+ "name_en": "Hidden Canvas Thong",
+ "name_es": "Tanga Hidden Canvas",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
  "rank": 1568,

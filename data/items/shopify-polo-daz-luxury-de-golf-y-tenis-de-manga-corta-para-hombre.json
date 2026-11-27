@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% Polyester",
+ "ai_type": "Polo Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but degraded by marketplace-style model and detail templates with overlaid text.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,14 @@
  "cg": "t-polo-daz-luxury-de-golf-y-tenis-de-manga-corta-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your everyday wardrobe with this refined, impeccably designed polo shirt. Crafted with precision to offer a relaxed yet sophisticated silhouette. Featuring an elegant modern stand collar and subtle chest buttons that deliver timeless appeal. Versatile and comfortable for any casual or semi-formal occasion. An essential piece that transitions effortlessly with your personal style. Made to order. Worldwide shipping available.",
+ "desc_es": "Eleve su guardarropa diario con este polo refinado de diseño impecable. Confeccionado con precisión para ofrecer una silueta relajada pero sofisticada. Cuenta con un elegante cuello alto moderno y sutiles botones en el pecho que aportan un atractivo atemporal. Versátil y cómodo para cualquier ocasión informal o semiformal. Una prenda esencial que se adapta con facilidad a su estilo personal. Hecho a pedido. Envío mundial disponible.",
+ "details_en": "· Made of 100% polyester.\n· Modern stand collar design.\n· Button closure at the chest.\n· Loose fit.\n· Machine washable at max. 30°C. Do not bleach. Hang or line dry.\n· Made to order. Worldwide shipping available.",
+ "details_es": "· Hecho de 100% poliéster.\n· Diseño de cuello alto moderno.\n· Cierre de botones en el pecho.\n· Ajuste holgado.\n· Lavable a máquina a máx. 30°C. No usar lejía. Colgar o secar al aire libre.\n· Hecho a pedido. Envío mundial disponible.",
  "display_images": [
   "assets/products/shop/539f2de8a61202d8ddb0.jpg",
   "assets/products/shop/bf6794087d6d32314ea1.jpg",
-  "assets/products/shop/507c815a059547b64950.jpg",
-  "assets/products/shop/a338fb83a13fd5cd6027.jpg",
-  "assets/products/shop/14d5a7bdc628bc22c913.jpg",
-  "assets/products/shop/8b10afa850492c0544c7.jpg",
-  "assets/products/shop/9e7354ce4f5402538716.jpg",
-  "assets/products/shop/e5c5dd3b4516592f0367.jpg"
+  "assets/products/shop/507c815a059547b64950.jpg"
  ],
  "draft": false,
  "fam": "polo-luxury-golf",
@@ -31,9 +40,10 @@
   "printify-6b0667526db425f6b50b967a-black"
  ],
  "material": "",
- "name_en": "Daz Golf Tenis Polo",
- "name_es": "Polo Daz Golf Tenis",
+ "name_en": "Daz Luxury Polo Shirt",
+ "name_es": "Polo de Lujo Daz",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1498,
@@ -41,8 +51,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Polos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "BUST",
+   "SELEEVE LENGTH"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "PECHO",
+   "LONGITUD DE MANGA"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "71.1cm(28.0\")",
+    "95.2cm(37.5\")",
+    "32.5cm(12.8\")"
+   ],
+   [
+    "M",
+    "73.6cm(29.0\")",
+    "106.6cm(42.0\")",
+    "36.4cm(14.37\")"
+   ],
+   [
+    "L",
+    "76.2cm(30.0\")",
+    "116.8cm(46.0\")",
+    "38.9cm(15.35\")"
+   ],
+   [
+    "XL",
+    "78.7cm(31.0\")",
+    "127.0cm(50.0\")",
+    "42.0cm(16.54\")"
+   ],
+   [
+    "2XL",
+    "81.2cm(32.0\")",
+    "137.1cm(54.0\")",
+    "45.0cm(17.72\")"
+   ],
+   [
+    "3XL",
+    "83.8cm(33.0\")",
+    "147.3cm(58.0\")",
+    "47.4cm(18.7\")"
+   ],
+   [
+    "4XL",
+    "86.3cm(34.0\")",
+    "162.5cm(64.0\")",
+    "50.4cm(19.88\")"
+   ],
+   [
+    "5XL",
+    "88.9cm(35.0\")",
+    "172.7cm(68.0\")",
+    "53.0cm(20.87\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/e5c5dd3b4516592f0367.jpg"
+ ],
  "sizes": [
   "S",
   "M",

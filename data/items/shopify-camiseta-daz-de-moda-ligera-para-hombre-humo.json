@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Humo / White / Charcoal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Algodón",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Flat mockup presentation lacks the depth and editorial sophistication of a true luxury campaign.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,11 @@
  "cg": "t-the-dazmond-stealth",
  "color": "Humo",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The evolution of the daily essential toward high technical resistance. This piece redefines the concept of the basic garment through a slim silhouette that precisely sculpts the torso. Crafted from long-fiber cotton, it offers a light, fresh feel alongside extraordinary durability. It stands as an immovable pillar of any elite wardrobe, designed to deliver a structured bearing and impeccable presence in any setting.",
+ "desc_es": "La evolución del esencial diario hacia la alta resistencia técnica. Esta pieza redefine el concepto de la prenda básica mediante una silueta slim que esculpe el torso con precisión. Confeccionada en algodón de fibra larga, ofrece un tacto ligero y fresco junto a una durabilidad extraordinaria. Es el pilar inamovible de cualquier guardarropa de élite, diseñada para ofrecer un porte estructurado y una presencia impecable en cualquier entorno.",
+ "details_en": "· High-resistance cotton\n· Slim-fit architecture\n· 4.5 oz/yd² fabric density\n· Made-to-order in the United States\n· Worldwide shipping available",
+ "details_es": "· Algodón de alta resistencia\n· Arquitectura slim-fit\n· Gramaje de 4.5 oz/yd²\n· Fabricado bajo demanda en los Estados Unidos\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/008c87b8a5113be31e1a.jpg",
-  "assets/products/shop/008c87b8a5113be31e1a.jpg",
-  "assets/products/shop/008c87b8a5113be31e1a.jpg",
-  "assets/products/shop/008c87b8a5113be31e1a.jpg",
-  "assets/products/shop/008c87b8a5113be31e1a.jpg",
   "assets/products/shop/008c87b8a5113be31e1a.jpg",
   "assets/products/shop/3fec53691949a52b7744.jpg",
   "assets/products/shop/d08d2bd3f10af7a5b71a.jpg",
@@ -34,9 +43,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Stealth Tee · Humo",
- "name_es": "Camiseta Stealth · Humo",
+ "name_en": "Stealth 150 T-Shirt · Humo",
+ "name_es": "Camiseta Stealth 150 · Humo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1617,

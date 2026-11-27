@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "85% nylon, 15% elastane",
+ "ai_type": "Underwear",
+ "ai_ver": 2,
+ "art_note": "The lifestyle campaign shots convey a sophisticated urban atmosphere, though studio details vary in polish.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-ropa-interior-sin-costuras-dazmond-luxury-para-mujer",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Crafted from high-grade nylon with a subtle stretch. This inner garment delivers a seamless, tailored silhouette. The bikini cut refines natural lines with refined composure. Each piece is crafted upon request in our United States facilities, ensuring absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Confeccionada con nailon de alta calidad y un tacto ligeramente elástico. Esta prenda interior ofrece una silueta impecable y ceñida. El diseño de corte bikini realza las formas naturales con una elegancia depurada. Cada pieza se elabora bajo demanda en nuestras instalaciones en Estados Unidos, asegurando una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· 85% nylon, 15% elastane\n· Seamless tailored fit\n· Hand or machine wash\n· Maximum water temperature 45°C\n· Do not bleach or soak for long periods\n· Made to order and worldwide shipping",
+ "details_es": "· 85 % nailon, 15 % elastano\n· Ajuste ceñido sin costuras\n· Lavar a mano o a máquina\n· Temperatura máxima del agua 45 °C\n· No usar lejía ni remojar durante mucho tiempo\n· Made to order y envío a todo el mundo",
  "display_images": [
   "assets/products/shop/35290101fd06476a0cdb.jpg",
   "assets/products/shop/2e2ea46e95847cbf6f1c.jpg",
@@ -16,9 +30,7 @@
   "assets/products/shop/f3a3418e1c765362b2a6.jpg",
   "assets/products/shop/27797abb19c4a35628fe.jpg",
   "assets/products/shop/9951cf46d66fb2fc352f.jpg",
-  "assets/products/shop/f7ba32ee046d4bdc831c.jpg",
-  "assets/products/shop/ead67f0ee74dbb6725e1.jpg",
-  "http://ipimg.interestprint.com/data/product/4441/info/image/20250806/77D9FF5E3EFE6E99A804CE1A378637F6.jpg"
+  "assets/products/shop/f7ba32ee046d4bdc831c.jpg"
  ],
  "draft": false,
  "fam": "ropa-interior-sin",
@@ -32,9 +44,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Ropa Interior Sin Underwear · Negro",
- "name_es": "Ropa Interior Ropa Interior Sin · Negro",
+ "name_en": "Black Seamless Bikini Brief · Negro",
+ "name_es": "Braguita Bikini Sin Costuras Negra · Negro",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 28.99,
  "rank": 1547,
@@ -42,8 +55,47 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa interior para chicas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "WAIST"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "CINTURA"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. ¡Compara tu talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "20cm / 7.9in",
+    "64cm / 25.2in"
+   ],
+   [
+    "M",
+    "21cm / 8.3in",
+    "68cm / 26.8in"
+   ],
+   [
+    "L",
+    "22cm / 8.7in",
+    "72cm / 28.3in"
+   ],
+   [
+    "XL",
+    "23cm / 9.1in",
+    "76cm / 29.9in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/ead67f0ee74dbb6725e1.jpg",
+  "http://ipimg.interestprint.com/data/product/4441/info/image/20250806/77D9FF5E3EFE6E99A804CE1A378637F6.jpg"
+ ],
  "sizes": [
   "S",
   "M",

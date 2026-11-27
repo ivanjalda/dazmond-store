@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/albornoz-pijama"
+ ],
+ "ai_color": "yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "polyester",
+ "ai_sizes": "One Size",
+ "ai_type": "bathrobe",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce mockups with digital print application lacking authentic luxury campaign atmosphere.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +20,17 @@
  "cg": "t-albornoz-daz-luxury-con-estampado-integral-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Designed for refined daily lounging. This bathrobe combines lightweight comfort with a practical silhouette. It features a distinctive all-over print. Completed with a self-tie belt and functional front pockets. Available made-to-order with worldwide shipping.",
+ "desc_es": "Confeccionado para el descanso diario. Este albornoz combina comodidad ligera con un diseño práctico. Presenta un estampado integral distintivo. Cuenta con un cinturón de cierre automático y bolsillos delanteros funcionales. Disponible mediante fabricación bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Premium polyester fabric\n· Self-tie belt closure\n· Convenient front pockets\n· Machine wash gentle cycle with cold water and mild detergent\n· Made-to-order with worldwide shipping",
+ "details_es": "· Tejido de poliéster de primera calidad\n· Cinturón con cierre automático\n· Bolsillos delanteros funcionales\n· Lavado a máquina en ciclo suave con agua fría y detergente suave\n· Hecho bajo pedido con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/90ee441f10edfee4aba3.jpg",
   "assets/products/shop/0d840377dc7dd524e2eb.jpg",
   "assets/products/shop/b06f7784bda5cbdd229c.jpg",
   "assets/products/shop/0034420818a040e9049c.jpg",
   "assets/products/shop/004765be38ebf085abde.jpg",
-  "assets/products/shop/bb76be7c7417126ee86f.jpg",
-  "assets/products/shop/a78702333d0d41cea9a6.jpg"
+  "assets/products/shop/bb76be7c7417126ee86f.jpg"
  ],
  "draft": false,
  "fam": "albornoz-luxury-estampado",
@@ -30,9 +44,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Albornoz Daz Estampado Loungewear",
- "name_es": "Pijama Albornoz Daz Estampado",
+ "name_en": "Dazmond Luxury Bathrobe",
+ "name_es": "Albornoz de Lujo Dazmond",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
  "rank": 1582,
@@ -40,9 +55,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Arm",
+   "Chest",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Manga",
+   "Pecho",
+   "Largo"
+  ],
+  "notes_en": "Measurements provided as reference.",
+  "notes_es": "Medidas proporcionadas como referencia.",
+  "rows": [
+   [
+    "cm (inch)",
+    "65cm (25\")",
+    "71cm (27\")",
+    "129cm (50\")"
+   ]
+  ],
+  "unit": "cm (inch)"
+ },
+ "size_guide": [
+  "assets/products/shop/a78702333d0d41cea9a6.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Albornoz DAZ Luxury con estampado integral para hombre",
  "stripe_payment_link": "https://buy.stripe.com/aFabJ21IM4eo1MabCK1gQ0z",
  "supplier": "Shopify",

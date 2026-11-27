@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "85% nailon + 15% elastano",
+ "ai_type": "Calzoncillos",
+ "ai_ver": 2,
+ "art_note": "The campaign rooftop shot elevates the collection, though some studio and detail shots feel overly digitized.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,13 @@
  "cg": "t-ropa-interior-sin-costuras-dazmond-luxury",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Experience essential sophistication with this refined design. Crafted from a selective blend of nylon and spandex, it offers an impeccable silhouette and a soft touch against the skin. The bikini cut enhances the natural silhouette with elegance. Each piece is crafted upon request to ensure exclusivity and an exceptional fit. An essential piece of innerwear that combines absolute comfort with a polished aesthetic.",
+ "desc_es": "Disfrute de la sofisticación esencial con esta pieza de diseño depurado. Confeccionada con una mezcla selecta de nailon y elastano, ofrece una silueta impecable y un tacto suave sobre la piel. Su corte bikini realza la figura con elegancia natural. Cada pieza se confecciona bajo pedido para garantizar exclusividad y un ajuste excepcional. Una prenda interior esencial que combina confort absoluto y una estética depurada.",
+ "details_en": "· 85% nylon, 15% spandex\n· Sleek, seamless fit\n· Bikini cut silhouette\n· Black colorway\n· Hand or machine wash at max 45 °C\n· Made to order and worldwide shipping",
+ "details_es": "· 85 % nailon, 15 % elastano\n· Ajuste ceñido y sin costuras\n· Corte estilo bikini\n· Color negro\n· Lavar a mano o a máquina a un máximo de 45 °C\n· Made to order and worldwide shipping",
  "display_images": [
   "assets/products/shop/b37f9b48ccb6775aa6d0.jpg",
-  "assets/products/shop/20f64506aa69d3c49c5d.jpg",
-  "assets/products/shop/7efc5509c5361d6c148a.jpg",
-  "assets/products/shop/9388c4e5170844a7f954.jpg",
-  "assets/products/shop/1323c35f126e3915a040.jpg",
-  "assets/products/shop/72967c134693c2f46071.jpg",
-  "assets/products/shop/3c23ab4213995993b130.jpg",
-  "http://ipimg.interestprint.com/data/product/4441/info/image/20250806/77D9FF5E3EFE6E99A804CE1A378637F6.jpg"
+  "assets/products/shop/72967c134693c2f46071.jpg"
  ],
  "draft": false,
  "fam": "ropa-interior-sin",
@@ -31,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Ropa Interior Sin Underwear",
- "name_es": "Ropa Interior Ropa Interior Sin",
+ "name_en": "Black Bikini Briefs",
+ "name_es": "Calzoncillo Estilo Bikini Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1549,
@@ -41,8 +50,47 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Lencería > Calzones para mujeres > Calzoncillos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2cm. ¡Por favor revise y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "20cm / 7.9in",
+    "64cm / 25.2in"
+   ],
+   [
+    "M",
+    "21cm / 8.3in",
+    "68cm / 26.8in"
+   ],
+   [
+    "L",
+    "22cm / 8.7in",
+    "72cm / 28.3in"
+   ],
+   [
+    "XL",
+    "23cm / 9.1in",
+    "76cm / 29.9in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/3c23ab4213995993b130.jpg",
+  "http://ipimg.interestprint.com/data/product/4441/info/image/20250806/77D9FF5E3EFE6E99A804CE1A378637F6.jpg"
+ ],
  "sizes": [
   "S",
   "M",

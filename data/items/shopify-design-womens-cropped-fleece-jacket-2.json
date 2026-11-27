@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Blanco y Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% poliéster",
+ "ai_type": "Chaqueta",
+ "ai_ver": 2,
+ "art_note": "Exceptional atmospheric lighting and high-end editorial composition in urban and architectural settings.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,16 @@
  "cg": "t-chaqueta-crop-de-forro-polar-dazmond-golden-heart-stripes",
  "color": "Blanco y Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A modern silhouette defined by contrasting vertical stripes and subtle golden accents. This high-density cropped jacket offers an ultra-soft texture and an unmistakable urban presence. The design features a high collar, full front zip, and a cropped cut that gracefully defines the silhouette. A versatile piece designed to elevate everyday styling with a touch of distinction.",
+ "desc_es": "Una silueta moderna definida por la sofisticación de las rayas verticales en contraste y sutiles detalles dorados. Esta chaqueta corta de alta densidad ofrece una textura ultrasuave y una presencia urbana inconfundible. El diseño incluye cuello alto, cremallera frontal y un corte cropped que estiliza con elegancia. Una prenda versátil concebida para elevar la estética cotidiana con un toque de distinción.",
+ "details_en": "· Composition: 100% polyester (310g high-density fleece)\n· Cropped cut with dropped shoulders and high collar\n· Full front zip closure\n· Functional side pockets\n· Elastic cuffs and adjustable drawstring hem\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Composición: 100% poliéster (forro polar de alta densidad 310g)\n· Corte cropped con hombros caídos y cuello alto\n· Cierre con cremallera frontal completa\n· Bolsillos laterales funcionales\n· Puños elásticos y dobladillo inferior ajustable con cordón\n· Made to order\n· Worldwide shipping",
  "display_images": [
   "assets/products/shop/86f3cf07095f495f1598.jpg",
   "assets/products/shop/2bdbceebafb67cd5102b.jpg",
   "assets/products/shop/3be34b46733a7b36e26e.jpg",
   "assets/products/shop/73865bac5faa5ad3f3b4.jpg",
-  "assets/products/shop/c1d0adf3838217668d6f.jpg",
-  "assets/products/shop/10c4ba3dfb459c3b59e3.jpg",
-  "assets/products/shop/bfc9a9cb26bfe2cbc88b.jpg"
+  "assets/products/shop/10c4ba3dfb459c3b59e3.jpg"
  ],
  "draft": false,
  "fam": "chaqueta-crop-forro",
@@ -30,9 +42,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Crop Forro Polar Sweatshirt · Gold",
- "name_es": "Sudadera Crop Forro Polar · Oro",
+ "name_en": "Golden Heart Stripes Crop Jacket",
+ "name_es": "Chaqueta Crop Golden Heart Stripes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1611,

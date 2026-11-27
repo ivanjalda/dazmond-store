@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Negro con azul",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Poliéster",
+ "ai_type": "Vestido largo",
+ "ai_ver": 2,
+ "art_note": "Rendered product mockups and stiff model shots undermine the luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,13 @@
  "cg": "t-vestido-largo-cruzado-daz-luxury-con-hombros-descubiertos-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A fluid silhouette that redefines evening elegance. This off-shoulder design features a delicate upper ruffle and falls gracefully to the floor. The relaxed cut gently flatters the silhouette, offering immaculate movement for formal gatherings or twilight strolls. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Una silueta fluida que redefine la elegancia nocturna. Este diseño de hombros descubiertos presenta un delicado volante superior y cae con gracia hasta los pies. Su corte fluido envuelve la figura con sutileza, ofreciendo un movimiento impecable tanto en eventos formales como en paseos al atardecer. Cada pieza se confecciona bajo pedido en nuestros talleres y cuenta con envíos a todo el mundo.",
+ "details_en": "· Composition: polyester\n· Off-shoulder neckline with elastic band\n· Floor-length fluid silhouette\n· Machine wash cold with gentle cycle and mild detergent\n· Made to order with worldwide shipping",
+ "details_es": "· Composición: poliéster\n· Escote de hombros descubiertos con banda elástica\n· Silueta fluida de largo hasta el pie\n· Lavable a máquina con agua fría, ciclo suave y detergente suave\n· Confeccionado bajo pedido con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/bc1288c2499b2e08c74b.jpg",
-  "assets/products/shop/9e730bd2d6215f7900e6.jpg",
-  "assets/products/shop/ee78923428efbea1c182.jpg",
-  "assets/products/shop/4011021ec31bd080518a.jpg",
-  "assets/products/shop/011365dadf7bf7cb6376.jpg",
   "assets/products/shop/8fab42e8b0646882c0d2.jpg",
-  "assets/products/shop/f3af3b1a5afb0d6ab09c.jpg",
-  "assets/products/shop/ccd3933f5b0d03a2973c.jpg"
+  "assets/products/shop/f3af3b1a5afb0d6ab09c.jpg"
  ],
  "draft": false,
  "fam": "vestido-largo-cruzado",
@@ -31,9 +39,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Largo Cruzado Daz Dress",
- "name_es": "Vestido Largo Cruzado Daz",
+ "name_en": "Off shoulder cross long dress",
+ "name_es": "Vestido largo cruzado con hombros descubiertos",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1452,
@@ -41,8 +50,93 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Vestidos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Waist",
+   "Hip",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Cintura",
+   "Cadera",
+   "Largo"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "80cm (31.5\")",
+    "74cm (29.1\")",
+    "96cm (37.8\")",
+    "131cm (51.6\")"
+   ],
+   [
+    "M",
+    "84cm (33\")",
+    "78cm (30.7\")",
+    "100cm (39.4\")",
+    "132cm (52\")"
+   ],
+   [
+    "L",
+    "88cm (34.7\")",
+    "82cm (32.3\")",
+    "104cm (41\")",
+    "133cm (52.4\")"
+   ],
+   [
+    "XL",
+    "92cm (36.2\")",
+    "86cm (33.9\")",
+    "108cm (42.6\")",
+    "134cm (52.8\")"
+   ],
+   [
+    "2XL",
+    "96cm (37.8\")",
+    "90cm (35.4\")",
+    "112cm (44\")",
+    "135cm (53.2\")"
+   ],
+   [
+    "3XL",
+    "100cm (39.4\")",
+    "94cm (37\")",
+    "116cm (45.7\")",
+    "136cm (53.6\")"
+   ],
+   [
+    "4XL",
+    "104cm (41\")",
+    "98cm (47.3\")",
+    "120cm (47.3\")",
+    "137cm (54\")"
+   ],
+   [
+    "5XL",
+    "108cm (42.5\")",
+    "102cm (40.2\")",
+    "126cm (49.6\")",
+    "138cm (54.3\")"
+   ],
+   [
+    "6XL",
+    "112cm (44.1\")",
+    "106cm (41.7\")",
+    "132cm (52\")",
+    "139cm (54.7\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/ccd3933f5b0d03a2973c.jpg"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Pink / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PU leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Crossbody Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate lighting, but lacks high-end editorial lifestyle context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-bolso-bandolera-daz-luxury-con-cadena-de-pu-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your everyday style with this refined PU crossbody bag. Crafted with attention to detail, it features a striking all-over print and a structured silhouette with a rectangular base. Designed with multiple interior compartments and a convenient front flap closure, it offers seamless functionality without compromising on elegance. Adjustable straps ensure versatility for shoulder or crossbody wear.",
+ "desc_es": "Eleve su estilo diario con este refinado bolso bandolera de PU. Elaborado con atención al detalle, presenta un llamativo estampado integral y una silueta estructurada con base rectangular. Diseñado con múltiples compartimentos interiores y un práctico cierre de solapa frontal, ofrece una funcionalidad impecable sin comprometer la elegancia. Las correas ajustables garantizan versatilidad para llevarlo al hombro o cruzado.",
+ "details_en": "· High-quality PU leather\n· Two adjustable shoulder straps\n· Multiple interior and zippered compartments\n· Flap closure with front ring\n· Structured rectangular base\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Cuero de PU de alta calidad\n· Dos correas ajustables para hombro\n· Múltiples compartimentos interiores y con cierre\n· Cierre de solapa con anillo frontal\n· Base rectangular estructurada\n· Confeccionado bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/756869016efe0f0400ea.jpg",
   "assets/products/shop/fd8e5a696a95d4a946b8.jpg",
@@ -17,8 +32,6 @@
   "assets/products/shop/603f7161ed75a46ebce1.jpg",
   "assets/products/shop/b6f69c1d448a6985861e.jpg",
   "assets/products/shop/15df58985be643be6b38.jpg",
-  "assets/products/shop/8ab88a4e6750ad7c7fab.jpg",
-  "assets/products/shop/c71ee690ed07b8dd9357.jpg",
   "assets/products/shop/d8b41a082aaf2a70453c.jpg"
  ],
  "draft": false,
@@ -33,9 +46,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Bolso Bandolera Daz Bag",
- "name_es": "Bolso Bolso Bandolera Daz",
+ "name_en": "DAZ Tulip Crossbody Bag",
+ "name_es": "Bolso Bandolera Tulipán DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1463,
@@ -43,9 +57,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Cámaras y ópticas > Accesorios ópticos y de cámara > Accesorios para lentes ópticas > Maletines y bolsos para lentes ópticas > Fundas para accesorios",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height",
+   "Depth",
+   "Strap Drop Length"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto",
+   "Profundidad",
+   "Longitud de caída de la correa"
+  ],
+  "notes_en": "Made-to-order piece. Worldwide shipping available.",
+  "notes_es": "Pieza confeccionada bajo pedido. Envío a todo el mundo disponible.",
+  "rows": [
+   [
+    "25.5 cm / 10 in",
+    "15 cm / 5.9 in",
+    "10.5 cm / 4.1 in",
+    "58 cm / 22.8 in"
+   ]
+  ],
+  "unit": "cm / inch"
+ },
+ "size_guide": [
+  "assets/products/shop/8ab88a4e6750ad7c7fab.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolso bandolera DAZ Luxury con cadena de PU para mujer",
  "stripe_payment_link": "https://buy.stripe.com/00wbJ24UY26g3Ui0Y61gP2M",
  "supplier": "Shopify",

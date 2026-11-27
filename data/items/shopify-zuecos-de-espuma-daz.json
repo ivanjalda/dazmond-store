@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "calzado-mujer/zuecos"
+ ],
+ "ai_color": "Rainbow Nebula",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "EVA foam",
+ "ai_type": "Clogs",
+ "ai_ver": 2,
+ "art_note": "Sophisticated high-end lifestyle staging that elevates the product to luxury standards.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-cosmic-bliss-women-s-clogs",
  "color": "\"Cosmic Bliss\" — Rainbow Nebula (Diseño íntegramente estampado)",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A silhouette crafted for absolute repose. Built from high-impact EVA foam, these clogs offer a cushioned texture that absorbs impact and provides exceptional support. The finish features a high-definition all-over print. Each pair includes an exclusive set of charms to customize the piece. Available made to order with worldwide shipping.",
+ "desc_es": "Una silueta diseñada para el descanso absoluto. Confeccionados en espuma EVA de alto impacto, estos zuecos ofrecen una textura suave que absorbe los impactos y proporciona un soporte excepcional. El acabado presenta un estampado integral de alta definición. Cada par incluye un set de dijes exclusivos para personalizar la pieza. Disponibles bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 100% high-impact EVA foam\n· All-over print on exterior and strap\n· Includes exclusive decorative charms\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% espuma EVA de alto impacto\n· Estampado integral en exterior y correa\n· Incluye dijes decorativos exclusivos\n· Fabricado bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/5ad8c7e4da0a9e4cf45f.jpg",
   "assets/products/shop/116c1857621e9c27a78a.jpg",
@@ -28,9 +42,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Cosmic Bliss Clogs Clogs",
- "name_es": "Zuecos Cosmic Bliss Clogs",
+ "name_en": "Cosmic Bliss Clogs",
+ "name_es": "Zuecos Cosmic Bliss",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 29.99,
  "rank": 1569,

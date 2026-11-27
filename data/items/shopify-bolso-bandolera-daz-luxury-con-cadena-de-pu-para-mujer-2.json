@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Teal / Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PU Leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Crossbody Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with accurate details, though lacking environmental luxury context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-bolso-bandolera-daz-luxury-con-cadena-de-pu-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your daily style with this high-quality PU crossbody bag. It features a sophisticated all-over print. The design incorporates multiple compartments, including an inner pocket and a zippered pocket to keep your essentials secure. Adjustable straps offer versatile carrying options to suit every occasion. The flap closure with a front ring secures your belongings with ease and elegance.",
+ "desc_es": "Eleva tu estilo diario con este bolso bandolera de PU de alta calidad. Cuenta con un estampado integral y sofisticado. El diseño incorpora múltiples compartimentos, incluyendo un bolsillo interior y un bolsillo con cierre para mantener tus esenciales seguros. Las correas ajustables ofrecen opciones de transporte versátiles para adaptarse a cada ocasión. El cierre de solapa con anillo frontal asegura tus pertenencias con facilidad y elegancia.",
+ "details_en": "· High-quality PU leather\n· Adjustable shoulder and underarm straps\n· Multiple interior and zippered compartments\n· Flap closure with front ring\n· Rectangular base for added stability\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Cuero de PU de alta calidad\n· Correas ajustables para hombro y axila\n· Múltiples compartimentos interiores y con cierre\n· Cierre de solapa con anillo frontal\n· Base rectangular para mayor estabilidad\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/288a6740cca837590a75.jpg",
   "assets/products/shop/f56e0091fc20e063817f.jpg",
@@ -17,8 +32,6 @@
   "assets/products/shop/b53648d4e66dcd7bb827.jpg",
   "assets/products/shop/e3b6ef3f9b5eea648877.jpg",
   "assets/products/shop/2594f54469fd67c66702.jpg",
-  "assets/products/shop/cd23188115411c151bca.jpg",
-  "assets/products/shop/6f3765fc8814a62a7b61.jpg",
   "assets/products/shop/84a26c092ddfe348c5ad.jpg"
  ],
  "draft": false,
@@ -33,9 +46,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Bolso Bandolera Daz Bag",
- "name_es": "Bolso Bolso Bandolera Daz",
+ "name_en": "DAZ Tulip Crossbody Bag",
+ "name_es": "Bolso Bandolera Tulipán DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1465,
@@ -43,9 +57,43 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Cámaras y ópticas > Accesorios ópticos y de cámara > Accesorios para lentes ópticas > Maletines y bolsos para lentes ópticas > Fundas para accesorios",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Dimension",
+   "Size"
+  ],
+  "headers_es": [
+   "Dimensión",
+   "Medida"
+  ],
+  "notes_en": "Measurements are provided for guidance.",
+  "notes_es": "Las medidas se proporcionan como guía.",
+  "rows": [
+   [
+    "Width",
+    "25.5 cm / 10 in"
+   ],
+   [
+    "Height",
+    "15 cm / 5.9 in"
+   ],
+   [
+    "Depth",
+    "10.5 cm / 4.1 in"
+   ],
+   [
+    "Strap Drop Length",
+    "58 cm / 22.8 in"
+   ]
+  ],
+  "unit": "cm / inch"
+ },
+ "size_guide": [
+  "assets/products/shop/cd23188115411c151bca.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolso bandolera DAZ Luxury con cadena de PU para mujer",
  "stripe_payment_link": "https://buy.stripe.com/7sY00k1IMcKU8ay0Y61gP2O",
  "supplier": "Shopify",

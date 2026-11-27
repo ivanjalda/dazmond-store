@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "82 % nailon + 18 % elastano",
+ "ai_type": "panty moldeador",
+ "ai_ver": 2,
+ "art_note": "Stunning editorial rooftop background elevates the presentation, despite some basic studio cutouts in the set.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,13 @@
  "cg": "t-bragas-boxer-dazmond",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Tailored from a high-grade nylon blend, these boxer briefs deliver exceptional elasticity and enduring resilience. The refined black silhouette contours smoothly to the body, ensuring structural support and seamless comfort throughout daily wear. Every piece is made to order in our United States facilities, maintaining an uncompromising standard of exclusivity. Available with worldwide shipping.",
+ "desc_es": "Confeccionadas con una mezcla técnica de nailon de alta calidad, estas bragas bóxer ofrecen una elasticidad superior y una resistencia duradera. Su silueta depurada en tono negro se adapta con precisión a la silueta, proporcionando un soporte firme y una comodidad absoluta para cada momento del día. Cada pieza se confecciona bajo pedido en nuestras instalaciones de Estados Unidos, garantizando un estándar de exclusividad inigualable. Disponible con envío a todo el mundo.",
+ "details_en": "· 82% nylon, 18% elastane\n· Black color\n· Hand or machine wash. Do not soak for a long time. Do not bleach. Maximum water temperature 45 °C\n· Made to order in the USA\n· Worldwide shipping",
+ "details_es": "· 82 % nailon, 18 % elastano\n· Color negro\n· Lavar a mano o a máquina. No remojar durante mucho tiempo. No usar lejía. Temperatura máxima del agua 45 °C\n· Fabricado bajo pedido en EE. UU.\n· Envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/e91f68392582e9e4a284.jpg",
   "assets/products/shop/5a66843cbe90378815bb.jpg",
-  "assets/products/shop/371560a4b8b60bc19862.jpg",
-  "assets/products/shop/37a0dbbb0df4f0e1de43.jpg",
-  "assets/products/shop/280dbafe15ba8483dee2.jpg",
-  "assets/products/shop/6c30ec6e0fa6249058b3.jpg",
-  "assets/products/shop/bca71a7e2cf34a230039.jpg",
-  "http://ipimg.interestprint.com/data/product/4439/info/image/20250806/1FB86CEFF4B387618F748E3D0A6C0D77.jpg"
+  "assets/products/shop/371560a4b8b60bc19862.jpg"
  ],
  "draft": false,
  "fam": "bragas-boxer",
@@ -31,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Bragas Bóxer Underwear · Negro",
- "name_es": "Ropa Interior Bragas Bóxer · Negro",
+ "name_en": "Black Sculptural Boxer Briefs · Negro",
+ "name_es": "Bragas Bóxer Esculturales Negras · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1545,
@@ -41,8 +50,66 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Lencería > Calzones para mujeres > Panty moldeador",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Waist",
+   "1/2 Hip",
+   "Inseam"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Cintura",
+   "1/2 Cadera",
+   "Tiro"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "26cm / 10.2in",
+    "34cm / 13.4in",
+    "39.5cm / 15.6in",
+    "6cm / 2.4in"
+   ],
+   [
+    "M",
+    "27cm / 10.6in",
+    "36.5cm / 14.4in",
+    "41.5cm / 16.3in",
+    "6.25cm / 2.5in"
+   ],
+   [
+    "L",
+    "28cm / 11in",
+    "39cm / 15.4in",
+    "43.5cm / 17.1in",
+    "6.5cm / 2.6in"
+   ],
+   [
+    "XL",
+    "29cm / 11.4in",
+    "41.5cm / 16.3in",
+    "47.5cm / 18.7in",
+    "6.75cm / 2.7in"
+   ],
+   [
+    "2XL",
+    "30cm / 11.8in",
+    "44cm / 17.3in",
+    "51.3cm / 20.2in",
+    "7cm / 2.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/bca71a7e2cf34a230039.jpg",
+  "http://ipimg.interestprint.com/data/product/4439/info/image/20250806/1FB86CEFF4B387618F748E3D0A6C0D77.jpg"
+ ],
  "sizes": [
   "S",
   "M",

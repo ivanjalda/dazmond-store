@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PU Leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Crossbody Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio photography with clear details, though presentation follows standard e-commerce layouts rather than high-end campaign storytelling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-bolso-bandolera-daz-premium-con-cadena-de-pu-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This crossbody bag combines refined functionality with contemporary design. Crafted from high-grade PU leather, it features an all-over print that offers distinct character. The structured interior includes multiple compartments and a secure zippered pocket. Adjustable straps provide versatile styling options for shoulder or underarm wear. A secure flap closure finishes the piece with understated elegance. An essential accessory for daily wear. Made to order with worldwide shipping available.",
+ "desc_es": "Este bolso bandolera combina funcionalidad refinada y diseño contemporáneo. Confeccionado en cuero de PU de alta calidad, presenta un estampado integral que aporta distinción. Su estructura incluye múltiples compartimentos y un práctico bolsillo interior con cierre para mayor seguridad. Las correas ajustables permiten adaptarlo con versatilidad al hombro o a las axilas. El cierre de solapa frontal asegura las pertenencias con elegancia. Una pieza esencial para el día a día. Confección bajo demanda y envío mundial disponible.",
+ "details_en": "· High-grade PU leather\n· Adjustable shoulder and underarm straps\n· Multiple compartments with interior zippered pocket\n· Flap closure with front ring\n· Structured rectangular base\n· Made to order with worldwide shipping",
+ "details_es": "· Cuero de PU de alta calidad\n· Correas ajustables para hombros y axilas\n· Múltiples compartimentos con bolsillo interior con cierre\n· Cierre de solapa con anillo frontal\n· Base rectangular estructurada\n· Confección bajo demanda y envío mundial",
  "display_images": [
   "assets/products/shop/aeffdc4cde2c05fc8e34.jpg",
   "assets/products/shop/5819a6703ceac4695b31.jpg",
@@ -17,8 +32,6 @@
   "assets/products/shop/7df6e70335e1b7d6b077.jpg",
   "assets/products/shop/82af8b3fe3f4dcf78ab6.jpg",
   "assets/products/shop/d86d15b5ac41ae18ca29.jpg",
-  "assets/products/shop/77895c04e33248f54908.jpg",
-  "assets/products/shop/6f1d61676341e96e867e.jpg",
   "assets/products/shop/d7ce4b596ef3c2b20d74.jpg"
  ],
  "draft": false,
@@ -33,9 +46,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Bolso Bandolera Daz Bag",
- "name_es": "Bolso Bolso Bandolera Daz",
+ "name_en": "Daz Premium Printed Crossbody Bag",
+ "name_es": "Bolso Bandolera Estampado Daz Premium",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1476,
@@ -43,9 +57,37 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Cámaras y ópticas > Accesorios ópticos y de cámara > Accesorios para lentes ópticas > Maletines y bolsos para lentes ópticas > Fundas para accesorios",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Height",
+   "Width",
+   "Strap drop length"
+  ],
+  "headers_es": [
+   "Longitud",
+   "Altura",
+   "Ancho",
+   "Longitud de caída de la correa"
+  ],
+  "notes_en": "Measurements are provided in centimeters and inches. Made to order with worldwide shipping.",
+  "notes_es": "Las medidas se proporcionan en centímetros y pulgadas. Pieza confeccionada bajo demanda con envío mundial.",
+  "rows": [
+   [
+    "25.5",
+    "15",
+    "10.5",
+    "58"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/77895c04e33248f54908.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolso bandolera DAZ Premium con cadena de PU para mujer",
  "stripe_payment_link": "https://buy.stripe.com/3cI14oafiaCM2QeayG1gP2Z",
  "supplier": "Shopify",

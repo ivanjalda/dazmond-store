@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/falda"
+ ],
+ "ai_color": "White / Multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_sizes": "One Size",
+ "ai_type": "Skirt",
+ "ai_ver": 2,
+ "art_note": "The product shots are clean studio displays, but the lifestyle images rely on unconvincing digital compositing, lowering the luxury standard.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-falda-larga-tipo-pareo-daz-premium-con-volantes-y-lazos-laterales-para",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This long sarong skirt combines elegance and fluidity for the summer season. Crafted with a sheer design and an all-over botanical-inspired print, it offers a lightweight silhouette that moves naturally. The asymmetric hem adds dynamic movement to the ensemble, while the side tie closure ensures an adjustable fit. A versatile piece designed to transition effortlessly between poolside relaxation and evening strolls. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Esta falda pareo larga combina elegancia y fluidez para la temporada estival. Confeccionada con un diseño transparente y un estampado integral de inspiración botánica, ofrece una silueta ligera que acompaña el movimiento con naturalidad. El dobladillo asimétrico aporta dinamismo al conjunto, mientras que el cierre de lazo lateral asegura un ajuste regulable. Una pieza versátil pensada para transicionar sin esfuerzo entre momentos de descanso junto al agua y paseos al atardecer. Cada pieza se confecciona bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Sheer sarong design\n· All-over print\n· Side tie waist closure\n· Fluid asymmetric hem\n· Machine wash with cold water and neutral detergent\n· Made to order and worldwide shipping",
+ "details_es": "· Diseño tipo pareo transparente\n· Estampado integral\n· Cierre de lazo lateral en la cintura\n· Dobladillo asimétrico fluido\n· Lavado a máquina con agua fría y detergente neutro\n· Confección bajo demanda y envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/641732650c165fac2c93.jpg",
-  "assets/products/shop/612cf5ae720920291d6c.jpg",
-  "assets/products/shop/c576498041be837fc11e.jpg",
-  "assets/products/shop/93b00e3774b661843b0d.jpg",
-  "assets/products/shop/1f71005ef9cf8bd54922.jpg"
+  "assets/products/shop/612cf5ae720920291d6c.jpg"
  ],
  "draft": false,
  "fam": "falda-larga-tipo",
@@ -28,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Larga Tipo Pareo Skirt",
- "name_es": "Falda Larga Tipo Pareo",
+ "name_en": "Tulip Print Sarong Skirt",
+ "name_es": "Falda Pareo Estampada Tulipanes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
  "rank": 1443,
@@ -38,9 +50,34 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Batas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "One Size",
+    "77cm (30.3\")",
+    "45cm (17.7\")"
+   ]
+  ],
+  "unit": "cm (inch)"
+ },
+ "size_guide": [
+  "assets/products/shop/1f71005ef9cf8bd54922.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Falda larga tipo pareo DAZ Premium con volantes y lazos laterales para playa de mujer",
  "stripe_payment_link": "https://buy.stripe.com/eVq14o0EIdOYgH4gX41gP2v",
  "supplier": "Shopify",

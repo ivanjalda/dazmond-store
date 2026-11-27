@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Algodón de fibra larga",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean digital product renders on white background, missing high-end editorial lifestyle framing.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,11 @@
  "cg": "t-the-dazmond-stealth",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The evolution of the daily essential toward high technical resistance. This classic silhouette is endowed with a modern character through a slim cut that precisely sculpts the torso. The touch is light and fresh, while its long-staple cotton construction provides extraordinary durability. It is the immovable pillar of any elite wardrobe. Made to order with worldwide shipping available.",
+ "desc_es": "La evolución del esencial diario hacia la alta resistencia técnica. Esta silueta clásica se dota de un carácter moderno mediante un corte slim que esculpe el torso con precisión. Su tacto es ligero y fresco, mientras su construcción en algodón de fibra larga otorga una durabilidad extraordinaria. Es el pilar inamovible de cualquier guardarropa de élite. Fabricada bajo demanda con envío mundial disponible.",
+ "details_en": "· Composition: Long-staple cotton\n· Slim fit\n· 4.5 oz/yd² fabric weight\n· Made to order",
+ "details_es": "· Composición: Algodón de fibra larga\n· Corte slim fit\n· Gramaje de 4.5 oz/yd²\n· Fabricado bajo demanda",
  "display_images": [
-  "assets/products/shop/3fec53691949a52b7744.jpg",
-  "assets/products/shop/3fec53691949a52b7744.jpg",
-  "assets/products/shop/3fec53691949a52b7744.jpg",
-  "assets/products/shop/3fec53691949a52b7744.jpg",
-  "assets/products/shop/3fec53691949a52b7744.jpg",
   "assets/products/shop/3fec53691949a52b7744.jpg",
   "assets/products/shop/d08d2bd3f10af7a5b71a.jpg",
   "assets/products/shop/46640562cceaa74fbbaa.jpg",
@@ -34,9 +43,10 @@
   "printful-361906822"
  ],
  "material": "",
- "name_en": "Stealth Tee · Blanco",
- "name_es": "Camiseta Stealth · Blanco",
+ "name_en": "Stealth 150 T-Shirt · Blanco",
+ "name_es": "Camiseta Stealth 150 · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 1616,

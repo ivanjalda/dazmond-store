@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PU leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Crossbody Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate lighting, presenting the accessory against a neutral background.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-bolso-bandolera-daz-luxury-tipo-cubo-de-pu-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Elevate your daily rotation with this crossbody bag crafted from PU leather. Designed in a structured bucket silhouette, this accessory balances modern functionality with refined aesthetics. It features an adjustable and detachable shoulder strap for effortless versatility. A secure zip closure protects your essentials, while the rectangular base ensures structural stability. A sophisticated companion for everyday wear.",
+ "desc_es": "Eleve su colección diaria con este bolso bandolera elaborado en cuero de PU. Diseñado con una silueta tipo cubo, este accesorio combina funcionalidad y estilo contemporáneo. Cuenta con una correa de hombro ajustable y desmontable que permite adaptarse a sus necesidades. El cierre de cremallera seguro protege sus pertenencias, mientras que la base rectangular aporta estabilidad y estructura a la pieza. Una opción versátil para el uso diario.",
+ "details_en": "· PU leather\n· Adjustable and detachable shoulder strap\n· Zip closure\n· Rectangular base\n· Clean regularly with a dry cloth and air dry\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Cuero de PU\n· Correa de hombro ajustable y desmontable\n· Cierre de cremallera\n· Base rectangular\n· Limpiar regularmente con un paño seco y dejar secar al aire\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/37b1b7c2d2d6a1dcd0b3.jpg",
   "assets/products/shop/56ce5727e3aaadc7759f.jpg",
@@ -31,9 +46,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Bolso Bandolera Daz Bag",
- "name_es": "Bolso Bolso Bandolera Daz",
+ "name_en": "Tulip Print Bucket Bag",
+ "name_es": "Bolso Cubo Estampado Tulipanes",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1473,
@@ -41,9 +57,32 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Bolsos > Bolsos bandolera",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "One size. Adjustable and detachable shoulder strap.",
+  "notes_es": "Talla única. Correa de hombro ajustable y desmontable.",
+  "rows": [
+   [
+    "29",
+    "12.2",
+    "28.2"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
- "sizes": [],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Bolso bandolera DAZ Luxury tipo cubo de PU para mujer",
  "stripe_payment_link": "https://buy.stripe.com/bJebJ24UY4eo2Qe6iq1gP2W",
  "supplier": "Shopify",

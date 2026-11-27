@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "85% nailon, 15% elastano",
+ "ai_type": "bikini",
+ "ai_ver": 2,
+ "art_note": "The lifestyle campaign shot on the rooftop captures an upscale mood, though product close-ups lean standard.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,17 @@
  "cg": "t-ropa-interior-sin-costuras-dazmond-luxury-para-mujer",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The essential silhouette attains a new dimension of absolute comfort. This piece defines understated elegance through clean lines and impeccable construction. Crafted from a high-performance technical blend, it adapts with absolute precision to every movement. The bikini cut design naturally enhances the silhouette with refined sophistication. Each brief is made to order to preserve the exclusivity of our community. Available exclusively in black. Worldwide shipping available.",
+ "desc_es": "La silueta esencial adquiere una nueva dimensión de confort absoluto. Esta pieza define la elegancia discreta a través de líneas limpias y una construcción impecable. Confeccionada con una mezcla técnica de alto rendimiento, se adapta con precisión milimétrica a cada movimiento. El diseño de corte bikini realza la figura con naturalidad y sofisticación. Cada braguita se confecciona bajo demanda para preservar la exclusividad de nuestra comunidad. Disponible exclusivamente en tono negro. Envío mundial disponible.",
+ "details_en": "· 85% nylon, 15% spandex\n· Snug and seamless fit\n· Made-to-order piece\n· Hand or machine wash with water up to 45 C",
+ "details_es": "· 85% nailon, 15% elastano\n· Ajuste ceñido y sin costuras\n· Pieza fabricada bajo demanda\n· Lavar a mano o a máquina con agua a máximo 45 C",
  "display_images": [
   "assets/products/shop/a656b47715bac8bfbc8d.jpg",
   "assets/products/shop/b7c2c8e8640080ee8849.jpg",
   "assets/products/shop/a0cd93d4f8d1e488e7a7.jpg",
   "assets/products/shop/9fce789d35ddc05cc238.jpg",
   "assets/products/shop/0a0601dd3421bc57c8e5.jpg",
-  "assets/products/shop/b23c3902d3322091816c.jpg",
-  "assets/products/shop/2141fd2b3f8fe7aa7616.jpg",
-  "http://ipimg.interestprint.com/data/product/4441/info/image/20250806/77D9FF5E3EFE6E99A804CE1A378637F6.jpg"
+  "assets/products/shop/b23c3902d3322091816c.jpg"
  ],
  "draft": false,
  "fam": "ropa-interior-sin",
@@ -31,9 +43,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Ropa Interior Sin Underwear · Negro",
- "name_es": "Ropa Interior Ropa Interior Sin · Negro",
+ "name_en": "Black Seamless Bikini Brief · Negro",
+ "name_es": "Braguita Bikini Sin Costuras Negra · Negro",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 28.99,
  "rank": 1548,
@@ -41,8 +54,47 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa interior para chicas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "20cm / 7.9in",
+    "64cm / 25.2in"
+   ],
+   [
+    "M",
+    "21cm / 8.3in",
+    "68cm / 26.8in"
+   ],
+   [
+    "L",
+    "22cm / 8.7in",
+    "72cm / 28.3in"
+   ],
+   [
+    "XL",
+    "23cm / 9.1in",
+    "76cm / 29.9in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/2141fd2b3f8fe7aa7616.jpg",
+  "http://ipimg.interestprint.com/data/product/4441/info/image/20250806/77D9FF5E3EFE6E99A804CE1A378637F6.jpg"
+ ],
  "sizes": [
   "S",
   "M",

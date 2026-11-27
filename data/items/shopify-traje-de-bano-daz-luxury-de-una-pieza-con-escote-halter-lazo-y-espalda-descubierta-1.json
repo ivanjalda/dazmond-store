@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/trajes-bano"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Swimsuit",
+ "ai_ver": 2,
+ "art_note": "The model imagery features composited digital mockups which diminish the luxury house standard.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-traje-de-bano-daz-luxury-de-una-pieza-con-escote-halter-lazo",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined by graphic lines and a sculpted silhouette, this one-piece swimsuit reimagines summer elegance. The halter neckline accentuates the décolletage, while the open back introduces an air of refined sophistication. Crafted to accompany every movement with fluidity, this piece merges modern minimalism with impeccable design for the sun-drenched season.",
+ "desc_es": "Definido por líneas gráficas y una silueta esculpida, este traje de baño de una pieza reencarna la elegancia estival. El diseño de cuello halter realza el escote, mientras que la espalda descubierta aporta un aire de sofisticación depurada. Confeccionado para acompanar cada movimiento con fluidez, esta pieza fusiona el minimalismo moderno con un diseño impecable para la temporada de sol.",
+ "details_en": "· 100% polyester\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100% poliéster\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/625b54c17f4b52169baf.jpg",
-  "assets/products/shop/f93e3deff01590dc7a58.jpg",
   "assets/products/shop/b45d774cbf97f92857c2.jpg",
-  "assets/products/shop/62addb9bed3002316828.jpg",
-  "assets/products/shop/5bccdfc7bd1297594fa1.jpg"
+  "assets/products/shop/62addb9bed3002316828.jpg"
  ],
  "draft": false,
  "fam": "traje-bano-luxury",
@@ -28,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Traje Baño Daz Swimwear",
- "name_es": "Bañador Traje Baño Daz",
+ "name_en": "Printed halter swimsuit",
+ "name_es": "Traje de baño halter estampado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
  "rank": 1613,
@@ -38,8 +50,58 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Trajes de baño > Trajes de baño de una pieza",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Waist"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Cintura"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "71.0cm (28.0\")",
+    "39.0cm (15.4\")",
+    "27.5cm (10.8\")"
+   ],
+   [
+    "M",
+    "73.0cm (28.7\")",
+    "41.5cm (16.3\")",
+    "28.7cm (11.3\")"
+   ],
+   [
+    "L",
+    "75.0cm (29.5\")",
+    "44.0cm (17.3\")",
+    "29.9cm (11.8\")"
+   ],
+   [
+    "XL",
+    "77.0cm (30.3\")",
+    "46.5cm (18.3\")",
+    "31.1cm (12.2\")"
+   ],
+   [
+    "2XL",
+    "79.0cm (31.1\")",
+    "49.0cm (19.3\")",
+    "32.3cm (12.7\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/5bccdfc7bd1297594fa1.jpg"
+ ],
  "sizes": [
   "S",
   "M",
