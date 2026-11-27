@@ -1,30 +1,31 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-26 23:41 UTC",
+  "updated": "2026-11-27 00:42 UTC",
   "totals": {
-    "catalogo": 2509,
-    "a_la_vista": 2156,
-    "disenos_a_la_vista": 914,
-    "ocultos": 353,
-    "ia_revisados": 1518,
-    "ia_pendientes": 990,
-    "con_boton_de_pago": 2156,
+    "catalogo": 2522,
+    "a_la_vista": 2069,
+    "disenos_a_la_vista": 860,
+    "ocultos": 453,
+    "ia_revisados": 1519,
+    "ia_pendientes": 939,
+    "con_boton_de_pago": 2069,
     "sin_boton_de_pago": 0,
-    "seccion_dudosa": 11,
+    "seccion_dudosa": 9,
     "ventas_30_dias": 0,
     "visitas_30_dias": 2174,
     "fotos_de_campana": 0
   },
   "reasons": {
     "Vigilante": 3,
+    "Ya no está en el proveedor": 100,
     "No es un producto (venía de Shopify)": 1,
     "Borrador": 349
   },
   "suppliers": {
     "Printify": {
-      "visibles": 158,
-      "ocultos": 0
+      "visibles": 71,
+      "ocultos": 100
     },
     "Printful": {
       "visibles": 769,
@@ -40,72 +41,6 @@
     }
   },
   "guard": [
-    {
-      "date": "2026-11-20",
-      "n": 300,
-      "fixes": [
-        "Botas Noir: sección corregida a calzado-hombre/botas-botines-hombre, calzado-mujer/botas-botines",
-        "Botas Madison: sección corregida a calzado-hombre/botas-botines-hombre, calzado-mujer/botas-botines",
-        "Botas Imperial: sección corregida a calzado-hombre/botas-botines-hombre, calzado-mujer/botas-botines",
-        "Botas Manhattan: sección corregida a calzado-hombre/botas-botines-hombre, calzado-mujer/botas-botines",
-        "Botas Madison: sección corregida a calzado-hombre/botas-botines-hombre, calzado-mujer/botas-botines",
-        "Botas Monogram: sección corregida a calzado-hombre/botas-botines-hombre, calzado-mujer/botas-botines",
-        "Botas Atelier: sección corregida a calzado-hombre/botas-botines-hombre, calzado-mujer/botas-botines",
-        "Botas Madison: sección corregida a calzado-hombre/botas-botines-hombre, calzado-mujer/botas-botines",
-        "Zapatos Hudson · Negro: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Avenue: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Monogram: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Noir: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Hudson: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Monogram · Blanco: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Monogram · Negro: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Avenue · Blanco: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Imperial · Negro: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Atelier · Blanco: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Manhattan · Negro: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Madison · Blanco: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Pijama Manhattan: sección corregida a hombre/albornoz-pijama, mujer/batas-pijamas",
-        "Pijama Imperial: sección corregida a hombre/albornoz-pijama, mujer/batas-pijamas",
-        "Zapatillas de Casa Soho: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatillas de Casa Noir: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatillas de Casa Hudson: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatillas de Casa Manhattan: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatillas de Casa Avenue: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatillas de Casa Imperial: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatillas Monogram: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatillas Manhattan: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Botas Hudson: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Botas Noir: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Botas Madison: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Botas Riviera: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatillas Madison: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatillas Noir: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatillas Monogram: sección corregida a calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
-        "Zapatos Riviera: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Monogram: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Madison: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Madison: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Imperial: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Imperial: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Monogram: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Imperial: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Zapatos Soho: sección corregida a calzado-hombre/zapatos-elegantes, calzado-mujer/zapatillas",
-        "Camiseta Riviera · Blanco: sección corregida a mujer/camisas",
-        "Camiseta Soho · Blanco: sección corregida a mujer/camisas",
-        "Camiseta Atelier · Blanco: sección corregida a mujer/camisas",
-        "Camiseta Madison · Blanco: sección corregida a mujer/camisas",
-        "Blazer Imperial · Blanco: sección corregida a mujer/camisas",
-        "Blazer Madison · Blanco: sección corregida a mujer/camisas",
-        "Blazer Riviera · Blanco: sección corregida a mujer/camisas",
-        "Botas Monogram: sección corregida a calzado-hombre/zapatillas-hombre",
-        "Botas Soho: sección corregida a calzado-hombre/zapatillas-hombre",
-        "Botas Imperial: sección corregida a calzado-mujer/zapatillas",
-        "Botas Hudson: sección corregida a calzado-mujer/zapatillas",
-        "Blazer Avenue · Blanco: sección corregida a hombre/abrigo-chaqueta-sueter",
-        "Blazer Noir · Blanco: sección corregida a hombre/abrigo-chaqueta-sueter",
-        "Blazer Atelier · Blanco: sección corregida a hombre/abrigo-chaqueta-sueter"
-      ]
-    },
     {
       "date": "2026-11-21",
       "n": 300,
@@ -318,6 +253,11 @@
       "fixes": [
         "Taza DAZ Luxury Blanca: inspección IA: era t-shirt (women) → mujer/camisetas-blusas-tops"
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "n": 0,
+      "fixes": []
     }
   ],
   "top_sales": [],
@@ -485,22 +425,6 @@
       "img": "https://files.cdn.printful.com/files/def/defb8d75427243e36164fe56d8b1488e_preview.png",
       "c": "hombre/camiseta",
       "pr": 23.99
-    },
-    {
-      "id": "printify-6682f7eaabc218c5680b99db",
-      "n": "Pieza Calcetines Daz Longitud",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
-      "c": "hombre/camiseta",
-      "pr": 48.99
-    },
-    {
-      "id": "printify-667ff286278e297032061cca",
-      "n": "Edredón DAZ Negro",
-      "s": "Printify",
-      "img": "https://images.printify.com/mockup/667ff286278e297032061cca/61418/2645/edredon-daz.jpg?camera_label=front",
-      "c": "hombre/camiseta",
-      "pr": 181.99
     }
   ],
   "hidden": [
@@ -530,6 +454,141 @@
       "c": "mujer/trajes-bano",
       "pr": 42.99,
       "why": "Vigilante: repetido de shopify-design-swimsuit-set-front-side-printingmade-in-usa-azul-medio-profundo"
+    },
+    {
+      "id": "printify-6b06455171915c76bb027d03",
+      "n": "Lámina Artística Gatsby Fan",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b06455171915c76bb027d03/43135/94677/gatsby-fan-art-print.jpg?camera_label=front",
+      "c": "decor",
+      "pr": 63.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b06453cfb3b556d1c04ed30",
+      "n": "Sudadera Baroque Mirror Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b06453cfb3b556d1c04ed30/32920/98424/baroque-mirror-hoodie.jpg?camera_label=front",
+      "c": "hombre/chandal-sudaderas",
+      "pr": 46.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b06454bfb3b556d1c04ed46",
+      "n": "Sudadera Gatsby Fan",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b06454bfb3b556d1c04ed46/32920/98424/gatsby-fan-hoodie.jpg?camera_label=front",
+      "c": "hombre/chandal-sudaderas",
+      "pr": 46.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b06455a9a7ef0f8180cc7f3",
+      "n": "Sudadera con capucha House Seal",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b06455a9a7ef0f8180cc7f3/32920/98424/house-seal-hoodie.jpg?camera_label=front",
+      "c": "hombre/chandal-sudaderas",
+      "pr": 46.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b0645629a7ef0f8180cc800",
+      "n": "Taza House Seal",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b0645629a7ef0f8180cc800/62327/3387/house-seal-mug.jpg?camera_label=front",
+      "c": "decor",
+      "pr": 51.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b06455efb3b556d1c04ed5f",
+      "n": "Sudadera House Seal Negra",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b06455efb3b556d1c04ed5f/25459/98502/house-seal-crewneck.jpg?camera_label=front",
+      "c": "hombre/chandal-sudaderas",
+      "pr": 45.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b064539fb3b556d1c04ed2a",
+      "n": "Camiseta Baroque Mirror",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b064539fb3b556d1c04ed2a/12124/102005/baroque-mirror-tee.jpg?camera_label=front-2",
+      "c": "hombre/camiseta",
+      "pr": 28.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b06453fc873c9091302bc50",
+      "n": "Cojín Baroque Mirror",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b06453fc873c9091302bc50/41521/47613/baroque-mirror-cushion.jpg?camera_label=front",
+      "c": "decor",
+      "pr": 82.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b064548c873c9091302bc5b",
+      "n": "Camiseta Gatsby Fan Negra",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b064548c873c9091302bc5b/12124/102005/gatsby-fan-tee.jpg?camera_label=front-2",
+      "c": "hombre/camiseta",
+      "pr": 28.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b06454e71915c76bb027cfe",
+      "n": "Cojín Gatsby Fan",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b06454e71915c76bb027cfe/41521/47613/gatsby-fan-cushion.jpg?camera_label=front",
+      "c": "decor",
+      "pr": 82.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b06455643cb7ee2d4028d25",
+      "n": "Camiseta House Seal",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b06455643cb7ee2d4028d25/12124/102005/house-seal-tee.jpg?camera_label=front-2",
+      "c": "hombre/camiseta",
+      "pr": 28.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b06454243cb7ee2d4028d0f-black",
+      "n": "Bolso Tote Baroque Mirror · Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b06454243cb7ee2d4028d0f/119445/109797/baroque-mirror-tote.jpg?camera_label=front",
+      "c": "hombre/bolsos-carteras",
+      "pr": 27.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6b06454243cb7ee2d4028d0f-oyster",
+      "n": "Bolso Tote Baroque Mirror · Oyster",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6b06454243cb7ee2d4028d0f/119446/109797/baroque-mirror-tote.jpg?camera_label=front",
+      "c": "hombre/bolsos-carteras",
+      "pr": 27.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-669f83a05ae27e8ca40cccd2",
+      "n": "Chanclas Estampadas Daz",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/669f83a05ae27e8ca40cccd2/72175/15337/chancletas-daz.jpg?camera_label=front",
+      "c": "calzado-hombre/sandalias-chanclas-hombre",
+      "pr": 35.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-669f91e867655a12810d4933",
+      "n": "Chanclas Daz Luxury Black",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/669f91e867655a12810d4933/72175/15337/chancletas-daz-luxury.jpg?camera_label=front",
+      "c": "calzado-hombre/sandalias-chanclas-hombre",
+      "pr": 35.99,
+      "why": "Ya no está en el proveedor"
     },
     {
       "id": "shopify-es-package-protection",
@@ -3304,6 +3363,24 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
+      "id": "printify-66c7788478bf9b611c0137c9-black",
+      "n": "Bata Kimono Art Negra · Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66c7788478bf9b611c0137c9/77571/35866/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 56.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66c7788478bf9b611c0137c9-white",
+      "n": "Bata Kimono Art Negra · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66c7788478bf9b611c0137c9/77572/31467/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=on-person-front-2",
+      "c": "mujer/batas-pijamas",
+      "pr": 56.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
       "id": "interestprint-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-removebg-preview-mens-cotton-padded-shoes-model-19291",
       "n": "Zapatillas Logo Diamante Lujo",
       "s": "InterestPrint",
@@ -3320,6 +3397,24 @@
       "c": "calzado-hombre/zapatillas-hombre",
       "pr": 48.99,
       "why": "Borrador: esperando la revisión de la IA"
+    },
+    {
+      "id": "printify-66d98379266c81aff6086146",
+      "n": "Pijama Conjunto Pijama Corto · Blanco",
+      "s": "Printify",
+      "img": "assets/products/shop/0459eb079d0254f5f59d.jpg",
+      "c": "mujer/batas-pijamas",
+      "pr": 55.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66d98827f02b0468c20aa681",
+      "n": "Pijama Conjunto Pijama Corto · Blanco",
+      "s": "Printify",
+      "img": "assets/products/shop/e23b98f73f930ced86e0.jpg",
+      "c": "mujer/batas-pijamas",
+      "pr": 55.99,
+      "why": "Ya no está en el proveedor"
     },
     {
       "id": "interestprint-design-womens-hooded-puffer-coat",
@@ -3466,6 +3561,24 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
+      "id": "printify-6750352c74c95aa2af003f06-black-sole",
+      "n": "Zapatillas Zapatillas Daz Malla · Black Sole",
+      "s": "Printify",
+      "img": "assets/products/shop/aaa1c0150a7405fa5ab7.jpg",
+      "c": "calzado-hombre/zapatillas-hombre",
+      "pr": 76.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6750352c74c95aa2af003f06-white-sole",
+      "n": "Zapatillas Zapatillas Daz Malla · White Sole",
+      "s": "Printify",
+      "img": "assets/products/shop/667454a59cdcc096dbbe.jpg",
+      "c": "calzado-hombre/zapatillas-hombre",
+      "pr": 76.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
       "id": "interestprint-design-men-s-long-sleeve-rash-guard-ships-from-usa-black",
       "n": "Bañador Rash Guard Ships · Negro",
       "s": "InterestPrint",
@@ -3509,6 +3622,24 @@
       "c": "calzado-mujer/zapatillas",
       "pr": 45.99,
       "why": "Borrador: esperando la revisión de la IA"
+    },
+    {
+      "id": "printify-66ce0992d02dceb72c028348",
+      "n": "Pijama Pantalones Pijama Daz · Blanco",
+      "s": "Printify",
+      "img": "assets/products/shop/4ac13f68d4b8dc4fbff0.jpg",
+      "c": "hombre/albornoz-pijama",
+      "pr": 71.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66cf42a8adbc75428a0b8f15",
+      "n": "Pijama Pantalones Daz Pijama · Blanco",
+      "s": "Printify",
+      "img": "assets/products/shop/cf6ccf57b22b53ba76a4.jpg",
+      "c": "hombre/albornoz-pijama",
+      "pr": 71.99,
+      "why": "Ya no está en el proveedor"
     },
     {
       "id": "interestprint-design-womens-patch-pocket-fleece-jacket",
@@ -3619,6 +3750,24 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
+      "id": "printify-66c77521952a7b43690bcfdd-black",
+      "n": "Bata Kimono Minimalista · Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66c77521952a7b43690bcfdd/77571/35870/bata-tipo-kimono-daz-luxury-de-manga-larga.jpg?camera_label=on-person-front-2",
+      "c": "hombre/albornoz-pijama",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66c77521952a7b43690bcfdd-white",
+      "n": "Bata Kimono Minimalista · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66c77521952a7b43690bcfdd/77572/29522/bata-tipo-kimono-daz-luxury-de-manga-larga.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
       "id": "shopify-collar-de-corazon",
       "n": "Joya Collar Corazón Daz",
       "s": "Shopify",
@@ -3680,6 +3829,681 @@
       "c": "decor",
       "pr": 68.99,
       "why": "Borrador: esperando la revisión de la IA"
+    },
+    {
+      "id": "printify-6682f7eaabc218c5680b99db",
+      "n": "Pieza Calcetines Daz Longitud",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6682f7eaabc218c5680b99db/77921/28957/calcetines-daz-de-longitud-media.jpg?camera_label=front-and-side-left",
+      "c": "hombre/camiseta",
+      "pr": 48.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-669f857d202b3fb01407bf9c",
+      "n": "Chanclas DAZ Black Sole",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/669f857d202b3fb01407bf9c/72175/15337/chancletas-daz.jpg?camera_label=front",
+      "c": "calzado-hombre/sandalias-chanclas-hombre",
+      "pr": 35.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-669f87936b62c2d4940ddfd7",
+      "n": "Chanclas DAZ Black Sole",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/669f87936b62c2d4940ddfd7/72175/15337/chancletas-daz.jpg?camera_label=front",
+      "c": "calzado-hombre/sandalias-chanclas-hombre",
+      "pr": 35.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-669f89290086155073058730",
+      "n": "Chanclas Daz Black",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/669f89290086155073058730/72175/15337/chancletas-daz.jpg?camera_label=front",
+      "c": "calzado-hombre/sandalias-chanclas-hombre",
+      "pr": 35.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667eda9f755ceaeb6f0cbb56",
+      "n": "Vestido Daz Art",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667eda9f755ceaeb6f0cbb56/95203/94573/vestido-daz-art-para-mujer.jpg?camera_label=front",
+      "c": "mujer/vestidos-monos-petos",
+      "pr": 67.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667f166751b029587d086730",
+      "n": "Reloj Reloj Pared Daz · Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667f166751b029587d086730/43008/586/reloj-de-pared-daz-art.jpg?camera_label=front",
+      "c": "decor",
+      "pr": 57.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668eaa0ce8327b730b0bcac2",
+      "n": "Pantalón corto moisture-wicking",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668eaa0ce8327b730b0bcac2/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
+      "c": "mujer/pantalones-cortos",
+      "pr": 41.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668eaac5f88774f5bd03c22e",
+      "n": "Pantalón corto DAZ Premium",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668eaac5f88774f5bd03c22e/86201/55196/short-daz-premium-para-mujer.jpg?camera_label=front",
+      "c": "mujer/pantalones-cortos",
+      "pr": 41.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668eab5af72a45d14c0529a4",
+      "n": "Shorts DAZ Luxury",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668eab5af72a45d14c0529a4/86201/55196/short-daz-luxury-para-mujer.jpg?camera_label=front",
+      "c": "mujer/pantalones-cortos",
+      "pr": 41.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668eac084542f0d6d6052014",
+      "n": "Pantalón corto de alto rendimiento",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668eac084542f0d6d6052014/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
+      "c": "mujer/pantalones-cortos",
+      "pr": 41.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668eb21afc9e2d84f00ecdc1",
+      "n": "Shorts Nocturne Blue",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668eb21afc9e2d84f00ecdc1/86201/55196/short-daz-para-mujer.jpg?camera_label=front",
+      "c": "mujer/pantalones-cortos",
+      "pr": 42.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-669e806425958c3555000e36",
+      "n": "Bolsa de Almuerzo Daz Luxury",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/669e806425958c3555000e36/80176/47003/bolsa-daz-luxury-de-almuerzo-de-poliester.jpg?camera_label=front",
+      "c": "hombre/bolsos-carteras",
+      "pr": 44.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668d262a442fbb17cc0643ca",
+      "n": "Falda Daz Art",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668d262a442fbb17cc0643ca/43199/699/falda-daz-premium-art-para-mujer.jpg?camera_label=front",
+      "c": "mujer/falda",
+      "pr": 53.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668d28a29b6281d799024d4d",
+      "n": "Falda Daz Art",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668d28a29b6281d799024d4d/43199/699/falda-daz-art-para-mujer.jpg?camera_label=front",
+      "c": "mujer/falda",
+      "pr": 53.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668d48f046ad9d669109904a",
+      "n": "Falda Daz Art",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668d48f046ad9d669109904a/43199/699/falda-daz-art-para-mujer.jpg?camera_label=front",
+      "c": "mujer/falda",
+      "pr": 53.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668d4a9d4aaa7843530eb807",
+      "n": "Falda Daz Art",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668d4a9d4aaa7843530eb807/43199/699/falda-daz-art-para-mujer.jpg?camera_label=front",
+      "c": "mujer/falda",
+      "pr": 53.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668d517c9fb7b7acb409f0de",
+      "n": "Falda Daz Art",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668d517c9fb7b7acb409f0de/43199/699/falda-daz-luxury-art-para-mujer.jpg?camera_label=front",
+      "c": "mujer/falda",
+      "pr": 53.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-grass",
+      "n": "Camiseta Daz Bolsillo Teñido · Grass",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103730/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 45.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-island-green",
+      "n": "Camiseta Daz Bolsillo Teñido · Island Green",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103748/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 47.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667febf802df017857059b9c",
+      "n": "Vaso de Chupito Vaso Chupito Daz",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667febf802df017857059b9c/94263/76524/vaso-de-chupito-daz-15-oz.jpg?camera_label=front",
+      "c": "decor",
+      "pr": 22.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667fe0c4b7872f45a704e1ed",
+      "n": "Copa de Vino Copa Vino Sin",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667fe0c4b7872f45a704e1ed/98948/88877/copa-de-vino-sin-tallo-1175-oz.jpg?camera_label=front",
+      "c": "decor",
+      "pr": 23.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667ffdfb544445f895024903",
+      "n": "Estuche para Tarjetas Silver",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667ffdfb544445f895024903/73415/17466/tarjetero-daz.jpg?camera_label=front",
+      "c": "hombre/bolsos-carteras",
+      "pr": 34.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66b0eabae9b54b73a608799f-black",
+      "n": "Camiseta Daz Moda Ligera · Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66b0eabae9b54b73a608799f/22937/105040/camiseta-daz-de-moda-ligera-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 28.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66b0eabae9b54b73a608799f-smoke",
+      "n": "Camiseta Daz Moda Ligera · Smoke",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66b0eabae9b54b73a608799f/23141/105040/camiseta-daz-de-moda-ligera-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 28.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66b0eabae9b54b73a608799f-white",
+      "n": "Camiseta Daz Moda Ligera · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66b0eabae9b54b73a608799f/23159/105040/camiseta-daz-de-moda-ligera-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 28.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38c1595711701b7019b15-black",
+      "n": "Camiseta Daz Teñida Prenda · Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38c1595711701b7019b15/73204/98445/camiseta-daz-tenida-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 59.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38c1595711701b7019b15-grey",
+      "n": "Camiseta Daz Teñida Prenda · Gris",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38c1595711701b7019b15/78973/98445/camiseta-daz-tenida-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 59.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38c1595711701b7019b15-pepper",
+      "n": "Camiseta Daz Teñida Prenda · Pepper",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38c1595711701b7019b15/79048/98445/camiseta-daz-tenida-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 59.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38c1595711701b7019b15-white",
+      "n": "Camiseta Daz Teñida Prenda · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38c1595711701b7019b15/73207/98445/camiseta-daz-tenida-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 59.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38c1595711701b7019b15-ivory",
+      "n": "Camiseta Daz Teñida Prenda · Marfil",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38c1595711701b7019b15/78993/98445/camiseta-daz-tenida-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 53.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38c1595711701b7019b15-moss",
+      "n": "Camiseta Daz Teñida Prenda · Moss",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38c1595711701b7019b15/79023/98445/camiseta-daz-tenida-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 53.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38c1595711701b7019b15-navy",
+      "n": "Camiseta Daz Teñida Prenda · Azul Marino",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38c1595711701b7019b15/73205/98445/camiseta-daz-tenida-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 53.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38c1595711701b7019b15-orchid",
+      "n": "Camiseta Daz Teñida Prenda · Orchid",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38c1595711701b7019b15/79038/98445/camiseta-daz-tenida-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 53.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66c77bb7ccae1a6d1d0c4c37",
+      "n": "Bata Kimono Art White",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66c77bb7ccae1a6d1d0c4c37/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 56.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-black",
+      "n": "Camiseta Daz Bolsillo Teñido · Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103628/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-blossom",
+      "n": "Camiseta Daz Bolsillo Teñido · Blossom",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103634/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-blue-jean",
+      "n": "Camiseta Daz Bolsillo Teñido · Blue Jean",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103640/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-bright-salmon",
+      "n": "Camiseta Daz Bolsillo Teñido · Bright Salmon",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103658/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-crunchberry",
+      "n": "Camiseta Daz Bolsillo Teñido · Crunchberry",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103700/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-granite",
+      "n": "Camiseta Daz Bolsillo Teñido · Granite",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103718/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-graphite",
+      "n": "Camiseta Daz Bolsillo Teñido · Graphite",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103724/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-island-reef",
+      "n": "Camiseta Daz Bolsillo Teñido · Island Reef",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103754/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-ivory",
+      "n": "Camiseta Daz Bolsillo Teñido · Marfil",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103760/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-lagoon-blue",
+      "n": "Camiseta Daz Bolsillo Teñido · Lagoon Blue",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103766/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-light-green",
+      "n": "Camiseta Daz Bolsillo Teñido · Light Green",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103772/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-pepper",
+      "n": "Camiseta Daz Bolsillo Teñido · Pepper",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103784/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-red",
+      "n": "Camiseta Daz Bolsillo Teñido · Rojo",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103790/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-royal-caribe",
+      "n": "Camiseta Daz Bolsillo Teñido · Royal Caribe",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103796/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66a38a65986816ca980b0a24-white",
+      "n": "Camiseta Daz Bolsillo Teñido · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66a38a65986816ca980b0a24/103802/100701/camiseta-daz-con-bolsillo-tenido-en-prenda-para-hombre.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66cf45b7aed3358c8e0c813d",
+      "n": "Pijama Pantalones Daz Pijama · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66cf45b7aed3358c8e0c813d/74879/19086/pantalones-daz-de-pijama-para-hombre.jpg?camera_label=front",
+      "c": "hombre/albornoz-pijama",
+      "pr": 73.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667fea2b304632c52403deaa",
+      "n": "Jarra de Cerveza Jarra Cerveza Vidrio",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667fea2b304632c52403deaa/87958/55346/jarra-de-cerveza-de-vidrio-esmerilado-daz.jpg?camera_label=front",
+      "c": "decor",
+      "pr": 48.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66d98513fad994a9d30e5aee",
+      "n": "Pijama Conjunto Pijama Corto · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66d98513fad994a9d30e5aee/75681/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 55.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66d9866ac830a5938703f549",
+      "n": "Pijama Conjunto Pijama Corto · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66d9866ac830a5938703f549/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 55.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66d989c3667a2133250ca6dc",
+      "n": "Pijama Conjunto Pijama Corto · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66d989c3667a2133250ca6dc/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 55.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66d98c33d084380d6503ad80",
+      "n": "Pijama Conjunto Pijama Corto · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66d98c33d084380d6503ad80/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 55.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667d857d08d6eaf0770fb9a6",
+      "n": "Zuecos de Espuma DAZ White",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667d857d08d6eaf0770fb9a6/106592/102975/zuecos-de-espuma-daz.jpg?camera_label=front",
+      "c": "calzado-hombre/zuecos-hombre",
+      "pr": 25.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668e9aad2d359efa5e01c5e2",
+      "n": "Pijama Pantalones Pijama Daz · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668e9aad2d359efa5e01c5e2/74886/19424/pantalones-de-pijama-daz-premium-america-para-mujer.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 71.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668e9e52d796bbfa6501fb9f",
+      "n": "Pijama Pantalones Pijama Daz · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668e9e52d796bbfa6501fb9f/74886/19424/pantalones-de-pijama-daz-premium-art-para-mujer.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 71.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667fef28e7d326f1ba036b17",
+      "n": "Manta con Capucha Cream",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667fef28e7d326f1ba036b17/74535/19934/manta-polar-sherpa-daz-con-capucha.jpg?camera_label=lifestyle-man",
+      "c": "hombre/chandal-sudaderas",
+      "pr": 102.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667fe6feb2b486bc7808298c",
+      "n": "Copa de Vino Copa Vino",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667fe6feb2b486bc7808298c/98949/74268/copa-de-vino-12-oz.jpg?camera_label=front",
+      "c": "decor",
+      "pr": 30.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-67504733a1a846f6310ad7f5-black-sole",
+      "n": "Zapatillas Zapatillas Daz Malla · Black Sole",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/67504733a1a846f6310ad7f5/80914/59688/zapatillas-daz-luxury-de-malla-para-hombre.jpg?camera_label=left-and-right-angle",
+      "c": "calzado-hombre/zapatillas-hombre",
+      "pr": 76.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-67504733a1a846f6310ad7f5-white-sole",
+      "n": "Zapatillas Zapatillas Daz Malla · White Sole",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/67504733a1a846f6310ad7f5/80915/64445/zapatillas-daz-luxury-de-malla-para-hombre.jpg?camera_label=left-and-right-angle",
+      "c": "calzado-hombre/zapatillas-hombre",
+      "pr": 76.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6750571a9e6fa2d23a010328-black-sole",
+      "n": "Zapatillas Zapatillas Daz Malla · Black Sole",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6750571a9e6fa2d23a010328/80914/59688/zapatillas-daz-luxury-de-malla-para-hombre.jpg?camera_label=left-and-right-angle",
+      "c": "calzado-hombre/zapatillas-hombre",
+      "pr": 76.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-6750571a9e6fa2d23a010328-white-sole",
+      "n": "Zapatillas Zapatillas Daz Malla · White Sole",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/6750571a9e6fa2d23a010328/80915/64445/zapatillas-daz-luxury-de-malla-para-hombre.jpg?camera_label=left-and-right-angle",
+      "c": "calzado-hombre/zapatillas-hombre",
+      "pr": 76.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-668e993080086c43e900712d",
+      "n": "Pijama Pantalones Pijama Daz · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/668e993080086c43e900712d/74886/19424/pantalones-de-pijama-daz-premium-art-para-mujer.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 80.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667ff286278e297032061cca",
+      "n": "Edredón DAZ Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667ff286278e297032061cca/61418/2645/edredon-daz.jpg?camera_label=front",
+      "c": "hombre/camiseta",
+      "pr": 181.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667d7f2d904feab6a00efc29",
+      "n": "Zuecos de Espuma America",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667d7f2d904feab6a00efc29/106591/102975/zuecos-de-espuma-daz-america.jpg?camera_label=front",
+      "c": "calzado-hombre/zuecos-hombre",
+      "pr": 27.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66cf43908fecdb07e90ae86c",
+      "n": "Pijama Pantalones Daz Pijama · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66cf43908fecdb07e90ae86c/74879/19086/pantalones-daz-de-pijama-para-hombre.jpg?camera_label=front",
+      "c": "hombre/albornoz-pijama",
+      "pr": 71.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-675046d49e6fa2d23a00ff0b-black-sole",
+      "n": "Zapatillas Zapatillas Daz Malla · Black Sole",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/675046d49e6fa2d23a00ff0b/80914/59688/zapatillas-daz-luxury-de-malla-para-hombre.jpg?camera_label=left-and-right-angle",
+      "c": "calzado-hombre/zapatillas-hombre",
+      "pr": 83.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-675046d49e6fa2d23a00ff0b-white-sole",
+      "n": "Zapatillas Zapatillas Daz Malla · White Sole",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/675046d49e6fa2d23a00ff0b/80915/64445/zapatillas-daz-luxury-de-malla-para-hombre.jpg?camera_label=left-and-right-angle",
+      "c": "calzado-hombre/zapatillas-hombre",
+      "pr": 83.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-67504772d8141136d60781f1-black-sole",
+      "n": "Zapatillas Zapatillas Daz Malla · Black Sole",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/67504772d8141136d60781f1/80914/59688/zapatillas-daz-luxury-de-malla-para-hombre.jpg?camera_label=left-and-right-angle",
+      "c": "calzado-hombre/zapatillas-hombre",
+      "pr": 83.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-67504772d8141136d60781f1-white-sole",
+      "n": "Zapatillas Zapatillas Daz Malla · White Sole",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/67504772d8141136d60781f1/80915/64445/zapatillas-daz-luxury-de-malla-para-hombre.jpg?camera_label=left-and-right-angle",
+      "c": "calzado-hombre/zapatillas-hombre",
+      "pr": 83.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-667fe56e597a232084000452",
+      "n": "Vaso Vaso Whisky",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/667fe56e597a232084000452/98950/87715/vaso-de-whisky.jpg?camera_label=front",
+      "c": "decor",
+      "pr": 24.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66c776845a6e6cd10602ba6b-black",
+      "n": "Bata Kimono Seda Negra · Negro",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66c776845a6e6cd10602ba6b/77571/35866/bata-tipo-kimono-daz-luxury-de-manga-larga.jpg?camera_label=front",
+      "c": "hombre/albornoz-pijama",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-66c776845a6e6cd10602ba6b-white",
+      "n": "Bata Kimono Seda Negra · Blanco",
+      "s": "Printify",
+      "img": "https://images.printify.com/mockup/66c776845a6e6cd10602ba6b/77572/29522/bata-tipo-kimono-daz-luxury-de-manga-larga.jpg?camera_label=front",
+      "c": "mujer/batas-pijamas",
+      "pr": 54.99,
+      "why": "Ya no está en el proveedor"
     }
   ],
   "log": [
@@ -3687,21 +4511,37 @@
     "CSV leído: nuevos_productos.csv",
     "CSV leído: shopify_productos.csv",
     "CSV leído: telegram.csv",
-    "Printify: 58 piezas leídas",
+    "Printify: 71 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 10 s",
-    "Productos en catálogo: 2509 · a la vista: 2159 · archivados: 1",
+    "⏱ lectura de proveedores: 11 s",
+    "Productos en catálogo: 2522 · a la vista: 2072 · archivados: 101",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 2153 piezas",
     "⏱ ventas, visitas y cupones: 3 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 1 productos revisados (fotos, guía de tallas y textos) · quedan 1215",
-    "⏱ revisión con IA: 196 s",
-    "⏱ vigilante: 0 s",
+    "IA: 1 productos revisados (fotos, guía de tallas y textos) · quedan 1164",
+    "⏱ revisión con IA: 207 s",
+    "⏱ vigilante: 16 s",
+    "Estudio de fotos: Google no permite crear imágenes con esta clave gratuita hoy. Se reintenta mañana.",
+    "Estudio de fotos: 0 fotos de campaña nuevas (de 1 intentos)",
     "⏱ estudio de fotos: 0 s",
-    "⏱ enlaces de pago: 0 s",
+    "Stripe: enlace normal listo para printify-6b08d1d6c87e8df47b094892",
+    "Stripe: enlace normal listo para printify-6b08d1e755d595d88e0a365f",
+    "Stripe: enlace normal listo para printify-6b08d1fb08b8102972074efc",
+    "Stripe: enlace normal listo para printify-6b08d1dfedc552ae3508a8e1",
+    "Stripe: enlace normal listo para printify-6b08d1ecf7ed4c973b05978a",
+    "Stripe: enlace normal listo para printify-6b08d1e9edc552ae3508a8f0",
+    "Stripe: enlace normal listo para printify-6b08d1fe55d595d88e0a3681",
+    "Stripe: enlace normal listo para printify-6b08d1f7c87e8df47b0948ca",
+    "Stripe: enlace normal listo para printify-6b08d1d908b8102972074ebe",
+    "Stripe: enlace normal listo para printify-6b08d1e4d4c50971c203623a",
+    "Stripe: enlace normal listo para printify-6b08d1f4c87e8df47b0948c2",
+    "Stripe: enlace normal listo para printify-6b08d1dcedc552ae3508a8dd-black",
+    "Stripe: enlace normal listo para printify-6b08d1dcedc552ae3508a8dd-oyster",
+    "Stripe: 13 productos con enlace de pago nuevo en esta hora",
+    "⏱ enlaces de pago: 9 s",
     "Cambio actualizado: 1 USD = 0.9112 EUR",
     "Listo."
   ]

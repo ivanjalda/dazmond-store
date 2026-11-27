@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T23:41:46Z",
+  "updated": "2026-11-27T00:42:40Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -925,7 +925,7 @@
     "interestprint-design-fleece-hooded-cape-for-adults-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -934,7 +934,7 @@
     "interestprint-design-fleece-hooded-cape-for-adults-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -970,7 +970,7 @@
     "interestprint-design-fleece-hooded-cape-for-adults": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3094,7 +3094,7 @@
     "interestprint-design-yoga-zipper-vest-4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3103,7 +3103,7 @@
     "interestprint-design-yoga-zipper-vest-3": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3112,7 +3112,7 @@
     "interestprint-design-yoga-zipper-vest-2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3121,7 +3121,7 @@
     "interestprint-design-yoga-zipper-vest-1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -3130,7 +3130,7 @@
     "interestprint-design-yoga-zipper-vest": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -29158,7 +29158,7 @@
     "printify-6b0645629a7ef0f8180cc800": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29167,7 +29167,7 @@
     "printify-6b06455efb3b556d1c04ed5f": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29176,7 +29176,7 @@
     "printify-6b06455a9a7ef0f8180cc7f3": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29185,7 +29185,7 @@
     "printify-6b06455643cb7ee2d4028d25": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29194,7 +29194,7 @@
     "printify-6b06455171915c76bb027d03": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29203,7 +29203,7 @@
     "printify-6b06454e71915c76bb027cfe": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29212,7 +29212,7 @@
     "printify-6b06454bfb3b556d1c04ed46": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29221,7 +29221,7 @@
     "printify-6b064548c873c9091302bc5b": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29230,7 +29230,7 @@
     "printify-6b06454243cb7ee2d4028d0f-black": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29239,7 +29239,7 @@
     "printify-6b06454243cb7ee2d4028d0f-oyster": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29248,7 +29248,7 @@
     "printify-6b06453fc873c9091302bc50": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29275,7 +29275,7 @@
     "printify-6b06756c10baa70da60745ec": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29284,7 +29284,7 @@
     "printify-6b06756a790d678f870371d0": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29293,7 +29293,7 @@
     "printify-6b06756810baa70da60745e6": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29302,7 +29302,7 @@
     "printify-6b06756610baa70da60745e3": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29311,7 +29311,7 @@
     "printify-6b06756394a3ebd30609d3e4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29320,7 +29320,7 @@
     "printify-6b06756110baa70da60745da": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29329,7 +29329,7 @@
     "printify-6b06755f10baa70da60745d5": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29338,7 +29338,7 @@
     "printify-6b06755d6db425f6b50bacc5": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29347,7 +29347,7 @@
     "printify-6b066a6beca3203e09099358": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29356,7 +29356,7 @@
     "printify-6b066a6943cb7ee2d402bad9": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29365,7 +29365,7 @@
     "printify-6b066a67255f2587670ee3b9": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29374,7 +29374,7 @@
     "printify-6b066a659a7ef0f8180cf24e": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29383,7 +29383,7 @@
     "printify-6b066a6258dd70255e0d357f": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29392,7 +29392,7 @@
     "printify-6b066a6062f038c4f00b0043": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29401,7 +29401,7 @@
     "printify-6b066a5d62f038c4f00b0038-black": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29410,7 +29410,7 @@
     "printify-6b066a5d62f038c4f00b0038-white": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29419,7 +29419,7 @@
     "printify-6b066a5b94a3ebd30609c32d": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29428,7 +29428,7 @@
     "printify-6b066a5862f038c4f00b0031": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29437,7 +29437,7 @@
     "printify-6b066a5662f038c4f00b002f": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29446,7 +29446,7 @@
     "printify-6b066a54eca3203e09099343": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29455,7 +29455,7 @@
     "printify-6b066a51255f2587670ee398": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29464,7 +29464,7 @@
     "printify-6b066a4f71915c76bb02aa5e": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29473,7 +29473,7 @@
     "printify-6b066a4d58dd70255e0d3563": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29482,7 +29482,7 @@
     "printify-6b066a4aeca3203e09099330": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29491,7 +29491,7 @@
     "printify-6b066a4762f038c4f00b001f": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29500,7 +29500,7 @@
     "printify-6b066a45d3c2aadbe100822e": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29509,7 +29509,7 @@
     "printify-6b066a43eca3203e09099316": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29518,7 +29518,7 @@
     "printify-6b066762255f2587670ee04f": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29527,7 +29527,7 @@
     "printify-6b06676094a3ebd30609bfd4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29536,7 +29536,7 @@
     "printify-6b06675de33616fd220895f7": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29545,7 +29545,7 @@
     "printify-6b06675b94a3ebd30609bfc7": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29554,7 +29554,7 @@
     "printify-6b0667586db425f6b50b968e": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -29599,7 +29599,7 @@
     "printify-6b06674c255f2587670ee022": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29608,7 +29608,7 @@
     "printify-6b0667499a7ef0f8180ceea5": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29617,7 +29617,7 @@
     "printify-6b0667479a7ef0f8180ceea2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29626,7 +29626,7 @@
     "printify-6b066744255f2587670ee018": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -29635,7 +29635,7 @@
     "printify-6b06674262f038c4f00afba4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29644,7 +29644,7 @@
     "printify-6b066740eca3203e09098ed4": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": true,
@@ -29653,7 +29653,7 @@
     "printify-6b06673cfb3b556d1c05158f": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29662,7 +29662,7 @@
     "printify-6b06673962f038c4f00afb93": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29671,7 +29671,7 @@
     "printify-6b06673510baa70da607305e": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29680,7 +29680,7 @@
     "printify-6b06673310baa70da6073058": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29689,7 +29689,7 @@
     "printify-6b0780794ea7c13753013021": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29698,7 +29698,7 @@
     "printify-6b0780764ca2a016cf0642d2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29707,7 +29707,7 @@
     "printify-6b0780734ca2a016cf0642bb": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29716,7 +29716,7 @@
     "printify-6b07806fb4135d2dee0d5e31": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29725,7 +29725,7 @@
     "printify-6b07806db4135d2dee0d5e27-black": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29734,7 +29734,7 @@
     "printify-6b07806db4135d2dee0d5e27-oyster": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29743,7 +29743,7 @@
     "printify-6b07806ad144ea48ec08051d": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29752,7 +29752,7 @@
     "printify-6b0780679a95a3a4b10eeb18": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29761,7 +29761,7 @@
     "printify-6b07806295f8c097e6030c21": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29770,7 +29770,7 @@
     "printify-6b07805f62cb66c9780a1afd": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29779,7 +29779,7 @@
     "printify-6b07805c95f8c097e6030c15": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29788,7 +29788,124 @@
     "printify-6b07805807194ce1550beb5d": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1fe55d595d88e0a3681": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1fb08b8102972074efc": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1f7c87e8df47b0948ca": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1f4c87e8df47b0948c2": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1ecf7ed4c973b05978a": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1e9edc552ae3508a8f0": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1e755d595d88e0a365f": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1e4d4c50971c203623a": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1dfedc552ae3508a8e1": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1dcedc552ae3508a8dd-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1dcedc552ae3508a8dd-oyster": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1d908b8102972074ebe": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b08d1d6c87e8df47b094892": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,

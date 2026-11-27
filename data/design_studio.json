@@ -35,10 +35,29 @@
    "style": "frase",
    "file": "rare-by-design__camiseta-sudadera-capucha-sudadera.png",
    "date": "2026-11-26"
+  },
+  {
+   "name": "House Seal II",
+   "style": "emblema",
+   "file": "house-seal-ii__camiseta-sudadera-capucha-sudadera-taza.png",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Signature Logo",
+   "style": "wordmark",
+   "file": "signature-logo__camiseta-camiseta-premium-sudadera-capucha-sudadera.png",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "D Monogram",
+   "style": "monogram",
+   "file": "d-monogram__sudadera-capucha-cojin-bolso-taza.png",
+   "date": "2026-11-27"
   }
  ],
  "days": {
   "2026-11-25": 3,
-  "2026-11-26": 3
+  "2026-11-26": 3,
+  "2026-11-27": 3
  }
 }
