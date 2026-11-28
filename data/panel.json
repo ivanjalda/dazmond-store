@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-28 16:41 UTC",
+  "updated": "2026-11-28 17:42 UTC",
   "totals": {
     "catalogo": 2534,
-    "a_la_vista": 2314,
-    "disenos_a_la_vista": 915,
-    "ocultos": 220,
-    "ia_revisados": 2355,
-    "ia_pendientes": 115,
-    "con_boton_de_pago": 2314,
+    "a_la_vista": 2316,
+    "disenos_a_la_vista": 916,
+    "ocultos": 218,
+    "ia_revisados": 2357,
+    "ia_pendientes": 113,
+    "con_boton_de_pago": 2316,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
@@ -20,7 +20,7 @@
     "Vigilante": 4,
     "Ya no está en el proveedor": 100,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 115
+    "Borrador": 113
   },
   "suppliers": {
     "Printify": {
@@ -36,8 +36,8 @@
       "ocultos": 8
     },
     "InterestPrint": {
-      "visibles": 345,
-      "ocultos": 112
+      "visibles": 347,
+      "ocultos": 110
     }
   },
   "guard": [
@@ -558,26 +558,8 @@
       "why": "No es un producto (venía de Shopify)"
     },
     {
-      "id": "interestprint-design-womens-suspender-jumpsuit",
-      "n": "Mono Suspender Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/f8de6600c6feba0c691a.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-suspender-jumpsuit-1",
-      "n": "Mono Suspender Jumpsuit · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/f2977605088ff790ed15.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-womens-suspender-jumpsuit-10",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/478f22c4bc1e39b128e1.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -586,7 +568,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-11",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/f70b648a8237a8d1a398.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -595,7 +577,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-12",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/ff4c31334c8216df7e8c.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -604,7 +586,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-13",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/09aaa1e1ab1c422de222.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -613,7 +595,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-14",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/9d2db2257f3a5b2deb83.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -622,7 +604,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-15",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/5e942143f7ca48aecbb3.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -631,7 +613,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-16",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/936a6966578e9029afb3.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -640,7 +622,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-17",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/fd41cbe942e4aa3aa66b.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -649,7 +631,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-18",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/65e7f0189c1a38067a05.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -658,7 +640,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-19",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/4c3ac091ffc627465f54.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -667,7 +649,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-2",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/1eb975339d9ac511d076.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -676,7 +658,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-3",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/17a141c67962f1aa3632.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -685,7 +667,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-4",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/e143e10750e7a48673a7.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -694,7 +676,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-5",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/f2103e676ba83cd0c8cd.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -703,7 +685,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-6",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/320617d7d7e312e88488.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -712,7 +694,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-7",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/8be9df7ad9e882b9edf8.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -721,7 +703,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-8",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/2d35278768a9491fd804.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -730,7 +712,7 @@
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-9",
-      "n": "Mono Suspender Jumpsuit · Blanco",
+      "n": "Mono con Tirantes Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/911ad03dd582c58f49e1.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -2365,16 +2347,16 @@
     "CSV leído: telegram.csv",
     "Printify: 83 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 13 s",
-    "Productos en catálogo: 2534 · a la vista: 2316 · archivados: 101",
+    "⏱ lectura de proveedores: 14 s",
+    "Productos en catálogo: 2534 · a la vista: 2318 · archivados: 101",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 2166 piezas",
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 2 productos revisados (fotos, guía de tallas y textos) · quedan 340",
-    "⏱ revisión con IA: 274 s",
+    "IA: 2 productos revisados (fotos, guía de tallas y textos) · quedan 338",
+    "⏱ revisión con IA: 207 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
