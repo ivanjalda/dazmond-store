@@ -12,7 +12,8 @@
     "2026-11-26-1",
     "2026-11-26-17",
     "2026-11-27-1",
-    "2026-11-27-17"
+    "2026-11-27-17",
+    "2026-11-28-1"
   ],
   "used": [
     "printful-345759651",
@@ -53,7 +54,10 @@
     "printify-6b08d1e9edc552ae3508a8f0",
     "printify-6b0780734ca2a016cf0642bb",
     "printify-6b07806295f8c097e6030c21",
-    "printify-6b066a6943cb7ee2d402bad9"
+    "printify-6b066a6943cb7ee2d402bad9",
+    "printify-6b0a236caec9e5ff69044e4b",
+    "printify-6b06674fd3c2aadbe1007e0e",
+    "printify-6b08d1dfedc552ae3508a8e1"
   ],
   "log": [
     {
@@ -187,8 +191,19 @@
       ],
       "instagram_error": "{\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"A0sTybF5gYIsfsgQUPSljeE\"}}",
       "facebook_error": "{\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"A65pFgBKeDYmyNue05FHc-s\"}}"
+    },
+    {
+      "slot": "2026-11-28-1",
+      "ids": [
+        "printify-6b0a236caec9e5ff69044e4b",
+        "printify-6b06674fd3c2aadbe1007e0e",
+        "printify-6b08d1dfedc552ae3508a8e1"
+      ],
+      "reel_error": "{\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AZi_cMza3SnZ5NHoI8ykYjT\"}}",
+      "instagram_error": "{\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"AOLG2kc01xbpV5KEXAwiqon\"}}",
+      "facebook_error": "{\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AsH5tSSEVHS_osWOl2WSYD0\"}}"
     }
   ],
-  "last_ts": 1795801500.0745978,
-  "last_err": "instagram_error: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"A0sTybF5gYIsfsgQUPSljeE\"}}; facebook_error: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"A65pFgBKeDYmyNue05FHc-s\"}}"
+  "last_ts": 1795830288.803338,
+  "last_err": "reel_error: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AZi_cMza3SnZ5NHoI8ykYjT\"}}; instagram_error: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"AOLG2kc01xbpV5KEXAwiqon\"}}; facebook_error: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AsH5tSSEVHS_osWOl2WSYD0\"}}"
 }

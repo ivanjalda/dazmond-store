@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T00:42:36Z",
+  "updated": "2026-11-28T01:42:06Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -409,7 +409,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Diamond Plaque Hoodie Black DAZMOND & Co. — Diamond Plaque. Made to order.",
+      "source_text": "Diamond Plaque Hoodie hoodie Black DAZMOND & Co. — Diamond Plaque. Made to order.",
       "name_es": "Sudadera Diamond Plaque",
       "name_en": "Diamond Plaque Hoodie",
       "desc_es": "La silueta redefine el lujo cotidiano con una presencia sobria y rotunda. Confeccionada mediante procesos de fabricación bajo pedido con envíos a todo el mundo. El diseño incorpora el emblema distintivo de la casa, fusionando proporciones relajadas con una estética depurada y moderna. Una prenda esencial que trasciende las tendencias temporales, concebida para quienes exigen exclusividad y sofisticación en cada detalle.",
@@ -424,7 +424,9 @@
         "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/98426/diamond-plaque-hoodie.jpg?camera_label=back-2",
         "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/98432/diamond-plaque-hoodie.jpg?camera_label=folded",
         "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/100685/diamond-plaque-hoodie.jpg?camera_label=front-collar-closeup",
-        "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/127738/diamond-plaque-hoodie.jpg?camera_label=front-2"
+        "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/127738/diamond-plaque-hoodie.jpg?camera_label=front-2",
+        "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/127688/diamond-plaque-hoodie.jpg?camera_label=lifestyle-2",
+        "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/98427/diamond-plaque-hoodie.jpg?camera_label=person-1"
       ],
       "images_model": [
         "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/127688/diamond-plaque-hoodie.jpg?camera_label=lifestyle-2",
@@ -525,7 +527,8 @@
       "stripe_link_id": "plink_1UgZsRLJVU4oTPuXyUxn5zoS",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b0a236caec9e5ff69044e4b",
