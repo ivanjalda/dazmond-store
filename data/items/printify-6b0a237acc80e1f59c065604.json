@@ -1,5 +1,13 @@
 {
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "crewneck",
+ "ai_ver": 2,
+ "art_note": "Clean lifestyle flat lay styling with sophisticated props creates a luxury editorial atmosphere.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,13 +17,14 @@
  "cg": "printify-6b0a237acc80e1f59c065604",
  "color": "Black",
  "created": "2026-11-28",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The silhouette redefines contemporary luxury through a sober and resolute elegance. Crafted with millimeter precision, this piece embodies the flawless fusion of absolute comfort and magnetic presence. The minimalist design in deep black tone is enhanced with subtle details that convey authority and discreet sophistication. Each garment is meticulously crafted to order to guarantee exclusivity and absolute perfection. Available with worldwide shipping.",
+ "desc_es": "La silueta redefine el concepto del lujo contemporáneo a través de una elegancia sobria y decidida. Confeccionada con precisión milimétrica, esta pieza encarna la fusión perfecta entre la comodidad absoluta y una presencia magnética. El diseño minimalista en tono negro profundo se realza con detalles sutiles que transmiten autoridad y sofisticación discreta. Cada prenda se elabora meticulosamente bajo pedido para garantizar exclusividad y perfección absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Made to order\n· Worldwide shipping",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/98502/quiet-power-crewneck.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/98503/quiet-power-crewneck.jpg?camera_label=back",
-  "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/100648/quiet-power-crewneck.jpg?camera_label=folded",
-  "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/128101/quiet-power-crewneck.jpg?camera_label=folded-2"
+  "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/100648/quiet-power-crewneck.jpg?camera_label=folded"
  ],
  "draft": false,
  "fam": "quiet-power-crewneck",
@@ -29,9 +38,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Quiet Power Sweatshirt · Black",
- "name_es": "Sudadera Quiet Power · Negro",
+ "name_en": "Quiet Power Crewneck",
+ "name_es": "Sudadera Quiet Power",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 45.99,
  "rank": 9,

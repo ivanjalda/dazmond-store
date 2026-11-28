@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Jersey",
  "ai_priority": true,
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation and still-life staging on the chair elevate the product, though the white-background shots remain standard catalog renders.",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-6b0a2366527d73062d024da8",
  "color": "Black",
  "created": "2026-11-28",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Understated elegance defined by precision. The Essential Logo II Jersey Tee is cut from smooth black jersey, offering an immaculate drape and effortless composure. The chest features the hallmark DAZMOND insignia rendered in subtle gold. Designed with clean lines and a contemporary silhouette, this piece balances modern luxury with enduring versatility. An essential foundation tailored for a refined wardrobe.",
+ "desc_es": "Elegancia sobria definida por la precisión. La camiseta Essential Logo II está confeccionada en suave punto jersey negro, ofreciendo una caída impecable y una presencia serena. El pecho luce la insignia emblemática de DAZMOND en sutil contraste dorado. Diseñada con líneas depuradas y un corte contemporáneo, esta pieza equilibra la distinción atemporal con la versatilidad diaria. Un elemento fundamental concebido para un guardarropa refinado.",
+ "details_en": "· Jersey fabric\n· Classic crew neck\n· Short sleeves\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Tejido de punto jersey\n· Cuello redondo clásico\n· Manga corta\n· Confección bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0a2366527d73062d024da8/18102/102044/essential-logo-ii-jersey-tee.jpg?camera_label=front-2",
   "https://images-api.printify.com/mockup/6b0a2366527d73062d024da8/18102/102045/essential-logo-ii-jersey-tee.jpg?camera_label=back-2",
@@ -33,9 +48,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Logo Tee · Black",
- "name_es": "Camiseta Logo · Negro",
+ "name_en": "Essential Logo II Jersey Tee",
+ "name_es": "Camiseta Essential Logo II",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 37.99,
  "rank": 10,
