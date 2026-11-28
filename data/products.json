@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T13:42:05Z",
+  "updated": "2026-11-28T14:11:40Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -27156,7 +27156,7 @@
       "display_images": [
         "https://files.cdn.printful.com/files/489/489b19a33a5cf79419cbe29419df0c95_preview.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-22": 50.99,
         "2026-11-23": 50.99,
@@ -27166,7 +27166,7 @@
         "2026-11-27": 50.99,
         "2026-11-28": 50.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 17.19,
       "rank": 179,
       "badge": "new",
@@ -27191,7 +27191,7 @@
       "stripe_link_id": "plink_1UenFYLJVU4oTPuXToRGlPhT",
       "stripe_price_cents": 5099,
       "stripe_site": "https://dazmond.com",
-      "page": false,
+      "page": true,
       "ai_images": {
         "keep": [
           {
@@ -123441,7 +123441,7 @@
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986153-4-YbEBxMHCm1.jpg?v=1725986363",
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986153-5-YbEBxMHCm1.jpg?v=1725986367"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-19": 21.99,
         "2026-11-20": 21.99,
@@ -123454,7 +123454,7 @@
         "2026-11-27": 19.99,
         "2026-11-28": 19.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 13.7,
       "rank": 859,
       "badge": "new",
@@ -123464,7 +123464,7 @@
         "printify-6b0a236acefbb1b2e9077a38",
         "printify-6b0a2366527d73062d024da8"
       ],
-      "page": false,
+      "page": true,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "img_checked": "2026-11-27",
@@ -123580,7 +123580,7 @@
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986614-4-Nq8tpuTHrs.jpg?v=1725986745",
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986614-5-Nq8tpuTHrs.jpg?v=1725986749"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-19": 21.99,
         "2026-11-20": 21.99,
@@ -123593,7 +123593,7 @@
         "2026-11-27": 19.99,
         "2026-11-28": 19.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 13.7,
       "rank": 860,
       "badge": "new",
@@ -123603,7 +123603,7 @@
         "printify-6b0a236acefbb1b2e9077a38",
         "printify-6b0a2366527d73062d024da8"
       ],
-      "page": false,
+      "page": true,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "img_checked": "2026-11-27",
