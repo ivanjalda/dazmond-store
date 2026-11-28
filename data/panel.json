@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-28 14:11 UTC",
+  "updated": "2026-11-28 14:30 UTC",
   "totals": {
     "catalogo": 2534,
-    "a_la_vista": 2295,
+    "a_la_vista": 2300,
     "disenos_a_la_vista": 912,
-    "ocultos": 239,
-    "ia_revisados": 2336,
-    "ia_pendientes": 134,
-    "con_boton_de_pago": 2295,
+    "ocultos": 234,
+    "ia_revisados": 2341,
+    "ia_pendientes": 129,
+    "con_boton_de_pago": 2300,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
@@ -20,7 +20,7 @@
     "Vigilante": 4,
     "Ya no está en el proveedor": 100,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 134
+    "Borrador": 129
   },
   "suppliers": {
     "Printify": {
@@ -36,8 +36,8 @@
       "ocultos": 8
     },
     "InterestPrint": {
-      "visibles": 326,
-      "ocultos": 131
+      "visibles": 331,
+      "ocultos": 126
     }
   },
   "guard": [
@@ -562,51 +562,6 @@
       "n": "Conjunto de Top y Falda · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/bc3414d8dda055c7c64d.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-3",
-      "n": "Conjunto de Top y Falda · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/e26ad3deebe5d5f26da4.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-4",
-      "n": "Conjunto de Top y Falda · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/accf7fabd6a0dd629a6a.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-5",
-      "n": "Conjunto de Top y Falda · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/9e31a9f9c304cb458225.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-6",
-      "n": "Conjunto de Top y Falda · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/52386d4c531006adc53b.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-7",
-      "n": "Conjunto de Top y Falda · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/c8d68a898e4c86af4adb.jpg",
       "c": "mujer/falda",
       "pr": 27.99,
       "why": "Borrador: esperando la revisión de la IA"
@@ -2536,14 +2491,17 @@
     "CSV leído: telegram.csv",
     "Printify: 83 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 13 s",
+    "⏱ lectura de proveedores: 15 s",
     "Productos en catálogo: 2534 · a la vista: 2299 · archivados: 101",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 2166 piezas",
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "⏱ revisión con IA: 0 s",
+    "IA: fallo con interestprint-design-womens-long-sleeve-top-skirt-set-2: gemini-2.0-flash: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code t",
+    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
+    "IA: 5 productos revisados (fotos, guía de tallas y textos) · quedan 354",
+    "⏱ revisión con IA: 274 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",

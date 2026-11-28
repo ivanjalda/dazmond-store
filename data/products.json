@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T14:11:40Z",
+  "updated": "2026-11-28T14:30:33Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -27156,7 +27156,7 @@
       "display_images": [
         "https://files.cdn.printful.com/files/489/489b19a33a5cf79419cbe29419df0c95_preview.png"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-22": 50.99,
         "2026-11-23": 50.99,
@@ -27166,7 +27166,7 @@
         "2026-11-27": 50.99,
         "2026-11-28": 50.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 17.19,
       "rank": 179,
       "badge": "new",
@@ -27191,7 +27191,7 @@
       "stripe_link_id": "plink_1UenFYLJVU4oTPuXToRGlPhT",
       "stripe_price_cents": 5099,
       "stripe_site": "https://dazmond.com",
-      "page": true,
+      "page": false,
       "ai_images": {
         "keep": [
           {
@@ -123441,7 +123441,7 @@
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986153-4-YbEBxMHCm1.jpg?v=1725986363",
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986153-5-YbEBxMHCm1.jpg?v=1725986367"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-19": 21.99,
         "2026-11-20": 21.99,
@@ -123454,7 +123454,7 @@
         "2026-11-27": 19.99,
         "2026-11-28": 19.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 13.7,
       "rank": 859,
       "badge": "new",
@@ -123464,7 +123464,7 @@
         "printify-6b0a236acefbb1b2e9077a38",
         "printify-6b0a2366527d73062d024da8"
       ],
-      "page": true,
+      "page": false,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "img_checked": "2026-11-27",
@@ -123580,7 +123580,7 @@
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986614-4-Nq8tpuTHrs.jpg?v=1725986745",
         "https://cdn.shopify.com/s/files/1/0686/4905/8571/files/1725986614-5-Nq8tpuTHrs.jpg?v=1725986749"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-19": 21.99,
         "2026-11-20": 21.99,
@@ -123593,7 +123593,7 @@
         "2026-11-27": 19.99,
         "2026-11-28": 19.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 13.7,
       "rank": 860,
       "badge": "new",
@@ -123603,7 +123603,7 @@
         "printify-6b0a236acefbb1b2e9077a38",
         "printify-6b0a2366527d73062d024da8"
       ],
-      "page": true,
+      "page": false,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "img_checked": "2026-11-27",
@@ -427410,7 +427410,7 @@
       "cg": "t-design-women-s-long-sleeve-top-skirt-set",
       "shop_category": "",
       "img_checked": "2026-11-23",
-      "ai_fail": 1
+      "ai_fail": 2
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-3",
@@ -427442,8 +427442,73 @@
       ],
       "draft": true,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/07f751159f9362f46ec2.jpg",
+        "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm/in",
+        "headers": [
+          "Size",
+          "Length",
+          "Shoulder",
+          "Bust",
+          "Sleeve"
+        ],
+        "headers_es": [
+          "Talla",
+          "Largo",
+          "Hombro",
+          "Busto",
+          "Manga"
+        ],
+        "rows": [
+          [
+            "S",
+            "48/18.8",
+            "38.2/15",
+            "93/36.5",
+            "56/22"
+          ],
+          [
+            "M",
+            "49.5/19.4",
+            "39.5/15.5",
+            "98/38.4",
+            "57/22.4"
+          ],
+          [
+            "L",
+            "51/20",
+            "40.8/16",
+            "103/40.4",
+            "58/22.8"
+          ],
+          [
+            "XL",
+            "52.5/20.6",
+            "42.1/16.5",
+            "108/42.4",
+            "59/23.2"
+          ],
+          [
+            "2XL",
+            "54/21.2",
+            "43.4/17",
+            "113/44.4",
+            "60/23.6"
+          ],
+          [
+            "3XL",
+            "55.5/21.8",
+            "44.7/17.5",
+            "118/46.4",
+            "61/24"
+          ]
+        ],
+        "notes_en": "Measurements are provided in centimeters and inches.",
+        "notes_es": "Las medidas se proporcionan en centímetros y pulgadas."
+      },
       "sku_map": {
         "S": "D3291744",
         "M": "D3291744",
@@ -427456,8 +427521,8 @@
       "source_text": "Design Women's Long Sleeve Top & Skirt Set Skirt Sets white .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n InterestPrint®Women's Long Sleeve Top & Skirt Set \r\n Type: 92% Polyester, 8% Spandex, for Women, All Over Print \r\n Made from high-quality terry fabric(92% Polyester, 8% Spandex), this long skirt set is breathable, comfortable, elastic, and moisture-absorbing. \n The top features a V-neck and long sleeves for a chic and comfortable fit. \n The adjustable drawstring waist creates a flattering, cinched look while ensuring all-day comfort. \n The ankle-length skirt is lightweight and easy to wear, providing a smooth, slimming silhouette. \n The skirt includes 2 convenient pockets for added functionality.\r\n Perfect for home, outings, work, shopping, and casual occasions.\r\n Sizes: S, M, L, XL, 2XL, 3XL. Calculate your size from the measurement chart below please.\r\n Care Instructions: Hand wash or machine wash recommended. Do not soak for long periods or bleach. Water temperature should not exceed 45 °C.\r\n Designer Tip: To ensure the highest quality print, \r\nplease note that this product's recommended upload image size in \r\npixels (W x H): \nPrint: 3326 x 4500 or Higher / 150 dpi.\n CUSTOMIZATION TIPS \n We can't guarantee exact placement. There might be slight discrepancies in print placement. Please keep the main elements of your art towards the center of the design area. Anything near the edge runs the risk of being cut off during the cutting and sewing process.\n We allow the color accura",
       "name_es": "Conjunto de Top y Falda · Blanco",
       "name_en": "Long Sleeve Top and Skirt Set · White",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "desc_es": "Este conjunto de top y falda larga redefine la elegancia relajada con una silueta fluida y depurada. Confeccionado con un tejido suave, ofrece una caída impecable y una comodidad excepcional. El top de manga larga presenta un diseño clásico con cuello en V, mientras que la falda de corte midi incorpora una cintura ajustable con cordón para una adaptabilidad sutil. Una propuesta versátil pensada para la mujer contemporánea. Disponible para pedido exclusivo y con envíos a todo el mundo.",
+      "desc_en": "This long top and skirt set redefines relaxed elegance with a clean, fluid silhouette. Crafted from a soft fabric, it offers an impeccable drape and exceptional comfort. The long-sleeve top features a classic V-neck design, while the skirt includes an adjustable drawstring waist for subtle adaptability. A versatile piece tailored for the contemporary woman. Available for made-to-order requests with worldwide shipping.",
       "price_usd": 27.99,
       "margin_pct": 24.5,
       "images_original": [
@@ -427472,11 +427537,9 @@
       "display_images": [
         "assets/products/shop/e26ad3deebe5d5f26da4.jpg",
         "assets/products/shop/a1dc2929d0b86b1ae7a6.jpg",
-        "assets/products/shop/24c2ab18461008f3ebb9.jpg",
-        "assets/products/shop/07f751159f9362f46ec2.jpg",
-        "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+        "assets/products/shop/24c2ab18461008f3ebb9.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-19": 30.99,
         "2026-11-20": 30.99,
@@ -427489,7 +427552,7 @@
         "2026-11-27": 27.99,
         "2026-11-28": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 12.95,
       "rank": 2317,
       "badge": "new",
@@ -427499,7 +427562,7 @@
         "printful-379237645",
         "printful-338164153"
       ],
-      "page": false,
+      "page": true,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "fam": "women-s-long",
@@ -427518,7 +427581,45 @@
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-long-sleeve-top-skirt-set",
       "shop_category": "",
-      "img_checked": "2026-11-23"
+      "img_checked": "2026-11-23",
+      "art_score": 3,
+      "art_note": "The imagery features heavily composited studio shots with an unnatural digital cutout aesthetic, detracting from a luxury feel.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/e26ad3deebe5d5f26da4.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/a1dc2929d0b86b1ae7a6.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/24c2ab18461008f3ebb9.jpg",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/07f751159f9362f46ec2.jpg",
+          "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+        ]
+      },
+      "ai_type": "Top & Skirt Set",
+      "ai_gender": "women",
+      "ai_color": "white",
+      "ai_material": "92% Polyester, 8% Spandex",
+      "ai_cats": [
+        "mujer/falda"
+      ],
+      "details_es": "· 92% poliéster, 8% elastano\n· Lavado a mano o a máquina\n· Hecho bajo pedido y con envíos a todo el mundo",
+      "details_en": "· 92% polyester, 8% spandex\n· Hand wash or machine wash\n· Made to order with worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-4",
@@ -427550,8 +427651,89 @@
       ],
       "draft": true,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/01671d91f7d98eaeb772.jpg",
+        "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+      ],
+      "size_chart": {
+        "unit": "CM / IN",
+        "headers": [
+          "Size",
+          "Length",
+          "Shoulder",
+          "Bust",
+          "Sleeve",
+          "Hip",
+          "Waist"
+        ],
+        "headers_es": [
+          "Talla",
+          "Largo",
+          "Hombro",
+          "Busto",
+          "Manga",
+          "Cadera",
+          "Cintura"
+        ],
+        "rows": [
+          [
+            "S",
+            "48/18.8",
+            "38.2/15",
+            "93/36.5",
+            "56/22",
+            "95.5/37.5",
+            "89/34.9"
+          ],
+          [
+            "M",
+            "49.5/19.4",
+            "39.5/15.5",
+            "98/38.4",
+            "57/22.4",
+            "100.5/39.5",
+            "94/36.9"
+          ],
+          [
+            "L",
+            "51/20",
+            "40.8/16",
+            "103/40.4",
+            "58/22.8",
+            "105.5/41.4",
+            "99/38.9"
+          ],
+          [
+            "XL",
+            "52.5/20.6",
+            "42.1/16.5",
+            "108/42.4",
+            "59/23.2",
+            "110.5/43.4",
+            "104/40.9"
+          ],
+          [
+            "2XL",
+            "54/21.2",
+            "43.4/17",
+            "113/44.4",
+            "60/23.6",
+            "115.5/44.4",
+            "109/42.8"
+          ],
+          [
+            "3XL",
+            "55.5/21.8",
+            "44.7/17.5",
+            "118/46.4",
+            "61/24",
+            "120.5/46.4",
+            "114/44.8"
+          ]
+        ],
+        "notes_en": "Measurements are provided in centimeters and inches.",
+        "notes_es": "Las medidas se proporcionan en centímetros y pulgadas."
+      },
       "sku_map": {
         "S": "D3291749",
         "M": "D3291749",
@@ -427564,8 +427746,8 @@
       "source_text": "Design Women's Long Sleeve Top & Skirt Set Skirt Sets white .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n InterestPrint®Women's Long Sleeve Top & Skirt Set \r\n Type: 92% Polyester, 8% Spandex, for Women, All Over Print \r\n Made from high-quality terry fabric(92% Polyester, 8% Spandex), this long skirt set is breathable, comfortable, elastic, and moisture-absorbing. \n The top features a V-neck and long sleeves for a chic and comfortable fit. \n The adjustable drawstring waist creates a flattering, cinched look while ensuring all-day comfort. \n The ankle-length skirt is lightweight and easy to wear, providing a smooth, slimming silhouette. \n The skirt includes 2 convenient pockets for added functionality.\r\n Perfect for home, outings, work, shopping, and casual occasions.\r\n Sizes: S, M, L, XL, 2XL, 3XL. Calculate your size from the measurement chart below please.\r\n Care Instructions: Hand wash or machine wash recommended. Do not soak for long periods or bleach. Water temperature should not exceed 45 °C.\r\n Designer Tip: To ensure the highest quality print, \r\nplease note that this product's recommended upload image size in \r\npixels (W x H): \nPrint: 3326 x 4500 or Higher / 150 dpi.\n CUSTOMIZATION TIPS \n We can't guarantee exact placement. There might be slight discrepancies in print placement. Please keep the main elements of your art towards the center of the design area. Anything near the edge runs the risk of being cut off during the cutting and sewing process.\n We allow the color accura",
       "name_es": "Conjunto de Top y Falda · Blanco",
       "name_en": "Long Sleeve Top and Skirt Set · White",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "desc_es": "Este conjunto de top y falda combina un diseño depurado con una silueta fluida. Confeccionado en tejido de felpa, ofrece una textura suave al tacto y un tacto elástico. El top de manga larga y cuello en V se complementa con una falda larga de corte estilizador que incluye bolsillos funcionales. La cintura ajustable con cordón aporta versatilidad a la prenda. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+      "desc_en": "This top and skirt set combines refined design with a fluid silhouette. Crafted from terry fabric, it offers a soft tactile feel and comfortable stretch. The long-sleeve V-neck top is complemented by a slimming ankle-length skirt featuring functional pockets. An adjustable drawstring waist adds versatility to the piece. Each piece is made to order with worldwide shipping.",
       "price_usd": 27.99,
       "margin_pct": 24.5,
       "images_original": [
@@ -427578,13 +427760,9 @@
       "images_model": [],
       "visual_verified": true,
       "display_images": [
-        "assets/products/shop/accf7fabd6a0dd629a6a.jpg",
-        "assets/products/shop/ba28fadf1b58e9662c50.jpg",
-        "assets/products/shop/9c9e99d63c8450dcd341.jpg",
-        "assets/products/shop/01671d91f7d98eaeb772.jpg",
-        "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+        "assets/products/shop/ba28fadf1b58e9662c50.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-19": 30.99,
         "2026-11-20": 30.99,
@@ -427597,7 +427775,7 @@
         "2026-11-27": 27.99,
         "2026-11-28": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 12.95,
       "rank": 2318,
       "badge": "new",
@@ -427607,7 +427785,7 @@
         "printful-379237645",
         "printful-338164153"
       ],
-      "page": false,
+      "page": true,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "fam": "women-s-long",
@@ -427626,7 +427804,45 @@
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-long-sleeve-top-skirt-set",
       "shop_category": "",
-      "img_checked": "2026-11-23"
+      "img_checked": "2026-11-23",
+      "art_score": 4,
+      "art_note": "The model imagery appears composited and lacks true high-end campaign aesthetics, leaning toward marketplace presentation.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/accf7fabd6a0dd629a6a.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/ba28fadf1b58e9662c50.jpg",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "assets/products/shop/9c9e99d63c8450dcd341.jpg",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/01671d91f7d98eaeb772.jpg",
+          "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+        ]
+      },
+      "ai_type": "Top & Skirt Set",
+      "ai_gender": "women",
+      "ai_color": "Black and Red",
+      "ai_material": "92% Polyester, 8% Spandex",
+      "ai_cats": [
+        "mujer/falda"
+      ],
+      "details_es": "· Composición: 92% poliéster, 8% elastano\n· Top de manga larga con cuello en V\n· Falda larga con cintura ajustable y cordón\n· Dos bolsillos funcionales en la falda\n· Lavar a mano o a máquina\n· Confeccionado bajo pedido con envíos a todo el mundo",
+      "details_en": "· Composition: 92% polyester, 8% spandex\n· Long-sleeve V-neck top\n· Ankle-length skirt with adjustable drawstring waist\n· Two functional pockets on the skirt\n· Hand wash or machine wash recommended\n· Made to order with worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-5",
@@ -427658,8 +427874,97 @@
       ],
       "draft": true,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/41eddb7c6a2db0f6cf63.jpg",
+        "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm/in",
+        "headers": [
+          "Size",
+          "Length (Tops)",
+          "Shoulder",
+          "Bust",
+          "Sleeve",
+          "Hip (Pants)",
+          "Length (Pants)",
+          "Waist"
+        ],
+        "headers_es": [
+          "Talla",
+          "Largo (Top)",
+          "Hombro",
+          "Busto",
+          "Manga",
+          "Cadera (Pantalón)",
+          "Largo (Pantalón)",
+          "Cintura"
+        ],
+        "rows": [
+          [
+            "S",
+            "48/18.8",
+            "38.2/15",
+            "93/36.5",
+            "56/22",
+            "95.5/37.5",
+            "103/40.4",
+            "89/34.9"
+          ],
+          [
+            "M",
+            "49.5/19.4",
+            "39.5/15.5",
+            "98/38.4",
+            "57/22.4",
+            "100.5/39.5",
+            "104/40.8",
+            "94/36.9"
+          ],
+          [
+            "L",
+            "51/20",
+            "40.8/16",
+            "103/40.4",
+            "58/22.8",
+            "105.5/41.4",
+            "105/41.2",
+            "99/38.9"
+          ],
+          [
+            "XL",
+            "52.5/20.6",
+            "42.1/16.5",
+            "108/42.4",
+            "59/23.2",
+            "110.5/43.4",
+            "106/41.6",
+            "104/40.9"
+          ],
+          [
+            "2XL",
+            "54/21.2",
+            "43.4/17",
+            "113/44.4",
+            "60/23.6",
+            "115.5/44.4",
+            "107/42",
+            "109/42.8"
+          ],
+          [
+            "3XL",
+            "55.5/21.8",
+            "44.7/17.5",
+            "118/46.4",
+            "61/24",
+            "120.5/46.4",
+            "108/42.4",
+            "114/44.8"
+          ]
+        ],
+        "notes_en": "Measurements are provided in centimeters and inches.",
+        "notes_es": "Las medidas se proporcionan en centímetros y pulgadas."
+      },
       "sku_map": {
         "S": "D3291747",
         "M": "D3291747",
@@ -427672,8 +427977,8 @@
       "source_text": "Design Women's Long Sleeve Top & Skirt Set Skirt Sets white .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n InterestPrint®Women's Long Sleeve Top & Skirt Set \r\n Type: 92% Polyester, 8% Spandex, for Women, All Over Print \r\n Made from high-quality terry fabric(92% Polyester, 8% Spandex), this long skirt set is breathable, comfortable, elastic, and moisture-absorbing. \n The top features a V-neck and long sleeves for a chic and comfortable fit. \n The adjustable drawstring waist creates a flattering, cinched look while ensuring all-day comfort. \n The ankle-length skirt is lightweight and easy to wear, providing a smooth, slimming silhouette. \n The skirt includes 2 convenient pockets for added functionality.\r\n Perfect for home, outings, work, shopping, and casual occasions.\r\n Sizes: S, M, L, XL, 2XL, 3XL. Calculate your size from the measurement chart below please.\r\n Care Instructions: Hand wash or machine wash recommended. Do not soak for long periods or bleach. Water temperature should not exceed 45 °C.\r\n Designer Tip: To ensure the highest quality print, \r\nplease note that this product's recommended upload image size in \r\npixels (W x H): \nPrint: 3326 x 4500 or Higher / 150 dpi.\n CUSTOMIZATION TIPS \n We can't guarantee exact placement. There might be slight discrepancies in print placement. Please keep the main elements of your art towards the center of the design area. Anything near the edge runs the risk of being cut off during the cutting and sewing process.\n We allow the color accura",
       "name_es": "Conjunto de Top y Falda · Blanco",
       "name_en": "Long Sleeve Top and Skirt Set · White",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "desc_es": "Este conjunto de top de manga larga y falda fluida combina sofisticación y confort moderno. Confeccionado en tejido de felpa, ofrece una silueta estilizadora con un tacto excepcionalmente suave. El top presenta un escote en V y mangas largas para una caída impecable. La falda de longitud al tobillo incorpora una cintura con cordón ajustable y prácticos bolsillos laterales. Diseñado para ofrecer versatilidad y elegancia sin esfuerzo en cualquier ocasión. Disponible bajo pedido con envíos a todo el mundo.",
+      "desc_en": "This long sleeve top and skirt set marries modern comfort with understated sophistication. Crafted from plush terry fabric, it offers a fluid silhouette and an exceptionally soft handfeel. The top features a V-neckline and long sleeves for a clean, tailored drape. The ankle-length skirt is completed by an adjustable drawstring waistband and discreet side pockets. Designed for effortless versatility and refined elegance across occasions. Made to order with worldwide shipping available.",
       "price_usd": 27.99,
       "margin_pct": 24.5,
       "images_original": [
@@ -427688,11 +427993,9 @@
       "display_images": [
         "assets/products/shop/9e31a9f9c304cb458225.jpg",
         "assets/products/shop/47e396cead2c223b30ab.jpg",
-        "assets/products/shop/071d2eb6182b78459a57.jpg",
-        "assets/products/shop/41eddb7c6a2db0f6cf63.jpg",
-        "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+        "assets/products/shop/071d2eb6182b78459a57.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-19": 30.99,
         "2026-11-20": 30.99,
@@ -427705,7 +428008,7 @@
         "2026-11-27": 27.99,
         "2026-11-28": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 12.95,
       "rank": 2319,
       "badge": "new",
@@ -427715,7 +428018,7 @@
         "printful-379237645",
         "printful-338164153"
       ],
-      "page": false,
+      "page": true,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "fam": "women-s-long",
@@ -427734,7 +428037,45 @@
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-long-sleeve-top-skirt-set",
       "shop_category": "",
-      "img_checked": "2026-11-23"
+      "img_checked": "2026-11-23",
+      "art_score": 3,
+      "art_note": "The imagery relies on generic marketplace mockups and composite styling that detract from luxury positioning.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/9e31a9f9c304cb458225.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/47e396cead2c223b30ab.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/071d2eb6182b78459a57.jpg",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/41eddb7c6a2db0f6cf63.jpg",
+          "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+        ]
+      },
+      "ai_type": "Top & Skirt Set",
+      "ai_gender": "women",
+      "ai_color": "white",
+      "ai_material": "92% Polyester, 8% Spandex",
+      "ai_cats": [
+        "mujer/falda"
+      ],
+      "details_es": "· 92% poliéster, 8% elastano\n· Top de manga larga con escote en V\n· Falda larga con cintura ajustable mediante cordón\n· Dos bolsillos laterales funcionales\n· Instrucciones de cuidado: lavar a mano o a máquina con temperatura máxima de 45 °C; no remojar ni usar blanqueador",
+      "details_en": "· 92% polyester, 8% spandex\n· Long sleeve top with V-neckline\n· Ankle-length skirt with adjustable drawstring waist\n· Two functional side pockets\n· Care instructions: hand wash or machine wash at max 45 °C; do not soak or bleach",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-6",
@@ -427766,8 +428107,89 @@
       ],
       "draft": true,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/2942111881a190898eb1.jpg",
+        "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+      ],
+      "size_chart": {
+        "unit": "CM / IN",
+        "headers": [
+          "Size",
+          "Length",
+          "Shoulder",
+          "Bust",
+          "Sleeve",
+          "Hip",
+          "Waist"
+        ],
+        "headers_es": [
+          "Talla",
+          "Largo",
+          "Hombro",
+          "Busto",
+          "Manga",
+          "Cadera",
+          "Cintura"
+        ],
+        "rows": [
+          [
+            "S",
+            "48/18.8",
+            "38.2/15",
+            "93/36.5",
+            "56/22",
+            "95.5/37.5",
+            "89/34.9"
+          ],
+          [
+            "M",
+            "49.5/19.4",
+            "39.5/15.5",
+            "98/38.4",
+            "57/22.4",
+            "100.5/39.5",
+            "94/36.9"
+          ],
+          [
+            "L",
+            "51/20",
+            "40.8/16",
+            "103/40.4",
+            "58/22.8",
+            "105.5/41.4",
+            "99/38.9"
+          ],
+          [
+            "XL",
+            "52.5/20.6",
+            "42.1/16.5",
+            "108/42.4",
+            "59/23.2",
+            "110.5/43.4",
+            "104/40.9"
+          ],
+          [
+            "2XL",
+            "54/21.2",
+            "43.4/17",
+            "113/44.4",
+            "60/23.6",
+            "115.5/44.4",
+            "109/42.8"
+          ],
+          [
+            "3XL",
+            "55.5/21.8",
+            "44.7/17.5",
+            "118/46.4",
+            "61/24",
+            "120.5/46.4",
+            "114/44.8"
+          ]
+        ],
+        "notes_en": "Measurements are provided in centimeters and inches.",
+        "notes_es": "Las medidas se proporcionan en centímetros y pulgadas."
+      },
       "sku_map": {
         "S": "D3291753",
         "M": "D3291753",
@@ -427780,8 +428202,8 @@
       "source_text": "Design Women's Long Sleeve Top & Skirt Set Skirt Sets white .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n InterestPrint®Women's Long Sleeve Top & Skirt Set \r\n Type: 92% Polyester, 8% Spandex, for Women, All Over Print \r\n Made from high-quality terry fabric(92% Polyester, 8% Spandex), this long skirt set is breathable, comfortable, elastic, and moisture-absorbing. \n The top features a V-neck and long sleeves for a chic and comfortable fit. \n The adjustable drawstring waist creates a flattering, cinched look while ensuring all-day comfort. \n The ankle-length skirt is lightweight and easy to wear, providing a smooth, slimming silhouette. \n The skirt includes 2 convenient pockets for added functionality.\r\n Perfect for home, outings, work, shopping, and casual occasions.\r\n Sizes: S, M, L, XL, 2XL, 3XL. Calculate your size from the measurement chart below please.\r\n Care Instructions: Hand wash or machine wash recommended. Do not soak for long periods or bleach. Water temperature should not exceed 45 °C.\r\n Designer Tip: To ensure the highest quality print, \r\nplease note that this product's recommended upload image size in \r\npixels (W x H): \nPrint: 3326 x 4500 or Higher / 150 dpi.\n CUSTOMIZATION TIPS \n We can't guarantee exact placement. There might be slight discrepancies in print placement. Please keep the main elements of your art towards the center of the design area. Anything near the edge runs the risk of being cut off during the cutting and sewing process.\n We allow the color accura",
       "name_es": "Conjunto de Top y Falda · Blanco",
       "name_en": "Long Sleeve Top and Skirt Set · White",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "desc_es": "Este conjunto combina un diseño depurado con una presencia gráfica distintiva. Confeccionado en tejido de felpa, ofrece una textura suave que se adapta con fluidez a la silueta. El top de manga larga y cuello en V se complementa con una falda larga de líneas depuradas. La cintura ajustable con cordón aporta un equilibrio preciso entre estructura y comodidad. Las discretas aberturas para bolsillos añaden funcionalidad sin comprometer la elegancia minimalista de la pieza. Cada prenda se confecciona bajo pedido con envíos a todo el mundo.",
+      "desc_en": "This set pairs a refined silhouette with a striking graphic presence. Crafted from terry fabric, it offers a soft texture that flows effortlessly along the form. The long-sleeve V-neck top is complemented by a streamlined ankle-length skirt. The adjustable drawstring waist creates a precise balance between structure and comfort. Subtle pocket details add functionality without compromising the minimalist elegance of the piece. Each garment is made to order with worldwide shipping available.",
       "price_usd": 27.99,
       "margin_pct": 24.5,
       "images_original": [
@@ -427796,11 +428218,9 @@
       "display_images": [
         "assets/products/shop/52386d4c531006adc53b.jpg",
         "assets/products/shop/5033526cac732cf40f54.jpg",
-        "assets/products/shop/203829e83c6528a953dc.jpg",
-        "assets/products/shop/2942111881a190898eb1.jpg",
-        "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+        "assets/products/shop/203829e83c6528a953dc.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-19": 30.99,
         "2026-11-20": 30.99,
@@ -427813,7 +428233,7 @@
         "2026-11-27": 27.99,
         "2026-11-28": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 12.95,
       "rank": 2320,
       "badge": "new",
@@ -427823,7 +428243,7 @@
         "printful-379237645",
         "printful-338164153"
       ],
-      "page": false,
+      "page": true,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "fam": "women-s-long",
@@ -427842,7 +428262,45 @@
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-long-sleeve-top-skirt-set",
       "shop_category": "",
-      "img_checked": "2026-11-23"
+      "img_checked": "2026-11-23",
+      "art_score": 4,
+      "art_note": "The imagery relies on composite cut-and-paste styling that diminishes the luxury presentation.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/52386d4c531006adc53b.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/5033526cac732cf40f54.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/203829e83c6528a953dc.jpg",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/2942111881a190898eb1.jpg",
+          "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+        ]
+      },
+      "ai_type": "Top & Skirt Set",
+      "ai_gender": "women",
+      "ai_color": "white",
+      "ai_material": "92% Polyester, 8% Spandex",
+      "ai_cats": [
+        "mujer/falda"
+      ],
+      "details_es": "· 92% poliéster, 8% spandex\n· Top de manga larga con cuello en V\n· Cintura con cordón ajustable\n· Falda larga con bolsillos integrados\n· Lavar a mano o a máquina a un máximo de 45 °C\n· Confección bajo pedido y envíos a todo el mundo",
+      "details_en": "· 92% polyester, 8% spandex\n· Long sleeve top with V-neck\n· Adjustable drawstring waist\n· Ankle-length skirt with integrated pockets\n· Hand wash or machine wash at max 45 °C\n· Made to order and worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-7",
@@ -427874,8 +428332,97 @@
       ],
       "draft": true,
       "shop_verified": true,
-      "size_guide": [],
-      "size_chart": null,
+      "size_guide": [
+        "assets/products/shop/8da8188cd8962f47db08.jpg",
+        "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+      ],
+      "size_chart": {
+        "unit": "cm/in",
+        "headers": [
+          "Size",
+          "Top Length",
+          "Shoulder",
+          "Bust",
+          "Sleeve",
+          "Skirt Hip",
+          "Skirt Length",
+          "Waist"
+        ],
+        "headers_es": [
+          "Talla",
+          "Largo Top",
+          "Hombro",
+          "Busto",
+          "Manga",
+          "Cadera Falda",
+          "Largo Falda",
+          "Cintura"
+        ],
+        "rows": [
+          [
+            "S",
+            "48/18.8",
+            "38.2/15",
+            "93/36.5",
+            "56/22",
+            "95.5/37.5",
+            "103/40.4",
+            "89/34.9"
+          ],
+          [
+            "M",
+            "49.5/19.4",
+            "39.5/15.5",
+            "98/38.4",
+            "57/22.4",
+            "100.5/39.5",
+            "104/40.8",
+            "94/36.9"
+          ],
+          [
+            "L",
+            "51/20",
+            "40.8/16",
+            "103/40.4",
+            "58/22.8",
+            "105.5/41.4",
+            "105/41.2",
+            "99/38.9"
+          ],
+          [
+            "XL",
+            "52.5/20.6",
+            "42.1/16.5",
+            "108/42.4",
+            "59/23.2",
+            "110.5/43.4",
+            "106/41.6",
+            "104/40.9"
+          ],
+          [
+            "2XL",
+            "54/21.2",
+            "43.4/17",
+            "113/44.4",
+            "60/23.6",
+            "115.5/44.4",
+            "107/42",
+            "109/42.8"
+          ],
+          [
+            "3XL",
+            "55.5/21.8",
+            "44.7/17.5",
+            "118/46.4",
+            "61/24",
+            "120.5/46.4",
+            "108/42.4",
+            "114/44.8"
+          ]
+        ],
+        "notes_en": "Measurements are provided in centimeters and inches. Made to order for global delivery.",
+        "notes_es": "Las medidas se proporcionan en centímetros y pulgadas. Piezas confeccionadas bajo pedido con envío internacional."
+      },
       "sku_map": {
         "S": "D3291752",
         "M": "D3291752",
@@ -427888,8 +428435,8 @@
       "source_text": "Design Women's Long Sleeve Top & Skirt Set Skirt Sets white .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n InterestPrint®Women's Long Sleeve Top & Skirt Set \r\n Type: 92% Polyester, 8% Spandex, for Women, All Over Print \r\n Made from high-quality terry fabric(92% Polyester, 8% Spandex), this long skirt set is breathable, comfortable, elastic, and moisture-absorbing. \n The top features a V-neck and long sleeves for a chic and comfortable fit. \n The adjustable drawstring waist creates a flattering, cinched look while ensuring all-day comfort. \n The ankle-length skirt is lightweight and easy to wear, providing a smooth, slimming silhouette. \n The skirt includes 2 convenient pockets for added functionality.\r\n Perfect for home, outings, work, shopping, and casual occasions.\r\n Sizes: S, M, L, XL, 2XL, 3XL. Calculate your size from the measurement chart below please.\r\n Care Instructions: Hand wash or machine wash recommended. Do not soak for long periods or bleach. Water temperature should not exceed 45 °C.\r\n Designer Tip: To ensure the highest quality print, \r\nplease note that this product's recommended upload image size in \r\npixels (W x H): \nPrint: 3326 x 4500 or Higher / 150 dpi.\n CUSTOMIZATION TIPS \n We can't guarantee exact placement. There might be slight discrepancies in print placement. Please keep the main elements of your art towards the center of the design area. Anything near the edge runs the risk of being cut off during the cutting and sewing process.\n We allow the color accura",
       "name_es": "Conjunto de Top y Falda · Blanco",
       "name_en": "Long Sleeve Top and Skirt Set · White",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
+      "desc_es": "Una silueta depurada define este conjunto de top y falda larga, concebido para ofrecer una presencia impecable. Confeccionado en tejido de felpa, combina un tacto suave con una elasticidad controlada. El top presenta cuello en V y manga larga, mientras que la falda incorpora una cintura ajustable con cordón y bolsillos funcionales. Una propuesta versátil que equilibra comodidad y refinamiento contemporáneo para cualquier ocasión.",
+      "desc_en": "A streamlined silhouette defines this long sleeve top and skirt set, designed for an effortless presence. Crafted from terry fabric, it balances a soft touch with controlled stretch. The top features a V-neck and long sleeves, while the ankle-length skirt incorporates an adjustable drawstring waist and functional pockets. A versatile proposition that balances comfort with contemporary refinement for any occasion.",
       "price_usd": 27.99,
       "margin_pct": 24.5,
       "images_original": [
@@ -427904,11 +428451,9 @@
       "display_images": [
         "assets/products/shop/c8d68a898e4c86af4adb.jpg",
         "assets/products/shop/702c2cbdfbd8e5cb1baa.jpg",
-        "assets/products/shop/d41b187650b2c644b754.jpg",
-        "assets/products/shop/8da8188cd8962f47db08.jpg",
-        "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+        "assets/products/shop/d41b187650b2c644b754.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-19": 30.99,
         "2026-11-20": 30.99,
@@ -427921,7 +428466,7 @@
         "2026-11-27": 27.99,
         "2026-11-28": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 12.95,
       "rank": 2321,
       "badge": "new",
@@ -427931,7 +428476,7 @@
         "printful-379237645",
         "printful-338164153"
       ],
-      "page": false,
+      "page": true,
       "shipping_usd": 8.0,
       "shipping_worst_usd": 12.8,
       "fam": "women-s-long",
@@ -427950,7 +428495,45 @@
       "stripe_site": "https://dazmond.com",
       "cg": "t-design-women-s-long-sleeve-top-skirt-set",
       "shop_category": "",
-      "img_checked": "2026-11-23"
+      "img_checked": "2026-11-23",
+      "art_score": 3,
+      "art_note": "The imagery relies on flat digital mockups and awkward composite lifestyle shots, failing to meet luxury presentation standards.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/products/shop/c8d68a898e4c86af4adb.jpg",
+            "k": "model",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/702c2cbdfbd8e5cb1baa.jpg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "assets/products/shop/d41b187650b2c644b754.jpg",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "assets/products/shop/8da8188cd8962f47db08.jpg",
+          "http://ipimg.interestprint.com/data/product/4766/info/image/20250929/F821CF8F9FC33A309A160BFFDAA991CB.jpg"
+        ]
+      },
+      "ai_type": "Top & Skirt Set",
+      "ai_gender": "women",
+      "ai_color": "white",
+      "ai_material": "92% Polyester, 8% Spandex",
+      "ai_cats": [
+        "mujer/falda"
+      ],
+      "details_es": "· 92% poliéster, 8% elastano\n· Conjunto de top de manga larga y falda larga\n· Cuello en V\n· Cintura ajustable con cordón\n· Falda larga con dos bolsillos\n· Lavar a mano o a máquina a un máximo de 45 °C\n· Confeccionado bajo pedido\n· Envío mundial disponible",
+      "details_en": "· 92% polyester, 8% spandex\n· Long sleeve top and ankle-length skirt set\n· V-neck design\n· Adjustable drawstring waist\n· Skirt with two functional pockets\n· Hand or machine wash recommended, max 45 °C\n· Made-to-order piece\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-8",
