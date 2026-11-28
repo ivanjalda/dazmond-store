@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-28 15:41 UTC",
+  "updated": "2026-11-28 16:41 UTC",
   "totals": {
     "catalogo": 2534,
-    "a_la_vista": 2312,
+    "a_la_vista": 2314,
     "disenos_a_la_vista": 915,
-    "ocultos": 222,
-    "ia_revisados": 2353,
-    "ia_pendientes": 117,
-    "con_boton_de_pago": 2312,
+    "ocultos": 220,
+    "ia_revisados": 2355,
+    "ia_pendientes": 115,
+    "con_boton_de_pago": 2314,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
@@ -20,7 +20,7 @@
     "Vigilante": 4,
     "Ya no está en el proveedor": 100,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 117
+    "Borrador": 115
   },
   "suppliers": {
     "Printify": {
@@ -36,8 +36,8 @@
       "ocultos": 8
     },
     "InterestPrint": {
-      "visibles": 343,
-      "ocultos": 114
+      "visibles": 345,
+      "ocultos": 112
     }
   },
   "guard": [
@@ -556,24 +556,6 @@
       "c": "hombre/camiseta",
       "pr": 16.99,
       "why": "No es un producto (venía de Shopify)"
-    },
-    {
-      "id": "interestprint-design-womens-ruffled-short-sleeve-pajama-set-1",
-      "n": "Conjunto de Pijama Estampado · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/cfc0f665802c6ab11349.jpg",
-      "c": "mujer/batas-pijamas",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-ruffled-short-sleeve-pajama-set-2",
-      "n": "Conjunto de Pijama Estampado · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/53a8f9b6e5991111514d.jpg",
-      "c": "mujer/batas-pijamas",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit",
@@ -2383,16 +2365,16 @@
     "CSV leído: telegram.csv",
     "Printify: 83 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 12 s",
-    "Productos en catálogo: 2534 · a la vista: 2310 · archivados: 101",
+    "⏱ lectura de proveedores: 13 s",
+    "Productos en catálogo: 2534 · a la vista: 2316 · archivados: 101",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 2166 piezas",
-    "⏱ ventas, visitas y cupones: 3 s",
+    "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 6 productos revisados (fotos, guía de tallas y textos) · quedan 342",
-    "⏱ revisión con IA: 255 s",
+    "IA: 2 productos revisados (fotos, guía de tallas y textos) · quedan 340",
+    "⏱ revisión con IA: 274 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
