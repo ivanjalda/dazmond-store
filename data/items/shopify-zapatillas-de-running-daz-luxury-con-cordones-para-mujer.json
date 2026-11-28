@@ -17,7 +17,7 @@
   "calzado-mujer/zapatillas"
  ],
  "cg": "t-zapatillas-de-running-daz-luxury-con-cordones-para-mujer",
- "color": "",
+ "color": "white",
  "created": "2026-11-19",
  "desc_en": "Designed for fluid movement. These sneakers combine a contemporary silhouette with functional materials for daily wear. Crafted from mesh and PVC, they feature a seamless elastic upper that moves with your stride. The soft, breathable MD outsole ensures lightweight support. Each piece is made to order with worldwide shipping.",
  "desc_es": "Disenadas para el movimiento fluido. Estas zapatillas combinan una silueta contemporanea con materiales funcionales para el dia a dia. Confeccionadas con malla y PVC, incorporan una parte superior elastica sin costuras que acompanan el paso. La suela exterior de MD suave y transpirable asegura un soporte ligero. Cada par se confecciona bajo pedido con envios a todo el mundo.",
@@ -33,6 +33,7 @@
  "draft": false,
  "fam": "zapatillas-running-luxury",
  "fixed_price": true,
+ "gender": "women",
  "hidden": false,
  "id": "shopify-zapatillas-de-running-daz-luxury-con-cordones-para-mujer",
  "look": [
@@ -41,14 +42,14 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "mesh and PVC",
  "name_en": "DAZ Luxury Sneakers",
  "name_es": "Zapatillas DAZ Luxury",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 147.99,
- "rank": 2071,
+ "rank": 2092,
  "shop_category": "Ropa y accesorios > Calzado > Zapatillas",
  "shop_verified": true,
  "size_chart": {

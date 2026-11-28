@@ -17,7 +17,7 @@
   "calzado-mujer/zapatillas"
  ],
  "cg": "t-zapatillas-daz-luxury-de-running-con-cordones-para-mujer",
- "color": "",
+ "color": "white",
  "created": "2026-11-19",
  "desc_en": "Designed for daily movement, these sneakers combine contemporary design with technical functionality. They feature a seamless elastic upper that follows every step with precision. The soft-touch outsole adds lightness to the silhouette, while the loop eyelet defines a refined aesthetic. Each pair is crafted to order to ensure exclusivity.",
  "desc_es": "Diseñadas para el movimento diario, estas zapatillas combinan un diseño contemporáneo con funcionalidad técnica. Presentan una parte superior elástica sin costuras que acompaña cada paso con precisión. La suela exterior de tacto suave aporta ligereza al conjunto, mientras que el ojal de lazo define una estética depurada. Cada par se confecciona bajo demanda para asegurar exclusividad.",
@@ -36,6 +36,7 @@
  "draft": false,
  "fam": "zapatillas-luxury-running",
  "fixed_price": true,
+ "gender": "women",
  "hidden": false,
  "id": "shopify-zapatillas-daz-luxury-de-running-con-cordones-para-mujer",
  "look": [
@@ -44,14 +45,14 @@
   "printful-379237645",
   "printful-338164153"
  ],
- "material": "",
+ "material": "mesh and PVC",
  "name_en": "Mesh Running Sneakers",
  "name_es": "Zapatillas de Running en Malla",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 147.99,
- "rank": 2066,
+ "rank": 2087,
  "shop_category": "Ropa y accesorios > Calzado > Zapatillas",
  "shop_verified": true,
  "size_chart": {

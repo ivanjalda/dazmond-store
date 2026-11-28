@@ -1,0 +1,132 @@
+{
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Khaki",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester",
+ "ai_type": "Polo Shirt",
+ "ai_ver": 2,
+ "art_note": "Mockup-style presentation lacks true luxury editorial atmosphere.",
+ "art_score": 4,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/polos"
+ ],
+ "cg": "t-design-men-s-polo-shirt",
+ "color": "white",
+ "created": "2026-11-19",
+ "desc_en": "This piece combines contemporary sophistication with a refined silhouette. Designed to offer comfort and style on any occasion. Crafted from lightweight and breathable fabric, it features a classic short-sleeve design tailored to shape the body. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Esta prenda combina sofisticación contemporánea con una silueta depurada. Diseñada para ofrecer comodidad y estilo en cualquier ocasión. Confeccionada con tejido ligero y transpirable, presenta un corte clásico de manga corta que define la figura. Cada pieza se elabora bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· 100% polyester\n· Classic short-sleeve design\n· Hand and machine washable",
+ "details_es": "· Hecho a pedido\n· 100% poliéster\n· Diseño clásico de manga corta\n· Lavable a mano y a máquina",
+ "display_images": [
+  "assets/products/shop/b2c2867dc102eb9382b0.jpg"
+ ],
+ "draft": true,
+ "fam": "men-s-polo",
+ "hidden": false,
+ "id": "interestprint-design-men-s-polo-shirt-1",
+ "img_checked": "2026-11-23",
+ "look": [
+  "printify-6b06675510baa70da607308a",
+  "printify-6b0a235d57da105ac506da06",
+  "printify-6b0a2366527d73062d024da8",
+  "printify-6b0a2360aec9e5ff69044e38-black"
+ ],
+ "material": "",
+ "name_en": "Structured Classic Polo · White",
+ "name_es": "Polo Clásico Estructurado · Blanco",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 22.99,
+ "rank": 2128,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Shoulder",
+   "Bust",
+   "Length",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Hombro",
+   "Pecho",
+   "Largo",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. ¡Por favor revise y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "44.5cm / 17.5in",
+    "106cm / 41.7in",
+    "72cm / 28.3in",
+    "23cm / 9.1in"
+   ],
+   [
+    "M",
+    "46cm / 18.1in",
+    "112cm / 44.1in",
+    "74cm / 29.1in",
+    "24cm / 9.4in"
+   ],
+   [
+    "L",
+    "47.5cm / 18.7in",
+    "118cm / 46.5in",
+    "76cm / 29.9in",
+    "25cm / 9.8in"
+   ],
+   [
+    "XL",
+    "49cm / 19.3in",
+    "124cm / 48.8in",
+    "78cm / 30.7in",
+    "26cm / 10.2in"
+   ],
+   [
+    "2XL",
+    "51cm / 20.1in",
+    "132cm / 52in",
+    "80cm / 31.5in",
+    "27cm / 10.6in"
+   ],
+   [
+    "3XL",
+    "53cm / 20.9in",
+    "140cm / 55.1in",
+    "82cm / 32.3in",
+    "28cm / 11in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/aa117464d9de859a9a95.jpg",
+  "http://ipimg.interestprint.com/data/product/4280/info/image/20250410/D258382269FB3C8C9FEDB31FFD2AEDC9.jpg"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL"
+ ],
+ "source_title": "Design Men‘s Polo Shirt",
+ "stripe_payment_link": "https://buy.stripe.com/3cI9AUdru7qA62q0Y61gT2j",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-men-s-polo-shirt-1",
+ "visual_verified": true
+}
