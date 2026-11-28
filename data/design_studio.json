@@ -53,11 +53,30 @@
    "style": "monogram",
    "file": "d-monogram__sudadera-capucha-cojin-bolso-taza.png",
    "date": "2026-11-27"
+  },
+  {
+   "name": "Essential Logo II",
+   "style": "minimal",
+   "file": "essential-logo-ii__camiseta-premium-polo-sudadera-capucha-sudadera.png",
+   "date": "2026-11-28"
+  },
+  {
+   "name": "Diamond Plaque",
+   "style": "plaque",
+   "file": "diamond-plaque__camiseta-sudadera-capucha-bolso-taza.png",
+   "date": "2026-11-28"
+  },
+  {
+   "name": "Quiet Power",
+   "style": "frase",
+   "file": "quiet-power__camiseta-sudadera-capucha-sudadera.png",
+   "date": "2026-11-28"
   }
  ],
  "days": {
   "2026-11-25": 3,
   "2026-11-26": 3,
-  "2026-11-27": 3
+  "2026-11-27": 3,
+  "2026-11-28": 3
  }
 }

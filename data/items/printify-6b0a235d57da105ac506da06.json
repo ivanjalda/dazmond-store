@@ -1,0 +1,83 @@
+{
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography aligned with modern e-commerce standards, though lifestyle presentation leans slightly toward marketplace aesthetics.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printify-6b0a235d57da105ac506da06",
+ "color": "Black",
+ "created": "2026-11-28",
+ "desc_en": "The silhouette redefines everyday luxury with a sober and commanding presence. Crafted through made-to-order production with worldwide shipping. The design incorporates the distinctive house emblem, fusing relaxed proportions with a refined and modern aesthetic. An essential garment that transcends temporary trends, conceived for those who demand exclusivity and sophistication in every detail.",
+ "desc_es": "La silueta redefine el lujo cotidiano con una presencia sobria y rotunda. Confeccionada mediante procesos de fabricación bajo pedido con envíos a todo el mundo. El diseño incorpora el emblema distintivo de la casa, fusionando proporciones relajadas con una estética depurada y moderna. Una prenda esencial que trasciende las tendencias temporales, concebida para quienes exigen exclusividad y sofisticación en cada detalle.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
+ "display_images": [
+  "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/98424/diamond-plaque-hoodie.jpg?camera_label=front",
+  "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/98425/diamond-plaque-hoodie.jpg?camera_label=back",
+  "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/98426/diamond-plaque-hoodie.jpg?camera_label=back-2",
+  "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/98432/diamond-plaque-hoodie.jpg?camera_label=folded",
+  "https://images-api.printify.com/mockup/6b0a235d57da105ac506da06/32920/100685/diamond-plaque-hoodie.jpg?camera_label=front-collar-closeup"
+ ],
+ "draft": false,
+ "fam": "diamond-plaque-hoodie",
+ "hidden": false,
+ "id": "printify-6b0a235d57da105ac506da06",
+ "img_checked": "2026-11-28",
+ "look": [
+  "printify-6b06675510baa70da607308a",
+  "printify-6b0a236acefbb1b2e9077a38",
+  "printify-6b0a2366527d73062d024da8",
+  "printify-6b0a2360aec9e5ff69044e38-black"
+ ],
+ "material": "",
+ "name_en": "Diamond Plaque Hoodie",
+ "name_es": "Sudadera Diamond Plaque",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 46.99,
+ "rank": 3,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 8.79,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "M",
+  "L",
+  "XL",
+  "S",
+  "2XL",
+  "4XL",
+  "5XL",
+  "3XL"
+ ],
+ "skus": [
+  "25909188370537061334",
+  "33116634656765758452",
+  "15770256970622444226",
+  "16210805758056144498",
+  "29092950422597821252",
+  "29459334429773359213",
+  "14150664064158719126",
+  "27825414376497864344"
+ ],
+ "source_title": "Diamond Plaque Hoodie",
+ "stripe_payment_link": "https://buy.stripe.com/28E5kEbjm7qA8aybCK1gZ1y",
+ "supplier": "Printify",
+ "supplier_id": "6b0a235d57da105ac506da06",
+ "visual_verified": false
+}

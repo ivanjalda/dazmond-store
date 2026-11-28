@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:41:49Z",
+  "updated": "2026-11-28T00:42:36Z",
   "note": "El motor diario rellena este archivo. Ventas: desde Stripe. Visitas y clics: desde Firebase cuando esté conectado.",
   "products": {
     "printful-demo-001": {
@@ -29797,7 +29797,7 @@
     "printify-6b08d1fe55d595d88e0a3681": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29806,7 +29806,7 @@
     "printify-6b08d1fb08b8102972074efc": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29815,7 +29815,7 @@
     "printify-6b08d1f7c87e8df47b0948ca": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29824,7 +29824,7 @@
     "printify-6b08d1f4c87e8df47b0948c2": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29833,7 +29833,7 @@
     "printify-6b08d1ecf7ed4c973b05978a": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29842,7 +29842,7 @@
     "printify-6b08d1e9edc552ae3508a8f0": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29851,7 +29851,7 @@
     "printify-6b08d1e755d595d88e0a365f": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29860,7 +29860,7 @@
     "printify-6b08d1e4d4c50971c203623a": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29869,7 +29869,7 @@
     "printify-6b08d1dfedc552ae3508a8e1": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29878,7 +29878,7 @@
     "printify-6b08d1dcedc552ae3508a8dd-black": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29887,7 +29887,7 @@
     "printify-6b08d1dcedc552ae3508a8dd-oyster": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29896,7 +29896,7 @@
     "printify-6b08d1d908b8102972074ebe": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
@@ -29905,7 +29905,115 @@
     "printify-6b08d1d6c87e8df47b094892": {
       "views": 1,
       "clicks": 0,
-      "views_today": 1,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a237acc80e1f59c065604": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a23775345eefc050c934d": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a2374cc80e1f59c0655f7": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a236f57da105ac506da29": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a236caec9e5ff69044e4b": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a236acefbb1b2e9077a38": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a2366527d73062d024da8": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a23625345eefc050c9328": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a2360aec9e5ff69044e38-black": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a2360aec9e5ff69044e38-oyster": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a235d57da105ac506da06": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
+      "sales_30d": 0,
+      "sales_today": 0,
+      "visual_verified": false,
+      "revenue_30d": 0.0
+    },
+    "printify-6b0a235a527d73062d024d93": {
+      "views": 0,
+      "clicks": 0,
+      "views_today": 0,
       "sales_30d": 0,
       "sales_today": 0,
       "visual_verified": false,
