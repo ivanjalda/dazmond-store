@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-28 10:41 UTC",
+  "updated": "2026-11-28 11:41 UTC",
   "totals": {
     "catalogo": 2534,
-    "a_la_vista": 2213,
-    "disenos_a_la_vista": 897,
-    "ocultos": 321,
-    "ia_revisados": 2254,
-    "ia_pendientes": 216,
-    "con_boton_de_pago": 2213,
+    "a_la_vista": 2284,
+    "disenos_a_la_vista": 911,
+    "ocultos": 250,
+    "ia_revisados": 2325,
+    "ia_pendientes": 145,
+    "con_boton_de_pago": 2284,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
@@ -20,7 +20,7 @@
     "Vigilante": 4,
     "Ya no está en el proveedor": 100,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 216
+    "Borrador": 145
   },
   "suppliers": {
     "Printify": {
@@ -32,12 +32,12 @@
       "ocultos": 0
     },
     "Shopify": {
-      "visibles": 1111,
-      "ocultos": 14
+      "visibles": 1116,
+      "ocultos": 9
     },
     "InterestPrint": {
-      "visibles": 250,
-      "ocultos": 207
+      "visibles": 316,
+      "ocultos": 141
     }
   },
   "guard": [
@@ -558,287 +558,8 @@
       "why": "No es un producto (venía de Shopify)"
     },
     {
-      "id": "interestprint-design-women-s-lightweight-cardigan-5",
-      "n": "Cardigan ligero minimalista · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/0be240f5cfe03146e470.jpg",
-      "c": "mujer/chaqueta-sudadera-sueter",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-double-breasted-blazer-9",
-      "n": "Blazer cruzado de diseño gráfico · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/3ccd37affa6647c13920.jpg",
-      "c": "mujer/chaqueta-sudadera-sueter",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-crew-neck-sleeveless-dress-3",
-      "n": "Vestido sin mangas con cuello redondo · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/c3ddb9c0f5070df8e5ee.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-off-shoulder-ruffle-one-piece-swimsuit",
-      "n": "Bañador Ruffle · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/b0b0d396fd04db69b6d1.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-off-shoulder-ruffle-one-piece-swimsuit-1",
-      "n": "Bañador Ruffle · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/301d3eb47b826a1877a7.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-off-shoulder-ruffle-one-piece-swimsuit-2",
-      "n": "Bañador Ruffle · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/751445286a561aafce2b.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-sleeveless-midi-dress",
-      "n": "Vestido Sleeveless · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/a2d4712571239986a117.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-sleeveless-midi-dress-1",
-      "n": "Vestido Sleeveless · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/852cbd0181868df800dc.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-mens-casual-long-sleeve-shirt",
-      "n": "Camisa Madison · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/55b1e3de10badfecf0a5.jpg",
-      "c": "hombre/camisas",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-mens-casual-long-sleeve-shirt-1",
-      "n": "Camisa Madison · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/b571db637542e10f4317.jpg",
-      "c": "hombre/camisas",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-mens-casual-long-sleeve-shirt-2",
-      "n": "Camisa Madison · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/3bde2718ca8cfb60d3d7.jpg",
-      "c": "hombre/camisas",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-mens-long-sleeve-flap-pocket-shirt-11",
-      "n": "Camisa Flap Pocket · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/02e72843fd875e532a8e.jpg",
-      "c": "hombre/camisas",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-mens-stand-collar-sweatshirt",
-      "n": "Sudadera Stand Collar · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/a1d19b12d2574d5bd7a2.jpg",
-      "c": "hombre/chandal-sudaderas",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-mens-stand-collar-sweatshirt-1",
-      "n": "Sudadera Stand Collar · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/cf6de2557a24fd8668a6.jpg",
-      "c": "hombre/chandal-sudaderas",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-ruffle-pajama-pants",
-      "n": "Pijama Ruffle Pajama · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/cfd1bea5229fae9a7638.jpg",
-      "c": "mujer/batas-pijamas",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-ruffle-pajama-pants-1",
-      "n": "Pijama Ruffle Pajama · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/00e42119d733b4a9c33e.jpg",
-      "c": "mujer/batas-pijamas",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-ruffle-pajama-pants-2",
-      "n": "Pijama Ruffle Pajama · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/6b413fc4127a3dc3d3bc.jpg",
-      "c": "mujer/batas-pijamas",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-ruffle-pajama-pants-3",
-      "n": "Pijama Ruffle Pajama · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/52943344c4f840059189.jpg",
-      "c": "mujer/batas-pijamas",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-baseball-jersey",
-      "n": "Camisa Baseball · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/84de84ac0d230ad1a0b4.jpg",
-      "c": "mujer/camisas",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-baseball-jersey-1",
-      "n": "Camisa Baseball · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/39b3c025b99f6b554c3a.jpg",
-      "c": "mujer/camisas",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-baseball-jersey-2",
-      "n": "Camisa Baseball · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/fa17518b2c3d6af784ca.jpg",
-      "c": "mujer/camisas",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-10oz-whiskey-glass-ships-from-usa",
-      "n": "Vaso Whiskey Glass Ships",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/41c3564d8647436b157e.jpg",
-      "c": "decor",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/30c51ff038058c5feeef.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-1",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/fc89d18dfcc9c3059674.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-10",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/476542a7cd8ed8953fea.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-11",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/273406989b6305da4cd5.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-12",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/c41da6a8d023888db7e7.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-13",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/bc28b0ec9c5a44ea22d2.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-14",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/a026f764a03db4d27cbc.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-15",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/9048247e14b66d16dfa1.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-16",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/b65a3342693499eabaf3.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-all-over-print-midi-skirt-2",
-      "n": "Falda Hudson · Blanco",
+      "n": "Falda Midi Estampada Caution · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/3a159c4524153723e063.jpg",
       "c": "mujer/falda",
@@ -846,179 +567,8 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-all-over-print-midi-skirt-3",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/bd1b87690baa2883fa90.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-4",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/db20622d001286db8003.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-5",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/4871ebb0ded002a0002a.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-6",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/989361f023f60cf6a3f1.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-7",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/119d2538e577f888defd.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-8",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/e43b2acb5381c489a268.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-all-over-print-midi-skirt-9",
-      "n": "Falda Hudson · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/893dd19f29fb5a46ca34.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-casual-spaghetti-strap-midi-dress",
-      "n": "Vestido Spaghetti Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/0641e686f49db0fbb43c.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-casual-spaghetti-strap-midi-dress-1",
-      "n": "Vestido Spaghetti Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/c894fbb2bed7d3c7e6b6.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-casual-spaghetti-strap-midi-dress-2",
-      "n": "Vestido Spaghetti Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/b59890445623b9bf7fc6.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-v-neck-long-sleeve-pajama-set",
-      "n": "Pijama Pajama · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/e5189c14dfa7a357838a.jpg",
-      "c": "mujer/batas-pijamas",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-v-neck-long-sleeve-pajama-set-1",
-      "n": "Pijama Pajama · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/be4b7855975ea20dba6c.jpg",
-      "c": "mujer/batas-pijamas",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress",
-      "n": "Vestido Mini Estrellas Volantes · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/3afb38b796c1ebcbe486.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-1",
-      "n": "Vestido Mini Estrellas Volantes · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/693ebaa8b59f7bab6c5f.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-2",
-      "n": "Vestido Mini Estrellas Volantes · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/6ac9a31b29d1bb6039d6.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-3",
-      "n": "Vestido Mini Estrellas Volantes · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/9f38309d7884ca05189e.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-long-sleeve-v-neck-ruffle-mini-dress-4",
-      "n": "Vestido Mini Estrellas Volantes · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/05028ddec4db27804165.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-10",
-      "n": "Falda Conjunto Dos Piezas",
-      "s": "Shopify",
-      "img": "assets/products/shop/c6ea95e8e81b5a123ba6.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-4",
-      "n": "Falda Conjunto Dos Piezas",
-      "s": "Shopify",
-      "img": "assets/products/shop/116dd931516ff2cbd771.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-6",
-      "n": "Falda Conjunto Dos Piezas",
+      "n": "Conjunto de camiseta y falda midi",
       "s": "Shopify",
       "img": "assets/products/shop/ec61c863c24d2d9d804c.jpg",
       "c": "mujer/falda",
@@ -1026,197 +576,8 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-7",
-      "n": "Falda Conjunto Dos Piezas",
-      "s": "Shopify",
-      "img": "assets/products/shop/271300cc305b7887a156.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-8",
-      "n": "Falda Conjunto Dos Piezas",
-      "s": "Shopify",
-      "img": "assets/products/shop/cf314f822cbd8f8c2fa2.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-9",
-      "n": "Falda Conjunto Dos Piezas",
-      "s": "Shopify",
-      "img": "assets/products/shop/056656dce99e78fa130d.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-bikini-set-2063",
-      "n": "Bañador Avenue · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/60ced02ca8b9e13e321d.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-bikini-set-2064",
-      "n": "Bañador Avenue · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/1f0bd1db7403102ba1d0.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-bikini-set-2065",
-      "n": "Bañador Avenue · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/83bc06c2a56f2f801ab4.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-bikini-set-2066",
-      "n": "Bañador Avenue · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/6f6a6aa256704af5788c.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-bikini-set-2067",
-      "n": "Bañador Avenue · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/e2df12ed161c2cbd63eb.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-bikini-set-2068",
-      "n": "Bañador Avenue · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/3da1d838afc958f26856.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-bikini-set-2069",
-      "n": "Bañador Avenue · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/7c57e4ce2fe29b498598.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-bikini-set-2070",
-      "n": "Bañador Avenue · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/c91246d9029cf1451df7.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-bikini-set-2071",
-      "n": "Bañador Avenue · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/13a50048f1c64668a715.jpg",
-      "c": "mujer/trajes-bano",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008",
-      "n": "Blusa Blouse · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/2a339cbc2bc48575ffc4.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-1",
-      "n": "Blusa Blouse · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/00686b90cf018f3c5d74.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-10",
-      "n": "Blusa Blouse · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/97289891bfc74fca0e85.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-11",
-      "n": "Blusa Blouse · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/ef8969b5667656582279.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-12",
-      "n": "Blusa Blouse · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/315fbdd3d822e964fc00.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-13",
-      "n": "Blusa Blouse · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/b0a0a13f6cfe926fa835.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-2",
-      "n": "Blusa Blouse · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/92283edd15ed5bbd85e5.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-3",
-      "n": "Blusa Blouse · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/4ab2d3d614fd064eac20.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-4",
-      "n": "Blusa Blouse · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/1f9c249905136d07060a.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-5",
-      "n": "Blusa Blouse · Blanco",
+      "n": "Blusa de Manga Larga · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/52f10e9ee9dcea996985.jpg",
       "c": "mujer/camisetas-blusas-tops",
@@ -1225,7 +586,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-6",
-      "n": "Blusa Blouse · Blanco",
+      "n": "Blusa de Manga Larga · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/1414e7dfa14792f78ca8.jpg",
       "c": "mujer/camisetas-blusas-tops",
@@ -1234,7 +595,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-7",
-      "n": "Blusa Blouse · Blanco",
+      "n": "Blusa de Manga Larga · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/7f47d19cc918401d1d80.jpg",
       "c": "mujer/camisetas-blusas-tops",
@@ -1243,7 +604,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-8",
-      "n": "Blusa Blouse · Blanco",
+      "n": "Blusa de Manga Larga · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/58f2f5c302cb7338c9ef.jpg",
       "c": "mujer/camisetas-blusas-tops",
@@ -1252,7 +613,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-blouse-ay008-9",
-      "n": "Blusa Blouse · Blanco",
+      "n": "Blusa de Manga Larga · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/29cbbf3791463ff10f83.jpg",
       "c": "mujer/camisetas-blusas-tops",
@@ -3274,20 +2635,23 @@
     "CSV leído: telegram.csv",
     "Printify: 83 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 14 s",
-    "Productos en catálogo: 2534 · a la vista: 2105 · archivados: 101",
+    "⏱ lectura de proveedores: 15 s",
+    "Productos en catálogo: 2534 · a la vista: 2217 · archivados: 101",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 2166 piezas",
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con interestprint-design-women-s-lightweight-cardigan-5: ",
-    "IA: fallo con interestprint-design-women-s-double-breasted-blazer-9: ",
+    "IA: fallo con interestprint-design-all-over-print-midi-skirt-2: ",
+    "IA: fallo con shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-6: ",
+    "IA: fallo con interestprint-design-womens-long-sleeve-blouse-ay008-5: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con interestprint-design-womens-long-sleeve-blouse-ay008-6: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con interestprint-design-womens-long-sleeve-blouse-ay008-7: gemini-flash-latest: The read operation timed out",
+    "IA: fallo con interestprint-design-womens-long-sleeve-blouse-ay008-8: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
     "IA: tiempo de esta hora agotado; sigo en la próxima.",
-    "IA: 117 productos revisados (fotos, guía de tallas y textos) · quedan 441",
-    "⏱ revisión con IA: 1208 s",
-    "Vigilante: 1 correcciones en esta hora",
-    "⏱ vigilante: 92 s",
+    "IA: 71 productos revisados (fotos, guía de tallas y textos) · quedan 370",
+    "⏱ revisión con IA: 1270 s",
+    "⏱ vigilante: 224 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9127 EUR",
