@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Clean, sophisticated studio photography with strong lighting and premium editorial styling that elevates the minimalist aesthetic.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,13 +21,14 @@
  "cg": "printify-6b0a236f57da105ac506da29",
  "color": "Black",
  "created": "2026-11-28",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A streamlined silhouette redefining relaxed elegance. Crafted with precision to deliver an impeccable presence and an exceptional hand feel. The minimalist design is elevated by the signature house emblem at the chest. A versatile piece tailored for the contemporary wardrobe. Available made to order with worldwide shipping.",
+ "desc_es": "Una silueta depurada que redefine la elegancia relajada. Confeccionada con esmero para ofrecer una presencia impecable y un tacto excepcional. El diseño minimalista se enriquece con el emblema de la casa en el pecho. Una prenda versátil diseñada para el guardarropa contemporáneo. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/98502/essential-logo-ii-crewneck.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/98503/essential-logo-ii-crewneck.jpg?camera_label=back",
-  "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/100648/essential-logo-ii-crewneck.jpg?camera_label=folded",
-  "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/128101/essential-logo-ii-crewneck.jpg?camera_label=folded-2"
+  "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/100648/essential-logo-ii-crewneck.jpg?camera_label=folded"
  ],
  "draft": false,
  "fam": "essential-logo-ii",
@@ -29,9 +42,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Logo Sweatshirt · Black",
- "name_es": "Sudadera Logo · Negro",
+ "name_en": "Essential Logo II Sweatshirt",
+ "name_es": "Sudadera Essential Logo II",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 45.99,
  "rank": 8,

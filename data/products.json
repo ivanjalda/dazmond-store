@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T03:41:54Z",
+  "updated": "2026-11-28T04:41:45Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -1213,10 +1213,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "Essential Logo Ii Crewneck Black DAZMOND & Co. — Essential Logo Ii. Made to order.",
-      "name_es": "Sudadera Logo · Negro",
-      "name_en": "Logo Sweatshirt · Black",
-      "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
-      "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
+      "name_es": "Sudadera Essential Logo II",
+      "name_en": "Essential Logo II Sweatshirt",
+      "desc_es": "Una silueta depurada que redefine la elegancia relajada. Confeccionada con esmero para ofrecer una presencia impecable y un tacto excepcional. El diseño minimalista se enriquece con el emblema de la casa en el pecho. Una prenda versátil diseñada para el guardarropa contemporáneo. Disponible bajo pedido con envíos a todo el mundo.",
+      "desc_en": "A streamlined silhouette redefining relaxed elegance. Crafted with precision to deliver an impeccable presence and an exceptional hand feel. The minimalist design is elevated by the signature house emblem at the chest. A versatile piece tailored for the contemporary wardrobe. Available made to order with worldwide shipping.",
       "price_usd": 45.99,
       "margin_pct": 20.7,
       "shipping_usd": 8.79,
@@ -1237,8 +1237,7 @@
       "display_images": [
         "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/98502/essential-logo-ii-crewneck.jpg?camera_label=front",
         "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/98503/essential-logo-ii-crewneck.jpg?camera_label=back",
-        "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/100648/essential-logo-ii-crewneck.jpg?camera_label=folded",
-        "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/128101/essential-logo-ii-crewneck.jpg?camera_label=folded-2"
+        "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/100648/essential-logo-ii-crewneck.jpg?camera_label=folded"
       ],
       "available": true,
       "price_history": {
@@ -1274,7 +1273,67 @@
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazmond.com",
       "page": true,
-      "ai_fail": 1
+      "ai_fail": 1,
+      "art_score": 8,
+      "art_note": "Clean, sophisticated studio photography with strong lighting and premium editorial styling that elevates the minimalist aesthetic.",
+      "needs_studio": false,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/98502/essential-logo-ii-crewneck.jpg?camera_label=front",
+            "k": "product",
+            "q": "premium"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/98503/essential-logo-ii-crewneck.jpg?camera_label=back",
+            "k": "product",
+            "q": "premium"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/100648/essential-logo-ii-crewneck.jpg?camera_label=folded",
+            "k": "detail",
+            "q": "premium"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/128101/essential-logo-ii-crewneck.jpg?camera_label=folded-2",
+            "k": "model",
+            "q": "premium"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/128102/essential-logo-ii-crewneck.jpg?camera_label=lifestyle-2",
+            "k": "model",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/128103/essential-logo-ii-crewneck.jpg?camera_label=lifestyle-3",
+            "k": "model",
+            "q": "ok"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/98504/essential-logo-ii-crewneck.jpg?camera_label=person-1",
+            "k": "model",
+            "q": "premium"
+          },
+          {
+            "u": "https://images-api.printify.com/mockup/6b0a236f57da105ac506da29/25459/98505/essential-logo-ii-crewneck.jpg?camera_label=person-2",
+            "k": "model",
+            "q": "premium"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "Sweatshirt",
+      "ai_gender": "unisex",
+      "ai_color": "Black",
+      "ai_cats": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "details_es": "· Hecho a pedido",
+      "details_en": "· Made to order",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printify-6b0a237acc80e1f59c065604",
