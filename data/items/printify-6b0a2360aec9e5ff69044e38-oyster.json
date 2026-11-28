@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "oyster",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "tote",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on a solid background, meeting basic e-commerce standards.",
+ "art_score": 6,
+ "audited": "2026-11-28",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-6b0a2360aec9e5ff69044e38",
  "color": "Oyster",
  "created": "2026-11-28",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Diamond Plaque tote bag in oyster redefines utilitarian elegance with a subdued and refined presence. Its clean design is completed by the house signature graphic motif, offering a sophisticated aesthetic for everyday wear. Conceived with clean lines and a structured silhouette, this accessory accompanies any contemporary wardrobe with distinction. Each piece is crafted exclusively on demand and features worldwide shipping.",
+ "desc_es": "El bolso tote Diamond Plaque en tono oyster redefine la elegancia utilitaria con una presencia sobria y refinada. Su diseño depurado se completa con el motivo gráfico característico de la casa, ofreciendo una estética sofisticada para el día a día. Concebido con líneas limpias y una silueta estructurada, este accesorio acompaña con distinción cualquier guardarropa contemporáneo. Cada pieza es elaborada exclusivamente bajo demanda y cuenta con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0a2360aec9e5ff69044e38/119446/109797/diamond-plaque-tote.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b0a2360aec9e5ff69044e38/119446/109798/diamond-plaque-tote.jpg?camera_label=back"
@@ -27,9 +42,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Diamond Plaque Bag · Oyster",
- "name_es": "Bolso Diamond Plaque · Oyster",
+ "name_en": "Diamond Plaque Tote Bag · Oyster",
+ "name_es": "Bolso Tote Diamond Plaque · Oyster",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 14,

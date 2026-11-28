@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisas"
+ ],
+ "ai_color": "White and Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% spandex",
+ "ai_type": "Hawaiian Shirt",
+ "ai_ver": 2,
+ "art_note": "The lifestyle images use cheap composite backgrounds and awkward cropping, reducing the luxury appeal.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,16 @@
  "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A bold expression of rhythm and sophistication. This Hawaiian shirt showcases a graphic musical note print against a clean backdrop. Tailored from a fluid polyester and spandex blend, it offers a relaxed silhouette featuring a V-neck and short sleeves. Each panel is individually cut and sewn to ensure seamless pattern alignment. Available made-to-order with worldwide shipping.",
+ "desc_es": "Una expresión audaz de ritmo y sofisticación. Esta camisa hawaiana presenta un estampado gráfico de notas musicales sobre un fondo limpio. Confeccionada con una mezcla fluida de poliéster y elastano, ofrece una silueta relajada con cuello en V y mangas cortas. Cada panel está cortado y ensamblado de manera precisa para lograr una continuidad impecable en el diseño. Disponible bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% spandex\n· Short sleeves\n· V-neck\n· Side slit\n· Machine wash cold (max 40C or 104F)\n· Made-to-order piece",
+ "details_es": "· 95 % poliéster, 5 % elastano\n· Mangas cortas\n· Cuello en V\n· Abertura lateral\n· Lavado a máquina con agua fría (máximo 40 °C)\n· Producto hecho a medida bajo demanda",
  "display_images": [
   "assets/products/shop/f5c281e1181239f8f404.jpg",
   "assets/products/shop/50988a900441a3998321.jpg",
   "assets/products/shop/0607c326282be6898ff6.jpg",
   "assets/products/shop/22d2c30c16d180b164d0.jpg",
-  "assets/products/shop/896d3415d85d99dcd789.jpg",
-  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+  "assets/products/shop/896d3415d85d99dcd789.jpg"
  ],
  "draft": false,
  "fam": "camisa-hawaiana-luxury",
@@ -32,6 +45,7 @@
  "name_en": "DAZ Pink Geometric Hawaiian Shirt",
  "name_es": "Camisa Hawaiana Geométrica Rosa DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 1697,
@@ -39,8 +53,88 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A) Inches",
+   "CHEST WIDTH(B) Inches",
+   "SLEEVES(C) Inches"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A) Pulgadas",
+   "ANCHO DE PECHO(B) Pulgadas",
+   "MANGAS(C) Pulgadas"
+  ],
+  "notes_en": "",
+  "notes_es": "",
+  "rows": [
+   [
+    "2XS",
+    "25.59",
+    "39.37",
+    "8.50"
+   ],
+   [
+    "XS",
+    "26.18",
+    "41.34",
+    "8.74"
+   ],
+   [
+    "S",
+    "26.54",
+    "43.31",
+    "8.98"
+   ],
+   [
+    "M",
+    "27.05",
+    "45.28",
+    "9.21"
+   ],
+   [
+    "L",
+    "27.56",
+    "47.24",
+    "9.45"
+   ],
+   [
+    "XL",
+    "28.07",
+    "49.21",
+    "9.69"
+   ],
+   [
+    "2XL",
+    "28.58",
+    "51.18",
+    "9.92"
+   ],
+   [
+    "3XL",
+    "29.09",
+    "53.54",
+    "10.16"
+   ],
+   [
+    "4XL",
+    "29.61",
+    "55.51",
+    "10.43"
+   ],
+   [
+    "5XL",
+    "30.12",
+    "57.48",
+    "10.71"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+ ],
  "sizes": [
   "2XS",
   "XS",

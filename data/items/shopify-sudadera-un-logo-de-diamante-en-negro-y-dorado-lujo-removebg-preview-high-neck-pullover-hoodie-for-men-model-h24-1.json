@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% polyester",
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "High-end editorial campaign imagery elevates the minimalist sportswear design.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,14 @@
  "cg": "t-sudadera-dazmond-con-capucha-de-cuello-alto-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This hooded sweatshirt redefines urban comfort with a refined design. Crafted with a soft fleece lining, it provides superior wind protection through its high-neck structure. The knitted finishes at the hem and cuffs ensure an immaculate silhouette. Each piece is crafted to order exclusively for our community.",
+ "desc_es": "Esta sudadera con capucha redefine el confort urbano con un diseño depurado. Confeccionada con un suave forro polar, proporciona una protección superior frente al viento gracias a su estructura de cuello alto. Los acabados de punto en dobladillo y puños aseguran una silueta impecable. Cada pieza se elabora bajo pedido exclusivamente para nuestra comunidad.",
+ "details_en": "· 100% polyester\n· Interior fleece lining\n· High neck with adjustable hood\n· Stitched knit hem and cuffs\n· Made to order\n· Available with worldwide shipping",
+ "details_es": "· 100 % poliéster\n· Forro polar interior\n· Cuello alto con capucha ajustable\n· Dobladillo y puños de punto cosido\n· Confeccionado bajo pedido\n· Disponible con envío mundial",
  "display_images": [
   "assets/products/shop/6025bb9de0a26251c94f.jpg",
-  "assets/products/shop/3ab27d0a27a75330647e.jpg",
   "assets/products/shop/ba4f7b282dc1b05e6bd4.jpg",
-  "assets/products/shop/ae4fc734d816bdb93861.jpg",
-  "assets/products/shop/75c6c0ac1024d8c5ce94.jpg",
-  "assets/products/shop/929bc138693dd6c4407c.jpg",
-  "http://ipimg.interestprint.com/data/product/2604/info/image/20230525/CDABCDFD4CA234F4570C9BEA609F42BD.png"
+  "assets/products/shop/ae4fc734d816bdb93861.jpg"
  ],
  "draft": false,
  "fam": "sudadera-capucha-cuello",
@@ -30,9 +40,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Capucha Cuello Alto Sweatshirt",
- "name_es": "Sudadera Capucha Cuello Alto",
+ "name_en": "High Neck Hooded Sweatshirt",
+ "name_es": "Sudadera con Capucha y Cuello Alto",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
  "rank": 1820,
@@ -40,8 +51,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)",
+   "SLEEVE(C)",
+   "HEAD CIRCUMFERENCE(D)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "ANCHO DE PECHO(B)",
+   "MANGA(C)",
+   "CIRCUNFERENCIA DE CABEZA(D)"
+  ],
+  "notes_en": "Measurements are in inches. Made-to-order worldwide shipping.",
+  "notes_es": "Las medidas están en pulgadas. Envío mundial bajo demanda.",
+  "rows": [
+   [
+    "XS",
+    "26.40",
+    "42.10",
+    "24.80",
+    "20.07"
+   ],
+   [
+    "S",
+    "27.00",
+    "44.00",
+    "25.20",
+    "20.47"
+   ],
+   [
+    "M",
+    "27.50",
+    "46.00",
+    "25.60",
+    "20.86"
+   ],
+   [
+    "L",
+    "28.15",
+    "48.00",
+    "25.80",
+    "21.25"
+   ],
+   [
+    "XL",
+    "28.50",
+    "50.00",
+    "26.20",
+    "21.65"
+   ],
+   [
+    "2XL",
+    "29.10",
+    "52.00",
+    "26.60",
+    "22.04"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/2604/info/image/20230525/CDABCDFD4CA234F4570C9BEA609F42BD.png"
+ ],
  "sizes": [
   "XS",
   "S",

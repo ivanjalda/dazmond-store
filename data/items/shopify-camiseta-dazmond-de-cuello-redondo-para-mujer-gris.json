@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Assorted",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% cotton",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery with classical architecture and urban settings elevates the essential t-shirt to luxury status.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,12 +19,11 @@
  "cg": "t-camiseta-dazmond-de-cuello-redondo-para-mujer",
  "color": "Gris",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined expression of casual elegance. Crafted from pure cotton to offer exceptional softness and a flattering silhouette. Refined graphic details bring subtle character to this contemporary wardrobe essential. Designed for unparalleled comfort and absolute versatility on every occasion. Each piece is made to order to ensure exclusivity, with worldwide shipping.",
+ "desc_es": "Una expresión depurada de la elegancia casual. Confeccionada en algodón puro para ofrecer una suavidad excepcional y una silueta favorecedora. Los detalles gráficos refinados aportan un carácter sutil a esta prenda esencial del guardarropa contemporáneo. Diseñada para un confort inigualable y una versatilidad absoluta en cada ocasión. Cada pieza se confecciona bajo demanda para garantizar exclusividad y envío a todo el mundo.",
+ "details_en": "· 100% cotton\n· Flattering cut\n· Double-needle stitched hem\n· Made to order and available with worldwide shipping",
+ "details_es": "· 100% algodón\n· Corte favorecedor\n· Dobladillo con doble pespunte\n· Fabricado bajo pedido y disponible con envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/5455c8f0200d9b096fa1.jpg",
-  "assets/products/shop/5455c8f0200d9b096fa1.jpg",
-  "assets/products/shop/5455c8f0200d9b096fa1.jpg",
   "assets/products/shop/5455c8f0200d9b096fa1.jpg",
   "assets/products/shop/f1a5a631bbf8a9093502.jpg",
   "assets/products/shop/49b5c36629f040338467.jpg",
@@ -21,8 +32,7 @@
   "assets/products/shop/5bd740f210fabee2f44b.jpg",
   "assets/products/shop/53c1441efdc37e2bb4e3.jpg",
   "assets/products/shop/4805f3f764511c03c32e.jpg",
-  "assets/products/shop/06d6cfd5c8ad67531713.jpg",
-  "assets/products/shop/3fc4c328a304a18f0a38.jpg"
+  "assets/products/shop/06d6cfd5c8ad67531713.jpg"
  ],
  "draft": false,
  "fam": "camiseta-cuello-redondo",
@@ -39,6 +49,7 @@
  "name_en": "Cotton Logo T-Shirt · Gris",
  "name_es": "Camiseta de Algodón con Logo · Gris",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 31.99,
  "rank": 1822,
@@ -46,8 +57,51 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Chest"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Pecho"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "62.2cm (24.5\")",
+    "43.2cm (17\")"
+   ],
+   [
+    "M",
+    "64.3cm (25.3\")",
+    "47cm (18.5\")"
+   ],
+   [
+    "L",
+    "66.0cm (26\")",
+    "50.8cm (20\")"
+   ],
+   [
+    "XL",
+    "68.1cm (26.8\")",
+    "54.6cm (21.5\")"
+   ],
+   [
+    "2XL",
+    "71.1cm (28\")",
+    "58.4cm (23\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/3fc4c328a304a18f0a38.jpg"
+ ],
  "sizes": [
   "S",
   "M",

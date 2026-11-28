@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "83% polyester, 17% spandex",
+ "ai_type": "Dress",
+ "ai_ver": 2,
+ "art_note": "High-end luxury campaign imagery with sophisticated architectural lighting and styling.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-geometric-muse-skater-dress",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The Geometric Muse dress redefines the contemporary silhouette through fluid and dynamic design. Crafted from a high-end structured fabric, it offers an impeccable drape with precise elasticity for absolute comfort. Its mid-length skater cut and asymmetric skirt bring organic movement to every step. The high-definition geometric print delivers distinction and modernity. Each piece is made to order with worldwide shipping.",
+ "desc_es": "El vestido Geometric Muse redefine la silueta contemporánea mediante un diseño fluido y dinámico. Confeccionado con un tejido estructurado de alta gama, ofrece una caída impecable con la elasticidad precisa para un confort absoluto. Su corte skater de longitud media y la falda asimétrica aportan un movimiento orgánico a cada paso. El estampado geométrico de alta definición aporta distinción y modernidad. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 83% polyester, 17% spandex\n· Mid-length skater cut\n· Asymmetric skirt\n· Made to order",
+ "details_es": "· 83% poliéster, 17% spandex\n· Corte skater de longitud media\n· Falda asimétrica\n· Fabricado bajo pedido",
  "display_images": [
   "assets/products/shop/9beb021b60156f4a9be9.jpg",
   "assets/products/shop/c991eebeee7cbd8ffc6b.jpg",
@@ -28,9 +42,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Geometric Muse Skater Dress",
- "name_es": "Vestido Geometric Muse Skater",
+ "name_en": "Geometric Muse Dress",
+ "name_es": "Vestido Geometric Muse",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 50.99,
  "rank": 1839,

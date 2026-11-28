@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "tote",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on white background, but presentation feels basic and lacks luxury campaign depth.",
+ "art_score": 5,
+ "audited": "2026-11-28",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-6b0a2360aec9e5ff69044e38",
  "color": "Black",
  "created": "2026-11-28",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "The Diamond Plaque tote bag by DAZMOND & Co. redefines everyday sophistication with an impeccable presence. Designed to complement the modern wardrobe, this accessory blends clean lines with a restrained and functional aesthetic. Each piece is crafted exclusively upon order, ensuring absolute exclusivity. Available with worldwide shipping for international clientele.",
+ "desc_es": "El bolso tote Diamond Plaque de DAZMOND & Co. redefine la sofisticación cotidiana con una presencia impecable. Diseñado para acompañar al guardarropa moderno, este accesorio combina líneas depuradas con una estética sobria y funcional. Cada pieza se confecciona exclusivamente bajo pedido, asegurando una exclusividad absoluta. Disponible con envío mundial para clientes internacionales.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0a2360aec9e5ff69044e38/119445/109797/diamond-plaque-tote.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b0a2360aec9e5ff69044e38/119445/109798/diamond-plaque-tote.jpg?camera_label=back"
@@ -27,9 +42,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Diamond Plaque Bag · Black",
- "name_es": "Bolso Diamond Plaque · Negro",
+ "name_en": "Diamond Plaque Tote Bag · Black",
+ "name_es": "Bolso Tote Diamond Plaque · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 27.99,
  "rank": 13,

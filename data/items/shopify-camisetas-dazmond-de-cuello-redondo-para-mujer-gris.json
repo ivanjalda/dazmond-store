@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Multiple options",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "100% cotton",
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "High-end editorial campaign imagery featuring refined lighting and sophisticated styling.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,12 +19,11 @@
  "cg": "t-camisetas-dazmond-de-cuello-redondo-para-mujer",
  "color": "Gris",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A refined silhouette defines this short-sleeve t-shirt crafted entirely from cotton. The design features a classic crew neckline and a subtle front print showcasing the house identity. Constructed with reinforced stitching and a flattering double-needle hem, it delivers a soft hand and exceptional breathability. Each piece is exclusively made to order in the United States and available with worldwide shipping to ensure absolute exclusivity.",
+ "desc_es": "Una silueta depurada define esta camiseta de manga corta elaborada íntegramente en algodón. El diseño presenta un cuello redondo clásico y un delicado estampado frontal con la identidad de la casa. Confeccionada con costuras reforzadas y un favorecedor dobladillo con doble pespunte, ofrece un tacto suave y una transpirabilidad excepcional. Cada pieza se elabora exclusivamente bajo demanda en Estados Unidos y cuenta con envíos internacionales para asegurar una exclusividad absoluta.",
+ "details_en": "· 100% cotton\n· Flattering cut with double-needle hem\n· Made to order in the United States\n· Worldwide shipping available",
+ "details_es": "· 100% algodón\n· Corte favorecedor con dobladillo de doble pespunte\n· Fabricado bajo demanda en Estados Unidos\n· Envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/492da23214acafa40f42.jpg",
-  "assets/products/shop/492da23214acafa40f42.jpg",
-  "assets/products/shop/492da23214acafa40f42.jpg",
   "assets/products/shop/492da23214acafa40f42.jpg",
   "assets/products/shop/2c8f296fef841de6be90.jpg",
   "assets/products/shop/2e9a7550ea5d90fea9f8.jpg",
@@ -22,8 +33,7 @@
   "assets/products/shop/39ec53ae62ffbe51b108.jpg",
   "assets/products/shop/d3a202e342acb31d74c0.jpg",
   "assets/products/shop/5fc962f30d0a4cbe7837.jpg",
-  "assets/products/shop/82671f6abf0005d2de38.jpg",
-  "assets/products/shop/868950e781960a991763.jpg"
+  "assets/products/shop/82671f6abf0005d2de38.jpg"
  ],
  "draft": false,
  "fam": "camisetas-cuello-redondo",
@@ -37,9 +47,10 @@
   "printful-337647274-dusty-rose"
  ],
  "material": "",
- "name_en": "Camisetas Cuello Redondo Tee · Gris",
- "name_es": "Camiseta Camisetas Cuello Redondo · Gris",
+ "name_en": "DAZMONDI T-Shirt · Gris",
+ "name_es": "Camiseta DAZMONDI · Gris",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 31.99,
  "rank": 1825,

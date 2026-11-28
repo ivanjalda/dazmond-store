@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% algodón hilado en anillos",
+ "ai_type": "Camiseta de manga corta",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with consistent lighting, though presentation relies on standard template aesthetics rather than high-end editorial campaign imagery.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,11 @@
  "cg": "t-camiseta-dazmond-summit-para-hombre",
  "color": "Blanco",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The DAZMOND series sets the new standard for the contemporary wardrobe. This piece offers extraordinary comfort alongside a polished presence. Its superior tubular construction without side seams maintains a pristine shape wash after wash. Double-needle stitching throughout the garment ensures exceptional durability. Crafted from medium-weight 6.1 oz/yd² high-quality ring-spun cotton. The garment-dyed and soft-washed fabric delivers unmatched comfort. The relaxed fit and classic crew neckline allow for a seamless transition between casual and semi-formal settings. Each piece is crafted especially for you upon order.",
+ "desc_es": "La serie DAZMOND establece el nuevo estándar del guardarropa contemporáneo. Esta pieza ofrece una comodidad extraordinaria y una presencia prolija. Su construcción tubular superior sin costuras laterales conserva una forma perfecta lavado tras lavado. La costura de doble aguja en toda la prenda asegura una durabilidad excepcional. Confeccionada con tela mediana de 6.1 oz/yd² de algodón hilado en anillos de alta calidad. El tejido teñido en prenda y lavado con suavidad proporciona una comodidad inigualable. El ajuste relajado y el escote redondo clásico permiten una transición fluida entre entornos casuales y semiformales. Cada pieza se fabrica especialmente para usted al momento de su pedido.",
+ "details_en": "· 100% ring-spun cotton\n· Fabric weight: 6.1 oz/yd²\n· Tubular construction without side seams\n· Double-needle stitching throughout\n· Pre-shrunk fabric\n· Classic crew neckline\n· Relaxed fit\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% algodón hilado en anillos\n· Peso de la tela: 6.1 oz/yd²\n· Construcción tubular sin costuras laterales\n· Costura de doble aguja en toda la prenda\n· Tela preencogida\n· Escote redondo clásico\n· Ajuste relajado\n· Elaborado bajo demanda\n· Envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/c8f8b48d3d4886b47350.jpg",
-  "assets/products/shop/c8f8b48d3d4886b47350.jpg",
-  "assets/products/shop/c8f8b48d3d4886b47350.jpg",
-  "assets/products/shop/c8f8b48d3d4886b47350.jpg",
-  "assets/products/shop/c8f8b48d3d4886b47350.jpg",
   "assets/products/shop/c8f8b48d3d4886b47350.jpg",
   "assets/products/shop/fcb507dcf197cb7b99bb.jpg",
   "assets/products/shop/8d91225f7b3ff1b4b6bd.jpg",
@@ -37,9 +46,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Summit Tee · Blanco",
- "name_es": "Camiseta Summit · Blanco",
+ "name_en": "DAZMOND Summit T-Shirt · Blanco",
+ "name_es": "Camiseta DAZMOND Summit · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 43.99,
  "rank": 1743,
@@ -47,7 +57,69 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Width",
+   "Length",
+   "Sleeve Length",
+   "Size Tolerance"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho",
+   "Longitud",
+   "Largo de manga",
+   "Tolerancia de tamaño"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se proporcionan en pulgadas.",
+  "rows": [
+   [
+    "S",
+    "18.25",
+    "26.62",
+    "16.25",
+    "1.50"
+   ],
+   [
+    "M",
+    "20.25",
+    "28.00",
+    "17.75",
+    "1.50"
+   ],
+   [
+    "L",
+    "22.00",
+    "29.37",
+    "19.00",
+    "1.50"
+   ],
+   [
+    "XL",
+    "24.00",
+    "30.75",
+    "20.50",
+    "1.50"
+   ],
+   [
+    "2XL",
+    "26.00",
+    "31.62",
+    "21.75",
+    "1.50"
+   ],
+   [
+    "3XL",
+    "27.75",
+    "32.50",
+    "23.25",
+    "1.50"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "S",

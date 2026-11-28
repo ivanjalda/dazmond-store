@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Poliéster",
+ "ai_type": "Blazer",
+ "ai_ver": 2,
+ "art_note": "The product images are digital mockups and lack high-end luxury studio photography standards.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,11 @@
  "cg": "t-blazer-para-hombre-dazmond-coleccion-privada-r",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Project an immaculate presence with this structured white blazer. Designed with classic notch lapels and a two-button front closure that provides a defined silhouette. Open patch pockets complete this essential piece for formal events and special occasions. Crafted entirely from polyester with a weight of 22.86 oz, it features a soft interior lining that facilitates movement and ensures comfort throughout the day. Available made-to-order with worldwide shipping.",
+ "desc_es": "Proyecta una presencia impecable con este blazer estructurado en tono blanco. Diseñado con solapas de muesca clásicas y un cierre frontal de dos botones que aporta una silueta definida. Los bolsillos abiertos de parche completan esta pieza esencial para eventos formales y ocasiones especiales. Confeccionado íntegramente en poliéster con un peso de 22.86 oz, incorpora un forro interior suave que facilita el movimiento y asegura comodidad durante toda la jornada. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Crafted entirely from 22.86 oz polyester\n· Soft interior lining\n· Notch lapels and two-button front closure\n· Two open patch pockets\n· Long sleeves with buttoned cuffs and back vent\n· Structured fit\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Confeccionado íntegramente en poliéster de 22.86 oz\n· Forro interior suave\n· Solapas de muesca y cierre frontal de dos botones\n· Dos bolsillos abiertos de parche\n· Mangas largas con puños abotonados y abertura trasera\n· Ajuste estructurado\n· Pieza confeccionada bajo pedido con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/6c90a05a578f88c240bc.jpg",
-  "assets/products/shop/978beeeaa24ab52a7ed7.jpg",
-  "assets/products/shop/60adbcc5ecb31ef38210.jpg",
-  "assets/products/shop/f4f7a9af7e6a14c1ec0a.jpg",
-  "assets/products/shop/851a043c21dce6b15d2e.jpg",
-  "assets/products/shop/b0ba85b8aa95fcc4c830.jpg",
   "assets/products/shop/bbb8d7ad6a7aa0ca5712.jpg"
  ],
  "draft": false,
@@ -29,9 +37,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Blazer Colección Privada Blazer · White",
- "name_es": "Blazer Blazer Colección Privada · Blanco",
+ "name_en": "Structured white polyester blazer",
+ "name_es": "Blazer estructurado de poliéster blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 1842,
@@ -39,8 +48,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH",
+   "BUST",
+   "SHOULDER",
+   "SLEEVE"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "PECHO",
+   "HOMBRO",
+   "MANGA"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "110cm / 43.3in",
+    "44cm / 17.3in",
+    "63cm / 24.8in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "46cm / 18.1in",
+    "64cm / 25.2in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "118cm / 46.5in",
+    "48cm / 18.9in",
+    "65cm / 25.6in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "122cm / 48in",
+    "50cm / 19.7in",
+    "66cm / 26in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "126cm / 49.6in",
+    "52cm / 20.5in",
+    "67cm / 26.4in"
+   ],
+   [
+    "3XL",
+    "84cm / 33.1in",
+    "130cm / 51.2in",
+    "54cm / 21.3in",
+    "68cm / 26.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/b0ba85b8aa95fcc4c830.jpg"
+ ],
  "sizes": [
   "S",
   "M",

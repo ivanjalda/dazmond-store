@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "black and white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "polyester",
+ "ai_type": "blazer",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but model photos look digitally composited and lack high-end luxury atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,14 @@
  "cg": "t-blazer-masculino-dazmond-midnight-contrast-con-solapa-a-contraste",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Define your silhouette with a garment designed to project elegance and confidence. This blazer features contrasting white notch lapels on a black body, complemented by a two-button front closure and a back vent for fluid movement. A key piece for galas, evening events, or high-level styling. Made to order. Worldwide shipping.",
+ "desc_es": "Defina su silueta con una prenda diseñada para proyectar elegancia y seguridad. Este blazer destaca por sus solapas de muesca a contraste en tono blanco sobre un cuerpo negro, complementado con un cierre frontal de dos botones y una abertura posterior que aporta fluidez en cada movimiento. Una pieza clave para galas, eventos nocturnos o estilismos de alto nivel. Made to order. Worldwide shipping.",
+ "details_en": "· Structured 22.86 oz polyester fabric with soft inner lining\n· Contrast notch lapel and two-button front closure\n· Patch pockets with contrast piping and back vent\n· Cuffs decorated with buttons\n· Structured fit for men\n· Made to order and available with worldwide shipping",
+ "details_es": "· Tejido estructurado de poliéster de 22.86 oz con forro interior suave\n· Solapa de muesca a contraste y cierre frontal de dos botones\n· Bolsillos de parche con ribete a contraste y abertura posterior\n· Puños decorados con botones\n· Corte estructurado para hombre\n· Hecho bajo pedido y disponible con envío mundial",
  "display_images": [
-  "assets/products/shop/e42fb68982a8b1ca3f72.jpg",
   "assets/products/shop/a8f38b97d98179577639.jpg",
   "assets/products/shop/0e1e3917fbbb83b1f231.jpg",
   "assets/products/shop/392af32d1bb8274aa204.jpg",
-  "assets/products/shop/cee1b711ab4c0d3c2b69.jpg",
-  "assets/products/shop/45687c39f98adc181811.jpg",
   "assets/products/shop/8b30ded5cd1829ab2685.jpg"
  ],
  "draft": false,
@@ -29,9 +40,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Blazer Masculino Midnight Blazer · White",
- "name_es": "Blazer Blazer Masculino Midnight · Blanco",
+ "name_en": "Midnight Contrast Blazer",
+ "name_es": "Blazer Midnight Contrast",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 1846,
@@ -39,8 +51,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74 cm / 29.1 in",
+    "110 cm / 43.3 in",
+    "44 cm / 17.3 in",
+    "63 cm / 24.8 in"
+   ],
+   [
+    "M",
+    "76 cm / 29.9 in",
+    "114 cm / 44.9 in",
+    "46 cm / 18.1 in",
+    "64 cm / 25.2 in"
+   ],
+   [
+    "L",
+    "78 cm / 30.7 in",
+    "118 cm / 46.5 in",
+    "48 cm / 18.9 in",
+    "65 cm / 25.6 in"
+   ],
+   [
+    "XL",
+    "80 cm / 31.5 in",
+    "122 cm / 48 in",
+    "50 cm / 19.7 in",
+    "66 cm / 26 in"
+   ],
+   [
+    "2XL",
+    "82 cm / 32.3 in",
+    "126 cm / 49.6 in",
+    "52 cm / 20.5 in",
+    "67 cm / 26.4 in"
+   ],
+   [
+    "3XL",
+    "84 cm / 33.1 in",
+    "130 cm / 51.2 in",
+    "54 cm / 21.3 in",
+    "68 cm / 26.8 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/45687c39f98adc181811.jpg"
+ ],
  "sizes": [
   "S",
   "M",

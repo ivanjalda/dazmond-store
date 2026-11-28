@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% polyester",
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Strong, atmospheric studio photography with refined lighting that elevates the garment to luxury standards.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,17 @@
  "cg": "t-sudadera-dazmond-con-capucha-de-cuello-alto-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This men's hooded sweatshirt is crafted with a fleece lining for warmth and comfort. The high-neck design offers enhanced wind protection. The hem and cuffs are crafted with stitched knit for a superior fit and a refined appearance. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Esta sudadera con capucha para hombre está confeccionada con un forro polar para mayor calidez y comodidad. El diseño de cuello alto ofrece una mejor protección contra el viento. El dobladillo y los puños están diseñados con punto cosido para un mejor ajuste y un aspecto más elegante. Pieza elaborada bajo pedido con opciones de envío mundial para garantizar exclusividad.",
+ "details_en": "· 100% polyester\n· Men's fit\n· All-over print\n· Hand and machine wash, do not bleach\n· Made in USA\n· Made-to-order piece",
+ "details_es": "· 100 % poliéster\n· Ajuste para hombre\n· Estampado integral\n· Lavar a mano y a máquina, no usar lejía\n· Fabricado en EEUU\n· Cada pieza se confecciona bajo pedido",
  "display_images": [
   "assets/products/shop/1270a43875b51644d4a5.jpg",
   "assets/products/shop/a10a3c957c82bd9d7300.jpg",
   "assets/products/shop/6d9c8558081201a5ca34.jpg",
   "assets/products/shop/a3c8798bd710d98b3daa.jpg",
   "assets/products/shop/2b7f4119eab17c59d7e5.jpg",
-  "assets/products/shop/b7d5edc72e632c2bb123.jpg",
-  "http://ipimg.interestprint.com/data/product/2604/info/image/20230525/CDABCDFD4CA234F4570C9BEA609F42BD.png"
+  "assets/products/shop/b7d5edc72e632c2bb123.jpg"
  ],
  "draft": false,
  "fam": "sudadera-capucha-cuello",
@@ -30,9 +43,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Capucha Cuello Alto Sweatshirt",
- "name_es": "Sudadera Capucha Cuello Alto",
+ "name_en": "High Neck Hooded Sweatshirt",
+ "name_es": "Sudadera con Capucha y Cuello Alto",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 49.99,
  "rank": 1821,
@@ -40,8 +54,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)",
+   "SLEEVE(C)",
+   "HEAD CIRCUMFERENCE(D)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "ANCHO DE PECHO(B)",
+   "MANGA(C)",
+   "CIRCUNFERENCIA DE CABEZA(D)"
+  ],
+  "notes_en": "Measurements are provided in inches. Made to order for a precise fit.",
+  "notes_es": "Las medidas se proporcionan en pulgadas. Fabricado bajo pedido para un ajuste preciso.",
+  "rows": [
+   [
+    "XS",
+    "26.40",
+    "42.10",
+    "24.80",
+    "20.07"
+   ],
+   [
+    "S",
+    "27.00",
+    "44.00",
+    "25.20",
+    "20.47"
+   ],
+   [
+    "M",
+    "27.50",
+    "46.00",
+    "25.60",
+    "20.86"
+   ],
+   [
+    "L",
+    "28.15",
+    "48.00",
+    "25.80",
+    "21.25"
+   ],
+   [
+    "XL",
+    "28.50",
+    "50.00",
+    "26.20",
+    "21.65"
+   ],
+   [
+    "2XL",
+    "29.10",
+    "52.00",
+    "26.60",
+    "22.04"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/2604/info/image/20230525/CDABCDFD4CA234F4570C9BEA609F42BD.png"
+ ],
  "sizes": [
   "XS",
   "S",

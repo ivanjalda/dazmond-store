@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "t-shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but lifestyle and flat-lay images lack luxury campaign depth.",
+ "art_score": 5,
+ "audited": "2026-11-28",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,16 +22,16 @@
  "cg": "printify-6b0a2374cc80e1f59c0655f7",
  "color": "Black",
  "created": "2026-11-28",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Quiet elegance defines the essence of this refined design piece. Its deep black hue evokes timeless sophistication, accented by subtle gold graphic details on the chest. Created for those who value subtle presence and understated authority, this garment delivers an immaculate silhouette that moves naturally. Each piece is meticulously crafted to order to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "La elegancia silenciosa define la esencia de esta pieza de diseño refinado. Su profundo tono negro evoca una sofisticación atemporal, acentuada por sutiles detalles gráficos dorados en el pecho. Creada para quienes valoran la presencia sutil y la autoridad discreta, esta prenda ofrece una silueta impecable que acompaña el movimiento con naturalidad. Cada pieza se elabora meticulosamente bajo pedido para garantizar exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0a2374cc80e1f59c0655f7/12124/102005/quiet-power-tee.jpg?camera_label=front-2",
   "https://images-api.printify.com/mockup/6b0a2374cc80e1f59c0655f7/12124/102006/quiet-power-tee.jpg?camera_label=back-2",
   "https://images-api.printify.com/mockup/6b0a2374cc80e1f59c0655f7/12124/102001/quiet-power-tee.jpg?camera_label=folded",
-  "https://images-api.printify.com/mockup/6b0a2374cc80e1f59c0655f7/12124/127735/quiet-power-tee.jpg?camera_label=folded-2",
   "https://images-api.printify.com/mockup/6b0a2374cc80e1f59c0655f7/12124/102002/quiet-power-tee.jpg?camera_label=hanging-1",
-  "https://images-api.printify.com/mockup/6b0a2374cc80e1f59c0655f7/12124/102003/quiet-power-tee.jpg?camera_label=hanging-2",
-  "https://images-api.printify.com/mockup/6b0a2374cc80e1f59c0655f7/12124/102004/quiet-power-tee.jpg?camera_label=hanging-3"
+  "https://images-api.printify.com/mockup/6b0a2374cc80e1f59c0655f7/12124/102003/quiet-power-tee.jpg?camera_label=hanging-2"
  ],
  "draft": false,
  "fam": "quiet-power-tee",
@@ -32,9 +45,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Quiet Power Tee · Black",
- "name_es": "Camiseta Quiet Power · Negro",
+ "name_en": "Quiet Power Black Tee",
+ "name_es": "Camiseta Quiet Power Negra",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 12,

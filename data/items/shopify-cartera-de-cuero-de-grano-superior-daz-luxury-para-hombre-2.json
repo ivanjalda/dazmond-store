@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Top grain PU leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Wallet",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with realistic angles, though lacking dramatic high-end editorial lighting.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +20,15 @@
  "cg": "t-cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This refined folding wallet for men is designed for daily use and travel. Crafted from top grain leather, it offers a soft touch and delicate texture. The interior features organized compartments for cash, cards, photos, and coins. Its compact design combines versatility with understated elegance. Each piece is made to order to ensure the exclusivity of our community. Available with worldwide shipping.",
+ "desc_es": "Esta refinada cartera plegable para hombre está diseñada para el uso diario y los viajes. Confeccionada con cuero de grano superior, ofrece un tacto suave y una textura delicada. El interior cuenta con compartimentos organizados para efectivo, tarjetas, fotos y monedas. Su diseño compacto combina versatilidad y elegancia discreta. Cada pieza se fabrica bajo pedido para garantizar la exclusividad de nuestra comunidad. Disponible con envío a todo el mundo.",
+ "details_en": "· Top grain PU leather\n· Compartment for cash, cards, photos, and coins\n· Folding design\n· Gently clean dust with a soft, dry or damp cloth\n· Made specially for you on demand\n· Worldwide shipping",
+ "details_es": "· Cuero PU de grano superior\n· Compartimento para efectivo, tarjetas, fotos y monedas\n· Diseño plegable\n· Limpiar el polvo suavemente con un paño suave, seco o húmedo\n· Hecho especialmente para usted bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/3dc3fd43ddcb9635e2af.jpg",
   "assets/products/shop/96be0e48116afcf0d872.jpg",
   "assets/products/shop/fcebaa9fee2a32bbb45e.jpg",
-  "assets/products/shop/830a63ca1a5ebf1d8182.jpg",
-  "assets/products/shop/30408cfc969868c73417.jpg"
+  "assets/products/shop/830a63ca1a5ebf1d8182.jpg"
  ],
  "draft": false,
  "fam": "cartera-cuero-grano",
@@ -28,9 +42,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Cartera Cuero Grano Bag",
- "name_es": "Bolso Cartera Cuero Grano",
+ "name_en": "Synthetic Leather Bifold Wallet",
+ "name_es": "Cartera plegable de cuero sintético",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
  "rank": 1833,
@@ -38,9 +53,35 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Billeteras y clips para billetes > Carteras",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Dimension",
+   "Size"
+  ],
+  "headers_es": [
+   "Dimensión",
+   "Talla"
+  ],
+  "notes_en": "Measurements are taken flat.",
+  "notes_es": "Las medidas se toman en plano.",
+  "rows": [
+   [
+    "Width / Ancho",
+    "24.3 cm / 9.6 in"
+   ],
+   [
+    "Height / Alto",
+    "9.1 cm / 3.6 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/30408cfc969868c73417.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Cartera de cuero de grano superior DAZ Luxury para hombre",
  "stripe_payment_link": "https://buy.stripe.com/bJecN63QU4eo3Ui9uC1gR0l",
  "supplier": "Shopify",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisas"
+ ],
+ "ai_color": "Black and White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "Hawaiian Shirt",
+ "ai_ver": 2,
+ "art_note": "The model shots rely on composited backgrounds and unflattering flat placement, bringing down the perceived luxury value. The isolated product shots are cleaner",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,13 @@
  "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A graphic interpretation of classic resort aesthetics. This piece features a monochromatic design inspired by musical scores and notes, capturing a sophisticated visual contrast. Tailored with a relaxed silhouette, it includes short sleeves, a V-neckline, and a delicate side slit. Each individual panel is cut and assembled to ensure flawless pattern continuity. A versatile garment designed to transition effortlessly between moments of leisure and warm-weather gatherings. Each piece is crafted upon request to ensure community exclusivity.",
+ "desc_es": "Una reinterpretación gráfica de la estética clásica de resort. Esta pieza presenta un diseño monocromático inspirado en partituras y notas musicales, capturando un contraste visual sofisticado. Confeccionada con una silueta relajada, incluye cuello en V, mangas cortas y una sutil abertura lateral. Cada panel es cortado y ensamblado de manera individual para asegurar la continuidad perfecta del patrón gráfico. Una prenda versátil diseñada para la transición entre momentos de descanso y ocasiones informales bajo el sol. Cada pieza se confecciona bajo pedido para garantizar la exclusividad de la comunidad.",
+ "details_en": "· 95% polyester and 5% elastane\n· Short sleeves, V-neckline and side slit\n· Machine wash cold (max 40C or 104F); do not bleach; iron with cover; do not tumble dry; dry in the shade\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 95 % poliéster y 5 % elastano\n· Mangas cortas, cuello en V y abertura lateral\n· Lavado a máquina con agua fría (máximo 40 °C); sin cloro; planchar con funda; no secar en secadora; secar a la sombra\n· Hecho bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/cf1279a0f929e799ecf0.jpg",
-  "assets/products/shop/edc52d5aa224f29ca5da.jpg",
-  "assets/products/shop/7efe9bba5f2e69cde15a.jpg",
   "assets/products/shop/4b570e3d5430834b602f.jpg",
-  "assets/products/shop/c326358073ce94081f6a.jpg",
-  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+  "assets/products/shop/c326358073ce94081f6a.jpg"
  ],
  "draft": false,
  "fam": "camisa-hawaiana-luxury",
@@ -32,6 +42,7 @@
  "name_en": "DAZ Pink Geometric Hawaiian Shirt",
  "name_es": "Camisa Hawaiana Geométrica Rosa DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 1704,
@@ -39,8 +50,88 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)",
+   "SLEEVES(C)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD (A)",
+   "ANCHO DE PECHO (B)",
+   "MANGAS (C)"
+  ],
+  "notes_en": "Made to order. Worldwide shipping.",
+  "notes_es": "Hecho bajo pedido. Envíos a todo el mundo.",
+  "rows": [
+   [
+    "2XS",
+    "25.59",
+    "39.37",
+    "8.50"
+   ],
+   [
+    "XS",
+    "26.18",
+    "41.34",
+    "8.74"
+   ],
+   [
+    "S",
+    "26.54",
+    "43.31",
+    "8.98"
+   ],
+   [
+    "M",
+    "27.05",
+    "45.28",
+    "9.21"
+   ],
+   [
+    "L",
+    "27.56",
+    "47.24",
+    "9.45"
+   ],
+   [
+    "XL",
+    "28.07",
+    "49.21",
+    "9.69"
+   ],
+   [
+    "2XL",
+    "28.58",
+    "51.18",
+    "9.92"
+   ],
+   [
+    "3XL",
+    "29.09",
+    "53.54",
+    "10.16"
+   ],
+   [
+    "4XL",
+    "29.61",
+    "55.51",
+    "10.43"
+   ],
+   [
+    "5XL",
+    "30.12",
+    "57.48",
+    "10.71"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+ ],
  "sizes": [
   "2XS",
   "XS",

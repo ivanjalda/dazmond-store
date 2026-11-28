@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Canvas",
+ "ai_type": "Sneakers",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain background, maintaining standard e-commerce presentation without lifestyle context.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-zapatillas-altas-daz-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "These high-top sneakers combine a bold aesthetic with a structured silhouette for everyday wear. Featuring an all-over high-definition print and a high-top construction that ensures a secure fit. Each pair is made to order to guarantee brand exclusivity. Available with worldwide shipping.",
+ "desc_es": "Estas zapatillas altas combinan un diseño audaz con una confección estructurada para el uso diario. Presentan un estampado integral de alta definición y una construcción de caña alta que asegura un ajuste firme. Cada par se elabora bajo pedido para garantizar la exclusividad de la marca. Disponibles con envío a todo el mundo.",
+ "details_en": "· High-quality canvas upper\n· Breathable cotton lining\n· Rubber outsole and removable EVA insole\n· Reinforced waterproof PU toe cap\n· 7-eyelet lace-up closure\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Parte superior de lona de alta calidad\n· Forro de algodón transpirable\n· Suela de goma y plantilla de EVA extraíble\n· Puntera de PU reforzada e impermeable\n· Cierre de cordones con 7 ojales\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/949e7d3c33cec64cc5a0.jpg",
   "assets/products/shop/10cf11d0ab7a97d07101.jpg",
@@ -18,10 +32,7 @@
   "assets/products/shop/e25b6f96204e552f594b.jpg",
   "assets/products/shop/77837d4de2cf8678640b.jpg",
   "assets/products/shop/d28b6830fb59aba54b28.jpg",
-  "assets/products/shop/44d58244e2b769bd176f.jpg",
-  "assets/products/shop/283f5600ffede089b60e.jpg",
-  "assets/products/shop/e45a30d29810ec02c629.jpg",
-  "assets/products/shop/44de0cccdc9492ad4be1.jpg"
+  "assets/products/shop/283f5600ffede089b60e.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-altas-hombre",
@@ -35,9 +46,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Zapatillas Altas Daz Sneakers",
- "name_es": "Zapatillas Zapatillas Altas Daz",
+ "name_en": "Printed high-top sneakers",
+ "name_es": "Zapatillas altas con estampado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 31.99,
  "rank": 1751,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "PU",
+ "ai_type": "Sneakers",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shots with consistent lighting, though presentation leans towards standard e-commerce rather than high luxury.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-zapatillas-daz-premium-de-deporte-de-cuero-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Redefining urban aesthetics with a timeless design. These sneakers combine a classic silhouette with a high-definition all-over print. Crafted with selected materials to offer daily durability and comfort. The perfect balance between versatility and sophisticated presence for every season. Each pair is crafted exclusively on demand in limited quantities, ensuring global exclusivity.",
+ "desc_es": "Redefiniendo la estética urbana con un diseño atemporal. Estas zapatillas combinan una silueta clásica con un estampado integral de alta definición. Confeccionadas con materiales seleccionados para ofrecer durabilidad y confort diario. El equilibrio perfecto entre versatilidad y presencia sofisticada para cualquier temporada. Cada par se elabora exclusivamente bajo pedido en unidades limitadas, garantizando exclusividad mundial.",
+ "details_en": "· Eco-friendly PU upper\n· Rubber outsole\n· Removable EVA insole\n· Lace-up and hook-and-loop closure\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Parte superior de PU ecológica\n· Suela de goma\n· Plantilla de EVA extraíble\n· Cierre de cordones y velcro\n· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/283657997184486e229a.jpg",
   "assets/products/shop/c334a29cac31ccfcbd99.jpg",
@@ -17,10 +31,7 @@
   "assets/products/shop/30837d1c2d2099dd18a3.jpg",
   "assets/products/shop/05302fb576eb22142487.jpg",
   "assets/products/shop/2e51674c50dc3a5beba7.jpg",
-  "assets/products/shop/a8792bc9012813022fd7.jpg",
-  "assets/products/shop/01362ba8939639e60022.jpg",
-  "assets/products/shop/0f37caf460f4b494e9ee.jpg",
-  "assets/products/shop/850e4c3255223b85c717.jpg"
+  "assets/products/shop/a8792bc9012813022fd7.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-premium-deporte",
@@ -34,9 +45,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Zapatillas Daz Deporte Sneakers",
- "name_es": "Zapatillas Zapatillas Daz Deporte",
+ "name_en": "Daz Printed High-Top Sneakers",
+ "name_es": "Zapatillas Altas Estampadas Daz",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 1807,

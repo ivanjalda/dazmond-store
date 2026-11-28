@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "polyester",
+ "ai_type": "blazer",
+ "ai_ver": 2,
+ "art_note": "The digital pattern overlay and flat studio composites lack the tactile depth and refined lighting expected of a luxury house.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,11 @@
  "cg": "t-blazer-para-hombre-dazmond-coleccion-privada",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A structured silhouette that communicates absolute confidence from the first glance. Featuring traditional notch lapels, a two-button front closure, and an all-over motif designed to define the space with distinction. Tailored to stand out with serenity at any formal or daily event. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Una prenda estructurada que comunica seguridad absoluta desde el primer instante. Presenta solapas de muesca tradicionales, cierre frontal de dos botones y un diseño integral que define el espacio con distinción. Confeccionado para destacar con serenidad en cualquier evento formal o cotidiano. Cada pieza se elabora bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Crafted from polyester with a soft interior lining\n· Structured design with notch lapels and a back vent\n· Two-button front closure and buttoned cuffs\n· Two open patch pockets\n· Made to order with worldwide shipping",
+ "details_es": "· Confeccionado en poliéster con forro interior suave\n· Diseño estructurado con solapas de muesca y abertura trasera\n· Cierre frontal de dos botones y puños con botones\n· Dos bolsillos abiertos de parche\n· Hecho bajo pedido con envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/eca280ab6fa40b7e8a52.jpg",
-  "assets/products/shop/cd568deff8085a56933b.jpg",
-  "assets/products/shop/ac0c697821c1602b6477.jpg",
-  "assets/products/shop/4dd0f4ef3fc0612017b5.jpg",
-  "assets/products/shop/b3dc800a5e24d2e7dc59.jpg",
-  "assets/products/shop/4bb08aad395a5a530f85.jpg",
   "assets/products/shop/54e856494ae580bf6d0b.jpg"
  ],
  "draft": false,
@@ -29,9 +37,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Blazer Colección Privada Blazer · White",
- "name_es": "Blazer Blazer Colección Privada · Blanco",
+ "name_en": "Private Collection Monogram Blazer",
+ "name_es": "Blazer Monograma Colección Privada",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 1840,
@@ -39,8 +48,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "110cm / 43.3in",
+    "44cm / 17.3in",
+    "63cm / 24.8in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "46cm / 18.1in",
+    "64cm / 25.2in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "118cm / 46.5in",
+    "48cm / 18.9in",
+    "65cm / 25.6in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "122cm / 48in",
+    "50cm / 19.7in",
+    "66cm / 26in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "126cm / 49.6in",
+    "52cm / 20.5in",
+    "67cm / 26.4in"
+   ],
+   [
+    "3XL",
+    "84cm / 33.1in",
+    "130cm / 51.2in",
+    "54cm / 21.3in",
+    "68cm / 26.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/4bb08aad395a5a530f85.jpg"
+ ],
  "sizes": [
   "S",
   "M",

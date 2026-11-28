@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camisas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% poliéster",
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "Sophisticated editorial lifestyle imagery with elevated lighting and high-end styling.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-camisa-de-manga-corta-arrugada-dazmond-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined silhouette tailored for warmer days. This short-sleeve shirt showcases a distinctive wrinkled texture that introduces depth and quiet sophistication. Designed with an immaculate drape and finished with a subtle chest pocket. Each piece is crafted exclusively to order in the United States to ensure exceptional quality and absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta refinada diseñada para los días cálidos. Esta camisa de manga corta presenta una textura arrugada única que aporta profundidad y sofisticación discreta. Confeccionada con un corte impecable e incluye un sutil bolsillo en el pecho. Cada pieza se confecciona exclusivamente bajo pedido en Estados Unidos para garantizar una calidad excepcional y una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% polyester\n· Machine wash cold (maximum 40°C)\n· Do not bleach\n· Iron with cloth cover\n· Do not tumble dry\n· Dry in the shade\n· Made to order in USA",
+ "details_es": "· 100 % poliéster\n· Lavado a máquina con agua fría (máximo 40 °C)\n· Sin cloro\n· Planchar con funda\n· No secar en secadora\n· Secar a la sombra\n· Fabricado bajo pedido en EEUU",
  "display_images": [
   "assets/products/shop/9c08d9be1277edce78aa.jpg",
   "assets/products/shop/9b0e30ba122e31b2809a.jpg",
@@ -16,8 +30,7 @@
   "assets/products/shop/20261d1bf10b10d83496.jpg",
   "assets/products/shop/24a87667678d0b18e676.jpg",
   "assets/products/shop/e754aceea54731c5d9df.jpg",
-  "assets/products/shop/1c187eb5d511f972fb57.jpg",
-  "http://ipimg.interestprint.com/data/product/2737/info/image/20230515/DA67B5D8CDC7F6398EE07D6F2500B632.png"
+  "assets/products/shop/1c187eb5d511f972fb57.jpg"
  ],
  "draft": false,
  "fam": "camisa-manga-corta",
@@ -31,9 +44,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Camisa Manga Corta Shirt",
- "name_es": "Camisa Camisa Manga Corta",
+ "name_en": "Wrinkled Short Sleeve Shirt",
+ "name_es": "Camisa de manga corta arrugada",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 29.99,
  "rank": 1736,
@@ -41,8 +55,97 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "CHEST WIDTH(A)",
+   "SHOULDER(B)",
+   "SLEEVE LENGTH(C)",
+   "CUFF(D)",
+   "BACK LENGTH(E)",
+   "SLEEVE WIDTH(F)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "ANCHO DE PECHO (A)",
+   "HOMBRO (B)",
+   "LARGO DE MANGA (C)",
+   "PUÑO (D)",
+   "LARGO DE ESPALDA (E)",
+   "ANCHO DE MANGA (F)"
+  ],
+  "notes_en": "Made to order. Worldwide shipping available.",
+  "notes_es": "Fabricado bajo pedido. Envío mundial disponible.",
+  "rows": [
+   [
+    "S",
+    "40.94",
+    "17.72",
+    "9.06",
+    "15.67",
+    "28.74",
+    "16.46"
+   ],
+   [
+    "M",
+    "44.09",
+    "18.50",
+    "9.25",
+    "16.54",
+    "29.53",
+    "17.32"
+   ],
+   [
+    "L",
+    "47.24",
+    "19.29",
+    "9.45",
+    "17.40",
+    "30.31",
+    "18.19"
+   ],
+   [
+    "XL",
+    "50.39",
+    "20.08",
+    "9.65",
+    "18.27",
+    "31.10",
+    "19.06"
+   ],
+   [
+    "2XL",
+    "53.54",
+    "20.87",
+    "9.84",
+    "19.13",
+    "31.89",
+    "19.92"
+   ],
+   [
+    "3XL",
+    "56.69",
+    "21.65",
+    "10.04",
+    "20.00",
+    "32.68",
+    "20.79"
+   ],
+   [
+    "4XL",
+    "59.84",
+    "22.44",
+    "10.24",
+    "20.87",
+    "33.46",
+    "21.65"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/2737/info/image/20230515/DA67B5D8CDC7F6398EE07D6F2500B632.png"
+ ],
  "sizes": [
   "S",
   "M",

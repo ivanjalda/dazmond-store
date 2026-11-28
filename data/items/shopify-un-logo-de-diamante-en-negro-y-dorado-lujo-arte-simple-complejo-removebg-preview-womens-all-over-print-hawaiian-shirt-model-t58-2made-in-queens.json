@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisas"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "Hawaiian Shirt",
+ "ai_ver": 2,
+ "art_note": "The model shots rely on digital composites which detract from the luxury positioning, though the studio product flat-lays are clean.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,13 @@
  "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A vibrant expression of relaxed sophistication. This Hawaiian shirt redefines seasonal dressing with effortless fluidity. Crafted with precision, each panel is individually cut and sewn to ensure seamless pattern alignment. The lightweight silhouette features a clean V-neckline, short sleeves, and a subtle side slit. Designed to offer comfort without compromising visual impact.",
+ "desc_es": "Una expresión vibrante de sofisticación relajada. Esta camisa hawaiana redefine el guardarropa de temporada con una fluidez impecable. Confeccionada con atención al detalle, cada panel se corta y cose individualmente para asegurar una continuidad visual perfecta en el estampado. Su silueta ligera se completa con un cuello en V, mangas cortas y una sutil abertura lateral. Diseñada para ofrecer comodidad sin renunciar al impacto visual.",
+ "details_en": "· 95% polyester, 5% elastane\n· V-neckline and short sleeves\n· Side slit detail\n· Machine wash cold\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· 95 % poliéster, 5 % elastano\n· Cuello en V y mangas cortas\n· Abertura lateral\n· Lavado a máquina con agua fría\n· Hecho a pedido y disponible con envío mundial",
  "display_images": [
-  "assets/products/shop/730f02181eec66c38441.jpg",
-  "assets/products/shop/57b6f0162cbe6131e8d1.jpg",
-  "assets/products/shop/7b87bede93017819f695.jpg",
   "assets/products/shop/d9cf55dc9b478cbd15f5.jpg",
-  "assets/products/shop/50a71f6314b27f994f1a.jpg",
-  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+  "assets/products/shop/50a71f6314b27f994f1a.jpg"
  ],
  "draft": false,
  "fam": "camisa-hawaiana-luxury",
@@ -32,6 +42,7 @@
  "name_en": "DAZ Pink Geometric Hawaiian Shirt",
  "name_es": "Camisa Hawaiana Geométrica Rosa DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 1707,
@@ -39,8 +50,88 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Chest Width (B)",
+   "Sleeves (C)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Ancho de pecho (B)",
+   "Mangas (C)"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se indican en pulgadas.",
+  "rows": [
+   [
+    "2XS",
+    "25.59",
+    "39.37",
+    "8.50"
+   ],
+   [
+    "XS",
+    "26.18",
+    "41.34",
+    "8.74"
+   ],
+   [
+    "S",
+    "26.54",
+    "43.31",
+    "8.98"
+   ],
+   [
+    "M",
+    "27.05",
+    "45.28",
+    "9.21"
+   ],
+   [
+    "L",
+    "27.56",
+    "47.24",
+    "9.45"
+   ],
+   [
+    "XL",
+    "28.07",
+    "49.21",
+    "9.69"
+   ],
+   [
+    "2XL",
+    "28.58",
+    "51.18",
+    "9.92"
+   ],
+   [
+    "3XL",
+    "29.09",
+    "53.54",
+    "10.16"
+   ],
+   [
+    "4XL",
+    "29.61",
+    "55.51",
+    "10.43"
+   ],
+   [
+    "5XL",
+    "30.12",
+    "57.48",
+    "10.71"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+ ],
  "sizes": [
   "2XS",
   "XS",

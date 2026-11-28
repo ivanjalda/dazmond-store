@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "ceramic",
+ "ai_sizes": "11 oz",
+ "ai_type": "mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with a minimalist luxury aesthetic, though standard e-commerce presentation limits high editorial impact.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-taza-de-cafe-daz-luxury-oz",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your daily rituals with this deep black ceramic mug. Its streamlined silhouette and matte finish convey a sober, modern elegance. Designed to maintain the temperature of your beverages with absolute precision. Each piece is made to order to ensure absolute exclusivity. A functional object transformed into a statement of refined style. Available with worldwide shipping.",
+ "desc_es": "Eleve sus rituales diarios con esta taza de cerámica en tono negro intenso. Su silueta depurada y su acabado mate transmiten una elegancia sobria y moderna. Diseñada para mantener la temperatura de sus bebidas con absoluta precisión. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Un objeto funcional convertido en una declaración de estilo refinado. Disponible con envío a todo el mundo.",
+ "details_en": "· Premium ceramic mug in black\n· 325 ml / 11 oz capacity\n· Ergonomic design with black handle\n· Hand wash only\n· Not dishwasher or microwave safe\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Taza de cerámica premium en color negro\n· Capacidad de 325 ml / 11 oz\n· Diseño ergonómico con asa negra\n· Lavar a mano exclusivamente\n· No apto para lavavajillas ni microondas\n· Hecho a medida bajo demanda\n· Envío disponible a todo el mundo",
  "display_images": [
   "assets/products/shop/b01406b63487cc4ae0d4.jpg",
   "assets/products/shop/bb2fc835a12279b59040.jpg",
@@ -23,9 +38,10 @@
   "printify-6b0a23625345eefc050c9328"
  ],
  "material": "",
- "name_en": "Taza Café Daz Mug",
- "name_es": "Taza Taza Café Daz",
+ "name_en": "DAZ Luxury Black Mug",
+ "name_es": "Taza DAZ Luxury Negra",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 32.99,
  "rank": 1728,
@@ -35,7 +51,9 @@
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
- "sizes": [],
+ "sizes": [
+  "11 oz"
+ ],
  "source_title": "Taza de café negra DAZ Luxury (11 oz)",
  "stripe_payment_link": "https://buy.stripe.com/fZu00k5Z212cduSayG1gQ2J",
  "supplier": "Shopify",

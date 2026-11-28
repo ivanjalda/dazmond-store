@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Canvas",
+ "ai_type": "Sneakers",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with flat lighting, standard e-commerce presentation without lifestyle context.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-zapatillas-altas-daz-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "These high-top sneakers combine a bold graphic design with refined urban lines. The high-top silhouette is complemented by a traditional lace-up closure. Crafted with a canvas upper and a cotton lining, they offer a comfortable stride. The durable rubber sole incorporates a removable insole for added support. Versatile footwear designed for contemporary everyday wear.",
+ "desc_es": "Estas zapatillas altas combinan un diseño gráfico audaz con líneas urbanas refinadas. La estructura de caña alta se complementa con un cierre de cordones tradicional. Confeccionadas con una parte superior de lona y un forro interior de algodón, ofrecen una pisada cómoda. La suela de goma duradera incorpora una plantilla extraíble para mayor soporte. Un calzado versátil diseñado para un uso diario contemporáneo.",
+ "details_en": "· Canvas upper\n· Cotton lining\n· Rubber sole\n· Removable EVA insole\n· Reinforced waterproof PU toe cap\n· 7-eyelet lace-up closure\n· High-top construction\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Parte superior de lona\n· Forro de algodón\n· Suela de goma\n· Plantilla de EVA extraíble\n· Puntera de PU reforzada e impermeable\n· Cierre de cordones con 7 ojales\n· Construcción de caña alta\n· Fabricado a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/a12f3601896f1ebfc8e7.jpg",
   "assets/products/shop/1464bd319feee9b5f2ba.jpg",
@@ -19,9 +33,7 @@
   "assets/products/shop/679e2fa90a971d6ed5af.jpg",
   "assets/products/shop/cdd636ec929bbcdb12c5.jpg",
   "assets/products/shop/3877d554b0f98b4bd4e6.jpg",
-  "assets/products/shop/c378ebc80de84303fd22.jpg",
-  "assets/products/shop/5e31dbc3fa5e2cdd2187.jpg",
-  "assets/products/shop/0490da4c4e5098bf7339.jpg"
+  "assets/products/shop/c378ebc80de84303fd22.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-altas-hombre",
@@ -35,9 +47,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Zapatillas Altas Daz Sneakers",
- "name_es": "Zapatillas Zapatillas Altas Daz",
+ "name_en": "Printed high-top sneakers",
+ "name_es": "Zapatillas altas con estampado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 31.99,
  "rank": 1752,

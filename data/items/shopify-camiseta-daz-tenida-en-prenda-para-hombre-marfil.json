@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Marfil",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% algodón hilado en anillos",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography showcasing garment details, but lacks lifestyle or model context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +19,11 @@
  "cg": "t-camiseta-dazmond-summit-para-hombre",
  "color": "Marfil",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The contemporary wardrobe finds its new reference in this essential piece. Designed to offer a polished and classic presence without compromising absolute comfort. Its impeccable construction prioritizes clean lines and refined versatility. A garment conceived for a seamless transition between casual and formal environments. Every detail responds to a constant pursuit of durability and understated elegance. Manufactured to order to ensure exclusivity and environmental respect. Available with worldwide shipping.",
+ "desc_es": "El guardarropa contemporáneo encuentra su nuevo referente en esta pieza esencial. Diseñada para ofrecer una presencia prolija y clásica sin comprometer el confort absoluto. Su confección impecable prioriza las líneas limpias y la versatilidad refinada. Una prenda pensada para la transición fluida entre entornos casuales y formales. Cada detalle responde a una búsqueda constante de durabilidad y elegancia discreta. Fabricada bajo demanda para garantizar exclusividad y respeto por el entorno. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% US ring-spun cotton\n· Seamless tubular construction\n· Double-needle stitched throughout\n· Medium fabric weight of 6.1 oz/yd²\n· Garment-dyed and pre-shrunk fabric\n· Made to order with worldwide shipping available",
+ "details_es": "· 100% algodón hilado en anillos de EE. UU.\n· Construcción tubular sin costuras laterales\n· Costura de doble aguja en toda la prenda\n· Tela mediana de 6.1 oz/yd²\n· Prenda teñida y preencogida\n· Fabricado bajo demanda y disponible con envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/8d91225f7b3ff1b4b6bd.jpg",
-  "assets/products/shop/8d91225f7b3ff1b4b6bd.jpg",
-  "assets/products/shop/8d91225f7b3ff1b4b6bd.jpg",
-  "assets/products/shop/8d91225f7b3ff1b4b6bd.jpg",
   "assets/products/shop/8d91225f7b3ff1b4b6bd.jpg",
   "assets/products/shop/c8f8b48d3d4886b47350.jpg",
   "assets/products/shop/fcb507dcf197cb7b99bb.jpg",
@@ -37,9 +47,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Summit Tee · Marfil",
- "name_es": "Camiseta Summit · Marfil",
+ "name_en": "DAZMOND Summit T-Shirt · Marfil",
+ "name_es": "Camiseta DAZMOND Summit · Marfil",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 43.99,
  "rank": 1745,
@@ -47,7 +58,69 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Width",
+   "Length",
+   "Sleeve Length",
+   "Size Tolerance"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho",
+   "Longitud",
+   "Largo de manga",
+   "Tolerancia de tamaño"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se proporcionan en pulgadas.",
+  "rows": [
+   [
+    "S",
+    "18.25",
+    "26.62",
+    "16.25",
+    "1.50"
+   ],
+   [
+    "M",
+    "20.25",
+    "28.00",
+    "17.75",
+    "1.50"
+   ],
+   [
+    "L",
+    "22.00",
+    "29.37",
+    "19.00",
+    "1.50"
+   ],
+   [
+    "XL",
+    "24.00",
+    "30.75",
+    "20.50",
+    "1.50"
+   ],
+   [
+    "2XL",
+    "26.00",
+    "31.62",
+    "21.75",
+    "1.50"
+   ],
+   [
+    "3XL",
+    "27.75",
+    "32.50",
+    "23.25",
+    "1.50"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "S",

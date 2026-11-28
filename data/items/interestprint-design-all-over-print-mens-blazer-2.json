@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Poliéster con forro suave (22.86 oz)",
+ "ai_type": "Blazer",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots and standard layout, though lifestyle images feel composited.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,14 @@
  "cg": "t-americana-hombre-dazmond-noble-aura",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Impeccable presence and sober sophistication. This blazer projects natural elegance for any social engagement. It features notched lapels, a two-button closure, and patch pockets that structure the silhouette with precision. A design conceived to maintain a distinguished presence at both formal events and sophisticated gatherings. Crafted from dense fabric with a soft-touch inner lining. Made-to-order piece with worldwide shipping available.",
+ "desc_es": "Presencia impecable y sofisticación sobria. Esta americana proyecta una elegancia natural en cualquier compromiso social. Destaca por su solapa de muesca, cierre de dos botones y bolsillos de parche que estructuran la silueta con precisión. Un diseño concebido para mantener una presencia distinguida tanto en eventos formales como en encuentros de carácter sofisticado. Confeccionada con tejido denso y forro interior de tacto suave. Pieza disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Dense 22.86 oz polyester fabric with soft-touch inner lining\n· Notched lapels and two-button single-breasted closure\n· Patch pockets and rear vent\n· Structured fit with buttoned cuffs\n· Hand or machine wash\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Tejido denso de poliéster de 22.86 oz con forro interior de tacto suave\n· Solapas de muesca y cierre monoparental de dos botones\n· Bolsillos de parche y abertura trasera\n· Ajuste estructurado con puños abotonados\n· Lavar a mano o a máquina\n· Pieza confeccionada bajo pedido con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/e7b6bb7f5c2dc7ca5d6e.jpg",
   "assets/products/shop/3c37cf07eb4e28919e0c.jpg",
   "assets/products/shop/901ff0dcf281a01c9cb9.jpg",
   "assets/products/shop/e8cbe70590fc51306243.jpg",
-  "assets/products/shop/659efb9ddab0facd6528.jpg",
-  "assets/products/shop/5fce2377da54eae6d4c3.jpg",
   "assets/products/shop/17ef05a749f11369e81e.jpg"
  ],
  "draft": false,
@@ -29,9 +40,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Americana Noble Aura Blazer · White",
- "name_es": "Blazer Americana Noble Aura · Blanco",
+ "name_en": "Noble Aura Blazer",
+ "name_es": "Americana Noble Aura",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 1843,
@@ -39,8 +51,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "Las medidas manuales pueden presentar una diferencia de 1-2cm. Verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74cm / 29.1in",
+    "110cm / 43.3in",
+    "44cm / 17.3in",
+    "63cm / 24.8in"
+   ],
+   [
+    "M",
+    "76cm / 29.9in",
+    "114cm / 44.9in",
+    "46cm / 18.1in",
+    "64cm / 25.2in"
+   ],
+   [
+    "L",
+    "78cm / 30.7in",
+    "118cm / 46.5in",
+    "48cm / 18.9in",
+    "65cm / 25.6in"
+   ],
+   [
+    "XL",
+    "80cm / 31.5in",
+    "122cm / 48in",
+    "50cm / 19.7in",
+    "66cm / 26in"
+   ],
+   [
+    "2XL",
+    "82cm / 32.3in",
+    "126cm / 49.6in",
+    "52cm / 20.5in",
+    "67cm / 26.4in"
+   ],
+   [
+    "3XL",
+    "84cm / 33.1in",
+    "130cm / 51.2in",
+    "54cm / 21.3in",
+    "68cm / 26.8in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/5fce2377da54eae6d4c3.jpg"
+ ],
  "sizes": [
   "S",
   "M",

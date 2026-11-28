@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "Orange",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% polyester",
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "The editorial lifestyle shots establish a refined luxury mood, though flat product renders lack depth.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,13 @@
  "cg": "t-sudadera-dazmond-con-capucha-de-cuello-alto-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This men's hoodie is crafted with a fleece lining for enhanced warmth and comfort. The high neck design offers superior wind protection. The hem and cuffs are engineered with stitched knit for a refined fit and a sophisticated silhouette. Each piece is crafted upon your request, ensuring an exclusive and limited experience. Available for worldwide shipping.",
+ "desc_es": "Esta sudadera con capucha para hombre está confeccionada con un forro polar para mayor calidez y comodidad. El diseño de cuello alto ofrece una mejor protección contra el viento. El dobladillo y los puños están diseñados con punto cosido para un mejor ajuste y un aspecto más elegante. Cada pieza existe porque usted la ha pedido, garantizando una experiencia única y limitada. Disponible para envío a todo el mundo.",
+ "details_en": "· 100% polyester\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100 % poliéster\n· Confeccionado bajo pedido\n· Envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/31d65f5781ab745a6af2.jpg",
   "assets/products/shop/af424f40ecd09312265d.jpg",
-  "assets/products/shop/1fce9178f6cbf12feafa.jpg",
-  "assets/products/shop/c99ccc37c8a7d0059869.jpg",
-  "assets/products/shop/b0c8b80d9999743876f8.jpg",
-  "http://ipimg.interestprint.com/data/product/2604/info/image/20230525/CDABCDFD4CA234F4570C9BEA609F42BD.png"
+  "assets/products/shop/1fce9178f6cbf12feafa.jpg"
  ],
  "draft": false,
  "fam": "sudadera-capucha-cuello",
@@ -29,9 +39,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Capucha Cuello Alto Sweatshirt",
- "name_es": "Sudadera Capucha Cuello Alto",
+ "name_en": "High Neck Hooded Sweatshirt",
+ "name_es": "Sudadera con Capucha y Cuello Alto",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
  "rank": 1819,
@@ -39,8 +50,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Chest Width (B)",
+   "Sleeve (C)",
+   "Head Circumference (D)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Ancho de Pecho (B)",
+   "Manga (C)",
+   "Circunferencia de Cabeza (D)"
+  ],
+  "notes_en": "Measurements are provided in inches. Made to order piece.",
+  "notes_es": "Las medidas se proporcionan en pulgadas. Pieza confeccionada bajo pedido.",
+  "rows": [
+   [
+    "XS",
+    "26.40",
+    "42.10",
+    "24.80",
+    "20.07"
+   ],
+   [
+    "S",
+    "27.00",
+    "44.00",
+    "25.20",
+    "20.47"
+   ],
+   [
+    "M",
+    "27.50",
+    "46.00",
+    "25.60",
+    "20.86"
+   ],
+   [
+    "L",
+    "28.15",
+    "48.00",
+    "25.80",
+    "21.25"
+   ],
+   [
+    "XL",
+    "28.50",
+    "50.00",
+    "26.20",
+    "21.65"
+   ],
+   [
+    "2XL",
+    "29.10",
+    "52.00",
+    "26.60",
+    "22.04"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/2604/info/image/20230525/CDABCDFD4CA234F4570C9BEA609F42BD.png"
+ ],
  "sizes": [
   "XS",
   "S",

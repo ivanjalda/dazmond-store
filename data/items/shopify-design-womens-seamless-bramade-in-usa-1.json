@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "85% nylon, 15% spandex",
+ "ai_type": "bra",
+ "ai_ver": 2,
+ "art_note": "The campaign imagery captures a genuine luxury aesthetic with golden hour lighting and clean studio compositions.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,16 @@
  "cg": "t-sujetador-sin-costuras-dazmond",
  "color": "Negro",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined by clean lines and a sculpted silhouette, this seamless bra embodies modern elegance. Crafted from a high-grade technical fabric, it offers exceptional lightness and superior adaptability that preserves its original structure. Adjustable straps and removable padding allow for subtle versatility and absolute comfort against the skin. Each piece is made to order at our United States facilities, guaranteeing absolute exclusivity and worldwide shipping for our community.",
+ "desc_es": "Definido por líneas depuradas y una silueta esculpida, este sujetador sin costuras encarna la elegancia moderna. Confeccionado con un tejido técnico de alta calidad, ofrece una ligereza excepcional y una adaptabilidad superior que preserva su estructura original. Los tirantes ajustables y el relleno extraíble permiten una versatilidad discreta y un confort absoluto contra la piel. Cada pieza se confecciona bajo pedido en nuestras instalaciones en Estados Unidos, garantizando una exclusividad absoluta y envíos a todo el mundo para nuestra comunidad.",
+ "details_en": "· 85% nylon, 15% spandex\n· Seamless design with light elasticity\n· Adjustable straps and removable padding\n· Hand or machine wash at max 45°C\n· Made to order in the US with worldwide shipping",
+ "details_es": "· 85 % nailon, 15 % elastano\n· Diseño sin costuras con ligera elasticidad\n· Tirantes ajustables y relleno extraíble\n· Lavar a mano o a máquina a un máximo de 45 °C\n· Confeccionado bajo pedido en EE. UU. con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/c905b3722cafeab983e0.jpg",
   "assets/products/shop/b23c3902d3322091816c.jpg",
   "assets/products/shop/bf00b13d61a0712cc32f.jpg",
   "assets/products/shop/ee9f7277762306f9cb04.jpg",
-  "assets/products/shop/7128e0b1dc41e53f3348.jpg",
-  "assets/products/shop/05176ca927220498b6e5.jpg",
-  "http://ipimg.interestprint.com/data/product/4440/info/image/20250806/0A0643EC8558277C65F7FA63DD925AE5.jpg"
+  "assets/products/shop/7128e0b1dc41e53f3348.jpg"
  ],
  "draft": false,
  "fam": "sujetador-sin-costuras",
@@ -30,9 +42,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Sujetador Sin Costuras Underwear · Negro",
- "name_es": "Ropa Interior Sujetador Sin Costuras · Negro",
+ "name_en": "Essential black seamless bra · Negro",
+ "name_es": "Sujetador sin costuras esencial negro · Negro",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
  "rank": 1726,
@@ -40,8 +53,59 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Lencería > Sujetadores",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Length",
+   "Strap Length",
+   "Cup Height"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Largo",
+   "Largo de tirante",
+   "Altura de copa"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Por favor, compruebe y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "58cm / 22.8in",
+    "20.5cm / 8.1in",
+    "30cm / 10.8in",
+    "17cm / 6.7in"
+   ],
+   [
+    "M",
+    "62cm / 24.4in",
+    "21.5cm / 8.5in",
+    "30cm / 10.8in",
+    "18cm / 7.1in"
+   ],
+   [
+    "L",
+    "66cm / 26in",
+    "22.5cm / 8.9in",
+    "30cm / 10.8in",
+    "19cm / 7.5in"
+   ],
+   [
+    "XL",
+    "70cm / 27.6in",
+    "23.5cm / 9.3in",
+    "30cm / 10.8in",
+    "20cm / 7.9in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/05176ca927220498b6e5.jpg",
+  "http://ipimg.interestprint.com/data/product/4440/info/image/20250806/0A0643EC8558277C65F7FA63DD925AE5.jpg"
+ ],
  "sizes": [
   "S",
   "M",

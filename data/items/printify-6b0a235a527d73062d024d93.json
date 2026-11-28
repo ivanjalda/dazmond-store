@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation with consistent lighting, though standard mockups prevent a higher luxury rating.",
+ "art_score": 6,
+ "audited": "2026-11-28",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,16 +22,16 @@
  "cg": "printify-6b0a235a527d73062d024d93",
  "color": "Black",
  "created": "2026-11-28",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A statement of minimalist sophistication. This house piece redefines the codes of urban elegance with its deep black tone and the distinctive contrasting graphic motif across the chest. Designed to offer an impeccable silhouette that accompanies movement with natural ease and character. Each item is crafted exclusively on demand in our workshops, ensuring an absolute standard of exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una declaración de sofisticación minimalista. Esta pieza de la casa redefine los códigos de la elegancia urbana con su tono negro profundo y el distintivo motivo gráfico contrastado en el pecho. Diseñada para ofrecer una silueta impecable que acompaña el movimiento con naturalidad y carácter. Cada artículo se elabora exclusivamente bajo pedido en nuestros talleres, garantizando un estándar de exclusividad absoluto. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order exclusively.\n· Worldwide shipping available.",
+ "details_es": "· Hecho a pedido exclusivamente.\n· Envío a todo el mundo disponible.",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0a235a527d73062d024d93/12124/102005/diamond-plaque-tee.jpg?camera_label=front-2",
   "https://images-api.printify.com/mockup/6b0a235a527d73062d024d93/12124/102006/diamond-plaque-tee.jpg?camera_label=back-2",
   "https://images-api.printify.com/mockup/6b0a235a527d73062d024d93/12124/102001/diamond-plaque-tee.jpg?camera_label=folded",
-  "https://images-api.printify.com/mockup/6b0a235a527d73062d024d93/12124/127735/diamond-plaque-tee.jpg?camera_label=folded-2",
   "https://images-api.printify.com/mockup/6b0a235a527d73062d024d93/12124/102002/diamond-plaque-tee.jpg?camera_label=hanging-1",
-  "https://images-api.printify.com/mockup/6b0a235a527d73062d024d93/12124/102003/diamond-plaque-tee.jpg?camera_label=hanging-2",
-  "https://images-api.printify.com/mockup/6b0a235a527d73062d024d93/12124/102004/diamond-plaque-tee.jpg?camera_label=hanging-3"
+  "https://images-api.printify.com/mockup/6b0a235a527d73062d024d93/12124/102003/diamond-plaque-tee.jpg?camera_label=hanging-2"
  ],
  "draft": false,
  "fam": "diamond-plaque-tee",
@@ -32,9 +45,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Diamond Plaque Tee · Black",
- "name_es": "Camiseta Diamond Plaque · Negro",
+ "name_en": "Diamond Plaque Black T-Shirt",
+ "name_es": "Camiseta Diamond Plaque Negra",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 11,

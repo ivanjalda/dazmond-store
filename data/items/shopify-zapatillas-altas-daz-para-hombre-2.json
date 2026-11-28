@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "calzado-hombre/zapatillas-hombre"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Lona",
+ "ai_type": "Sneakers",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce product photography with clear lighting, but lacks dynamic lifestyle or campaign context.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-zapatillas-altas-daz-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "These high-top sneakers combine a bold design with precise craftsmanship. Featuring a distinctive all-over print and a high-top construction that ensures a snug fit. The high-quality canvas upper is complemented by a breathable cotton lining. They incorporate a durable rubber sole and a removable EVA footbed for sustained support with every step. This product is made especially for you as soon as you place an order.",
+ "desc_es": "Estas zapatillas altas combinan un diseño audaz con una confección precisa. Presentan un estampado integral de carácter distintivo y una construcción de caña alta que asegura un ajuste ceñido. La parte superior de lona de alta calidad se complementa con un forro de algodón transpirable. Incorporan una suela de goma resistente y una plantilla de EVA extraíble para un soporte sostenido en cada paso. Este producto se fabrica especialmente para usted tan pronto como realiza un pedido.",
+ "details_en": "· High-quality canvas upper\n· Breathable cotton lining\n· Rubber sole and removable EVA footbed\n· 7-eyelet lace-up closure\n· Reinforced waterproof PU toe cap\n· This product is made especially for you as soon as you place an order",
+ "details_es": "· Parte superior de lona de alta calidad\n· Forro de algodón transpirable\n· Suela de goma y plantilla de EVA extraíble\n· Cierre de cordones con 7 ojales\n· Puntera de PU reforzada e impermeable\n· Este producto se fabrica especialmente para usted tan pronto como realiza un pedido",
  "display_images": [
   "assets/products/shop/1105acbbb65079afdfea.jpg",
   "assets/products/shop/fc91a0e8ca57d690dc9c.jpg",
@@ -19,9 +33,7 @@
   "assets/products/shop/afc9d53fb9f03cf20e26.jpg",
   "assets/products/shop/4d35fb606d032e4b49a0.jpg",
   "assets/products/shop/e106ac979343b3768e11.jpg",
-  "assets/products/shop/ed51a4f82f47e851989f.jpg",
-  "assets/products/shop/43b4ce75121deb910c50.jpg",
-  "assets/products/shop/0d3fa0b460e064daaa12.jpg"
+  "assets/products/shop/ed51a4f82f47e851989f.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-altas-hombre",
@@ -35,9 +47,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Zapatillas Altas Daz Sneakers",
- "name_es": "Zapatillas Zapatillas Altas Daz",
+ "name_en": "Printed high-top sneakers",
+ "name_es": "Zapatillas altas con estampado",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 31.99,
  "rank": 1753,

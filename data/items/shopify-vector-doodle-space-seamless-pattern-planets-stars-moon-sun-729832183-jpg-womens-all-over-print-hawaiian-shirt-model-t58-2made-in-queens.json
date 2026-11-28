@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisas"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "Hawaiian Shirt",
+ "ai_ver": 2,
+ "art_note": "Digital mockup style imagery lowers brand elevation.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,13 @@
  "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A bold expression of contemporary design. This shirt features a cosmic-inspired graphic pattern that redefines casual elegance. Crafted with precise attention to detail, it offers a relaxed silhouette with a V-neck and short sleeves. Each piece is made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una expresión audaz de diseño contemporáneo. Esta camisa presenta un patrón gráfico de inspiración cósmica que redefine la elegancia informal. Confeccionada con atención precisa a los detalles, ofrece una silueta relajada con cuello en V y mangas cortas. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Disponible para envíos a todo el mundo.",
+ "details_en": "· 95% polyester and 5% elastane\n· Short sleeves\n· V-neck\n· Side slit\n· Machine wash cold (max 40C or 104F)\n· Do not bleach\n· Iron with cover\n· Do not tumble dry\n· Line dry in shade\n· Made specially for you on demand",
+ "details_es": "· 95 % poliéster y 5 % elastano\n· Mangas cortas\n· Cuello en V\n· Abertura lateral\n· Lavado a máquina con agua fría (máximo 40 °C o 104 °F)\n· Sin cloro\n· Planchar con funda\n· No secar en secadora\n· Secar a la sombra\n· Hecho especialmente para usted bajo demanda",
  "display_images": [
   "assets/products/shop/ad06728e54e1cf3b770f.jpg",
-  "assets/products/shop/2a92fcf3ccb7c1aae689.jpg",
-  "assets/products/shop/6bfc3d301e067c19ed08.jpg",
-  "assets/products/shop/5056b4a9906551284b80.jpg",
-  "assets/products/shop/db6300bdd7f53c2d1d5b.jpg",
-  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+  "assets/products/shop/2a92fcf3ccb7c1aae689.jpg"
  ],
  "draft": false,
  "fam": "camisa-hawaiana-luxury",
@@ -32,6 +42,7 @@
  "name_en": "DAZ Pink Geometric Hawaiian Shirt",
  "name_es": "Camisa Hawaiana Geométrica Rosa DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 1710,
@@ -39,8 +50,88 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A) Inches",
+   "CHEST WIDTH(B) Inches",
+   "SLEEVES(C) Inches"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LARGO(A) Pulgadas",
+   "ANCHO DE PECHO(B) Pulgadas",
+   "MANGAS(C) Pulgadas"
+  ],
+  "notes_en": "",
+  "notes_es": "",
+  "rows": [
+   [
+    "2XS",
+    "25.59",
+    "39.37",
+    "8.50"
+   ],
+   [
+    "XS",
+    "26.18",
+    "41.34",
+    "8.74"
+   ],
+   [
+    "S",
+    "26.54",
+    "43.31",
+    "8.98"
+   ],
+   [
+    "M",
+    "27.05",
+    "45.28",
+    "9.21"
+   ],
+   [
+    "L",
+    "27.56",
+    "47.24",
+    "9.45"
+   ],
+   [
+    "XL",
+    "28.07",
+    "49.21",
+    "9.69"
+   ],
+   [
+    "2XL",
+    "28.58",
+    "51.18",
+    "9.92"
+   ],
+   [
+    "3XL",
+    "29.09",
+    "53.54",
+    "10.16"
+   ],
+   [
+    "4XL",
+    "29.61",
+    "55.51",
+    "10.43"
+   ],
+   [
+    "5XL",
+    "30.12",
+    "57.48",
+    "10.71"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+ ],
  "sizes": [
   "2XS",
   "XS",

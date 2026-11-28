@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "Brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Synthetic leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Wallet",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but lacks true luxury lifestyle context and has basic mockups.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +20,14 @@
  "cg": "t-cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This wallet redefines essential functionality with a refined design and a slim silhouette. Crafted from selected materials, it offers a soft touch and exceptional durability for daily use. The interior features structured compartments for cash, cards, and essential documents, maintaining elegance in every detail. Each piece is made to order to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Esta cartera redefine la funcionalidad esencial con un diseño refinado y una silueta fina. Confeccionada con materiales seleccionados, ofrece una textura suave al tacto y una durabilidad excepcional para el uso diario. El interior cuenta con compartimentos organizados para efectivo, tarjetas y documentos esenciales, manteniendo la elegancia en cada detalle. Cada pieza se confecciona bajo demanda para garantizar la exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· Premium synthetic leather composition\n· Bifold design with compartments for cash, cards, photos, and coins\n· Clean gently with a soft dry or damp cloth\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Composición de piel sintética de primera calidad\n· Diseño plegable con compartimentos para efectivo, tarjetas, fotos y monedas\n· Limpiar suavemente con un paño seco o húmedo\n· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/ca3cd9c09386e78863ef.jpg",
   "assets/products/shop/463763e183de19c7079b.jpg",
   "assets/products/shop/66addfe524448e14b60d.jpg",
-  "assets/products/shop/9fcbb0773872045fab73.jpg",
   "assets/products/shop/ea3918075931de93a5f1.jpg"
  ],
  "draft": false,
@@ -28,9 +42,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Cartera Cuero Grano Bag",
- "name_es": "Bolso Cartera Cuero Grano",
+ "name_en": "Synthetic Leather Bifold Wallet",
+ "name_es": "Cartera plegable de cuero sintético",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
  "rank": 1831,
@@ -38,9 +53,35 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Billeteras y clips para billetes > Carteras",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "Measurements are approximate.",
+  "notes_es": "Las medidas son aproximadas.",
+  "rows": [
+   [
+    "24.3",
+    "9.1"
+   ],
+   [
+    "9.6",
+    "3.6"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/9fcbb0773872045fab73.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Cartera de cuero de grano superior DAZ Luxury para hombre",
  "stripe_payment_link": "https://buy.stripe.com/dRm5kE4UYaCM1MabCK1gR0j",
  "supplier": "Shopify",

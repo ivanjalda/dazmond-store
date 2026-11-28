@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/camisas"
+ ],
+ "ai_color": "multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "shirt",
+ "ai_ver": 2,
+ "art_note": "The lifestyle shots use heavy digital compositing with unnatural beach backgrounds, while product flatlays are standard studio renders.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,13 @@
  "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This piece redefines relaxed elegance through a sophisticated graphic design. Each panel is individually cut and sewn to ensure a seamless, flawless pattern throughout the garment. The silhouette features short sleeves, a V-neckline, and a subtle side slit for fluid movement. Crafted on demand to preserve the exclusivity of our global community. Available with worldwide shipping.",
+ "desc_es": "Esta pieza redefine la elegancia relajada con un diseño gráfico sofisticado. Cada panel se corta y cose de forma individual para asegurar un patrón impecable y continuo en toda la prenda. La silueta presenta mangas cortas, cuello en V y una sutil abertura lateral que aporta movimiento. Confeccionada bajo demanda para preservar la exclusividad de nuestra comunidad global. Disponible con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% elastane\n· Short sleeves\n· V-neck\n· Side slit\n· Machine wash cold\n· Made to order",
+ "details_es": "· 95 % poliéster, 5 % elastano\n· Mangas cortas\n· Cuello en V\n· Abertura lateral\n· Lavado a máquina con agua fría\n· Fabricado bajo pedido",
  "display_images": [
-  "assets/products/shop/350474c56816183a8714.jpg",
-  "assets/products/shop/f562633298c0a3334a87.jpg",
-  "assets/products/shop/2baac20a7a0c6d447c8f.jpg",
   "assets/products/shop/85a51adc9fb8410b5f88.jpg",
-  "assets/products/shop/b6a5ae41352b255c868b.jpg",
-  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+  "assets/products/shop/b6a5ae41352b255c868b.jpg"
  ],
  "draft": false,
  "fam": "camisa-hawaiana-luxury",
@@ -32,6 +42,7 @@
  "name_en": "DAZ Pink Geometric Hawaiian Shirt",
  "name_es": "Camisa Hawaiana Geométrica Rosa DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 1713,
@@ -39,8 +50,88 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)",
+   "SLEEVES(C)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD (A)",
+   "ANCHO DE PECHO (B)",
+   "MANGAS (C)"
+  ],
+  "notes_en": "",
+  "notes_es": "",
+  "rows": [
+   [
+    "2XS",
+    "25.59",
+    "39.37",
+    "8.50"
+   ],
+   [
+    "XS",
+    "26.18",
+    "41.34",
+    "8.74"
+   ],
+   [
+    "S",
+    "26.54",
+    "43.31",
+    "8.98"
+   ],
+   [
+    "M",
+    "27.05",
+    "45.28",
+    "9.21"
+   ],
+   [
+    "L",
+    "27.56",
+    "47.24",
+    "9.45"
+   ],
+   [
+    "XL",
+    "28.07",
+    "49.21",
+    "9.69"
+   ],
+   [
+    "2XL",
+    "28.58",
+    "51.18",
+    "9.92"
+   ],
+   [
+    "3XL",
+    "29.09",
+    "53.54",
+    "10.16"
+   ],
+   [
+    "4XL",
+    "29.61",
+    "55.51",
+    "10.43"
+   ],
+   [
+    "5XL",
+    "30.12",
+    "57.48",
+    "10.71"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/2268/info/image/20240807/D524BBD348090FF6BCA71683AA35ED90.png"
+ ],
  "sizes": [
   "2XS",
   "XS",

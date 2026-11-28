@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/falda"
+ ],
+ "ai_color": "Green, Gold, White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "Skirt",
+ "ai_ver": 2,
+ "art_note": "Exceptional lifestyle imagery set against high-end European backdrops that elevate the garment to true luxury standards.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,23 +19,17 @@
  "cg": "t-dazmond-luxury-botanical-jade-skater-skirt",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined expression of botanical art tailored for high fashion. This piece showcases an exclusive print of floral and foliar motifs in jade tones and subtle gold over an optic white background. Its high-waisted silhouette gracefully sculpts the waist, flowing into a dynamic flared drop. The jeweled emblem seals the exclusive character of the garment.",
+ "desc_es": "Una expresión refinada de arte botánico adaptada a la alta costura. Esta pieza presenta un exclusivo estampado de motivos florales y foliares en tonos jade y dorado sutil sobre un fondo blanco óptico. Su silueta de pretina alta esculpe la cintura con gracia, fluyendo hacia una caída acampanada y dinámica. El escudo enjoyado sella el carácter exclusivo de la prenda.",
+ "details_en": "· 95% polyester, 5% elastane\n· High waist\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 95% poliéster, 5% elastano\n· Pretina alta\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/0eefae3f0ce442ec77c4.jpg",
-  "assets/products/shop/9829115ad12d44d9da2d.jpg",
-  "assets/products/shop/aafbb4f8693f67474139.jpg",
-  "assets/products/shop/0cede8c2dcd0510217b6.jpg",
   "assets/products/shop/596fe137b8d140a77966.jpg",
-  "assets/products/shop/a4f6d4a04ac934f5f2fe.jpg",
   "assets/products/shop/2d1750c577826b9b8972.jpg",
   "assets/products/shop/865848ee7cdc1137a62c.jpg",
   "assets/products/shop/3222da0ba002c3aa4817.jpg",
-  "assets/products/shop/3b51337da57923b2bbe8.jpg",
-  "assets/products/shop/21d36db4f05df296f206.jpg",
-  "assets/products/shop/5baae384a3985e37eded.jpg",
-  "assets/products/shop/8fc2dc3b7665e148413d.jpg",
-  "assets/products/shop/e224b3947965ed78bcf2.jpg"
+  "assets/products/shop/3b51337da57923b2bbe8.jpg"
  ],
  "draft": false,
  "fam": "luxury-botanical-jade",
@@ -37,9 +43,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Botanical Jade Skater Skirt · Gold",
- "name_es": "Falda Botanical Jade Skater · Oro",
+ "name_en": "Botanical Jade and Gold Skater Skirt",
+ "name_es": "Falda Skater Botánica Jade y Oro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 43.99,
  "rank": 1852,

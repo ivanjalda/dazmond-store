@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Musgo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% algodón",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with consistent lighting, presenting the garment clearly without distracting elements.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +19,11 @@
  "cg": "t-camiseta-dazmond-summit-para-hombre",
  "color": "Musgo",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The Summit t-shirt redefines the contemporary wardrobe with classic presence and superior comfort. Crafted from spun cotton with a seamless tubular structure, this piece delivers a relaxed silhouette that transitions effortlessly between casual and refined. Each garment is crafted specifically on demand to ensure absolute exclusivity. An essential investment for the modern man who values discretion and impeccable design. Available with worldwide shipping.",
+ "desc_es": "La camiseta Summit redefine el guardarropa contemporáneo con una presencia clásica y una comodidad superior. Confeccionada en algodón hilado con una estructura tubular impecable, esta pieza ofrece una silueta relajada que transita sin esfuerzo entre lo casual y lo refinado. Cada prenda se elabora especialmente bajo demanda para garantizar una exclusividad absoluta. Una inversión esencial para el hombre moderno que valora la discreción y el diseño impecable. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% cotton\n· Relaxed fit\n· Crew neckline\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% algodón\n· Ajuste relajado\n· Cuello redondo\n· Fabricado bajo demanda\n· Envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/b78162d94c8f02673f6c.jpg",
-  "assets/products/shop/b78162d94c8f02673f6c.jpg",
-  "assets/products/shop/b78162d94c8f02673f6c.jpg",
-  "assets/products/shop/b78162d94c8f02673f6c.jpg",
   "assets/products/shop/b78162d94c8f02673f6c.jpg",
   "assets/products/shop/c8f8b48d3d4886b47350.jpg",
   "assets/products/shop/fcb507dcf197cb7b99bb.jpg",
@@ -37,9 +47,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Summit Tee · Musgo",
- "name_es": "Camiseta Summit · Musgo",
+ "name_en": "DAZMOND Summit T-Shirt · Musgo",
+ "name_es": "Camiseta DAZMOND Summit · Musgo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 43.99,
  "rank": 1746,
@@ -47,7 +58,69 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Width",
+   "Length",
+   "Sleeve length from center back",
+   "Size tolerance"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho",
+   "Longitud",
+   "Largo de manga desde el centro de la espalda",
+   "Tolerancia de tamaño"
+  ],
+  "notes_en": "Made to order. Worldwide shipping available.",
+  "notes_es": "Fabricado bajo demanda. Envíos a todo el mundo.",
+  "rows": [
+   [
+    "S",
+    "18.25",
+    "26.62",
+    "16.25",
+    "1.50"
+   ],
+   [
+    "M",
+    "20.25",
+    "28.00",
+    "17.75",
+    "1.50"
+   ],
+   [
+    "L",
+    "22.00",
+    "29.37",
+    "19.00",
+    "1.50"
+   ],
+   [
+    "XL",
+    "24.00",
+    "30.75",
+    "20.50",
+    "1.50"
+   ],
+   [
+    "2XL",
+    "26.00",
+    "31.62",
+    "21.75",
+    "1.50"
+   ],
+   [
+    "3XL",
+    "27.75",
+    "32.50",
+    "23.25",
+    "1.50"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "S",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "Purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "PU",
+ "ai_type": "Sneakers",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with accurate lighting, though lacking high-end editorial atmosphere.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Elevate your urban wardrobe with the DAZ Premium high-top sneakers. Crafted from high-grade materials, these timeless silhouettes offer classic coverage for every season. Designed with a secure lace-up and hook-and-loop strap closure, they deliver a refined fit with contemporary edge. The durable rubber outsole and removable EVA insole ensure exceptional grip and sustained support with every step. Made to order for ultimate exclusivity, each pair is produced upon request with worldwide shipping available in limited units.",
+ "desc_es": "Eleve su estilo urbano con las zapatillas altas DAZ Premium. Elaboradas con materiales de alta calidad, estas siluetas atemporales ofrecen una cobertura clásica para cada temporada. Diseñadas con un cierre de velcro y cordones para un ajuste perfecto, combinan funcionalidad y elegancia contemporánea. La suela de goma duradera y la plantilla de EVA extraíble garantizan comodidad y soporte superior en cada paso. Este producto está hecho especialmente para usted tan pronto como realiza un pedido, garantizando exclusividad y unidades limitadas con envío a todo el mundo.",
+ "details_en": "· High-grade eco-PU upper\n· Rubber outsole and removable EVA insole\n· Lace-up and hook-and-loop strap closure\n· Hand wash in cold water and air dry\n· Made to order with worldwide shipping",
+ "details_es": "· Parte superior de PU ecológica de alta calidad\n· Suela de goma y plantilla de EVA extraíble\n· Cierre de velcro y cordones\n· Lavar a mano en agua fría y secar al aire\n· Hecho a medida con envío a todo el mundo",
  "display_images": [
   "assets/products/shop/3a055a209b9050479ace.jpg",
   "assets/products/shop/01b607366d0367dd5e6e.jpg",
@@ -17,10 +31,7 @@
   "assets/products/shop/e49208aca9beb8e74a0e.jpg",
   "assets/products/shop/912e4337160327d9bf80.jpg",
   "assets/products/shop/c3c79ff92314531d15b4.jpg",
-  "assets/products/shop/afea7724831dfb7ef7de.jpg",
-  "assets/products/shop/9ecac3b136475aa1541b.jpg",
-  "assets/products/shop/a73d84aced930e9826d1.jpg",
-  "assets/products/shop/9db64879497c684a6d76.jpg"
+  "assets/products/shop/afea7724831dfb7ef7de.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-altas-premium",
@@ -34,9 +45,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Zapatillas Altas Daz Sneakers",
- "name_es": "Zapatillas Zapatillas Altas Daz",
+ "name_en": "DAZ Premium High-Top Leather Sneakers",
+ "name_es": "Zapatillas Altas DAZ Premium de Piel",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
  "rank": 1802,

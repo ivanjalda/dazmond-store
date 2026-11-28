@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White / Purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% elastano",
+ "ai_type": "Cárdigan",
+ "ai_ver": 2,
+ "art_note": "The gallery features clean studio and gallery-setting lifestyle imagery that elevates the garment, though standard flat lays lack high-end atmosphere.",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,15 @@
  "cg": "t-cardigan-dazmond-luxury-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "This refined cardigan redefines everyday elegance with a clean silhouette. Crafted with meticulous attention to detail, it features a flattering V-neckline and a five-button front closure. The soft, lightweight fabric offers exceptional comfort for any occasion. Each piece is crafted exclusively to order in the United States with worldwide shipping available, ensuring absolute exclusivity.",
+ "desc_es": "Este cárdigan refinado redefine la elegancia cotidiana con una silueta depurada. Confeccionado con atención meticulosa a los detalles, presenta un favorecedor cuello en V y un cierre frontal de cinco botones. Su tacto suave y ligero ofrece un confort excepcional para cualquier ocasión. Cada pieza se elabora exclusivamente bajo pedido en Estados Unidos y cuenta con envío a todo el mundo, garantizando una exclusividad absoluta.",
+ "details_en": "· 95% polyester and 5% elastane\n· Soft and lightweight feel\n· V-neckline\n· Long sleeves\n· 5-button closure\n· Made in USA\n· Made-to-order with worldwide shipping",
+ "details_es": "· 95 % poliéster y 5 % elastano\n· Tacto suave y ligero\n· Cuello en V\n· Manga larga\n· Cierre de 5 botones\n· Fabricado en EEUU\n· Hecho a medida y con envío mundial",
  "display_images": [
   "assets/products/shop/99a2a6bbbab8356dea74.jpg",
   "assets/products/shop/300e949fa63a10525636.jpg",
   "assets/products/shop/59bc6681d442253ea5bf.jpg",
-  "assets/products/shop/d597a3cf8ecbc433601e.jpg",
-  "assets/products/shop/341b1f0ec057b205614d.jpg",
-  "assets/products/shop/57669516a41bb98c7fbe.jpg",
-  "http://ipimg.interestprint.com/data/product/3961/info/image/20250721/AAAECBB67572E48DB465609BB78B158F.png"
+  "assets/products/shop/d597a3cf8ecbc433601e.jpg"
  ],
  "draft": false,
  "fam": "cardigan-luxury-mujer",
@@ -30,9 +41,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Cardigan Jacket",
- "name_es": "Chaqueta Cardigan",
+ "name_en": "Button-front knit cardigan",
+ "name_es": "Cárdigan de punto con botones",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
  "rank": 1687,
@@ -40,8 +52,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Cárdigan",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)\nInches",
+   "CHEST WIDTH(B)\nInches",
+   "SLEEVE(C)\nInches"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD (A)\nPulgadas",
+   "ANCHO DE PECHO (B)\nPulgadas",
+   "MANGA (C)\nPulgadas"
+  ],
+  "notes_en": "Calculate your size with the measurement table above.",
+  "notes_es": "Calcula tu talla con la tabla de medidas a continuación.",
+  "rows": [
+   [
+    "S",
+    "25.59",
+    "40.55",
+    "24.41"
+   ],
+   [
+    "M",
+    "26.38",
+    "42.91",
+    "24.80"
+   ],
+   [
+    "L",
+    "27.17",
+    "45.28",
+    "25.20"
+   ],
+   [
+    "XL",
+    "28.35",
+    "47.64",
+    "25.59"
+   ],
+   [
+    "2XL",
+    "29.53",
+    "50.00",
+    "25.98"
+   ],
+   [
+    "3XL",
+    "30.71",
+    "52.36",
+    "26.38"
+   ],
+   [
+    "4XL",
+    "31.89",
+    "54.72",
+    "26.77"
+   ],
+   [
+    "5XL",
+    "33.07",
+    "57.09",
+    "27.17"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/3961/info/image/20250721/AAAECBB67572E48DB465609BB78B158F.png"
+ ],
  "sizes": [
   "S",
   "M",

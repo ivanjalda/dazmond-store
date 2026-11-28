@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Faux leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Notebook",
+ "ai_ver": 2,
+ "art_note": "Sophisticated studio and lifestyle shots with moody lighting that elevate a simple stationery item into a luxury lifestyle accessory.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +20,17 @@
  "cg": "t-cuaderno-de-piel-sintetica-daz-luxury",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your daily writing with a design crafted for uncompromising minds. This notebook merges a sophisticated silhouette with exceptional functional details. Created from resilient materials, it features soft-touch pages designed to capture your boldest thoughts. The ultimate companion for mapping complex ideas or recording sudden moments of inspiration. Available exclusively made to order for our global community.",
+ "desc_es": "Eleve su escritura diaria con un diseño pensado para los espíritus libres. Este cuaderno combina una silueta sofisticada con detalles funcionales excepcionales. Elaborado con materiales duraderos, cuenta con páginas de tacto suave que acogen sus pensamientos más audaces. La pieza perfecta para organizar ideas complejas o registrar momentos de inspiración. Disponible exclusivamente bajo demanda para nuestra comunidad global.",
+ "details_en": "· Made of durable faux leather\n· 200 pages / 100 sheets of beige paper\n· Dimensions: 14.5 cm × 21 cm\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Hecho de piel sintética resistente\n· 200 páginas / 100 hojas de papel beige\n· Dimensiones: 14,5 cm × 21 cm\n· Pieza fabricada bajo demanda con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/0209a96db60dae118964.jpg",
   "assets/products/shop/17c4c36ee6ee379a36d0.jpg",
   "assets/products/shop/27342315ee5ff62e1a43.jpg",
   "assets/products/shop/7105ac20d5bd8bcf6dea.jpg",
   "assets/products/shop/8fdbf18413ba19308f4e.jpg",
-  "assets/products/shop/8072b0009f039e12c8e2.jpg",
-  "assets/products/shop/422c3a1c13ef85d9639a.jpg",
-  "assets/products/shop/a4b5908cd9299ccaa273.jpg"
+  "assets/products/shop/422c3a1c13ef85d9639a.jpg"
  ],
  "draft": false,
  "fam": "cuaderno-piel-sintetica",
@@ -28,9 +41,10 @@
   "printify-6b0a23625345eefc050c9328"
  ],
  "material": "",
- "name_en": "Cuaderno Piel Sintética Notebook",
- "name_es": "Cuaderno Cuaderno Piel Sintética",
+ "name_en": "DAZ Luxury Black Notebook",
+ "name_es": "Cuaderno DAZ Luxury Negro",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
  "rank": 1835,
@@ -38,9 +52,31 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Material de oficina > Productos generales > Productos de papel > Libretas y blocs de notas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Length",
+   "Width"
+  ],
+  "headers_es": [
+   "Largo",
+   "Ancho"
+  ],
+  "notes_en": "Compact size designed for everyday carry.",
+  "notes_es": "Tamaño compacto diseñado para el día a día.",
+  "rows": [
+   [
+    "20",
+    "14.5"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/8072b0009f039e12c8e2.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Cuaderno de Piel sintética DAZ Luxury",
  "stripe_payment_link": "https://buy.stripe.com/cNi7sM3QUdOY62q9uC1gR0n",
  "supplier": "Shopify",

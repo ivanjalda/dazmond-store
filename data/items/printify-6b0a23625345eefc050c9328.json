@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White and Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio and lifestyle product shots with precise lighting.",
+ "art_score": 7,
+ "audited": "2026-11-28",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,17 +19,17 @@
  "cg": "printify-6b0a23625345eefc050c9328",
  "color": "",
  "created": "2026-11-28",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined expression of contemporary design. This piece transcends the everyday to integrate into your space with understated elegance. Every detail reflects the refined aesthetic of the house. Crafted to order to ensure exclusivity with every delivery.",
+ "desc_es": "Una expresión refinada de diseño contemporáneo. Esta pieza trasciende lo cotidiano para integrarse en su espacio con elegancia discreta. Cada detalle refleja la estética depurada de la casa. Creada bajo pedido para asegurar exclusividad en cada entrega.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0a23625345eefc050c9328/62327/3387/diamond-plaque-mug.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b0a23625345eefc050c9328/62327/3389/diamond-plaque-mug.jpg?camera_label=right",
   "https://images-api.printify.com/mockup/6b0a23625345eefc050c9328/62327/3391/diamond-plaque-mug.jpg?camera_label=left",
-  "https://images-api.printify.com/mockup/6b0a23625345eefc050c9328/62327/6562/diamond-plaque-mug.jpg?camera_label=context",
   "https://images-api.printify.com/mockup/6b0a23625345eefc050c9328/62328/3388/diamond-plaque-mug.jpg?camera_label=front",
   "https://images-api.printify.com/mockup/6b0a23625345eefc050c9328/62328/3390/diamond-plaque-mug.jpg?camera_label=right",
-  "https://images-api.printify.com/mockup/6b0a23625345eefc050c9328/62328/3392/diamond-plaque-mug.jpg?camera_label=left",
-  "https://images-api.printify.com/mockup/6b0a23625345eefc050c9328/62328/6563/diamond-plaque-mug.jpg?camera_label=context"
+  "https://images-api.printify.com/mockup/6b0a23625345eefc050c9328/62328/3392/diamond-plaque-mug.jpg?camera_label=left"
  ],
  "draft": false,
  "fam": "diamond-plaque-mug",
@@ -31,6 +43,7 @@
  "name_en": "Diamond Plaque Mug",
  "name_es": "Taza Diamond Plaque",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
  "rank": 7,

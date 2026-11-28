@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White and Pink",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster y 5% elastano",
+ "ai_type": "Cárdigan",
+ "ai_ver": 2,
+ "art_note": "High-end architectural campaign photography conveying refined luxury and editorial depth.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,18 +19,18 @@
  "cg": "t-cardigan-dazmond-luxury-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "An essential garment that redefines everyday elegance with a clean silhouette. Crafted with meticulous attention to detail, it features a flattering V-neckline and a five-button front closure. The soft and lightweight texture drapes the silhouette in sophisticated comfort. Ideal for effortlessly transitioning between occasions with a modern air of distinction. Each piece is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una prenda esencial que redefine la elegancia cotidiana con una silueta depurada. Confeccionada con atención al detalle, presenta un favorecedor cuello en V y un cierre frontal de cinco botones. Su textura suave y ligera envuelve la silueta con comodidad sofisticada. Ideal para transicionar sin esfuerzo entre diferentes ocasiones con un aire de distinción moderna. Cada pieza se elabora bajo pedido para garantizar una exclusividad absoluta. Disponible con envíos a todo el mundo.",
+ "details_en": "· 95% polyester and 5% elastane\n· Soft and lightweight feel\n· V-neckline\n· Long sleeves\n· 5-button closure\n· Each piece is made to order\n· Worldwide shipping",
+ "details_es": "· 95 % poliéster y 5 % elastano\n· Tacto suave y ligero\n· Cuello en V\n· Manga larga\n· Cierre de 5 botones\n· Cada pieza se elabora bajo pedido\n· Envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/22af6461435c90610f8e.jpg",
   "assets/products/shop/8eaefb75408619110465.jpg",
   "assets/products/shop/69f0a4ca24b8c90cb243.jpg",
   "assets/products/shop/391c81580570fb75316b.jpg",
   "assets/products/shop/30bc944458aced963124.jpg",
-  "assets/products/shop/f916e296d9b16f769453.jpg",
   "assets/products/shop/8f3e50b3b89a2587c61d.jpg",
-  "assets/products/shop/0e30f64980d7caf674c8.jpg",
-  "http://ipimg.interestprint.com/data/product/3961/info/image/20250721/AAAECBB67572E48DB465609BB78B158F.png"
+  "assets/products/shop/0e30f64980d7caf674c8.jpg"
  ],
  "draft": false,
  "fam": "cardigan-luxury-mujer",
@@ -32,9 +44,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Cardigan Jacket",
- "name_es": "Chaqueta Cardigan",
+ "name_en": "Button-front knit cardigan",
+ "name_es": "Cárdigan de punto con botones",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 28.99,
  "rank": 1689,
@@ -42,8 +55,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Cárdigan",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)",
+   "SLEEVE(C)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "ANCHO DE PECHO(B)",
+   "MANGA(C)"
+  ],
+  "notes_en": "Measurements are provided in inches. Calculated using the garment flat or on a standard measurement table.",
+  "notes_es": "Las medidas se indican en pulgadas. Calculadas con la prenda extendida o sobre una tabla de medidas estándar.",
+  "rows": [
+   [
+    "S",
+    "25.59",
+    "40.55",
+    "24.41"
+   ],
+   [
+    "M",
+    "26.38",
+    "42.91",
+    "24.80"
+   ],
+   [
+    "L",
+    "27.17",
+    "45.28",
+    "25.20"
+   ],
+   [
+    "XL",
+    "28.35",
+    "47.64",
+    "25.59"
+   ],
+   [
+    "2XL",
+    "29.53",
+    "50.00",
+    "25.98"
+   ],
+   [
+    "3XL",
+    "30.71",
+    "52.36",
+    "26.38"
+   ],
+   [
+    "4XL",
+    "31.89",
+    "54.72",
+    "26.77"
+   ],
+   [
+    "5XL",
+    "33.07",
+    "57.09",
+    "27.17"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/3961/info/image/20250721/AAAECBB67572E48DB465609BB78B158F.png"
+ ],
  "sizes": [
   "S",
   "M",

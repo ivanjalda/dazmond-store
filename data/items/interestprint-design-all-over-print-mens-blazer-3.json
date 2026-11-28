@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester",
+ "ai_type": "Coat",
+ "ai_ver": 2,
+ "art_note": "The imagery relies heavily on flat mockups and composite model shots that detract from a luxury feel.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,11 @@
  "cg": "t-americana-hombre-dazmond-sovereign-silhouette",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A sober and polished presence defines this impeccably tailored blazer. Designed to project serene distinction with every movement. Features notched lapels and a two-button front closure. Complete with two patch pockets and a back vent for ease of movement. An essential piece for formal occasions and events.",
+ "desc_es": "Una presencia sobria y pulida define esta americana de corte impecable. Diseñada para proyectar distinción serena en cada movimiento. Con solapas de muesca y cierre frontal de dos botones. Incorpora dos bolsillos de parche y una abertura posterior para mayor holgura. Una pieza esencial para ocasiones formales y eventos.",
+ "details_en": "· Polyester fabric with soft inner lining (22.86 oz)\n· Two-button front closure and notched lapels\n· Back vent and long sleeves with buttoned cuffs\n· Two patch pockets\n· Hand or machine wash\n· Made-to-order\n· Worldwide shipping available",
+ "details_es": "· Tejido de poliéster con forro interior suave (22.86 oz)\n· Cierre frontal de dos botones y solapas de muesca\n· Abertura posterior y mangas largas con puños abotonados\n· Dos bolsillos de parche\n· Lavar a mano o a máquina\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/f3aa4def2142211132b0.jpg",
-  "assets/products/shop/c877e8b0a9d6b5198248.jpg",
-  "assets/products/shop/58b7861f3411dd2ec12c.jpg",
-  "assets/products/shop/8c0894cfcbb66ed1b5ae.jpg",
-  "assets/products/shop/7eddf57e9b4bb94eebd8.jpg",
-  "assets/products/shop/c874dcd5226339533861.jpg",
   "assets/products/shop/35da6d04106ec4884ebc.jpg"
  ],
  "draft": false,
@@ -29,9 +37,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Americana Sovereign Blazer · White",
- "name_es": "Blazer Americana Sovereign · Blanco",
+ "name_en": "Sovereign Silhouette Blazer",
+ "name_es": "Americana Sovereign Silhouette",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 1844,
@@ -39,8 +48,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. ¡Por favor verifique y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "74 cm / 29.1 in",
+    "110 cm / 43.3 in",
+    "44 cm / 17.3 in",
+    "63 cm / 24.8 in"
+   ],
+   [
+    "M",
+    "76 cm / 29.9 in",
+    "114 cm / 44.9 in",
+    "46 cm / 18.1 in",
+    "64 cm / 25.2 in"
+   ],
+   [
+    "L",
+    "78 cm / 30.7 in",
+    "118 cm / 46.5 in",
+    "48 cm / 18.9 in",
+    "65 cm / 25.6 in"
+   ],
+   [
+    "XL",
+    "80 cm / 31.5 in",
+    "122 cm / 48.0 in",
+    "50 cm / 19.7 in",
+    "66 cm / 26.0 in"
+   ],
+   [
+    "2XL",
+    "82 cm / 32.3 in",
+    "126 cm / 49.6 in",
+    "52 cm / 20.5 in",
+    "67 cm / 26.4 in"
+   ],
+   [
+    "3XL",
+    "84 cm / 33.1 in",
+    "130 cm / 51.2 in",
+    "54 cm / 21.3 in",
+    "68 cm / 26.8 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/c874dcd5226339533861.jpg"
+ ],
  "sizes": [
   "S",
   "M",

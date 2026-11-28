@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Wood and Plexiglass",
+ "ai_type": "Wall Clock",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery and clean studio lighting elevate the functional art piece to luxury interior standards.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-art-primal-unity-wall-clock",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Time finds its artistic expression in this piece designed for contemporary spaces. The wooden structure frames a visual artwork protected by high-resistance plexiglass, creating a sophisticated play of contrasts. Equipped with a silent mechanism that dispenses with the traditional ticking sound, this clock brings absolute serenity to the environment. Each creation is crafted on demand in the United States, ensuring exclusivity and limited availability for collectors. A statement of functional design with worldwide shipping.",
+ "desc_es": "El tiempo encuentra su expresión artística en esta pieza diseñada para espacios contemporáneos. La estructura de madera enmarca una obra visual protegida por plexiglás de alta resistencia, creando un juego de contrastes sofisticado. Equipado con un mecanismo silencioso que prescinde del tic-tac tradicional, este reloj aporta serenidad absoluta al ambiente. Cada creación se elabora bajo pedido en los Estados Unidos, garantizando exclusividad y disponibilidad limitada para coleccionistas. Una declaración de diseño funcional con envíos a todo el mundo.",
+ "details_en": "· 100% premium wood structure\n· High visual clarity plexiglass face\n· Metal mechanism with silent technology\n· Made to order in the United States",
+ "details_es": "· Estructura 100% madera premium\n· Cara de plexiglás de alta claridad visual\n· Mecanismo de metal con tecnología silenciosa\n· Fabricado bajo pedido en Estados Unidos",
  "display_images": [
   "assets/products/shop/bf5632cd303dbfe91051.jpg",
   "assets/products/shop/31313111c0049e058dd8.jpg",
@@ -25,9 +39,10 @@
   "printify-6b0a23625345eefc050c9328"
  ],
  "material": "",
- "name_en": "Art Primal Unity Watch",
- "name_es": "Reloj Art Primal Unity",
+ "name_en": "Primal Unity Wall Clock",
+ "name_es": "Reloj de Pared Primal Unity",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 44.99,
  "rank": 1836,

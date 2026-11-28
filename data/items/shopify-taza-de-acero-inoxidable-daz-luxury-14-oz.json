@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Silver / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "304 Stainless Steel",
+ "ai_sizes": "14 oz",
+ "ai_type": "Travel Mug",
+ "ai_ver": 2,
+ "art_note": "Clean studio isolation shots, but presentation leans towards standard marketplace imagery rather than high luxury editorial.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +20,13 @@
  "cg": "t-taza-de-acero-inoxidable-daz-luxury-oz",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Crafted from premium stainless steel, this travel mug redefines functional elegance for everyday movement. Its ergonomic design features a secure, leak-proof lid and a resilient finish. Engineered to preserve the temperature of your preferred beverages with a sophisticated profile. Each piece is made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Confeccionada en acero inoxidable de primera calidad, esta taza de viaje redefine la elegancia funcional para el día a día. Su diseño ergonómico cuenta con una tapa segura a prueba de fugas y un acabado resistente. Creada para mantener la temperatura de sus bebidas favoritas con un perfil sofisticado. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Premium 304 stainless steel\n· 0.41 L / 14 oz capacity\n· Secure leak-proof lid\n· Hand wash only\n· Made to order and worldwide shipping",
+ "details_es": "· Acero inoxidable 304 de primera calidad\n· Capacidad de 0.41 L / 14 oz\n· Tapa segura a prueba de fugas\n· Lavar a mano únicamente\n· Hecho a pedido y envío mundial",
  "display_images": [
   "assets/products/shop/073d2b98b327f7b4d839.jpg",
-  "assets/products/shop/cdf17cbd26e8f7c41e50.jpg",
-  "assets/products/shop/e2f0be999bbef4a29700.jpg",
-  "assets/products/shop/629cf31daa2d7480b41a.jpg",
-  "assets/products/shop/43716ab8c484d3640b76.jpg",
-  "assets/products/shop/1176e99ddf2721595fa8.jpg"
+  "assets/products/shop/e2f0be999bbef4a29700.jpg"
  ],
  "draft": false,
  "fam": "taza-acero-inoxidable",
@@ -26,9 +37,10 @@
   "printify-6b0a23625345eefc050c9328"
  ],
  "material": "",
- "name_en": "Taza Acero Inoxidable Mug",
- "name_es": "Taza Taza Acero Inoxidable",
+ "name_en": "Stainless Steel Travel Mug",
+ "name_es": "Taza de Viaje de Acero",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
  "rank": 1742,
@@ -36,9 +48,39 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Utensilios de mesa > Cristalería > Pocillos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Dimension",
+   "Size"
+  ],
+  "headers_es": [
+   "Dimensión",
+   "Talla"
+  ],
+  "notes_en": "Capacity: 14 oz / 0.41 L",
+  "notes_es": "Capacidad: 14 oz / 0.41 L",
+  "rows": [
+   [
+    "Height",
+    "15 cm / 5.9 in"
+   ],
+   [
+    "Top Diameter",
+    "8.5 cm / 3.3 in"
+   ],
+   [
+    "Bottom Diameter",
+    "6.3 cm / 2.5 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/1176e99ddf2721595fa8.jpg"
+ ],
+ "sizes": [
+  "14 oz"
+ ],
  "source_title": "Taza de acero inoxidable DAZ Luxury (14 oz)",
  "stripe_payment_link": "https://buy.stripe.com/3cI8wQcnqdOYaiG8qy1gQ2W",
  "supplier": "Shopify",

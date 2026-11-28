@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95 % poliéster, 5 % elastano",
+ "ai_type": "Cárdigan",
+ "ai_ver": 2,
+ "art_note": "Sophisticated architectural locations and clean studio lighting elevate the garment into high-end luxury e-commerce territory.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-cardigan-dazmond-luxury-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "A refined silhouette defines this long-sleeved V-neck cardigan. The design features a five-button front closure and a soft, lightweight feel that introduces fluidity to the garment. Each piece is crafted upon request to ensure exclusivity and an impeccable fit. The versatile structure integrates naturally into the contemporary wardrobe. An essential piece of understated elegance and timeless design.",
+ "desc_es": "Una silueta depurada define este cárdigan de manga larga con cuello en V. El diseño presenta un cierre frontal de cinco botones y una suave ligereza que aporta fluidez a la prenda. Cada pieza se confecciona bajo demanda para garantizar exclusividad y un ajuste impecable. La estructura versátil se integra con naturalidad en el guardarropa contemporáneo. Una pieza esencial de elegancia sobria y diseño intemporal.",
+ "details_en": "· 95% polyester and 5% elastane\n· Long sleeves\n· V-neckline\n· 5-button closure\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 95 % poliéster y 5 % elastano\n· Manga larga\n· Cuello en V\n· Cierre de 5 botones\n· Hecho a medida\n· Envío mundial",
  "display_images": [
   "assets/products/shop/7ac556d02cf8f2c2b131.jpg",
   "assets/products/shop/4b8b5fbf88ed6c8dbcc6.jpg",
@@ -16,8 +30,7 @@
   "assets/products/shop/0f76032c517c23b9f4b3.jpg",
   "assets/products/shop/4275314dc970a3594bae.jpg",
   "assets/products/shop/df6b2474e878fc7148a9.jpg",
-  "assets/products/shop/563b4d2aae306a6b8a42.jpg",
-  "http://ipimg.interestprint.com/data/product/3961/info/image/20250721/AAAECBB67572E48DB465609BB78B158F.png"
+  "assets/products/shop/563b4d2aae306a6b8a42.jpg"
  ],
  "draft": false,
  "fam": "cardigan-luxury-mujer",
@@ -31,9 +44,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Cardigan Jacket",
- "name_es": "Chaqueta Cardigan",
+ "name_en": "Button-front knit cardigan",
+ "name_es": "Cárdigan de punto con botones",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 28.99,
  "rank": 1688,
@@ -41,8 +55,76 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Cárdigan",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)\nInches",
+   "CHEST WIDTH(B)\nInches",
+   "SLEEVE(C)\nInches"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LARGO(A)\nPulgadas",
+   "ANCHO DE PECHO(B)\nPulgadas",
+   "MANGA(C)\nPulgadas"
+  ],
+  "notes_en": "Made to order. Worldwide shipping.",
+  "notes_es": "Hecho a medida. Envío mundial.",
+  "rows": [
+   [
+    "S",
+    "25.59",
+    "40.55",
+    "24.41"
+   ],
+   [
+    "M",
+    "26.38",
+    "42.91",
+    "24.80"
+   ],
+   [
+    "L",
+    "27.17",
+    "45.28",
+    "25.20"
+   ],
+   [
+    "XL",
+    "28.35",
+    "47.64",
+    "25.59"
+   ],
+   [
+    "2XL",
+    "29.53",
+    "50.00",
+    "25.98"
+   ],
+   [
+    "3XL",
+    "30.71",
+    "52.36",
+    "26.38"
+   ],
+   [
+    "4XL",
+    "31.89",
+    "54.72",
+    "26.77"
+   ],
+   [
+    "5XL",
+    "33.07",
+    "57.09",
+    "27.17"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/3961/info/image/20250721/AAAECBB67572E48DB465609BB78B158F.png"
+ ],
  "sizes": [
   "S",
   "M",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Poliéster (22.86 oz) con forro suave",
+ "ai_type": "Blazer",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots elevate the garment, though the lifestyle images reveal digital composites that diminish luxury positioning.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,14 @@
  "cg": "t-blazer-masculino-dazmond-aura-structure",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Define your character before speaking a single word. This blazer features impeccably profiled notch lapels, a two-button front closure, and a back vent that facilitates movement with effortless elegance. Designed to accompany formal commitments and exclusive evenings with unmistakable sobriety. Crafted with precision to offer a clean and well-defined drape with every wear. Available made to order with worldwide shipping.",
+ "desc_es": "Defina su carácter antes de pronunciar una sola palabra. Este blazer destaca por sus solapas de muesca perfectamente perfiladas, cierre frontal de dos botones y una apertura posterior que facilita el movimiento con elegancia. Diseñado para acompañar compromisos formales y veladas exclusivas con sobriedad inconfundible. Elaborado con precisión para ofrecer una caída pulcra y bien definida en cada uso. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Dense polyester fabric (22.86 oz) with a soft-textured inner lining\n· Notch lapel and two-button front closure\n· Back vent for enhanced mobility\n· Two front patch pockets and buttoned cuffs\n· Hand or machine wash, do not soak for a prolonged time\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Tejido denso de poliéster (22.86 oz) con forro interior de textura suave\n· Solapa de muesca y cierre frontal de dos botones\n· Apertura posterior para mayor movilidad\n· Dos bolsillos de parche frontales y puños abotonados\n· Lavar a mano o a máquina, no dejar en remojo por tiempo prolongado\n· Pieza confeccionada bajo pedido con envíos a todo el mundo",
  "display_images": [
-  "assets/products/shop/18cb3803a28a9130f819.jpg",
   "assets/products/shop/6abbffcfe4224bbce641.jpg",
   "assets/products/shop/0ba75a584a3ffc3006cd.jpg",
   "assets/products/shop/2726461536c657625630.jpg",
-  "assets/products/shop/e2619f42be5f87a95621.jpg",
-  "assets/products/shop/5fda4fe49ec01ec263ac.jpg",
   "assets/products/shop/2020be7e783e9ca5a2e4.jpg"
  ],
  "draft": false,
@@ -29,9 +40,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Blazer Masculino Aura Blazer · White",
- "name_es": "Blazer Blazer Masculino Aura · Blanco",
+ "name_en": "Aura Structure Blazer",
+ "name_es": "Blazer Aura Structure",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 40.99,
  "rank": 1841,
@@ -39,8 +51,72 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Shoulder",
+   "Sleeve"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Busto",
+   "Hombro",
+   "Manga"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Por favor verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "S",
+    "74 cm / 29.1 in",
+    "110 cm / 43.3 in",
+    "44 cm / 17.3 in",
+    "63 cm / 24.8 in"
+   ],
+   [
+    "M",
+    "76 cm / 29.9 in",
+    "114 cm / 44.9 in",
+    "46 cm / 18.1 in",
+    "64 cm / 25.2 in"
+   ],
+   [
+    "L",
+    "78 cm / 30.7 in",
+    "118 cm / 46.5 in",
+    "48 cm / 18.9 in",
+    "65 cm / 25.6 in"
+   ],
+   [
+    "XL",
+    "80 cm / 31.5 in",
+    "122 cm / 48 in",
+    "50 cm / 19.7 in",
+    "66 cm / 26 in"
+   ],
+   [
+    "2XL",
+    "82 cm / 32.3 in",
+    "126 cm / 49.6 in",
+    "52 cm / 20.5 in",
+    "67 cm / 26.4 in"
+   ],
+   [
+    "3XL",
+    "84 cm / 33.1 in",
+    "130 cm / 51.2 in",
+    "54 cm / 21.3 in",
+    "68 cm / 26.8 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/5fda4fe49ec01ec263ac.jpg"
+ ],
  "sizes": [
   "S",
   "M",

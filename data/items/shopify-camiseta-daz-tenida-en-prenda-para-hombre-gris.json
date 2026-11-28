@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Gray",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% ring-spun cotton",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation with accurate color rendering, though lacking lifestyle context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,11 @@
  "cg": "t-camiseta-dazmond-summit-para-hombre",
  "color": "Gris",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The DAZMOND series redefines contemporary wardrobe codes. Conceived for those who demand extraordinary comfort without compromising a polished and classic presence. Its tubular construction and ring-spun cotton offer exceptional texture and a soft touch. Each piece is crafted exclusively upon order. An essential everyday garment with an impeccable finish.",
+ "desc_es": "La serie DAZMOND redefine los códigos del guardarropa contemporáneo. Concebida para quienes buscan una comodidad superior sin renunciar a una presencia clásica y depurada. Su construcción tubular y el algodón hilado en anillos ofrecen una textura excepcional y un tacto suave. Cada pieza se confecciona de manera exclusiva al momento de realizar el pedido. Una prenda esencial para el día a día con un acabado impecable.",
+ "details_en": "· 100% high-quality ring-spun cotton\n· Medium fabric weight of 6.1 oz/yd²\n· Tubular construction without side seams\n· Double-needle stitching throughout the garment\n· Classic crew neck\n· Preshrunk fabric\n· Made to order with worldwide shipping",
+ "details_es": "· 100% algodón hilado en anillos de alta calidad\n· Tela mediana de 6.1 oz/yd²\n· Construcción tubular sin costuras laterales\n· Costura de doble aguja en toda la prenda\n· Escote redondo clásico\n· Tela preencogida\n· Fabricado bajo demanda con envío a todo el mundo",
  "display_images": [
-  "assets/products/shop/fcb507dcf197cb7b99bb.jpg",
-  "assets/products/shop/fcb507dcf197cb7b99bb.jpg",
-  "assets/products/shop/fcb507dcf197cb7b99bb.jpg",
-  "assets/products/shop/fcb507dcf197cb7b99bb.jpg",
-  "assets/products/shop/fcb507dcf197cb7b99bb.jpg",
   "assets/products/shop/fcb507dcf197cb7b99bb.jpg",
   "assets/products/shop/c8f8b48d3d4886b47350.jpg",
   "assets/products/shop/8d91225f7b3ff1b4b6bd.jpg",
@@ -37,9 +46,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Summit Tee · Gris",
- "name_es": "Camiseta Summit · Gris",
+ "name_en": "DAZMOND Summit T-Shirt · Gris",
+ "name_es": "Camiseta DAZMOND Summit · Gris",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 43.99,
  "rank": 1744,
@@ -47,7 +57,69 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Width",
+   "Length",
+   "Sleeve Length",
+   "Tolerance"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho",
+   "Longitud",
+   "Largo de manga",
+   "Tolerancia"
+  ],
+  "notes_en": "Measurements are taken flat. Made to order with worldwide shipping available.",
+  "notes_es": "Las medidas se toman en plano. Piezas fabricadas bajo demanda con envío a todo el mundo.",
+  "rows": [
+   [
+    "S",
+    "18.25",
+    "26.62",
+    "16.25",
+    "1.50"
+   ],
+   [
+    "M",
+    "20.25",
+    "28.00",
+    "17.75",
+    "1.50"
+   ],
+   [
+    "L",
+    "22.00",
+    "29.37",
+    "19.00",
+    "1.50"
+   ],
+   [
+    "XL",
+    "24.00",
+    "30.75",
+    "20.50",
+    "1.50"
+   ],
+   [
+    "2XL",
+    "26.00",
+    "31.62",
+    "21.75",
+    "1.50"
+   ],
+   [
+    "3XL",
+    "27.75",
+    "32.50",
+    "23.25",
+    "1.50"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "S",

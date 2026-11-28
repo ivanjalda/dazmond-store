@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Top-grain PU leather",
+ "ai_sizes": "One Size",
+ "ai_type": "Wallet",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with neutral background, maintaining a professional e-commerce standard.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +20,15 @@
  "cg": "t-cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "This refined men's wallet is crafted from high-grade superior grain PU leather. The texture is delicate, soft, and exceptionally comfortable to the touch. The compact and versatile design features an efficient layout with a cash compartment, card slots, photo holder, and coin pocket to keep essentials impeccably organized. Each piece is crafted exclusively upon order placement, ensuring limited availability. Experience secure worldwide shipping and a sophisticated aesthetic tailored for daily use, travel, or professional refinement.",
+ "desc_es": "Esta refinada cartera para hombre está confeccionada en cuero sintético de grano superior de alta calidad. Su tacto es delicado, suave y sumamente cómodo al tacto. El diseño compacto y versátil cuenta con un compartimento para efectivo, ranuras para tarjetas, espacio para fotografías y un monedero para mantener lo esencial organizado. Cada pieza se confecciona de manera exclusiva tras realizar su pedido, garantizando una disponibilidad limitada. Disfrute de un envío mundial seguro y de una estética sofisticada pensada para el uso diario, los viajes o la elegancia en los negocios.",
+ "details_en": "· Crafted from top-grain PU leather\n· Compartment for cash, cards, photos, and coins\n· Compact and secure folding design\n· Made to order ensuring exclusivity\n· Available with worldwide shipping",
+ "details_es": "· Confeccionada en cuero sintético de grano superior\n· Compartimento para efectivo, tarjetas, fotos y monedas\n· Diseño plegable compacto y seguro\n· Hecho a pedido para asegurar exclusividad\n· Disponible con envío mundial",
  "display_images": [
   "assets/products/shop/61d5178c3df67642b0c0.jpg",
   "assets/products/shop/c7d301193948614aec27.jpg",
   "assets/products/shop/b6b66da21d2e65a9640c.jpg",
-  "assets/products/shop/e00fc2b4bd1098253166.jpg",
-  "assets/products/shop/4375b285b4adddcd5639.jpg"
+  "assets/products/shop/e00fc2b4bd1098253166.jpg"
  ],
  "draft": false,
  "fam": "cartera-cuero-grano",
@@ -28,9 +42,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Cartera Cuero Grano Bag",
- "name_es": "Bolso Cartera Cuero Grano",
+ "name_en": "Synthetic Leather Bifold Wallet",
+ "name_es": "Cartera plegable de cuero sintético",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
  "rank": 1832,
@@ -38,9 +53,31 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Bolsos, billeteras y estuches > Billeteras y clips para billetes > Carteras",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
- "sizes": [],
+ "size_chart": {
+  "headers": [
+   "Width",
+   "Height"
+  ],
+  "headers_es": [
+   "Ancho",
+   "Alto"
+  ],
+  "notes_en": "Measurements taken flat. Made to order for global delivery.",
+  "notes_es": "Medidas tomadas en plano. Hecho a pedido para envío mundial.",
+  "rows": [
+   [
+    "24.3",
+    "9.1"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/4375b285b4adddcd5639.jpg"
+ ],
+ "sizes": [
+  "One Size"
+ ],
  "source_title": "Cartera de cuero de grano superior DAZ Luxury para hombre",
  "stripe_payment_link": "https://buy.stripe.com/3cIdRa87acKU62qeOW1gR0k",
  "supplier": "Shopify",

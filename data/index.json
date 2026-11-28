@@ -141,6 +141,7 @@
       "supplier_id": "6b0a23625345eefc050c9328",
       "fam": "diamond-plaque-mug",
       "cg": "printify-6b0a23625345eefc050c9328",
+      "art_score": 7,
       "img": "https://images-api.printify.com/mockup/6b0a23625345eefc050c9328/62327/3387/diamond-plaque-mug.jpg?camera_label=front"
     },
     {
@@ -208,8 +209,8 @@
     },
     {
       "id": "printify-6b0a235a527d73062d024d93",
-      "name_es": "Camiseta Diamond Plaque · Negro",
-      "name_en": "Diamond Plaque Tee · Black",
+      "name_es": "Camiseta Diamond Plaque Negra",
+      "name_en": "Diamond Plaque Black T-Shirt",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -224,12 +225,13 @@
       "fam": "diamond-plaque-tee",
       "cg": "printify-6b0a235a527d73062d024d93",
       "color": "Black",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b0a235a527d73062d024d93/12124/102005/diamond-plaque-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b0a2374cc80e1f59c0655f7",
-      "name_es": "Camiseta Quiet Power · Negro",
-      "name_en": "Quiet Power Tee · Black",
+      "name_es": "Camiseta Quiet Power Negra",
+      "name_en": "Quiet Power Black Tee",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -244,12 +246,13 @@
       "fam": "quiet-power-tee",
       "cg": "printify-6b0a2374cc80e1f59c0655f7",
       "color": "Black",
+      "art_score": 5,
       "img": "https://images-api.printify.com/mockup/6b0a2374cc80e1f59c0655f7/12124/102005/quiet-power-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b0a2360aec9e5ff69044e38-black",
-      "name_es": "Bolso Diamond Plaque · Negro",
-      "name_en": "Diamond Plaque Bag · Black",
+      "name_es": "Bolso Tote Diamond Plaque · Negro",
+      "name_en": "Diamond Plaque Tote Bag · Black",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -264,12 +267,13 @@
       "fam": "diamond-plaque-tote",
       "cg": "printify-6b0a2360aec9e5ff69044e38",
       "color": "Black",
+      "art_score": 5,
       "img": "https://images-api.printify.com/mockup/6b0a2360aec9e5ff69044e38/119445/109797/diamond-plaque-tote.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0a2360aec9e5ff69044e38-oyster",
-      "name_es": "Bolso Diamond Plaque · Oyster",
-      "name_en": "Diamond Plaque Bag · Oyster",
+      "name_es": "Bolso Tote Diamond Plaque · Oyster",
+      "name_en": "Diamond Plaque Tote Bag · Oyster",
       "price_usd": 27.99,
       "badge": "new",
       "categories": [
@@ -284,6 +288,7 @@
       "fam": "diamond-plaque-tote",
       "cg": "printify-6b0a2360aec9e5ff69044e38",
       "color": "Oyster",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b0a2360aec9e5ff69044e38/119446/109797/diamond-plaque-tote.jpg?camera_label=front"
     },
     {
@@ -33893,8 +33898,8 @@
     },
     {
       "id": "shopify-camisetas-dazmond-de-cuello-redondo-para-mujer-blanco",
-      "name_es": "Camiseta Camisetas Cuello Redondo · Blanco",
-      "name_en": "Camisetas Cuello Redondo Tee · Blanco",
+      "name_es": "Camiseta DAZMONDI · Blanco",
+      "name_en": "DAZMONDI T-Shirt · Blanco",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -33908,12 +33913,13 @@
       "fam": "camisetas-cuello-redondo",
       "cg": "t-camisetas-dazmond-de-cuello-redondo-para-mujer",
       "color": "Blanco",
+      "art_score": 9,
       "img": "assets/products/shop/5fc962f30d0a4cbe7837.jpg"
     },
     {
       "id": "shopify-chaqueta-un-diamante-con-fondo-blanco-y-lineas-negras-arte-4-removebg-preview-custom-womens-cardigan-model-h73",
-      "name_es": "Chaqueta Cardigan",
-      "name_en": "Cardigan Jacket",
+      "name_es": "Cárdigan de punto con botones",
+      "name_en": "Button-front knit cardigan",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33926,12 +33932,13 @@
       "supplier_id": "chaqueta-un_diamante_con_fondo_blanco_y_lineas_negras__arte__4_-removebg-preview-custom-womens-cardigan-model-h73",
       "fam": "cardigan-luxury-mujer",
       "cg": "t-cardigan-dazmond-luxury-para-mujer",
+      "art_score": 7,
       "img": "assets/products/shop/99a2a6bbbab8356dea74.jpg"
     },
     {
       "id": "shopify-chaqueta-un-diamante-con-fondo-blanco-y-lineas-negras-arte-4-removebg-preview-custom-womens-cardigan-model-h73-1",
-      "name_es": "Chaqueta Cardigan",
-      "name_en": "Cardigan Jacket",
+      "name_es": "Cárdigan de punto con botones",
+      "name_en": "Button-front knit cardigan",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33944,12 +33951,13 @@
       "supplier_id": "chaqueta-un_diamante_con_fondo_blanco_y_lineas_negras__arte__4_-removebg-preview-custom-womens-cardigan-model-h73-1",
       "fam": "cardigan-luxury-mujer",
       "cg": "t-cardigan-dazmond-luxury-para-mujer",
+      "art_score": 9,
       "img": "assets/products/shop/7ac556d02cf8f2c2b131.jpg"
     },
     {
       "id": "shopify-chaqueta-un-diamante-con-fondo-blanco-y-lineas-negras-arte-4-removebg-preview-custom-womens-cardigan-model-h73-2",
-      "name_es": "Chaqueta Cardigan",
-      "name_en": "Cardigan Jacket",
+      "name_es": "Cárdigan de punto con botones",
+      "name_en": "Button-front knit cardigan",
       "price_usd": 28.99,
       "badge": "new",
       "categories": [
@@ -33962,6 +33970,7 @@
       "supplier_id": "chaqueta-un_diamante_con_fondo_blanco_y_lineas_negras__arte__4_-removebg-preview-custom-womens-cardigan-model-h73-2",
       "fam": "cardigan-luxury-mujer",
       "cg": "t-cardigan-dazmond-luxury-para-mujer",
+      "art_score": 9,
       "img": "assets/products/shop/22af6461435c90610f8e.jpg"
     },
     {
@@ -33980,7 +33989,8 @@
       "supplier_id": "christmas-seamless-pattern-with-candy-sticks-for-holiday-design_167655107-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/505bfa0787e978d21bb3.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/61b524d099e9b1bfeef6.jpg"
     },
     {
       "id": "shopify-color-pattern-with-butterfly-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -33998,6 +34008,7 @@
       "supplier_id": "color-pattern-with-butterfly-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
+      "art_score": 6,
       "img": "assets/products/shop/b5fa4dba3b4b889b68f4.jpg"
     },
     {
@@ -34016,7 +34027,8 @@
       "supplier_id": "colorful-abstract-geometric-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/df520c01413db291f183.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/6830c4daec20f789034f.jpg"
     },
     {
       "id": "shopify-cute-mermaid-underwater-world-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34034,7 +34046,8 @@
       "supplier_id": "cute-mermaid-underwater-world-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/a8e2cbc5ce3522d9b104.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/be11b088648b5c3dd017.jpg"
     },
     {
       "id": "shopify-halloween-pampkin-skull-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34052,6 +34065,7 @@
       "supplier_id": "halloween-pampkin-skull-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
+      "art_score": 6,
       "img": "assets/products/shop/83cb44fe4a53627e6f08.jpg"
     },
     {
@@ -34070,7 +34084,8 @@
       "supplier_id": "illustration-of-pizza_123755812-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/fc77daa137d948f0e441.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/5031af9034afcb93a7aa.jpg"
     },
     {
       "id": "shopify-lemon-on-white-field-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34088,7 +34103,8 @@
       "supplier_id": "lemon-on-white-field-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/2e87c56279402444db79.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/650576a89c6c26094945.jpg"
     },
     {
       "id": "shopify-music-notes-abstract-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34106,6 +34122,7 @@
       "supplier_id": "music-notes-abstract-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
+      "art_score": 4,
       "img": "assets/products/shop/f5c281e1181239f8f404.jpg"
     },
     {
@@ -34124,7 +34141,8 @@
       "supplier_id": "pattern-animal-paw-dog-paw-pattern_425380048-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/4c41c6642a57cae3f62c.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/6ac48050eefc0aac16c2.jpg"
     },
     {
       "id": "shopify-pattern-pineapple-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34142,7 +34160,8 @@
       "supplier_id": "pattern-pineapple-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/4fea182c3a77c653ceb6.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/458d83f5ba389cc5c42e.jpg"
     },
     {
       "id": "shopify-seamless-pattern-based-on-traditional-asian-elements-paisley-107915477-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34160,6 +34179,7 @@
       "supplier_id": "seamless-pattern-based-on-traditional-asian-elements-paisley_107915477-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
+      "art_score": 3,
       "img": "assets/products/shop/f13ec1322802c40ba32a.jpg"
     },
     {
@@ -34178,7 +34198,8 @@
       "supplier_id": "seamless-pattern-based-on-traditional-asian-elements-paisley_119114329-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/3d00da041f648cae628d.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/ae106a1ffb8f71ca7de0.jpg"
     },
     {
       "id": "shopify-seamless-pattern-with-funny-starfishes-65203993-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34196,7 +34217,8 @@
       "supplier_id": "seamless-pattern-with-funny-starfishes_65203993-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/bb0aef5d5f4024fc8012.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/c4b987619102b2a8d690.jpg"
     },
     {
       "id": "shopify-seamless-pattern-with-jellyfish-vector-illustration-eps-673941397-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34214,7 +34236,8 @@
       "supplier_id": "seamless-pattern-with-jellyfish-vector-illustration-eps_673941397-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/c146d43e6ebfeb59bb06.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/8a15bf5219ad9a1647c8.jpg"
     },
     {
       "id": "shopify-shutterstock-639812614-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34232,7 +34255,8 @@
       "supplier_id": "shutterstock_639812614-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/cf1279a0f929e799ecf0.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/4b570e3d5430834b602f.jpg"
     },
     {
       "id": "shopify-summer-travel-invitation-advert-background-with-empty-space-199255865-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34250,7 +34274,8 @@
       "supplier_id": "summer-travel-invitation-advert-background-with-empty-space-199255865-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/cd70c2aa76ab3db795c2.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/0c3a2dedd8de60d2e46a.jpg"
     },
     {
       "id": "shopify-un-diamante-con-fondo-blanco-y-lineas-negras-3-removebg-preview-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34268,7 +34293,8 @@
       "supplier_id": "un_diamante_con_fondo_blanco_y_lineas_negras__3_-removebg-preview-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/91bff44e3917e92936d2.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/d46cb21b10f9cd5f361e.jpg"
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34286,7 +34312,8 @@
       "supplier_id": "un_logo_de_diamante_en_negro_y_dorado__lujo__arte__simple__complejo-removebg-preview-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/730f02181eec66c38441.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/d9cf55dc9b478cbd15f5.jpg"
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-removebg-preview-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34304,7 +34331,8 @@
       "supplier_id": "un_logo_de_diamante_en_negro_y_dorado__lujo__arte__simple-removebg-preview-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/b52fc604cd2803189c85.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/57e11c4b0667ffc52168.jpg"
     },
     {
       "id": "shopify-unicorn-colours-galaxy-universe-print-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34322,6 +34350,7 @@
       "supplier_id": "unicorn-colours-galaxy-universe-print-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
+      "art_score": 4,
       "img": "assets/products/shop/1b9484c488aca6fd9332.jpg"
     },
     {
@@ -34340,6 +34369,7 @@
       "supplier_id": "vector-doodle-space-seamless-pattern-planets-stars-moon-sun_729832183-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
+      "art_score": 4,
       "img": "assets/products/shop/ad06728e54e1cf3b770f.jpg"
     },
     {
@@ -34358,7 +34388,8 @@
       "supplier_id": "vintage-seamless-pattern-of-music-stave-notes-141460258-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/0eeed54b57b4a3ee8c74.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/7f3de926248c7367b3ff.jpg"
     },
     {
       "id": "shopify-watercolor-hand-drawn-flowers-of-sakura-on-white-background-seamless-393637981-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34376,7 +34407,8 @@
       "supplier_id": "watercolor-hand-drawn-flowers-of-sakura-on-white-background-seamless-393637981-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/5664cfbd38b7ad4987d7.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/985f4b772c00d1129665.jpg"
     },
     {
       "id": "shopify-watercolor-pineapple-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
@@ -34394,7 +34426,8 @@
       "supplier_id": "watercolor-pineapple-jpg-womens-all-over-print-hawaiian-shirt-model-t58-2made-in-queens",
       "fam": "camisa-hawaiana-luxury",
       "cg": "t-camisa-hawaiana-daz-luxury-para-mujer-hecha-en-queens",
-      "img": "assets/products/shop/350474c56816183a8714.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/85a51adc9fb8410b5f88.jpg"
     },
     {
       "id": "shopify-bolsa-daz-luxury-de-almuerzo-de-poliester",
@@ -34482,8 +34515,8 @@
     },
     {
       "id": "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-black",
-      "name_es": "Zapatillas Zapatillas Baloncesto Daz · Negro",
-      "name_en": "Zapatillas Baloncesto Daz Sneakers · Black",
+      "name_es": "Zapatillas de baloncesto DAZ · Negro",
+      "name_en": "DAZ Basketball Sneakers · Black",
       "price_usd": 36.99,
       "badge": "new",
       "categories": [
@@ -34497,12 +34530,13 @@
       "fam": "zapatillas-baloncesto-cuero",
       "cg": "t-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre",
       "color": "Black",
+      "art_score": 4,
       "img": "assets/products/shop/846f437ec14b4b9b58ef.jpg"
     },
     {
       "id": "shopify-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre-white",
-      "name_es": "Zapatillas Zapatillas Baloncesto Daz · Blanco",
-      "name_en": "Zapatillas Baloncesto Daz Sneakers · White",
+      "name_es": "Zapatillas de baloncesto DAZ · Blanco",
+      "name_en": "DAZ Basketball Sneakers · White",
       "price_usd": 36.99,
       "badge": "new",
       "categories": [
@@ -34516,6 +34550,7 @@
       "fam": "zapatillas-baloncesto-cuero",
       "cg": "t-zapatillas-de-baloncesto-daz-de-cuero-sintetico-para-hombre",
       "color": "White",
+      "art_score": 6,
       "img": "assets/products/shop/ecd0d256533a98a23cab.jpg"
     },
     {
@@ -34616,28 +34651,9 @@
       "img": "assets/products/shop/ec20f7b836378c719c9e.jpg"
     },
     {
-      "id": "shopify-design-womens-seamless-bramade-in-usa",
-      "name_es": "Ropa Interior Sujetador Sin Costuras · Negro",
-      "name_en": "Sujetador Sin Costuras Underwear · Negro",
-      "price_usd": 30.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 1725,
-      "created": "2026-11-19",
-      "page": true,
-      "supplier_id": "design-womens-seamless-bramade-in-usa",
-      "fam": "sujetador-sin-costuras",
-      "cg": "t-sujetador-sin-costuras-dazmond",
-      "color": "Negro",
-      "img": "assets/products/shop/703f2ddaebf978534308.jpg"
-    },
-    {
       "id": "shopify-design-womens-seamless-bramade-in-usa-1",
-      "name_es": "Ropa Interior Sujetador Sin Costuras · Negro",
-      "name_en": "Sujetador Sin Costuras Underwear · Negro",
+      "name_es": "Sujetador sin costuras esencial negro · Negro",
+      "name_en": "Essential black seamless bra · Negro",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -34651,12 +34667,13 @@
       "fam": "sujetador-sin-costuras",
       "cg": "t-sujetador-sin-costuras-dazmond",
       "color": "Negro",
+      "art_score": 9,
       "img": "assets/products/shop/c905b3722cafeab983e0.jpg"
     },
     {
       "id": "shopify-design-womens-seamless-bramade-in-usa-2",
-      "name_es": "Ropa Interior Sujetador Sin Costuras",
-      "name_en": "Sujetador Sin Costuras Underwear",
+      "name_es": "Sujetador sin costuras negro",
+      "name_en": "Black seamless bra",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -34670,12 +34687,13 @@
       "fam": "sujetador-sin-costuras",
       "cg": "t-sujetador-sin-costuras-dazmond-para-mujer",
       "color": "Negro",
+      "art_score": 6,
       "img": "assets/products/shop/fdb8263d444250a51f15.jpg"
     },
     {
       "id": "shopify-taza-de-cafe-negra-daz-luxury-11-oz",
-      "name_es": "Taza Taza Café Daz",
-      "name_en": "Taza Café Daz Mug",
+      "name_es": "Taza DAZ Luxury Negra",
+      "name_en": "DAZ Luxury Black Mug",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
@@ -34688,6 +34706,7 @@
       "supplier_id": "taza-de-cafe-negra-daz-luxury-11-oz",
       "fam": "taza-cafe-negra",
       "cg": "t-taza-de-cafe-daz-luxury-oz",
+      "art_score": 6,
       "img": "assets/products/shop/b01406b63487cc4ae0d4.jpg"
     },
     {
@@ -34832,8 +34851,8 @@
     },
     {
       "id": "shopify-camisa-un-diamante-con-fondo-blanco-y-lineas-negras-1-removebg-preview-mens-crinkle-short-sleeve-shirt",
-      "name_es": "Camisa Camisa Manga Corta",
-      "name_en": "Camisa Manga Corta Shirt",
+      "name_es": "Camisa de manga corta arrugada",
+      "name_en": "Wrinkled Short Sleeve Shirt",
       "price_usd": 29.99,
       "badge": "new",
       "categories": [
@@ -34846,12 +34865,13 @@
       "supplier_id": "camisa_un_diamante_con_fondo_blanco_y_lineas_negras__1_-removebg-preview-mens-crinkle-short-sleeve-shirt",
       "fam": "camisa-manga-corta",
       "cg": "t-camisa-de-manga-corta-arrugada-dazmond-para-hombre",
+      "art_score": 9,
       "img": "assets/products/shop/9c08d9be1277edce78aa.jpg"
     },
     {
       "id": "shopify-camisa-un-diamante-con-fondo-blanco-y-lineas-negras-1-removebg-preview-mens-crinkle-short-sleeve-shirt-1",
-      "name_es": "Camisa Camisa Manga Corta",
-      "name_en": "Camisa Manga Corta Shirt",
+      "name_es": "Camisa de manga corta arrugada",
+      "name_en": "Wrinkled Short Sleeve Shirt",
       "price_usd": 29.99,
       "badge": "new",
       "categories": [
@@ -34864,12 +34884,13 @@
       "supplier_id": "camisa_un_diamante_con_fondo_blanco_y_lineas_negras__1_-removebg-preview-mens-crinkle-short-sleeve-shirt-1",
       "fam": "camisa-manga-corta",
       "cg": "t-camisa-de-manga-corta-arrugada-dazmond-para-hombre",
+      "art_score": 9,
       "img": "assets/products/shop/2696f04385275c0fe6a6.jpg"
     },
     {
       "id": "shopify-camisa-un-diamante-con-fondo-blanco-y-lineas-negras-1-removebg-preview-mens-crinkle-short-sleeve-shirt-2",
-      "name_es": "Camisa Camisa Manga Corta",
-      "name_en": "Camisa Manga Corta Shirt",
+      "name_es": "Camisa de manga corta arrugada",
+      "name_en": "Wrinkled Short Sleeve Shirt",
       "price_usd": 29.99,
       "badge": "new",
       "categories": [
@@ -34882,12 +34903,13 @@
       "supplier_id": "camisa_un_diamante_con_fondo_blanco_y_lineas_negras__1_-removebg-preview-mens-crinkle-short-sleeve-shirt-2",
       "fam": "camisa-manga-corta",
       "cg": "t-camisa-de-manga-corta-arrugada-dazmond-para-hombre",
+      "art_score": 9,
       "img": "assets/products/shop/eb695cac78445920bd78.jpg"
     },
     {
       "id": "shopify-camisa-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-removebg-preview-mens-crinkle-short-sleeve-shirt",
-      "name_es": "Camisa Camisa Manga Corta",
-      "name_en": "Camisa Manga Corta Shirt",
+      "name_es": "Camisa de manga corta arrugada",
+      "name_en": "Wrinkled Short Sleeve Shirt",
       "price_usd": 29.99,
       "badge": "new",
       "categories": [
@@ -34900,12 +34922,13 @@
       "supplier_id": "camisa_un_logo_de_diamante_en_negro_y_dorado__lujo__arte__simple-removebg-preview-mens-crinkle-short-sleeve-shirt",
       "fam": "camisa-manga-corta",
       "cg": "t-camisa-de-manga-corta-arrugada-dazmond-para-hombre",
+      "art_score": 9,
       "img": "assets/products/shop/b8f601efb886f84e4c83.jpg"
     },
     {
       "id": "shopify-camisa-un-logo-de-diamante-en-negro-y-dorado-lujo-removebg-preview-mens-crinkle-short-sleeve-shirt",
-      "name_es": "Camisa Camisa Manga Corta",
-      "name_en": "Camisa Manga Corta Shirt",
+      "name_es": "Camisa de manga corta arrugada",
+      "name_en": "Wrinkled Short Sleeve Shirt",
       "price_usd": 29.99,
       "badge": "new",
       "categories": [
@@ -34918,12 +34941,13 @@
       "supplier_id": "camisa_un_logo_de_diamante_en_negro_y_dorado__lujo-removebg-preview-mens-crinkle-short-sleeve-shirt",
       "fam": "camisa-manga-corta",
       "cg": "t-camisa-de-manga-corta-arrugada-dazmond-para-hombre",
-      "img": "assets/products/shop/41b590b531dcc5fa6a90.jpg"
+      "art_score": 9,
+      "img": "assets/products/shop/b01ecb62502227915c26.jpg"
     },
     {
       "id": "shopify-camisa-un-logo-de-diamante-en-negro-y-dorado-lujo-removebg-preview-mens-crinkle-short-sleeve-shirt-1",
-      "name_es": "Camisa Camisa Manga Corta",
-      "name_en": "Camisa Manga Corta Shirt",
+      "name_es": "Camisa de manga corta arrugada",
+      "name_en": "Wrinkled Short Sleeve Shirt",
       "price_usd": 29.99,
       "badge": "new",
       "categories": [
@@ -34936,12 +34960,13 @@
       "supplier_id": "camisa_un_logo_de_diamante_en_negro_y_dorado__lujo-removebg-preview-mens-crinkle-short-sleeve-shirt-1",
       "fam": "camisa-manga-corta",
       "cg": "t-camisa-de-manga-corta-arrugada-dazmond-para-hombre",
+      "art_score": 9,
       "img": "assets/products/shop/9234b4e054d3765e95b5.jpg"
     },
     {
       "id": "shopify-taza-de-acero-inoxidable-daz-luxury-14-oz",
-      "name_es": "Taza Taza Acero Inoxidable",
-      "name_en": "Taza Acero Inoxidable Mug",
+      "name_es": "Taza de Viaje de Acero",
+      "name_en": "Stainless Steel Travel Mug",
       "price_usd": 35.99,
       "badge": "new",
       "categories": [
@@ -34954,12 +34979,13 @@
       "supplier_id": "taza-de-acero-inoxidable-daz-luxury-14-oz",
       "fam": "taza-acero-inoxidable",
       "cg": "t-taza-de-acero-inoxidable-daz-luxury-oz",
+      "art_score": 5,
       "img": "assets/products/shop/073d2b98b327f7b4d839.jpg"
     },
     {
       "id": "shopify-camiseta-daz-tenida-en-prenda-para-hombre-blanco",
-      "name_es": "Camiseta Summit · Blanco",
-      "name_en": "Summit Tee · Blanco",
+      "name_es": "Camiseta DAZMOND Summit · Blanco",
+      "name_en": "DAZMOND Summit T-Shirt · Blanco",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -34973,12 +34999,13 @@
       "fam": "camiseta-summit-hombre",
       "cg": "t-camiseta-dazmond-summit-para-hombre",
       "color": "Blanco",
+      "art_score": 6,
       "img": "assets/products/shop/c8f8b48d3d4886b47350.jpg"
     },
     {
       "id": "shopify-camiseta-daz-tenida-en-prenda-para-hombre-gris",
-      "name_es": "Camiseta Summit · Gris",
-      "name_en": "Summit Tee · Gris",
+      "name_es": "Camiseta DAZMOND Summit · Gris",
+      "name_en": "DAZMOND Summit T-Shirt · Gris",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -34992,12 +35019,13 @@
       "fam": "camiseta-summit-hombre",
       "cg": "t-camiseta-dazmond-summit-para-hombre",
       "color": "Gris",
+      "art_score": 6,
       "img": "assets/products/shop/fcb507dcf197cb7b99bb.jpg"
     },
     {
       "id": "shopify-camiseta-daz-tenida-en-prenda-para-hombre-marfil",
-      "name_es": "Camiseta Summit · Marfil",
-      "name_en": "Summit Tee · Marfil",
+      "name_es": "Camiseta DAZMOND Summit · Marfil",
+      "name_en": "DAZMOND Summit T-Shirt · Marfil",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -35011,12 +35039,13 @@
       "fam": "camiseta-summit-hombre",
       "cg": "t-camiseta-dazmond-summit-para-hombre",
       "color": "Marfil",
+      "art_score": 6,
       "img": "assets/products/shop/8d91225f7b3ff1b4b6bd.jpg"
     },
     {
       "id": "shopify-camiseta-daz-tenida-en-prenda-para-hombre-musgo",
-      "name_es": "Camiseta Summit · Musgo",
-      "name_en": "Summit Tee · Musgo",
+      "name_es": "Camiseta DAZMOND Summit · Musgo",
+      "name_en": "DAZMOND Summit T-Shirt · Musgo",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -35030,12 +35059,13 @@
       "fam": "camiseta-summit-hombre",
       "cg": "t-camiseta-dazmond-summit-para-hombre",
       "color": "Musgo",
+      "art_score": 6,
       "img": "assets/products/shop/b78162d94c8f02673f6c.jpg"
     },
     {
       "id": "shopify-camiseta-daz-tenida-en-prenda-para-hombre-orquidea",
-      "name_es": "Camiseta Summit · Orquídea",
-      "name_en": "Summit Tee · Orquídea",
+      "name_es": "Camiseta DAZMOND Summit · Orquídea",
+      "name_en": "DAZMOND Summit T-Shirt · Orquídea",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -35049,6 +35079,7 @@
       "fam": "camiseta-summit-hombre",
       "cg": "t-camiseta-dazmond-summit-para-hombre",
       "color": "Orquídea",
+      "art_score": 5,
       "img": "assets/products/shop/176f267225b160273fe0.jpg"
     },
     {
@@ -35113,8 +35144,8 @@
     },
     {
       "id": "shopify-zapatillas-altas-daz-para-hombre",
-      "name_es": "Zapatillas Zapatillas Altas Daz",
-      "name_en": "Zapatillas Altas Daz Sneakers",
+      "name_es": "Zapatillas altas con estampado",
+      "name_en": "Printed high-top sneakers",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35127,12 +35158,13 @@
       "supplier_id": "zapatillas-altas-daz-para-hombre",
       "fam": "zapatillas-altas-hombre",
       "cg": "t-zapatillas-altas-daz-para-hombre",
+      "art_score": 5,
       "img": "assets/products/shop/949e7d3c33cec64cc5a0.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-para-hombre-1",
-      "name_es": "Zapatillas Zapatillas Altas Daz",
-      "name_en": "Zapatillas Altas Daz Sneakers",
+      "name_es": "Zapatillas altas con estampado",
+      "name_en": "Printed high-top sneakers",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35145,12 +35177,13 @@
       "supplier_id": "zapatillas-altas-daz-para-hombre-1",
       "fam": "zapatillas-altas-hombre",
       "cg": "t-zapatillas-altas-daz-para-hombre",
+      "art_score": 5,
       "img": "assets/products/shop/a12f3601896f1ebfc8e7.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-para-hombre-2",
-      "name_es": "Zapatillas Zapatillas Altas Daz",
-      "name_en": "Zapatillas Altas Daz Sneakers",
+      "name_es": "Zapatillas altas con estampado",
+      "name_en": "Printed high-top sneakers",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35163,12 +35196,13 @@
       "supplier_id": "zapatillas-altas-daz-para-hombre-2",
       "fam": "zapatillas-altas-hombre",
       "cg": "t-zapatillas-altas-daz-para-hombre",
+      "art_score": 5,
       "img": "assets/products/shop/1105acbbb65079afdfea.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-para-hombre-3-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas altas con estampado · Negro",
+      "name_en": "Printed high-top sneakers · Black",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35182,12 +35216,13 @@
       "fam": "zapatillas-altas-hombre",
       "cg": "t-zapatillas-altas-daz-para-hombre",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/b97df688d94bbc86775f.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-para-hombre-3-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas altas con estampado · Blanco",
+      "name_en": "Printed high-top sneakers · White",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35201,12 +35236,13 @@
       "fam": "zapatillas-altas-hombre",
       "cg": "t-zapatillas-altas-daz-para-hombre",
       "color": "White",
+      "art_score": 3,
       "img": "assets/products/shop/fb1b2934400eec5c478c.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-para-hombre-4-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas altas con estampado · Negro",
+      "name_en": "Printed high-top sneakers · Black",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35220,12 +35256,13 @@
       "fam": "zapatillas-altas-hombre",
       "cg": "t-zapatillas-altas-daz-para-hombre",
       "color": "Black",
+      "art_score": 3,
       "img": "assets/products/shop/1645962a5782546a57b2.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-para-hombre-4-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas altas con estampado · Blanco",
+      "name_en": "Printed high-top sneakers · White",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35239,12 +35276,13 @@
       "fam": "zapatillas-altas-hombre",
       "cg": "t-zapatillas-altas-daz-para-hombre",
       "color": "White",
+      "art_score": 3,
       "img": "assets/products/shop/525313bdea3dc676f34e.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-para-mujer-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas altas con estampado · Negro",
+      "name_en": "Printed High-Top Sneakers · Black",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35258,12 +35296,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
+      "art_score": 5,
       "img": "assets/products/shop/63dc2cf269cda989aa47.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-para-mujer-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas altas con estampado · Blanco",
+      "name_en": "Printed High-Top Sneakers · White",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35277,12 +35316,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
+      "art_score": 3,
       "img": "assets/products/shop/1d1000cb7a514060b2be.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-1-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas altas con estampado · Negro",
+      "name_en": "Printed High-Top Sneakers · Black",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35296,12 +35336,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
+      "art_score": 3,
       "img": "assets/products/shop/0f9f4d643c5680a444b3.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-1-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas altas con estampado · Blanco",
+      "name_en": "Printed High-Top Sneakers · White",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35315,12 +35356,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
+      "art_score": 3,
       "img": "assets/products/shop/baeb972d2c9ec4d516dc.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-2-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas altas con estampado · Negro",
+      "name_en": "Printed High-Top Sneakers · Black",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35334,12 +35376,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
+      "art_score": 3,
       "img": "assets/products/shop/149738ef33cf7ffa4d05.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-2-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas altas con estampado · Blanco",
+      "name_en": "Printed High-Top Sneakers · White",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35353,12 +35396,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
+      "art_score": 3,
       "img": "assets/products/shop/414c60e6682ae8549caa.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-3-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas altas con estampado · Negro",
+      "name_en": "Printed High-Top Sneakers · Black",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35372,12 +35416,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/8e5f82ebf28c0abd59b9.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-3-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas altas con estampado · Blanco",
+      "name_en": "Printed High-Top Sneakers · White",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35391,12 +35436,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
+      "art_score": 4,
       "img": "assets/products/shop/e65b85008bf597a2ba68.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-4-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas altas con estampado · Negro",
+      "name_en": "Printed High-Top Sneakers · Black",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35410,12 +35456,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
+      "art_score": 6,
       "img": "assets/products/shop/b3afd812e69522b6283b.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-4-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas altas con estampado · Blanco",
+      "name_en": "Printed High-Top Sneakers · White",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35429,12 +35476,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
+      "art_score": 3,
       "img": "assets/products/shop/8f6fa03f252a71b871e2.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-5-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas altas con estampado · Negro",
+      "name_en": "Printed High-Top Sneakers · Black",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35448,12 +35496,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
+      "art_score": 5,
       "img": "assets/products/shop/adbcc1a8c9ba4534e749.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-5-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas altas con estampado · Blanco",
+      "name_en": "Printed High-Top Sneakers · White",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35467,12 +35516,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
+      "art_score": 4,
       "img": "assets/products/shop/47c28410c020afd21760.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-black",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Negro",
-      "name_en": "Zapatillas Altas Daz Sneakers · Black",
+      "name_es": "Zapatillas altas con estampado · Negro",
+      "name_en": "Printed High-Top Sneakers · Black",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35486,12 +35536,13 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "Black",
+      "art_score": 3,
       "img": "assets/products/shop/3c6692cc9d077a10d4de.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-para-mujer-daz-white",
-      "name_es": "Zapatillas Zapatillas Altas Daz · Blanco",
-      "name_en": "Zapatillas Altas Daz Sneakers · White",
+      "name_es": "Zapatillas altas con estampado · Blanco",
+      "name_en": "Printed High-Top Sneakers · White",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -35505,6 +35556,7 @@
       "fam": "zapatillas-altas-mujer",
       "cg": "t-zapatillas-altas-daz-para-mujer",
       "color": "White",
+      "art_score": 3,
       "img": "assets/products/shop/5d28309bb85ae2f8a3dc.jpg"
     },
     {
@@ -36132,8 +36184,8 @@
     },
     {
       "id": "shopify-zapatillas-altas-daz-premium-de-piel-para-mujer",
-      "name_es": "Zapatillas Zapatillas Altas Daz",
-      "name_en": "Zapatillas Altas Daz Sneakers",
+      "name_es": "Zapatillas Altas DAZ Premium de Piel",
+      "name_en": "DAZ Premium High-Top Leather Sneakers",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -36146,12 +36198,13 @@
       "supplier_id": "zapatillas-altas-daz-premium-de-piel-para-mujer",
       "fam": "zapatillas-altas-premium",
       "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
+      "art_score": 6,
       "img": "assets/products/shop/3a055a209b9050479ace.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-premium-de-piel-para-mujer-1",
-      "name_es": "Zapatillas Zapatillas Altas Daz",
-      "name_en": "Zapatillas Altas Daz Sneakers",
+      "name_es": "Zapatillas Altas DAZ Premium de Piel",
+      "name_en": "DAZ Premium High-Top Leather Sneakers",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -36164,12 +36217,13 @@
       "supplier_id": "zapatillas-altas-daz-premium-de-piel-para-mujer-1",
       "fam": "zapatillas-altas-premium",
       "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
+      "art_score": 6,
       "img": "assets/products/shop/6965e72e42aeb7ddebc5.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-premium-de-piel-para-mujer-2",
-      "name_es": "Zapatillas Zapatillas Altas Daz",
-      "name_en": "Zapatillas Altas Daz Sneakers",
+      "name_es": "Zapatillas Altas DAZ Premium de Piel",
+      "name_en": "DAZ Premium High-Top Leather Sneakers",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -36182,12 +36236,13 @@
       "supplier_id": "zapatillas-altas-daz-premium-de-piel-para-mujer-2",
       "fam": "zapatillas-altas-premium",
       "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
+      "art_score": 5,
       "img": "assets/products/shop/f37efd900644e4736cee.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-premium-de-piel-para-mujer-3",
-      "name_es": "Zapatillas Zapatillas Altas Daz",
-      "name_en": "Zapatillas Altas Daz Sneakers",
+      "name_es": "Zapatillas Altas DAZ Premium de Piel",
+      "name_en": "DAZ Premium High-Top Leather Sneakers",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -36200,12 +36255,13 @@
       "supplier_id": "zapatillas-altas-daz-premium-de-piel-para-mujer-3",
       "fam": "zapatillas-altas-premium",
       "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
+      "art_score": 6,
       "img": "assets/products/shop/54cde9b3486e56df0134.jpg"
     },
     {
       "id": "shopify-zapatillas-altas-daz-premium-de-piel-para-mujer-4",
-      "name_es": "Zapatillas Zapatillas Altas Daz",
-      "name_en": "Zapatillas Altas Daz Sneakers",
+      "name_es": "Zapatillas Altas DAZ Premium de Piel",
+      "name_en": "DAZ Premium High-Top Leather Sneakers",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -36218,12 +36274,13 @@
       "supplier_id": "zapatillas-altas-daz-premium-de-piel-para-mujer-4",
       "fam": "zapatillas-altas-premium",
       "cg": "t-zapatillas-altas-daz-premium-de-piel-para-mujer",
+      "art_score": 6,
       "img": "assets/products/shop/b95c1673c41f1533425e.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-premium-de-deporte-de-cuero-para-hombre",
-      "name_es": "Zapatillas Zapatillas Daz Deporte",
-      "name_en": "Zapatillas Daz Deporte Sneakers",
+      "name_es": "Zapatillas Altas Estampadas Daz",
+      "name_en": "Daz Printed High-Top Sneakers",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -36236,12 +36293,13 @@
       "supplier_id": "zapatillas-daz-premium-de-deporte-de-cuero-para-hombre",
       "fam": "zapatillas-premium-deporte",
       "cg": "t-zapatillas-daz-premium-de-deporte-de-cuero-para-hombre",
+      "art_score": 5,
       "img": "assets/products/shop/283657997184486e229a.jpg"
     },
     {
       "id": "shopify-zapatillas-daz-premium-de-deporte-de-cuero-para-hombre-1",
-      "name_es": "Zapatillas Zapatillas Daz Deporte",
-      "name_en": "Zapatillas Daz Deporte Sneakers",
+      "name_es": "Zapatillas Altas Estampadas Daz",
+      "name_en": "Daz Printed High-Top Sneakers",
       "price_usd": 37.99,
       "badge": "new",
       "categories": [
@@ -36254,6 +36312,7 @@
       "supplier_id": "zapatillas-daz-premium-de-deporte-de-cuero-para-hombre-1",
       "fam": "zapatillas-premium-deporte",
       "cg": "t-zapatillas-daz-premium-de-deporte-de-cuero-para-hombre",
+      "art_score": 6,
       "img": "assets/products/shop/f9c96b70f8e1230c7242.jpg"
     },
     {
@@ -36447,8 +36506,8 @@
     },
     {
       "id": "shopify-colorful-pop-art-grenades-seamless-pattern-background-wallpaper-565021177-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -36461,12 +36520,13 @@
       "supplier_id": "colorful-pop-art-grenades-seamless-pattern-background-wallpaper_565021177-副本-jpg-mens-blazer-model-h64",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 8,
       "img": "assets/products/shop/018e0b9d64088e452686.jpg"
     },
     {
       "id": "shopify-sudadera-un-logo-de-diamante-en-negro-y-dorado-lujo-removebg-preview-high-neck-pullover-hoodie-for-men-model-h24",
-      "name_es": "Sudadera Capucha Cuello Alto",
-      "name_en": "Capucha Cuello Alto Sweatshirt",
+      "name_es": "Sudadera con Capucha y Cuello Alto",
+      "name_en": "High Neck Hooded Sweatshirt",
       "price_usd": 49.99,
       "badge": "new",
       "categories": [
@@ -36479,12 +36539,13 @@
       "supplier_id": "sudadera-un_logo_de_diamante_en_negro_y_dorado__lujo-removebg-preview-high-neck-pullover-hoodie-for-men-model-h24",
       "fam": "sudadera-capucha-cuello",
       "cg": "t-sudadera-dazmond-con-capucha-de-cuello-alto-para-hombre",
-      "img": "assets/products/shop/31d65f5781ab745a6af2.jpg"
+      "art_score": 8,
+      "img": "assets/products/shop/af424f40ecd09312265d.jpg"
     },
     {
       "id": "shopify-sudadera-un-logo-de-diamante-en-negro-y-dorado-lujo-removebg-preview-high-neck-pullover-hoodie-for-men-model-h24-1",
-      "name_es": "Sudadera Capucha Cuello Alto",
-      "name_en": "Capucha Cuello Alto Sweatshirt",
+      "name_es": "Sudadera con Capucha y Cuello Alto",
+      "name_en": "High Neck Hooded Sweatshirt",
       "price_usd": 49.99,
       "badge": "new",
       "categories": [
@@ -36497,12 +36558,13 @@
       "supplier_id": "sudadera-un_logo_de_diamante_en_negro_y_dorado__lujo-removebg-preview-high-neck-pullover-hoodie-for-men-model-h24-1",
       "fam": "sudadera-capucha-cuello",
       "cg": "t-sudadera-dazmond-con-capucha-de-cuello-alto-para-hombre",
+      "art_score": 9,
       "img": "assets/products/shop/6025bb9de0a26251c94f.jpg"
     },
     {
       "id": "shopify-sudaderaun-logo-de-diamante-en-negro-y-dorado-lujo-removebg-preview-high-neck-pullover-hoodie-for-men-model-h24",
-      "name_es": "Sudadera Capucha Cuello Alto",
-      "name_en": "Capucha Cuello Alto Sweatshirt",
+      "name_es": "Sudadera con Capucha y Cuello Alto",
+      "name_en": "High Neck Hooded Sweatshirt",
       "price_usd": 49.99,
       "badge": "new",
       "categories": [
@@ -36515,6 +36577,7 @@
       "supplier_id": "sudaderaun_logo_de_diamante_en_negro_y_dorado__lujo-removebg-preview-high-neck-pullover-hoodie-for-men-model-h24",
       "fam": "sudadera-capucha-cuello",
       "cg": "t-sudadera-dazmond-con-capucha-de-cuello-alto-para-hombre",
+      "art_score": 9,
       "img": "assets/products/shop/1270a43875b51644d4a5.jpg"
     },
     {
@@ -36534,6 +36597,7 @@
       "fam": "camiseta-cuello-redondo",
       "cg": "t-camiseta-dazmond-de-cuello-redondo-para-mujer",
       "color": "Gris",
+      "art_score": 9,
       "img": "assets/products/shop/5455c8f0200d9b096fa1.jpg"
     },
     {
@@ -36553,6 +36617,7 @@
       "fam": "camiseta-cuello-redondo",
       "cg": "t-camiseta-dazmond-de-cuello-redondo-para-mujer",
       "color": "Rosa claro",
+      "art_score": 9,
       "img": "assets/products/shop/4805f3f764511c03c32e.jpg"
     },
     {
@@ -36572,12 +36637,13 @@
       "fam": "camiseta-cuello-redondo",
       "cg": "t-camiseta-dazmond-de-cuello-redondo-para-mujer",
       "color": "Turquesa",
-      "img": "assets/products/shop/06d6cfd5c8ad67531713.jpg"
+      "art_score": 9,
+      "img": "assets/products/shop/f1a5a631bbf8a9093502.jpg"
     },
     {
       "id": "shopify-camisetas-dazmond-de-cuello-redondo-para-mujer-gris",
-      "name_es": "Camiseta Camisetas Cuello Redondo · Gris",
-      "name_en": "Camisetas Cuello Redondo Tee · Gris",
+      "name_es": "Camiseta DAZMONDI · Gris",
+      "name_en": "DAZMONDI T-Shirt · Gris",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -36591,12 +36657,13 @@
       "fam": "camisetas-cuello-redondo",
       "cg": "t-camisetas-dazmond-de-cuello-redondo-para-mujer",
       "color": "Gris",
+      "art_score": 9,
       "img": "assets/products/shop/492da23214acafa40f42.jpg"
     },
     {
       "id": "shopify-camisetas-dazmond-de-cuello-redondo-para-mujer-rosa-claro",
-      "name_es": "Camiseta Camisetas Cuello Redondo · Rosa Claro",
-      "name_en": "Camisetas Cuello Redondo Tee · Rosa Claro",
+      "name_es": "Camiseta DAZMONDI · Rosa Claro",
+      "name_en": "DAZMONDI T-Shirt · Rosa Claro",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -36610,12 +36677,13 @@
       "fam": "camisetas-cuello-redondo",
       "cg": "t-camisetas-dazmond-de-cuello-redondo-para-mujer",
       "color": "Rosa claro",
-      "img": "assets/products/shop/6a8cfffe1a8e358ff335.jpg"
+      "art_score": 9,
+      "img": "assets/products/shop/2c8f296fef841de6be90.jpg"
     },
     {
       "id": "shopify-camisetas-dazmond-de-cuello-redondo-para-mujer-turquesa",
-      "name_es": "Camiseta Camisetas Cuello Redondo · Turquesa",
-      "name_en": "Camisetas Cuello Redondo Tee · Turquesa",
+      "name_es": "Camiseta DAZMONDI · Turquesa",
+      "name_en": "DAZMONDI T-Shirt · Turquesa",
       "price_usd": 31.99,
       "badge": "new",
       "categories": [
@@ -36629,12 +36697,13 @@
       "fam": "camisetas-cuello-redondo",
       "cg": "t-camisetas-dazmond-de-cuello-redondo-para-mujer",
       "color": "Turquesa",
+      "art_score": 9,
       "img": "assets/products/shop/d9a93d1ca9dbb8abcd40.jpg"
     },
     {
       "id": "shopify-design-womens-short-sleeve-dress-made-in-usa",
-      "name_es": "Vestido Manga Corta · Negro",
-      "name_en": "Manga Corta Dress · Negro",
+      "name_es": "Vestido Corto Diamante DAZMond · Negro",
+      "name_en": "DAZMond Short Diamond Dress · Negro",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
@@ -36648,12 +36717,13 @@
       "fam": "vestido-manga-corta",
       "cg": "t-vestido-de-manga-corta-dazmond-luxury",
       "color": "Negro",
+      "art_score": 4,
       "img": "assets/products/shop/5731e20036f027d4ac11.jpg"
     },
     {
       "id": "shopify-design-womens-short-sleeve-dress-made-in-usa-1",
-      "name_es": "Vestido Manga Corta · Negro",
-      "name_en": "Manga Corta Dress · Negro",
+      "name_es": "Vestido Corto Diamante DAZMond · Negro",
+      "name_en": "DAZMond Short Diamond Dress · Negro",
       "price_usd": 32.99,
       "badge": "new",
       "categories": [
@@ -36667,6 +36737,7 @@
       "fam": "vestido-manga-corta",
       "cg": "t-vestido-de-manga-corta-dazmond-luxury",
       "color": "Negro",
+      "art_score": 5,
       "img": "assets/products/shop/0300cb5e0cbd21c692e6.jpg"
     },
     {
@@ -36692,8 +36763,8 @@
     },
     {
       "id": "shopify-cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre",
-      "name_es": "Bolso Cartera Cuero Grano",
-      "name_en": "Cartera Cuero Grano Bag",
+      "name_es": "Cartera plegable de cuero sintético",
+      "name_en": "Synthetic Leather Bifold Wallet",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -36706,12 +36777,13 @@
       "supplier_id": "cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre",
       "fam": "cartera-cuero-grano",
       "cg": "t-cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre",
+      "art_score": 6,
       "img": "assets/products/shop/ca3cd9c09386e78863ef.jpg"
     },
     {
       "id": "shopify-cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre-1",
-      "name_es": "Bolso Cartera Cuero Grano",
-      "name_en": "Cartera Cuero Grano Bag",
+      "name_es": "Cartera plegable de cuero sintético",
+      "name_en": "Synthetic Leather Bifold Wallet",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -36724,12 +36796,13 @@
       "supplier_id": "cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre-1",
       "fam": "cartera-cuero-grano",
       "cg": "t-cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre",
+      "art_score": 6,
       "img": "assets/products/shop/61d5178c3df67642b0c0.jpg"
     },
     {
       "id": "shopify-cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre-2",
-      "name_es": "Bolso Cartera Cuero Grano",
-      "name_en": "Cartera Cuero Grano Bag",
+      "name_es": "Cartera plegable de cuero sintético",
+      "name_en": "Synthetic Leather Bifold Wallet",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -36742,12 +36815,13 @@
       "supplier_id": "cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre-2",
       "fam": "cartera-cuero-grano",
       "cg": "t-cartera-de-cuero-de-grano-superior-daz-luxury-para-hombre",
+      "art_score": 6,
       "img": "assets/products/shop/3dc3fd43ddcb9635e2af.jpg"
     },
     {
       "id": "shopify-cuaderno-de-piel-sintetica-daz-luxury",
-      "name_es": "Cuaderno Cuaderno Piel Sintética",
-      "name_en": "Cuaderno Piel Sintética Notebook",
+      "name_es": "Cuaderno DAZ Luxury Negro",
+      "name_en": "DAZ Luxury Black Notebook",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -36760,12 +36834,13 @@
       "supplier_id": "cuaderno-de-piel-sintetica-daz-luxury",
       "fam": "cuaderno-piel-sintetica",
       "cg": "t-cuaderno-de-piel-sintetica-daz-luxury",
+      "art_score": 8,
       "img": "assets/products/shop/7a48f195b2e03e39627e.jpg"
     },
     {
       "id": "shopify-cuaderno-de-piel-sintetica-daz-luxury-1",
-      "name_es": "Cuaderno Cuaderno Piel Sintética",
-      "name_en": "Cuaderno Piel Sintética Notebook",
+      "name_es": "Cuaderno DAZ Luxury Negro",
+      "name_en": "DAZ Luxury Black Notebook",
       "price_usd": 30.99,
       "badge": "new",
       "categories": [
@@ -36778,12 +36853,13 @@
       "supplier_id": "cuaderno-de-piel-sintetica-daz-luxury-1",
       "fam": "cuaderno-piel-sintetica",
       "cg": "t-cuaderno-de-piel-sintetica-daz-luxury",
+      "art_score": 8,
       "img": "assets/products/shop/0209a96db60dae118964.jpg"
     },
     {
       "id": "shopify-reloj-de-pared-daz-art",
-      "name_es": "Reloj Art Primal Unity",
-      "name_en": "Art Primal Unity Watch",
+      "name_es": "Reloj de Pared Primal Unity",
+      "name_en": "Primal Unity Wall Clock",
       "price_usd": 44.99,
       "badge": "new",
       "categories": [
@@ -36796,6 +36872,7 @@
       "supplier_id": "reloj-de-pared-daz-art",
       "fam": "art-primal-unity",
       "cg": "t-dazmond-art-primal-unity-wall-clock",
+      "art_score": 9,
       "img": "assets/products/shop/bf5632cd303dbfe91051.jpg"
     },
     {
@@ -36841,8 +36918,8 @@
     },
     {
       "id": "shopify-vestido-daz-art-para-mujer",
-      "name_es": "Vestido Geometric Muse Skater",
-      "name_en": "Geometric Muse Skater Dress",
+      "name_es": "Vestido Geometric Muse",
+      "name_en": "Geometric Muse Dress",
       "price_usd": 50.99,
       "badge": "new",
       "categories": [
@@ -36855,12 +36932,13 @@
       "supplier_id": "vestido-daz-art-para-mujer",
       "fam": "geometric-muse-skater",
       "cg": "t-dazmond-geometric-muse-skater-dress",
+      "art_score": 9,
       "img": "assets/products/shop/9beb021b60156f4a9be9.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer",
-      "name_es": "Blazer Blazer Colección Privada · Blanco",
-      "name_en": "Blazer Colección Privada Blazer · White",
+      "name_es": "Blazer Monograma Colección Privada",
+      "name_en": "Private Collection Monogram Blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -36874,12 +36952,13 @@
       "fam": "blazer-hombre-coleccion",
       "cg": "t-blazer-para-hombre-dazmond-coleccion-privada",
       "color": "white",
-      "img": "assets/products/shop/eca280ab6fa40b7e8a52.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/54e856494ae580bf6d0b.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-1",
-      "name_es": "Blazer Blazer Masculino Aura · Blanco",
-      "name_en": "Blazer Masculino Aura Blazer · White",
+      "name_es": "Blazer Aura Structure",
+      "name_en": "Aura Structure Blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -36893,12 +36972,13 @@
       "fam": "blazer-masculino-aura",
       "cg": "t-blazer-masculino-dazmond-aura-structure",
       "color": "white",
-      "img": "assets/products/shop/18cb3803a28a9130f819.jpg"
+      "art_score": 6,
+      "img": "assets/products/shop/6abbffcfe4224bbce641.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-10",
-      "name_es": "Blazer Blazer Colección Privada · Blanco",
-      "name_en": "Blazer Colección Privada Blazer · White",
+      "name_es": "Blazer estructurado de poliéster blanco",
+      "name_en": "Structured white polyester blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -36912,12 +36992,13 @@
       "fam": "blazer-hombre-coleccion",
       "cg": "t-blazer-para-hombre-dazmond-coleccion-privada-r",
       "color": "white",
-      "img": "assets/products/shop/6c90a05a578f88c240bc.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/bbb8d7ad6a7aa0ca5712.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-2",
-      "name_es": "Blazer Americana Noble Aura · Blanco",
-      "name_en": "Americana Noble Aura Blazer · White",
+      "name_es": "Americana Noble Aura",
+      "name_en": "Noble Aura Blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -36931,12 +37012,13 @@
       "fam": "americana-hombre-noble",
       "cg": "t-americana-hombre-dazmond-noble-aura",
       "color": "white",
-      "img": "assets/products/shop/e7b6bb7f5c2dc7ca5d6e.jpg"
+      "art_score": 6,
+      "img": "assets/products/shop/3c37cf07eb4e28919e0c.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-3",
-      "name_es": "Blazer Americana Sovereign · Blanco",
-      "name_en": "Americana Sovereign Blazer · White",
+      "name_es": "Americana Sovereign Silhouette",
+      "name_en": "Sovereign Silhouette Blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -36950,7 +37032,8 @@
       "fam": "americana-hombre-sovereign",
       "cg": "t-americana-hombre-dazmond-sovereign-silhouette",
       "color": "white",
-      "img": "assets/products/shop/f3aa4def2142211132b0.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/35da6d04106ec4884ebc.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-4",
@@ -36974,8 +37057,8 @@
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-5",
-      "name_es": "Blazer Blazer Masculino Midnight · Blanco",
-      "name_en": "Blazer Masculino Midnight Blazer · White",
+      "name_es": "Blazer Midnight Contrast",
+      "name_en": "Midnight Contrast Blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -36989,12 +37072,13 @@
       "fam": "blazer-masculino-midnight",
       "cg": "t-blazer-masculino-dazmond-midnight-contrast-con-solapa-a-contraste",
       "color": "white",
-      "img": "assets/products/shop/e42fb68982a8b1ca3f72.jpg"
+      "art_score": 5,
+      "img": "assets/products/shop/a8f38b97d98179577639.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-6",
-      "name_es": "Blazer Americana Colección Privada · Blanco",
-      "name_en": "Americana Colección Privada Blazer · White",
+      "name_es": "Americana Midnight Tailor",
+      "name_en": "Midnight Tailor Blazer",
       "price_usd": 40.99,
       "badge": "new",
       "categories": [
@@ -37008,7 +37092,8 @@
       "fam": "americana-hombre-coleccion",
       "cg": "t-americana-de-hombre-coleccion-privada-dazmond-midnight-tailor",
       "color": "white",
-      "img": "assets/products/shop/10e3468727faf92eccb7.jpg"
+      "art_score": 4,
+      "img": "assets/products/shop/8cd32a3e4d4947f286c8.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-mens-blazer-7",
@@ -37072,8 +37157,8 @@
     },
     {
       "id": "shopify-falda-daz-art-para-mujer",
-      "name_es": "Falda Midnight Floral Bronze",
-      "name_en": "Midnight Floral Bronze Skirt",
+      "name_es": "Falda Skater Botánica Nocturna",
+      "name_en": "Midnight Botanical Skater Skirt",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -37086,12 +37171,13 @@
       "supplier_id": "falda-daz-art-para-mujer",
       "fam": "luxury-midnight-floral",
       "cg": "t-dazmond-luxury-midnight-floral-bronze-skater-skirt",
+      "art_score": 9,
       "img": "assets/products/shop/a0f52650562aae2754dd.jpg"
     },
     {
       "id": "shopify-falda-daz-premium-art-para-mujer",
-      "name_es": "Falda Botanical Jade Skater · Oro",
-      "name_en": "Botanical Jade Skater Skirt · Gold",
+      "name_es": "Falda Skater Botánica Jade y Oro",
+      "name_en": "Botanical Jade and Gold Skater Skirt",
       "price_usd": 43.99,
       "badge": "new",
       "categories": [
@@ -37104,12 +37190,13 @@
       "supplier_id": "falda-daz-premium-art-para-mujer",
       "fam": "luxury-botanical-jade",
       "cg": "t-dazmond-luxury-botanical-jade-skater-skirt",
+      "art_score": 9,
       "img": "assets/products/shop/0eefae3f0ce442ec77c4.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37122,12 +37209,13 @@
       "supplier_id": "abstract-art-jpg-mens-blazer-model-h64",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 4,
       "img": "assets/products/shop/6590d89137b97b2c48e7.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-1",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37140,12 +37228,13 @@
       "supplier_id": "abstract-art-jpg-mens-blazer-model-h64-1",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 4,
       "img": "assets/products/shop/977f05062e70bb4ecb3d.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-10",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37158,12 +37247,13 @@
       "supplier_id": "abstract-art-jpg-mens-blazer-model-h64-10",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 4,
       "img": "assets/products/shop/e993c0c468b29cd0bc15.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-11",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37176,12 +37266,13 @@
       "supplier_id": "abstract-art-jpg-mens-blazer-model-h64-11",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 5,
       "img": "assets/products/shop/9a004c7381226721fcca.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-2",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37198,8 +37289,8 @@
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-3",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37212,12 +37303,13 @@
       "supplier_id": "abstract-art-jpg-mens-blazer-model-h64-3",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 4,
       "img": "assets/products/shop/3f67a120b711e8efcc6f.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-4",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37230,12 +37322,13 @@
       "supplier_id": "abstract-art-jpg-mens-blazer-model-h64-4",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 4,
       "img": "assets/products/shop/78306ef018d1d7dc62cf.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-5",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37248,12 +37341,13 @@
       "supplier_id": "abstract-art-jpg-mens-blazer-model-h64-5",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 3,
       "img": "assets/products/shop/041b49052c26620b0b58.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-6",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37266,12 +37360,13 @@
       "supplier_id": "abstract-art-jpg-mens-blazer-model-h64-6",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 3,
       "img": "assets/products/shop/8f6fb8830a5716abfb33.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-7",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37288,8 +37383,8 @@
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-8",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37302,12 +37397,13 @@
       "supplier_id": "abstract-art-jpg-mens-blazer-model-h64-8",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 3,
       "img": "assets/products/shop/ceed19e28d31eeba7cc4.jpg"
     },
     {
       "id": "shopify-abstract-art-jpg-mens-blazer-model-h64-9",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37320,12 +37416,13 @@
       "supplier_id": "abstract-art-jpg-mens-blazer-model-h64-9",
       "fam": "blazer-luxury-hombre",
       "cg": "t-blazer-daz-luxury-para-hombre",
+      "art_score": 4,
       "img": "assets/products/shop/19ac417f267da46d2091.jpg"
     },
     {
       "id": "shopify-abstract-colorful-art-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37342,8 +37439,8 @@
     },
     {
       "id": "shopify-abstract-golden-music-notes-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37360,8 +37457,8 @@
     },
     {
       "id": "shopify-abstract-rainbow-art-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37378,8 +37475,8 @@
     },
     {
       "id": "shopify-abstract-seamless-pattern-seamless-pattern-with-triangles-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37396,8 +37493,8 @@
     },
     {
       "id": "shopify-angry-shark-head-pattern-406007299-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37432,8 +37529,8 @@
     },
     {
       "id": "shopify-blazer-daz-luxury-para-hombre",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37450,8 +37547,8 @@
     },
     {
       "id": "shopify-blurred-background-of-abstract-pattern-ideal-use-for-background-429238963-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37808,8 +37905,8 @@
     },
     {
       "id": "shopify-bright-geometric-seamless-pattern-with-grunge-effect-298851920-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37940,8 +38037,8 @@
     },
     {
       "id": "shopify-celebratory-background-with-bright-neon-stripes-of-light-for-christmas-design-713731378-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -37958,8 +38055,8 @@
     },
     {
       "id": "shopify-cherry-blossoms-with-the-branches-pattern-on-a-black-background-vector-505864468-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38076,8 +38173,8 @@
     },
     {
       "id": "shopify-guitar-pattern-461995603-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38094,8 +38191,8 @@
     },
     {
       "id": "shopify-human-face-artwork-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38112,8 +38209,8 @@
     },
     {
       "id": "shopify-keyboard-background-in-black-and-white-7609915-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38149,8 +38246,8 @@
     },
     {
       "id": "shopify-music-notes-background-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38167,8 +38264,8 @@
     },
     {
       "id": "shopify-physical-formulas-and-phenomenon-hand-drawn-illustration-science-board-with-math-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38285,8 +38382,8 @@
     },
     {
       "id": "shopify-poppy-pattern-298678835-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38303,8 +38400,8 @@
     },
     {
       "id": "shopify-rainbow-music-note-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38393,8 +38490,8 @@
     },
     {
       "id": "shopify-seamless-pattern-black-silhouette-of-a-pirate-in-a-hat-and-with-a-sword-1089988487-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38411,8 +38508,8 @@
     },
     {
       "id": "shopify-seamless-pattern-on-school-board-freehand-drawing-280453361-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38429,8 +38526,8 @@
     },
     {
       "id": "shopify-shark-in-sea-pattern-seamless-vector-background-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38447,8 +38544,8 @@
     },
     {
       "id": "shopify-shutterstock-629995226-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38465,8 +38562,8 @@
     },
     {
       "id": "shopify-shutterstock-639812614-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38483,8 +38580,8 @@
     },
     {
       "id": "shopify-summer-travel-invitation-advert-background-with-empty-space-199255865-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38537,8 +38634,8 @@
     },
     {
       "id": "shopify-tile-sailor-pattern-with-red-anchor-on-black-and-white-polka-dots-background-452709703-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38555,8 +38652,8 @@
     },
     {
       "id": "shopify-un-diamante-de-lujo-con-fondo-blanco-y-lineas-negras-removebg-preview-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38573,8 +38670,8 @@
     },
     {
       "id": "shopify-un-diamante-de-lujo-con-fondo-blanco-y-lineas-negras-removebg-preview-mens-blazer-model-h64-1",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38591,8 +38688,8 @@
     },
     {
       "id": "shopify-un-diamante-de-lujo-con-fondo-blanco-y-lineas-negras-removebg-preview-mens-blazer-model-h64-2",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38609,8 +38706,8 @@
     },
     {
       "id": "shopify-un-diamante-de-lujo-con-fondo-blanco-y-lineas-negras-removebg-preview-mens-blazer-model-h64-3",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38627,8 +38724,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38645,8 +38742,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-1",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38663,8 +38760,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-10",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38681,8 +38778,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-11",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38699,8 +38796,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-12",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38717,8 +38814,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-13",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38735,8 +38832,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-3",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38753,8 +38850,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-4",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38771,8 +38868,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-5",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38789,8 +38886,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-6",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38807,8 +38904,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-7",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38825,8 +38922,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-8",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38843,8 +38940,8 @@
     },
     {
       "id": "shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-9",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38861,8 +38958,8 @@
     },
     {
       "id": "shopify-underwater-seahorse-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38879,8 +38976,8 @@
     },
     {
       "id": "shopify-vector-seamless-pattern-with-hand-drawn-music-notes-555630850-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38897,8 +38994,8 @@
     },
     {
       "id": "shopify-vintage-seamless-pattern-of-music-stave-notes-141460258-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38915,8 +39012,8 @@
     },
     {
       "id": "shopify-watercolor-floral-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38933,8 +39030,8 @@
     },
     {
       "id": "shopify-watercolor-pineapple-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38951,8 +39048,8 @@
     },
     {
       "id": "shopify-watercolor-watermelon-pattern-vector-illustration-for-your-design-267343262-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -38969,8 +39066,8 @@
     },
     {
       "id": "shopify-white-marble-wall-texture-background-jpg-mens-blazer-model-h64",
-      "name_es": "Blazer Blazer Daz",
-      "name_en": "Blazer Daz Blazer",
+      "name_es": "Blazer Estampado de Lujo DAZ",
+      "name_en": "DAZ Luxury Printed Blazer",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
