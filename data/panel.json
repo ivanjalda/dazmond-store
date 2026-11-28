@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-28 14:30 UTC",
+  "updated": "2026-11-28 14:41 UTC",
   "totals": {
     "catalogo": 2534,
-    "a_la_vista": 2300,
-    "disenos_a_la_vista": 912,
-    "ocultos": 234,
-    "ia_revisados": 2341,
-    "ia_pendientes": 129,
-    "con_boton_de_pago": 2300,
+    "a_la_vista": 2306,
+    "disenos_a_la_vista": 913,
+    "ocultos": 228,
+    "ia_revisados": 2347,
+    "ia_pendientes": 123,
+    "con_boton_de_pago": 2306,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
@@ -20,7 +20,7 @@
     "Vigilante": 4,
     "Ya no está en el proveedor": 100,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 129
+    "Borrador": 123
   },
   "suppliers": {
     "Printify": {
@@ -36,8 +36,8 @@
       "ocultos": 8
     },
     "InterestPrint": {
-      "visibles": 331,
-      "ocultos": 126
+      "visibles": 337,
+      "ocultos": 120
     }
   },
   "guard": [
@@ -558,62 +558,8 @@
       "why": "No es un producto (venía de Shopify)"
     },
     {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-2",
-      "n": "Conjunto de Top y Falda · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/bc3414d8dda055c7c64d.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-8",
-      "n": "Conjunto de Top y Falda · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/97cd573fc8392c1b2b85.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-9",
-      "n": "Conjunto de Top y Falda · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/bc4579958121d80c90ca.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-ruffled-strap-dress",
-      "n": "Vestido Ruffled Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/316042bea190e55d7773.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-ruffled-strap-dress-1",
-      "n": "Vestido Ruffled Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/0a1a2b97434fbbdee658.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-ruffled-strap-dress-2",
-      "n": "Vestido Ruffled Strap · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/d8b104b378d6a09f8fb2.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-womens-ruffled-strap-dress-3",
-      "n": "Vestido Ruffled Strap · Blanco",
+      "n": "Vestido con Tirantes de Volantes · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/b7a1756ef973b475ae37.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -622,7 +568,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-strap-dress-4",
-      "n": "Vestido Ruffled Strap · Blanco",
+      "n": "Vestido con Tirantes de Volantes · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/5c3a3e26b3edc34fc0c4.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -631,7 +577,7 @@
     },
     {
       "id": "interestprint-design-womens-ruffled-strap-dress-5",
-      "n": "Vestido Ruffled Strap · Blanco",
+      "n": "Vestido con Tirantes de Volantes · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/43911af6cbc79f0311fd.jpg",
       "c": "mujer/vestidos-monos-petos",
@@ -2491,17 +2437,18 @@
     "CSV leído: telegram.csv",
     "Printify: 83 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 15 s",
-    "Productos en catálogo: 2534 · a la vista: 2299 · archivados: 101",
+    "⏱ lectura de proveedores: 13 s",
+    "Productos en catálogo: 2534 · a la vista: 2304 · archivados: 101",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 2166 piezas",
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con interestprint-design-womens-long-sleeve-top-skirt-set-2: gemini-2.0-flash: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code t",
+    "IA: fallo con interestprint-design-womens-ruffled-strap-dress-3: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con interestprint-design-womens-ruffled-strap-dress-4: gemini-flash-latest: The read operation timed out",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 5 productos revisados (fotos, guía de tallas y textos) · quedan 354",
-    "⏱ revisión con IA: 274 s",
+    "IA: 6 productos revisados (fotos, guía de tallas y textos) · quedan 348",
+    "⏱ revisión con IA: 720 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
