@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-28 11:41 UTC",
+  "updated": "2026-11-28 12:41 UTC",
   "totals": {
     "catalogo": 2534,
-    "a_la_vista": 2284,
-    "disenos_a_la_vista": 911,
-    "ocultos": 250,
-    "ia_revisados": 2325,
-    "ia_pendientes": 145,
-    "con_boton_de_pago": 2284,
+    "a_la_vista": 2295,
+    "disenos_a_la_vista": 912,
+    "ocultos": 239,
+    "ia_revisados": 2336,
+    "ia_pendientes": 134,
+    "con_boton_de_pago": 2295,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
@@ -20,7 +20,7 @@
     "Vigilante": 4,
     "Ya no está en el proveedor": 100,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 145
+    "Borrador": 134
   },
   "suppliers": {
     "Printify": {
@@ -32,12 +32,12 @@
       "ocultos": 0
     },
     "Shopify": {
-      "visibles": 1116,
-      "ocultos": 9
+      "visibles": 1117,
+      "ocultos": 8
     },
     "InterestPrint": {
-      "visibles": 316,
-      "ocultos": 141
+      "visibles": 326,
+      "ocultos": 131
     }
   },
   "guard": [
@@ -558,107 +558,8 @@
       "why": "No es un producto (venía de Shopify)"
     },
     {
-      "id": "interestprint-design-all-over-print-midi-skirt-2",
-      "n": "Falda Midi Estampada Caution · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/3a159c4524153723e063.jpg",
-      "c": "mujer/falda",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-6",
-      "n": "Conjunto de camiseta y falda midi",
-      "s": "Shopify",
-      "img": "assets/products/shop/ec61c863c24d2d9d804c.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-5",
-      "n": "Blusa de Manga Larga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/52f10e9ee9dcea996985.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-6",
-      "n": "Blusa de Manga Larga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/1414e7dfa14792f78ca8.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-7",
-      "n": "Blusa de Manga Larga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/7f47d19cc918401d1d80.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-8",
-      "n": "Blusa de Manga Larga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/58f2f5c302cb7338c9ef.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-blouse-ay008-9",
-      "n": "Blusa de Manga Larga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/29cbbf3791463ff10f83.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set",
-      "n": "Falda Noir · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/f07729a97b7712f6ce03.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-1",
-      "n": "Falda Noir · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/4b4fe0e6d9a68e060d4f.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-10",
-      "n": "Falda Noir · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/ce904f540e0f82c28b54.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-long-sleeve-top-skirt-set-11",
-      "n": "Falda Noir · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/d033b4de9e75aae876b8.jpg",
-      "c": "mujer/falda",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-2",
-      "n": "Falda Noir · Blanco",
+      "n": "Conjunto de Top y Falda · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/bc3414d8dda055c7c64d.jpg",
       "c": "mujer/falda",
@@ -667,7 +568,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-3",
-      "n": "Falda Noir · Blanco",
+      "n": "Conjunto de Top y Falda · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/e26ad3deebe5d5f26da4.jpg",
       "c": "mujer/falda",
@@ -676,7 +577,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-4",
-      "n": "Falda Noir · Blanco",
+      "n": "Conjunto de Top y Falda · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/accf7fabd6a0dd629a6a.jpg",
       "c": "mujer/falda",
@@ -685,7 +586,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-5",
-      "n": "Falda Noir · Blanco",
+      "n": "Conjunto de Top y Falda · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/9e31a9f9c304cb458225.jpg",
       "c": "mujer/falda",
@@ -694,7 +595,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-6",
-      "n": "Falda Noir · Blanco",
+      "n": "Conjunto de Top y Falda · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/52386d4c531006adc53b.jpg",
       "c": "mujer/falda",
@@ -703,7 +604,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-7",
-      "n": "Falda Noir · Blanco",
+      "n": "Conjunto de Top y Falda · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/c8d68a898e4c86af4adb.jpg",
       "c": "mujer/falda",
@@ -712,7 +613,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-8",
-      "n": "Falda Noir · Blanco",
+      "n": "Conjunto de Top y Falda · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/97cd573fc8392c1b2b85.jpg",
       "c": "mujer/falda",
@@ -721,7 +622,7 @@
     },
     {
       "id": "interestprint-design-womens-long-sleeve-top-skirt-set-9",
-      "n": "Falda Noir · Blanco",
+      "n": "Conjunto de Top y Falda · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/bc4579958121d80c90ca.jpg",
       "c": "mujer/falda",
@@ -2636,22 +2537,16 @@
     "Printify: 83 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
     "⏱ lectura de proveedores: 15 s",
-    "Productos en catálogo: 2534 · a la vista: 2217 · archivados: 101",
+    "Productos en catálogo: 2534 · a la vista: 2288 · archivados: 101",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 2166 piezas",
     "⏱ ventas, visitas y cupones: 4 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con interestprint-design-all-over-print-midi-skirt-2: ",
-    "IA: fallo con shopify-conjunto-de-dos-piezas-de-camiseta-de-manga-corta-daz-y-falda-midi-daz-de-gran-tamano-y-peso-ligero-para-mujer-6: ",
-    "IA: fallo con interestprint-design-womens-long-sleeve-blouse-ay008-5: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con interestprint-design-womens-long-sleeve-blouse-ay008-6: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: fallo con interestprint-design-womens-long-sleeve-blouse-ay008-7: gemini-flash-latest: The read operation timed out",
-    "IA: fallo con interestprint-design-womens-long-sleeve-blouse-ay008-8: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
-    "IA: tiempo de esta hora agotado; sigo en la próxima.",
-    "IA: 71 productos revisados (fotos, guía de tallas y textos) · quedan 370",
-    "⏱ revisión con IA: 1270 s",
-    "⏱ vigilante: 224 s",
+    "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
+    "IA: 11 productos revisados (fotos, guía de tallas y textos) · quedan 359",
+    "⏱ revisión con IA: 364 s",
+    "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9127 EUR",
