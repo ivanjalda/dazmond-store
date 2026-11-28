@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T04:57:17Z",
+  "updated": "2026-11-28T05:42:07Z",
   "products": [
     {
       "id": "printify-6b06675510baa70da607308a",
@@ -1400,7 +1400,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Quiet Power Crewneck Black DAZMOND & Co. — Quiet Power. Made to order.",
+      "source_text": "Quiet Power Crewneck crewneck Black DAZMOND & Co. — Quiet Power. Made to order.",
       "name_es": "Sudadera Quiet Power",
       "name_en": "Quiet Power Crewneck",
       "desc_es": "La silueta redefine el concepto del lujo contemporáneo a través de una elegancia sobria y decidida. Confeccionada con precisión milimétrica, esta pieza encarna la fusión perfecta entre la comodidad absoluta y una presencia magnética. El diseño minimalista en tono negro profundo se realza con detalles sutiles que transmiten autoridad y sofisticación discreta. Cada prenda se elabora meticulosamente bajo pedido para garantizar exclusividad y perfección absoluta. Disponible con envío a todo el mundo.",
@@ -1413,7 +1413,11 @@
         "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/98502/quiet-power-crewneck.jpg?camera_label=front",
         "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/98503/quiet-power-crewneck.jpg?camera_label=back",
         "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/100648/quiet-power-crewneck.jpg?camera_label=folded",
-        "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/128101/quiet-power-crewneck.jpg?camera_label=folded-2"
+        "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/128101/quiet-power-crewneck.jpg?camera_label=folded-2",
+        "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/128102/quiet-power-crewneck.jpg?camera_label=lifestyle-2",
+        "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/128103/quiet-power-crewneck.jpg?camera_label=lifestyle-3",
+        "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/98504/quiet-power-crewneck.jpg?camera_label=person-1",
+        "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/98505/quiet-power-crewneck.jpg?camera_label=person-2"
       ],
       "images_model": [
         "https://images-api.printify.com/mockup/6b0a237acc80e1f59c065604/25459/128102/quiet-power-crewneck.jpg?camera_label=lifestyle-2",
@@ -1516,7 +1520,8 @@
       "details_es": "· Made to order\n· Worldwide shipping",
       "details_en": "· Made to order\n· Worldwide shipping",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b0a2366527d73062d024da8",
@@ -1541,7 +1546,7 @@
       ],
       "needs_review": false,
       "created": "2026-11-28",
-      "material": "",
+      "material": "Jersey",
       "color": "Black",
       "shop_category": "",
       "raw_images": [
@@ -1581,7 +1586,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Essential Logo Ii Jersey Tee Black DAZMOND & Co. — Essential Logo Ii. Made to order.",
+      "source_text": "Essential Logo Ii Jersey Tee t-shirt Black Jersey DAZMOND & Co. — Essential Logo Ii. Made to order.",
       "name_es": "Camiseta Essential Logo II",
       "name_en": "Essential Logo II Jersey Tee",
       "desc_es": "Elegancia sobria definida por la precisión. La camiseta Essential Logo II está confeccionada en suave punto jersey negro, ofreciendo una caída impecable y una presencia serena. El pecho luce la insignia emblemática de DAZMOND en sutil contraste dorado. Diseñada con líneas depuradas y un corte contemporáneo, esta pieza equilibra la distinción atemporal con la versatilidad diaria. Un elemento fundamental concebido para un guardarropa refinado.",
@@ -1707,7 +1712,8 @@
       "details_es": "· Tejido de punto jersey\n· Cuello redondo clásico\n· Manga corta\n· Confección bajo pedido\n· Envío a todo el mundo",
       "details_en": "· Jersey fabric\n· Classic crew neck\n· Short sleeves\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b0a235a527d73062d024d93",
@@ -1833,7 +1839,8 @@
       "stripe_link_id": "plink_1UgZsYLJVU4oTPuXkhGfEWKL",
       "stripe_price_cents": 2899,
       "stripe_site": "https://dazmond.com",
-      "page": true
+      "page": true,
+      "ai_fail": 1
     },
     {
       "id": "printify-6b0a2374cc80e1f59c0655f7",
