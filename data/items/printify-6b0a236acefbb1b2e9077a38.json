@@ -1,16 +1,28 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
  "ai_priority": true,
+ "ai_type": "Polo",
+ "ai_ver": 2,
+ "art_note": "Flat vector-like technical illustrations lack the depth, texture, and sophisticated lighting required for luxury e-commerce presentation.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/polos",
-  "mujer/polo"
+  "hombre/polos"
  ],
  "cg": "printify-6b0a236acefbb1b2e9077a38",
  "color": "Black",
  "created": "2026-11-28",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Defined by clean lines and an imposing presence. This essential logo ii polo reinterprets the contemporary wardrobe with absolute precision. Crafted to order to ensure absolute exclusivity. Its structured silhouette delivers supreme comfort and timeless versatility. An essential piece of refined design that transcends fleeting trends. Available exclusively through worldwide shipping.",
+ "desc_es": "Definido por líneas limpias y una presencia imponente. Este polo essential logo ii reinterpreta el armario contemporáneo con precisión milimétrica. Confeccionado bajo pedido para asegurar una exclusividad absoluta. Su silueta estructurada ofrece un confort supremo y una versatilidad intemporal. Una pieza esencial de diseño depurado que trasciende las tendencias pasajeras. Disponible exclusivamente a través de envío mundial.",
+ "details_en": "· Made to order exclusively.\n· Worldwide shipping available.",
+ "details_es": "· Hecho a pedido exclusivamente.\n· Envío mundial disponible.",
  "display_images": [
   "https://images-api.printify.com/mockup/6b0a236acefbb1b2e9077a38/403971/147924/essential-logo-ii-polo.jpg?camera_label=left-chest",
   "https://images-api.printify.com/mockup/6b0a236acefbb1b2e9077a38/403971/147926/essential-logo-ii-polo.jpg?camera_label=right-chest",
@@ -30,9 +42,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Logo Polo · Black",
- "name_es": "Polo Logo · Negro",
+ "name_en": "Essential Logo II Polo",
+ "name_es": "Polo Esencial Logo II",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 52.99,
  "rank": 6,

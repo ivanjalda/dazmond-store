@@ -65,8 +65,8 @@
     },
     {
       "id": "printify-6b0a236caec9e5ff69044e4b",
-      "name_es": "Sudadera Logo · Negro",
-      "name_en": "Logo Sweatshirt · Black",
+      "name_es": "Sudadera Essential Logo II",
+      "name_en": "Essential Logo II Hoodie",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -81,12 +81,13 @@
       "fam": "essential-logo-ii",
       "cg": "printify-6b0a236caec9e5ff69044e4b",
       "color": "Black",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b0a236caec9e5ff69044e4b/32920/98424/essential-logo-ii-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0a23775345eefc050c934d",
-      "name_es": "Sudadera Quiet Power · Negro",
-      "name_en": "Quiet Power Sweatshirt · Black",
+      "name_es": "Sudadera Quiet Power",
+      "name_en": "Quiet Power Hoodie",
       "price_usd": 46.99,
       "badge": "new",
       "categories": [
@@ -101,17 +102,17 @@
       "fam": "quiet-power-hoodie",
       "cg": "printify-6b0a23775345eefc050c934d",
       "color": "Black",
+      "art_score": 6,
       "img": "https://images-api.printify.com/mockup/6b0a23775345eefc050c934d/32920/98424/quiet-power-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0a236acefbb1b2e9077a38",
-      "name_es": "Polo Logo · Negro",
-      "name_en": "Logo Polo · Black",
+      "name_es": "Polo Esencial Logo II",
+      "name_en": "Essential Logo II Polo",
       "price_usd": 52.99,
       "badge": "new",
       "categories": [
-        "hombre/polos",
-        "mujer/polo"
+        "hombre/polos"
       ],
       "available": true,
       "rank": 6,
@@ -121,6 +122,7 @@
       "fam": "essential-logo-ii",
       "cg": "printify-6b0a236acefbb1b2e9077a38",
       "color": "Black",
+      "art_score": 3,
       "img": "https://images-api.printify.com/mockup/6b0a236acefbb1b2e9077a38/403971/147924/essential-logo-ii-polo.jpg?camera_label=left-chest"
     },
     {
@@ -485,6 +487,26 @@
       "img": "https://images-api.printify.com/mockup/6b08d1fb08b8102972074efc/32920/98424/signature-logo-hoodie.jpg?camera_label=front"
     },
     {
+      "id": "printify-6b06674fd3c2aadbe1007e0e",
+      "name_es": "Bata Estilo Kimono Art",
+      "name_en": "Art Kimono Style Robe",
+      "price_usd": 56.99,
+      "badge": "new",
+      "categories": [
+        "mujer/batas-pijamas"
+      ],
+      "available": true,
+      "rank": 25,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "6b06674fd3c2aadbe1007e0e",
+      "fam": "bata-tipo-kimono",
+      "cg": "printify-6b06674fd3c2aadbe1007e0e",
+      "color": "White",
+      "art_score": 5,
+      "img": "https://images-api.printify.com/mockup/6b06674fd3c2aadbe1007e0e/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
+    },
+    {
       "id": "printify-6b0667526db425f6b50b967a-black",
       "name_es": "Bata Kimono Art · Negro",
       "name_en": "Art Kimono Robe · Black",
@@ -495,7 +517,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 25,
+      "rank": 26,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b0667526db425f6b50b967a-black",
@@ -515,7 +537,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 26,
+      "rank": 27,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1dfedc552ae3508a8e1",
@@ -535,7 +557,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 27,
+      "rank": 28,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1ecf7ed4c973b05978a",
@@ -556,7 +578,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 28,
+      "rank": 29,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1e9edc552ae3508a8f0",
@@ -577,7 +599,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 29,
+      "rank": 30,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08d1fe55d595d88e0a3681",
@@ -597,7 +619,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 30,
+      "rank": 31,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b066740eca3203e09098ed4",
@@ -617,7 +639,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 31,
+      "rank": 32,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b066744255f2587670ee018",
@@ -626,26 +648,6 @@
       "color": "White",
       "art_score": 3,
       "img": "https://images-api.printify.com/mockup/6b066744255f2587670ee018/75685/24428/conjunto-de-pijama-corto-daz-art-para-mujer.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b06674fd3c2aadbe1007e0e",
-      "name_es": "Bata Estilo Kimono Art",
-      "name_en": "Art Kimono Style Robe",
-      "price_usd": 57.99,
-      "badge": "new",
-      "categories": [
-        "mujer/batas-pijamas"
-      ],
-      "available": true,
-      "rank": 32,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "6b06674fd3c2aadbe1007e0e",
-      "fam": "bata-tipo-kimono",
-      "cg": "printify-6b06674fd3c2aadbe1007e0e",
-      "color": "White",
-      "art_score": 5,
-      "img": "https://images-api.printify.com/mockup/6b06674fd3c2aadbe1007e0e/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08d1f7c87e8df47b0948ca",
@@ -1355,6 +1357,47 @@
       "img": "https://images-api.printify.com/mockup/6b06756c10baa70da60745ec/98948/88877/copa-de-vino-sin-tallo-1175-oz.jpg?camera_label=front"
     },
     {
+      "id": "printify-6b0667526db425f6b50b967a-white",
+      "name_es": "Bata Kimono Art · Blanco",
+      "name_en": "Art Kimono Robe · White",
+      "price_usd": 56.99,
+      "badge": "new",
+      "categories": [
+        "hombre/albornoz-pijama",
+        "mujer/batas-pijamas"
+      ],
+      "available": true,
+      "rank": 67,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "6b0667526db425f6b50b967a-white",
+      "fam": "bata-tipo-kimono",
+      "cg": "printify-6b0667526db425f6b50b967a",
+      "color": "White",
+      "art_score": 6,
+      "img": "https://images-api.printify.com/mockup/6b0667526db425f6b50b967a/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b066a5b94a3ebd30609c32d",
+      "name_es": "Kimono DAZ Luxury Art",
+      "name_en": "DAZ Luxury Art Kimono",
+      "price_usd": 56.99,
+      "badge": "new",
+      "categories": [
+        "mujer/batas-pijamas"
+      ],
+      "available": true,
+      "rank": 68,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "6b066a5b94a3ebd30609c32d",
+      "fam": "bata-tipo-kimono",
+      "cg": "printify-6b066a5b94a3ebd30609c32d",
+      "color": "White",
+      "art_score": 4,
+      "img": "https://images-api.printify.com/mockup/6b066a5b94a3ebd30609c32d/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
+    },
+    {
       "id": "printify-6b066a5d62f038c4f00b0038-black",
       "name_es": "Bata Kimono Art · Negro",
       "name_en": "Art Kimono Robe · Black",
@@ -1364,7 +1407,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 67,
+      "rank": 69,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b066a5d62f038c4f00b0038-black",
@@ -1373,6 +1416,27 @@
       "color": "Black",
       "art_score": 4,
       "img": "https://images-api.printify.com/mockup/6b066a5d62f038c4f00b0038/77571/35866/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b066a5d62f038c4f00b0038-white",
+      "name_es": "Bata Kimono Art · Blanco",
+      "name_en": "Art Kimono Robe · White",
+      "price_usd": 56.99,
+      "badge": "new",
+      "categories": [
+        "hombre/albornoz-pijama",
+        "mujer/batas-pijamas"
+      ],
+      "available": true,
+      "rank": 70,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "6b066a5d62f038c4f00b0038-white",
+      "fam": "bata-tipo-kimono",
+      "cg": "printify-6b066a5d62f038c4f00b0038",
+      "color": "White",
+      "art_score": 8,
+      "img": "https://images-api.printify.com/mockup/6b066a5d62f038c4f00b0038/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
     },
     {
       "id": "printify-6b06673310baa70da6073058",
@@ -1384,7 +1448,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 68,
+      "rank": 71,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b06673310baa70da6073058",
@@ -1404,7 +1468,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 69,
+      "rank": 72,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b066a43eca3203e09099316",
@@ -1424,7 +1488,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 70,
+      "rank": 73,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b06756610baa70da60745e3",
@@ -1444,7 +1508,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 71,
+      "rank": 74,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b06756110baa70da60745da",
@@ -1464,7 +1528,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 72,
+      "rank": 75,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b06674262f038c4f00afba4",
@@ -1484,7 +1548,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 73,
+      "rank": 76,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b0667479a7ef0f8180ceea2",
@@ -1504,7 +1568,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 74,
+      "rank": 77,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b0667499a7ef0f8180ceea5",
@@ -1524,7 +1588,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 75,
+      "rank": 78,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b06674c255f2587670ee022",
@@ -1533,27 +1597,6 @@
       "color": "White",
       "art_score": 4,
       "img": "https://images-api.printify.com/mockup/6b06674c255f2587670ee022/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b0667526db425f6b50b967a-white",
-      "name_es": "Bata Kimono Art · Blanco",
-      "name_en": "Art Kimono Robe · White",
-      "price_usd": 57.99,
-      "badge": "new",
-      "categories": [
-        "hombre/albornoz-pijama",
-        "mujer/batas-pijamas"
-      ],
-      "available": true,
-      "rank": 76,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "6b0667526db425f6b50b967a-white",
-      "fam": "bata-tipo-kimono",
-      "cg": "printify-6b0667526db425f6b50b967a",
-      "color": "White",
-      "art_score": 6,
-      "img": "https://images-api.printify.com/mockup/6b0667526db425f6b50b967a/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
     },
     {
       "id": "printify-6b066a4d58dd70255e0d3563",
@@ -1565,7 +1608,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 77,
+      "rank": 79,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b066a4d58dd70255e0d3563",
@@ -1585,7 +1628,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 78,
+      "rank": 80,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b066a4f71915c76bb02aa5e",
@@ -1605,7 +1648,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 79,
+      "rank": 81,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b066a51255f2587670ee398",
@@ -1625,7 +1668,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 80,
+      "rank": 82,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b066a54eca3203e09099343",
@@ -1645,7 +1688,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 81,
+      "rank": 83,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b066a5662f038c4f00b002f",
@@ -1665,7 +1708,7 @@
         "mujer/batas-pijamas"
       ],
       "available": true,
-      "rank": 82,
+      "rank": 84,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "6b066a5862f038c4f00b0031",
@@ -1674,47 +1717,6 @@
       "color": "White",
       "art_score": 4,
       "img": "https://images-api.printify.com/mockup/6b066a5862f038c4f00b0031/75685/24428/conjunto-de-pijama-corto-daz-para-mujer.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b066a5b94a3ebd30609c32d",
-      "name_es": "Kimono DAZ Luxury Art",
-      "name_en": "DAZ Luxury Art Kimono",
-      "price_usd": 57.99,
-      "badge": "new",
-      "categories": [
-        "mujer/batas-pijamas"
-      ],
-      "available": true,
-      "rank": 83,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "6b066a5b94a3ebd30609c32d",
-      "fam": "bata-tipo-kimono",
-      "cg": "printify-6b066a5b94a3ebd30609c32d",
-      "color": "White",
-      "art_score": 4,
-      "img": "https://images-api.printify.com/mockup/6b066a5b94a3ebd30609c32d/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b066a5d62f038c4f00b0038-white",
-      "name_es": "Bata Kimono Art · Blanco",
-      "name_en": "Art Kimono Robe · White",
-      "price_usd": 57.99,
-      "badge": "new",
-      "categories": [
-        "hombre/albornoz-pijama",
-        "mujer/batas-pijamas"
-      ],
-      "available": true,
-      "rank": 84,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "6b066a5d62f038c4f00b0038-white",
-      "fam": "bata-tipo-kimono",
-      "cg": "printify-6b066a5d62f038c4f00b0038",
-      "color": "White",
-      "art_score": 8,
-      "img": "https://images-api.printify.com/mockup/6b066a5d62f038c4f00b0038/77572/29522/bata-tipo-kimono-daz-luxury-art-de-manga-larga.jpg?camera_label=front"
     },
     {
       "id": "printify-6b06756810baa70da60745e6",
