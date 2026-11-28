@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-28 08:42 UTC",
+  "updated": "2026-11-28 09:41 UTC",
   "totals": {
     "catalogo": 2534,
-    "a_la_vista": 2080,
-    "disenos_a_la_vista": 871,
-    "ocultos": 454,
-    "ia_revisados": 2044,
-    "ia_pendientes": 426,
-    "con_boton_de_pago": 2080,
+    "a_la_vista": 2101,
+    "disenos_a_la_vista": 877,
+    "ocultos": 433,
+    "ia_revisados": 2137,
+    "ia_pendientes": 333,
+    "con_boton_de_pago": 2101,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
@@ -20,7 +20,7 @@
     "Vigilante": 4,
     "Ya no está en el proveedor": 100,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 349
+    "Borrador": 328
   },
   "suppliers": {
     "Printify": {
@@ -36,8 +36,8 @@
       "ocultos": 14
     },
     "InterestPrint": {
-      "visibles": 117,
-      "ocultos": 340
+      "visibles": 138,
+      "ocultos": 319
     }
   },
   "guard": [
@@ -197,9 +197,14 @@
     },
     {
       "date": "2026-11-28",
-      "n": 1,
+      "n": 6,
       "fixes": [
-        "Sujetador sin costuras esencial: oculto: repetido de shopify-design-womens-boxer-briefmade-in-usa"
+        "Sujetador sin costuras esencial: oculto: repetido de shopify-design-womens-boxer-briefmade-in-usa",
+        "Mocasín Swift Glide de Lona: inspección IA: era sneakers (unisex) → calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
+        "Zapatilla Slip-On Grace Glide: inspección IA: era sneakers (unisex) → calzado-hombre/zapatillas-hombre, calzado-mujer/zapatillas",
+        "Pantalón corto de felpa Lounge Elite · Negro: inspección IA: era shorts (men) → hombre/pantalones-cortos",
+        "Pantalón corto de felpa Lounge Elite · Heather Grey: inspección IA: era shorts (men) → hombre/pantalones-cortos",
+        "Pantalón corto de felpa Lounge Elite · Blanco: inspección IA: era shorts (men) → hombre/pantalones-cortos"
       ]
     }
   ],
@@ -552,197 +557,8 @@
       "why": "No es un producto (venía de Shopify)"
     },
     {
-      "id": "interestprint-design-womens-all-over-print-raglan-t-shirt",
-      "n": "Camiseta Raglan · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/5eea21cf2b967073a5a5.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-all-over-print-raglan-t-shirt-1",
-      "n": "Camiseta Raglan · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/d5f7a610512837271e4f.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-all-over-print-raglan-t-shirt-2",
-      "n": "Camiseta Raglan · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/deb5f731a1326ea35816.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 21.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-square-neck-sleeveless-top",
-      "n": "Camiseta Square Sleeveless · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/50943ff18b081849e881.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-square-neck-sleeveless-top-1",
-      "n": "Camiseta Square Sleeveless · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/5af5082314f0c17b811d.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-flare-sleeve-top",
-      "n": "Camiseta Flare · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/76984c18d1e622ef7283.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-flare-sleeve-top-1",
-      "n": "Camiseta Flare · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/c77b5c8c88ab1e10bfcc.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-flare-sleeve-top-2",
-      "n": "Camiseta Flare · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/883cf080084ad7673c5f.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-flare-sleeve-top-3",
-      "n": "Camiseta Flare · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/5e43e93f92b6eb965471.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-v-neck-lace-trim-camisole",
-      "n": "Camiseta Lace Trim Camisole · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/87ece0757ee544f7d48a.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-v-neck-lace-trim-camisole-1",
-      "n": "Camiseta Lace Trim Camisole · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/a6e19e3dccc5abaf3ee8.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-v-neck-lace-trim-camisole-2",
-      "n": "Camiseta Lace Trim Camisole · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/cefefdb031bed4967e12.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-v-neck-lace-trim-camisole-3",
-      "n": "Camiseta Lace Trim Camisole · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/73c2a158a7a96b6fe571.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-crop-tank-top",
-      "n": "Camiseta Crop · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/8c5c0754d90e1a4f9d4e.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-crop-tank-top-1",
-      "n": "Camiseta Crop · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/1bae6e7a17111400c1ee.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-crop-tank-top-2",
-      "n": "Camiseta Crop · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/8b108fd57d974a2871aa.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-crop-tank-top-3",
-      "n": "Camiseta Crop · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/a19363fa7bd95ba14699.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-crop-tank-top-4",
-      "n": "Camiseta Crop · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/3edc9f1df5a34a502156.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-crop-tank-top-5",
-      "n": "Camiseta Crop · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/f3c772c75096e1cda053.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-crop-tank-top-6",
-      "n": "Camiseta Crop · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/64f127da7828f627b797.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-women-s-lightweight-ruffle-shoulder-sweatshirt",
-      "n": "Sudadera Ruffle · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/06a3f8e1b7515fd32753.jpg",
-      "c": "mujer/chaqueta-sudadera-sueter",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-women-s-lightweight-ruffle-shoulder-sweatshirt-1",
-      "n": "Sudadera Ruffle · Blanco",
+      "n": "Sudadera Ruffle con Hombros Volados · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/eddd0c1bfba773b1270b.jpg",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -751,7 +567,7 @@
     },
     {
       "id": "interestprint-design-women-s-lightweight-ruffle-shoulder-sweatshirt-2",
-      "n": "Sudadera Ruffle · Blanco",
+      "n": "Sudadera Ruffle con Hombros Volados · Blanco",
       "s": "InterestPrint",
       "img": "assets/products/shop/c939dd54e65a93f3b1a0.jpg",
       "c": "mujer/chaqueta-sudadera-sueter",
@@ -4470,15 +4286,18 @@
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 2166 piezas",
-    "⏱ ventas, visitas y cupones: 4 s",
+    "⏱ ventas, visitas y cupones: 2 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: fallo con shopify-abstract-art-jpg-mens-blazer-model-h64-2: ",
     "IA: fallo con shopify-abstract-art-jpg-mens-blazer-model-h64-7: ",
+    "IA: fallo con shopify-abstract-rainbow-art-jpg-mens-blazer-model-h64: gemini-flash-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually te",
+    "IA: fallo con shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-10: ",
+    "IA: fallo con shopify-un-logo-de-diamante-en-negro-y-dorado-lujo-arte-simple-complejo-removebg-preview-mens-blazer-model-h64-8: ",
+    "IA: fallo con shopify-watercolor-pineapple-jpg-mens-blazer-model-h64: gemini-flash-latest: The read operation timed out",
     "IA: tiempo de esta hora agotado; sigo en la próxima.",
-    "IA: 117 productos revisados (fotos, guía de tallas y textos) · quedan 651",
-    "⏱ revisión con IA: 1206 s",
-    "Vigilante: 1 correcciones en esta hora",
-    "⏱ vigilante: 95 s",
+    "IA: 93 productos revisados (fotos, guía de tallas y textos) · quedan 558",
+    "⏱ revisión con IA: 1209 s",
+    "Vigilante: 5 correcciones en esta hora",
+    "⏱ vigilante: 110 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9127 EUR",

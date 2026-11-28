@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "EVA + TPU",
+ "ai_type": "sneakers",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain white background, though standard e-commerce renders lack high editorial luxury atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-zapatillas-daz-luxury-con-amortiguacion-atmosferica-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "A new running sneaker crafted from a soft and breathable EVA + TPU outsole. The new version of the air chamber model steps into the future. The custom breathable mesh upper ensures maximum comfort for the foot. The unique color combination and wavy texture will fascinate every girl. The loop eyelet look is perfect for a casual style and traveling to training. Made-to-order pieces with worldwide shipping available.",
+ "desc_es": "Una nueva zapatilla para correr hecha de una suela exterior de EVA + TPU suave y transpirable. La nueva versión del modelo con cámara de aire avanza hacia el futuro. La parte superior de malla transpirable a medida garantiza la máxima comodidad para el pie. La combinación de colores única y la textura ondulada fascinarán a todas las chicas. El aspecto de ojales de bucle es perfecto para un estilo informal y para viajar a entrenar. Piezas hechas a pedido con envío mundial disponible.",
+ "details_en": "· EVA and TPU outsole\n· Breathable mesh upper\n· Lace-up closure with loop eyelets\n· Hand wash or gently by machine, air dry naturally\n· Made-to-order piece. Worldwide shipping available.",
+ "details_es": "· Suela exterior de EVA y TPU\n· Parte superior de malla transpirable\n· Cierre con cordones y ojales de bucle\n· Lavar a mano o suavemente a máquina, secar al aire de forma natural\n· Pieza hecha a pedido. Envío mundial disponible.",
  "display_images": [
   "assets/products/shop/39555df79cc8ef0dd1de.jpg",
   "assets/products/shop/cd47d228db9e6dec94e7.jpg",
@@ -18,9 +32,7 @@
   "assets/products/shop/23f00b2644b0237c68df.jpg",
   "assets/products/shop/ef3f938d92285979666f.jpg",
   "assets/products/shop/ade5c8f086359861731d.jpg",
-  "assets/products/shop/2c52046cc5cab77476d4.jpg",
-  "assets/products/shop/93c47e7c898709839271.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/SF_S41-size-chart.jpg"
+  "assets/products/shop/93c47e7c898709839271.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-luxury-amortiguacion",
@@ -35,9 +47,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Zapatillas Daz Amortiguación Sneakers",
- "name_es": "Zapatillas Zapatillas Daz Amortiguación",
+ "name_en": "Atmospheric Cushioning Sneakers",
+ "name_es": "Zapatillas Atmospheric Cushioning",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 227.99,
  "rank": 2063,

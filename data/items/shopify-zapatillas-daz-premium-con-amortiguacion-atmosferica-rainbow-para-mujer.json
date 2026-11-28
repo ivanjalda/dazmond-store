@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "EVA + TPU",
+ "ai_type": "sneakers",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with consistent lighting, though standard e-commerce rendering lowers the overall luxury impact.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-zapatillas-daz-premium-con-amortiguacion-atmosferica-rainbow-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Elevate your everyday wardrobe with these sneakers crafted with an EVA and TPU outsole. The custom breathable mesh upper provides exceptional comfort for daily wear and travel. The silhouette features a futuristic air chamber and a distinctive wavy texture. Each pair is made to order and available with worldwide shipping.",
+ "desc_es": "Eleve su estilo cotidiano con estas zapatillas diseñadas con una suela exterior de EVA y TPU. La parte superior de malla transpirable a medida ofrece una comodidad excepcional para el uso diario y los viajes. La silueta incorpora una cámara de aire futurista y una distintiva textura ondulada. Cada par se elabora bajo pedido y cuenta con envío mundial.",
+ "details_en": "· EVA and TPU outsole\n· Breathable mesh upper\n· Air chamber cushioning\n· Laced closure\n· Hand wash or gentle machine wash, air dry naturally\n· Made-to-order pieces with worldwide shipping available",
+ "details_es": "· Suela exterior de EVA y TPU\n· Parte superior de malla transpirable\n· Amortiguación con cámara de aire\n· Cierre de cordones\n· Lavar a mano o suavemente a máquina, secar al aire de forma natural\n· Piezas confeccionadas bajo pedido con envío mundial disponible",
  "display_images": [
   "assets/products/shop/a6ab2a2429752b08b63f.jpg",
   "assets/products/shop/b0bbb6cbe3d832f6ef54.jpg",
@@ -18,9 +32,7 @@
   "assets/products/shop/7d983438eea0db8b815d.jpg",
   "assets/products/shop/ad4a506bf534449c2a45.jpg",
   "assets/products/shop/35107ed1b8e58a38cccc.jpg",
-  "assets/products/shop/7d7eac53f3adba160f79.jpg",
-  "assets/products/shop/325c4328779ccca6ab25.jpg",
-  "https://wow-assets-us.oss-us-east-1.aliyuncs.com/desc/SF_S41-size-chart.jpg"
+  "assets/products/shop/325c4328779ccca6ab25.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-premium-amortiguacion",
@@ -35,9 +47,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Zapatillas Daz Amortiguación Sneakers",
- "name_es": "Zapatillas Zapatillas Daz Amortiguación",
+ "name_en": "Rainbow Atmospheric Cushioning Sneakers",
+ "name_es": "Zapatillas Rainbow de Amortiguación Atmosférica",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 59.9,
  "rank": 2067,

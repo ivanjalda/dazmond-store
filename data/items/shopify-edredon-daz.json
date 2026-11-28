@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% polyester",
+ "ai_type": "comforter",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle and studio photography capturing rich textures and ambient luxury lighting.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-deep-sleep-canvas-comforter",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation in canvas, designed to take you from day to night.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co. en lona, diseñada para acompañarte del día a la noche.",
+ "desc_en": "Conceived to provide deep and relaxing sleep. Crafted from 100% high-quality polyester, it offers a fluffy and warm texture without the excessive weight of traditional blankets. Its lightweight material allows optimal breathability while maintaining the ideal temperature throughout the night. The design features a high-definition art print on one side, while the solid glossy white reverse provides a clean and sophisticated contrast. Made to order with worldwide shipping available.",
+ "desc_es": "Concebido para proporcionar un sueño profundo y relajante. Fabricado al 100% con poliéster de alta calidad, ofrece una textura esponjosa y cálida sin el peso excesivo de las mantas tradicionales. Su material ligero permite una transpirabilidad óptima mientras mantiene la temperatura ideal durante toda la noche. El diseño presenta una impresión artística de alta definición en una sola cara, mientras que el dorso en blanco sólido brillante aporta un contraste limpio y sofisticado. Hecho a medida bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 100% soft and fluffy touch polyester\n· Lightweight material with high thermal performance\n· One-sided art print with glossy white reverse\n· Preconstructed item with a slight artisanal variation of +/- 3 inches\n· Made to order in the United States\n· Worldwide shipping available",
+ "details_es": "· 100% poliéster de tacto suave y esponjoso\n· Material ligero de alto rendimiento térmico\n· Impresión artística a una cara con reverso blanco brillante\n· Artículo preconstruido con ligera variación artesanal de +/- 3 pulgadas\n· Hecho a pedido en los Estados Unidos\n· Disponible envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/c370dd1baffc4b529b63.jpg",
   "assets/products/shop/07f09267200d8653103d.jpg",
@@ -19,9 +33,7 @@
   "assets/products/shop/5c78b75f75bb25dc8ce2.jpg",
   "assets/products/shop/2a906ee68b03b45fd7e3.jpg",
   "assets/products/shop/ab710faaa515e6a1ef7c.jpg",
-  "assets/products/shop/ddb35068944181f66152.jpg",
-  "assets/products/shop/010a8f482f4aa2509d39.jpg",
-  "assets/products/shop/120b1c4b9b3cc1ae7336.jpg"
+  "assets/products/shop/ddb35068944181f66152.jpg"
  ],
  "draft": false,
  "fam": "deep-sleep-canvas",
@@ -32,9 +44,10 @@
   "printify-6b0a23625345eefc050c9328"
  ],
  "material": "",
- "name_en": "Deep Sleep Comforter Art Print",
- "name_es": "Lámina Deep Sleep Comforter",
+ "name_en": "Deep Sleep Canvas Comforter",
+ "name_es": "Edredón Deep Sleep Canvas",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 107.99,
  "rank": 1999,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Marfil",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% algodón",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio flat-lays on neutral background, conveying a refined minimalist aesthetic.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,11 @@
  "cg": "t-camiseta-dazmond-pure-con-bolsillo-para-hombre",
  "color": "Marfil",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Essential luxury is redefined through textile architecture. Crafted from ultra-soft ring-spun cotton, this piece features a substantial weight that delivers a structured drape. The design is finished with a left chest pocket featuring a subtle checked detail and a twill label. Each piece is crafted exclusively on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "El lujo esencial se redefine a través de la arquitectura textil. Confeccionada en algodón hilado en anillos de tacto ultra suave, esta prenda presenta un peso sustancial que aporta una caída estructurada. Su diseño incluye un bolsillo izquierdo con un sutil detalle a cuadros y una etiqueta de sarga. Cada pieza se elabora exclusivamente bajo demanda para garantizar una exclusividad absoluta. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% cotton\n· Relaxed fit\n· Made-to-order",
+ "details_es": "· 100% algodón\n· Calce relajado\n· Confección bajo demanda",
  "display_images": [
-  "assets/products/shop/cd8427b45a86631f6ea1.jpg",
-  "assets/products/shop/cd8427b45a86631f6ea1.jpg",
-  "assets/products/shop/cd8427b45a86631f6ea1.jpg",
-  "assets/products/shop/cd8427b45a86631f6ea1.jpg",
-  "assets/products/shop/cd8427b45a86631f6ea1.jpg",
   "assets/products/shop/cd8427b45a86631f6ea1.jpg",
   "assets/products/shop/290fbe68ab9781c14b1a.jpg",
   "assets/products/shop/57c769abef7a9cfcf971.jpg",
@@ -37,9 +46,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Pure Bolsillo Tee · Marfil",
- "name_es": "Camiseta Pure Bolsillo · Marfil",
+ "name_en": "Signum Pocket T-Shirt · Marfil",
+ "name_es": "Camiseta Signum Pocket · Marfil",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
  "rank": 1894,
@@ -47,7 +57,53 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Width",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho",
+   "Longitud"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se indican en pulgadas.",
+  "rows": [
+   [
+    "S",
+    "18.25",
+    "26.62"
+   ],
+   [
+    "M",
+    "20.25",
+    "28.00"
+   ],
+   [
+    "L",
+    "22.00",
+    "29.37"
+   ],
+   [
+    "XL",
+    "24.00",
+    "30.75"
+   ],
+   [
+    "2XL",
+    "26.00",
+    "31.62"
+   ],
+   [
+    "3XL",
+    "27.75",
+    "32.50"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "S",

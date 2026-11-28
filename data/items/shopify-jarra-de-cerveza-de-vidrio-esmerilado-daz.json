@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Frosted",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Vidrio esmerilado",
+ "ai_type": "Beer Stein Glass",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting on dark marble surfaces elevates the frosted glass aesthetic.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-frosted-muse-beer-stein",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The DAZMOND Frosted Muse stein has been created for those seeking to elevate their hydration experience. With an ideal capacity of 16 oz, it is the perfect vessel to keep you well hydrated throughout the day, whether with an artisanal beer, a refreshing beverage, or iced tea. Its frosted glass construction offers exceptional durability and a visual appearance that immediately distinguishes itself from traditional glassware. Practicality is one of its strong points, being fully microwave and dishwasher safe.",
+ "desc_es": "La jarra DAZMOND Frosted Muse ha sido creada para quienes buscan elevar la experiencia de hidratacion. Con una capacidad ideal de 16 oz, es el recipiente perfecto para mantenerte bien hidratado durante el dia, ya sea con una cerveza artesanal, una bebida refrescante o un te helado. Su construccion en vidrio esmerilado ofrece una durabilidad excepcional y un aspecto visual que se distingue inmediatamente de la cristaleria tradicional. La practicidad es uno de sus puntos fuertes, siendo totalmente apta para microondas y lavavajillas.",
+ "details_en": "· 16 oz (0.473 l) capacity\n· Premium frosted glass material\n· Microwave safe\n· Dishwasher safe\n· Made-to-order piece with worldwide shipping available",
+ "details_es": "· Capacidad de 16 oz (0,473 l)\n· Material de vidrio esmerilado premium\n· Apta para microondas\n· Apta para lavavajillas\n· Pieza fabricada bajo demanda con envio mundial disponible",
  "display_images": [
   "assets/products/shop/16f6e3662602a5dca260.jpg",
   "assets/products/shop/053198c66604ac82fc59.jpg"
@@ -22,9 +36,10 @@
   "printify-6b0a23625345eefc050c9328"
  ],
  "material": "",
- "name_en": "Frosted Muse Beer Beer Mug",
- "name_es": "Jarra de Cerveza Frosted Muse Beer",
+ "name_en": "Frosted Muse Beer Stein",
+ "name_es": "Jarra de Cerveza Frosted Muse",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 37.99,
  "rank": 2000,

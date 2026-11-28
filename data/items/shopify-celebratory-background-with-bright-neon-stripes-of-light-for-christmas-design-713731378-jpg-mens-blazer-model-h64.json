@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% poliéster",
+ "ai_type": "blazer",
+ "ai_ver": 2,
+ "art_note": "Strong architectural lighting in the lifestyle shots elevates the mood, though studio product shots are standard e-commerce.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-blazer-daz-luxury-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "This piece redefines contemporary tailoring with a structured design and a magnetic presence. Crafted with attention to detail, it features clean lines and a regular fit silhouette that offers comfort without sacrificing sophistication. Its versatile design allows for seamless transitions between formal commitments and exclusive evenings. A bold style statement for the modern wardrobe. Available with worldwide shipping and made-to-order craftsmanship.",
+ "desc_es": "Esta pieza redefine la sastrería contemporánea con un diseño estructurado y una presencia magnética. Confeccionada con atención al detalle, presenta líneas limpias y una silueta de corte regular que ofrece comodidad sin sacrificar la sofisticación. Su diseño versátil permite transiciones fluidas entre compromisos formales y veladas exclusivas. Una declaración de estilo audaz para el guardarropa moderno. Disponible con envío a todo el mundo y confección bajo demanda.",
+ "details_en": "· Made of 100% polyester\n· Regular fit\n· Flat lapel collar\n· Long sleeves\n· Two front pockets\n· Made in USA\n· This product is made especially for you as soon as you place an order",
+ "details_es": "· Hecho de 100 % poliéster\n· Corte regular\n· Cuello de solapa plana\n· Manga larga\n· Dos bolsillos delanteros\n· Hecho en EE. UU.\n· Este producto está hecho especialmente para usted tan pronto como realiza un pedido",
  "display_images": [
   "assets/products/shop/1639c2aded1cb85dacd3.jpg",
   "assets/products/shop/9e628387bbb7a5eb8409.jpg",
@@ -16,8 +30,7 @@
   "assets/products/shop/9a1381bd0b4e207f4825.jpg",
   "assets/products/shop/8c1fd1353ffc6b9aad4f.jpg",
   "assets/products/shop/3d795a04fa9cc6426b98.jpg",
-  "assets/products/shop/56036f5a1314585df131.jpg",
-  "http://ipimg.interestprint.com/data/product/3589/info/image/20240704/09539EBDCA7B6C103D03B767D29A4071.jpg"
+  "assets/products/shop/56036f5a1314585df131.jpg"
  ],
  "draft": false,
  "fam": "blazer-luxury-hombre",
@@ -34,6 +47,7 @@
  "name_en": "DAZ Luxury Printed Blazer",
  "name_es": "Blazer Estampado de Lujo DAZ",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 46.99,
  "rank": 1897,
@@ -41,8 +55,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)",
+   "SLEEVE(C)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "ANCHO DE PECHO(B)",
+   "MANGA(C)"
+  ],
+  "notes_en": "Measurements are in inches. Use the table to determine your precise fit.",
+  "notes_es": "Las medidas están en pulgadas. Utilice la tabla para determinar su ajuste preciso.",
+  "rows": [
+   [
+    "XS",
+    "27.95",
+    "41.73",
+    "24.41"
+   ],
+   [
+    "S",
+    "28.74",
+    "43.31",
+    "25.00"
+   ],
+   [
+    "M",
+    "29.53",
+    "44.88",
+    "25.59"
+   ],
+   [
+    "L",
+    "30.31",
+    "47.24",
+    "26.18"
+   ],
+   [
+    "XL",
+    "31.10",
+    "49.61",
+    "26.77"
+   ],
+   [
+    "2XL",
+    "31.89",
+    "51.97",
+    "27.36"
+   ],
+   [
+    "3XL",
+    "32.68",
+    "54.33",
+    "27.95"
+   ],
+   [
+    "4XL",
+    "33.46",
+    "56.69",
+    "28.54"
+   ],
+   [
+    "5XL",
+    "34.25",
+    "59.06",
+    "29.13"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/3589/info/image/20240704/09539EBDCA7B6C103D03B767D29A4071.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

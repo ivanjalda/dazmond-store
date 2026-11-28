@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% poliéster",
+ "ai_type": "blazer",
+ "ai_ver": 2,
+ "art_note": "High-end cinematic campaign imagery set in private aviation environments, elevating the bold graphic print into a true luxury narrative.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-blazer-daz-luxury-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A bold statement of contemporary design. This blazer pairs precise tailoring with a distinctive graphic print in shades of blue. Its regular fit silhouette delivers a sophisticated and effortless presence. Crafted to stand out on any occasion, it brings a modern and daring elegance to the masculine wardrobe. Made to order and available with worldwide shipping.",
+ "desc_es": "Una declaración audaz de diseño contemporáneo. Este blazer combina una confección precisa con un distintivo estampado gráfico en tonos azules. Su silueta de corte regular ofrece una presencia sofisticada y sin esfuerzo. Diseñado para destacar en cualquier ocasión, aporta una elegancia moderna y audaz al guardarropa masculino. Hecho bajo pedido y disponible con envío mundial.",
+ "details_en": "· Made of 100% polyester, soft and comfortable.\n· Regular fit.\n· Flat lapel collar, long sleeves, and two pockets.\n· Made in USA.\n· Made especially to order.",
+ "details_es": "· Hecho de 100 % poliéster, suave y cómodo.\n· Corte regular.\n· Cuello de solapa plana, manga larga y dos bolsillos.\n· Fabricado en EEUU.\n· Hecho especialmente bajo pedido.",
  "display_images": [
   "assets/products/shop/a1e066df797f2eb5e4ea.jpg",
   "assets/products/shop/739ea2a7d83dfdbd1cf3.jpg",
@@ -16,8 +30,7 @@
   "assets/products/shop/0d1c2fb0eee47085f65b.jpg",
   "assets/products/shop/365030750841d4c85979.jpg",
   "assets/products/shop/4033dc04377baab9cba9.jpg",
-  "assets/products/shop/c48269afbe9750a47935.jpg",
-  "http://ipimg.interestprint.com/data/product/3589/info/image/20240704/09539EBDCA7B6C103D03B767D29A4071.jpg"
+  "assets/products/shop/c48269afbe9750a47935.jpg"
  ],
  "draft": false,
  "fam": "blazer-luxury-hombre",
@@ -34,6 +47,7 @@
  "name_en": "DAZ Luxury Printed Blazer",
  "name_es": "Blazer Estampado de Lujo DAZ",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 46.99,
  "rank": 1923,
@@ -41,8 +55,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Chest Width (B)",
+   "Sleeve (C)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Ancho de pecho (B)",
+   "Manga (C)"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se proporcionan en pulgadas.",
+  "rows": [
+   [
+    "XS",
+    "27.95",
+    "41.73",
+    "24.41"
+   ],
+   [
+    "S",
+    "28.74",
+    "43.31",
+    "25.00"
+   ],
+   [
+    "M",
+    "29.53",
+    "44.88",
+    "25.59"
+   ],
+   [
+    "L",
+    "30.31",
+    "47.24",
+    "26.18"
+   ],
+   [
+    "XL",
+    "31.10",
+    "49.61",
+    "26.77"
+   ],
+   [
+    "2XL",
+    "31.89",
+    "51.97",
+    "27.36"
+   ],
+   [
+    "3XL",
+    "32.68",
+    "54.33",
+    "27.95"
+   ],
+   [
+    "4XL",
+    "33.46",
+    "56.69",
+    "28.54"
+   ],
+   [
+    "5XL",
+    "34.25",
+    "59.06",
+    "29.13"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/3589/info/image/20240704/09539EBDCA7B6C103D03B767D29A4071.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

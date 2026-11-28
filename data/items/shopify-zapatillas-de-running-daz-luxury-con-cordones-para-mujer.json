@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "calzado-mujer/zapatillas"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "mesh and PVC",
+ "ai_type": "sneakers",
+ "ai_ver": 2,
+ "art_note": "Standard e-commerce mockups with digital print overlays detract from the luxury brand positioning.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,19 +19,16 @@
  "cg": "t-zapatillas-de-running-daz-luxury-con-cordones-para-mujer",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "Designed for fluid movement. These sneakers combine a contemporary silhouette with functional materials for daily wear. Crafted from mesh and PVC, they feature a seamless elastic upper that moves with your stride. The soft, breathable MD outsole ensures lightweight support. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Disenadas para el movimiento fluido. Estas zapatillas combinan una silueta contemporanea con materiales funcionales para el dia a dia. Confeccionadas con malla y PVC, incorporan una parte superior elastica sin costuras que acompanan el paso. La suela exterior de MD suave y transpirable asegura un soporte ligero. Cada par se confecciona bajo pedido con envios a todo el mundo.",
+ "details_en": "· Mesh and PVC upper\n· MD outsole\n· Seamless elastic upper\n· Laced closure\n· Hand wash or gentle machine wash, naturally air dry\n· Made to order with worldwide shipping",
+ "details_es": "· Parte superior de malla y PVC\n· Suela exterior de MD\n· Parte superior elastica sin costuras\n· Cierre con cordones\n· Lavar a mano o suavemente a maquina, secar naturalmente al aire\n· Hecho bajo pedido con envios a todo el mundo",
  "display_images": [
   "assets/products/shop/0ae36b3e69adeb5df2f5.jpg",
-  "assets/products/shop/bde863630b79dd155547.jpg",
-  "assets/products/shop/c505e996db9b1bf4b710.jpg",
   "assets/products/shop/521d03db708a51331261.jpg",
   "assets/products/shop/2da8fc6365686fdaf826.jpg",
   "assets/products/shop/d10d4d59fae2b2675cfd.jpg",
-  "assets/products/shop/1fbbbbd65fe4e56af807.jpg",
-  "assets/products/shop/4b793b98c16b5a6733fd.jpg",
-  "assets/products/shop/ce8c2cc3a0d3ca08d945.jpg",
-  "assets/products/shop/399e9f22c7cefe6c97a9.jpg"
+  "assets/products/shop/ce8c2cc3a0d3ca08d945.jpg"
  ],
  "draft": false,
  "fam": "zapatillas-running-luxury",
@@ -33,16 +42,70 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Zapatillas Running Daz Sneakers",
- "name_es": "Zapatillas Zapatillas Running Daz",
+ "name_en": "DAZ Luxury Sneakers",
+ "name_es": "Zapatillas DAZ Luxury",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 147.99,
  "rank": 2071,
  "shop_category": "Ropa y accesorios > Calzado > Zapatillas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "US",
+   "EU",
+   "Foot Length (cm)"
+  ],
+  "headers_es": [
+   "US",
+   "EU",
+   "Longitud de pie (cm)"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Por favor, permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "5.5",
+    "36",
+    "24.0"
+   ],
+   [
+    "6",
+    "37",
+    "24.7"
+   ],
+   [
+    "7",
+    "38",
+    "25.3"
+   ],
+   [
+    "8",
+    "39",
+    "26.0"
+   ],
+   [
+    "9",
+    "40",
+    "26.7"
+   ],
+   [
+    "10",
+    "41",
+    "27.3"
+   ],
+   [
+    "11",
+    "42",
+    "28.0"
+   ]
+  ],
+  "unit": "cm"
+ },
+ "size_guide": [
+  "assets/products/shop/399e9f22c7cefe6c97a9.jpg"
+ ],
  "sizes": [
   "Women US5.5 (EU36)",
   "Women US6 (EU37)",

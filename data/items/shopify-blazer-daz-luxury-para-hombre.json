@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% poliéster",
+ "ai_type": "Blazer",
+ "ai_ver": 2,
+ "art_note": "Strong campaign imagery with sophisticated lighting, complemented by flat product shots and a clear size guide.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,16 @@
  "cg": "t-blazer-daz-luxury-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A tailored garment defined by architectural precision. Crafted for the modern wardrobe. Regular fit silhouette featuring a flat lapel collar. Subtle tonal detailing throughout the fabric introduces visual depth. Designed to transition effortlessly between formal occasions and evening events. Each piece is crafted to order to ensure exclusivity. Worldwide shipping available.",
+ "desc_es": "Una prenda de sastrería definida por su precisión arquitectónica. Confeccionada para el guardarropa moderno. Silueta de corte regular con cuello de solapa plana. Detalle sutil en todo el tejido que aporta profundidad visual. Diseñada para transicionar con facilidad entre ocasiones formales y eventos nocturnos. Cada pieza se confecciona bajo demanda para garantizar exclusividad. Envío mundial disponible.",
+ "details_en": "· 100% polyester\n· Regular fit\n· Flat lapel collar\n· Long sleeves\n· Two front pockets\n· Gentle care: hand or machine wash\n· Made to order",
+ "details_es": "· 100 % poliéster\n· Corte regular\n· Cuello de solapa plana\n· Manga larga\n· Dos bolsillos frontales\n· Cuidado suave: lavable a mano o a máquina\n· Fabricado bajo demanda",
  "display_images": [
   "assets/products/shop/ef6ab05cd7caeab81a22.jpg",
   "assets/products/shop/0ccd7d53c031dd1b6291.jpg",
   "assets/products/shop/1cd9a2654d73ce90a4eb.jpg",
   "assets/products/shop/cb589e1fd4e2c994df32.jpg",
-  "assets/products/shop/80f788b27be625c826de.jpg",
-  "assets/products/shop/8f70a176ecf69c1c1376.jpg",
-  "http://ipimg.interestprint.com/data/product/3589/info/image/20240704/09539EBDCA7B6C103D03B767D29A4071.jpg"
+  "assets/products/shop/80f788b27be625c826de.jpg"
  ],
  "draft": false,
  "fam": "blazer-luxury-hombre",
@@ -33,6 +45,7 @@
  "name_en": "DAZ Luxury Printed Blazer",
  "name_es": "Blazer Estampado de Lujo DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 46.99,
  "rank": 1871,
@@ -40,8 +53,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos > Chaquetas deportivas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A) Inches",
+   "CHEST WIDTH(B) Inches",
+   "SLEEVE(C) Inches"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A) Pulgadas",
+   "ANCHO DE PECHO(B) Pulgadas",
+   "MANGA(C) Pulgadas"
+  ],
+  "notes_en": "Made to order. Worldwide shipping.",
+  "notes_es": "Fabricado bajo demanda. Envío mundial.",
+  "rows": [
+   [
+    "XS",
+    "27.95",
+    "41.73",
+    "24.41"
+   ],
+   [
+    "S",
+    "28.74",
+    "43.31",
+    "25.00"
+   ],
+   [
+    "M",
+    "29.53",
+    "44.88",
+    "25.59"
+   ],
+   [
+    "L",
+    "30.31",
+    "47.24",
+    "26.18"
+   ],
+   [
+    "XL",
+    "31.10",
+    "49.61",
+    "26.77"
+   ],
+   [
+    "2XL",
+    "31.89",
+    "51.97",
+    "27.36"
+   ],
+   [
+    "3XL",
+    "32.68",
+    "54.33",
+    "27.95"
+   ],
+   [
+    "4XL",
+    "33.46",
+    "56.69",
+    "28.54"
+   ],
+   [
+    "5XL",
+    "34.25",
+    "59.06",
+    "29.13"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/3589/info/image/20240704/09539EBDCA7B6C103D03B767D29A4071.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "Yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% polyester",
+ "ai_type": "Blazer",
+ "ai_ver": 2,
+ "art_note": "High-end lifestyle photography with exceptional lighting and refined staging.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,17 @@
  "cg": "t-blazer-daz-luxury-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Crafted from soft polyester, this regular fit blazer presents a structured design featuring a flat lapel collar and long sleeves. It incorporates two functional pockets. A versatile piece tailored for formal settings, office wear, or special events. Designed to offer comfort without compromising a refined aesthetic. Available made-to-order with worldwide shipping.",
+ "desc_es": "Confeccionado en poliéster suave, este blazer de corte regular presenta un diseño estructurado con cuello de solapa plana y manga larga. Incorpora dos bolsillos funcionales. Una pieza versátil pensada para ocasiones formales, de oficina o eventos especiales. Diseñado para ofrecer comodidad sin renunciar a una estética depurada. Disponible bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 100% polyester\n· Regular fit\n· Flat lapel collar and long sleeves\n· Two front pockets\n· Hand or machine washable following care instructions\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100 % poliéster\n· Corte regular\n· Cuello de solapa plana y manga larga\n· Dos bolsillos frontales\n· Lavado a mano o a máquina siguiendo las instrucciones de cuidado\n· Hecho a medida bajo demanda\n· Envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/4ef495effb02d3936318.jpg",
   "assets/products/shop/7fb694a0dfab98816daa.jpg",
   "assets/products/shop/bbf9deb848c634027ece.jpg",
   "assets/products/shop/ce229927ab6c923aa4b4.jpg",
   "assets/products/shop/639a1d4628818df210bf.jpg",
-  "assets/products/shop/069642b16ba1a1a95357.jpg",
-  "http://ipimg.interestprint.com/data/product/3589/info/image/20240704/09539EBDCA7B6C103D03B767D29A4071.jpg"
+  "assets/products/shop/069642b16ba1a1a95357.jpg"
  ],
  "draft": false,
  "fam": "blazer-luxury-hombre",
@@ -33,6 +46,7 @@
  "name_en": "DAZ Luxury Printed Blazer",
  "name_es": "Blazer Estampado de Lujo DAZ",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 46.99,
  "rank": 1949,
@@ -40,8 +54,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos > Chaquetas deportivas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)",
+   "SLEEVE(C)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD (A)",
+   "ANCHO DE PECHO (B)",
+   "MANGA (C)"
+  ],
+  "notes_en": "Measurements are in inches. Calculate your size using the table above.",
+  "notes_es": "Las medidas están en pulgadas. Calcula tu talla con la tabla anterior.",
+  "rows": [
+   [
+    "XS",
+    "27.95",
+    "41.73",
+    "24.41"
+   ],
+   [
+    "S",
+    "28.74",
+    "43.31",
+    "25.00"
+   ],
+   [
+    "M",
+    "29.53",
+    "44.88",
+    "25.59"
+   ],
+   [
+    "L",
+    "30.31",
+    "47.24",
+    "26.18"
+   ],
+   [
+    "XL",
+    "31.10",
+    "49.61",
+    "26.77"
+   ],
+   [
+    "2XL",
+    "31.89",
+    "51.97",
+    "27.36"
+   ],
+   [
+    "3XL",
+    "32.68",
+    "54.33",
+    "27.95"
+   ],
+   [
+    "4XL",
+    "33.46",
+    "56.69",
+    "28.54"
+   ],
+   [
+    "5XL",
+    "34.25",
+    "59.06",
+    "29.13"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/3589/info/image/20240704/09539EBDCA7B6C103D03B767D29A4071.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

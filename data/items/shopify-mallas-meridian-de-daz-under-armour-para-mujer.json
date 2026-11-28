@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "72% nailon, 28% elastano",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "Flat-lay style product presentation lacks the elevated lighting and atmosphere of a luxury e-commerce standard.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-mallas-meridian-de-daz-under-armour-para-mujer",
  "color": "black",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Líneas limpias, presencia rotunda. Una creación de la casa DAZMOND & Co., diseñada para acompañarte del día a la noche.",
+ "desc_en": "The definitive silhouette for movement in elegance. These leggings unite refined design with exceptional functionality. Crafted from four-way stretch material that adapts precisely to the body. The high waist offers impeccable support. Two side pockets provide discreet utility. Each piece is processed in the US made to order. Available with worldwide shipping.",
+ "desc_es": "La silueta definitiva para la elegancia en movimiento. Estas mallas combinan un diseño depurado con una funcionalidad excepcional. Confeccionadas con un material elástico en cuatro direcciones que se adapta con precisión a la forma del cuerpo. La cintura alta ofrece una sujeción impecable. Los dos bolsillos laterales aportan una utilidad discreta. Cada pieza se procesa en los Estados Unidos bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· 72% nylon, 28% elastane\n· Four-way stretch material\n· High waist with additional support\n· Two side pockets\n· 29\" inseam\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 72 % nailon, 28 % elastano\n· Material elástico en 4 direcciones\n· Cintura alta con soporte adicional\n· Dos bolsillos laterales\n· Tiro interior de 29\"\n· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/078486f9226ea7a5c7fb.jpg"
  ],
@@ -24,9 +38,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Mallas Meridian Daz Tights · Black",
- "name_es": "Mallas Mallas Meridian Daz · Negro",
+ "name_en": "Black Meridian Leggings",
+ "name_es": "Mallas Meridian Negras",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 84.99,
  "rank": 1907,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/albornoz-pijama"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% polyester",
+ "ai_type": "Blanket Hoodie",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery elevates the loungewear concept, though studio packshots remain basic.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,17 @@
  "cg": "t-bata-manta-daz-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "Redefine indoor lounging with this private sanctuary silhouette. Crafted from high-quality polyester fleece, it offers an exceptionally soft touch and enveloping warmth. The unisex design features wide sleeves with ribbed cuffs and a practical kangaroo pocket. The all-over print provides a distinctive graphic accent. Made to order to ensure absolute exclusivity.",
+ "desc_es": "Redefina el descanso en el hogar con esta silueta envolvente de inspiración privada. Confeccionada en forro polar de poliéster de alta calidad, ofrece un tacto excepcionalmente suave y una calidez envolvente. El diseño unisex presenta mangas amplias con puños acanalados y un práctico bolsillo tipo canguro. El estampado integral aporta un acento gráfico distintivo. Fabricado bajo demanda para garantizar una exclusividad absoluta.",
+ "details_en": "· 100% polyester\n· Unisex design\n· Wide sleeves with ribbed cuffs\n· Kangaroo pocket\n· Machine or hand wash cold, line dry\n· Made in USA\n· This product is made especially for you as soon as you place an order",
+ "details_es": "· 100% poliéster\n· Diseño unisex\n· Mangas amplias con puños acanalados\n· Bolsillo tipo canguro\n· Lavar a máquina o a mano con agua fría, secar colgado\n· Hecho en EE. UU.\n· Este producto está hecho especialmente para usted tan pronto como realiza un pedido",
  "display_images": [
   "assets/products/shop/f1a93d074fb5d56a3562.jpg",
   "assets/products/shop/60e0251a7309f5f3fcf1.jpg",
   "assets/products/shop/06e15a333ec090b8c886.jpg",
   "assets/products/shop/103e71bf87b0f504ccb6.jpg",
   "assets/products/shop/af9112b65a4e6ebf6f7d.jpg",
-  "assets/products/shop/d70aa0146d68c84022cc.jpg",
-  "http://ipimg.interestprint.com/data/product/3727/info/image/20240801/36C90502257C07D9BED5BE6225276C7A.png"
+  "assets/products/shop/d70aa0146d68c84022cc.jpg"
  ],
  "draft": false,
  "fam": "bata-manta-hombre",
@@ -30,9 +43,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Bata Manta Daz Loungewear",
- "name_es": "Pijama Bata Manta Daz",
+ "name_en": "Diamond Blanket Hoodie",
+ "name_es": "Manta con capucha Diamond",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 59.99,
  "rank": 2016,
@@ -40,8 +54,36 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa para dormir y para estar en casa > Albornoces",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "ONE SIZE(XL)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "TALLA ÚNICA (XL)"
+  ],
+  "notes_en": "",
+  "notes_es": "",
+  "rows": [
+   [
+    "LENGTH(A) Inches",
+    "40.55"
+   ],
+   [
+    "CHEST(B) Inches",
+    "65.35"
+   ],
+   [
+    "SLEEVE(C) Inches",
+    "26.38"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/3727/info/image/20240801/36C90502257C07D9BED5BE6225276C7A.png"
+ ],
  "sizes": [
   "Talla única"
  ],

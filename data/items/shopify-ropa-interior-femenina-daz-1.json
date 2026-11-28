@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Crimson",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "97% Polyester, 3% Spandex",
+ "ai_type": "Underwear",
+ "ai_ver": 2,
+ "art_note": "The product shots are clean studio flats, but the model images feature flat, composited prints that detract from the luxury aesthetic.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-dazmond-crimson-brushed-glow-ropa-interior-femenina",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An intimate piece designed with a strong visual character. It features a linear gradient transitioning from crimson red to dark tones. The silhouette is defined by a soft elastic waistband ensuring the fit. The signature monogram adorns the front side.",
+ "desc_es": "Una pieza íntima diseñada con un carácter visual fuerte. Presenta un degradado lineal que transita desde un rojo carmesí hasta tonalidades oscuras. La silueta se define con una cinturilla elástica suave que asegura el ajuste. El monograma distintivo adorna el lateral frontal.",
+ "details_en": "· 97% polyester, 3% spandex\n· Regular fit with elastic waistband\n· Made to order",
+ "details_es": "· 97% poliéster, 3% spandex\n· Ajuste regular con cinturilla elástica\n· Hecho bajo demanda",
  "display_images": [
-  "assets/products/shop/39ab436d9c3120a9d6a3.jpg",
   "assets/products/shop/9c798f8e1975cb6dba80.jpg",
-  "assets/products/shop/9e95c49988a79f0bd706.jpg",
-  "assets/products/shop/572e5505749a51b2b2da.jpg",
-  "assets/products/shop/33adb7940ef5698ab362.jpg"
+  "assets/products/shop/9e95c49988a79f0bd706.jpg"
  ],
  "draft": false,
  "fam": "crimson-brushed-glow",
@@ -29,8 +40,9 @@
  ],
  "material": "",
  "name_en": "Crimson Brushed Glow Underwear",
- "name_es": "Ropa Interior Crimson Brushed Glow",
+ "name_es": "Braguita Crimson Brushed Glow",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 31.99,
  "rank": 1917,

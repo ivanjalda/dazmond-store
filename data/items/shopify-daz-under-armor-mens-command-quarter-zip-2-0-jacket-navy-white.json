@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "navy/white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% poliéster",
+ "ai_type": "Quarter Zip Pullover",
+ "ai_ver": 2,
+ "art_note": "Clean studio ghost-mannequin product shots with accurate lighting, though lacking a lifestyle campaign context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +19,11 @@
  "cg": "t-chaqueta-daz-under-armour-con-cremallera-para-hombre",
  "color": "navy/white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential garment engineered for fluid movement and daily comfort. This quarter-zip design features advanced moisture-wicking technical fabric with exceptional lightness. Refined details and a functional cut redefine casual elegance. Each piece is made to order and shipped worldwide.",
+ "desc_es": "Una prenda esencial diseñada para el movimiento fluido y la comodidad diaria. Este diseño de cuartos de cremallera presenta un tejido técnico avanzado que absorbe la humedad con una ligereza excepcional. Los detalles depurados y el corte funcional redefinen la elegancia casual. Cada pieza se elabora bajo pedido y se envía a todo el mundo.",
+ "details_en": "· 100% polyester\n· Fabric weight: 7.41 oz (medium weight)\n· Stretch French Terry fabric\n· Quick-drying material\n· Front kangaroo pocket\n· Ribbed cuffs and bottom hem\n· Processed and printed in the USA",
+ "details_es": "· 100 % poliéster\n· Peso de la tela: 7,41 oz (peso medio)\n· Tejido French Terry elástico\n· Material de secado rápido\n· Bolsillo tipo canguro frontal\n· Puños y dobladillo inferior con ribete\n· Procesado e impreso en EE. UU.",
  "display_images": [
-  "assets/products/shop/8076095aec24037d517f.jpg",
-  "assets/products/shop/8076095aec24037d517f.jpg",
-  "assets/products/shop/8076095aec24037d517f.jpg",
-  "assets/products/shop/8076095aec24037d517f.jpg",
   "assets/products/shop/8076095aec24037d517f.jpg",
   "assets/products/shop/1d828ca4921228976c72.jpg",
   "assets/products/shop/a0ebf576ecb0ba4c2cfa.jpg"
@@ -30,9 +40,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Daz Under Armour Sweatshirt · Navy/White",
- "name_es": "Sudadera Daz Under Armour · Navy/White",
+ "name_en": "Quarter Zip Pullover · Navy/White",
+ "name_es": "Sudadera Con Cremallera Cuarto · Navy/White",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 81.99,
  "rank": 2012,

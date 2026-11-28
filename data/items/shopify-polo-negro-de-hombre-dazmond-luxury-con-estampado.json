@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/polos"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "50% combed cotton, 50% polyester",
+ "ai_type": "polo",
+ "ai_ver": 2,
+ "art_note": "Sophisticated lifestyle imagery and clean studio lighting elevate the collection.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,16 @@
  "cg": "t-polo-de-hombre-dazmond-luxury-con-estampado",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "Clean lines, commanding presence. A DAZMOND & Co. house creation, designed to take you from day to night.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A refined and contemporary silhouette tailored for the modern wardrobe. This polo merges impeccable structure with exceptional comfort through its premium textile blend. The design features a structured collar and a buttoned placket that define a sophisticated profile for any occasion. Each piece is crafted to order in the United States to ensure exclusivity and an immaculate finish. Available with worldwide shipping.",
+ "desc_es": "Silueta depurada y contemporánea confeccionada para el guardarropa moderno. Este polo combina una estructura impecable con una comodidad excepcional gracias a su mezcla textil de alta calidad. El diseño presenta un cuello estructurado y una tapeta abotonada que definen un perfil sofisticado para cualquier ocasión. Cada pieza se confecciona bajo pedido en Estados Unidos para garantizar exclusividad y un acabado impecable. Disponible con envíos a todo el mundo.",
+ "details_en": "· Crafted from 50% combed cotton and 50% polyester\n· Slim fit\n· Placket with tonal buttons\n· Hand or machine wash with cold water\n· Made to order and available with worldwide shipping",
+ "details_es": "· Confeccionado en 50% algodón peinado y 50% poliéster\n· Corte entallado\n· Tapeta con botones a juego\n· Lavado a mano o a máquina con agua fría\n· Fabricado bajo pedido y disponible con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/08cac2885e26d4b36ca2.jpg",
   "assets/products/shop/1aef352a226b25d72b84.jpg",
   "assets/products/shop/586f2aac0b6c9610893c.jpg",
   "assets/products/shop/a36c39e278a1b3e0941f.jpg",
-  "assets/products/shop/9db885e5b85906aaf7b4.jpg",
-  "assets/products/shop/df2ab0412c554ff8b28d.jpg"
+  "assets/products/shop/9db885e5b85906aaf7b4.jpg"
  ],
  "draft": false,
  "fam": "polo-negro-hombre",
@@ -28,9 +41,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Estampado Polo",
- "name_es": "Polo Estampado",
+ "name_en": "Limited Edition Printed Polo",
+ "name_es": "Polo Estampado Edición Limitada",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 36.99,
  "rank": 2013,
@@ -38,8 +52,51 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Polos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Chest"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Pecho"
+  ],
+  "notes_en": "Please allow 1-3cm difference due to manual measurement.",
+  "notes_es": "Permita una diferencia de 1-3 cm debido a la medición manual.",
+  "rows": [
+   [
+    "S",
+    "71.9cm(28.3\")",
+    "45.7cm(18\")"
+   ],
+   [
+    "M",
+    "74.4cm(29.3\")",
+    "50.8cm(20\")"
+   ],
+   [
+    "L",
+    "77.0cm(30.3\")",
+    "55.9cm(22\")"
+   ],
+   [
+    "XL",
+    "79.5cm(31.3\")",
+    "61.0cm(24\")"
+   ],
+   [
+    "2XL",
+    "82.0cm(32.3\")",
+    "66.0cm(26\")"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
+ "size_guide": [
+  "assets/products/shop/df2ab0412c554ff8b28d.jpg"
+ ],
  "sizes": [
   "S",
   "M",

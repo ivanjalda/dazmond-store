@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-taza-de-cafe-daz-luxury-oz",
- "color": "",
+ "color": "black",
  "created": "2026-11-19",
  "desc_en": "Elevate your daily rituals with this deep black ceramic mug. Its streamlined silhouette and matte finish convey a sober, modern elegance. Designed to maintain the temperature of your beverages with absolute precision. Each piece is made to order to ensure absolute exclusivity. A functional object transformed into a statement of refined style. Available with worldwide shipping.",
  "desc_es": "Eleve sus rituales diarios con esta taza de cerámica en tono negro intenso. Su silueta depurada y su acabado mate transmiten una elegancia sobria y moderna. Diseñada para mantener la temperatura de sus bebidas con absoluta precisión. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Un objeto funcional convertido en una declaración de estilo refinado. Disponible con envío a todo el mundo.",
@@ -31,13 +31,14 @@
  ],
  "draft": false,
  "fam": "taza-cafe-negra",
+ "gender": "unisex",
  "hidden": false,
  "id": "shopify-taza-de-cafe-negra-daz-luxury-11-oz",
  "img_checked": "2026-11-21",
  "look": [
   "printify-6b0a23625345eefc050c9328"
  ],
- "material": "",
+ "material": "ceramic",
  "name_en": "DAZ Luxury Black Mug",
  "name_es": "Taza DAZ Luxury Negra",
  "needs_review": false,

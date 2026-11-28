@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas"
+ ],
+ "ai_color": "black/white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% poliéster",
+ "ai_type": "Quarter Zip Pullover",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on neutral background, standard e-commerce presentation without editorial styling.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +19,11 @@
  "cg": "t-chaqueta-daz-under-armour-con-cremallera-para-hombre",
  "color": "black/white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An essential garment engineered for refined movement. Crafted from high-performance technical fabric delivering lightweight comfort and superior stretch. The design features a quarter-zip mock neck and a practical front kangaroo pocket. Finished with ribbed cuffs and hem for a precise fit. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Una prenda esencial diseñada para el movimiento refinado. Confeccionada con tejido técnico de alto rendimiento que proporciona ligereza y elasticidad superior. El diseño incorpora un cuello alto con cremallera y un práctico bolsillo frontal tipo canguro. Los acabados acbados en los puños y el dobladillo aseguran un ajuste impecable. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 100% polyester\n· Medium-weight French Terry fabric (7.41 oz)\n· Moisture-wicking and fast-drying material\n· Quarter-zip mock neck\n· Front kangaroo pocket\n· Ribbed cuffs and lower hem\n· Made to order and worldwide shipping",
+ "details_es": "· 100 % poliéster\n· Tejido French Terry de peso medio (7,41 oz)\n· Material de secado rápido con absorción de humedad\n· Cuello alto con cremallera\n· Bolsillo tipo canguro frontal\n· Puños y dobladillo inferior acanalados\n· Confección bajo pedido y envíos mundiales",
  "display_images": [
-  "assets/products/shop/a0ebf576ecb0ba4c2cfa.jpg",
-  "assets/products/shop/a0ebf576ecb0ba4c2cfa.jpg",
-  "assets/products/shop/a0ebf576ecb0ba4c2cfa.jpg",
-  "assets/products/shop/a0ebf576ecb0ba4c2cfa.jpg",
   "assets/products/shop/a0ebf576ecb0ba4c2cfa.jpg",
   "assets/products/shop/1d828ca4921228976c72.jpg",
   "assets/products/shop/8076095aec24037d517f.jpg"
@@ -30,9 +40,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Daz Under Armour Sweatshirt · Black/White",
- "name_es": "Sudadera Daz Under Armour · Black/White",
+ "name_en": "Quarter Zip Pullover · Black/White",
+ "name_es": "Sudadera Con Cremallera Cuarto · Black/White",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 81.99,
  "rank": 2010,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Electric Orchid",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "97% Polyester, 3% Spandex",
+ "ai_type": "Underwear",
+ "ai_ver": 2,
+ "art_note": "Clean studio and model shots with good lighting, fitting the minimalist aesthetic well.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dazmond-electric-orchid-ropa-interior-femenina",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Una pieza pensada para quien no sigue tendencias: las crea. Confeccionada bajo demanda, con un acabado impecable y una silueta que habla por sí sola.",
+ "desc_en": "An intimate piece where color dynamism meets modern design. Crafted in a vibrant neon orchid tone with a soft upper gradient providing visual depth. Designed with a flattering regular cut complemented by a contrasting black plush elastic waistband and the signature monogram on the front. Engineered to deliver absolute comfort and a refined silhouette under any garment. Made to order in limited units with worldwide shipping available.",
+ "desc_es": "Una pieza íntima donde el dinamismo del color y la modernidad se encuentran. Confeccionada con un tono orquídea neón brillante y un sutil degradado superior que aporta dimensión visual. Su diseño de corte regular se complementa con una cinturilla elástica de felpa en contraste negro y el monograma distintivo en el frente. Creada para ofrecer confort absoluto y una silueta depurada bajo cualquier prenda. Fabricada bajo demanda en unidades limitadas con envío disponible a todo el mundo.",
+ "details_en": "· 97% polyester, 3% spandex\n· Fabric weight: 180 g/m² (5.3 oz/yd²)\n· Four-way multidirectional stretch\n· Breathable and antimicrobial technical fabric\n· Contrasting black plush elastic waistband\n· Made-to-order production in the USA",
+ "details_es": "· 97% poliéster, 3% spandex\n· Peso de la tela: 180 g/m² (5,3 oz/yd²)\n· Elasticidad multidireccional en 4 vías\n· Tejido técnico transpirable y antimicrobiano\n· Cinturilla elástica de felpa en contraste negro\n· Confección bajo demanda en EE. UU.",
  "display_images": [
   "assets/products/shop/ebdb2065dd12cf080c76.jpg",
   "assets/products/shop/893f24a9ffb307720e52.jpg",
@@ -28,9 +42,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Electric Orchid Ropa Underwear",
- "name_es": "Ropa Interior Electric Orchid Ropa",
+ "name_en": "Electric Orchid Underwear",
+ "name_es": "Braguita Electric Orchid",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 31.99,
  "rank": 1918,

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% Cotton",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Standard flat studio shots lacking a model or high-end lighting atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,11 @@
  "cg": "t-camiseta-dazmond-pure-con-bolsillo-para-hombre",
  "color": "Rojo",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "The Signum pocket t-shirt redefines the codes of casual elegance. Crafted from ultra-soft ring-spun cotton, it features a heavyweight fabric delivering impeccable structure. The relaxed silhouette is accented with a chest pocket and precise finishes. Each piece is crafted strictly to order to ensure ultimate exclusivity. Available with worldwide shipping.",
+ "desc_es": "La camiseta con bolsillo Signum redefine los códigos de la elegancia casual. Confeccionada en algodón hilado en anillos de tacto ultra suave, presenta un tejido de peso pesado que ofrece una estructura impecable. Su diseño relajado incorpora un bolsillo en el pecho y acabados de precisión. Cada pieza se elabora exclusivamente bajo pedido para garantizar la máxima exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% ring-spun cotton\n· Unisex relaxed fit\n· Made to order",
+ "details_es": "· 100% algodón hilado en anillos\n· Calce relajado unisex\n· Hecho a medida",
  "display_images": [
-  "assets/products/shop/290fbe68ab9781c14b1a.jpg",
-  "assets/products/shop/290fbe68ab9781c14b1a.jpg",
-  "assets/products/shop/290fbe68ab9781c14b1a.jpg",
-  "assets/products/shop/290fbe68ab9781c14b1a.jpg",
-  "assets/products/shop/290fbe68ab9781c14b1a.jpg",
   "assets/products/shop/290fbe68ab9781c14b1a.jpg",
   "assets/products/shop/57c769abef7a9cfcf971.jpg",
   "assets/products/shop/646203761a575fac66ce.jpg",
@@ -37,9 +46,10 @@
   "printify-6b0a2360aec9e5ff69044e38-black"
  ],
  "material": "",
- "name_en": "Pure Bolsillo Tee · Rojo",
- "name_es": "Camiseta Pure Bolsillo · Rojo",
+ "name_en": "Signum Pocket T-Shirt · Rojo",
+ "name_es": "Camiseta Signum Pocket · Rojo",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 51.99,
  "rank": 1895,
@@ -47,7 +57,53 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Width",
+   "Length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho",
+   "Longitud"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se indican en pulgadas.",
+  "rows": [
+   [
+    "S",
+    "18.25",
+    "26.62"
+   ],
+   [
+    "M",
+    "20.25",
+    "28.00"
+   ],
+   [
+    "L",
+    "22.00",
+    "29.37"
+   ],
+   [
+    "XL",
+    "24.00",
+    "30.75"
+   ],
+   [
+    "2XL",
+    "26.00",
+    "31.62"
+   ],
+   [
+    "3XL",
+    "27.75",
+    "32.50"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "S",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Blush pink / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "97% Polyester, 3% Spandex",
+ "ai_type": "Underwear",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but the model imagery relies on standard flat-composited templates lacking true luxury campaign atmosphere.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-dazmond-blush-soft-glow-ropa-interior-femenina",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "An intimate piece conceived to offer sobriety, freshness, and visual subtlety. This design features a soft pastel pink tone with a subtle upper lighting gradient that brings fluidity to the silhouette. Its tailored regular cut is highlighted by the contrast of its soft plush elastic waistband and black binding, ensuring a snug yet comfortable fit. The front is detailed with the iconic DAZ monogram seal. Crafted on demand in limited units with worldwide shipping.",
+ "desc_es": "Una pieza íntima concebida para brindar sobriedad, frescura y sutileza visual. Este diseño presenta un tono rosa pastel con un degradado sutil de iluminación en la parte superior que aporta fluidez. Su corte regular estilizado resalta mediante el contraste de su cinturilla elástica de felpa y ribetes negros, garantizando un ajuste ceñido pero sumamente cómodo. En el frontal luce el icónico sello monograma DAZ. Elaborada bajo demanda en unidades limitadas con envío a todo el mundo.",
+ "details_en": "· Composition: 97% polyester, 3% spandex\n· Fabric weight: 180 g/m² (5.3 oz/yd²)\n· Properties: 4-way stretch, breathable and antimicrobial fabric\n· Fit: Regular fit with soft plush elastic waistband\n· Details: Contrast black binding and DAZ monogram seal\n· Made to order in the US with worldwide shipping",
+ "details_es": "· Composición: 97% poliéster, 3% spandex\n· Peso de la tela: 180 g/m² (5.3 oz/yd²)\n· Propiedades: Elasticidad en 4 direcciones, tejido transpirable y antimicrobiano\n· Ajuste: Corte regular con cinturilla elástica de felpa suave\n· Detalles: Ribetes negros en contraste y sello monograma DAZ\n· Confección bajo demanda en EE. UU. con envío mundial",
  "display_images": [
   "assets/products/shop/545f13ff5b04617128c4.jpg",
-  "assets/products/shop/8c4a57a889629505ecde.jpg",
-  "assets/products/shop/4dbb568ff264325e2322.jpg",
-  "assets/products/shop/e44c864ae116a2c27379.jpg",
-  "assets/products/shop/197613cb57bef53f35b9.jpg"
+  "assets/products/shop/8c4a57a889629505ecde.jpg"
  ],
  "draft": false,
  "fam": "blush-soft-glow",
@@ -28,9 +39,10 @@
   "printful-338164153"
  ],
  "material": "",
- "name_en": "Blush Glow Ropa Underwear",
- "name_es": "Ropa Interior Blush Glow Ropa",
+ "name_en": "Blush Soft Glow Brief",
+ "name_es": "Braguita Blush Soft Glow",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 31.99,
  "rank": 1919,

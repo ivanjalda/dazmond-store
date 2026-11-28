@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/americana-blazer"
+ ],
+ "ai_color": "White and Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% poliéster",
+ "ai_type": "Blazer",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style photography detracts from the luxury positioning.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,15 @@
  "cg": "t-blazer-daz-luxury-para-hombre",
  "color": "",
  "created": "2026-11-19",
- "desc_en": "For those who don't follow trends — they set them. Made to order, with an impeccable finish and a silhouette that speaks for itself.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "A sartorial silhouette defined by a striking musical motif. This blazer combines contemporary structure with a bold design. Crafted from soft fabric for absolute comfort. Features a regular cut, flat lapel, and functional front pockets. A versatile piece designed to transcend formal and everyday occasions. Available made to order to ensure exclusivity.",
+ "desc_es": "Una silueta sartorial definida por un llamativo motivo musical. Este blazer combina una estructura contemporánea con un diseño audaz. Confeccionado en tejido suave para un confort absoluto. Presenta un corte regular, solapa plana y bolsillos frontales funcionales. Una pieza versátil diseñada para trascender las ocasiones formales y cotidianas. Disponible bajo demanda para garantizar exclusividad.",
+ "details_en": "· 100% polyester\n· Regular fit\n· Flat lapel collar\n· Long sleeves\n· Two front pockets\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 100 % poliéster\n· Corte regular\n· Cuello de solapa plana\n· Manga larga\n· Dos bolsillos frontales\n· Hecho a medida bajo demanda\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/a4da94ae87eaf06befc4.jpg",
   "assets/products/shop/1b7eadb2aaf21aaa6ce2.jpg",
   "assets/products/shop/1a9ce9a814e525dc623f.jpg",
-  "assets/products/shop/46ba9da620151deb5dcf.jpg",
-  "http://ipimg.interestprint.com/data/product/3589/info/image/20240704/09539EBDCA7B6C103D03B767D29A4071.jpg"
+  "assets/products/shop/46ba9da620151deb5dcf.jpg"
  ],
  "draft": false,
  "fam": "blazer-luxury-hombre",
@@ -31,6 +44,7 @@
  "name_en": "DAZ Luxury Printed Blazer",
  "name_es": "Blazer Estampado de Lujo DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 46.99,
  "rank": 1908,
@@ -38,8 +52,82 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa de abrigo > Chaquetas y abrigos > Chaquetas deportivas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)",
+   "SLEEVE(C)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "ANCHO DE PECHO(B)",
+   "MANGA(C)"
+  ],
+  "notes_en": "Calculated with the measurement table below.",
+  "notes_es": "Calcula tu talla con la tabla de medidas a continuación.",
+  "rows": [
+   [
+    "XS",
+    "27.95",
+    "41.73",
+    "24.41"
+   ],
+   [
+    "S",
+    "28.74",
+    "43.31",
+    "25.00"
+   ],
+   [
+    "M",
+    "29.53",
+    "44.88",
+    "25.59"
+   ],
+   [
+    "L",
+    "30.31",
+    "47.24",
+    "26.18"
+   ],
+   [
+    "XL",
+    "31.10",
+    "49.61",
+    "26.77"
+   ],
+   [
+    "2XL",
+    "31.89",
+    "51.97",
+    "27.36"
+   ],
+   [
+    "3XL",
+    "32.68",
+    "54.33",
+    "27.95"
+   ],
+   [
+    "4XL",
+    "33.46",
+    "56.69",
+    "28.54"
+   ],
+   [
+    "5XL",
+    "34.25",
+    "59.06",
+    "29.13"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/3589/info/image/20240704/09539EBDCA7B6C103D03B767D29A4071.jpg"
+ ],
  "sizes": [
   "XS",
   "S",

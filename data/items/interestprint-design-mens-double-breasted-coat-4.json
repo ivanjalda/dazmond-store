@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/abrigo-chaqueta-sueter"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester",
+ "ai_type": "Coat",
+ "ai_ver": 2,
+ "art_note": "Product flat lays are acceptable, but composite model shots detract from luxury positioning.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +19,14 @@
  "cg": "t-abrigo-cruzado-dazmond-monarch-frost-para-hombre",
  "color": "white",
  "created": "2026-11-19",
- "desc_en": "Uncompromising American elegance. Each piece is produced only when you order it, so what you wear is as exclusive as you are.",
- "desc_es": "Elegancia americana sin concesiones. Cada unidad se produce solo cuando la pides, para que lo que vistas sea tan exclusivo como tú.",
+ "desc_en": "Impassive elegance beneath the urban cold. Project a serene and resolute presence without uttering a word. The knee-length double-breasted silhouette defines the figure, enhanced by the tactile contrast of the black shearling notch lapel. A design crafted to accompany you with composure through daily commutes, professional meetings, or winter escapes. Made to order with worldwide shipping available.",
+ "desc_es": "Elegancia impasible bajo el frío urbano. Transmita una presencia serena y firme sin pronunciar una palabra. Su silueta de doble botonadura hasta la rodilla define la figura, realzada por el contraste táctil de su solapa de muesca en borreguito negro. Un diseño pensado para acompañarle con compostura en trayectos diarios, reuniones de trabajo o escapadas de invierno. Hecho a pedido con envío mundial disponible.",
+ "details_en": "· 260 g/m² exterior polyester fabric with structured texture\n· Soft sherpa interior lining of 95% polyester and 5% elastane with thick padding\n· Double-breasted design\n· Contrast notch lapel\n· Two side pockets\n· Knee-length cut\n· Made-to-order piece with worldwide shipping",
+ "details_es": "· Tejido exterior de poliéster de 260 g/m² con textura estructurada\n· Forro interior de sherpa suave de 95% poliéster y 5% elastano con acolchado grueso\n· Diseño de doble botonadura\n· Solapa de muesca en contraste\n· Dos bolsillos laterales\n· Corte largo a la rodilla\n· Pieza hecha a pedido con envío mundial",
  "display_images": [
-  "assets/products/shop/5f5ed93d375a63e553d1.jpg",
   "assets/products/shop/7eaa40e45231231ed6c6.jpg",
   "assets/products/shop/b179d8886c38f296ddf5.jpg",
   "assets/products/shop/eea4bf63dda250381808.jpg",
-  "assets/products/shop/e204da7f8326c78161dc.jpg",
-  "assets/products/shop/e6235f6966939935b895.jpg",
   "assets/products/shop/fe99366b39edf2e619db.jpg"
  ],
  "draft": false,
@@ -29,9 +40,10 @@
   "printify-6b0a2366527d73062d024da8"
  ],
  "material": "",
- "name_en": "Abrigo Cruzado Monarch Jacket · White",
- "name_es": "Chaqueta Abrigo Cruzado Monarch · Blanco",
+ "name_en": "Monarch Frost Double Breasted Coat",
+ "name_es": "Abrigo Cruzado Monarch Frost",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
  "rank": 2009,
@@ -39,8 +51,124 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Bust",
+   "Hem",
+   "Shoulder",
+   "Sleeve length",
+   "Cuff"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Bajo",
+   "Hombro",
+   "Largo de manga",
+   "Puño"
+  ],
+  "notes_en": "This data was obtained from manually measuring the product, it may be off by 2-3 CM.",
+  "notes_es": "Esta información se obtuvo midiendo el producto manualmente, puede variar de 2 a 3 CM.",
+  "rows": [
+   [
+    "XS",
+    "33.86 / 86",
+    "43.31 / 110",
+    "46.46 / 118",
+    "18.31 / 46.5",
+    "24.33 / 61.8",
+    "9.69 / 24.6"
+   ],
+   [
+    "S",
+    "34.65 / 88",
+    "44.88 / 114",
+    "48.03 / 122",
+    "18.90 / 48",
+    "24.80 / 63",
+    "10.16 / 25.8"
+   ],
+   [
+    "M",
+    "35.43 / 90",
+    "46.46 / 118",
+    "49.61 / 126",
+    "19.49 / 49.5",
+    "25.28 / 64.2",
+    "10.63 / 27"
+   ],
+   [
+    "L",
+    "36.22 / 92",
+    "48.43 / 123",
+    "51.57 / 131",
+    "20.20 / 51.3",
+    "25.75 / 65.4",
+    "11.10 / 28.2"
+   ],
+   [
+    "XL",
+    "37.01 / 94",
+    "50.39 / 128",
+    "53.54 / 136",
+    "20.91 / 53.1",
+    "26.22 / 66.6",
+    "11.57 / 29.4"
+   ],
+   [
+    "XXL",
+    "37.80 / 96",
+    "52.36 / 133",
+    "55.51 / 141",
+    "21.61 / 54.9",
+    "26.69 / 67.8",
+    "12.05 / 30.6"
+   ],
+   [
+    "XXXL",
+    "38.58 / 98",
+    "54.33 / 138",
+    "57.48 / 146",
+    "22.32 / 56.7",
+    "27.17 / 69",
+    "12.52 / 31.8"
+   ],
+   [
+    "4XL",
+    "39.37 / 100",
+    "56.30 / 143",
+    "59.45 / 151",
+    "23.03 / 58.5",
+    "27.64 / 70.2",
+    "12.99 / 33"
+   ],
+   [
+    "5XL",
+    "40.16 / 102",
+    "58.27 / 148",
+    "61.42 / 156",
+    "23.74 / 60.3",
+    "28.11 / 71.4",
+    "13.46 / 34.2"
+   ],
+   [
+    "6XL",
+    "40.94 / 104",
+    "60.24 / 153",
+    "63.39 / 161",
+    "24.45 / 62.1",
+    "28.58 / 72.6",
+    "13.94 / 35.4"
+   ]
+  ],
+  "unit": "inch / cm"
+ },
+ "size_guide": [
+  "assets/products/shop/e6235f6966939935b895.jpg"
+ ],
  "sizes": [
   "XS",
   "S",
