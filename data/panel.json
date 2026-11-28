@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "891c8a9d330d7ced174a2a53929b4b26e365eca63e3fd0649e6c10ab07123735",
-  "updated": "2026-11-28 17:42 UTC",
+  "updated": "2026-11-28 18:42 UTC",
   "totals": {
     "catalogo": 2534,
-    "a_la_vista": 2316,
+    "a_la_vista": 2318,
     "disenos_a_la_vista": 916,
-    "ocultos": 218,
-    "ia_revisados": 2357,
-    "ia_pendientes": 113,
-    "con_boton_de_pago": 2316,
+    "ocultos": 216,
+    "ia_revisados": 2359,
+    "ia_pendientes": 111,
+    "con_boton_de_pago": 2318,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 9,
     "ventas_30_dias": 0,
@@ -20,7 +20,7 @@
     "Vigilante": 4,
     "Ya no está en el proveedor": 100,
     "No es un producto (venía de Shopify)": 1,
-    "Borrador": 113
+    "Borrador": 111
   },
   "suppliers": {
     "Printify": {
@@ -36,8 +36,8 @@
       "ocultos": 8
     },
     "InterestPrint": {
-      "visibles": 347,
-      "ocultos": 110
+      "visibles": 349,
+      "ocultos": 108
     }
   },
   "guard": [
@@ -556,24 +556,6 @@
       "c": "hombre/camiseta",
       "pr": 16.99,
       "why": "No es un producto (venía de Shopify)"
-    },
-    {
-      "id": "interestprint-design-womens-suspender-jumpsuit-10",
-      "n": "Mono con Tirantes Caution · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/478f22c4bc1e39b128e1.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-suspender-jumpsuit-11",
-      "n": "Mono con Tirantes Caution · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/f70b648a8237a8d1a398.jpg",
-      "c": "mujer/vestidos-monos-petos",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
     },
     {
       "id": "interestprint-design-womens-suspender-jumpsuit-12",
@@ -2348,15 +2330,15 @@
     "Printify: 83 piezas leídas",
     "Printful: 769 piezas (0 actualizadas ahora)",
     "⏱ lectura de proveedores: 14 s",
-    "Productos en catálogo: 2534 · a la vista: 2318 · archivados: 101",
+    "Productos en catálogo: 2534 · a la vista: 2320 · archivados: 101",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "Firebase: visitas leídas de 2166 piezas",
-    "⏱ ventas, visitas y cupones: 4 s",
+    "⏱ ventas, visitas y cupones: 3 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: límite gratuito agotado en todos los modelos; sigo en la próxima hora. (gemini-flash-latest: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For )",
-    "IA: 2 productos revisados (fotos, guía de tallas y textos) · quedan 338",
-    "⏱ revisión con IA: 207 s",
+    "IA: 2 productos revisados (fotos, guía de tallas y textos) · quedan 336",
+    "⏱ revisión con IA: 341 s",
     "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
